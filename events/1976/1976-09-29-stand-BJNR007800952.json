@@ -1,0 +1,31 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR007800952",
+      "changed_paths": [
+        "laws/BJNR007800952/meta.json",
+        "laws/BJNR007800952/paragraphs/0022a.md",
+        "laws/BJNR007800952/source.xml"
+      ],
+      "jurabk": "BJagdG",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 22a"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "a871ecbda52ba7cd895fb94e595120ac435b7f4087ccefb34080acb9d846a2f8",
+      "source_xml_sha256_before": "2c1554399a120eed34e770c848ee55c96de414afe301852c6872f033a6f129b3",
+      "stand_datum": "1976-09-29",
+      "title": "Bundesjagdgesetz"
+    }
+  ],
+  "effective_date": "1976-09-29",
+  "event_id": "1976-09-29-stand-BJNR007800952",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
