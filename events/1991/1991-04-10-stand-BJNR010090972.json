@@ -1,0 +1,64 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR010090972",
+      "changed_paths": [
+        "laws/BJNR010090972/meta.json",
+        "laws/BJNR010090972/paragraphs/0002a.md",
+        "laws/BJNR010090972/paragraphs/0006a.md",
+        "laws/BJNR010090972/paragraphs/0006b.md",
+        "laws/BJNR010090972/paragraphs/0006c.md",
+        "laws/BJNR010090972/paragraphs/0010.md",
+        "laws/BJNR010090972/paragraphs/0012a.md",
+        "laws/BJNR010090972/paragraphs/0012b.md",
+        "laws/BJNR010090972/paragraphs/0013.md",
+        "laws/BJNR010090972/paragraphs/0014b.md",
+        "laws/BJNR010090972/paragraphs/0017a.md",
+        "laws/BJNR010090972/paragraphs/0017b.md",
+        "laws/BJNR010090972/paragraphs/0017d.md",
+        "laws/BJNR010090972/paragraphs/0026.md",
+        "laws/BJNR010090972/paragraphs/0037.md",
+        "laws/BJNR010090972/paragraphs/0038.md",
+        "laws/BJNR010090972/paragraphs/0039.md",
+        "laws/BJNR010090972/paragraphs/0040.md",
+        "laws/BJNR010090972/source.xml",
+        "laws/BJNR010090972/toc.json"
+      ],
+      "jurabk": "KHG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10",
+        "§ 12a",
+        "§ 12b",
+        "§ 13",
+        "§ 14b",
+        "§ 17a",
+        "§ 17b",
+        "§ 17d",
+        "§ 26",
+        "§ 2a",
+        "§ 37",
+        "§ 38",
+        "§ 39",
+        "§ 40",
+        "§ 6a",
+        "§ 6b",
+        "§ 6c"
+      ],
+      "source_xml_sha256_after": "d85ae69e191d1136a73d7623d03a4fdba6207d6c3e52de73bad01682946c3a29",
+      "source_xml_sha256_before": "94b119b67c86ebe9379f0edeb72f242b2f82ca047305a3bba45d0a25984f5316",
+      "stand_datum": "1991-04-10",
+      "title": "Gesetz zur wirtschaftlichen Sicherung der Krankenhäuser und zur Regelung der Krankenhauspflegesätze"
+    }
+  ],
+  "effective_date": "1991-04-10",
+  "event_id": "1991-04-10-stand-BJNR010090972",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
