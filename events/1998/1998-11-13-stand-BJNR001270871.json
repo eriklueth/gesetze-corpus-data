@@ -1,0 +1,68 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR001270871",
+      "changed_paths": [
+        "laws/BJNR001270871/meta.json",
+        "laws/BJNR001270871/paragraphs/0005.md",
+        "laws/BJNR001270871/paragraphs/0006.md",
+        "laws/BJNR001270871/paragraphs/0076a.md",
+        "laws/BJNR001270871/paragraphs/0087a.md",
+        "laws/BJNR001270871/paragraphs/0089a.md",
+        "laws/BJNR001270871/paragraphs/0089b.md",
+        "laws/BJNR001270871/paragraphs/0089c.md",
+        "laws/BJNR001270871/paragraphs/0091.md",
+        "laws/BJNR001270871/paragraphs/0099.md",
+        "laws/BJNR001270871/paragraphs/0126.md",
+        "laws/BJNR001270871/paragraphs/0127.md",
+        "laws/BJNR001270871/paragraphs/0129a.md",
+        "laws/BJNR001270871/paragraphs/0138.md",
+        "laws/BJNR001270871/paragraphs/0308.md",
+        "laws/BJNR001270871/paragraphs/0310.md",
+        "laws/BJNR001270871/paragraphs/0313.md",
+        "laws/BJNR001270871/paragraphs/0314.md",
+        "laws/BJNR001270871/paragraphs/0314a.md",
+        "laws/BJNR001270871/paragraphs/0321.md",
+        "laws/BJNR001270871/source.xml",
+        "laws/BJNR001270871/toc.json"
+      ],
+      "jurabk": "StGB",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 126",
+        "§ 127",
+        "§ 129a",
+        "§ 138",
+        "§ 308",
+        "§ 310",
+        "§ 313",
+        "§ 314",
+        "§ 314a",
+        "§ 321",
+        "§ 5",
+        "§ 6",
+        "§ 76a",
+        "§ 87a",
+        "§ 89a",
+        "§ 89b",
+        "§ 89c",
+        "§ 91",
+        "§ 99"
+      ],
+      "source_xml_sha256_after": "c579e298af02c044eb77c0c574b8adb4b173d743b37e20964cfde19668fcff28",
+      "source_xml_sha256_before": "ed36031300c6951592f2c7b272a0de1e367749bef3b81fb5db7a90d41d8480d8",
+      "stand_datum": "1998-11-13",
+      "title": "Strafgesetzbuch"
+    }
+  ],
+  "effective_date": "1998-11-13",
+  "event_id": "1998-11-13-stand-BJNR001270871",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
