@@ -1,0 +1,58 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR002410961",
+      "changed_paths": [
+        "laws/BJNR002410961/meta.json",
+        "laws/BJNR002410961/paragraphs/0003b.md",
+        "laws/BJNR002410961/paragraphs/0003c.md",
+        "laws/BJNR002410961/paragraphs/0011.md",
+        "laws/BJNR002410961/paragraphs/0015.md",
+        "laws/BJNR002410961/paragraphs/0016.md",
+        "laws/BJNR002410961/paragraphs/0020.md",
+        "laws/BJNR002410961/paragraphs/0025a.md",
+        "laws/BJNR002410961/paragraphs/0029.md",
+        "laws/BJNR002410961/paragraphs/0052.md",
+        "laws/BJNR002410961/paragraphs/0053.md",
+        "laws/BJNR002410961/paragraphs/0054b.md",
+        "laws/BJNR002410961/paragraphs/0055.md",
+        "laws/BJNR002410961/paragraphs/0057.md",
+        "laws/BJNR002410961/paragraphs/0066.md",
+        "laws/BJNR002410961/source.xml",
+        "laws/BJNR002410961/toc.json"
+      ],
+      "jurabk": "PBefG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 11",
+        "§ 15",
+        "§ 16",
+        "§ 20",
+        "§ 25a",
+        "§ 29",
+        "§ 3b",
+        "§ 3c",
+        "§ 52",
+        "§ 53",
+        "§ 54b",
+        "§ 55",
+        "§ 57",
+        "§ 66"
+      ],
+      "source_xml_sha256_after": "cf9dfe12bca692b3baa3f308fc5206bd20d310f5899b406b26de2bbba1d5482b",
+      "source_xml_sha256_before": "c32714007ade47a752cb9ffb9ee814b51a8f56011add38fdac718f9e98a7ce3b",
+      "stand_datum": "1990-08-08",
+      "title": "Personenbeförderungsgesetz"
+    }
+  ],
+  "effective_date": "1990-08-08",
+  "event_id": "1990-08-08-stand-BJNR002410961",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
