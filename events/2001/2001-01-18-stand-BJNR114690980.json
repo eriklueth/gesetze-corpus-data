@@ -1,0 +1,31 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR114690980",
+      "changed_paths": [
+        "laws/BJNR114690980/meta.json",
+        "laws/BJNR114690980/paragraphs/0071.md",
+        "laws/BJNR114690980/source.xml"
+      ],
+      "jurabk": "SGB 10",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 71"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "55a3215bff05dc8c6d734914084fba6089e884c8f926178fd10855891a9c9587",
+      "source_xml_sha256_before": "b29d8c72635f525a97227eef7336ed5e675ec727a3dd018e182b0e6c126e1073",
+      "stand_datum": "2001-01-18",
+      "title": "Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz -"
+    }
+  ],
+  "effective_date": "2001-01-18",
+  "event_id": "2001-01-18-stand-BJNR114690980",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
