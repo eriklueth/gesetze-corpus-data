@@ -10,7 +10,7 @@
     "paragraph": 213
   },
   "source_hashes": {
-    "source_xml_sha256": "ecd5fa81af5d55a344e25f380bef05aac371818d9c36e41a863d2e1159efb25e"
+    "source_xml_sha256": "7b9c2d84bdf139ca50e8ca00efd48b4659a6fa4e3e39c863682575c4d6462157"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/vwgo/",
@@ -40,6 +40,10 @@
     },
     {
       "kommentar": "Änderung durch Art. 3 G v. 29.3.2026 I Nr. 84 ist berücksichtigt",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 12a G v. 23.4.2026 I Nr. 111 ist berücksichtigt",
       "typ": "Hinweis"
     },
     {

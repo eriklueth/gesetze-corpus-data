@@ -1,0 +1,31 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR000170960",
+      "changed_paths": [
+        "laws/BJNR000170960/meta.json",
+        "laws/BJNR000170960/paragraphs/0052.md",
+        "laws/BJNR000170960/source.xml"
+      ],
+      "jurabk": "VwGO",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 52"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "7b9c2d84bdf139ca50e8ca00efd48b4659a6fa4e3e39c863682575c4d6462157",
+      "source_xml_sha256_before": "ecd5fa81af5d55a344e25f380bef05aac371818d9c36e41a863d2e1159efb25e",
+      "stand_datum": "1991-03-19",
+      "title": "Verwaltungsgerichtsordnung"
+    }
+  ],
+  "effective_date": "1991-03-19",
+  "event_id": "1991-03-19-stand-BJNR000170960",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
