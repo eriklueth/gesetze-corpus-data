@@ -1,0 +1,34 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR006970960",
+      "changed_paths": [
+        "laws/BJNR006970960/meta.json",
+        "laws/BJNR006970960/paragraphs/0011a.md",
+        "laws/BJNR006970960/paragraphs/0028a.md",
+        "laws/BJNR006970960/source.xml",
+        "laws/BJNR006970960/toc.json"
+      ],
+      "jurabk": "ApoG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 11a",
+        "§ 28a"
+      ],
+      "source_xml_sha256_after": "34d518346e77745e013e6bf18fc9a59072cd22fddf423b5cbb02ab81375998ca",
+      "source_xml_sha256_before": "a99fe60428134a161421abfa5b5ddf118e2c2a018815243807eb8afba18d0e59",
+      "stand_datum": "1980-10-15",
+      "title": "Gesetz über das Apothekenwesen"
+    }
+  ],
+  "effective_date": "1980-10-15",
+  "event_id": "1980-10-15-stand-BJNR006970960",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
