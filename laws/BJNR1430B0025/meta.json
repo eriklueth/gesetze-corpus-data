@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-12-10",
+  "bjnr": "BJNR1430B0025",
+  "eli": null,
+  "gii_slug": "luftvodv_214_2026",
+  "jurabk": "LuftVODV 214 2026",
+  "schema_version": "v2",
+  "section_counts": {},
+  "source_hashes": {
+    "source_xml_sha256": "b4ff8b5bf7000138661bb2c7e6379641db8cf2132e4ad51d6c2429ca2577722b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_214_2026/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_214_2026/xml.zip"
+  },
+  "stand_datum": "2003-03-31",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 96-1-2-214 v. 31.3.2003 BAnz 2003, Nr 79, 8997 (LuftVODV 214)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Zweihundertvierzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Niederrhein)",
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
+}

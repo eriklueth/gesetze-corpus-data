@@ -1,0 +1,29 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR1430B0025",
+      "changed_paths": [
+        "laws/BJNR1430B0025/meta.json",
+        "laws/BJNR1430B0025/source.xml",
+        "laws/BJNR1430B0025/toc.json"
+      ],
+      "jurabk": "LuftVODV 214 2026",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "b4ff8b5bf7000138661bb2c7e6379641db8cf2132e4ad51d6c2429ca2577722b",
+      "source_xml_sha256_before": null,
+      "stand_datum": "2003-03-31",
+      "title": "Zweihundertvierzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Niederrhein)"
+    }
+  ],
+  "effective_date": "2003-03-31",
+  "event_id": "2003-03-31-stand-BJNR1430B0025",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
