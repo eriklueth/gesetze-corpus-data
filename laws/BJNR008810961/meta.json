@@ -4,11 +4,11 @@
   "bjnr": "BJNR008810961",
   "eli": null,
   "gii_slug": "kredwg",
-  "ingested_at": "2026-04-17T15:24:02Z",
+  "ingested_at": "2026-04-18T14:11:38Z",
   "jurabk": "KredWG",
   "schema_version": "v1",
   "source_hashes": {
-    "source_xml_sha256": "9cb69322c06dfef3c44601104f85dbf3f0887692995bbe9f5b47eed5f0ee0d73"
+    "source_xml_sha256": "f8f58bfa61e0fd3e277d3b480fd1ff3d7d16e2638d711c6e738a4cee3b22cc36"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/kredwg/",
@@ -33,11 +33,11 @@
       "typ": "Hinweis"
     },
     {
-      "kommentar": "Änderung durch Art. 6 G v. 9.4.2026 I Nr. 97 mWv 16.4.2026 noch nicht berücksichtigt",
+      "kommentar": "Änderung durch Art. 6 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
       "typ": "Hinweis"
     },
     {
-      "kommentar": "Änderung durch Art. 7 G v. 9.4.2026 I Nr. 97 mWv 15.4.2026 bzw. 25.6.2026 noch nicht berücksichtigt",
+      "kommentar": "Änderung durch Art. 7 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
       "typ": "Hinweis"
     }
   ],

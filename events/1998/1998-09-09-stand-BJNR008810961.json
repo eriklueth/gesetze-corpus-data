@@ -1,0 +1,26 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR008810961",
+      "changed_paths": [
+        "laws/BJNR008810961/meta.json",
+        "laws/BJNR008810961/paragraphs/0002.md",
+        "laws/BJNR008810961/source.xml"
+      ],
+      "jurabk": "KredWG",
+      "source_xml_sha256_after": "f8f58bfa61e0fd3e277d3b480fd1ff3d7d16e2638d711c6e738a4cee3b22cc36",
+      "source_xml_sha256_before": "9cb69322c06dfef3c44601104f85dbf3f0887692995bbe9f5b47eed5f0ee0d73",
+      "stand_datum": "1998-09-09",
+      "title": "Gesetz über das Kreditwesen"
+    }
+  ],
+  "effective_date": "1998-09-09",
+  "event_id": "1998-09-09-stand-BJNR008810961",
+  "schema_version": "v1",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.1.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; not a per-paragraph event"
+  }
+}
