@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR202930970",
+      "changed_paths": [
+        "laws/BJNR202930970/meta.json",
+        "laws/BJNR202930970/source.xml"
+      ],
+      "jurabk": "WOGeistEigÜbkuaG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "f1759303f7c98d31d34c405909f0599099013f97ae71cb47a2275e6e1d4a20c7",
+      "source_xml_sha256_before": "48fe00451fee941a38b686557976c7ba3fc545531ad7aa17433d9505b6345b12",
+      "stand_datum": "1994-10-25",
+      "title": "Gesetz über die am 14. Juli 1967 in Stockholm unterzeichneten Übereinkünfte auf dem Gebiet des geistigen Eigentums"
+    }
+  ],
+  "effective_date": "1994-10-25",
+  "event_id": "1994-10-25-stand-BJNR202930970",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
