@@ -1,0 +1,36 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR107410993",
+      "changed_paths": [
+        "laws/BJNR107410993/meta.json",
+        "laws/BJNR107410993/paragraphs/0001.md",
+        "laws/BJNR107410993/paragraphs/0001a.md",
+        "laws/BJNR107410993/paragraphs/0002.md",
+        "laws/BJNR107410993/source.xml",
+        "laws/BJNR107410993/toc.json"
+      ],
+      "jurabk": "AsylbLG",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 1",
+        "§ 1a",
+        "§ 2"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "347585db77b1d681a0b2ec50045da29e9ee3e4995c50917356584fd8bce76b50",
+      "source_xml_sha256_before": "77d5eb73070e0cf937a74a3b500bd28b9f30827961b2791b06d46d46b203924c",
+      "stand_datum": "1997-08-05",
+      "title": "Asylbewerberleistungsgesetz"
+    }
+  ],
+  "effective_date": "1997-08-05",
+  "event_id": "1997-08-05-stand-BJNR107410993",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
