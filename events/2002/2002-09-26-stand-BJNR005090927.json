@@ -1,0 +1,38 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR005090927",
+      "changed_paths": [
+        "laws/BJNR005090927/meta.json",
+        "laws/BJNR005090927/paragraphs/0003d.md",
+        "laws/BJNR005090927/paragraphs/0009.md",
+        "laws/BJNR005090927/paragraphs/0012a.md",
+        "laws/BJNR005090927/paragraphs/0012b.md",
+        "laws/BJNR005090927/source.xml",
+        "laws/BJNR005090927/toc.json"
+      ],
+      "jurabk": "KraftStG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 12a",
+        "§ 12b",
+        "§ 3d",
+        "§ 9"
+      ],
+      "source_xml_sha256_after": "9c365377f3a3bb703731c0388520ef65cdaa6851d27f609cb8a2b0987f4dea43",
+      "source_xml_sha256_before": "50f08a0ba0f71bc355979bf29980ec3c5d2e6edff7377529ec0229b8356d2a4f",
+      "stand_datum": "2002-09-26",
+      "title": "Kraftfahrzeugsteuergesetz 2002"
+    }
+  ],
+  "effective_date": "2002-09-26",
+  "event_id": "2002-09-26-stand-BJNR005090927",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
