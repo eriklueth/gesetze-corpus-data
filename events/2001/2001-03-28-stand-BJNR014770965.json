@@ -1,0 +1,36 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR014770965",
+      "changed_paths": [
+        "laws/BJNR014770965/meta.json",
+        "laws/BJNR014770965/paragraphs/0052a.md",
+        "laws/BJNR014770965/paragraphs/0052b.md",
+        "laws/BJNR014770965/paragraphs/0052d.md",
+        "laws/BJNR014770965/source.xml",
+        "laws/BJNR014770965/toc.json"
+      ],
+      "jurabk": "FGO",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 52a",
+        "§ 52b",
+        "§ 52d"
+      ],
+      "source_xml_sha256_after": "fbbf691892b0179cb8a10b2e577fdde8a2d2293475a63d2cee2708d66d886f17",
+      "source_xml_sha256_before": "c69ba0e365fb8437ba951109d865eb97a0a50d7fe2d6bb71b4d742d0b09559c7",
+      "stand_datum": "2001-03-28",
+      "title": "Finanzgerichtsordnung"
+    }
+  ],
+  "effective_date": "2001-03-28",
+  "event_id": "2001-03-28-stand-BJNR014770965",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
