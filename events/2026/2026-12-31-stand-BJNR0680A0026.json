@@ -1,0 +1,36 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR0680A0026",
+      "changed_paths": [
+        "laws/BJNR0680A0026/meta.json",
+        "laws/BJNR0680A0026/paragraphs/0001.md",
+        "laws/BJNR0680A0026/paragraphs/0002.md",
+        "laws/BJNR0680A0026/paragraphs/0003.md",
+        "laws/BJNR0680A0026/source.xml",
+        "laws/BJNR0680A0026/toc.json"
+      ],
+      "jurabk": "BMVBVerfPAktV",
+      "sections_added": [
+        "§ 1",
+        "§ 2",
+        "§ 3"
+      ],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "b422b521a0e1ac2a8ffd6d8872d6ed0f118ed1180d744e6e3e479850bd7ef57b",
+      "source_xml_sha256_before": null,
+      "stand_datum": "2026-12-31",
+      "title": "Verordnung zur Ermöglichung der Anlegung, Führung oder Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Verkehr"
+    }
+  ],
+  "effective_date": "2026-12-31",
+  "event_id": "2026-12-31-stand-BJNR0680A0026",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
