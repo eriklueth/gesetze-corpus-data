@@ -7,19 +7,21 @@
         "laws/BJNR107410993/paragraphs/0001.md",
         "laws/BJNR107410993/paragraphs/0001a.md",
         "laws/BJNR107410993/paragraphs/0002.md",
+        "laws/BJNR107410993/paragraphs/0007.md",
         "laws/BJNR107410993/source.xml",
         "laws/BJNR107410993/toc.json"
       ],
       "jurabk": "AsylbLG",
       "sections_added": [],
-      "sections_modified": [
+      "sections_modified": [],
+      "sections_removed": [
         "§ 1",
         "§ 1a",
-        "§ 2"
+        "§ 2",
+        "§ 7"
       ],
-      "sections_removed": [],
-      "source_xml_sha256_after": "347585db77b1d681a0b2ec50045da29e9ee3e4995c50917356584fd8bce76b50",
-      "source_xml_sha256_before": "77d5eb73070e0cf937a74a3b500bd28b9f30827961b2791b06d46d46b203924c",
+      "source_xml_sha256_after": "49827908dd1de7e7b5176b16d1133139e5a63d57347cd18f494afdf66c5f801a",
+      "source_xml_sha256_before": "347585db77b1d681a0b2ec50045da29e9ee3e4995c50917356584fd8bce76b50",
       "stand_datum": "1997-08-05",
       "title": "Asylbewerberleistungsgesetz"
     }
