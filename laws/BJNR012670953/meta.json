@@ -10,7 +10,7 @@
     "paragraph": 147
   },
   "source_hashes": {
-    "source_xml_sha256": "400da18097c26ffec57282533ab76237e79791b1e43f593f286b37367ad2d518"
+    "source_xml_sha256": "ae62a72355d6826b391ba9d31b53ee95e4672c01a8e43cd1957e9c96ae7aff77"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/arbgg/",
@@ -40,6 +40,10 @@
     },
     {
       "kommentar": "Änderung durch Art. 12 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 G v. 27.4.2026 I Nr. 119 ist berücksichtigt",
       "typ": "Hinweis"
     },
     {

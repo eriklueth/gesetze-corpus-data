@@ -1,0 +1,31 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR700550949",
+      "changed_paths": [
+        "laws/BJNR700550949/meta.json",
+        "laws/BJNR700550949/paragraphs/0006.md",
+        "laws/BJNR700550949/source.xml"
+      ],
+      "jurabk": "TVG",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 6"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "0fa45f671caa5d6720f5647cf23441db218b84116b7069fc51c5244f0e3cc6bd",
+      "source_xml_sha256_before": "f5418ce49905074baace0882336be7e41db27d87876a5e55036b6eefa187fa25",
+      "stand_datum": "1969-08-25",
+      "title": "Tarifvertragsgesetz"
+    }
+  ],
+  "effective_date": "1969-08-25",
+  "event_id": "1969-08-25-stand-BJNR700550949",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}

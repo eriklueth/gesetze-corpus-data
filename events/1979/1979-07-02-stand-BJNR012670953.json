@@ -1,0 +1,31 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR012670953",
+      "changed_paths": [
+        "laws/BJNR012670953/meta.json",
+        "laws/BJNR012670953/paragraphs/0002a.md",
+        "laws/BJNR012670953/source.xml"
+      ],
+      "jurabk": "ArbGG",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 2a"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "ae62a72355d6826b391ba9d31b53ee95e4672c01a8e43cd1957e9c96ae7aff77",
+      "source_xml_sha256_before": "400da18097c26ffec57282533ab76237e79791b1e43f593f286b37367ad2d518",
+      "stand_datum": "1979-07-02",
+      "title": "Arbeitsgerichtsgesetz"
+    }
+  ],
+  "effective_date": "1979-07-02",
+  "event_id": "1979-07-02-stand-BJNR012670953",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
