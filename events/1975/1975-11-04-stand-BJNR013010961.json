@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR013010961",
+      "changed_paths": [
+        "laws/BJNR013010961/meta.json",
+        "laws/BJNR013010961/paragraphs/0086g.md",
+        "laws/BJNR013010961/source.xml",
+        "laws/BJNR013010961/toc.json"
+      ],
+      "jurabk": "StBerG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 86g"
+      ],
+      "source_xml_sha256_after": "bfb37c4209b9658ca9d51ac30646ddd22ecfef7543983e4940267244e49d6cb9",
+      "source_xml_sha256_before": "cd57dbfdaec1bae2103f042020e4e97e5d11ae1f797d24bb9174cadaadd09515",
+      "stand_datum": "1975-11-04",
+      "title": "Steuerberatungsgesetz"
+    }
+  ],
+  "effective_date": "1975-11-04",
+  "event_id": "1975-11-04-stand-BJNR013010961",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
