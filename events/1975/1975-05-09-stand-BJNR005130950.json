@@ -1,0 +1,42 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR005130950",
+      "changed_paths": [
+        "laws/BJNR005130950/meta.json",
+        "laws/BJNR005130950/paragraphs/0023.md",
+        "laws/BJNR005130950/paragraphs/0071.md",
+        "laws/BJNR005130950/paragraphs/0072a.md",
+        "laws/BJNR005130950/paragraphs/0074.md",
+        "laws/BJNR005130950/paragraphs/0119a.md",
+        "laws/BJNR005130950/paragraphs/0120.md",
+        "laws/BJNR005130950/source.xml",
+        "laws/BJNR005130950/toc.json"
+      ],
+      "jurabk": "GVG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 119a",
+        "§ 120",
+        "§ 23",
+        "§ 71",
+        "§ 72a",
+        "§ 74"
+      ],
+      "source_xml_sha256_after": "f9e28778960c845081c7297bf95b1b6ac0c9aa391657c6b7a78057771155bf66",
+      "source_xml_sha256_before": "c6385831786e2bfd1f945984a1555c7c7d03fba9566595adde98a9cc7b2cb27e",
+      "stand_datum": "1975-05-09",
+      "title": "Gerichtsverfassungsgesetz"
+    }
+  ],
+  "effective_date": "1975-05-09",
+  "event_id": "1975-05-09-stand-BJNR005130950",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
