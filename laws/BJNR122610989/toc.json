@@ -6331,7 +6331,7 @@
       "absatz_count": 2,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "paragraphs/0320.md",
       "heading": "Bußgeldvorschriften",
@@ -6342,7 +6342,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "paragraphs/0321.md",
       "heading": "Zusammenarbeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten",
@@ -6353,7 +6353,18 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
+      ],
+      "file": "paragraphs/0322.md",
+      "heading": "Unterrichtung durch die Träger der Rentenversicherung zum Zwecke der Sicherung der Tariftreue",
+      "number": "§ 322",
+      "type": "paragraph"
+    },
+    {
+      "absatz_count": 1,
+      "breadcrumb": [
+        "Erstes Kapitel Versicherter Personenkreis",
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0001.md",
       "heading": "Durchschnittsentgelt in Euro/DM/RM",
@@ -6364,7 +6375,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0002.md",
       "heading": "Jährliche Beitragsbemessungsgrenzen in Euro/DM/RM",
@@ -6375,7 +6386,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0002a.md",
       "heading": "Jährliche Beitragsbemessungsgrenzen des Beitrittsgebiets in Euro/DM",
@@ -6386,7 +6397,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0002b.md",
       "heading": "Jährliche Höchstwerte an Entgeltpunkten",
@@ -6397,7 +6408,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0003.md",
       "heading": "Entgeltpunkte für Beiträge nach Lohn-, Beitrags- oder Gehaltsklassen",
@@ -6408,7 +6419,7 @@
       "absatz_count": 2,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0004.md",
       "heading": "Beitragsbemessungsgrundlage für Beitragsklassen",
@@ -6419,7 +6430,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0005.md",
       "heading": "Entgeltpunkte für Berliner Beiträge",
@@ -6430,7 +6441,7 @@
       "absatz_count": 2,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0006.md",
       "heading": "Werte zur Umrechnung der Beitragsbemessungsgrundlagen von Franken in Deutsche Mark",
@@ -6441,7 +6452,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0007.md",
       "heading": "Entgeltpunkte für saarländische Beiträge",
@@ -6452,7 +6463,7 @@
       "absatz_count": 2,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0008.md",
       "heading": "Lohn-, Beitrags- oder Gehaltsklassen und Beitragsbemessungsgrundlagen in RM/DM für Sachbezugszeiten, in denen der Versicherte nicht Lehrling oder Anlernling war",
@@ -6463,7 +6474,7 @@
       "absatz_count": 3,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0009.md",
       "heading": "",
@@ -6474,7 +6485,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0010.md",
       "heading": "Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittgebiets",
@@ -6485,7 +6496,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0011.md",
       "heading": "Verdienst für freiwillige Beiträge im Beitrittsgebiet",
@@ -6496,7 +6507,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0012.md",
       "heading": "Gesamtdurchschnittseinkommen zur Umwertung der anpassungsfähigen Bestandsrenten des Beitrittsgebiets",
@@ -6507,7 +6518,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0013.md",
       "heading": "Definition der Qualifikationsgruppen",
@@ -6518,7 +6529,7 @@
       "absatz_count": 6,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0014.md",
       "heading": "",
@@ -6529,7 +6540,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0015.md",
       "heading": "Entgeltpunkte für glaubhaft gemachte Beitragszeiten mit freiwilligen Beiträgen",
@@ -6540,7 +6551,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0016.md",
       "heading": "Höchstverdienste bei glaubhaft gemachten Beitragszeiten ohne freiwillige Zusatzrentenversicherung",
@@ -6551,7 +6562,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0017.md",
       "heading": "",
@@ -6562,7 +6573,7 @@
       "absatz_count": 0,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0018.md",
       "heading": "(weggefallen)",
@@ -6573,7 +6584,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0019.md",
       "heading": "",
@@ -6584,7 +6595,7 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Erstes Kapitel Versicherter Personenkreis",
-        "Sechstes Kapitel Bußgeldvorschriften"
+        "Sechstes Kapitel Bußgeldvorschriften, Unterrichtung von Behörden"
       ],
       "file": "annexes/0020.md",
       "heading": "",
