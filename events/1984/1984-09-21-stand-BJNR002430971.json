@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR002430971",
+      "changed_paths": [
+        "laws/BJNR002430971/meta.json",
+        "laws/BJNR002430971/source.xml"
+      ],
+      "jurabk": "BZRG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "f1f916e5123f5b5ce400ef6c106c8ab2be88a484f93b1b1d7909c6e89c83684c",
+      "source_xml_sha256_before": "c5db1e565ad805d168cb592138532a4e3a370d8f86938d797383b2c468759fc7",
+      "stand_datum": "1984-09-21",
+      "title": "Gesetz über das Zentralregister und das Erziehungsregister"
+    }
+  ],
+  "effective_date": "1984-09-21",
+  "event_id": "1984-09-21-stand-BJNR002430971",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
