@@ -11,7 +11,7 @@
     "paragraph": 475
   },
   "source_hashes": {
-    "source_xml_sha256": "e0e0bdd105b405ffe96a881a4c475e6df4b8191c685dba9f291e4691f4f66cbf"
+    "source_xml_sha256": "38eaf7a0d9837ba7ef18cc341023e2977cfc645a745bb964a0a813e222824e7e"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/sgb_6/",
@@ -26,6 +26,10 @@
     {
       "kommentar": "zuletzt geändert durch Art. 62 Abs. 4 G v. 4.2.2026 I Nr. 33",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 5 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     },
     {
       "kommentar": "Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt",

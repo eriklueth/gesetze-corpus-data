@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR122610989",
+      "changed_paths": [
+        "laws/BJNR122610989/meta.json",
+        "laws/BJNR122610989/source.xml"
+      ],
+      "jurabk": "SGB 6",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "38eaf7a0d9837ba7ef18cc341023e2977cfc645a745bb964a0a813e222824e7e",
+      "source_xml_sha256_before": "e0e0bdd105b405ffe96a881a4c475e6df4b8191c685dba9f291e4691f4f66cbf",
+      "stand_datum": "2002-02-19",
+      "title": "Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)"
+    }
+  ],
+  "effective_date": "2002-02-19",
+  "event_id": "2002-02-19-stand-BJNR122610989",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
