@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR010490961",
+      "changed_paths": [
+        "laws/BJNR010490961/meta.json",
+        "laws/BJNR010490961/paragraphs/0058b.md",
+        "laws/BJNR010490961/source.xml",
+        "laws/BJNR010490961/toc.json"
+      ],
+      "jurabk": "WiPrO",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 58b"
+      ],
+      "source_xml_sha256_after": "d30233e9ab8467cbd7c7acef8e5b52b31aaa3f7e2d8557c0f73f2ff6a2a5b0f3",
+      "source_xml_sha256_before": "49cb8ae4b82acb3697b1feb8991a2066711c0599fc7f7e80d22879851dd3636f",
+      "stand_datum": "1975-11-05",
+      "title": "Gesetz über eine Berufsordnung der Wirtschaftsprüfer"
+    }
+  ],
+  "effective_date": "1975-11-05",
+  "event_id": "1975-11-05-stand-BJNR010490961",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
