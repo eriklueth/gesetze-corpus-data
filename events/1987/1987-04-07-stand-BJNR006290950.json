@@ -1,0 +1,31 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR006290950",
+      "changed_paths": [
+        "laws/BJNR006290950/meta.json",
+        "laws/BJNR006290950/paragraphs/0160a.md",
+        "laws/BJNR006290950/source.xml"
+      ],
+      "jurabk": "StPO",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 160a"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "1a5dfb8823aff6c4587f347569ad40010a2eb046df1ed6842c1c6ee82ead7190",
+      "source_xml_sha256_before": "f38141ffd602351c2cabb19228350c83cdb243fe238d63278926480b02fed3df",
+      "stand_datum": "1987-04-07",
+      "title": "Strafprozeßordnung"
+    }
+  ],
+  "effective_date": "1987-04-07",
+  "event_id": "1987-04-07-stand-BJNR006290950",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
