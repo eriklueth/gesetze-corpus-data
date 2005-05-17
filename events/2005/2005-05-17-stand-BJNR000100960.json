@@ -1,0 +1,70 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR000100960",
+      "changed_paths": [
+        "laws/BJNR000100960/meta.json",
+        "laws/BJNR000100960/paragraphs/0001a.md",
+        "laws/BJNR000100960/paragraphs/0002.md",
+        "laws/BJNR000100960/paragraphs/0002a.md",
+        "laws/BJNR000100960/paragraphs/0004.md",
+        "laws/BJNR000100960/paragraphs/0005.md",
+        "laws/BJNR000100960/paragraphs/0006.md",
+        "laws/BJNR000100960/paragraphs/0010.md",
+        "laws/BJNR000100960/paragraphs/0012.md",
+        "laws/BJNR000100960/paragraphs/0014c.md",
+        "laws/BJNR000100960/paragraphs/0019.md",
+        "laws/BJNR000100960/paragraphs/0022a.md",
+        "laws/BJNR000100960/paragraphs/0023.md",
+        "laws/BJNR000100960/paragraphs/0025b.md",
+        "laws/BJNR000100960/paragraphs/0028.md",
+        "laws/BJNR000100960/paragraphs/0035.md",
+        "laws/BJNR000100960/paragraphs/0036.md",
+        "laws/BJNR000100960/paragraphs/0040.md",
+        "laws/BJNR000100960/paragraphs/0041.md",
+        "laws/BJNR000100960/paragraphs/0045a.md",
+        "laws/BJNR000100960/paragraphs/0078.md",
+        "laws/BJNR000100960/source.xml",
+        "laws/BJNR000100960/toc.json"
+      ],
+      "jurabk": "ErsDiG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10",
+        "§ 12",
+        "§ 14c",
+        "§ 19",
+        "§ 1a",
+        "§ 2",
+        "§ 22a",
+        "§ 23",
+        "§ 25b",
+        "§ 28",
+        "§ 2a",
+        "§ 35",
+        "§ 36",
+        "§ 4",
+        "§ 40",
+        "§ 41",
+        "§ 45a",
+        "§ 5",
+        "§ 6",
+        "§ 78"
+      ],
+      "source_xml_sha256_after": "cd41cdf148b5005e3d778b43e7a9f8c17165936831927c52a649277ef4034a24",
+      "source_xml_sha256_before": "9c6e08d2ddcfea7f5908746eda7ac31e049a104611a95ae9802180c8487efb62",
+      "stand_datum": "2005-05-17",
+      "title": "Gesetz über den Zivildienst der Kriegsdienstverweigerer"
+    }
+  ],
+  "effective_date": "2005-05-17",
+  "event_id": "2005-05-17-stand-BJNR000100960",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
