@@ -4,14 +4,37 @@
       "bjnr": "BJNR034310998",
       "changed_paths": [
         "laws/BJNR034310998/meta.json",
-        "laws/BJNR034310998/source.xml"
+        "laws/BJNR034310998/paragraphs/0012.md",
+        "laws/BJNR034310998/paragraphs/0015.md",
+        "laws/BJNR034310998/paragraphs/0020.md",
+        "laws/BJNR034310998/paragraphs/0025.md",
+        "laws/BJNR034310998/paragraphs/0038.md",
+        "laws/BJNR034310998/paragraphs/0039.md",
+        "laws/BJNR034310998/paragraphs/0040.md",
+        "laws/BJNR034310998/paragraphs/0040a.md",
+        "laws/BJNR034310998/paragraphs/0040b.md",
+        "laws/BJNR034310998/paragraphs/0041.md",
+        "laws/BJNR034310998/source.xml",
+        "laws/BJNR034310998/toc.json"
       ],
       "jurabk": "DEÜV",
       "sections_added": [],
-      "sections_modified": [],
-      "sections_removed": [],
-      "source_xml_sha256_after": "edd1d41db8d390b1ed0a8dc87b03ce104b7ab2924e82ebaa2a746a5c12b8a00e",
-      "source_xml_sha256_before": "50175f242264506615e95bf2178b3fe5d868ccf3da1333d29a78216f980f28ca",
+      "sections_modified": [
+        "§ 39"
+      ],
+      "sections_removed": [
+        "§ 12",
+        "§ 15",
+        "§ 20",
+        "§ 25",
+        "§ 38",
+        "§ 40",
+        "§ 40a",
+        "§ 40b",
+        "§ 41"
+      ],
+      "source_xml_sha256_after": "a0cda0f41682e0c09706e0761d8856a1a2198f3b42384c015404a7a3ca1a7be3",
+      "source_xml_sha256_before": "edd1d41db8d390b1ed0a8dc87b03ce104b7ab2924e82ebaa2a746a5c12b8a00e",
       "stand_datum": "2006-01-23",
       "title": "Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung"
     }
