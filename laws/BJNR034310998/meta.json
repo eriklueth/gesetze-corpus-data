@@ -10,7 +10,7 @@
     "paragraph": 44
   },
   "source_hashes": {
-    "source_xml_sha256": "abfadfebef7eadaea1b693a0ddf1a06b24eb05d4b094839bbe90c1f4b8c77c07"
+    "source_xml_sha256": "50175f242264506615e95bf2178b3fe5d868ccf3da1333d29a78216f980f28ca"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/de_v/",
@@ -25,6 +25,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 20 G v. 22.12.2025 I Nr. 355",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 11 Abs. 16 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     }
   ],
   "title": "Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung",

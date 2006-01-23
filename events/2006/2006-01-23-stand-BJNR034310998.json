@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR034310998",
+      "changed_paths": [
+        "laws/BJNR034310998/meta.json",
+        "laws/BJNR034310998/source.xml"
+      ],
+      "jurabk": "DEÜV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "50175f242264506615e95bf2178b3fe5d868ccf3da1333d29a78216f980f28ca",
+      "source_xml_sha256_before": "abfadfebef7eadaea1b693a0ddf1a06b24eb05d4b094839bbe90c1f4b8c77c07",
+      "stand_datum": "2006-01-23",
+      "title": "Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung"
+    }
+  ],
+  "effective_date": "2006-01-23",
+  "event_id": "2006-01-23-stand-BJNR034310998",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
