@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR004070952",
+      "changed_paths": [
+        "laws/BJNR004070952/meta.json",
+        "laws/BJNR004070952/source.xml"
+      ],
+      "jurabk": "ZustErgG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "bf7c1b39c69c24fc1b4ed3239895082832479cf16a94120272033890ed31044f",
+      "source_xml_sha256_before": "0dd1fe01e3cdc492c3c838a6ecfdd55b0a84e4f64dc8b9047bd54ddf1ad8dd6a",
+      "stand_datum": "2006-04-19",
+      "title": "Gesetz zur Ergänzung von Zuständigkeiten auf den Gebieten des Bürgerlichen Rechts, des Handelsrechts und des Strafrechts"
+    }
+  ],
+  "effective_date": "2006-04-19",
+  "event_id": "2006-04-19-stand-BJNR004070952",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
