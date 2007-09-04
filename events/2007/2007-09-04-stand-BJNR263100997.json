@@ -1,0 +1,34 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR263100997",
+      "changed_paths": [
+        "laws/BJNR263100997/meta.json",
+        "laws/BJNR263100997/paragraphs/0015e.md",
+        "laws/BJNR263100997/paragraphs/0015f.md",
+        "laws/BJNR263100997/source.xml",
+        "laws/BJNR263100997/toc.json"
+      ],
+      "jurabk": "TPG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 15e",
+        "§ 15f"
+      ],
+      "source_xml_sha256_after": "e3d6e8814e5b4a603c988389afedfa49d6e7779813d9defe2a4145e87c3b44b5",
+      "source_xml_sha256_before": "f6ceed4752ef2fa5aff07f979a714a9e421f85de9b6222ac573d42c0649190bf",
+      "stand_datum": "2007-09-04",
+      "title": "Gesetz über die Spende, Entnahme und Übertragung von Organen und Geweben"
+    }
+  ],
+  "effective_date": "2007-09-04",
+  "event_id": "2007-09-04-stand-BJNR263100997",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
