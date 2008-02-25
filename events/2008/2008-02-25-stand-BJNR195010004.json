@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR195010004",
+      "changed_paths": [
+        "laws/BJNR195010004/meta.json",
+        "laws/BJNR195010004/source.xml"
+      ],
+      "jurabk": "AufenthG 2004",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "aefab46bddfee5ae20bb8daa8c11cae95b814436afde3363c4d4bd928281213a",
+      "source_xml_sha256_before": "98fd288e67e9b88cc7b1d8d43762b645e0a87cf75a4c739b534cac509852657b",
+      "stand_datum": "2008-02-25",
+      "title": "Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet"
+    }
+  ],
+  "effective_date": "2008-02-25",
+  "event_id": "2008-02-25-stand-BJNR195010004",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
