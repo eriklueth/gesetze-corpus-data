@@ -11,7 +11,7 @@
     "paragraph": 193
   },
   "source_hashes": {
-    "source_xml_sha256": "aefab46bddfee5ae20bb8daa8c11cae95b814436afde3363c4d4bd928281213a"
+    "source_xml_sha256": "b2a42bf31bc759fad44ca74a4deed4e936bc36ae09e80663b0d63833942212d2"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/aufenthg_2004/",
@@ -26,6 +26,10 @@
     {
       "kommentar": "zuletzt geändert durch Art. 11 Abs. 4 G v. 16.4.2026 I Nr. 107",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 G v. 23.4.2026 I Nr. 111 mWv 12.6.2026 bzw. 12.6.2029 noch nicht berücksichtigt",
+      "typ": "Hinweis"
     },
     {
       "kommentar": "Mittelbare Änderung durch Art. 4 G v. 20.12.2023 I Nr. 390 betreffend § 104 Abs. 17 ist nicht mehr ausführbar",
