@@ -1,0 +1,25 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR0640B0026",
+      "changed_paths": [
+        "laws/BJNR0640B0026/meta.json",
+        "laws/BJNR0640B0026/source.xml"
+      ],
+      "jurabk": "ChemKlimaschutzV 2026",
+      "source_xml_sha256_after": "bc4c596e90418694f402e33e0ad11c19e7c099eb4ed2cd0488b5ecab93306856",
+      "source_xml_sha256_before": "5c410654f68496aaa8c4e9978b8a3dfbb55dda83726e1b2e0f40957df1656ac0",
+      "stand_datum": "2008-07-02",
+      "title": "Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag bestimmter fluorierter Treibhausgase und zur Durchführung der Verordnung (EU) 2024/573"
+    }
+  ],
+  "effective_date": "2008-07-02",
+  "event_id": "2008-07-02-stand-BJNR0640B0026",
+  "schema_version": "v1",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.1.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; not a per-paragraph event"
+  }
+}
