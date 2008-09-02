@@ -11,7 +11,7 @@
     "paragraph": 128
   },
   "source_hashes": {
-    "source_xml_sha256": "b89a7b65c66cd1ef1a31842b9147e0a710aa8a2762152528058966a6ca3afa3d"
+    "source_xml_sha256": "b3352793e141d2e62ed4d001625322669cf47253f5d94c4a16e78491d5b58f24"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/asylvfg_1992/",
@@ -26,6 +26,14 @@
     {
       "kommentar": "zuletzt geändert durch Art. 1 G v. 22.12.2025 I Nr. 364",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 Nr. 1 bis 92 G v. 23.4.2026 I Nr. 111 mWv 12.6.2026 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 Nr. 93 u. 94 G v. 23.4.2026 I Nr. 111 mWv 29.4.2026 sind berücksichtigt",
+      "typ": "Sonst"
     },
     {
       "kommentar": "Dieses G ersetzt das G 26-5 v. 16.7.1982 I 946 (AsylVfG)",

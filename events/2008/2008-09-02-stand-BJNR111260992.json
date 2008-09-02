@@ -1,0 +1,33 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR111260992",
+      "changed_paths": [
+        "laws/BJNR111260992/meta.json",
+        "laws/BJNR111260992/paragraphs/0088.md",
+        "laws/BJNR111260992/paragraphs/0089.md",
+        "laws/BJNR111260992/source.xml"
+      ],
+      "jurabk": "AsylVfG 1992",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 88",
+        "§ 89"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "b3352793e141d2e62ed4d001625322669cf47253f5d94c4a16e78491d5b58f24",
+      "source_xml_sha256_before": "b89a7b65c66cd1ef1a31842b9147e0a710aa8a2762152528058966a6ca3afa3d",
+      "stand_datum": "2008-09-02",
+      "title": "Asylgesetz"
+    }
+  ],
+  "effective_date": "2008-09-02",
+  "event_id": "2008-09-02-stand-BJNR111260992",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
