@@ -4,14 +4,36 @@
       "bjnr": "BJNR111260992",
       "changed_paths": [
         "laws/BJNR111260992/meta.json",
-        "laws/BJNR111260992/source.xml"
+        "laws/BJNR111260992/paragraphs/0007.md",
+        "laws/BJNR111260992/paragraphs/0018a.md",
+        "laws/BJNR111260992/paragraphs/0029a.md",
+        "laws/BJNR111260992/paragraphs/0029b.md",
+        "laws/BJNR111260992/paragraphs/0030a.md",
+        "laws/BJNR111260992/paragraphs/0047.md",
+        "laws/BJNR111260992/paragraphs/0061.md",
+        "laws/BJNR111260992/paragraphs/0077.md",
+        "laws/BJNR111260992/paragraphs/0088.md",
+        "laws/BJNR111260992/paragraphs/0089.md",
+        "laws/BJNR111260992/source.xml",
+        "laws/BJNR111260992/toc.json"
       ],
       "jurabk": "AsylVfG 1992",
       "sections_added": [],
       "sections_modified": [],
-      "sections_removed": [],
-      "source_xml_sha256_after": "44836205571b530e54a56af2eb52af46f2bd3e680b6d5c961411453bf8339ff8",
-      "source_xml_sha256_before": "b3352793e141d2e62ed4d001625322669cf47253f5d94c4a16e78491d5b58f24",
+      "sections_removed": [
+        "§ 18a",
+        "§ 29a",
+        "§ 29b",
+        "§ 30a",
+        "§ 47",
+        "§ 61",
+        "§ 7",
+        "§ 77",
+        "§ 88",
+        "§ 89"
+      ],
+      "source_xml_sha256_after": "81806ba97089bd259a2987de79c431161615fc19ada24e8c8dfde84d4de127dd",
+      "source_xml_sha256_before": "44836205571b530e54a56af2eb52af46f2bd3e680b6d5c961411453bf8339ff8",
       "stand_datum": "2008-09-02",
       "title": "Asylgesetz"
     }
