@@ -10,7 +10,7 @@
     "paragraph": 27
   },
   "source_hashes": {
-    "source_xml_sha256": "533f3cb6121355b302d555be45e09599b04c709556a8b4573679121c475e998f"
+    "source_xml_sha256": "ca09329cec78acc4a264f99e16d98437d49a248ed8fb1a8e5ed9c138ad4c7a8c"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/bkgg_1996/",
@@ -25,6 +25,10 @@
     {
       "kommentar": "zuletzt geändert durch Art. 19 G v. 22.12.2025 I Nr. 355",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 10 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     }
   ],
   "title": "Bundeskindergeldgesetz",

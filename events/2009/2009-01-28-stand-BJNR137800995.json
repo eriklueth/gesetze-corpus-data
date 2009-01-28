@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR137800995",
+      "changed_paths": [
+        "laws/BJNR137800995/meta.json",
+        "laws/BJNR137800995/source.xml"
+      ],
+      "jurabk": "BKGG 1996",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "ca09329cec78acc4a264f99e16d98437d49a248ed8fb1a8e5ed9c138ad4c7a8c",
+      "source_xml_sha256_before": "533f3cb6121355b302d555be45e09599b04c709556a8b4573679121c475e998f",
+      "stand_datum": "2009-01-28",
+      "title": "Bundeskindergeldgesetz"
+    }
+  ],
+  "effective_date": "2009-01-28",
+  "event_id": "2009-01-28-stand-BJNR137800995",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
