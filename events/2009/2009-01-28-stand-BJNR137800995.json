@@ -4,14 +4,18 @@
       "bjnr": "BJNR137800995",
       "changed_paths": [
         "laws/BJNR137800995/meta.json",
-        "laws/BJNR137800995/source.xml"
+        "laws/BJNR137800995/paragraphs/0011.md",
+        "laws/BJNR137800995/source.xml",
+        "laws/BJNR137800995/toc.json"
       ],
       "jurabk": "BKGG 1996",
       "sections_added": [],
       "sections_modified": [],
-      "sections_removed": [],
-      "source_xml_sha256_after": "084ac7388aabba8b541543b6e89e31689b712051cf64b2ce44c846a9eb3ead6e",
-      "source_xml_sha256_before": "ca09329cec78acc4a264f99e16d98437d49a248ed8fb1a8e5ed9c138ad4c7a8c",
+      "sections_removed": [
+        "§ 11"
+      ],
+      "source_xml_sha256_after": "5d0cbf8f9eafb811e238be3a730e5a7876833d437c3fe41daeaaa9802726ed87",
+      "source_xml_sha256_before": "084ac7388aabba8b541543b6e89e31689b712051cf64b2ce44c846a9eb3ead6e",
       "stand_datum": "2009-01-28",
       "title": "Bundeskindergeldgesetz"
     }
