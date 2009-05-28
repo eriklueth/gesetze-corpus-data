@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR024410003",
+      "changed_paths": [
+        "laws/BJNR024410003/meta.json",
+        "laws/BJNR024410003/paragraphs/0001.md",
+        "laws/BJNR024410003/source.xml",
+        "laws/BJNR024410003/toc.json"
+      ],
+      "jurabk": "BVLÜV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "41aaef9b8dfe17fc98ea96e3b976947c599e6b4c153676453730acdfd569e369",
+      "source_xml_sha256_before": "0bf16824f4f027cca14a2448ca69ae3799338da6d5929f548284883f928d00eb",
+      "stand_datum": "2009-05-28",
+      "title": "Verordnung zur Übertragung von Befugnissen auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit"
+    }
+  ],
+  "effective_date": "2009-05-28",
+  "event_id": "2009-05-28-stand-BJNR024410003",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
