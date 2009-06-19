@@ -1,0 +1,34 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR011740975",
+      "changed_paths": [
+        "laws/BJNR011740975/meta.json",
+        "laws/BJNR011740975/paragraphs/0017a.md",
+        "laws/BJNR011740975/paragraphs/0043a.md",
+        "laws/BJNR011740975/source.xml",
+        "laws/BJNR011740975/toc.json"
+      ],
+      "jurabk": "BBesG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 17a",
+        "§ 43a"
+      ],
+      "source_xml_sha256_after": "30efe23cb08da95bcbf24707259f54a42ffc1eabf042bddfca4c750f61135f10",
+      "source_xml_sha256_before": "043524616a1b099daed8adf0595378a821ab86295a4011ca202326523611e42f",
+      "stand_datum": "2009-06-19",
+      "title": "Bundesbesoldungsgesetz"
+    }
+  ],
+  "effective_date": "2009-06-19",
+  "event_id": "2009-06-19-stand-BJNR011740975",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
