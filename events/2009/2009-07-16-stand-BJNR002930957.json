@@ -1,0 +1,44 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR002930957",
+      "changed_paths": [
+        "laws/BJNR002930957/meta.json",
+        "laws/BJNR002930957/paragraphs/0001.md",
+        "laws/BJNR002930957/paragraphs/0004.md",
+        "laws/BJNR002930957/paragraphs/0009.md",
+        "laws/BJNR002930957/paragraphs/0014b.md",
+        "laws/BJNR002930957/paragraphs/0014c.md",
+        "laws/BJNR002930957/paragraphs/0016.md",
+        "laws/BJNR002930957/paragraphs/0016a.md",
+        "laws/BJNR002930957/source.xml",
+        "laws/BJNR002930957/toc.json"
+      ],
+      "jurabk": "ArbPlSchG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 14b",
+        "§ 14c",
+        "§ 16",
+        "§ 16a",
+        "§ 4",
+        "§ 9"
+      ],
+      "source_xml_sha256_after": "039e7d05f6a600960a5ee372c4b8508a3a9ad620ef9bb4774288164748ffd461",
+      "source_xml_sha256_before": "b307124013af58fdfee15b63a38da11f400088b9b85815177210d837203576a4",
+      "stand_datum": "2009-07-16",
+      "title": "Gesetz über den Schutz des Arbeitsplatzes bei Einberufung zum Wehrdienst"
+    }
+  ],
+  "effective_date": "2009-07-16",
+  "event_id": "2009-07-16-stand-BJNR002930957",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}

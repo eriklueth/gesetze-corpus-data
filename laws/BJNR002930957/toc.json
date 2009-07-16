@@ -3,16 +3,6 @@
   "schema_version": "v2",
   "sections": [
     {
-      "absatz_count": 6,
-      "breadcrumb": [
-        "Abschnitt 1 Grundwehrdienst und Wehrübungen"
-      ],
-      "file": "paragraphs/0001.md",
-      "heading": "Ruhen des Arbeitsverhältnisses",
-      "number": "§ 1",
-      "type": "paragraph"
-    },
-    {
       "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Grundwehrdienst und Wehrübungen"
@@ -30,16 +20,6 @@
       "file": "paragraphs/0003.md",
       "heading": "Wohnraum und Sachbezüge",
       "number": "§ 3",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 5,
-      "breadcrumb": [
-        "Abschnitt 1 Grundwehrdienst und Wehrübungen"
-      ],
-      "file": "paragraphs/0004.md",
-      "heading": "Erholungsurlaub",
-      "number": "§ 4",
       "type": "paragraph"
     },
     {
@@ -80,16 +60,6 @@
       "file": "paragraphs/0008.md",
       "heading": "Vorschriften für Handelsvertreter",
       "number": "§ 8",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 11,
-      "breadcrumb": [
-        "Abschnitt 1 Grundwehrdienst und Wehrübungen"
-      ],
-      "file": "paragraphs/0009.md",
-      "heading": "Vorschriften für Beamte und Richter",
-      "number": "§ 9",
       "type": "paragraph"
     },
     {
@@ -165,28 +135,6 @@
       "type": "paragraph"
     },
     {
-      "absatz_count": 5,
-      "breadcrumb": [
-        "Abschnitt 1 Grundwehrdienst und Wehrübungen",
-        "Abschnitt 3 Alters- und Hinterbliebenenversorgung"
-      ],
-      "file": "paragraphs/0014b.md",
-      "heading": "Alters- und Hinterbliebenenversorgung in besonderen Fällen",
-      "number": "§ 14b",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 2,
-      "breadcrumb": [
-        "Abschnitt 1 Grundwehrdienst und Wehrübungen",
-        "Abschnitt 3 Alters- und Hinterbliebenenversorgung"
-      ],
-      "file": "paragraphs/0014c.md",
-      "heading": "Verfahren",
-      "number": "§ 14c",
-      "type": "paragraph"
-    },
-    {
       "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Grundwehrdienst und Wehrübungen",
@@ -195,28 +143,6 @@
       "file": "paragraphs/0015.md",
       "heading": "Begriffsbestimmungen",
       "number": "§ 15",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 5,
-      "breadcrumb": [
-        "Abschnitt 1 Grundwehrdienst und Wehrübungen",
-        "Abschnitt 4 Schlussvorschriften"
-      ],
-      "file": "paragraphs/0016.md",
-      "heading": "Sonstige Geltung des Gesetzes",
-      "number": "§ 16",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 5,
-      "breadcrumb": [
-        "Abschnitt 1 Grundwehrdienst und Wehrübungen",
-        "Abschnitt 4 Schlussvorschriften"
-      ],
-      "file": "paragraphs/0016a.md",
-      "heading": "Wehrdienst als Soldat auf Zeit",
-      "number": "§ 16a",
       "type": "paragraph"
     },
     {
