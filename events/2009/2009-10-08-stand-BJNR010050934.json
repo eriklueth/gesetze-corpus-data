@@ -1,0 +1,62 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR010050934",
+      "changed_paths": [
+        "laws/BJNR010050934/meta.json",
+        "laws/BJNR010050934/paragraphs/0003.md",
+        "laws/BJNR010050934/paragraphs/0004.md",
+        "laws/BJNR010050934/paragraphs/0004j.md",
+        "laws/BJNR010050934/paragraphs/0006b.md",
+        "laws/BJNR010050934/paragraphs/0007b.md",
+        "laws/BJNR010050934/paragraphs/0009.md",
+        "laws/BJNR010050934/paragraphs/0009a.md",
+        "laws/BJNR010050934/paragraphs/0010b.md",
+        "laws/BJNR010050934/paragraphs/0032c.md",
+        "laws/BJNR010050934/paragraphs/0034g.md",
+        "laws/BJNR010050934/paragraphs/0040.md",
+        "laws/BJNR010050934/paragraphs/0041.md",
+        "laws/BJNR010050934/paragraphs/0041b.md",
+        "laws/BJNR010050934/paragraphs/0042b.md",
+        "laws/BJNR010050934/paragraphs/0052.md",
+        "laws/BJNR010050934/paragraphs/0101.md",
+        "laws/BJNR010050934/source.xml",
+        "laws/BJNR010050934/toc.json"
+      ],
+      "jurabk": "EStG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 101",
+        "§ 10b",
+        "§ 3",
+        "§ 32c",
+        "§ 34g",
+        "§ 4",
+        "§ 40",
+        "§ 41",
+        "§ 41b",
+        "§ 42b",
+        "§ 4j",
+        "§ 52",
+        "§ 6b",
+        "§ 7b",
+        "§ 9",
+        "§ 9a"
+      ],
+      "source_xml_sha256_after": "ca51434509614cc407425462d4c24be1ade9347d96a6100d0af2696e81067d63",
+      "source_xml_sha256_before": "d06110a8644e95fad36558c9aaa3c0801e24a1f5d1705f35b20f543435ce0a95",
+      "stand_datum": "2009-10-08",
+      "title": "Einkommensteuergesetz"
+    }
+  ],
+  "effective_date": "2009-10-08",
+  "event_id": "2009-10-08-stand-BJNR010050934",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
