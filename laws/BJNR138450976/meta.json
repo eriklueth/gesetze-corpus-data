@@ -10,7 +10,7 @@
     "paragraph": 210
   },
   "source_hashes": {
-    "source_xml_sha256": "e31f79148d4ef42cd59aca7dd6c148c3490bd095576f856cb8c01f0a86fbbdac"
+    "source_xml_sha256": "28892315cd2a9894fa2be1e870d15b2c18aee361fec911390e44506f624ecb39"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/sgb_4/",
@@ -25,6 +25,10 @@
     {
       "kommentar": "zuletzt geändert durch Art. 9 G v. 16.1.2026 I Nr. 14",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 3 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     }
   ],
   "title": "Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)",
