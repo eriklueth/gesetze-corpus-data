@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR014090971",
+      "changed_paths": [
+        "laws/BJNR014090971/meta.json",
+        "laws/BJNR014090971/source.xml"
+      ],
+      "jurabk": "BAföG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "6b10c745601bddfbaf6e45ca9c4337f719abfad4f9df01c72b39f970bf85343b",
+      "source_xml_sha256_before": "b34ed2267d66570ec7bcd08d7e967f6b3db2564369a5116555efef8e1889edfb",
+      "stand_datum": "2010-12-07",
+      "title": "Bundesgesetz über individuelle Förderung der Ausbildung"
+    }
+  ],
+  "effective_date": "2010-12-07",
+  "event_id": "2010-12-07-stand-BJNR014090971",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
