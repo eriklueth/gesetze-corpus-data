@@ -1,0 +1,46 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR146710994",
+      "changed_paths": [
+        "laws/BJNR146710994/meta.json",
+        "laws/BJNR146710994/paragraphs/0006.md",
+        "laws/BJNR146710994/paragraphs/0022a.md",
+        "laws/BJNR146710994/paragraphs/0022b.md",
+        "laws/BJNR146710994/paragraphs/0022c.md",
+        "laws/BJNR146710994/paragraphs/0023.md",
+        "laws/BJNR146710994/paragraphs/0049.md",
+        "laws/BJNR146710994/paragraphs/0050.md",
+        "laws/BJNR146710994/paragraphs/0056.md",
+        "laws/BJNR146710994/source.xml",
+        "laws/BJNR146710994/toc.json"
+      ],
+      "jurabk": "WeinG 1994",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 22a",
+        "§ 22b",
+        "§ 22c",
+        "§ 23",
+        "§ 49",
+        "§ 50",
+        "§ 56",
+        "§ 6"
+      ],
+      "source_xml_sha256_after": "0592d23fcd33085b127a1e37f664f13abdf67231a7cfcfc9d0ded2690972a351",
+      "source_xml_sha256_before": "a051e8f70948d0853fce3f4f0a5ed0fb5edf804b8fc70af37ca0aea9f0c282e2",
+      "stand_datum": "2011-01-18",
+      "title": "Weingesetz"
+    }
+  ],
+  "effective_date": "2011-01-18",
+  "event_id": "2011-01-18-stand-BJNR146710994",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
