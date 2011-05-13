@@ -4,14 +4,20 @@
       "bjnr": "BJNR295500003",
       "changed_paths": [
         "laws/BJNR295500003/meta.json",
-        "laws/BJNR295500003/source.xml"
+        "laws/BJNR295500003/paragraphs/0031a.md",
+        "laws/BJNR295500003/paragraphs/0031b.md",
+        "laws/BJNR295500003/source.xml",
+        "laws/BJNR295500003/toc.json"
       ],
       "jurabk": "SGB 2",
       "sections_added": [],
-      "sections_modified": [],
+      "sections_modified": [
+        "§ 31a",
+        "§ 31b"
+      ],
       "sections_removed": [],
-      "source_xml_sha256_after": "ccdafc3ad7b1a59f939208111c7d4382e5422251e4f05257e69757f13f24679a",
-      "source_xml_sha256_before": "38cd0483b7c15f3793278718620f092b5e1afad7f38dead0d5e4e0ba7bd7a000",
+      "source_xml_sha256_after": "4e1b2b7c4544eed6517d757f48f4793ccc4d900587380f2fb4ea7fcba3a9c8b5",
+      "source_xml_sha256_before": "ccdafc3ad7b1a59f939208111c7d4382e5422251e4f05257e69757f13f24679a",
       "stand_datum": "2011-05-13",
       "title": "Sozialgesetzbuch (SGB) Zweites Buch (II) - Bürgergeld, Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)"
     }
