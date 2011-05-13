@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR295500003",
+      "changed_paths": [
+        "laws/BJNR295500003/meta.json",
+        "laws/BJNR295500003/source.xml"
+      ],
+      "jurabk": "SGB 2",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "ccdafc3ad7b1a59f939208111c7d4382e5422251e4f05257e69757f13f24679a",
+      "source_xml_sha256_before": "38cd0483b7c15f3793278718620f092b5e1afad7f38dead0d5e4e0ba7bd7a000",
+      "stand_datum": "2011-05-13",
+      "title": "Sozialgesetzbuch (SGB) Zweites Buch (II) - Bürgergeld, Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)"
+    }
+  ],
+  "effective_date": "2011-05-13",
+  "event_id": "2011-05-13-stand-BJNR295500003",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
