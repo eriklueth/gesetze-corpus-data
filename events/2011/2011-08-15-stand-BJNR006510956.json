@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR006510956",
+      "changed_paths": [
+        "laws/BJNR006510956/meta.json",
+        "laws/BJNR006510956/source.xml"
+      ],
+      "jurabk": "WehrPflG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "b711ab8e98c0e94715c1388bf4d5a6c4b145e4533c5346a8d0998f6235c32ffd",
+      "source_xml_sha256_before": "ce0031538b0f30942ee9ddddac146abbe76f7dc88ef1a24df84744be51bec457",
+      "stand_datum": "2011-08-15",
+      "title": "Wehrpflichtgesetz"
+    }
+  ],
+  "effective_date": "2011-08-15",
+  "event_id": "2011-08-15-stand-BJNR006510956",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
