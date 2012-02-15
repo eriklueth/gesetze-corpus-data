@@ -1,0 +1,45 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR263800006",
+      "changed_paths": [
+        "laws/BJNR263800006/meta.json",
+        "laws/BJNR263800006/paragraphs/0001.md",
+        "laws/BJNR263800006/paragraphs/0002.md",
+        "laws/BJNR263800006/paragraphs/0003.md",
+        "laws/BJNR263800006/paragraphs/0004.md",
+        "laws/BJNR263800006/paragraphs/0005.md",
+        "laws/BJNR263800006/paragraphs/0006.md",
+        "laws/BJNR263800006/paragraphs/0007.md",
+        "laws/BJNR263800006/source.xml",
+        "laws/BJNR263800006/toc.json"
+      ],
+      "jurabk": "ChemOzonSchichtV",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 1",
+        "§ 2",
+        "§ 3",
+        "§ 4",
+        "§ 5"
+      ],
+      "sections_removed": [
+        "§ 6",
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "de6538bf3e654d82afb89d0459ef52ca16961e279dcee76dd0048d6be9e8b002",
+      "source_xml_sha256_before": "c515932e2b52d5a14e15f7778a41ff2cce55eda571443621da498a8168397a6e",
+      "stand_datum": "2012-02-15",
+      "title": "Verordnung über ozonabbauende Stoffe und zur Durchführung der Verordnung (EU) 2024/590"
+    }
+  ],
+  "effective_date": "2012-02-15",
+  "event_id": "2012-02-15-stand-BJNR263800006",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
