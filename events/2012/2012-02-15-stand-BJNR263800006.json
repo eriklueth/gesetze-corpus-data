@@ -4,31 +4,14 @@
       "bjnr": "BJNR263800006",
       "changed_paths": [
         "laws/BJNR263800006/meta.json",
-        "laws/BJNR263800006/paragraphs/0001.md",
-        "laws/BJNR263800006/paragraphs/0002.md",
-        "laws/BJNR263800006/paragraphs/0003.md",
-        "laws/BJNR263800006/paragraphs/0004.md",
-        "laws/BJNR263800006/paragraphs/0005.md",
-        "laws/BJNR263800006/paragraphs/0006.md",
-        "laws/BJNR263800006/paragraphs/0007.md",
-        "laws/BJNR263800006/source.xml",
-        "laws/BJNR263800006/toc.json"
+        "laws/BJNR263800006/source.xml"
       ],
       "jurabk": "ChemOzonSchichtV",
       "sections_added": [],
-      "sections_modified": [
-        "§ 1",
-        "§ 2",
-        "§ 3",
-        "§ 4",
-        "§ 5"
-      ],
-      "sections_removed": [
-        "§ 6",
-        "§ 7"
-      ],
-      "source_xml_sha256_after": "de6538bf3e654d82afb89d0459ef52ca16961e279dcee76dd0048d6be9e8b002",
-      "source_xml_sha256_before": "c515932e2b52d5a14e15f7778a41ff2cce55eda571443621da498a8168397a6e",
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "b8ea56d1945c26331a12d04547c47e6af8d000f192d2b40fe9bc2d8e7b6a49cb",
+      "source_xml_sha256_before": "de6538bf3e654d82afb89d0459ef52ca16961e279dcee76dd0048d6be9e8b002",
       "stand_datum": "2012-02-15",
       "title": "Verordnung über ozonabbauende Stoffe und zur Durchführung der Verordnung (EU) 2024/590"
     }
