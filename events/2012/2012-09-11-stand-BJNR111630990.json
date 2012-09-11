@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR111630990",
+      "changed_paths": [
+        "laws/BJNR111630990/meta.json",
+        "laws/BJNR111630990/source.xml"
+      ],
+      "jurabk": "SGB 8",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "2d009bc11f36bde58bdac118dd5eee62f684fd9e62f4aa28c35a3620e183dfd9",
+      "source_xml_sha256_before": "05b00b482af565d4e1c24b31e525e895ec3859bb6731fba644eee63626a1c66e",
+      "stand_datum": "2012-09-11",
+      "title": "Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)"
+    }
+  ],
+  "effective_date": "2012-09-11",
+  "event_id": "2012-09-11-stand-BJNR111630990",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}

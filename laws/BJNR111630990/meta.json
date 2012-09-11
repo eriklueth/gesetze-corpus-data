@@ -10,7 +10,7 @@
     "paragraph": 166
   },
   "source_hashes": {
-    "source_xml_sha256": "05b00b482af565d4e1c24b31e525e895ec3859bb6731fba644eee63626a1c66e"
+    "source_xml_sha256": "2d009bc11f36bde58bdac118dd5eee62f684fd9e62f4aa28c35a3620e183dfd9"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/sgb_8/",
@@ -25,6 +25,10 @@
     {
       "kommentar": "zuletzt geändert durch Art. 1 G v. 29.3.2026 I Nr. 85",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 7 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     }
   ],
   "title": "Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)",
