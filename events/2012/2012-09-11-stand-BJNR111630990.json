@@ -4,14 +4,18 @@
       "bjnr": "BJNR111630990",
       "changed_paths": [
         "laws/BJNR111630990/meta.json",
-        "laws/BJNR111630990/source.xml"
+        "laws/BJNR111630990/paragraphs/0064.md",
+        "laws/BJNR111630990/source.xml",
+        "laws/BJNR111630990/toc.json"
       ],
       "jurabk": "SGB 8",
       "sections_added": [],
-      "sections_modified": [],
+      "sections_modified": [
+        "§ 64"
+      ],
       "sections_removed": [],
-      "source_xml_sha256_after": "cc7a005307ccd850095af7762d9f2546849b41698b03c9448c8cea7245e9b560",
-      "source_xml_sha256_before": "2d009bc11f36bde58bdac118dd5eee62f684fd9e62f4aa28c35a3620e183dfd9",
+      "source_xml_sha256_after": "93d610715ec3e7ebdc796e3a8b069ea03575f6c9a6013c9e0bfce39e79b3734b",
+      "source_xml_sha256_before": "cc7a005307ccd850095af7762d9f2546849b41698b03c9448c8cea7245e9b560",
       "stand_datum": "2012-09-11",
       "title": "Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)"
     }
