@@ -1,0 +1,36 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR252110998",
+      "changed_paths": [
+        "laws/BJNR252110998/meta.json",
+        "laws/BJNR252110998/paragraphs/0124.md",
+        "laws/BJNR252110998/paragraphs/0129.md",
+        "laws/BJNR252110998/paragraphs/0160.md",
+        "laws/BJNR252110998/source.xml",
+        "laws/BJNR252110998/toc.json"
+      ],
+      "jurabk": "GWB",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 124",
+        "§ 129",
+        "§ 160"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "0cb8f92933cd77b317d1f33014c9b1895d1cfbcef5a9786ab721728930a13691",
+      "source_xml_sha256_before": "1a44accb4c0d1529c65431da4cdb9273330bb73eb77600ef34751181e347c185",
+      "stand_datum": "2013-06-26",
+      "title": "Gesetz gegen Wettbewerbsbeschränkungen"
+    }
+  ],
+  "effective_date": "2013-06-26",
+  "event_id": "2013-06-26-stand-BJNR252110998",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
