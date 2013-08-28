@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR017180980",
+      "changed_paths": [
+        "laws/BJNR017180980/meta.json",
+        "laws/BJNR017180980/source.xml"
+      ],
+      "jurabk": "ChemG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "45cc62eec69cd807d909343f913ea61046724eabfac474b9b01e5d04d6a8d251",
+      "source_xml_sha256_before": "bd1b6c824cd8e24c4385b8412e8f0eabf4b2f3d7c1fddb9662e1e51dcfa80e14",
+      "stand_datum": "2013-08-28",
+      "title": "Gesetz zum Schutz vor gefährlichen Stoffen"
+    }
+  ],
+  "effective_date": "2013-08-28",
+  "event_id": "2013-08-28-stand-BJNR017180980",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
