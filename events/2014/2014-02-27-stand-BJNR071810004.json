@@ -1,0 +1,42 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR071810004",
+      "changed_paths": [
+        "laws/BJNR071810004/annexes/0001.md",
+        "laws/BJNR071810004/meta.json",
+        "laws/BJNR071810004/paragraphs/0066.md",
+        "laws/BJNR071810004/paragraphs/0068.md",
+        "laws/BJNR071810004/paragraphs/0069.md",
+        "laws/BJNR071810004/paragraphs/0069b.md",
+        "laws/BJNR071810004/paragraphs/0072.md",
+        "laws/BJNR071810004/source.xml",
+        "laws/BJNR071810004/toc.json"
+      ],
+      "jurabk": "GKG 2004",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage 1",
+        "§ 66",
+        "§ 68",
+        "§ 69",
+        "§ 69b",
+        "§ 72"
+      ],
+      "source_xml_sha256_after": "3a77e2d7232a3f740c3ff839d2a1c3cad261a6a4266845fc6057c0e0a2ecd1a3",
+      "source_xml_sha256_before": "bfc1e488e3d42736527af4c7c49f7dff5620b7a603ce0127d79508c581ea71e8",
+      "stand_datum": "2014-02-27",
+      "title": "Gerichtskostengesetz"
+    }
+  ],
+  "effective_date": "2014-02-27",
+  "event_id": "2014-02-27-stand-BJNR071810004",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
