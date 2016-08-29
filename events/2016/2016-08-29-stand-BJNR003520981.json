@@ -1,0 +1,33 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR003520981",
+      "changed_paths": [
+        "laws/BJNR003520981/annexes/0002.md",
+        "laws/BJNR003520981/annexes/0004.md",
+        "laws/BJNR003520981/meta.json",
+        "laws/BJNR003520981/source.xml"
+      ],
+      "jurabk": "FuttMV 1981",
+      "sections_added": [],
+      "sections_modified": [
+        "Anlage 2",
+        "Anlage 4"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "e89b8ebdd9077995adf229ba93ef2484533c0cf838a374deaece7f1bd684eff9",
+      "source_xml_sha256_before": "10a25105cadfe75732e0d45fe08d72d696caec5f59c205f61f737d74fe7584c3",
+      "stand_datum": "2016-08-29",
+      "title": "Futtermittelverordnung"
+    }
+  ],
+  "effective_date": "2016-08-29",
+  "event_id": "2016-08-29-stand-BJNR003520981",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
