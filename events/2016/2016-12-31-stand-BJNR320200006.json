@@ -1,0 +1,40 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR320200006",
+      "changed_paths": [
+        "laws/BJNR320200006/meta.json",
+        "laws/BJNR320200006/paragraphs/0001.md",
+        "laws/BJNR320200006/paragraphs/0002.md",
+        "laws/BJNR320200006/paragraphs/0003.md",
+        "laws/BJNR320200006/paragraphs/0004.md",
+        "laws/BJNR320200006/paragraphs/0005.md",
+        "laws/BJNR320200006/source.xml",
+        "laws/BJNR320200006/toc.json"
+      ],
+      "jurabk": "eBAnzV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 2",
+        "§ 3",
+        "§ 4",
+        "§ 5"
+      ],
+      "source_xml_sha256_after": "ab16a55c97f6c78e897a9aaf1285098a8211d2d3d90dfa2788c7d5d86b454b49",
+      "source_xml_sha256_before": "950b9ebc40f104f2e26ce34484d69860adbb12d289f74b61f5519f6e67dc703b",
+      "stand_datum": "2016-12-31",
+      "title": "Verordnung über die Übertragung der Führung des Unternehmensregisters"
+    }
+  ],
+  "effective_date": "2016-12-31",
+  "event_id": "2016-12-31-stand-BJNR320200006",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
