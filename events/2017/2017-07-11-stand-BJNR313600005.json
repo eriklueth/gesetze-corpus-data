@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR313600005",
+      "changed_paths": [
+        "laws/BJNR313600005/meta.json",
+        "laws/BJNR313600005/paragraphs/0002.md",
+        "laws/BJNR313600005/source.xml",
+        "laws/BJNR313600005/toc.json"
+      ],
+      "jurabk": "TKÜV 2005",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 2"
+      ],
+      "source_xml_sha256_after": "9c2b33084267982203b211bf943ae0e9248d786500eae4b41465bd3b64eeade5",
+      "source_xml_sha256_before": "f1c1016b8d3f7722256cd07701c98909c1e66177e1eace89596e78395853e1ae",
+      "stand_datum": "2017-07-11",
+      "title": "Verordnung über die technische und organisatorische Umsetzung von Maßnahmen zur Überwachung der Telekommunikation"
+    }
+  ],
+  "effective_date": "2017-07-11",
+  "event_id": "2017-07-11-stand-BJNR313600005",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
