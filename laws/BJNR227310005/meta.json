@@ -10,7 +10,7 @@
     "paragraph": 7
   },
   "source_hashes": {
-    "source_xml_sha256": "d30fd6539ffd68615cc2852b85beeb9d54c04dcc0c57593d9c7f20906b504908"
+    "source_xml_sha256": "cf87db0f42219fae041d330503274a8bacc89f9d2122221d14ab3fb3be5c7699"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/grsidav/",
@@ -21,6 +21,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 1 V v. 30.11.2017 I 3826",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 11 Abs. 13 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     }
   ],
   "title": "Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung für Arbeitsuchende",

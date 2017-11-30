@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR227310005",
+      "changed_paths": [
+        "laws/BJNR227310005/meta.json",
+        "laws/BJNR227310005/source.xml"
+      ],
+      "jurabk": "GrSiDAV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "cf87db0f42219fae041d330503274a8bacc89f9d2122221d14ab3fb3be5c7699",
+      "source_xml_sha256_before": "d30fd6539ffd68615cc2852b85beeb9d54c04dcc0c57593d9c7f20906b504908",
+      "stand_datum": "2017-11-30",
+      "title": "Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung für Arbeitsuchende"
+    }
+  ],
+  "effective_date": "2017-11-30",
+  "event_id": "2017-11-30-stand-BJNR227310005",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
