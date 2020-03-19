@@ -1,0 +1,46 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR284600017",
+      "changed_paths": [
+        "laws/BJNR284600017/meta.json",
+        "laws/BJNR284600017/paragraphs/0004.md",
+        "laws/BJNR284600017/paragraphs/0007.md",
+        "laws/BJNR284600017/paragraphs/0009.md",
+        "laws/BJNR284600017/paragraphs/0010.md",
+        "laws/BJNR284600017/paragraphs/0040.md",
+        "laws/BJNR284600017/paragraphs/0041.md",
+        "laws/BJNR284600017/paragraphs/0053.md",
+        "laws/BJNR284600017/paragraphs/0054.md",
+        "laws/BJNR284600017/source.xml",
+        "laws/BJNR284600017/toc.json"
+      ],
+      "jurabk": "PrüfV 2017",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10",
+        "§ 4",
+        "§ 40",
+        "§ 41",
+        "§ 53",
+        "§ 54",
+        "§ 7",
+        "§ 9"
+      ],
+      "source_xml_sha256_after": "9d8786706cc74f0df75087f8936e107a65c7c9d701c9196d8f7659b46b1230c5",
+      "source_xml_sha256_before": "77bde8a7e5c56fbff90fab748caa25241db0e3941200cf235d171962c546544e",
+      "stand_datum": "2020-03-19",
+      "title": "Verordnung über den Inhalt der Prüfungsberichte zu den Jahresabschlüssen und den Solvabilitätsübersichten von Versicherungsunternehmen"
+    }
+  ],
+  "effective_date": "2020-03-19",
+  "event_id": "2020-03-19-stand-BJNR284600017",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}

@@ -8,10 +8,10 @@
   "schema_version": "v2",
   "section_counts": {
     "annex": 1,
-    "paragraph": 57
+    "paragraph": 49
   },
   "source_hashes": {
-    "source_xml_sha256": "77bde8a7e5c56fbff90fab748caa25241db0e3941200cf235d171962c546544e"
+    "source_xml_sha256": "9d8786706cc74f0df75087f8936e107a65c7c9d701c9196d8f7659b46b1230c5"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/pr_fv_2017/",
@@ -22,6 +22,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 11 G v. 19.3.2020 I 529",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 V v. 29.4.2026 I Nr. 124 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     }
   ],
   "title": "Verordnung über den Inhalt der Prüfungsberichte zu den Jahresabschlüssen und den Solvabilitätsübersichten von Versicherungsunternehmen",
