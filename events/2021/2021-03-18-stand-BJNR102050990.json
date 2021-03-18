@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR102050990",
+      "changed_paths": [
+        "laws/BJNR102050990/meta.json",
+        "laws/BJNR102050990/paragraphs/0065.md",
+        "laws/BJNR102050990/source.xml",
+        "laws/BJNR102050990/toc.json"
+      ],
+      "jurabk": "UVPG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 65"
+      ],
+      "source_xml_sha256_after": "50cfeee17b1b0d66c6b549e47034b999347959f609f56148d4f5770fe7a2b749",
+      "source_xml_sha256_before": "b1321f0620f38fd21bcb59e9105272639016fad9b12e9142568f45ec2bfef19d",
+      "stand_datum": "2021-03-18",
+      "title": "Gesetz über die Umweltverträglichkeitsprüfung"
+    }
+  ],
+  "effective_date": "2021-03-18",
+  "event_id": "2021-03-18-stand-BJNR102050990",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
