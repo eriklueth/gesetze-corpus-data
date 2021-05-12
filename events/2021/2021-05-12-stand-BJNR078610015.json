@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR078610015",
+      "changed_paths": [
+        "laws/BJNR078610015/meta.json",
+        "laws/BJNR078610015/paragraphs/0050.md",
+        "laws/BJNR078610015/source.xml",
+        "laws/BJNR078610015/toc.json"
+      ],
+      "jurabk": "EinSiG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 50"
+      ],
+      "source_xml_sha256_after": "4599a1e3fbd534158c54ba3e3d891b257f81faca4e201eb21ef0e5ca172bc8a9",
+      "source_xml_sha256_before": "d73775b9d6ec6fd5857658c5f6d90bf88c5d4a8c306facc7decbd353767a9bda",
+      "stand_datum": "2021-05-12",
+      "title": "Einlagensicherungsgesetz"
+    }
+  ],
+  "effective_date": "2021-05-12",
+  "event_id": "2021-05-12-stand-BJNR078610015",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
