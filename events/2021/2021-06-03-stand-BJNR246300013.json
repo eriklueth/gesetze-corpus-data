@@ -1,0 +1,25 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR246300013",
+      "changed_paths": [
+        "laws/BJNR246300013/meta.json",
+        "laws/BJNR246300013/source.xml"
+      ],
+      "jurabk": "DerivateV 2013",
+      "source_xml_sha256_after": "41b224f61630b52acbf69ada933e8bf3a7b1ef8f69ee8c59d24efd45392595d0",
+      "source_xml_sha256_before": "49cc7290f3c48e8314c55d9624455b3573ebca3e86fb924a46a5cf14ffed53f1",
+      "stand_datum": "2021-06-03",
+      "title": "Verordnung über Risikomanagement und Risikomessung beim Einsatz von Derivaten, Wertpapier-Darlehen und Pensionsgeschäften in Investmentvermögen nach dem Kapitalanlagegesetzbuch"
+    }
+  ],
+  "effective_date": "2021-06-03",
+  "event_id": "2021-06-03-stand-BJNR246300013",
+  "schema_version": "v1",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.1.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; not a per-paragraph event"
+  }
+}
