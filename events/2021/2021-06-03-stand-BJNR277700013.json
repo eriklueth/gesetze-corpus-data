@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR277700013",
+      "changed_paths": [
+        "laws/BJNR277700013/meta.json",
+        "laws/BJNR277700013/paragraphs/0003.md",
+        "laws/BJNR277700013/source.xml",
+        "laws/BJNR277700013/toc.json"
+      ],
+      "jurabk": "KAPrüfbV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 3"
+      ],
+      "source_xml_sha256_after": "8dea76a20b9dd1e710d1e91ddc54e33edd1cff8e93b56b814e50f37f5d0cf00a",
+      "source_xml_sha256_before": "f3592f4d4ed5a190e91322f0ad1d526735ec3bb8f3d019702fffd0a6a4d2d8a6",
+      "stand_datum": "2021-06-03",
+      "title": "Verordnung über den Gegenstand der Prüfung und die Inhalte der Prüfungsberichte für externe Kapitalverwaltungsgesellschaften, Investmentaktiengesellschaften, Investmentkommanditgesellschaften und Sondervermögen"
+    }
+  ],
+  "effective_date": "2021-06-03",
+  "event_id": "2021-06-03-stand-BJNR277700013",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
