@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR418300013",
+      "changed_paths": [
+        "laws/BJNR418300013/meta.json",
+        "laws/BJNR418300013/paragraphs/0001.md",
+        "laws/BJNR418300013/source.xml",
+        "laws/BJNR418300013/toc.json"
+      ],
+      "jurabk": "GroMiKV 2014",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "4d45630e74dc40621b16643151ed37d2cb03b89acbc6e54e228828c333ccaa25",
+      "source_xml_sha256_before": "a60c43d2cd6ad48f97fd082ea359b6dd0ce3f5418c81f22ab20cc91a065b7449",
+      "stand_datum": "2021-06-22",
+      "title": "Verordnung zur Ergänzung der Großkreditvorschriften nach der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012 und zur Ergänzung der Millionenkreditvorschriften nach dem Kreditwesengesetz"
+    }
+  ],
+  "effective_date": "2021-06-22",
+  "event_id": "2021-06-22-stand-BJNR418300013",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
