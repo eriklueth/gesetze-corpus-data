@@ -1,0 +1,69 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR314700021",
+      "changed_paths": [
+        "laws/BJNR314700021/annexes/0000.md",
+        "laws/BJNR314700021/meta.json",
+        "laws/BJNR314700021/paragraphs/0001.md",
+        "laws/BJNR314700021/paragraphs/0002.md",
+        "laws/BJNR314700021/paragraphs/0003.md",
+        "laws/BJNR314700021/paragraphs/0004.md",
+        "laws/BJNR314700021/paragraphs/0005.md",
+        "laws/BJNR314700021/paragraphs/0006.md",
+        "laws/BJNR314700021/paragraphs/0007.md",
+        "laws/BJNR314700021/paragraphs/0008.md",
+        "laws/BJNR314700021/paragraphs/0011.md",
+        "laws/BJNR314700021/paragraphs/0020.md",
+        "laws/BJNR314700021/paragraphs/0021.md",
+        "laws/BJNR314700021/paragraphs/0023.md",
+        "laws/BJNR314700021/paragraphs/0024.md",
+        "laws/BJNR314700021/paragraphs/0025.md",
+        "laws/BJNR314700021/paragraphs/0027.md",
+        "laws/BJNR314700021/paragraphs/0028.md",
+        "laws/BJNR314700021/paragraphs/0029.md",
+        "laws/BJNR314700021/paragraphs/0030.md",
+        "laws/BJNR314700021/source.xml",
+        "laws/BJNR314700021/toc.json"
+      ],
+      "jurabk": "ProdSG 2021",
+      "sections_added": [],
+      "sections_modified": [
+        "Anlage"
+      ],
+      "sections_removed": [
+        "§ 1",
+        "§ 11",
+        "§ 2",
+        "§ 20",
+        "§ 21",
+        "§ 23",
+        "§ 24",
+        "§ 25",
+        "§ 27",
+        "§ 28",
+        "§ 29",
+        "§ 3",
+        "§ 30",
+        "§ 4",
+        "§ 5",
+        "§ 6",
+        "§ 7",
+        "§ 8"
+      ],
+      "source_xml_sha256_after": "587910fe6cd593377df1aaca01af10359a5a940f03e91515925709e4bc8f9909",
+      "source_xml_sha256_before": "93aa5c257e6a91701f4bf0693739a1d0eb149844d22d8f1f41827206675b3cd2",
+      "stand_datum": "2021-07-27",
+      "title": "Gesetz über die Bereitstellung von Produkten auf dem Markt"
+    }
+  ],
+  "effective_date": "2021-07-27",
+  "event_id": "2021-07-27-stand-BJNR314700021",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
