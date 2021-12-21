@@ -1,0 +1,40 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR224610020",
+      "changed_paths": [
+        "laws/BJNR224610020/meta.json",
+        "laws/BJNR224610020/paragraphs/0003.md",
+        "laws/BJNR224610020/paragraphs/0007.md",
+        "laws/BJNR224610020/paragraphs/0012.md",
+        "laws/BJNR224610020/paragraphs/0031.md",
+        "laws/BJNR224610020/paragraphs/0034.md",
+        "laws/BJNR224610020/source.xml",
+        "laws/BJNR224610020/toc.json"
+      ],
+      "jurabk": "NotAktVV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 12",
+        "§ 3",
+        "§ 31",
+        "§ 34",
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "4480bd663e53d216ab49ff8a36e948b1c3a0ba110bd4c2035ce1d98912d9c288",
+      "source_xml_sha256_before": "5250bab1be557dbcb4dcc23fecd0df7e7d447dc10ad9b93e399215f4e1e2873f",
+      "stand_datum": "2021-12-21",
+      "title": "Verordnung über die Führung notarieller Akten und Verzeichnisse"
+    }
+  ],
+  "effective_date": "2021-12-21",
+  "event_id": "2021-12-21-stand-BJNR224610020",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
