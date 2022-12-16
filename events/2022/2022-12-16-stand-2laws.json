@@ -1,0 +1,43 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR107810996",
+      "changed_paths": [
+        "laws/BJNR107810996/meta.json",
+        "laws/BJNR107810996/source.xml"
+      ],
+      "jurabk": "AltTZG 1996",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "ec8dbec55d0b908849e2fb590d03a39d240b4f70ad4244635695fd83a303a167",
+      "source_xml_sha256_before": "a05ba464fa0b5c96ae492aa3891ba5ad7a563eb3ac214a9c7935641cf3002088",
+      "stand_datum": "2022-12-16",
+      "title": "Altersteilzeitgesetz"
+    },
+    {
+      "bjnr": "BJNR285510020",
+      "changed_paths": [
+        "laws/BJNR285510020/meta.json",
+        "laws/BJNR285510020/source.xml"
+      ],
+      "jurabk": "RBEG 2021",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "4b105a3fdc7c196c9d8eeba0d7796f78a1700cc5ba91e9165e14cf552c20c068",
+      "source_xml_sha256_before": "729c4463331b7ee185b45937aea5d17e815fcf3963882b381f4644ce0126dda2",
+      "stand_datum": "2022-12-16",
+      "title": "Gesetz zur Ermittlung der Regelbedarfe nach § 28 des Zwölften Buches Sozialgesetzbuch ab dem Jahr 2021"
+    }
+  ],
+  "effective_date": "2022-12-16",
+  "event_id": "2022-12-16-stand-2laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
