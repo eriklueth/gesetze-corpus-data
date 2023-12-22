@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR025570988",
+      "changed_paths": [
+        "laws/BJNR025570988/meta.json",
+        "laws/BJNR025570988/source.xml"
+      ],
+      "jurabk": "KVLG 1989",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "435c9f562f5fcc4008e08c1ec4a3264741f9be74994bf35dbf5f419a90b249d0",
+      "source_xml_sha256_before": "eb248d12638b58e841ee2425faf2b8d2182a1a18a635dce0868f2824b63596e4",
+      "stand_datum": "2023-12-22",
+      "title": "Zweites Gesetz über die Krankenversicherung der Landwirte"
+    }
+  ],
+  "effective_date": "2023-12-22",
+  "event_id": "2023-12-22-stand-BJNR025570988",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
