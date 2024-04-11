@@ -1,0 +1,34 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR312000011",
+      "changed_paths": [
+        "laws/BJNR312000011/meta.json",
+        "laws/BJNR312000011/paragraphs/0011.md",
+        "laws/BJNR312000011/paragraphs/0012.md",
+        "laws/BJNR312000011/source.xml",
+        "laws/BJNR312000011/toc.json"
+      ],
+      "jurabk": "GBZugV 2011",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 11",
+        "§ 12"
+      ],
+      "source_xml_sha256_after": "dfbd022ba92d848602b6b78919ffa952dc7074b0094da3170ad969638d326105",
+      "source_xml_sha256_before": "fd34e43ca1f1b7076da921b07e81404ff23effaf4ac4c325f5045511d565d3b4",
+      "stand_datum": "2024-04-11",
+      "title": "Berufszugangsverordnung für den Güterkraftverkehr"
+    }
+  ],
+  "effective_date": "2024-04-11",
+  "event_id": "2024-04-11-stand-BJNR312000011",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
