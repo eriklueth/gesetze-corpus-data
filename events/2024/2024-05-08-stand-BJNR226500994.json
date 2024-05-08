@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR226500994",
+      "changed_paths": [
+        "laws/BJNR226500994/meta.json",
+        "laws/BJNR226500994/source.xml"
+      ],
+      "jurabk": "AZRG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "294201c4292a2ab05296dd48e60e1b63962dc6e78ea09beb5e6c87fba74de8b4",
+      "source_xml_sha256_before": "607490f727c7937ca137ca74250e088caad7b2c40332b694ade4c677ea3b19ac",
+      "stand_datum": "2024-05-08",
+      "title": "Gesetz über das Ausländerzentralregister"
+    }
+  ],
+  "effective_date": "2024-05-08",
+  "event_id": "2024-05-08-stand-BJNR226500994",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}

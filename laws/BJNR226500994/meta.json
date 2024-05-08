@@ -10,7 +10,7 @@
     "paragraph": 60
   },
   "source_hashes": {
-    "source_xml_sha256": "607490f727c7937ca137ca74250e088caad7b2c40332b694ade4c677ea3b19ac"
+    "source_xml_sha256": "294201c4292a2ab05296dd48e60e1b63962dc6e78ea09beb5e6c87fba74de8b4"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/azrg/",
@@ -21,6 +21,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 12 G v. 8.5.2024 I Nr. 152",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 G v. 23.4.2026 I Nr. 112 mWv 1.11.2026 noch nicht berücksichtigt",
+      "typ": "Hinweis"
     }
   ],
   "title": "Gesetz über das Ausländerzentralregister",
