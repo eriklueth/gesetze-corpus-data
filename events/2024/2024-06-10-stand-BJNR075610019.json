@@ -1,0 +1,52 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR075610019",
+      "changed_paths": [
+        "laws/BJNR075610019/annexes/0001.md",
+        "laws/BJNR075610019/annexes/0002.md",
+        "laws/BJNR075610019/meta.json",
+        "laws/BJNR075610019/paragraphs/0001.md",
+        "laws/BJNR075610019/paragraphs/0002.md",
+        "laws/BJNR075610019/paragraphs/0002a.md",
+        "laws/BJNR075610019/paragraphs/0004.md",
+        "laws/BJNR075610019/paragraphs/0005.md",
+        "laws/BJNR075610019/paragraphs/0006.md",
+        "laws/BJNR075610019/paragraphs/0007.md",
+        "laws/BJNR075610019/paragraphs/0014.md",
+        "laws/BJNR075610019/paragraphs/0015.md",
+        "laws/BJNR075610019/source.xml",
+        "laws/BJNR075610019/toc.json"
+      ],
+      "jurabk": "eKFV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage 1",
+        "Anlage 2",
+        "§ 1",
+        "§ 14",
+        "§ 15",
+        "§ 2",
+        "§ 2a",
+        "§ 4",
+        "§ 5",
+        "§ 6",
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "b7a8fcfdf45d6091079a35a71404c936a6516b83464f59fb4eb1d8b1ef182b41",
+      "source_xml_sha256_before": "53685bfed1c073d302b683a5517de34f8b5f3cf5a992d67d0340f013c2cb2853",
+      "stand_datum": "2024-06-10",
+      "title": "Verordnung über die Teilnahme von Elektrokleinstfahrzeugen am Straßenverkehr"
+    }
+  ],
+  "effective_date": "2024-06-10",
+  "event_id": "2024-06-10-stand-BJNR075610019",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
