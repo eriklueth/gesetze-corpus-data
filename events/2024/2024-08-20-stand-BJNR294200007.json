@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR294200007",
+      "changed_paths": [
+        "laws/BJNR294200007/meta.json",
+        "laws/BJNR294200007/source.xml"
+      ],
+      "jurabk": "AlgIIV 2008",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "43a42f6372fa29e8561866f302a3c87f518f0ba8592a3759c9adab396f9a1185",
+      "source_xml_sha256_before": "6faac29f3fcf69d277b92d7948736720b5c3782af83cc9bfedee737bab81de17",
+      "stand_datum": "2024-08-20",
+      "title": "Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld"
+    }
+  ],
+  "effective_date": "2024-08-20",
+  "event_id": "2024-08-20-stand-BJNR294200007",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
