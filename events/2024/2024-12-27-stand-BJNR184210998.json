@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR184210998",
+      "changed_paths": [
+        "laws/BJNR184210998/meta.json",
+        "laws/BJNR184210998/paragraphs/0001.md",
+        "laws/BJNR184210998/source.xml",
+        "laws/BJNR184210998/toc.json"
+      ],
+      "jurabk": "EAEG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "146b27c7d180616ea014ee997ea76b064dbf9ee92ba51dbe5d425d69c7b022b3",
+      "source_xml_sha256_before": "823aa02e6cf2accb2f5366ffb4290aea0d93fc83ae5e57dd89d023f749668d2f",
+      "stand_datum": "2024-12-27",
+      "title": "Anlegerentschädigungsgesetz"
+    }
+  ],
+  "effective_date": "2024-12-27",
+  "event_id": "2024-12-27-stand-BJNR184210998",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
