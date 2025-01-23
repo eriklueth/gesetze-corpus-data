@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR006130976",
+      "changed_paths": [
+        "laws/BJNR006130976/meta.json",
+        "laws/BJNR006130976/paragraphs/0139b.md",
+        "laws/BJNR006130976/source.xml",
+        "laws/BJNR006130976/toc.json"
+      ],
+      "jurabk": "AO 1977",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 139b"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "aae556f849d1c015e40602bcfe0d2f453594ba6f674085097d382eadb9bb8f69",
+      "source_xml_sha256_before": "b3b07bd6b48d72160a2d8ef44a2654cfddede2aaeddd2c8fd26f4def2cdbfac1",
+      "stand_datum": "2025-01-23",
+      "title": "Abgabenordnung"
+    }
+  ],
+  "effective_date": "2025-01-23",
+  "event_id": "2025-01-23-stand-BJNR006130976",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}

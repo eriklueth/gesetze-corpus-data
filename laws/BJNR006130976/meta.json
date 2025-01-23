@@ -11,7 +11,7 @@
     "paragraph": 501
   },
   "source_hashes": {
-    "source_xml_sha256": "b3b07bd6b48d72160a2d8ef44a2654cfddede2aaeddd2c8fd26f4def2cdbfac1"
+    "source_xml_sha256": "aae556f849d1c015e40602bcfe0d2f453594ba6f674085097d382eadb9bb8f69"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/ao_1977/",
@@ -29,6 +29,10 @@
     },
     {
       "kommentar": "Mittelbare Änderung durch Art. 9 Abs. 2 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 3 G v. 16.4.2026 I Nr. 106 ist berücksichtigt",
       "typ": "Hinweis"
     }
   ],
