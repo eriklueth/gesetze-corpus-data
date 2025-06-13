@@ -10,7 +10,7 @@
     "paragraph": 161
   },
   "source_hashes": {
-    "source_xml_sha256": "925444c5b28df4807105e740904f5cc2fe71e48f2363aed50d72ba20b241bd2b"
+    "source_xml_sha256": "e8a6d69f0fffd66be992110b7b41673928770ba41568177b0473f2a6cdadbbc1"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/sgb_14/",
@@ -21,6 +21,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 1 V v. 13.6.2025 I Nr. 144",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 9a G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     }
   ],
   "title": "Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -",

@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR265210019",
+      "changed_paths": [
+        "laws/BJNR265210019/meta.json",
+        "laws/BJNR265210019/source.xml"
+      ],
+      "jurabk": "SGB 14",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "e8a6d69f0fffd66be992110b7b41673928770ba41568177b0473f2a6cdadbbc1",
+      "source_xml_sha256_before": "925444c5b28df4807105e740904f5cc2fe71e48f2363aed50d72ba20b241bd2b",
+      "stand_datum": "2025-06-13",
+      "title": "Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -"
+    }
+  ],
+  "effective_date": "2025-06-13",
+  "event_id": "2025-06-13-stand-BJNR265210019",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
