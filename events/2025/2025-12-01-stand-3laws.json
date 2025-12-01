@@ -1,0 +1,72 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR137810011",
+      "changed_paths": [
+        "laws/BJNR137810011/meta.json",
+        "laws/BJNR137810011/paragraphs/0007.md",
+        "laws/BJNR137810011/source.xml",
+        "laws/BJNR137810011/toc.json"
+      ],
+      "jurabk": "BFStrMG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "56b167ace6e52530839bdd694571ebc36140c6f3379630776dd8c38c61d2d55e",
+      "source_xml_sha256_before": "5fa10bef5893ff2aa4cbcbd0f1a3fbba332becfa626d3ba954f03b1df6c9e4a5",
+      "stand_datum": "2025-12-01",
+      "title": "Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen"
+    },
+    {
+      "bjnr": "BJNR212000007",
+      "changed_paths": [
+        "laws/BJNR212000007/meta.json",
+        "laws/BJNR212000007/paragraphs/0001.md",
+        "laws/BJNR212000007/source.xml",
+        "laws/BJNR212000007/toc.json"
+      ],
+      "jurabk": "PostSZV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "98dd04e867fff1dbcab1e2e811a8fa5a9ae382ba8ed3d0ee9c0c4de8bf06b56f",
+      "source_xml_sha256_before": "dbfa0b3827b7ab0c146c895742a87b09295fba82580b549e489b85fd703f28fb",
+      "stand_datum": "2025-12-01",
+      "title": "Verordnung über die Gewährung einer monatlichen Sonderzahlung an die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten"
+    },
+    {
+      "bjnr": "BJNR220410015",
+      "changed_paths": [
+        "laws/BJNR220410015/meta.json",
+        "laws/BJNR220410015/paragraphs/0001.md",
+        "laws/BJNR220410015/paragraphs/0002.md",
+        "laws/BJNR220410015/source.xml",
+        "laws/BJNR220410015/toc.json"
+      ],
+      "jurabk": "PostBATZV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 2"
+      ],
+      "source_xml_sha256_after": "b7c01437edc15c92d63b276b34c4179c879ef0f560a3853f155c9329f3a6ebb3",
+      "source_xml_sha256_before": "56d9baae2c947daaa221cb977f57f58faa544009e934a4adde28c95bb2c8b51e",
+      "stand_datum": "2025-12-01",
+      "title": "Verordnung über die Bewilligung von Altersteilzeit und die Gewährung eines Altersteilzeitzuschlags für die Beamtinnen und Beamten bei der Deutschen Post AG"
+    }
+  ],
+  "effective_date": "2025-12-01",
+  "event_id": "2025-12-01-stand-3laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
