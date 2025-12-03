@@ -1,0 +1,34 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR115600018",
+      "changed_paths": [
+        "laws/BJNR115600018/meta.json",
+        "laws/BJNR115600018/paragraphs/0003.md",
+        "laws/BJNR115600018/paragraphs/0005a.md",
+        "laws/BJNR115600018/source.xml",
+        "laws/BJNR115600018/toc.json"
+      ],
+      "jurabk": "Lkw-MautV 2018",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 3",
+        "§ 5a"
+      ],
+      "source_xml_sha256_after": "85b3d3df6eb52043c69906c91aab368c49faee990b8ead4d3cb025b07000a476",
+      "source_xml_sha256_before": "16ed62491cfd6910ecb099b530827657b6513715c4f4fd85bff28fd4e6022160",
+      "stand_datum": "2025-12-03",
+      "title": "Verordnung zur Erhebung, zur Nachweisführung über die für die Maut maßgeblichen Tatsachen und zur Erstattung der Maut"
+    }
+  ],
+  "effective_date": "2025-12-03",
+  "event_id": "2025-12-03-stand-BJNR115600018",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
