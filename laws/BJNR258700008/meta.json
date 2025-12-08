@@ -10,7 +10,7 @@
     "paragraph": 527
   },
   "source_hashes": {
-    "source_xml_sha256": "a97c7c6ed39a3335b27c712c103c2cd3894168c03c559b0da0a1ceb9b07c03ba"
+    "source_xml_sha256": "178d884a7e67b490ee2e3b3ef69e7f64dfe504a0753ec1da5353d4c4dfc9022a"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/famfg/",
@@ -48,6 +48,10 @@
     },
     {
       "kommentar": "Änderung durch Art. 4 G v. 29.3.2026 I Nr. 83 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 11 Abs. 7 G v. 16.4.2026 I Nr. 107 ist berücksichtigt",
       "typ": "Hinweis"
     },
     {

@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR258700008",
+      "changed_paths": [
+        "laws/BJNR258700008/meta.json",
+        "laws/BJNR258700008/source.xml"
+      ],
+      "jurabk": "FamFG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "178d884a7e67b490ee2e3b3ef69e7f64dfe504a0753ec1da5353d4c4dfc9022a",
+      "source_xml_sha256_before": "a97c7c6ed39a3335b27c712c103c2cd3894168c03c559b0da0a1ceb9b07c03ba",
+      "stand_datum": "2025-12-08",
+      "title": "Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit"
+    }
+  ],
+  "effective_date": "2025-12-08",
+  "event_id": "2025-12-08-stand-BJNR258700008",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
