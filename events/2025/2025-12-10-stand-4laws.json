@@ -1,0 +1,111 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR006670953",
+      "changed_paths": [
+        "laws/BJNR006670953/meta.json",
+        "laws/BJNR006670953/paragraphs/0017.md",
+        "laws/BJNR006670953/source.xml",
+        "laws/BJNR006670953/toc.json"
+      ],
+      "jurabk": "LwVfG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 17"
+      ],
+      "source_xml_sha256_after": "a02d7a40cd22f6dd0415b1754fdca5c3413e473e9bbc58f1475b35e7bd32f957",
+      "source_xml_sha256_before": "559db8b952c0547dc2cf90ec85d04f22ede530de5488768698c9afb056ae340b",
+      "stand_datum": "2025-12-10",
+      "title": "Gesetz über das gerichtliche Verfahren in Landwirtschaftssachen"
+    },
+    {
+      "bjnr": "BJNR013900022",
+      "changed_paths": [
+        "laws/BJNR013900022/annexes/0003.md",
+        "laws/BJNR013900022/annexes/0004.md",
+        "laws/BJNR013900022/annexes/0005.md",
+        "laws/BJNR013900022/meta.json",
+        "laws/BJNR013900022/paragraphs/0003.md",
+        "laws/BJNR013900022/paragraphs/0007.md",
+        "laws/BJNR013900022/paragraphs/0008.md",
+        "laws/BJNR013900022/paragraphs/0011.md",
+        "laws/BJNR013900022/paragraphs/0019.md",
+        "laws/BJNR013900022/paragraphs/0021.md",
+        "laws/BJNR013900022/source.xml",
+        "laws/BJNR013900022/toc.json"
+      ],
+      "jurabk": "GAPDZV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage 3",
+        "Anlage 4",
+        "Anlage 5",
+        "§ 11",
+        "§ 19",
+        "§ 21",
+        "§ 3",
+        "§ 7",
+        "§ 8"
+      ],
+      "source_xml_sha256_after": "d8ddeae6ce7b55e9472d9f99e6a965e845e9f27b04af6c46acbe9f622da9bb5a",
+      "source_xml_sha256_before": "1c86fa04c5b935669791c8434a9274ed07692edced058a926fd080d5f4af8327",
+      "stand_datum": "2025-12-10",
+      "title": "Verordnung zur Durchführung der GAP-Direktzahlungen"
+    },
+    {
+      "bjnr": "BJNR023170974",
+      "changed_paths": [
+        "laws/BJNR023170974/meta.json",
+        "laws/BJNR023170974/paragraphs/0010.md",
+        "laws/BJNR023170974/paragraphs/0013.md",
+        "laws/BJNR023170974/paragraphs/0026.md",
+        "laws/BJNR023170974/source.xml",
+        "laws/BJNR023170974/toc.json"
+      ],
+      "jurabk": "KonsG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10",
+        "§ 13",
+        "§ 26"
+      ],
+      "source_xml_sha256_after": "11450907a16776507e17bc7742d4a42150dd9eecc24efdda0028ac93b1c8ab0f",
+      "source_xml_sha256_before": "3eafc6d8aba336da301ba6a44bdef245fa9b2969e0a68612caff2ad99444b149",
+      "stand_datum": "2025-12-10",
+      "title": "Gesetz über die Konsularbeamten, ihre Aufgaben und Befugnisse"
+    },
+    {
+      "bjnr": "BJNR104210015",
+      "changed_paths": [
+        "laws/BJNR104210015/meta.json",
+        "laws/BJNR104210015/paragraphs/0001.md",
+        "laws/BJNR104210015/paragraphs/0031.md",
+        "laws/BJNR104210015/source.xml",
+        "laws/BJNR104210015/toc.json"
+      ],
+      "jurabk": "IntErbRVG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 31"
+      ],
+      "source_xml_sha256_after": "e8d04973ba70b31eda5313f37b21e97849a91621bb1a0a2b35840d95e8a31006",
+      "source_xml_sha256_before": "0563aa003bcd0845e761f4f5c69b8d83909d2ed134c5ee626878337700f74001",
+      "stand_datum": "2025-12-10",
+      "title": "Internationales Erbrechtsverfahrensgesetz"
+    }
+  ],
+  "effective_date": "2025-12-10",
+  "event_id": "2025-12-10-stand-4laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
