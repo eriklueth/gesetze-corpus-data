@@ -11,25 +11,17 @@
     "paragraph": 139
   },
   "source_hashes": {
-    "source_xml_sha256": "865481b26a30752b48c0dc3c317353a9bb39bdb7f2f463cc2c331d262310bb89"
+    "source_xml_sha256": "1c2c1ce97928497c9dbba802db30301005a87fa89e52b2ef6474214f362a3209"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/gnotkg/",
     "gii_xml_zip": "https://www.gesetze-im-internet.de/gnotkg/xml.zip"
   },
-  "stand_datum": "2025-12-08",
+  "stand_datum": "2025-12-10",
   "standangabe": [
     {
-      "kommentar": "Zuletzt geändert durch Art. 20 G v. 8.12.2025 I Nr. 318",
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 10.12.2025 I Nr. 320",
       "typ": "Stand"
-    },
-    {
-      "kommentar": "Änderung durch Art. 6 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
-      "typ": "Hinweis"
-    },
-    {
-      "kommentar": "Mittelbare Änderung durch Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt",
-      "typ": "Sonst"
     }
   ],
   "title": "Gesetz über Kosten der freiwilligen Gerichtsbarkeit für Gerichte und Notare",
