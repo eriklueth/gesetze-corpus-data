@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR086400000",
+      "changed_paths": [
+        "laws/BJNR086400000/meta.json",
+        "laws/BJNR086400000/paragraphs/0010.md",
+        "laws/BJNR086400000/source.xml",
+        "laws/BJNR086400000/toc.json"
+      ],
+      "jurabk": "VerfGlasAusbV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10"
+      ],
+      "source_xml_sha256_after": "af84dcd335db3b49b2b0cc0e37afeaec4bc5941aa8caf5adcffbef38ecf7d7ff",
+      "source_xml_sha256_before": "16f795d9d540e3c21587d9ea4cbe1624f3704d8891e1a294a1164231d7b2a135",
+      "stand_datum": "2025-12-16",
+      "title": "Verordnung über die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik"
+    }
+  ],
+  "effective_date": "2025-12-16",
+  "event_id": "2025-12-16-stand-BJNR086400000",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
