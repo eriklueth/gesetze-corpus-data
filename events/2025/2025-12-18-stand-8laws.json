@@ -1,0 +1,197 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR000120992",
+      "changed_paths": [
+        "laws/BJNR000120992/meta.json",
+        "laws/BJNR000120992/paragraphs/0001.md",
+        "laws/BJNR000120992/source.xml",
+        "laws/BJNR000120992/toc.json"
+      ],
+      "jurabk": "KAV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "6cc177b175e17739238c7af19d90214780e75149bf38a05e3af231c996273166",
+      "source_xml_sha256_before": "b5c281e37ad454c7b6ab5c0696dcaa788ce519d02ca69cba7d42a574770e0910",
+      "stand_datum": "2025-12-18",
+      "title": "Verordnung über Konzessionsabgaben für Strom und Gas"
+    },
+    {
+      "bjnr": "BJNR004910015",
+      "changed_paths": [
+        "laws/BJNR004910015/meta.json",
+        "laws/BJNR004910015/paragraphs/0001.md",
+        "laws/BJNR004910015/source.xml",
+        "laws/BJNR004910015/toc.json"
+      ],
+      "jurabk": "BetrSichV 2015",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "235e5e91fba63d6ef4447677389a2f27b3bdfda2c26cf3376670561f3475b1dc",
+      "source_xml_sha256_before": "fa8fc4729dc5e1f5857cb68c51525dc8722126e0c3ca64316155747950d13053",
+      "stand_datum": "2025-12-18",
+      "title": "Verordnung über Sicherheit und Gesundheitsschutz bei der Verwendung von Arbeitsmitteln"
+    },
+    {
+      "bjnr": "BJNR106610014",
+      "changed_paths": [
+        "laws/BJNR106610014/meta.json",
+        "laws/BJNR106610014/paragraphs/0003.md",
+        "laws/BJNR106610014/paragraphs/0010.md",
+        "laws/BJNR106610014/paragraphs/0010b.md",
+        "laws/BJNR106610014/paragraphs/0011a.md",
+        "laws/BJNR106610014/paragraphs/0021b.md",
+        "laws/BJNR106610014/paragraphs/0021c.md",
+        "laws/BJNR106610014/paragraphs/0090.md",
+        "laws/BJNR106610014/paragraphs/0095.md",
+        "laws/BJNR106610014/source.xml",
+        "laws/BJNR106610014/toc.json"
+      ],
+      "jurabk": "EEG 2014",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10",
+        "§ 10b",
+        "§ 11a",
+        "§ 21b",
+        "§ 21c",
+        "§ 3",
+        "§ 90",
+        "§ 95"
+      ],
+      "source_xml_sha256_after": "cb6c9b594984def0f4d6d26abb0ac67e9e6ca36bdb9abf938928400669711e39",
+      "source_xml_sha256_before": "40b9074af466257d7c76e0a57680be44e4c0bb7ca0da1cb0cee522d64be13d01",
+      "stand_datum": "2025-12-18",
+      "title": "Gesetz für den Ausbau erneuerbarer Energien"
+    },
+    {
+      "bjnr": "BJNR189410015",
+      "changed_paths": [
+        "laws/BJNR189410015/meta.json",
+        "laws/BJNR189410015/paragraphs/0021h.md",
+        "laws/BJNR189410015/source.xml",
+        "laws/BJNR189410015/toc.json"
+      ],
+      "jurabk": "LuftVO 2015",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 21h"
+      ],
+      "source_xml_sha256_after": "855b0622030224f723420cc50d8001667323079baf7797b13eb3aa8114e0f8ad",
+      "source_xml_sha256_before": "5d49d6edc9ad4f526ef87ac80d7c79ddbaf96c7bfba0e4b1c818053bc5696e66",
+      "stand_datum": "2025-12-18",
+      "title": "Luftverkehrs-Ordnung"
+    },
+    {
+      "bjnr": "BJNR205100022",
+      "changed_paths": [
+        "laws/BJNR205100022/meta.json",
+        "laws/BJNR205100022/paragraphs/0001.md",
+        "laws/BJNR205100022/paragraphs/0008.md",
+        "laws/BJNR205100022/paragraphs/0009.md",
+        "laws/BJNR205100022/paragraphs/0010a.md",
+        "laws/BJNR205100022/paragraphs/0015.md",
+        "laws/BJNR205100022/source.xml",
+        "laws/BJNR205100022/toc.json"
+      ],
+      "jurabk": "EWSG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 10a",
+        "§ 15",
+        "§ 8",
+        "§ 9"
+      ],
+      "source_xml_sha256_after": "e3bf08ad96b746eb24d643aa0b5e5e37a6239a2006a62a5a990a1e875322d634",
+      "source_xml_sha256_before": "931568ce836c649c804be940d0f9edde033c62f962a423e5427445d8fd9c6d55",
+      "stand_datum": "2025-12-18",
+      "title": "Gesetz über eine Soforthilfe für Letztverbraucher von leitungsgebundenem Erdgas und Kunden von Wärme"
+    },
+    {
+      "bjnr": "BJNR239110006",
+      "changed_paths": [
+        "laws/BJNR239110006/meta.json",
+        "laws/BJNR239110006/paragraphs/0002.md",
+        "laws/BJNR239110006/paragraphs/0019.md",
+        "laws/BJNR239110006/paragraphs/0021.md",
+        "laws/BJNR239110006/paragraphs/0023.md",
+        "laws/BJNR239110006/source.xml",
+        "laws/BJNR239110006/toc.json"
+      ],
+      "jurabk": "StromGVV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 19",
+        "§ 2",
+        "§ 21",
+        "§ 23"
+      ],
+      "source_xml_sha256_after": "3c3e39c515aed8f6c80f43ec009c6ca21acfae13745dacb3dc1ed3af767d6825",
+      "source_xml_sha256_before": "28933d412d68605327e89f80e97e72d84a75f5796608b9cb40d246e8c7c91f20",
+      "stand_datum": "2025-12-18",
+      "title": "Verordnung über Allgemeine Bedingungen für die Grundversorgung von Haushaltskunden und die Ersatzversorgung mit Elektrizität aus dem Niederspannungsnetz"
+    },
+    {
+      "bjnr": "BJNR247710006",
+      "changed_paths": [
+        "laws/BJNR247710006/meta.json",
+        "laws/BJNR247710006/paragraphs/0018.md",
+        "laws/BJNR247710006/source.xml",
+        "laws/BJNR247710006/toc.json"
+      ],
+      "jurabk": "NAV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 18"
+      ],
+      "source_xml_sha256_after": "d05d2cb26c0fdb3663b8a5ecd9b098de3be56231aa1430fb2af51ad8aa091677",
+      "source_xml_sha256_before": "79ecff193d06513a53fbc337080fb53ccaab273cf6409e5d8d5a0bcfffff5c74",
+      "stand_datum": "2025-12-18",
+      "title": "Verordnung über Allgemeine Bedingungen für den Netzanschluss und dessen Nutzung für die Elektrizitätsversorgung in Niederspannung"
+    },
+    {
+      "bjnr": "BJNR389200017",
+      "changed_paths": [
+        "laws/BJNR389200017/meta.json",
+        "laws/BJNR389200017/paragraphs/0002.md",
+        "laws/BJNR389200017/paragraphs/0005.md",
+        "laws/BJNR389200017/paragraphs/0006.md",
+        "laws/BJNR389200017/source.xml",
+        "laws/BJNR389200017/toc.json"
+      ],
+      "jurabk": "BImSchV 38 2017",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 2",
+        "§ 5",
+        "§ 6"
+      ],
+      "source_xml_sha256_after": "47edaf680643b0e1b74f320d7e5b9dde5782ba182da339f3d51aa65ae0ae5c2e",
+      "source_xml_sha256_before": "d119e5e5a90a1d6bd2674121761e4bbf513b08b94424f5a7f6132ef4182fe285",
+      "stand_datum": "2025-12-18",
+      "title": "Achtunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes"
+    }
+  ],
+  "effective_date": "2025-12-18",
+  "event_id": "2025-12-18-stand-8laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
