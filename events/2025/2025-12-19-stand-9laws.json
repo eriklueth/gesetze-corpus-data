@@ -1,0 +1,254 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR010629974",
+      "changed_paths": [
+        "laws/BJNR010629974/annexes/0000.md",
+        "laws/BJNR010629974/meta.json",
+        "laws/BJNR010629974/paragraphs/0003.md",
+        "laws/BJNR010629974/source.xml",
+        "laws/BJNR010629974/toc.json"
+      ],
+      "jurabk": "HPflEGRLDV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage",
+        "§ 3"
+      ],
+      "source_xml_sha256_after": "c0f4f6870fd221cfd2c4467f550e0f2d38a4bd4318eb7da180a5d73ce63984d4",
+      "source_xml_sha256_before": "7eaec5fe976af99f8c18668bfb7ba0b15c705eee9aa870caefc2dd5b1732a040",
+      "stand_datum": "2025-12-19",
+      "title": "Verordnung über die Kraftfahrzeug-Haftpflichtversicherung ausländischer Kraftfahrzeuge und Kraftfahrzeuganhänger"
+    },
+    {
+      "bjnr": "BJNR018090989",
+      "changed_paths": [
+        "laws/BJNR018090989/annexes/0000.md",
+        "laws/BJNR018090989/meta.json",
+        "laws/BJNR018090989/paragraphs/0001.md",
+        "laws/BJNR018090989/paragraphs/0002.md",
+        "laws/BJNR018090989/source.xml",
+        "laws/BJNR018090989/toc.json"
+      ],
+      "jurabk": "FlusAAGV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage",
+        "§ 1",
+        "§ 2"
+      ],
+      "source_xml_sha256_after": "2680efa465430a4b1d17bd6a7a6de3fc6d27b7b6d243b1311e0873c892393a1b",
+      "source_xml_sha256_before": "1376afe7213eea2be689fc67a1e27b03cd5d2c883f76e4b5e606b538b59ea2c0",
+      "stand_datum": "2025-12-19",
+      "title": "Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung beim An- und Abflug"
+    },
+    {
+      "bjnr": "BJNR063000009",
+      "changed_paths": [
+        "laws/BJNR063000009/meta.json",
+        "laws/BJNR063000009/paragraphs/0001.md",
+        "laws/BJNR063000009/paragraphs/0004.md",
+        "laws/BJNR063000009/source.xml",
+        "laws/BJNR063000009/toc.json"
+      ],
+      "jurabk": "FzgLiefgMeldV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 4"
+      ],
+      "source_xml_sha256_after": "b07468a3c2404aa601474366f4a05a672a218af66c79e8c726a652cee0650af8",
+      "source_xml_sha256_before": "13a687cce42a701f4d17285bd8e82497ad8b7b9bbe27dc75cb7af928302f126d",
+      "stand_datum": "2025-12-19",
+      "title": "Fahrzeuglieferungs-Meldepflichtverordnung"
+    },
+    {
+      "bjnr": "BJNR0C70B0023",
+      "changed_paths": [
+        "laws/BJNR0C70B0023/annexes/0002.md",
+        "laws/BJNR0C70B0023/annexes/0004.md",
+        "laws/BJNR0C70B0023/annexes/0012.md",
+        "laws/BJNR0C70B0023/annexes/0017.md",
+        "laws/BJNR0C70B0023/annexes/0017a.md",
+        "laws/BJNR0C70B0023/annexes/0018.md",
+        "laws/BJNR0C70B0023/meta.json",
+        "laws/BJNR0C70B0023/paragraphs/0002.md",
+        "laws/BJNR0C70B0023/paragraphs/0004.md",
+        "laws/BJNR0C70B0023/paragraphs/0006.md",
+        "laws/BJNR0C70B0023/paragraphs/0008.md",
+        "laws/BJNR0C70B0023/paragraphs/0009.md",
+        "laws/BJNR0C70B0023/paragraphs/0010.md",
+        "laws/BJNR0C70B0023/paragraphs/0012.md",
+        "laws/BJNR0C70B0023/paragraphs/0019.md",
+        "laws/BJNR0C70B0023/paragraphs/0023.md",
+        "laws/BJNR0C70B0023/paragraphs/0025.md",
+        "laws/BJNR0C70B0023/paragraphs/0030.md",
+        "laws/BJNR0C70B0023/paragraphs/0031.md",
+        "laws/BJNR0C70B0023/paragraphs/0032.md",
+        "laws/BJNR0C70B0023/paragraphs/0034.md",
+        "laws/BJNR0C70B0023/paragraphs/0036.md",
+        "laws/BJNR0C70B0023/paragraphs/0041.md",
+        "laws/BJNR0C70B0023/paragraphs/0046.md",
+        "laws/BJNR0C70B0023/paragraphs/0051.md",
+        "laws/BJNR0C70B0023/paragraphs/0052.md",
+        "laws/BJNR0C70B0023/paragraphs/0053a.md",
+        "laws/BJNR0C70B0023/paragraphs/0056.md",
+        "laws/BJNR0C70B0023/paragraphs/0057.md",
+        "laws/BJNR0C70B0023/paragraphs/0066.md",
+        "laws/BJNR0C70B0023/paragraphs/0075.md",
+        "laws/BJNR0C70B0023/paragraphs/0078.md",
+        "laws/BJNR0C70B0023/source.xml",
+        "laws/BJNR0C70B0023/toc.json"
+      ],
+      "jurabk": "FZV 2023",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage 12",
+        "Anlage 17",
+        "Anlage 17a",
+        "Anlage 18",
+        "Anlage 2",
+        "Anlage 4",
+        "§ 10",
+        "§ 12",
+        "§ 19",
+        "§ 2",
+        "§ 23",
+        "§ 25",
+        "§ 30",
+        "§ 31",
+        "§ 32",
+        "§ 34",
+        "§ 36",
+        "§ 4",
+        "§ 41",
+        "§ 46",
+        "§ 51",
+        "§ 52",
+        "§ 53a",
+        "§ 56",
+        "§ 57",
+        "§ 6",
+        "§ 66",
+        "§ 75",
+        "§ 78",
+        "§ 8",
+        "§ 9"
+      ],
+      "source_xml_sha256_after": "491c515a3b730ca0cd0f26930d0a465efcf3130b64b6a024d163f1f91cec5768",
+      "source_xml_sha256_before": "3a9c1a46e3755910bfee6b391b27d8c92e1ea7f96ac2defa20aa4cc27f0e14fd",
+      "stand_datum": "2025-12-19",
+      "title": "Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr"
+    },
+    {
+      "bjnr": "BJNR105410014",
+      "changed_paths": [
+        "laws/BJNR105410014/meta.json",
+        "laws/BJNR105410014/paragraphs/0007.md",
+        "laws/BJNR105410014/source.xml",
+        "laws/BJNR105410014/toc.json"
+      ],
+      "jurabk": "KosmetikV 2014",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "b2885ab0aad5b93e80ab6af86e5b183354e794577a6b599b985ef2348be9c174",
+      "source_xml_sha256_before": "adc1afbbf5fcdf56547a69140bb152f23526cee4f1fcb60c734e9c0be1faf663",
+      "stand_datum": "2025-12-19",
+      "title": "Verordnung über kosmetische Mittel"
+    },
+    {
+      "bjnr": "BJNR160300014",
+      "changed_paths": [
+        "laws/BJNR160300014/meta.json",
+        "laws/BJNR160300014/paragraphs/0025.md",
+        "laws/BJNR160300014/source.xml",
+        "laws/BJNR160300014/toc.json"
+      ],
+      "jurabk": "BsGaV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 25"
+      ],
+      "source_xml_sha256_after": "6a59b4804a9188b9164b238ab0f0d0492b6acf6b5165976f5c23a4142c5e423e",
+      "source_xml_sha256_before": "13fe9921d3d108da0cda44edb31b59e936b9ce4c632f7d7f5f2382a67cc1f5d6",
+      "stand_datum": "2025-12-19",
+      "title": "Verordnung zur Anwendung des Fremdvergleichsgrundsatzes auf Betriebsstätten nach § 1 Absatz 5 des Außensteuergesetzes"
+    },
+    {
+      "bjnr": "BJNR265800998",
+      "changed_paths": [
+        "laws/BJNR265800998/meta.json",
+        "laws/BJNR265800998/paragraphs/0007.md",
+        "laws/BJNR265800998/source.xml",
+        "laws/BJNR265800998/toc.json"
+      ],
+      "jurabk": "ErbStDV 1998",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "cf4c31c26240dc7258941255d00fae7bf423c28db19233f95b1afa06dcee55f8",
+      "source_xml_sha256_before": "184a4a11066f94bad93bbdd1f801c3aa39f3ba045657faf25e7ffde6eb9cddcc",
+      "stand_datum": "2025-12-19",
+      "title": "Erbschaftsteuer-Durchführungsverordnung"
+    },
+    {
+      "bjnr": "BJNR317100998",
+      "changed_paths": [
+        "laws/BJNR317100998/meta.json",
+        "laws/BJNR317100998/paragraphs/0001.md",
+        "laws/BJNR317100998/source.xml",
+        "laws/BJNR317100998/toc.json"
+      ],
+      "jurabk": "StVOAusnV 9",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "fa490700ecc40b905e86ecfbb6cb6fff000c093234462b8a8f1b9ffb2d3ed44f",
+      "source_xml_sha256_before": "abb136cf87ec3fd89f318237e1235e06f6b83ca21a069ef4fc4dbaf3a9c39f0d",
+      "stand_datum": "2025-12-19",
+      "title": "Neunte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung"
+    },
+    {
+      "bjnr": "BJNR356900021",
+      "changed_paths": [
+        "laws/BJNR356900021/meta.json",
+        "laws/BJNR356900021/paragraphs/0001.md",
+        "laws/BJNR356900021/paragraphs/0002.md",
+        "laws/BJNR356900021/source.xml",
+        "laws/BJNR356900021/toc.json"
+      ],
+      "jurabk": "LuftVGFSOrgEÜV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 2"
+      ],
+      "source_xml_sha256_after": "e5beaa668f6c2b0e8ff3ca3e3fbdc46fdbe0db96008c7ec637113b9784e6fc7d",
+      "source_xml_sha256_before": "77f98f83d36007a289fb9fec04731eba0e26bedfc02d376a89a5f7bbc7795902",
+      "stand_datum": "2025-12-19",
+      "title": "Verordnung zur Übertragung von Ermächtigungen zum Erlass von Rechtsverordnungen nach dem Luftverkehrsgesetz auf das Bundesaufsichtsamt für Flugsicherung"
+    }
+  ],
+  "effective_date": "2025-12-19",
+  "event_id": "2025-12-19-stand-9laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
