@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR101500994",
+      "changed_paths": [
+        "laws/BJNR101500994/meta.json",
+        "laws/BJNR101500994/paragraphs/0078a.md",
+        "laws/BJNR101500994/source.xml",
+        "laws/BJNR101500994/toc.json"
+      ],
+      "jurabk": "SGB 11",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 78a"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "aa7ee59cd9f4a143ccca64dd2691a0798a9f51395d57e03cf92d3a07decf695a",
+      "source_xml_sha256_before": "4c06937f3d8e0e4eb30b43b2a6d9b132c5e6b0aabd339e89679d9788e4d09877",
+      "stand_datum": "2025-12-22",
+      "title": "Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)"
+    }
+  ],
+  "effective_date": "2025-12-22",
+  "event_id": "2025-12-22-stand-BJNR101500994",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
