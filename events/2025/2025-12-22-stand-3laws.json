@@ -1,0 +1,77 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR068310022",
+      "changed_paths": [
+        "laws/BJNR068310022/meta.json",
+        "laws/BJNR068310022/paragraphs/0007.md",
+        "laws/BJNR068310022/paragraphs/0009.md",
+        "laws/BJNR068310022/source.xml"
+      ],
+      "jurabk": "BMeldDigiV",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 7",
+        "§ 9"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "f7b46e7df6117ea2b023445cd560a33c7404a6dbf8b3a859ab37478a6061282d",
+      "source_xml_sha256_before": "3ab158a9bbdafdd317d6dcb2279f40dc58d75da07f8ce39c5069dca610c27630",
+      "stand_datum": "2025-12-22",
+      "title": "Verordnung zur Bestimmung von Inhalt, Form und Verfahren von Datenübermittlungen zwischen Meldebehörden und einem Verwaltungsportal zur Erbringung von digitalen Verwaltungsleistungen"
+    },
+    {
+      "bjnr": "BJNR101500994",
+      "changed_paths": [
+        "laws/BJNR101500994/meta.json",
+        "laws/BJNR101500994/paragraphs/0113d.md",
+        "laws/BJNR101500994/paragraphs/0113d__1.md",
+        "laws/BJNR101500994/source.xml",
+        "laws/BJNR101500994/toc.json"
+      ],
+      "jurabk": "SGB 11",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 113d"
+      ],
+      "sections_removed": [
+        "§ 113d"
+      ],
+      "source_xml_sha256_after": "6e619a2917810de8f1675a96b82a71a80fcde7016dbd5ae13cfa29fac6369d50",
+      "source_xml_sha256_before": "aa7ee59cd9f4a143ccca64dd2691a0798a9f51395d57e03cf92d3a07decf695a",
+      "stand_datum": "2025-12-22",
+      "title": "Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)"
+    },
+    {
+      "bjnr": "BJNR194500014",
+      "changed_paths": [
+        "laws/BJNR194500014/meta.json",
+        "laws/BJNR194500014/paragraphs/0004.md",
+        "laws/BJNR194500014/paragraphs/0006.md",
+        "laws/BJNR194500014/paragraphs/0007.md",
+        "laws/BJNR194500014/source.xml"
+      ],
+      "jurabk": "BMeldDÜV 1 2015",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 4",
+        "§ 6",
+        "§ 7"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "d604820be8e500ae13a664d57e4b09e608b7be109095ed3459f48a19020f78e6",
+      "source_xml_sha256_before": "48e0f6e2f008126d937aae9578d7e1518a0a120c7c223f38085d82e0a6f1646a",
+      "stand_datum": "2025-12-22",
+      "title": "Verordnung zur Durchführung von regelmäßigen Datenübermittlungen zwischen Meldebehörden"
+    }
+  ],
+  "effective_date": "2025-12-22",
+  "event_id": "2025-12-22-stand-3laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
