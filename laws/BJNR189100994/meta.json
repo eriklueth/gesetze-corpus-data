@@ -11,7 +11,7 @@
     "paragraph": 145
   },
   "source_hashes": {
-    "source_xml_sha256": "c59ae92cc7e88f8af6f2bcb6208321866167f22c45e4fb3d96f2d36cad526938"
+    "source_xml_sha256": "a601d211b003b84de4cbd2c12258d37dc0e4bd5c2f63da93247de354230d372f"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/alg/",
@@ -22,6 +22,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 19 Abs. 8 G v. 22.12.2025 I Nr. 369",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 11 Abs. 11 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     }
   ],
   "title": "Gesetz über die Alterssicherung der Landwirte",
