@@ -3,16 +3,6 @@
   "schema_version": "v2",
   "sections": [
     {
-      "absatz_count": 4,
-      "breadcrumb": [
-        "Kapitel 1 Allgemeine Vorschriften"
-      ],
-      "file": "paragraphs/0001.md",
-      "heading": "Anwendungsbereich, Begriffsbestimmung",
-      "number": "§ 1",
-      "type": "paragraph"
-    },
-    {
       "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften"
@@ -76,18 +66,6 @@
       "file": "paragraphs/0007.md",
       "heading": "Zusammentreffen mehrerer Leistungen",
       "number": "§ 7",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 2,
-      "breadcrumb": [
-        "Kapitel 1 Allgemeine Vorschriften",
-        "Kapitel 2 Leistungen",
-        "Abschnitt 1 Leistungen zur Sicherung des Einkommens"
-      ],
-      "file": "paragraphs/0008.md",
-      "heading": "Mindestleistung",
-      "number": "§ 8",
       "type": "paragraph"
     },
     {
@@ -163,18 +141,6 @@
       "type": "paragraph"
     },
     {
-      "absatz_count": 1,
-      "breadcrumb": [
-        "Kapitel 1 Allgemeine Vorschriften",
-        "Kapitel 2 Leistungen",
-        "Abschnitt 2 Prämie, Dienstgeld, Zuschläge"
-      ],
-      "file": "paragraphs/0014.md",
-      "heading": "Dienstgeld",
-      "number": "§ 14",
-      "type": "paragraph"
-    },
-    {
       "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
@@ -193,33 +159,9 @@
         "Kapitel 2 Leistungen",
         "Abschnitt 2 Prämie, Dienstgeld, Zuschläge"
       ],
-      "file": "paragraphs/0016.md",
-      "heading": "Zuschlag für besondere Erschwernisse",
-      "number": "§ 16",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 2,
-      "breadcrumb": [
-        "Kapitel 1 Allgemeine Vorschriften",
-        "Kapitel 2 Leistungen",
-        "Abschnitt 2 Prämie, Dienstgeld, Zuschläge"
-      ],
       "file": "paragraphs/0017.md",
       "heading": "Zuschlag für besondere zeitliche Belastungen",
       "number": "§ 17",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 1,
-      "breadcrumb": [
-        "Kapitel 1 Allgemeine Vorschriften",
-        "Kapitel 2 Leistungen",
-        "Abschnitt 2 Prämie, Dienstgeld, Zuschläge"
-      ],
-      "file": "paragraphs/0017a.md",
-      "heading": "Zuschlag für Fahrtkosten",
-      "number": "§ 17a",
       "type": "paragraph"
     },
     {
@@ -300,28 +242,6 @@
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 3 Verfahren"
       ],
-      "file": "paragraphs/0024.md",
-      "heading": "Zuständigkeit",
-      "number": "§ 24",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 2,
-      "breadcrumb": [
-        "Kapitel 1 Allgemeine Vorschriften",
-        "Kapitel 3 Verfahren"
-      ],
-      "file": "paragraphs/0025.md",
-      "heading": "Antrag",
-      "number": "§ 25",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 1,
-      "breadcrumb": [
-        "Kapitel 1 Allgemeine Vorschriften",
-        "Kapitel 3 Verfahren"
-      ],
       "file": "paragraphs/0026.md",
       "heading": "Leistungsberechnung",
       "number": "§ 26",
@@ -370,28 +290,6 @@
       "heading": "Bußgeldvorschriften",
       "number": "§ 30",
       "type": "paragraph"
-    },
-    {
-      "absatz_count": 3,
-      "breadcrumb": [
-        "Kapitel 1 Allgemeine Vorschriften",
-        "Kapitel 4 Bußgeldvorschriften"
-      ],
-      "file": "annexes/0001.md",
-      "heading": "(zu § 8 Absatz 1)",
-      "number": "Anlage 1",
-      "type": "annex"
-    },
-    {
-      "absatz_count": 1,
-      "breadcrumb": [
-        "Kapitel 1 Allgemeine Vorschriften",
-        "Kapitel 4 Bußgeldvorschriften"
-      ],
-      "file": "annexes/0002.md",
-      "heading": "(zu den §§ 11, 14 und 19 Absatz 2)",
-      "number": "Anlage 2",
-      "type": "annex"
     }
   ]
 }

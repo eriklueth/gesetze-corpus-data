@@ -3,16 +3,6 @@
   "schema_version": "v2",
   "sections": [
     {
-      "absatz_count": 1,
-      "breadcrumb": [
-        "Teil 1 Allgemeiner Teil"
-      ],
-      "file": "paragraphs/0001.md",
-      "heading": "Anwendungsbereich",
-      "number": "§ 1",
-      "type": "paragraph"
-    },
-    {
       "absatz_count": 18,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil"
@@ -20,17 +10,6 @@
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
       "number": "§ 2",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 8,
-      "breadcrumb": [
-        "Teil 1 Allgemeiner Teil",
-        "Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs"
-      ],
-      "file": "paragraphs/0003.md",
-      "heading": "Anrechenbarkeit von erneuerbaren Kraftstoffen nicht biogenen Ursprungs",
-      "number": "§ 3",
       "type": "paragraph"
     },
     {
@@ -189,18 +168,6 @@
       "file": "paragraphs/0017.md",
       "heading": "Inhalt und Form der Nachweise",
       "number": "§ 17",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 5,
-      "breadcrumb": [
-        "Teil 1 Allgemeiner Teil",
-        "Teil 4 Nachweise",
-        "Abschnitt 2 Nachweise für die Anrechenbarkeit von erneuerbaren Kraftstoffen nicht biogenen Ursprungs"
-      ],
-      "file": "paragraphs/0018.md",
-      "heading": "Dokumentation der Lieferung in Massenbilanzsystemen",
-      "number": "§ 18",
       "type": "paragraph"
     },
     {
@@ -515,17 +482,6 @@
       "file": "paragraphs/0043.md",
       "heading": "Vorläufige Anerkennung von Zertifizierungsstellen",
       "number": "§ 43",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 4,
-      "breadcrumb": [
-        "Teil 1 Allgemeiner Teil",
-        "Teil 5 Zentrales Register und elektronische Datenbank"
-      ],
-      "file": "paragraphs/0044.md",
-      "heading": "Register für erneuerbare Kraftstoffe nicht biogenen Ursprungs",
-      "number": "§ 44",
       "type": "paragraph"
     },
     {

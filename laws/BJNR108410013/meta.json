@@ -7,10 +7,10 @@
   "jurabk": "BMG",
   "schema_version": "v2",
   "section_counts": {
-    "paragraph": 63
+    "paragraph": 59
   },
   "source_hashes": {
-    "source_xml_sha256": "ec21b49d00693459020b9b6ca6eee2126183f217a1683dccebe96f019493e05c"
+    "source_xml_sha256": "b5adf90ff18394d3e715dd5e4133512448f0662998f9f404dfd161cc032247ae"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/bmg/",
@@ -19,7 +19,7 @@
   "stand_datum": "2025-12-22",
   "standangabe": [
     {
-      "kommentar": "Zuletzt geändert durch Art. 12 G v. 22.12.2025 I Nr. 370",
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 22.12.2025 I Nr. 370; I 2026 Nr. 121",
       "typ": "Stand"
     },
     {
@@ -28,6 +28,10 @@
     },
     {
       "kommentar": "Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Bek. v. 16.4.2026 I Nr. 121 ist berücksichtigt",
       "typ": "Sonst"
     }
   ],
