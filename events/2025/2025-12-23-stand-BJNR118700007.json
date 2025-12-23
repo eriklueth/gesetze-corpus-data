@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR118700007",
+      "changed_paths": [
+        "laws/BJNR118700007/meta.json",
+        "laws/BJNR118700007/paragraphs/0001.md",
+        "laws/BJNR118700007/source.xml",
+        "laws/BJNR118700007/toc.json"
+      ],
+      "jurabk": "KraftNAV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "dcde3e38a66ffd2593c8272115d9e5f8dca6c0a59229f6a833c4f3d7362ae536",
+      "source_xml_sha256_before": "1b09bf69a95ae1be0d318e9ad70f54e33a142642a1ed27e67409af81fb3fc1fe",
+      "stand_datum": "2025-12-23",
+      "title": "Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung von elektrischer Energie"
+    }
+  ],
+  "effective_date": "2025-12-23",
+  "event_id": "2025-12-23-stand-BJNR118700007",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
