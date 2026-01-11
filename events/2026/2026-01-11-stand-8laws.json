@@ -1,0 +1,172 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR005570966",
+      "changed_paths": [
+        "laws/BJNR005570966/meta.json",
+        "laws/BJNR005570966/paragraphs/0003.md",
+        "laws/BJNR005570966/paragraphs/0004.md",
+        "laws/BJNR005570966/paragraphs/0035.md",
+        "laws/BJNR005570966/paragraphs/0043.md",
+        "laws/BJNR005570966/source.xml",
+        "laws/BJNR005570966/toc.json"
+      ],
+      "jurabk": "PatAnwO",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 3",
+        "§ 35",
+        "§ 4",
+        "§ 43"
+      ],
+      "source_xml_sha256_after": "a7bde925c441a308ff9db08a287a513c4a23db15a517ddfdf718c1b86cc5635e",
+      "source_xml_sha256_before": "d41f674de4af76ea28821c9d91bbd88b0e01330ecd6a603dc17c8897cf7e17a4",
+      "stand_datum": "2026-01-11",
+      "title": "Patentanwaltsordnung"
+    },
+    {
+      "bjnr": "BJNR021800022",
+      "changed_paths": [
+        "laws/BJNR021800022/meta.json",
+        "laws/BJNR021800022/paragraphs/0006.md",
+        "laws/BJNR021800022/source.xml",
+        "laws/BJNR021800022/toc.json"
+      ],
+      "jurabk": "GlashütteV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 6"
+      ],
+      "source_xml_sha256_after": "8675da906c361819b8d3bbf20ca0b57b24308b7c4ee54b55c8cff2b27cc132af",
+      "source_xml_sha256_before": "4d668ca2862f94550562536c39e7419f7d4aaf41853d37abbf10a50d4088fc6d",
+      "stand_datum": "2026-01-11",
+      "title": "Verordnung zum Schutz der geografischen Herkunftsangabe „Glashütte“"
+    },
+    {
+      "bjnr": "BJNR051400004",
+      "changed_paths": [
+        "laws/BJNR051400004/meta.json",
+        "laws/BJNR051400004/paragraphs/0001.md",
+        "laws/BJNR051400004/source.xml",
+        "laws/BJNR051400004/toc.json"
+      ],
+      "jurabk": "DPMAV 2004",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "d1c03685db9ffd5722f33b9e2cc8634576638b634c1b19ee827c80e327d94a2d",
+      "source_xml_sha256_before": "7103d2f85041522a037bcd5e8e6119c27b0db18c1a8fb5addb9e1017d990df35",
+      "stand_datum": "2026-01-11",
+      "title": "Verordnung über das Deutsche Patent- und Markenamt"
+    },
+    {
+      "bjnr": "BJNR087200004",
+      "changed_paths": [
+        "laws/BJNR087200004/meta.json",
+        "laws/BJNR087200004/paragraphs/0048.md",
+        "laws/BJNR087200004/paragraphs/0049.md",
+        "laws/BJNR087200004/paragraphs/0050.md",
+        "laws/BJNR087200004/paragraphs/0051.md",
+        "laws/BJNR087200004/paragraphs/0057a.md",
+        "laws/BJNR087200004/source.xml",
+        "laws/BJNR087200004/toc.json"
+      ],
+      "jurabk": "MarkenV 2004",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 51"
+      ],
+      "sections_removed": [
+        "§ 48",
+        "§ 49",
+        "§ 50",
+        "§ 57a"
+      ],
+      "source_xml_sha256_after": "29c30986cf6bb4c78973b105e9d140cbd2692989870421edc1ce9cfbcb6f3abc",
+      "source_xml_sha256_before": "c0fd92f114274f447575320e220ea7727ac173f2eaea1024ffea1dbaee14fa3b",
+      "stand_datum": "2026-01-11",
+      "title": "Verordnung zur Ausführung des Markengesetzes"
+    },
+    {
+      "bjnr": "BJNR102220968",
+      "changed_paths": [
+        "laws/BJNR102220968/meta.json",
+        "laws/BJNR102220968/source.xml"
+      ],
+      "jurabk": "ProMusPlRL",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "01fe2170646103db6c6a782b93b7c7a48df770f8508980a99d9ead9f45f6e326",
+      "source_xml_sha256_before": "88d77126f2f5f86cbbd6b17f8c6fa3e6defa6e15906ca386f207744b49a789d5",
+      "stand_datum": "2026-01-11",
+      "title": "Richtlinien für die Verleihung der PRO MUSICA-Plakette"
+    },
+    {
+      "bjnr": "BJNR107400956",
+      "changed_paths": [
+        "laws/BJNR107400956/meta.json",
+        "laws/BJNR107400956/source.xml"
+      ],
+      "jurabk": "ZelterPlRL",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "97982c61c95c7ef42d0efa0cc72fd1b7d2ee802532cdaa365b21f27d3ba108bb",
+      "source_xml_sha256_before": "5be8ef00c598af959a1ca877c71a566eee06b29f11bac532e186fdac955e0c5d",
+      "stand_datum": "2026-01-11",
+      "title": "Richtlinien über die Verleihung der Zelter-Plakette"
+    },
+    {
+      "bjnr": "BJNR365610001",
+      "changed_paths": [
+        "laws/BJNR365610001/annexes/0000.md",
+        "laws/BJNR365610001/meta.json",
+        "laws/BJNR365610001/source.xml",
+        "laws/BJNR365610001/toc.json"
+      ],
+      "jurabk": "PatKostG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage"
+      ],
+      "source_xml_sha256_after": "29a6dd3f7a5994f2804258de88d63bdd85c76db1a3e346ac18af9f374ee2393d",
+      "source_xml_sha256_before": "111ed01e32ce59054a6f9e9c043c86273ae1b4d08adfe88434ac97e5a07f96c1",
+      "stand_datum": "2026-01-11",
+      "title": "Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts"
+    },
+    {
+      "bjnr": "BJNR383300994",
+      "changed_paths": [
+        "laws/BJNR383300994/meta.json",
+        "laws/BJNR383300994/paragraphs/0004.md",
+        "laws/BJNR383300994/source.xml",
+        "laws/BJNR383300994/toc.json"
+      ],
+      "jurabk": "SolingenV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 4"
+      ],
+      "source_xml_sha256_after": "1f112392461a3dd2a50c7adc31daf3b463eae7d8f51a9ad0ddf35be5d8616815",
+      "source_xml_sha256_before": "6c5d639d63b1a5391bdd5dcc8784011a340622efe51f3b0990530b6af82efd63",
+      "stand_datum": "2026-01-11",
+      "title": "Verordnung zum Schutz des Namens Solingen"
+    }
+  ],
+  "effective_date": "2026-01-11",
+  "event_id": "2026-01-11-stand-8laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
