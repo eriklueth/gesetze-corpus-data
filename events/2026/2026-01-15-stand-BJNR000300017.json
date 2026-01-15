@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR000300017",
+      "changed_paths": [
+        "laws/BJNR000300017/annexes/0000.md",
+        "laws/BJNR000300017/meta.json",
+        "laws/BJNR000300017/source.xml",
+        "laws/BJNR000300017/toc.json"
+      ],
+      "jurabk": "StromBGebV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage"
+      ],
+      "source_xml_sha256_after": "c3be06e7ae4110087380d4d6ae1935f56ae6e72ad63eff826a60b2bd1b9af47a",
+      "source_xml_sha256_before": "0f7c34065c1a95255e423af40568722da13a1c0c31d4babc7fe976bdebd36f42",
+      "stand_datum": "2026-01-15",
+      "title": "Besondere Gebührenverordnung für den Zuständigkeitsbereich Strom des Bundesministeriums für Wirtschaft und Energie"
+    }
+  ],
+  "effective_date": "2026-01-15",
+  "event_id": "2026-01-15-stand-BJNR000300017",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
