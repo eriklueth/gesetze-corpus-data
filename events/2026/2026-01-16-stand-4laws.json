@@ -1,0 +1,95 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR12E0A0023",
+      "changed_paths": [
+        "laws/BJNR12E0A0023/meta.json",
+        "laws/BJNR12E0A0023/paragraphs/0001.md",
+        "laws/BJNR12E0A0023/paragraphs/0002.md",
+        "laws/BJNR12E0A0023/source.xml",
+        "laws/BJNR12E0A0023/toc.json"
+      ],
+      "jurabk": "EVV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 2"
+      ],
+      "source_xml_sha256_after": "bbb13aa56dcb6e9aabcfbe4ea0aa25ec00e426e936dba9fe55518dce27f5e203",
+      "source_xml_sha256_before": "c9975cddc9e4c8baddf34a349c1317342e8c206cdd44937a511935c0512926de",
+      "stand_datum": "2026-01-16",
+      "title": "Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen bei den Besonderen Leistungen im Einzelfall im Sozialen Entschädigungsrecht"
+    },
+    {
+      "bjnr": "BJNR216710002",
+      "changed_paths": [
+        "laws/BJNR216710002/meta.json",
+        "laws/BJNR216710002/paragraphs/0026.md",
+        "laws/BJNR216710002/source.xml",
+        "laws/BJNR216710002/toc.json"
+      ],
+      "jurabk": "HZvG 2002",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 26"
+      ],
+      "source_xml_sha256_after": "07ae2081405e641eda6f195d1abc4f31ea2c32ff8a2cd8d09a3f654d6f220f99",
+      "source_xml_sha256_before": "1656017140c2fa81352093b889b1bd2e9894946c205acb363aee7fadef36d0f8",
+      "stand_datum": "2026-01-16",
+      "title": "Gesetz zur Neuregelung der Hüttenknappschaftlichen Zusatzversicherung im Saarland"
+    },
+    {
+      "bjnr": "BJNR323410016",
+      "changed_paths": [
+        "laws/BJNR323410016/meta.json",
+        "laws/BJNR323410016/paragraphs/0153.md",
+        "laws/BJNR323410016/paragraphs/0180.md",
+        "laws/BJNR323410016/source.xml",
+        "laws/BJNR323410016/toc.json"
+      ],
+      "jurabk": "SGB 9 2018",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 153",
+        "§ 180"
+      ],
+      "source_xml_sha256_after": "1d37c1f72d8b022dc10436ecfcd98e16308f3e1ca31b817005a09286f024e0de",
+      "source_xml_sha256_before": "1402b852cbd0426536332a5a4d70ac06bcd6e494103ae6dda57e758ac0800081",
+      "stand_datum": "2026-01-16",
+      "title": "Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234)"
+    },
+    {
+      "bjnr": "BJNR338510006",
+      "changed_paths": [
+        "laws/BJNR338510006/meta.json",
+        "laws/BJNR338510006/paragraphs/0001.md",
+        "laws/BJNR338510006/paragraphs/0002.md",
+        "laws/BJNR338510006/source.xml",
+        "laws/BJNR338510006/toc.json"
+      ],
+      "jurabk": "SvEV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 2"
+      ],
+      "source_xml_sha256_after": "a73c7171b456ff99312e6e9e9b7d90e89609febeac0d9d4dbc937ebcf330f413",
+      "source_xml_sha256_before": "a74a44709aa0deb40940a530b8c2a73b672fe94904d74aa7ca3816ee2f4cd129",
+      "stand_datum": "2026-01-16",
+      "title": "Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt"
+    }
+  ],
+  "effective_date": "2026-01-16",
+  "event_id": "2026-01-16-stand-4laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
