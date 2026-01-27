@@ -1,0 +1,72 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR076800020",
+      "changed_paths": [
+        "laws/BJNR076800020/annexes/0001.md",
+        "laws/BJNR076800020/annexes/0002.md",
+        "laws/BJNR076800020/annexes/0003.md",
+        "laws/BJNR076800020/annexes/0004.md",
+        "laws/BJNR076800020/meta.json",
+        "laws/BJNR076800020/paragraphs/0002.md",
+        "laws/BJNR076800020/paragraphs/0004.md",
+        "laws/BJNR076800020/paragraphs/0006a.md",
+        "laws/BJNR076800020/paragraphs/0007.md",
+        "laws/BJNR076800020/paragraphs/0010.md",
+        "laws/BJNR076800020/paragraphs/0011b.md",
+        "laws/BJNR076800020/paragraphs/0016.md",
+        "laws/BJNR076800020/paragraphs/0018.md",
+        "laws/BJNR076800020/paragraphs/0020.md",
+        "laws/BJNR076800020/paragraphs/0021.md",
+        "laws/BJNR076800020/paragraphs/0023a.md",
+        "laws/BJNR076800020/paragraphs/0023b.md",
+        "laws/BJNR076800020/paragraphs/0023c.md",
+        "laws/BJNR076800020/paragraphs/0023d.md",
+        "laws/BJNR076800020/paragraphs/0023e.md",
+        "laws/BJNR076800020/paragraphs/0026.md",
+        "laws/BJNR076800020/paragraphs/0034.md",
+        "laws/BJNR076800020/source.xml",
+        "laws/BJNR076800020/toc.json"
+      ],
+      "jurabk": "DiGAV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage 1",
+        "Anlage 2",
+        "Anlage 3",
+        "Anlage 4",
+        "§ 10",
+        "§ 11b",
+        "§ 16",
+        "§ 18",
+        "§ 2",
+        "§ 20",
+        "§ 21",
+        "§ 23a",
+        "§ 23b",
+        "§ 23c",
+        "§ 23d",
+        "§ 23e",
+        "§ 26",
+        "§ 34",
+        "§ 4",
+        "§ 6a",
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "ab8dc9902b302f40b1e0846b7ec2c079ed351c59db3c84486b9fe2d0b4c80b24",
+      "source_xml_sha256_before": "729ad791798a334fb249597544980442a965c11e738bc5f34bf6ca3617c7e181",
+      "stand_datum": "2026-01-27",
+      "title": "Verordnung über das Verfahren und die Anforderungen zur Prüfung der Erstattungsfähigkeit digitaler Gesundheitsanwendungen in der gesetzlichen Krankenversicherung"
+    }
+  ],
+  "effective_date": "2026-01-27",
+  "event_id": "2026-01-27-stand-BJNR076800020",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
