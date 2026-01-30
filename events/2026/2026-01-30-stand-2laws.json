@@ -1,0 +1,43 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR069500995",
+      "changed_paths": [
+        "laws/BJNR069500995/meta.json",
+        "laws/BJNR069500995/source.xml"
+      ],
+      "jurabk": "AZRG-DV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "cffd13f294ef2ef970dfcdb1a5f708edd32a55e08c1ad962aa219fcedc1cec86",
+      "source_xml_sha256_before": "799de10b56140dea210e4c2389d71153ff5fc8af04d629f9d1547e373e655dc0",
+      "stand_datum": "2026-01-30",
+      "title": "Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister"
+    },
+    {
+      "bjnr": "BJNR294510004",
+      "changed_paths": [
+        "laws/BJNR294510004/meta.json",
+        "laws/BJNR294510004/source.xml"
+      ],
+      "jurabk": "AufenthV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "736b55a7d41083d016dad58fdb84735702f13b1939f2dc295ab1ee62f6082233",
+      "source_xml_sha256_before": "7f9901a802366dbb0bea260bb18fcc2f68408d3e6dbad4debc036b92cf3d3ae6",
+      "stand_datum": "2026-01-30",
+      "title": "Aufenthaltsverordnung"
+    }
+  ],
+  "effective_date": "2026-01-30",
+  "event_id": "2026-01-30-stand-2laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}

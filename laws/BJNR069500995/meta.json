@@ -11,7 +11,7 @@
     "paragraph": 23
   },
   "source_hashes": {
-    "source_xml_sha256": "799de10b56140dea210e4c2389d71153ff5fc8af04d629f9d1547e373e655dc0"
+    "source_xml_sha256": "cffd13f294ef2ef970dfcdb1a5f708edd32a55e08c1ad962aa219fcedc1cec86"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/azrg-dv/",
@@ -22,6 +22,14 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 8 G v. 30.1.2026 I Nr. 31",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 G v. 23.4.2026 I Nr. 112 mWv 12.6.2026 bzw. 1.11.2026 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 5 G v. 23.4.2026 I Nr. 112 mWv 12.6.2026 noch nicht berücksichtigt",
+      "typ": "Hinweis"
     }
   ],
   "title": "Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister",

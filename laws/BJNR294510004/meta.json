@@ -11,7 +11,7 @@
     "paragraph": 118
   },
   "source_hashes": {
-    "source_xml_sha256": "7f9901a802366dbb0bea260bb18fcc2f68408d3e6dbad4debc036b92cf3d3ae6"
+    "source_xml_sha256": "736b55a7d41083d016dad58fdb84735702f13b1939f2dc295ab1ee62f6082233"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/aufenthv/",
@@ -22,6 +22,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 6 G v. 30.1.2026 I Nr. 31",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 7 G v. 23.4.2026 I Nr. 111 mWv 12.6.2026 noch nicht berücksichtigt",
+      "typ": "Hinweis"
     }
   ],
   "title": "Aufenthaltsverordnung",
