@@ -1,0 +1,38 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR069500995",
+      "changed_paths": [
+        "laws/BJNR069500995/annexes/0000.md",
+        "laws/BJNR069500995/meta.json",
+        "laws/BJNR069500995/paragraphs/0004.md",
+        "laws/BJNR069500995/paragraphs/0009.md",
+        "laws/BJNR069500995/paragraphs/0018.md",
+        "laws/BJNR069500995/source.xml",
+        "laws/BJNR069500995/toc.json"
+      ],
+      "jurabk": "AZRG-DV",
+      "sections_added": [],
+      "sections_modified": [
+        "Anlage",
+        "§ 18",
+        "§ 4",
+        "§ 9"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "4a05d89498826876e2d89627615211240928284d1dede314b3806803e7668815",
+      "source_xml_sha256_before": "cffd13f294ef2ef970dfcdb1a5f708edd32a55e08c1ad962aa219fcedc1cec86",
+      "stand_datum": "2026-01-30",
+      "title": "Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister"
+    }
+  ],
+  "effective_date": "2026-01-30",
+  "event_id": "2026-01-30-stand-BJNR069500995",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
