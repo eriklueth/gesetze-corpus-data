@@ -1,0 +1,36 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR0950B0024",
+      "changed_paths": [
+        "laws/BJNR0950B0024/meta.json",
+        "laws/BJNR0950B0024/paragraphs/0003.md",
+        "laws/BJNR0950B0024/paragraphs/0005.md",
+        "laws/BJNR0950B0024/paragraphs/0033.md",
+        "laws/BJNR0950B0024/source.xml",
+        "laws/BJNR0950B0024/toc.json"
+      ],
+      "jurabk": "DDG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 3",
+        "§ 33",
+        "§ 5"
+      ],
+      "source_xml_sha256_after": "7f2d6a067754973d059046d4c5ff860cf82fd171f1107b57c13001a4b865987c",
+      "source_xml_sha256_before": "28d07a2ae24e56e7df87ab968988bb9ad60e3ae5254629b83fdbe083949eb958",
+      "stand_datum": "2026-02-03",
+      "title": "Digitale-Dienste-Gesetz"
+    }
+  ],
+  "effective_date": "2026-02-03",
+  "event_id": "2026-02-03-stand-BJNR0950B0024",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
