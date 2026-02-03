@@ -11,7 +11,7 @@
     "paragraph": 695
   },
   "source_hashes": {
-    "source_xml_sha256": "8440ab1ee4c2bd432f153b247cc8086ed0d05c7528ed525d2bcfbc0c15d49615"
+    "source_xml_sha256": "346b70ea2b2e92cc0e00fa35e839e5c7838ec8f4d1981deb01836974be88743d"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/sgb_5/",
@@ -25,6 +25,10 @@
     },
     {
       "kommentar": "Änderung durch Art. 1 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 4 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
       "typ": "Hinweis"
     }
   ],

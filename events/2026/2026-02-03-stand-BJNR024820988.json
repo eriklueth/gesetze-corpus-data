@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR024820988",
+      "changed_paths": [
+        "laws/BJNR024820988/meta.json",
+        "laws/BJNR024820988/source.xml"
+      ],
+      "jurabk": "SGB 5",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "346b70ea2b2e92cc0e00fa35e839e5c7838ec8f4d1981deb01836974be88743d",
+      "source_xml_sha256_before": "8440ab1ee4c2bd432f153b247cc8086ed0d05c7528ed525d2bcfbc0c15d49615",
+      "stand_datum": "2026-02-03",
+      "title": "Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)"
+    }
+  ],
+  "effective_date": "2026-02-03",
+  "event_id": "2026-02-03-stand-BJNR024820988",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
