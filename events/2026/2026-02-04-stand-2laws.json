@@ -1,0 +1,43 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR125410996",
+      "changed_paths": [
+        "laws/BJNR125410996/meta.json",
+        "laws/BJNR125410996/source.xml"
+      ],
+      "jurabk": "SGB 7",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "6e60b6246f9ba190ac041b097a6fdeeeeb61c53f284871b7c8c5aad2eaf8480b",
+      "source_xml_sha256_before": "ee6277d0f6d0010ee8d97e6d53972b490548cf4f65d7bb842110a67642948659",
+      "stand_datum": "2026-02-04",
+      "title": "Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254)"
+    },
+    {
+      "bjnr": "BJNR185610008",
+      "changed_paths": [
+        "laws/BJNR185610008/meta.json",
+        "laws/BJNR185610008/source.xml"
+      ],
+      "jurabk": "WoGG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "c5e5183e7a4463890eb469a07f75789d1c6319ff2733db8eca6819a6e369acee",
+      "source_xml_sha256_before": "03f18a94df441e0fa06da30ba81c47d42125ffafc339e893781582ffb64d55b6",
+      "stand_datum": "2026-02-04",
+      "title": "Wohngeldgesetz"
+    }
+  ],
+  "effective_date": "2026-02-04",
+  "event_id": "2026-02-04-stand-2laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}

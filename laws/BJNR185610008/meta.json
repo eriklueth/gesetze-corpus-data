@@ -11,7 +11,7 @@
     "paragraph": 53
   },
   "source_hashes": {
-    "source_xml_sha256": "03f18a94df441e0fa06da30ba81c47d42125ffafc339e893781582ffb64d55b6"
+    "source_xml_sha256": "c5e5183e7a4463890eb469a07f75789d1c6319ff2733db8eca6819a6e369acee"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/wogg/",
@@ -22,6 +22,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 62 Abs. 6 G v. 4.2.2026 I Nr. 33",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 11 Abs. 8 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     }
   ],
   "title": "Wohngeldgesetz",

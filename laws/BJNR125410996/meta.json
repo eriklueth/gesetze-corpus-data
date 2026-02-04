@@ -11,7 +11,7 @@
     "paragraph": 251
   },
   "source_hashes": {
-    "source_xml_sha256": "ee6277d0f6d0010ee8d97e6d53972b490548cf4f65d7bb842110a67642948659"
+    "source_xml_sha256": "6e60b6246f9ba190ac041b097a6fdeeeeb61c53f284871b7c8c5aad2eaf8480b"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/sgb_7/",
@@ -22,6 +22,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 62 Abs. 5 G v. 4.2.2026 I Nr. 33",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 6 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     },
     {
       "kommentar": "Bek. v. 2.3.2026 I Nr. 56 ist berücksichtigt",
