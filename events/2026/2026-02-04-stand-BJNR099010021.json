@@ -1,0 +1,25 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR099010021",
+      "changed_paths": [
+        "laws/BJNR099010021/meta.json",
+        "laws/BJNR099010021/source.xml"
+      ],
+      "jurabk": "WpIG",
+      "source_xml_sha256_after": "e1538fc7864fae7aa8b67227975a193397528a3de72c8a738c6e266e991464e0",
+      "source_xml_sha256_before": "b07242eeb5afbf00ffc147c6c78ad5718d75852db8d117e795ac6fd7f586525f",
+      "stand_datum": "2026-02-04",
+      "title": "Gesetz zur Beaufsichtigung von Wertpapierinstituten"
+    }
+  ],
+  "effective_date": "2026-02-04",
+  "event_id": "2026-02-04-stand-BJNR099010021",
+  "schema_version": "v1",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.1.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; not a per-paragraph event"
+  }
+}
