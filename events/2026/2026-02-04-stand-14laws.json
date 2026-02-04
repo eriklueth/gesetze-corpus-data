@@ -1,0 +1,334 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR002190897",
+      "changed_paths": [
+        "laws/BJNR002190897/meta.json",
+        "laws/BJNR002190897/paragraphs/0257.md",
+        "laws/BJNR002190897/paragraphs/0335a.md",
+        "laws/BJNR002190897/source.xml",
+        "laws/BJNR002190897/toc.json"
+      ],
+      "jurabk": "HGB",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 257",
+        "§ 335a"
+      ],
+      "source_xml_sha256_after": "1b779a7c2bd2b7f029e017e1aa1b58f02c73996b6317aa16d38f9b8185c22dc5",
+      "source_xml_sha256_before": "7b46d843010ac3bc2b7416934302819d2759d5c0e0e59162cb10fdf5ad94df75",
+      "stand_datum": "2026-02-04",
+      "title": "Handelsgesetzbuch"
+    },
+    {
+      "bjnr": "BJNR0090A0024",
+      "changed_paths": [
+        "laws/BJNR0090A0024/meta.json",
+        "laws/BJNR0090A0024/paragraphs/0006.md",
+        "laws/BJNR0090A0024/source.xml",
+        "laws/BJNR0090A0024/toc.json"
+      ],
+      "jurabk": "WpI-InhKontrollV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 6"
+      ],
+      "source_xml_sha256_after": "f4a22320f6102a775084ca050daac2159274a3d3364e6db2c749f772e7698213",
+      "source_xml_sha256_before": "81b12bc7484161416891a257a6ad92d26d2fdb5c1edf0bd94457defba19ecd1f",
+      "stand_datum": "2026-02-04",
+      "title": "Verordnung über Anzeigen nach § 24 des Wertpapierinstitutsgesetzes"
+    },
+    {
+      "bjnr": "BJNR010890965",
+      "changed_paths": [
+        "laws/BJNR010890965/meta.json",
+        "laws/BJNR010890965/paragraphs/0008.md",
+        "laws/BJNR010890965/source.xml",
+        "laws/BJNR010890965/toc.json"
+      ],
+      "jurabk": "AktG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 8"
+      ],
+      "source_xml_sha256_after": "78fac47c437e26690a6b3dc82a292386b00860971c8545b56fb3c9c963a4c5b5",
+      "source_xml_sha256_before": "2697401c5b4caf4f6a0fe1e19b97756300ad6137bbe34f7f8c16b07b257c6b60",
+      "stand_datum": "2026-02-04",
+      "title": "Aktiengesetz"
+    },
+    {
+      "bjnr": "BJNR014000018",
+      "changed_paths": [
+        "laws/BJNR014000018/annexes/0000.md",
+        "laws/BJNR014000018/meta.json",
+        "laws/BJNR014000018/paragraphs/0011.md",
+        "laws/BJNR014000018/source.xml",
+        "laws/BJNR014000018/toc.json"
+      ],
+      "jurabk": "WpDPV 2018",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage",
+        "§ 11"
+      ],
+      "source_xml_sha256_after": "b03603a46ee4f4fc23fdb5f2e33b15ff48e24cbf207fa90809491e1082c69bb7",
+      "source_xml_sha256_before": "f4d67d227f15c01de5261ed00187a621f9b8456407f99d057ef9afdc265fedb0",
+      "stand_datum": "2026-02-04",
+      "title": "Verordnung über die Prüfung der Wertpapierdienstleistungsunternehmen nach § 89 des Wertpapierhandelsgesetzes"
+    },
+    {
+      "bjnr": "BJNR076900016",
+      "changed_paths": [
+        "laws/BJNR076900016/meta.json",
+        "laws/BJNR076900016/paragraphs/0002.md",
+        "laws/BJNR076900016/source.xml",
+        "laws/BJNR076900016/toc.json"
+      ],
+      "jurabk": "AnlV 2016",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 2"
+      ],
+      "source_xml_sha256_after": "27712aed0383d54433f24a38ec19c7039d9111d32f3f8785e57a7fa42dad4bd1",
+      "source_xml_sha256_before": "81561f89a8411c95ed218fcdf87b3e034da0303ddb3437e7ab387a55358e6d2e",
+      "stand_datum": "2026-02-04",
+      "title": "Verordnung über die Anlage des Sicherungsvermögens von Pensionskassen, Sterbekassen und kleinen Versicherungsunternehmen"
+    },
+    {
+      "bjnr": "BJNR077600016",
+      "changed_paths": [
+        "laws/BJNR077600016/meta.json",
+        "laws/BJNR077600016/paragraphs/0001.md",
+        "laws/BJNR077600016/source.xml",
+        "laws/BJNR077600016/toc.json"
+      ],
+      "jurabk": "AktuarV 2016",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "341758e29910b401b3c30b86aeb3a35df74307a152ba484a93c82424331f2b12",
+      "source_xml_sha256_before": "8fb8862d6384b538ad691632548e504fdd6e39636a9f36b21e87206c8d872762",
+      "stand_datum": "2026-02-04",
+      "title": "Verordnung über die versicherungsmathematische Bestätigung, den Erläuterungsbericht und den Angemessenheitsbericht des Verantwortlichen Aktuars"
+    },
+    {
+      "bjnr": "BJNR083810003",
+      "changed_paths": [
+        "laws/BJNR083810003/meta.json",
+        "laws/BJNR083810003/paragraphs/0001.md",
+        "laws/BJNR083810003/paragraphs/0003.md",
+        "laws/BJNR083810003/paragraphs/0004.md",
+        "laws/BJNR083810003/paragraphs/0005.md",
+        "laws/BJNR083810003/paragraphs/0014.md",
+        "laws/BJNR083810003/source.xml",
+        "laws/BJNR083810003/toc.json"
+      ],
+      "jurabk": "SpruchG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 14",
+        "§ 3",
+        "§ 4",
+        "§ 5"
+      ],
+      "source_xml_sha256_after": "10b73dfc1453d3b1397191648eab42d8f3ee2d798da32d150962094bafdeee7e",
+      "source_xml_sha256_before": "b0906ece2f936a4d827bb5026fca9a20f699670af79796d4cc82e4551c4732d3",
+      "stand_datum": "2026-02-04",
+      "title": "Gesetz über das gesellschaftsrechtliche Spruchverfahren"
+    },
+    {
+      "bjnr": "BJNR084200016",
+      "changed_paths": [
+        "laws/BJNR084200016/meta.json",
+        "laws/BJNR084200016/paragraphs/0017.md",
+        "laws/BJNR084200016/paragraphs/0029.md",
+        "laws/BJNR084200016/paragraphs/0030.md",
+        "laws/BJNR084200016/paragraphs/0031.md",
+        "laws/BJNR084200016/paragraphs/0031a.md",
+        "laws/BJNR084200016/paragraphs/0032.md",
+        "laws/BJNR084200016/paragraphs/0035.md",
+        "laws/BJNR084200016/source.xml",
+        "laws/BJNR084200016/toc.json"
+      ],
+      "jurabk": "PFAV",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 29",
+        "§ 30",
+        "§ 31"
+      ],
+      "sections_removed": [
+        "§ 17",
+        "§ 31a",
+        "§ 32",
+        "§ 35"
+      ],
+      "source_xml_sha256_after": "ac5eca22599cdc4b28da0fec6aeea4766530c2dfaeeffdc49d787b0111e6f775",
+      "source_xml_sha256_before": "afcd4256b6c555e2adddc6004b80da13a636a1aa391662ee1cb7d417660fcb94",
+      "stand_datum": "2026-02-04",
+      "title": "Verordnung betreffend die Aufsicht über Pensionsfonds und über die Durchführung reiner Beitragszusagen in der betrieblichen Altersversorgung"
+    },
+    {
+      "bjnr": "BJNR0DC0A0023",
+      "changed_paths": [
+        "laws/BJNR0DC0A0023/meta.json",
+        "laws/BJNR0DC0A0023/paragraphs/0040.md",
+        "laws/BJNR0DC0A0023/source.xml",
+        "laws/BJNR0DC0A0023/toc.json"
+      ],
+      "jurabk": "TierHaltKennzG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 40"
+      ],
+      "source_xml_sha256_after": "f32d3e70473ea8eb9341251594b9456699687706a2177532769104426907c1fa",
+      "source_xml_sha256_before": "b509e3fbe6ae9ca88d8e96170d21a7c03831ee8785e61b439d5eace7e3cbcef0",
+      "stand_datum": "2026-02-04",
+      "title": "Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden"
+    },
+    {
+      "bjnr": "BJNR0F00B0024",
+      "changed_paths": [
+        "laws/BJNR0F00B0024/meta.json",
+        "laws/BJNR0F00B0024/paragraphs/0001.md",
+        "laws/BJNR0F00B0024/source.xml",
+        "laws/BJNR0F00B0024/toc.json"
+      ],
+      "jurabk": "KapMuG 2024",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "b5fb00dae2c71b0c0d1c39a4229aa5d729ec1c13db82abe68fcd2087d77dbf64",
+      "source_xml_sha256_before": "971beeb14bff679ce982f1a189c3e6fba7822d9b112b2a976cd4b37b82cd3c2c",
+      "stand_datum": "2026-02-04",
+      "title": "Gesetz über Musterverfahren in kapitalmarktrechtlichen Streitigkeiten"
+    },
+    {
+      "bjnr": "BJNR137310005",
+      "changed_paths": [
+        "laws/BJNR137310005/meta.json",
+        "laws/BJNR137310005/paragraphs/0004.md",
+        "laws/BJNR137310005/paragraphs/0005.md",
+        "laws/BJNR137310005/source.xml",
+        "laws/BJNR137310005/toc.json"
+      ],
+      "jurabk": "PfandBG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 4",
+        "§ 5"
+      ],
+      "source_xml_sha256_after": "20655f4812fd943b2c846066e07ac638e6f1f477bdff6cd8077c664509d7889d",
+      "source_xml_sha256_before": "bb8be5092b70dfd7ebb684a6270c3fb41777fccd2c975a68f6a2e69eeee10fe7",
+      "stand_datum": "2026-02-04",
+      "title": "Pfandbriefgesetz"
+    },
+    {
+      "bjnr": "BJNR173010016",
+      "changed_paths": [
+        "laws/BJNR173010016/meta.json",
+        "laws/BJNR173010016/paragraphs/0001.md",
+        "laws/BJNR173010016/paragraphs/0002.md",
+        "laws/BJNR173010016/paragraphs/0004.md",
+        "laws/BJNR173010016/paragraphs/0006.md",
+        "laws/BJNR173010016/paragraphs/0007.md",
+        "laws/BJNR173010016/paragraphs/0008.md",
+        "laws/BJNR173010016/paragraphs/0010.md",
+        "laws/BJNR173010016/paragraphs/0015.md",
+        "laws/BJNR173010016/paragraphs/0026.md",
+        "laws/BJNR173010016/paragraphs/0030.md",
+        "laws/BJNR173010016/paragraphs/0033.md",
+        "laws/BJNR173010016/paragraphs/0037.md",
+        "laws/BJNR173010016/paragraphs/0043.md",
+        "laws/BJNR173010016/paragraphs/0057.md",
+        "laws/BJNR173010016/source.xml",
+        "laws/BJNR173010016/toc.json"
+      ],
+      "jurabk": "InvStG 2018",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 10",
+        "§ 15",
+        "§ 2",
+        "§ 26",
+        "§ 30",
+        "§ 33",
+        "§ 37",
+        "§ 4",
+        "§ 43",
+        "§ 57",
+        "§ 6",
+        "§ 7",
+        "§ 8"
+      ],
+      "source_xml_sha256_after": "a80c9228bc6dcbb51557a30911844be0c1061f111224e6df841e8e07b697404f",
+      "source_xml_sha256_before": "238600cbc8ae32c8f24eeab3dc1154dfeb56a186741df018f483804d9d3b8804",
+      "stand_datum": "2026-02-04",
+      "title": "Investmentsteuergesetz"
+    },
+    {
+      "bjnr": "BJNR188200022",
+      "changed_paths": [
+        "laws/BJNR188200022/meta.json",
+        "laws/BJNR188200022/paragraphs/0017.md",
+        "laws/BJNR188200022/source.xml",
+        "laws/BJNR188200022/toc.json"
+      ],
+      "jurabk": "eWpRV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 17"
+      ],
+      "source_xml_sha256_after": "5f45e810d68c71a0a077b2b351ceb1adab9766642f4cb1a6b5fbda9195f66dd0",
+      "source_xml_sha256_before": "108c7841d6b562e15af6789fc9d9aee8f23d845016b57d271b5912ccbf782475",
+      "stand_datum": "2026-02-04",
+      "title": "Verordnung über Anforderungen an elektronische Wertpapierregister"
+    },
+    {
+      "bjnr": "BJNR324500006",
+      "changed_paths": [
+        "laws/BJNR324500006/meta.json",
+        "laws/BJNR324500006/paragraphs/0005d.md",
+        "laws/BJNR324500006/paragraphs/0009a.md",
+        "laws/BJNR324500006/source.xml",
+        "laws/BJNR324500006/toc.json"
+      ],
+      "jurabk": "AnzV 2006",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 5d",
+        "§ 9a"
+      ],
+      "source_xml_sha256_after": "35c01bc2b07c610a3fea042238cdcbc9408144314d0e47d4a16c5b5ac10292d8",
+      "source_xml_sha256_before": "0e05cc7fba8967971d9834fa67509e86d48501d6be403826cf992b475b327598",
+      "stand_datum": "2026-02-04",
+      "title": "Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kreditwesengesetz"
+    }
+  ],
+  "effective_date": "2026-02-04",
+  "event_id": "2026-02-04-stand-14laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}

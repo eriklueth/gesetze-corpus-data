@@ -3,43 +3,11 @@
   "schema_version": "v2",
   "sections": [
     {
-      "absatz_count": 1,
-      "breadcrumb": [],
-      "file": "paragraphs/0001.md",
-      "heading": "Anwendungsbereich",
-      "number": "§ 1",
-      "type": "paragraph"
-    },
-    {
       "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Zuständigkeit",
       "number": "§ 2",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 1,
-      "breadcrumb": [],
-      "file": "paragraphs/0003.md",
-      "heading": "Antragsberechtigung",
-      "number": "§ 3",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 2,
-      "breadcrumb": [],
-      "file": "paragraphs/0004.md",
-      "heading": "Antragsfrist und Antragsbegründung",
-      "number": "§ 4",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 1,
-      "breadcrumb": [],
-      "file": "paragraphs/0005.md",
-      "heading": "Antragsgegner",
-      "number": "§ 5",
       "type": "paragraph"
     },
     {
@@ -152,14 +120,6 @@
       "file": "paragraphs/0013.md",
       "heading": "Wirkung der Entscheidung",
       "number": "§ 13",
-      "type": "paragraph"
-    },
-    {
-      "absatz_count": 1,
-      "breadcrumb": [],
-      "file": "paragraphs/0014.md",
-      "heading": "Bekanntmachung der Entscheidung",
-      "number": "§ 14",
       "type": "paragraph"
     },
     {
