@@ -1,0 +1,617 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR007810005",
+      "changed_paths": [
+        "laws/BJNR007810005/meta.json",
+        "laws/BJNR007810005/paragraphs/0007a.md",
+        "laws/BJNR007810005/paragraphs/0010.md",
+        "laws/BJNR007810005/paragraphs/0013.md",
+        "laws/BJNR007810005/paragraphs/0015a.md",
+        "laws/BJNR007810005/paragraphs/0017.md",
+        "laws/BJNR007810005/paragraphs/0017a.md",
+        "laws/BJNR007810005/paragraphs/0018.md",
+        "laws/BJNR007810005/paragraphs/0019.md",
+        "laws/BJNR007810005/source.xml",
+        "laws/BJNR007810005/toc.json"
+      ],
+      "jurabk": "LuftSiG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10",
+        "§ 13",
+        "§ 15a",
+        "§ 17",
+        "§ 17a",
+        "§ 18",
+        "§ 19",
+        "§ 7a"
+      ],
+      "source_xml_sha256_after": "9a059086aaa706dadd4996ced2bb8c9bea7e8282fc9a99b826ce6a47295118b4",
+      "source_xml_sha256_before": "b5308f1c93deede98258d24a5fa8d5d14f08bbe82d399a02e34b83fb16f381a5",
+      "stand_datum": "2026-03-11",
+      "title": "Luftsicherheitsgesetz"
+    },
+    {
+      "bjnr": "BJNR007900021",
+      "changed_paths": [
+        "laws/BJNR007900021/meta.json",
+        "laws/BJNR007900021/paragraphs/0001.md",
+        "laws/BJNR007900021/paragraphs/0002.md",
+        "laws/BJNR007900021/paragraphs/0005.md",
+        "laws/BJNR007900021/paragraphs/0007.md",
+        "laws/BJNR007900021/paragraphs/0017.md",
+        "laws/BJNR007900021/paragraphs/0018.md",
+        "laws/BJNR007900021/paragraphs/0019.md",
+        "laws/BJNR007900021/paragraphs/0022.md",
+        "laws/BJNR007900021/paragraphs/0023.md",
+        "laws/BJNR007900021/paragraphs/0035.md",
+        "laws/BJNR007900021/paragraphs/0039.md",
+        "laws/BJNR007900021/paragraphs/0052.md",
+        "laws/BJNR007900021/paragraphs/0053.md",
+        "laws/BJNR007900021/paragraphs/0055.md",
+        "laws/BJNR007900021/paragraphs/0057.md",
+        "laws/BJNR007900021/source.xml",
+        "laws/BJNR007900021/toc.json"
+      ],
+      "jurabk": "MtDFmEloAufklVDV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 17",
+        "§ 18",
+        "§ 19",
+        "§ 2",
+        "§ 22",
+        "§ 23",
+        "§ 35",
+        "§ 39",
+        "§ 5",
+        "§ 52",
+        "§ 53",
+        "§ 55",
+        "§ 57",
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "c75242b1a93eebc9697d340c13784e71266e3b5ce54da0203497d101d15c7ba8",
+      "source_xml_sha256_before": "697c943073d61173de99fef79f6fb0e5708f2738a04ecf6b34de3937f36518ff",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung"
+    },
+    {
+      "bjnr": "BJNR009000012",
+      "changed_paths": [
+        "laws/BJNR009000012/meta.json",
+        "laws/BJNR009000012/paragraphs/0003.md",
+        "laws/BJNR009000012/paragraphs/0004.md",
+        "laws/BJNR009000012/paragraphs/0005.md",
+        "laws/BJNR009000012/paragraphs/0006.md",
+        "laws/BJNR009000012/paragraphs/0007.md",
+        "laws/BJNR009000012/paragraphs/0008.md",
+        "laws/BJNR009000012/source.xml",
+        "laws/BJNR009000012/toc.json"
+      ],
+      "jurabk": "PostLV 2012",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 3",
+        "§ 4",
+        "§ 5",
+        "§ 6",
+        "§ 7",
+        "§ 8"
+      ],
+      "source_xml_sha256_after": "16b1b88a6e901567588b24cefeff9a0be6dca0cca2bb402e287d72d589663e15",
+      "source_xml_sha256_before": "da26be527f4250ec938640774533f7b897be9bfe7bb7b9253321e12c1c4937e0",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über die Laufbahnen der Beamtinnen und Beamten im Geltungsbereich des Postpersonalrechtsgesetzes"
+    },
+    {
+      "bjnr": "BJNR020200019",
+      "changed_paths": [
+        "laws/BJNR020200019/meta.json",
+        "laws/BJNR020200019/paragraphs/0001.md",
+        "laws/BJNR020200019/paragraphs/0004.md",
+        "laws/BJNR020200019/paragraphs/0014.md",
+        "laws/BJNR020200019/source.xml",
+        "laws/BJNR020200019/toc.json"
+      ],
+      "jurabk": "MISSAufstV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 14",
+        "§ 4"
+      ],
+      "source_xml_sha256_after": "c8a9015474e3f0334320f99f6105d1724e118b312a17c71d374454de8085275e",
+      "source_xml_sha256_before": "08039dedf6c48a5715b21a13afc5aa2a1619fccbf79d3942ecaba1d1676beef8",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst über den Masterstudiengang „Intelligence and Security Studies“"
+    },
+    {
+      "bjnr": "BJNR049700011",
+      "changed_paths": [
+        "laws/BJNR049700011/meta.json",
+        "laws/BJNR049700011/paragraphs/0004.md",
+        "laws/BJNR049700011/paragraphs/0005.md",
+        "laws/BJNR049700011/paragraphs/0022.md",
+        "laws/BJNR049700011/source.xml",
+        "laws/BJNR049700011/toc.json"
+      ],
+      "jurabk": "MPAFHBundV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 22",
+        "§ 4",
+        "§ 5"
+      ],
+      "source_xml_sha256_after": "8b08af00bea3e3463ba0535b61e6d41c66ab4f6a60c1e7fa7760ddf89bcc5927",
+      "source_xml_sha256_before": "22826bfe1992bbfb37bf07d4a73c07a0a33f91d1ca5125fa9f2aa8319531b35f",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Aufstieg in den höheren nichttechnischen Verwaltungsdienst des Bundes über das Studium „Master of Public Administration“ an der Hochschule des Bundes für öffentliche Verwaltung"
+    },
+    {
+      "bjnr": "BJNR051710019",
+      "changed_paths": [
+        "laws/BJNR051710019/meta.json",
+        "laws/BJNR051710019/paragraphs/0006.md",
+        "laws/BJNR051710019/source.xml",
+        "laws/BJNR051710019/toc.json"
+      ],
+      "jurabk": "GArchDVDV 2019",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 6"
+      ],
+      "source_xml_sha256_after": "30cd579f977e5d42a2232e8cdd275f653d0e3b1bf1f0dac861a55bcd25351ddf",
+      "source_xml_sha256_before": "3a4f9a8dcc28b2215c649fdd3979b3a118a59f225f4054cc864e581bb448f260",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Vorbereitungsdienst für den gehobenen Archivdienst des Bundes"
+    },
+    {
+      "bjnr": "BJNR054000006",
+      "changed_paths": [
+        "laws/BJNR054000006/annexes/0000.md",
+        "laws/BJNR054000006/meta.json",
+        "laws/BJNR054000006/source.xml",
+        "laws/BJNR054000006/toc.json"
+      ],
+      "jurabk": "EnWGKostV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage"
+      ],
+      "source_xml_sha256_after": "d49f48bbfd67b214afdc12e5849e4fead3f20c92042948ad9181d90042b74da4",
+      "source_xml_sha256_before": "ab1eb8f6798dabefb256dfb56dab5619cca55713c16b2251a1112b1d7c4a88a3",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über die Gebühren und Auslagen für Amtshandlungen der Bundesnetzagentur nach dem Energiewirtschaftsgesetz"
+    },
+    {
+      "bjnr": "BJNR0550A0023",
+      "changed_paths": [
+        "laws/BJNR0550A0023/meta.json",
+        "laws/BJNR0550A0023/paragraphs/0002.md",
+        "laws/BJNR0550A0023/paragraphs/0017.md",
+        "laws/BJNR0550A0023/source.xml",
+        "laws/BJNR0550A0023/toc.json"
+      ],
+      "jurabk": "MVITAufstV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 17",
+        "§ 2"
+      ],
+      "source_xml_sha256_after": "e3d6ca4de77e01f4f765a72d7ff9a1f7cf38e9e77580ace3952759f893d70dd3",
+      "source_xml_sha256_before": "ea9b0993a2d73a287c68b80dfd7fc22e3f610681f57cda208909924e891d92b9",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Aufstieg in den höheren technischen oder nichttechnischen Verwaltungsdienst des Bundes über den Masterstudiengang „Verwaltungsinformatik“ der Universität der Bundeswehr München"
+    },
+    {
+      "bjnr": "BJNR072710021",
+      "changed_paths": [
+        "laws/BJNR072710021/meta.json",
+        "laws/BJNR072710021/paragraphs/0008.md",
+        "laws/BJNR072710021/paragraphs/0012.md",
+        "laws/BJNR072710021/source.xml",
+        "laws/BJNR072710021/toc.json"
+      ],
+      "jurabk": "HBPolVDAufstV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 12",
+        "§ 8"
+      ],
+      "source_xml_sha256_after": "cf111525b29f3bb0d50ffacbeecd308b26b52f19cfc995c5e7d5f49847478702",
+      "source_xml_sha256_before": "af8ed400a1bf4b2b860d6ebb3cbda2759de33652da950e83ce2b2c927405f364",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei"
+    },
+    {
+      "bjnr": "BJNR096200021",
+      "changed_paths": [
+        "laws/BJNR096200021/meta.json",
+        "laws/BJNR096200021/paragraphs/0001.md",
+        "laws/BJNR096200021/paragraphs/0002.md",
+        "laws/BJNR096200021/paragraphs/0005.md",
+        "laws/BJNR096200021/paragraphs/0007.md",
+        "laws/BJNR096200021/paragraphs/0017.md",
+        "laws/BJNR096200021/paragraphs/0018.md",
+        "laws/BJNR096200021/paragraphs/0019.md",
+        "laws/BJNR096200021/paragraphs/0022.md",
+        "laws/BJNR096200021/paragraphs/0023.md",
+        "laws/BJNR096200021/paragraphs/0026.md",
+        "laws/BJNR096200021/paragraphs/0029.md",
+        "laws/BJNR096200021/paragraphs/0041.md",
+        "laws/BJNR096200021/paragraphs/0042.md",
+        "laws/BJNR096200021/paragraphs/0044.md",
+        "laws/BJNR096200021/source.xml",
+        "laws/BJNR096200021/toc.json"
+      ],
+      "jurabk": "GtDFmEloAufklVDV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 17",
+        "§ 18",
+        "§ 19",
+        "§ 2",
+        "§ 22",
+        "§ 23",
+        "§ 26",
+        "§ 29",
+        "§ 41",
+        "§ 42",
+        "§ 44",
+        "§ 5",
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "0715881baba3f0f4dda7ad5ed6b2d481022505072c3bc57c684127a3048e9b03",
+      "source_xml_sha256_before": "56627bf20d279b4b21e1f40102d83e6374a35b2a4a5c95ce237ee69da2f157b2",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung"
+    },
+    {
+      "bjnr": "BJNR11C0A0024",
+      "changed_paths": [
+        "laws/BJNR11C0A0024/meta.json",
+        "laws/BJNR11C0A0024/paragraphs/0046.md",
+        "laws/BJNR11C0A0024/source.xml",
+        "laws/BJNR11C0A0024/toc.json"
+      ],
+      "jurabk": "GVIDVDV 2025",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 46"
+      ],
+      "source_xml_sha256_after": "42b7b1b0d77e60dbe0db3a297da73082c7a75fa0daee52e716fdf8595995a0ec",
+      "source_xml_sha256_before": "018c182e2a47b41db6f25fdc2e9aac6269acb05c656c5141971676ecddba04a3",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Vorbereitungsdienst für den gehobenen Verwaltungsinformatikdienst des Bundes"
+    },
+    {
+      "bjnr": "BJNR1460A0023",
+      "changed_paths": [
+        "laws/BJNR1460A0023/meta.json",
+        "laws/BJNR1460A0023/paragraphs/0001.md",
+        "laws/BJNR1460A0023/source.xml",
+        "laws/BJNR1460A0023/toc.json"
+      ],
+      "jurabk": "GStDVDV 2024",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1"
+      ],
+      "source_xml_sha256_after": "8770af0cd8c82c77db6beaa1863f7b1a81cac8eceb4da3e7919b750bef197b51",
+      "source_xml_sha256_before": "ece5c09b89c34e64db9ebe2c06535b8ce12952a8b7d35bbb4e0d7f596a713931",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Vorbereitungsdienst für den gehobenen Steuerdienst des Bundes"
+    },
+    {
+      "bjnr": "BJNR189700017",
+      "changed_paths": [
+        "laws/BJNR189700017/meta.json",
+        "laws/BJNR189700017/paragraphs/0006.md",
+        "laws/BJNR189700017/source.xml",
+        "laws/BJNR189700017/toc.json"
+      ],
+      "jurabk": "HArchDVDV 2017",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 6"
+      ],
+      "source_xml_sha256_after": "3d698ccb38f24bfbd63a6170547150c1e652ca16c644699784448728c7564edf",
+      "source_xml_sha256_before": "28f853fa79ca664d608cd350be33a54d1c8060267230f219527f7553fa3c9190",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Vorbereitungsdienst für den höheren Archivdienst des Bundes"
+    },
+    {
+      "bjnr": "BJNR201010019",
+      "changed_paths": [
+        "laws/BJNR201010019/meta.json",
+        "laws/BJNR201010019/paragraphs/0001.md",
+        "laws/BJNR201010019/paragraphs/0002.md",
+        "laws/BJNR201010019/paragraphs/0003.md",
+        "laws/BJNR201010019/paragraphs/0004.md",
+        "laws/BJNR201010019/paragraphs/0005.md",
+        "laws/BJNR201010019/paragraphs/0006.md",
+        "laws/BJNR201010019/paragraphs/0007.md",
+        "laws/BJNR201010019/paragraphs/0008.md",
+        "laws/BJNR201010019/paragraphs/0009.md",
+        "laws/BJNR201010019/paragraphs/0010.md",
+        "laws/BJNR201010019/paragraphs/0011.md",
+        "laws/BJNR201010019/source.xml",
+        "laws/BJNR201010019/toc.json"
+      ],
+      "jurabk": "EJG 2019",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 10",
+        "§ 11",
+        "§ 2",
+        "§ 3",
+        "§ 4",
+        "§ 5",
+        "§ 6",
+        "§ 7",
+        "§ 8",
+        "§ 9"
+      ],
+      "source_xml_sha256_after": "b3e2178fb418d318fa5cac5445dbe301bfa74a3d36a4eb99866935a83f10351d",
+      "source_xml_sha256_before": "5f70f7570589c3abc4882785e2d5dd54e60c61b8e88d89f1f9d945c452eec003",
+      "stand_datum": "2026-03-11",
+      "title": "Gesetz über Eurojust und das Europäische Justizielle Netz in Strafsachen"
+    },
+    {
+      "bjnr": "BJNR223000004",
+      "changed_paths": [
+        "laws/BJNR223000004/meta.json",
+        "laws/BJNR223000004/paragraphs/0010.md",
+        "laws/BJNR223000004/source.xml",
+        "laws/BJNR223000004/toc.json"
+      ],
+      "jurabk": "LAP-htVerwDV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10"
+      ],
+      "source_xml_sha256_after": "7bb4a8c558db342483a7d902e229720cc93a936003facdeb0728bfc1623c3ba3",
+      "source_xml_sha256_before": "c0d69c5e3ca175614982cbb1bf8b968cb02fe9c498223f7c322f0343debbade8",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen Verwaltungsdienst des Bundes"
+    },
+    {
+      "bjnr": "BJNR240810011",
+      "changed_paths": [
+        "laws/BJNR240810011/meta.json",
+        "laws/BJNR240810011/paragraphs/0006.md",
+        "laws/BJNR240810011/paragraphs/0007.md",
+        "laws/BJNR240810011/paragraphs/0008.md",
+        "laws/BJNR240810011/paragraphs/0011.md",
+        "laws/BJNR240810011/paragraphs/0012.md",
+        "laws/BJNR240810011/paragraphs/0013.md",
+        "laws/BJNR240810011/paragraphs/0014.md",
+        "laws/BJNR240810011/paragraphs/0015.md",
+        "laws/BJNR240810011/paragraphs/0016.md",
+        "laws/BJNR240810011/paragraphs/0016a.md",
+        "laws/BJNR240810011/paragraphs/0017.md",
+        "laws/BJNR240810011/source.xml",
+        "laws/BJNR240810011/toc.json"
+      ],
+      "jurabk": "BPolLV 2011",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 11",
+        "§ 12",
+        "§ 13",
+        "§ 14",
+        "§ 15",
+        "§ 16",
+        "§ 16a",
+        "§ 17",
+        "§ 6",
+        "§ 7",
+        "§ 8"
+      ],
+      "source_xml_sha256_after": "903f036ed976e96ff9114d91366a5d18fe8145bce485bdb7d0b422e98f1f072a",
+      "source_xml_sha256_before": "fd69a50b034f617703ac2ce58589ef637d586607da7fcdc3ab1bb237ca152edf",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei"
+    },
+    {
+      "bjnr": "BJNR277900001",
+      "changed_paths": [
+        "laws/BJNR277900001/meta.json",
+        "laws/BJNR277900001/paragraphs/0022.md",
+        "laws/BJNR277900001/source.xml",
+        "laws/BJNR277900001/toc.json"
+      ],
+      "jurabk": "LAP-hDBiblV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 22"
+      ],
+      "source_xml_sha256_after": "8f2ef2e8c0e255cb85f3b2452c06dfb845694424566a5fc902d9d076aa9f86d1",
+      "source_xml_sha256_before": "54862efc25ea76cd92d5f10cb187a55a2d298c6f869e5f9e3c8dd319853eb9b5",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Dienst an wissenschaftlichen Bibliotheken des Bundes"
+    },
+    {
+      "bjnr": "BJNR286500013",
+      "changed_paths": [
+        "laws/BJNR286500013/meta.json",
+        "laws/BJNR286500013/paragraphs/0055a.md",
+        "laws/BJNR286500013/paragraphs/0074.md",
+        "laws/BJNR286500013/paragraphs/0075.md",
+        "laws/BJNR286500013/paragraphs/0076.md",
+        "laws/BJNR286500013/paragraphs/0077.md",
+        "laws/BJNR286500013/paragraphs/0082.md",
+        "laws/BJNR286500013/paragraphs/0082a.md",
+        "laws/BJNR286500013/source.xml",
+        "laws/BJNR286500013/toc.json"
+      ],
+      "jurabk": "AWV 2013",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 55a",
+        "§ 74",
+        "§ 75",
+        "§ 76",
+        "§ 77",
+        "§ 82",
+        "§ 82a"
+      ],
+      "source_xml_sha256_after": "2d08147c469db07f5183c6e74d97eecbd7795e8aeae87f1d703a2f253396a0a9",
+      "source_xml_sha256_before": "df54c06d169c91a715b7fcdae972c51d277788dddae5d5bf963a262e347a9f58",
+      "stand_datum": "2026-03-11",
+      "title": "Außenwirtschaftsverordnung"
+    },
+    {
+      "bjnr": "BJNR288310020",
+      "changed_paths": [
+        "laws/BJNR288310020/meta.json",
+        "laws/BJNR288310020/paragraphs/0010.md",
+        "laws/BJNR288310020/source.xml",
+        "laws/BJNR288310020/toc.json"
+      ],
+      "jurabk": "GKrimDVDV 2020",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10"
+      ],
+      "source_xml_sha256_after": "6e89f0966bfb64fd4f40c1336d7ea8355a6a87fbf73b69d1edcd872fd3522fcf",
+      "source_xml_sha256_before": "28075c10d7791132ad8ef4c4002ae06cd0835ff1d2f26d2116bf2ca33e5f38e1",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über die Vorbereitungsdienste für den gehobenen Kriminaldienst des Bundes"
+    },
+    {
+      "bjnr": "BJNR324000009",
+      "changed_paths": [
+        "laws/BJNR324000009/meta.json",
+        "laws/BJNR324000009/paragraphs/0001.md",
+        "laws/BJNR324000009/paragraphs/0007.md",
+        "laws/BJNR324000009/paragraphs/0009h.md",
+        "laws/BJNR324000009/paragraphs/0010.md",
+        "laws/BJNR324000009/paragraphs/0012.md",
+        "laws/BJNR324000009/paragraphs/0024.md",
+        "laws/BJNR324000009/paragraphs/0037.md",
+        "laws/BJNR324000009/source.xml",
+        "laws/BJNR324000009/toc.json"
+      ],
+      "jurabk": "GtDBWVAPrV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 10",
+        "§ 12",
+        "§ 24",
+        "§ 37",
+        "§ 7",
+        "§ 9h"
+      ],
+      "source_xml_sha256_after": "7fe707af6419c66dd8c3111c071312cec3bc72885651192c8dfe3f82a80e6fcd",
+      "source_xml_sha256_before": "240fcdfa81ceca5499ecbfef6d51f76091f660ebaa3e025191de3e67e3efbd55",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik"
+    },
+    {
+      "bjnr": "BJNR327300017",
+      "changed_paths": [
+        "laws/BJNR327300017/meta.json",
+        "laws/BJNR327300017/paragraphs/0001.md",
+        "laws/BJNR327300017/paragraphs/0002.md",
+        "laws/BJNR327300017/paragraphs/0006.md",
+        "laws/BJNR327300017/paragraphs/0007.md",
+        "laws/BJNR327300017/paragraphs/0015b.md",
+        "laws/BJNR327300017/paragraphs/0015d.md",
+        "laws/BJNR327300017/paragraphs/0016.md",
+        "laws/BJNR327300017/paragraphs/0020.md",
+        "laws/BJNR327300017/paragraphs/0021.md",
+        "laws/BJNR327300017/paragraphs/0024.md",
+        "laws/BJNR327300017/paragraphs/0027.md",
+        "laws/BJNR327300017/paragraphs/0034.md",
+        "laws/BJNR327300017/paragraphs/0035.md",
+        "laws/BJNR327300017/paragraphs/0037.md",
+        "laws/BJNR327300017/source.xml",
+        "laws/BJNR327300017/toc.json"
+      ],
+      "jurabk": "GfwtDBwVDV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 1",
+        "§ 15b",
+        "§ 15d",
+        "§ 16",
+        "§ 2",
+        "§ 20",
+        "§ 21",
+        "§ 24",
+        "§ 27",
+        "§ 34",
+        "§ 35",
+        "§ 37",
+        "§ 6",
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "f6effa1561d192f798216bff01347543edb80083102b00d885b5a3f16976e192",
+      "source_xml_sha256_before": "b68950f8b738e8774705c8f4f660ab4027b237b720de52b5976d9f6a297e4e47",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz"
+    },
+    {
+      "bjnr": "BJNR328200013",
+      "changed_paths": [
+        "laws/BJNR328200013/meta.json",
+        "laws/BJNR328200013/paragraphs/0008.md",
+        "laws/BJNR328200013/paragraphs/0010.md",
+        "laws/BJNR328200013/paragraphs/0011.md",
+        "laws/BJNR328200013/paragraphs/0012.md",
+        "laws/BJNR328200013/source.xml",
+        "laws/BJNR328200013/toc.json"
+      ],
+      "jurabk": "PolBTLV 2013",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10",
+        "§ 11",
+        "§ 12",
+        "§ 8"
+      ],
+      "source_xml_sha256_after": "a4f48a4e19bfaf098343f6d37432f17a4f64614a3c21b5f4619262b55e0fcb86",
+      "source_xml_sha256_before": "b171994195994dcc44565af0663816b5ef3995a066cd7dd07b218a85d225e8fb",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über die Laufbahnen des Polizeivollzugsdienstes beim Deutschen Bundestag"
+    }
+  ],
+  "effective_date": "2026-03-11",
+  "event_id": "2026-03-11-stand-22laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
