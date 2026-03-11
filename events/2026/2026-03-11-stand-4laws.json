@@ -1,0 +1,84 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR009000012",
+      "changed_paths": [
+        "laws/BJNR009000012/meta.json",
+        "laws/BJNR009000012/paragraphs/0007.md",
+        "laws/BJNR009000012/source.xml"
+      ],
+      "jurabk": "PostLV 2012",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 7"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "da26be527f4250ec938640774533f7b897be9bfe7bb7b9253321e12c1c4937e0",
+      "source_xml_sha256_before": "4105e9741d5ba0dbc3e2fad92467198f06f4db7fe82ec5166da337fa1d97eb62",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über die Laufbahnen der Beamtinnen und Beamten im Geltungsbereich des Postpersonalrechtsgesetzes"
+    },
+    {
+      "bjnr": "BJNR240810011",
+      "changed_paths": [
+        "laws/BJNR240810011/meta.json",
+        "laws/BJNR240810011/paragraphs/0016a.md",
+        "laws/BJNR240810011/source.xml"
+      ],
+      "jurabk": "BPolLV 2011",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 16a"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "fd69a50b034f617703ac2ce58589ef637d586607da7fcdc3ab1bb237ca152edf",
+      "source_xml_sha256_before": "331e81c0a33610dd19f082868945ba6459325f54877a972799f0ebf3951be4f7",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei"
+    },
+    {
+      "bjnr": "BJNR324000009",
+      "changed_paths": [
+        "laws/BJNR324000009/meta.json",
+        "laws/BJNR324000009/paragraphs/0009h.md",
+        "laws/BJNR324000009/paragraphs/0010.md",
+        "laws/BJNR324000009/source.xml"
+      ],
+      "jurabk": "GtDBWVAPrV",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 10",
+        "§ 9h"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "240fcdfa81ceca5499ecbfef6d51f76091f660ebaa3e025191de3e67e3efbd55",
+      "source_xml_sha256_before": "92669383544461b067b06663531c227ee4b1fe0913aa429a9480cb7e69f2dd08",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik"
+    },
+    {
+      "bjnr": "BJNR327300017",
+      "changed_paths": [
+        "laws/BJNR327300017/meta.json",
+        "laws/BJNR327300017/source.xml"
+      ],
+      "jurabk": "GfwtDBwVDV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "b68950f8b738e8774705c8f4f660ab4027b237b720de52b5976d9f6a297e4e47",
+      "source_xml_sha256_before": "adb133f4457695f1c8c6ce45d945e1d7da78d62532385774c71288bda670989c",
+      "stand_datum": "2026-03-11",
+      "title": "Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz"
+    }
+  ],
+  "effective_date": "2026-03-11",
+  "event_id": "2026-03-11-stand-4laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
