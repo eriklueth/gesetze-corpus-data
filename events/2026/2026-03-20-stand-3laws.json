@@ -1,0 +1,115 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR121250992",
+      "changed_paths": [
+        "laws/BJNR121250992/meta.json",
+        "laws/BJNR121250992/paragraphs/0002.md",
+        "laws/BJNR121250992/paragraphs/0004.md",
+        "laws/BJNR121250992/paragraphs/0006.md",
+        "laws/BJNR121250992/paragraphs/0010.md",
+        "laws/BJNR121250992/paragraphs/0011.md",
+        "laws/BJNR121250992/paragraphs/0011c.md",
+        "laws/BJNR121250992/paragraphs/0012.md",
+        "laws/BJNR121250992/paragraphs/0012a.md",
+        "laws/BJNR121250992/paragraphs/0012c.md",
+        "laws/BJNR121250992/paragraphs/0013.md",
+        "laws/BJNR121250992/paragraphs/0014.md",
+        "laws/BJNR121250992/paragraphs/0015.md",
+        "laws/BJNR121250992/paragraphs/0016.md",
+        "laws/BJNR121250992/paragraphs/0017.md",
+        "laws/BJNR121250992/paragraphs/0019.md",
+        "laws/BJNR121250992/paragraphs/0022.md",
+        "laws/BJNR121250992/paragraphs/0028.md",
+        "laws/BJNR121250992/paragraphs/0028a.md",
+        "laws/BJNR121250992/paragraphs/0029.md",
+        "laws/BJNR121250992/paragraphs/0030.md",
+        "laws/BJNR121250992/paragraphs/0031.md",
+        "laws/BJNR121250992/paragraphs/0031a.md",
+        "laws/BJNR121250992/paragraphs/0032.md",
+        "laws/BJNR121250992/source.xml",
+        "laws/BJNR121250992/toc.json"
+      ],
+      "jurabk": "ZollVG",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 32"
+      ],
+      "sections_removed": [
+        "§ 10",
+        "§ 11",
+        "§ 11c",
+        "§ 12",
+        "§ 12a",
+        "§ 12c",
+        "§ 13",
+        "§ 14",
+        "§ 15",
+        "§ 16",
+        "§ 17",
+        "§ 19",
+        "§ 2",
+        "§ 22",
+        "§ 28",
+        "§ 28a",
+        "§ 29",
+        "§ 30",
+        "§ 31",
+        "§ 31a",
+        "§ 4",
+        "§ 6"
+      ],
+      "source_xml_sha256_after": "05f945eeeade6896064c10f16ab33fb7ae50b89af72987e7567c17d0f265b01f",
+      "source_xml_sha256_before": "35d19bcbfb9379f8f149cd96120289ae938c49e382908c1b696297dc97919c1c",
+      "stand_datum": "2026-03-20",
+      "title": "Zollverwaltungsgesetz"
+    },
+    {
+      "bjnr": "BJNR148410017",
+      "changed_paths": [
+        "laws/BJNR148410017/meta.json",
+        "laws/BJNR148410017/paragraphs/0004.md",
+        "laws/BJNR148410017/source.xml",
+        "laws/BJNR148410017/toc.json"
+      ],
+      "jurabk": "FlugDaG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 4"
+      ],
+      "source_xml_sha256_after": "1e1eb0351f29fbd797cd19699a097ac1610cd9eb4048d8ec2622f89e08dc4286",
+      "source_xml_sha256_before": "0d1e174d6f47930a63fb65911a3c205a09f6df9dda15e0d90fda2862aa1645da",
+      "stand_datum": "2026-03-20",
+      "title": "Gesetz über die Verarbeitung von Fluggastdaten zur Umsetzung der Richtlinie (EU) 2016/681"
+    },
+    {
+      "bjnr": "BJNR397010002",
+      "changed_paths": [
+        "laws/BJNR397010002/meta.json",
+        "laws/BJNR397010002/paragraphs/0005.md",
+        "laws/BJNR397010002/source.xml",
+        "laws/BJNR397010002/toc.json"
+      ],
+      "jurabk": "WaffG 2002",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 5"
+      ],
+      "source_xml_sha256_after": "a9adadb2709093df125e1d78850535bc26108e38f6d6979d7804de3d2e6a1252",
+      "source_xml_sha256_before": "75e94bcacdf6b7aef2521148cc3263480027cd9089af0ad59d170d97aaa0b847",
+      "stand_datum": "2026-03-20",
+      "title": "Waffengesetz"
+    }
+  ],
+  "effective_date": "2026-03-20",
+  "event_id": "2026-03-20-stand-3laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
