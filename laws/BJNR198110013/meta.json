@@ -4,11 +4,11 @@
   "bjnr": "BJNR198110013",
   "eli": null,
   "gii_slug": "kagb",
-  "ingested_at": "2026-04-17T15:23:23Z",
+  "ingested_at": "2026-04-18T14:11:09Z",
   "jurabk": "KAGB",
   "schema_version": "v1",
   "source_hashes": {
-    "source_xml_sha256": "5b546c1d3eb6d524fac2e26147bd612b20125669a6ef81515800fe0052d160d4"
+    "source_xml_sha256": "c99aa776db44874cde114c7450c2457d906bd15451cde15991260f4608305b48"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/kagb/",
@@ -21,7 +21,7 @@
       "typ": "Stand"
     },
     {
-      "kommentar": "Änderung durch Art. 1 G v. 9.4.2026 I Nr. 97 mWv 16.4.2026 noch nicht berücksichtigt",
+      "kommentar": "Änderung durch Art. 1 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
       "typ": "Hinweis"
     },
     {
@@ -29,7 +29,7 @@
       "typ": "Hinweis"
     },
     {
-      "kommentar": "Änderung durch Art. 3 G v. 9.4.2026 I Nr. 97 mWv 25.6.2026 noch nicht berücksichtigt",
+      "kommentar": "Änderung durch Art. 3 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
       "typ": "Hinweis"
     }
   ],
