@@ -10,14 +10,19 @@
     "paragraph": 51
   },
   "source_hashes": {
-    "source_xml_sha256": "fad95a5a86759fef4911fa58988d506840655b85314d7a3a47a8ef31e51aa4aa"
+    "source_xml_sha256": "9fe0420de1039e29ed015909be363d0da314906ca923a117fc0deddfe6e596bc"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/_daprv/",
     "gii_xml_zip": "https://www.gesetze-im-internet.de/_daprv/xml.zip"
   },
-  "stand_datum": null,
-  "standangabe": [],
+  "stand_datum": "2026-03-27",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 27.3.2026 I Nr. 105",
+      "typ": "Stand"
+    }
+  ],
   "title": "Verordnung über die Durchführung der Abschlussprüfung in den staatlich anerkannten Ausbildungsberufen des öffentlichen Dienstes",
   "tooling_version": "gesetze-corpus-tools@0.2.0"
 }
