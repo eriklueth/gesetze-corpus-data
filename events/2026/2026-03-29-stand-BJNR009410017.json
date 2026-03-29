@@ -1,0 +1,61 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR009410017",
+      "changed_paths": [
+        "laws/BJNR009410017/annexes/0001.md",
+        "laws/BJNR009410017/annexes/0002.md",
+        "laws/BJNR009410017/meta.json",
+        "laws/BJNR009410017/paragraphs/0001.md",
+        "laws/BJNR009410017/paragraphs/0002.md",
+        "laws/BJNR009410017/paragraphs/0003.md",
+        "laws/BJNR009410017/paragraphs/0004.md",
+        "laws/BJNR009410017/paragraphs/0005.md",
+        "laws/BJNR009410017/paragraphs/0006.md",
+        "laws/BJNR009410017/paragraphs/0007.md",
+        "laws/BJNR009410017/paragraphs/0008.md",
+        "laws/BJNR009410017/paragraphs/0009.md",
+        "laws/BJNR009410017/paragraphs/0010.md",
+        "laws/BJNR009410017/paragraphs/0011.md",
+        "laws/BJNR009410017/paragraphs/0012.md",
+        "laws/BJNR009410017/paragraphs/0013.md",
+        "laws/BJNR009410017/paragraphs/0014.md",
+        "laws/BJNR009410017/source.xml"
+      ],
+      "jurabk": "ChemVerbotsV 2017",
+      "sections_added": [],
+      "sections_modified": [
+        "Anlage 1",
+        "Anlage 2",
+        "§ 1",
+        "§ 10",
+        "§ 11",
+        "§ 12",
+        "§ 13",
+        "§ 14",
+        "§ 2",
+        "§ 3",
+        "§ 4",
+        "§ 5",
+        "§ 6",
+        "§ 7",
+        "§ 8",
+        "§ 9"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "4f3273dbe04c32071fa807544ce6d9ceeb46e7a107c21bb3672aa630110856f1",
+      "source_xml_sha256_before": "78c227680c051de7042e36a8ee55cc293ab12bc41ca683ba5c65fd04abcf3221",
+      "stand_datum": "2026-03-29",
+      "title": "Verordnung über Verbote und Beschränkungen des Inverkehrbringens und über die Abgabe bestimmter Stoffe, Gemische und Erzeugnisse nach dem Chemikaliengesetz"
+    }
+  ],
+  "effective_date": "2026-03-29",
+  "event_id": "2026-03-29-stand-BJNR009410017",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
