@@ -1,0 +1,46 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR350800004",
+      "changed_paths": [
+        "laws/BJNR350800004/meta.json",
+        "laws/BJNR350800004/paragraphs/0001.md",
+        "laws/BJNR350800004/paragraphs/0002.md",
+        "laws/BJNR350800004/paragraphs/0003.md",
+        "laws/BJNR350800004/paragraphs/0004.md",
+        "laws/BJNR350800004/paragraphs/0005.md",
+        "laws/BJNR350800004/paragraphs/0006.md",
+        "laws/BJNR350800004/paragraphs/0007.md",
+        "laws/BJNR350800004/paragraphs/0008.md",
+        "laws/BJNR350800004/source.xml",
+        "laws/BJNR350800004/toc.json"
+      ],
+      "jurabk": "ChemVOCFarbV",
+      "sections_added": [],
+      "sections_modified": [
+        "§ 1",
+        "§ 2",
+        "§ 3",
+        "§ 4",
+        "§ 5",
+        "§ 6",
+        "§ 7",
+        "§ 8"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "0bf80021ea4893c05a0bbe71e6367f9d9768b895ac714d13f6a7a02e89263e9d",
+      "source_xml_sha256_before": "9a9bea3ce43c26a44cd08b25c540469b8fcab9514bb2f37577be96c0f2abe8a5",
+      "stand_datum": "2026-03-29",
+      "title": "Chemikalienrechtliche Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen (VOC) durch Beschränkung des Inverkehrbringens lösemittelhaltiger Farben und Lacke"
+    }
+  ],
+  "effective_date": "2026-03-29",
+  "event_id": "2026-03-29-stand-BJNR350800004",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
