@@ -11,7 +11,7 @@
     "paragraph": 14
   },
   "source_hashes": {
-    "source_xml_sha256": "4f3273dbe04c32071fa807544ce6d9ceeb46e7a107c21bb3672aa630110856f1"
+    "source_xml_sha256": "cdeed7c5377c71d27ff2079451f3883a8473a48332e24375599b024118ddbe53"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/chemverbotsv_2017/",
@@ -22,6 +22,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 2 Abs. 2 G v. 29.3.2026 I Nr. 86",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 V v. 21.4.2026 I Nr. 108 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     },
     {
       "kommentar": "Ersetzt V 8053-6-20 v. 14.10.1993 I 1720 (ChemVerbotsV)",
