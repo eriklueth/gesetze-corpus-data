@@ -1,0 +1,34 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR016900018",
+      "changed_paths": [
+        "laws/BJNR016900018/meta.json",
+        "laws/BJNR016900018/paragraphs/0007.md",
+        "laws/BJNR016900018/paragraphs/0031.md",
+        "laws/BJNR016900018/source.xml",
+        "laws/BJNR016900018/toc.json"
+      ],
+      "jurabk": "UERV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 31",
+        "§ 7"
+      ],
+      "source_xml_sha256_after": "e8ab803bb5b3c11a68af613cb339a3e37ae3d91e45c5fd51c65cb2966842d5b4",
+      "source_xml_sha256_before": "faa939db0274551d50c6eac5ba657f87fe13a4e0a33674991fa7baf69b4989dd",
+      "stand_datum": "2026-04-01",
+      "title": "Verordnung zur Anrechnung von Upstream-Emissionsminderungen auf die Treibhausgasquote"
+    }
+  ],
+  "effective_date": "2026-04-01",
+  "event_id": "2026-04-01-stand-BJNR016900018",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
