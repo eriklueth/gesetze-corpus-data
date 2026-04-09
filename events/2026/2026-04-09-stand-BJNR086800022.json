@@ -1,0 +1,27 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR086800022",
+      "changed_paths": [
+        "laws/BJNR086800022/meta.json",
+        "laws/BJNR086800022/paragraphs/0002.md",
+        "laws/BJNR086800022/paragraphs/0003.md",
+        "laws/BJNR086800022/source.xml"
+      ],
+      "jurabk": "KryptoFAV",
+      "source_xml_sha256_after": "7a91533db3bbf62a0a026cd94129ea0bb6d9310fcf4f297b46d0b9edf548e956",
+      "source_xml_sha256_before": "f38dcbbff90d55f5ddd29f552d9cb7e23d0b77b8bc43c88699ab02a44c176ef9",
+      "stand_datum": "2026-04-09",
+      "title": "Verordnung über Kryptofondsanteile"
+    }
+  ],
+  "effective_date": "2026-04-09",
+  "event_id": "2026-04-09-stand-BJNR086800022",
+  "schema_version": "v1",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.1.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; not a per-paragraph event"
+  }
+}
