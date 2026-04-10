@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR149900002",
+      "changed_paths": [
+        "laws/BJNR149900002/annexes/0000.md",
+        "laws/BJNR149900002/meta.json",
+        "laws/BJNR149900002/source.xml",
+        "laws/BJNR149900002/toc.json"
+      ],
+      "jurabk": "FinDASaV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage"
+      ],
+      "source_xml_sha256_after": "b9d00659befb34bb4f214d7360ac00b0062df5250e0ffb4255561e695f51b1d2",
+      "source_xml_sha256_before": "973a7343a5706d8564f541abc72e0c70c51d8402b1d0486a6f28c3dd23999133",
+      "stand_datum": "2026-04-10",
+      "title": "Verordnung über die Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht"
+    }
+  ],
+  "effective_date": "2026-04-10",
+  "event_id": "2026-04-10-stand-BJNR149900002",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
