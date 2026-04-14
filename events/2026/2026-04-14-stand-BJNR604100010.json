@@ -1,0 +1,32 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR604100010",
+      "changed_paths": [
+        "laws/BJNR604100010/annexes/0000.md",
+        "laws/BJNR604100010/meta.json",
+        "laws/BJNR604100010/source.xml",
+        "laws/BJNR604100010/toc.json"
+      ],
+      "jurabk": "EURHGAusnahmV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage"
+      ],
+      "source_xml_sha256_after": "0a2e066c52281779c1b8616e914ae862f01852e13808afc914b57cc0dba2b698",
+      "source_xml_sha256_before": "052b6b1e39645382772d3041a25673c7eba9cc461f624792aba3cf942569671f",
+      "stand_datum": "2026-04-14",
+      "title": "Verordnung über Ausnahmen hinsichtlich des Inverkehrbringens und der Verfütterung von bestimmten Erzeugnissen mit Pestizidrückständen"
+    }
+  ],
+  "effective_date": "2026-04-14",
+  "event_id": "2026-04-14-stand-BJNR604100010",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
