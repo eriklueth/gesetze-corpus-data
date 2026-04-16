@@ -7,10 +7,10 @@
   "jurabk": "RegZensErpG",
   "schema_version": "v2",
   "section_counts": {
-    "paragraph": 18
+    "paragraph": 4
   },
   "source_hashes": {
-    "source_xml_sha256": "8be24a2f15f3e646e3eb428aa95bab7ff4a04d2cc709ae1115afe872ebf025cc"
+    "source_xml_sha256": "93ea774e537308809d56c7ffb60713cacc0216d22143ce9f2e0b108ef25a7ddc"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/regzenserpg/",
@@ -19,8 +19,8 @@
   "stand_datum": "2026-04-16",
   "standangabe": [
     {
-      "kommentar": "Änderung durch Art. 1 G v. 16.4.2026 I Nr. 106 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
-      "typ": "Hinweis"
+      "kommentar": "Geändert durch Art. 1 G v. 16.4.2026 I Nr. 106",
+      "typ": "Stand"
     }
   ],
   "title": "Gesetz zur Erprobung von Verfahren eines Registerzensus",

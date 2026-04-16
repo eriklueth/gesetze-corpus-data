@@ -1,0 +1,79 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR164910021",
+      "changed_paths": [
+        "laws/BJNR164910021/meta.json",
+        "laws/BJNR164910021/paragraphs/0002.md",
+        "laws/BJNR164910021/paragraphs/0004.md",
+        "laws/BJNR164910021/paragraphs/0007.md",
+        "laws/BJNR164910021/paragraphs/0008.md",
+        "laws/BJNR164910021/paragraphs/0009.md",
+        "laws/BJNR164910021/paragraphs/0010.md",
+        "laws/BJNR164910021/paragraphs/0011.md",
+        "laws/BJNR164910021/paragraphs/0012.md",
+        "laws/BJNR164910021/paragraphs/0013.md",
+        "laws/BJNR164910021/paragraphs/0014.md",
+        "laws/BJNR164910021/paragraphs/0015.md",
+        "laws/BJNR164910021/paragraphs/0016.md",
+        "laws/BJNR164910021/paragraphs/0017.md",
+        "laws/BJNR164910021/paragraphs/0018.md",
+        "laws/BJNR164910021/source.xml",
+        "laws/BJNR164910021/toc.json"
+      ],
+      "jurabk": "RegZensErpG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 10",
+        "§ 11",
+        "§ 12",
+        "§ 13",
+        "§ 14",
+        "§ 15",
+        "§ 16",
+        "§ 17",
+        "§ 18",
+        "§ 2",
+        "§ 4",
+        "§ 7",
+        "§ 8",
+        "§ 9"
+      ],
+      "source_xml_sha256_after": "93ea774e537308809d56c7ffb60713cacc0216d22143ce9f2e0b108ef25a7ddc",
+      "source_xml_sha256_before": "8be24a2f15f3e646e3eb428aa95bab7ff4a04d2cc709ae1115afe872ebf025cc",
+      "stand_datum": "2026-04-16",
+      "title": "Gesetz zur Erprobung von Verfahren eines Registerzensus"
+    },
+    {
+      "bjnr": "BJNR189100994",
+      "changed_paths": [
+        "laws/BJNR189100994/meta.json",
+        "laws/BJNR189100994/paragraphs/0062.md",
+        "laws/BJNR189100994/paragraphs/0063.md",
+        "laws/BJNR189100994/source.xml",
+        "laws/BJNR189100994/toc.json"
+      ],
+      "jurabk": "ALG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 62",
+        "§ 63"
+      ],
+      "source_xml_sha256_after": "5154932d6306659b42c79cf8b9f7641a55bafeca54c23b762a0bceb80981168f",
+      "source_xml_sha256_before": "f07193add806135a6932b0c84366203e157b9e098910796552843cd7e07975d3",
+      "stand_datum": "2026-04-16",
+      "title": "Gesetz über die Alterssicherung der Landwirte"
+    }
+  ],
+  "effective_date": "2026-04-16",
+  "event_id": "2026-04-16-stand-2laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
