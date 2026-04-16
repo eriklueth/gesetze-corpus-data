@@ -33,7 +33,7 @@
       "type": "paragraph"
     },
     {
-      "absatz_count": 5,
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 2 Bevölkerungsdaten"
@@ -66,57 +66,49 @@
       "type": "paragraph"
     },
     {
-      "absatz_count": 8,
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 2 Bevölkerungsdaten"
       ],
       "file": "paragraphs/0007.md",
-      "heading": "Übermittlung von Daten aus Vergleichsdatenbeständen",
+      "heading": "Zusammenführungen",
       "number": "§ 7",
       "type": "paragraph"
     },
     {
-      "absatz_count": 4,
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
-        "Abschnitt 2 Bevölkerungsdaten"
+        "Abschnitt 3 Weitere Datenquellen",
+        "Unterabschnitt 1 Erhebung von Daten zur Erprobung der Ermittlung der Arbeitsmarktbeteiligung der Bevölkerung"
       ],
       "file": "paragraphs/0008.md",
-      "heading": "Zusammenführungen",
+      "heading": "Daten der Finanzbehörden der Länder",
       "number": "§ 8",
       "type": "paragraph"
     },
     {
-      "absatz_count": 4,
-      "breadcrumb": [
-        "Abschnitt 1 Allgemeine Regelungen",
-        "Abschnitt 2 Bevölkerungsdaten"
-      ],
-      "file": "paragraphs/0008a.md",
-      "heading": "Klärung von Unstimmigkeiten",
-      "number": "§ 8a",
-      "type": "paragraph"
-    },
-    {
       "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
-        "Abschnitt 3 Weitere Regelungen"
+        "Abschnitt 3 Weitere Datenquellen",
+        "Unterabschnitt 1 Erhebung von Daten zur Erprobung der Ermittlung der Arbeitsmarktbeteiligung der Bevölkerung"
       ],
       "file": "paragraphs/0009.md",
-      "heading": "Verarbeitung von Daten aus dem Zensus 2022 und dem Mikrozensus für Zwecke europäischer Bevölkerungsstatistiken einschließlich Zensus",
+      "heading": "Daten aus den Lohn- und Einkommensteuerstatistiken",
       "number": "§ 9",
       "type": "paragraph"
     },
     {
-      "absatz_count": 3,
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
-        "Abschnitt 3 Weitere Regelungen"
+        "Abschnitt 3 Weitere Datenquellen",
+        "Unterabschnitt 1 Erhebung von Daten zur Erprobung der Ermittlung der Arbeitsmarktbeteiligung der Bevölkerung"
       ],
       "file": "paragraphs/0010.md",
-      "heading": "Einrichtungsregister",
+      "heading": "Zusammenführung",
       "number": "§ 10",
       "type": "paragraph"
     },
@@ -124,11 +116,93 @@
       "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
-        "Abschnitt 3 Weitere Regelungen"
+        "Abschnitt 3 Weitere Datenquellen",
+        "Unterabschnitt 1 Erhebung von Daten zur Erprobung der Ermittlung der Arbeitsmarktbeteiligung der Bevölkerung"
       ],
       "file": "paragraphs/0011.md",
-      "heading": "Durchführung von Untersuchungen zur Nutzung von Fernerkundungsdaten",
+      "heading": "Löschung",
       "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "absatz_count": 4,
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Weitere Datenquellen",
+        "Unterabschnitt 2 Erhebung von Daten zur Erprobung der Ermittlung des Bildungsstands der Bevölkerung"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Daten aus den Statistiken der Bundesagentur für Arbeit",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "absatz_count": 2,
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Weitere Datenquellen",
+        "Unterabschnitt 2 Erhebung von Daten zur Erprobung der Ermittlung des Bildungsstands der Bevölkerung"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Daten aus dem Zensus 2022 und dem Mikrozensus",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "absatz_count": 2,
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Weitere Datenquellen",
+        "Unterabschnitt 2 Erhebung von Daten zur Erprobung der Ermittlung des Bildungsstands der Bevölkerung"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Zusammenführung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "absatz_count": 1,
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Weitere Datenquellen",
+        "Unterabschnitt 2 Erhebung von Daten zur Erprobung der Ermittlung des Bildungsstands der Bevölkerung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Löschung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "absatz_count": 3,
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 4 Weitere Regelungen"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Verarbeitung von Daten aus dem Zensus 2022 und dem Mikrozensus für Zwecke europäischer Bevölkerungsstatistiken einschließlich Zensus",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "absatz_count": 3,
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 4 Weitere Regelungen"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Einrichtungsregister",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "absatz_count": 1,
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 4 Weitere Regelungen"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Durchführung von Untersuchungen zur Nutzung von Fernerkundungsdaten",
+      "number": "§ 18",
       "type": "paragraph"
     }
   ]

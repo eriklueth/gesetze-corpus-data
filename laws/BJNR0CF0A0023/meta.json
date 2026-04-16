@@ -10,14 +10,19 @@
     "paragraph": 9
   },
   "source_hashes": {
-    "source_xml_sha256": "a0bc9a7832846ff3dbfaa147bec9c07eea4b30326f268f15e9185c3e1562c0ee"
+    "source_xml_sha256": "d1b884060faf3d0533957bdee233ce070adfaad25333c028c28e4980515b49aa"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/erreichbv/",
     "gii_xml_zip": "https://www.gesetze-im-internet.de/erreichbv/xml.zip"
   },
-  "stand_datum": null,
-  "standangabe": [],
+  "stand_datum": "2026-04-16",
+  "standangabe": [
+    {
+      "kommentar": "Änderung durch Art. 11 Abs. 15 G v. 16.4.2026 I Nr. 107 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
   "title": "Verordnung zur Regelung weiterer Voraussetzungen der Erreichbarkeit erwerbsfähiger Leistungsberechtigter nach dem Zweiten Buch Sozialgesetzbuch",
   "tooling_version": "gesetze-corpus-tools@0.2.0"
 }
