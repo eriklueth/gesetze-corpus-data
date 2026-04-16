@@ -7,10 +7,10 @@
   "jurabk": "DeuFöV",
   "schema_version": "v2",
   "section_counts": {
-    "paragraph": 29
+    "paragraph": 31
   },
   "source_hashes": {
-    "source_xml_sha256": "01b71f057deb538f7b704645533d542e8a279917745e399870b9d4de6103b2f6"
+    "source_xml_sha256": "e2ec55845e4261b5bda98c9a4107020eebbf02e0b2e44120a27363c4c7d5bb40"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/deuf_v/",
@@ -21,6 +21,10 @@
     {
       "kommentar": "Zuletzt geändert durch Art. 11 Abs. 5 G v. 16.4.2026 I Nr. 107",
       "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 V v. 27.4.2026 I Nr. 118 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
     }
   ],
   "title": "Verordnung über die berufsbezogene Deutschsprachförderung",

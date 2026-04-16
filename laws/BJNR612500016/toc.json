@@ -33,7 +33,7 @@
       "type": "paragraph"
     },
     {
-      "absatz_count": 6,
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Rahmenbedingungen für die Teilnahme"
@@ -121,7 +121,7 @@
       "type": "paragraph"
     },
     {
-      "absatz_count": 2,
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Struktur, Dauer und Inhalte der berufsbezogenen Deutschsprachförderung"
@@ -143,13 +143,13 @@
       "type": "paragraph"
     },
     {
-      "absatz_count": 1,
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Struktur, Dauer und Inhalte der berufsbezogenen Deutschsprachförderung"
       ],
       "file": "paragraphs/0014.md",
-      "heading": "Lerninhalte und Lernziele",
+      "heading": "Lerninhalte und Lernziele; Umfang der Kurse",
       "number": "§ 14",
       "type": "paragraph"
     },
@@ -160,7 +160,7 @@
         "Teil 3 Struktur, Dauer und Inhalte der berufsbezogenen Deutschsprachförderung"
       ],
       "file": "paragraphs/0015.md",
-      "heading": "Zertifikatsprüfungen nach dem Gemeinsamen Europäischen Referenzrahmen für Sprachen",
+      "heading": "Zertifikatsprüfungen",
       "number": "§ 15",
       "type": "paragraph"
     },
@@ -187,14 +187,25 @@
       "type": "paragraph"
     },
     {
-      "absatz_count": 7,
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Struktur, Dauer und Inhalte der berufsbezogenen Deutschsprachförderung"
       ],
       "file": "paragraphs/0018.md",
-      "heading": "Lehrkräfte",
+      "heading": "Lehrkräfte und Prüfende",
       "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "absatz_count": 1,
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Struktur, Dauer und Inhalte der berufsbezogenen Deutschsprachförderung"
+      ],
+      "file": "paragraphs/0018a.md",
+      "heading": "Experimentierklausel",
+      "number": "§ 18a",
       "type": "paragraph"
     },
     {
@@ -250,6 +261,17 @@
       "file": "paragraphs/0023.md",
       "heading": "Beauftragung von Prüfungsstellen",
       "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "absatz_count": 3,
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Zulassung der Kursträger; Beauftragung von Prüfstellen"
+      ],
+      "file": "paragraphs/0023a.md",
+      "heading": "Zulassung von Prüfungsstellen",
+      "number": "§ 23a",
       "type": "paragraph"
     },
     {
