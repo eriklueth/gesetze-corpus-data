@@ -2,35 +2,35 @@
   "laws": {
     "1-dm-goldm_nzg": {
       "bjnr": "BJNR204500000",
-      "fetched_at": "2026-04-17T15:07:30Z",
+      "fetched_at": "2026-04-17T15:09:36Z",
       "source_xml_sha256": "6ec63b23935813a6b5437f89d3e0e71f7a882b7580553373334836eda32f02f0",
       "title": "Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der Stiftung \"Geld und Währung\"",
       "zip_url": "https://www.gesetze-im-internet.de/1-dm-goldm_nzg/xml.zip"
     },
     "besvng_1": {
       "bjnr": "BJNR002089971",
-      "fetched_at": "2026-04-17T15:07:30Z",
+      "fetched_at": "2026-04-17T15:09:36Z",
       "source_xml_sha256": "ca3661d39ce50c95fcc9fc5f9ca9f7ba9fc8ce9daa704e01c607769d2b37f269",
       "title": "Erstes Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern",
       "zip_url": "https://www.gesetze-im-internet.de/besvng_1/xml.zip"
     },
     "bimschv_1_2010": {
       "bjnr": "BJNR003800010",
-      "fetched_at": "2026-04-17T15:07:30Z",
+      "fetched_at": "2026-04-17T15:09:36Z",
       "source_xml_sha256": "d2aa2db32bb4a3b50c2ba350e430439f75390e71c2fce931720360c7be3f0dd4",
       "title": "Erste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes *)",
       "zip_url": "https://www.gesetze-im-internet.de/bimschv_1_2010/xml.zip"
     },
     "bmeldd_v_1_2015": {
       "bjnr": "BJNR194500014",
-      "fetched_at": "2026-04-17T15:07:30Z",
+      "fetched_at": "2026-04-17T15:09:36Z",
       "source_xml_sha256": "48e0f6e2f008126d937aae9578d7e1518a0a120c7c223f38085d82e0a6f1646a",
       "title": "Verordnung zur Durchführung von regelmäßigen Datenübermittlungen zwischen Meldebehörden",
       "zip_url": "https://www.gesetze-im-internet.de/bmeldd_v_1_2015/xml.zip"
     },
     "luftbodv_1_2008": {
       "bjnr": "BJNR508900008",
-      "fetched_at": "2026-04-17T15:07:30Z",
+      "fetched_at": "2026-04-17T15:09:36Z",
       "source_xml_sha256": "ab459e512ff0b32f56dd446769cfe7fe13fc2b9571959de22cbaafcf16ba0bdd",
       "title": "Erste Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Anwendungsbestimmungen zu Anhang III - EU-OPS - der VO (EWG) Nr. 3922/91",
       "zip_url": "https://www.gesetze-im-internet.de/luftbodv_1_2008/xml.zip"
@@ -38,5 +38,5 @@
   },
   "schema_version": "v1",
   "toc_source_url": "https://www.gesetze-im-internet.de/gii-toc.xml",
-  "updated_at": "2026-04-17T15:07:30Z"
+  "updated_at": "2026-04-17T15:10:31Z"
 }
