@@ -1,0 +1,21 @@
+{
+  "amtabk": "BMELWidVertrAnO",
+  "ausfertigung_datum": "2017-05-16",
+  "bjnr": "BJNR129400017",
+  "eli": null,
+  "gii_slug": "bmelwidvertrano",
+  "ingested_at": "2026-04-17T15:18:39Z",
+  "jurabk": "BMELWidVertrAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d1c53b5158ce97281e636df9331f1af0288e176d43fba7949abd54541a16b2ea"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmelwidvertrano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmelwidvertrano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

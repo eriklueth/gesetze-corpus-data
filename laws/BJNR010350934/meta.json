@@ -1,0 +1,34 @@
+{
+  "amtabk": "BewG",
+  "ausfertigung_datum": "1934-10-16",
+  "bjnr": "BJNR010350934",
+  "eli": null,
+  "gii_slug": "bewg",
+  "ingested_at": "2026-04-17T15:18:15Z",
+  "jurabk": "BewG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "be34bea8cac2a5c23a9b93c8fedca2667499be89699b771344dca8509e57799b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bewg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bewg/xml.zip"
+  },
+  "stand_datum": "1991-02-01",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 1.2.1991 I 230;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 36 G v. 2.12.2024 I Nr. 387",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 53 G v. 2.12.2024 I Nr. 387 ist berücksichtigt",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Bewertungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

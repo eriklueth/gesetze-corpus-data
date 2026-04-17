@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1949-11-25",
+  "bjnr": "BJNR500310950",
+  "eli": null,
+  "gii_slug": "geldwnobausparkano",
+  "ingested_at": "2026-04-17T15:22:02Z",
+  "jurabk": "GeldWNOBauSparkAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f773020470df9af1272c31c2984eee9998450c66029c9274f19e49026ff3b635"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/geldwnobausparkano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/geldwnobausparkano/xml.zip"
+  },
+  "stand_datum": "1964-01-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 16 G v. 22.1.1964 I 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Anordnung über die Bausparkassen mit Sitz außerhalb des Währungsgebietes aus Anlaß der Neuordnung des Geldwesens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

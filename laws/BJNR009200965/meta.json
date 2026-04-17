@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-08-24",
+  "bjnr": "BJNR009200965",
+  "eli": null,
+  "gii_slug": "wisig_1965",
+  "ingested_at": "2026-04-17T15:30:35Z",
+  "jurabk": "WiSiG 1965",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fa1c423d405465bfd8dc1aa40aeea71bbeb1d6cf47bca98e77c7c5476466b1ce"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wisig_1965/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wisig_1965/xml.zip"
+  },
+  "stand_datum": "1968-10-03",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 3.10.1968 I 1069;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 262 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen Wirtschaft sowie des Geld- und Kapitalverkehrs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

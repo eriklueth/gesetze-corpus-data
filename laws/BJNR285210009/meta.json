@@ -1,0 +1,26 @@
+{
+  "amtabk": "GPV",
+  "ausfertigung_datum": "2009-08-11",
+  "bjnr": "BJNR285210009",
+  "eli": null,
+  "gii_slug": "gpv",
+  "ingested_at": "2026-04-17T15:22:22Z",
+  "jurabk": "GPV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4fed381cd7f74b25c33147c2c39b6c634338d63b8db49c76b08c583386914313"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gpv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gpv/xml.zip"
+  },
+  "stand_datum": "2019-11-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 19.11.2019 I 1862",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Zulassung privater Gegenprobensachverständiger und über Regelungen für amtliche Gegenproben",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

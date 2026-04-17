@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-06-01",
+  "bjnr": "BJNR0DA0B0025",
+  "eli": null,
+  "gii_slug": "vbg_bertrano",
+  "ingested_at": "2026-04-17T15:30:03Z",
+  "jurabk": "VBGÜbertrAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fc82c409741955102e31781f93607bf83694c71b3e44859326fe6f43f73e3a1d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vbg_bertrano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vbg_bertrano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Verwaltungs-Berufsgenossenschaft (VBG)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

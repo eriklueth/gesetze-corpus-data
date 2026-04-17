@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-12-10",
+  "bjnr": "BJNR365100998",
+  "eli": null,
+  "gii_slug": "stvzoausnv_54",
+  "ingested_at": "2026-04-17T15:29:07Z",
+  "jurabk": "StVZOAusnV 54",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0fb133d7f1b12e2f191b2e5a2585159f9cd004a6d7dc4cf3de7e020ed5a83474"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvzoausnv_54/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvzoausnv_54/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vierundfünfzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

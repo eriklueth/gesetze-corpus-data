@@ -1,0 +1,21 @@
+{
+  "amtabk": "GeschGehG",
+  "ausfertigung_datum": "2019-04-18",
+  "bjnr": "BJNR046610019",
+  "eli": null,
+  "gii_slug": "geschgehg",
+  "ingested_at": "2026-04-17T15:22:07Z",
+  "jurabk": "GeschGehG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ae89ca00bec14bb9140963638f47c96f9152f78b9c4ee0846362d7d34c6309d4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/geschgehg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/geschgehg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zum Schutz von Geschäftsgeheimnissen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

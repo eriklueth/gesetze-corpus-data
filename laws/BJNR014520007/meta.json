@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-05-23",
+  "bjnr": "BJNR014520007",
+  "eli": null,
+  "gii_slug": "seegervorr_bk",
+  "ingested_at": "2026-04-17T15:27:58Z",
+  "jurabk": "SeegerVorRÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6800c19f3acba2f0bb440149a34c9c9070e13647513c877a321433d83b2e2e88"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seegervorr_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seegervorr_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Vorrechte und Immunitäten des Internationalen Seegerichtshofs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

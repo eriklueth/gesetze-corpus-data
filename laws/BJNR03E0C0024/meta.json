@@ -1,0 +1,26 @@
+{
+  "amtabk": "InformationsTechMstrV",
+  "ausfertigung_datum": "2024-02-21",
+  "bjnr": "BJNR03E0C0024",
+  "eli": null,
+  "gii_slug": "informationstechmstrv_2024",
+  "ingested_at": "2026-04-17T15:22:59Z",
+  "jurabk": "InformationsTechMstrV 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "abc9086e9b88d2512c547aa05279a12701e9820fcb2fa2e646b25ea0275d234f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/informationstechmstrv_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/informationstechmstrv_2024/xml.zip"
+  },
+  "stand_datum": "2002-06-17",
+  "standangabe": [
+    {
+      "kommentar": "ersetzt V 7110-3-150 v. 17.6.2002 I 2328 (InformationsTechMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Informationstechniker-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

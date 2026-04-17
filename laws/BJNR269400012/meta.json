@@ -1,0 +1,26 @@
+{
+  "amtabk": "MuRegV",
+  "ausfertigung_datum": "2012-12-14",
+  "bjnr": "BJNR269400012",
+  "eli": null,
+  "gii_slug": "klagregv_2012",
+  "ingested_at": "2026-04-17T15:25:51Z",
+  "jurabk": "KlagRegV 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b9dd69636109261bc32021268d3b8ec841159b836271525a621936d69ae1ca94"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/klagregv_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/klagregv_2012/xml.zip"
+  },
+  "stand_datum": "2024-07-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 G v. 19.7.2024 I Nr. 240",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Musterverfahrensregister nach dem Kapitalanleger-Musterverfahrensgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

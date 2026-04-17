@@ -1,0 +1,21 @@
+{
+  "amtabk": "BSchuWV",
+  "ausfertigung_datum": "2006-07-19",
+  "bjnr": "BJNR170000006",
+  "eli": null,
+  "gii_slug": "bschuwv",
+  "ingested_at": "2026-04-17T15:19:11Z",
+  "jurabk": "BSchuWV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "59dec4df0728f79e6d253f518d64e1e12dedc3521382cbc5378c15e494358344"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bschuwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bschuwv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Übertragung von Aufgaben nach dem Bundesschuldenwesengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

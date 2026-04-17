@@ -1,0 +1,21 @@
+{
+  "amtabk": "ZOVers-BMPT",
+  "ausfertigung_datum": "1995-02-09",
+  "bjnr": "BJNR028200995",
+  "eli": null,
+  "gii_slug": "zovers-bmpt",
+  "ingested_at": "2026-04-17T15:31:22Z",
+  "jurabk": "ZOVers-BMPT",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ad2a93a9220260d1fd896a57de34193833de7f849c428279b2c65718c3e1e3b3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zovers-bmpt/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zovers-bmpt/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Geschäftsbereich des Bundesministeriums für Post und Telekommunikation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

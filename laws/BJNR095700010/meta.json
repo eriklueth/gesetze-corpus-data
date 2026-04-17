@@ -1,0 +1,26 @@
+{
+  "amtabk": "StipG",
+  "ausfertigung_datum": "2010-07-21",
+  "bjnr": "BJNR095700010",
+  "eli": null,
+  "gii_slug": "stipg",
+  "ingested_at": "2026-04-17T15:28:56Z",
+  "jurabk": "StipG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ede5b43de6bee8601e167f7253360e9346b586f4e53306ceecc386026c3af053"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stipg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stipg/xml.zip"
+  },
+  "stand_datum": "2017-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 74 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Schaffung eines nationalen Stipendienprogramms",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

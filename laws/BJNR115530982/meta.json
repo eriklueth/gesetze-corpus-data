@@ -1,0 +1,26 @@
+{
+  "amtabk": "UnterlagenBergV",
+  "ausfertigung_datum": "1982-11-11",
+  "bjnr": "BJNR115530982",
+  "eli": null,
+  "gii_slug": "unterlagenbergv",
+  "ingested_at": "2026-04-17T15:29:53Z",
+  "jurabk": "UnterlagenBergV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4b82929c6de9a990b0c17d5e21e0c3a636b84d8ee12067b3d0e5f09f500a63f9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unterlagenbergv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unterlagenbergv/xml.zip"
+  },
+  "stand_datum": "2005-08-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 10.8.2005 I 2452",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bergverordnung über vermessungstechnische und sicherheitliche Unterlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

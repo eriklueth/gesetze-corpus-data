@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-05-27",
+  "bjnr": "BJNR116110020",
+  "eli": null,
+  "gii_slug": "anpvfaussg_2020",
+  "ingested_at": "2026-04-17T15:17:01Z",
+  "jurabk": "AnpVfAussG 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6bab9df45d9e9bb572d900a59b9a6de87bbae128399b207c71bfdee3cafe0403"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/anpvfaussg_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/anpvfaussg_2020/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Aussetzung des Anpassungsverfahrens gemäß § 11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2020",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

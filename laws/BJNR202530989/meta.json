@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-03-09",
+  "bjnr": "BJNR202530989",
+  "eli": null,
+  "gii_slug": "eutelsatvorrprotv",
+  "ingested_at": "2026-04-17T15:21:05Z",
+  "jurabk": "EUTELSATVorRProtV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4a8bb5382d2590de709663e0b23b263075a50b29c272cb3cf561ce04f1ccdcc1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eutelsatvorrprotv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eutelsatvorrprotv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zu dem Protokoll vom 13. Februar 1987 über die Vorrechte und Immunitäten der Europäischen Fernmeldesatellitenorganisation EUTELSAT",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

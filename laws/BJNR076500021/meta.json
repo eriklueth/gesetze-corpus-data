@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2021-04-12",
+  "bjnr": "BJNR076500021",
+  "eli": null,
+  "gii_slug": "ihravorrv",
+  "ingested_at": "2026-04-17T15:23:02Z",
+  "jurabk": "IHRAVorRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4d157801d5345566a347e0036d53fc096975f0a8747b762c549689379806705"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ihravorrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ihravorrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Allianz zum Holocaust-Gedenken",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

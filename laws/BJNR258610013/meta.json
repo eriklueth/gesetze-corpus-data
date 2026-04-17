@@ -1,0 +1,34 @@
+{
+  "amtabk": "GNotKG",
+  "ausfertigung_datum": "2013-07-23",
+  "bjnr": "BJNR258610013",
+  "eli": null,
+  "gii_slug": "gnotkg",
+  "ingested_at": "2026-04-17T15:22:21Z",
+  "jurabk": "GNotKG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "865481b26a30752b48c0dc3c317353a9bb39bdb7f2f463cc2c331d262310bb89"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gnotkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gnotkg/xml.zip"
+  },
+  "stand_datum": "2025-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 20 G v. 8.12.2025 I Nr. 318",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 6 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 33 G v. 8.12.2025 I Nr. 319 ist berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über Kosten der freiwilligen Gerichtsbarkeit für Gerichte und Notare",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

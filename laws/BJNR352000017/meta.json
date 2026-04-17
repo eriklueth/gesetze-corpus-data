@@ -1,0 +1,30 @@
+{
+  "amtabk": "NLV",
+  "ausfertigung_datum": "2017-09-27",
+  "bjnr": "BJNR352000017",
+  "eli": null,
+  "gii_slug": "nlv_2018",
+  "ingested_at": "2026-04-17T15:26:01Z",
+  "jurabk": "NLV 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c0454d4b18c30e28b6a335656f8c70cf04dae3bf9e03d445b912a88443cb35aa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nlv_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nlv_2018/xml.zip"
+  },
+  "stand_datum": "2022-10-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 21.10.2022 I 1879",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2125-43 v. 19.5.1998 I 1125",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Durchführung unionsrechtlicher Vorschriften über neuartige Lebensmittel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

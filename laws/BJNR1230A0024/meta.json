@@ -1,0 +1,21 @@
+{
+  "amtabk": "TermVInfGebV",
+  "ausfertigung_datum": "2024-09-24",
+  "bjnr": "BJNR1230A0024",
+  "eli": null,
+  "gii_slug": "termvinfgebv",
+  "ingested_at": "2026-04-17T15:29:21Z",
+  "jurabk": "TermVInfGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fdd96629d98fd83632225e50632c7cc3ca508f8983b1c0fc5c3defa016ef2876"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/termvinfgebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/termvinfgebv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gebührenverordnung für die Nutzung von Informationen zur Vermittlung von Behandlungsterminen und telemedizinischen Angeboten durch Dritte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "SRV",
+  "ausfertigung_datum": "2015-11-24",
+  "bjnr": "BJNR213500015",
+  "eli": null,
+  "gii_slug": "srv",
+  "ingested_at": "2026-04-17T15:28:46Z",
+  "jurabk": "SRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b5acd25bf8b24020fc0cd8b5a093ff87bc5103b9cda8efa4471e59e352ac8c46"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/srv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/srv/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 22.12.2025 I Nr. 349",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das elektronische Schutzschriftenregister",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

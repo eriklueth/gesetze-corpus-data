@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-11-15",
+  "bjnr": "BJNR215330973",
+  "eli": null,
+  "gii_slug": "b_rgporpaktgg",
+  "ingested_at": "2026-04-17T15:19:26Z",
+  "jurabk": "BürgPoRPaktGG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bfe9b10bc4835988bdae7f9db33280daa6a92c6dffbe3210600208cea1cb12b2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/b_rgporpaktgg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/b_rgporpaktgg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Internationalen Pakt vom 19. Dezember 1966 über bürgerliche und politische Rechte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

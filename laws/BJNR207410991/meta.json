@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1991-06-18",
+  "bjnr": "BJNR207410991",
+  "eli": null,
+  "gii_slug": "sozsichabkpolg",
+  "ingested_at": "2026-04-17T15:28:34Z",
+  "jurabk": "SozSichAbkPOLG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b11fddd069509483c788d6d2545a18450b72834b81f62365a26356e684058884"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkpolg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkpolg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Nr. 10 G v. 27. 4.2002 I 1464",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Abkommen vom 8. Dezember 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

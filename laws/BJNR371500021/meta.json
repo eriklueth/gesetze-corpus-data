@@ -1,0 +1,26 @@
+{
+  "amtabk": "BNetzABGebV",
+  "ausfertigung_datum": "2021-08-19",
+  "bjnr": "BJNR371500021",
+  "eli": null,
+  "gii_slug": "bnetzabgebv",
+  "ingested_at": "2026-04-17T15:18:50Z",
+  "jurabk": "BNetzABGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a0aea82a5f80f9df1ca5f40ff9c800e65397656460a334912c2dbb1f8a045711"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bnetzabgebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bnetzabgebv/xml.zip"
+  },
+  "stand_datum": "2025-02-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 17.2.2025 I Nr. 42",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "RheinSchPersEV",
+  "ausfertigung_datum": "2011-12-16",
+  "bjnr": "BJNR130020011",
+  "eli": null,
+  "gii_slug": "rheinschpersev",
+  "ingested_at": "2026-04-17T15:27:18Z",
+  "jurabk": "RheinSchPersEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d92e0b9c35bf5f71f5e10fe3f1333852f6763ceffe388dccf17a9fcb29c28fc7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rheinschpersev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rheinschpersev/xml.zip"
+  },
+  "stand_datum": "2022-09-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 22.9.2022 I 1518",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Einführung der Verordnung über das Schiffspersonal auf dem Rhein",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

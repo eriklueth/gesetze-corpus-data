@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-07-15",
+  "bjnr": "BJNR006600981",
+  "eli": null,
+  "gii_slug": "_appro_ndv_3",
+  "ingested_at": "2026-04-17T15:16:46Z",
+  "jurabk": "ÄApprOÄndV 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dd2ec85a36d7f9bd16bd05e47dcbb52a73baba85f37e983e34f8c480ef2596f3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/_appro_ndv_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/_appro_ndv_3/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Dritte Verordnung zur Änderung der Approbationsordnung für Ärzte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

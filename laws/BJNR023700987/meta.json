@@ -1,0 +1,30 @@
+{
+  "amtabk": "AM-HandelsV",
+  "ausfertigung_datum": "1987-11-10",
+  "bjnr": "BJNR023700987",
+  "eli": null,
+  "gii_slug": "amgrhdlbetrv",
+  "ingested_at": "2026-04-17T15:16:57Z",
+  "jurabk": "AMGrHdlBetrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ef9dad9de8b4a8c141b73c4f03e584de8532332f2b248f6aa227a27960e27cf0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/amgrhdlbetrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/amgrhdlbetrv/xml.zip"
+  },
+  "stand_datum": "2019-08-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 20 G v. 9.8.2019 I 1202",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2c G v. 18.11.2020 I 2397 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über den Großhandel und die Arzneimittelvermittlung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

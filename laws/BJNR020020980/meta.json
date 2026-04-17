@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-10-15",
+  "bjnr": "BJNR020020980",
+  "eli": null,
+  "gii_slug": "urkbefrbelv",
+  "ingested_at": "2026-04-17T15:29:54Z",
+  "jurabk": "UrkBefrBELV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ac0ba3dd4b1f990c21aa3d0cbab3fec058403ffa60efb47f2a938c02dcebce52"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/urkbefrbelv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/urkbefrbelv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Bestimmung der Beglaubigungsbehörde nach dem deutsch-belgischen Abkommen vom 13. Mai 1975 über die Befreiung öffentlicher Urkunden von der Legalisation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

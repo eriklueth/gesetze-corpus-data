@@ -1,0 +1,26 @@
+{
+  "amtabk": "KfWV",
+  "ausfertigung_datum": "2013-09-20",
+  "bjnr": "BJNR373500013",
+  "eli": null,
+  "gii_slug": "kfwv",
+  "ingested_at": "2026-04-17T15:23:29Z",
+  "jurabk": "KfWV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cedf1a454acfde72640d517ead40fb002316bd4b23cfb5430cf3c335e44ecdc3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfwv/xml.zip"
+  },
+  "stand_datum": "2024-12-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 21 G v. 27.12.2024 I Nr. 438",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Anwendung von bankaufsichtsrechtlichen Vorschriften auf die Kreditanstalt für Wiederaufbau sowie zur Zuweisung der Aufsicht über die Einhaltung dieser Vorschriften an die Bundesanstalt für Finanzdienstleistungsaufsicht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "IMIS-ZustV",
+  "ausfertigung_datum": "2017-10-05",
+  "bjnr": "BJNR353610017",
+  "eli": null,
+  "gii_slug": "imis-zustv",
+  "ingested_at": "2026-04-17T15:22:56Z",
+  "jurabk": "IMIS-ZustV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9e25c60fb48f45966f858d430065ec4f9bb93c550a884c9848e4604ec8680c8d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/imis-zustv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/imis-zustv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Zuständigkeiten von Bundesbehörden im integrierten Mess- und Informationssystem für die Überwachung der Umweltradioaktivität nach dem Strahlenschutzgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

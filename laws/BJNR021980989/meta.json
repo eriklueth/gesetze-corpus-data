@@ -1,0 +1,26 @@
+{
+  "amtabk": "ProdHaftG",
+  "ausfertigung_datum": "1989-12-15",
+  "bjnr": "BJNR021980989",
+  "eli": null,
+  "gii_slug": "prodhaftg",
+  "ingested_at": "2026-04-17T15:27:00Z",
+  "jurabk": "ProdHaftG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7a12236906c2adeffebc81855c20c8fef6fdfd67f5888980d12d575bf6a6ffb3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/prodhaftg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/prodhaftg/xml.zip"
+  },
+  "stand_datum": "2017-07-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 17.7.2017 I 2421",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Haftung für fehlerhafte Produkte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

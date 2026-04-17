@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2010-10-04",
+  "bjnr": "BJNR132600010",
+  "eli": null,
+  "gii_slug": "blutarmv_2010",
+  "ingested_at": "2026-04-17T15:18:36Z",
+  "jurabk": "BlutArmV 2010",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d119fd5e1986e947c4ff8ef6d7a9b2b93055606245fe8fc41243e379f14b2052"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/blutarmv_2010/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/blutarmv_2010/xml.zip"
+  },
+  "stand_datum": "2020-03-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 V v. 31.3.2020 I 752",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Schutz gegen die Ansteckende Blutarmut der Einhufer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

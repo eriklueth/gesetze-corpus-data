@@ -1,0 +1,30 @@
+{
+  "amtabk": "AuslVZV",
+  "ausfertigung_datum": "1995-09-25",
+  "bjnr": "BJNR122600995",
+  "eli": null,
+  "gii_slug": "auslvzv_1995",
+  "ingested_at": "2026-04-17T15:17:22Z",
+  "jurabk": "AuslVZV 1995",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a23ca18001668c722087deafa6118cdaabacac92be8b88142e082954e179ea39"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/auslvzv_1995/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/auslvzv_1995/xml.zip"
+  },
+  "stand_datum": "2009-04-08",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 8.4.2009 I 809",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 V v. 6.3.2025 I Nr. 78",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Zahlung eines Auslandsverwendungszuschlags",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

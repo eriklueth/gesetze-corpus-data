@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-07-23",
+  "bjnr": "BJNR207860986",
+  "eli": null,
+  "gii_slug": "seeschhaft_bk1976g",
+  "ingested_at": "2026-04-17T15:28:00Z",
+  "jurabk": "SeeSchHaftÜbk1976G",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "eb5b25276ce75233cbe4a1eb2e4ad5e47efdb307db03cb09fefeb9d4712c393b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seeschhaft_bk1976g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seeschhaft_bk1976g/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Übereinkommen von 1976 über die Beschränkung der Haftung für Seeforderungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

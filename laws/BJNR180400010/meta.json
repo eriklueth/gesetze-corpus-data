@@ -1,0 +1,26 @@
+{
+  "amtabk": "KernbrStG",
+  "ausfertigung_datum": "2010-12-08",
+  "bjnr": "BJNR180400010",
+  "eli": null,
+  "gii_slug": "kernbrstg",
+  "ingested_at": "2026-04-17T15:23:26Z",
+  "jurabk": "KernbrStG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "16d0b7bc88205157a5a5d97f567fc4c2c496da4a2c60b9c1dcb4010e834c766b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kernbrstg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kernbrstg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 240 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Kernbrennstoffsteuergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

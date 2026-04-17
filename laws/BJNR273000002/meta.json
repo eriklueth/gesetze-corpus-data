@@ -1,0 +1,30 @@
+{
+  "amtabk": "JuSchG",
+  "ausfertigung_datum": "2002-07-23",
+  "bjnr": "BJNR273000002",
+  "eli": null,
+  "gii_slug": "juschg",
+  "ingested_at": "2026-04-17T15:23:15Z",
+  "jurabk": "JuSchG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "df97033a2b15c6af130e8ff941e3398f2863952692b211d0f991350ce10f49ab"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/juschg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/juschg/xml.zip"
+  },
+  "stand_datum": "2024-05-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 6.5.2024 I Nr. 149",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Das G tritt gem. § 30 Abs. 1 Satz 1 an dem Tag in Kraft, an dem der Staatsvertrag der Länder über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt*. In Kraft gem. Bek. v. 1.4.2003 I 476 mWv 1.4.2003",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Jugendschutzgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

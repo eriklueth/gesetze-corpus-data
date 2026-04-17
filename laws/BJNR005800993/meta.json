@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-01-11",
+  "bjnr": "BJNR005800993",
+  "eli": null,
+  "gii_slug": "kfzanmverlg",
+  "ingested_at": "2026-04-17T15:23:29Z",
+  "jurabk": "KfzAnmVerlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "88eb3b4ce3bcff5573f32553b9fb65a57ce16ce355bad464da8634803dd9d25d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfzanmverlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfzanmverlg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Verlängerung der Regelung über die Anmietung von Kraftfahrzeugen im Werkverkehr nach dem Einigungsvertrag",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

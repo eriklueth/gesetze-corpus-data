@@ -1,0 +1,30 @@
+{
+  "amtabk": "PolstAusbV",
+  "ausfertigung_datum": "2014-05-20",
+  "bjnr": "BJNR053900014",
+  "eli": null,
+  "gii_slug": "polstausbv_2014",
+  "ingested_at": "2026-04-17T15:26:52Z",
+  "jurabk": "PolstAusbV 2014",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c3aea9812fff0cda0bc5ef7695ad6c139407f5f1fa23bca8fba03365821a9b4a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/polstausbv_2014/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/polstausbv_2014/xml.zip"
+  },
+  "stand_datum": "2015-03-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch V v. 4.3.2015 I 277",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 806-21-1-213 v. 13.2.1997 I 246 (PolstAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Polsterer und zur Polsterin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

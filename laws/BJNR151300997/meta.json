@@ -1,0 +1,26 @@
+{
+  "amtabk": "BAB-KAbgV",
+  "ausfertigung_datum": "1997-06-24",
+  "bjnr": "BJNR151300997",
+  "eli": null,
+  "gii_slug": "bab-kabgv",
+  "ingested_at": "2026-04-17T15:17:32Z",
+  "jurabk": "BAB-KAbgV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4c9dab6ec844d3466b350614823ec9d4811ff6b4b98bf013ce68b54ba1f7f13"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bab-kabgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bab-kabgv/xml.zip"
+  },
+  "stand_datum": "2023-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 15 G v. 2.3.2023 I Nr. 56",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Höhe und Erhebung der Konzessionsabgabe für das Betreiben eines Nebenbetriebs an der Bundesautobahn",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

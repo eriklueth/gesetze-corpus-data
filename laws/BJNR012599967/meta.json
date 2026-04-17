@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1967-12-21",
+  "bjnr": "BJNR012599967",
+  "eli": null,
+  "gii_slug": "fin_ndg_1967",
+  "ingested_at": "2026-04-17T15:21:20Z",
+  "jurabk": "FinÄndG 1967",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aa83a2f6f0f69733a54481c8bf5c39cfc1be4e876f373032fa9e523a2490eefb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fin_ndg_1967/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fin_ndg_1967/xml.zip"
+  },
+  "stand_datum": "1989-06-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 Abs. 15 G v. 8.6.1989 I 1026",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Verwirklichung der mehrjährigen Finanzplanung des Bundes, II. Teil",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

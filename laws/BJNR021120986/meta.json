@@ -1,0 +1,21 @@
+{
+  "amtabk": "LeichtflBAusbV",
+  "ausfertigung_datum": "1986-12-02",
+  "bjnr": "BJNR021120986",
+  "eli": null,
+  "gii_slug": "leichtflbausbv",
+  "ingested_at": "2026-04-17T15:24:04Z",
+  "jurabk": "LeichtflBAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9cf43a9b4b7b55c223055bf90665ce816c11b3ae3afdf995076a4925e0304842"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/leichtflbausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/leichtflbausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Leichtflugzeugbauer/zur Leichtflugzeugbauerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

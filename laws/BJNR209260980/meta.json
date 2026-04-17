@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-07-20",
+  "bjnr": "BJNR209260980",
+  "eli": null,
+  "gii_slug": "vollstrvtr_isr",
+  "ingested_at": "2026-04-17T15:30:14Z",
+  "jurabk": "VollstrVtr ISR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cb77c95f6c208501fed992c2442658542ed4ce97272b1487d90275d19bcee7f6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vollstrvtr_isr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vollstrvtr_isr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Staat Israel über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

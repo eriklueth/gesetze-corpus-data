@@ -1,0 +1,26 @@
+{
+  "amtabk": "FRG",
+  "ausfertigung_datum": "1960-02-25",
+  "bjnr": "BJNR000940960",
+  "eli": null,
+  "gii_slug": "frg",
+  "ingested_at": "2026-04-17T15:21:41Z",
+  "jurabk": "FRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e95bd0af3003ba849cccb8e4ff451a44b209e6957791b64fb6ed54ebca23a8af"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/frg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/frg/xml.zip"
+  },
+  "stand_datum": "2022-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 11 G v. 20.12.2022 I 2759",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Fremdrentengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

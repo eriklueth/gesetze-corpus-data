@@ -1,0 +1,30 @@
+{
+  "amtabk": "GtDFmEloAufklVDV",
+  "ausfertigung_datum": "2021-05-03",
+  "bjnr": "BJNR096200021",
+  "eli": null,
+  "gii_slug": "gtdfmeloaufklvdv",
+  "ingested_at": "2026-04-17T15:22:31Z",
+  "jurabk": "GtDFmEloAufklVDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "56627bf20d279b4b21e1f40102d83e6374a35b2a4a5c95ce237ee69da2f157b2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gtdfmeloaufklvdv/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 28 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2030-7-14-2 v. 22.8.2006 I 2057 (LAP-gDFm/EloAufklBundV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst des Bundes im Verwendungsbereich Fernmelde- und Elektronische Aufklärung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

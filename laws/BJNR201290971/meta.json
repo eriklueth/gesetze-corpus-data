@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1971-03-18",
+  "bjnr": "BJNR201290971",
+  "eli": null,
+  "gii_slug": "unsorgvorrv",
+  "ingested_at": "2026-04-17T15:29:53Z",
+  "jurabk": "UNSOrgVorRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a2725ab34ecbba5e5065af4e138dda54ba8b726e39a5edf657719de78d0ea6a9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unsorgvorrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unsorgvorrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an die Sonderorganisationen der Vereinten Nationen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

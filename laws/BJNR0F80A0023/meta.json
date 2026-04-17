@@ -1,0 +1,21 @@
+{
+  "amtabk": "BMWKBGebKAIV",
+  "ausfertigung_datum": "2023-09-07",
+  "bjnr": "BJNR0F80A0023",
+  "eli": null,
+  "gii_slug": "bmwkbgebkaiv",
+  "ingested_at": "2026-04-17T15:18:50Z",
+  "jurabk": "BMWKBGebKAIV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "32aa8b1a1e6d5c54a79cf2c26dc028e0325ccb7468674eaf6af48f415c6ccdd4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmwkbgebkaiv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmwkbgebkaiv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Klimaschutz für individuell zurechenbare öffentliche Leistungen in seinem sowie dem Zuständigkeitsbereich des Bundesamts für Wirtschaft und Ausfuhrkontrolle für die Kriegswaffenkontrolle, Ausfuhrkontrolle und Investitionsprüfung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

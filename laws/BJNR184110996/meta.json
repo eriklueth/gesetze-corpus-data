@@ -1,0 +1,26 @@
+{
+  "amtabk": "PSA-BV",
+  "ausfertigung_datum": "1996-12-04",
+  "bjnr": "BJNR184110996",
+  "eli": null,
+  "gii_slug": "psa-bv",
+  "ingested_at": "2026-04-17T15:27:03Z",
+  "jurabk": "PSA-BV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "46eca131c2049b24d34a63bf744596f236f327d0caa4899c7b7c283e9fce607e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/psa-bv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/psa-bv/xml.zip"
+  },
+  "stand_datum": "2024-12-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 V v. 2.12.2024 I Nr. 384",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Sicherheit und Gesundheitsschutz bei der Benutzung persönlicher Schutzausrüstungen bei der Arbeit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

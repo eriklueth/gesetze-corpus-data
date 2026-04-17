@@ -1,0 +1,26 @@
+{
+  "amtabk": "Pkw-EnVKV",
+  "ausfertigung_datum": "2004-05-28",
+  "bjnr": "BJNR103700004",
+  "eli": null,
+  "gii_slug": "pkw-envkv",
+  "ingested_at": "2026-04-17T15:26:51Z",
+  "jurabk": "Pkw-EnVKV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "407c64c0f54f307853fb16431112624e1d0b3a8ac170da84b569c64f852167b9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pkw-envkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pkw-envkv/xml.zip"
+  },
+  "stand_datum": "2026-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 2.3.2026 I Nr. 55",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Verbraucherinformationen zu Kraftstoffverbrauch, Stromverbrauch, CO2-Emissionen und Energiekosten neuer Personenkraftwagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

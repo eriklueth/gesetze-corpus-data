@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2019-10-15",
+  "bjnr": "BJNR146700019",
+  "eli": null,
+  "gii_slug": "geoenbeschrv",
+  "ingested_at": "2026-04-17T15:22:05Z",
+  "jurabk": "GeoEnBeschrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1e84db5cefe5bc120f1242fb9b6238b66c1cf15e688deaba976c76408e73fc82"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/geoenbeschrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/geoenbeschrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Beschränkung des marinen Geo-Engineerings",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

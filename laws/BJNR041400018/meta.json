@@ -1,0 +1,30 @@
+{
+  "amtabk": "PWMAusbV",
+  "ausfertigung_datum": "2018-04-03",
+  "bjnr": "BJNR041400018",
+  "eli": null,
+  "gii_slug": "pwmausbv",
+  "ingested_at": "2026-04-17T15:27:05Z",
+  "jurabk": "PWMAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1f461eb1d215b5c4f60bfbcf3cf90bfc326ce0e62212d41d02791d83cbbca050"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pwmausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pwmausbv/xml.zip"
+  },
+  "stand_datum": "2018-07-18",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 18.7.2018 I 1189",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Ersetzt V 7110-6-53 v. 10.4.1989 I 725 (SchneidwMAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Präzisionswerkzeugmechaniker und zur Präzisionswerkzeugmechanikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

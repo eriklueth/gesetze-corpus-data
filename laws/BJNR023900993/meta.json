@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-02-16",
+  "bjnr": "BJNR023900993",
+  "eli": null,
+  "gii_slug": "sgb8_ndg_1",
+  "ingested_at": "2026-04-17T15:28:14Z",
+  "jurabk": "SGB8ÄndG 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4d419ca5c95f642ca8dd055e776913f63ce832fc7dc66cbdaaf910b5d8f894bf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgb8_ndg_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgb8_ndg_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erstes Gesetz zur Änderung des Achten Buches Sozialgesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

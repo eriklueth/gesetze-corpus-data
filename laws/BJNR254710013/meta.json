@@ -1,0 +1,26 @@
+{
+  "amtabk": "EU-FahrgRBusG",
+  "ausfertigung_datum": "2013-07-23",
+  "bjnr": "BJNR254710013",
+  "eli": null,
+  "gii_slug": "eu-fahrgrbusg",
+  "ingested_at": "2026-04-17T15:20:49Z",
+  "jurabk": "EU-FahrgRBusG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "711a762c69ebfd54f6381244c329926f40666d90e6fac0894802990c819dfcfc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eu-fahrgrbusg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eu-fahrgrbusg/xml.zip"
+  },
+  "stand_datum": "2019-11-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 30.11.2019 I 1942",
+      "typ": "Stand"
+    }
+  ],
+  "title": "EU-Fahrgastrechte-Kraftomnibus-Gesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

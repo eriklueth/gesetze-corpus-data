@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-04-12",
+  "bjnr": "BJNR058100012",
+  "eli": null,
+  "gii_slug": "svlf_g",
+  "ingested_at": "2026-04-17T15:29:11Z",
+  "jurabk": "SVLFÜG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "62fb84f0a80dcdc179d6e54b14cfb922398bc3b60703f25343471cc329144f6e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svlf_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svlf_g/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu Übergangsregelungen zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

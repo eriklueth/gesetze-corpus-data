@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1962-01-05",
+  "bjnr": "BJNR200130962",
+  "eli": null,
+  "gii_slug": "euauswkomvorrv",
+  "ingested_at": "2026-04-17T15:20:53Z",
+  "jurabk": "EuAuswKomVorRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a36f572e585f29f3f743d3d69632a60766dd4f87bbc0d28c53fd1644cd4132c1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euauswkomvorrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euauswkomvorrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an das Zwischenstaatliche Komitee für Europäische Auswanderung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

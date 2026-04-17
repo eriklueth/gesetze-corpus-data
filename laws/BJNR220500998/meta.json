@@ -1,0 +1,26 @@
+{
+  "amtabk": "InsVV",
+  "ausfertigung_datum": "1998-08-19",
+  "bjnr": "BJNR220500998",
+  "eli": null,
+  "gii_slug": "insvv",
+  "ingested_at": "2026-04-17T15:23:00Z",
+  "jurabk": "InsVV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6536edadad4f15aa1ec8688dee3290a51cc3f37dee21b5391d195838b6fb1424"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/insvv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/insvv/xml.zip"
+  },
+  "stand_datum": "2020-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 22.12.2020 I 3328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Insolvenzrechtliche Vergütungsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

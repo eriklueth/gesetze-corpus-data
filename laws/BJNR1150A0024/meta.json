@@ -1,0 +1,26 @@
+{
+  "amtabk": "LandBauMechMstrV",
+  "ausfertigung_datum": "2024-09-09",
+  "bjnr": "BJNR1150A0024",
+  "eli": null,
+  "gii_slug": "landbaumechmstrv",
+  "ingested_at": "2026-04-17T15:24:02Z",
+  "jurabk": "LandBauMechMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "04c8615b942b3f216e606dc3d4deed9e53066b1cbb17e88bf8a045f330c6effb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/landbaumechmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/landbaumechmstrv/xml.zip"
+  },
+  "stand_datum": "2001-04-05",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 7110-3-143 v. 5.4.2001 I 490 (LandmMechMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Land- und Baumaschinenmechatroniker-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

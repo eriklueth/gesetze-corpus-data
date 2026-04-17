@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1948-07-09",
+  "bjnr": "BJNR220730956",
+  "eli": null,
+  "gii_slug": "iao_bk_87",
+  "ingested_at": "2026-04-17T15:22:55Z",
+  "jurabk": "IAOÜbk 87",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0081340976587e77d44866e0c759153b5f3393cc93bf2e34759da48a900b8d8e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/iao_bk_87/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/iao_bk_87/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen Nr. 87 (der Internationalen Arbeitsorganisation) über die Vereinigungsfreiheit und den Schutz des Vereinigungsrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

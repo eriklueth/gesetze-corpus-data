@@ -1,0 +1,30 @@
+{
+  "amtabk": "PPeKDAV",
+  "ausfertigung_datum": "2021-08-20",
+  "bjnr": "BJNR368210021",
+  "eli": null,
+  "gii_slug": "ppdav",
+  "ingested_at": "2026-04-17T15:26:56Z",
+  "jurabk": "PPDAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9844998fdff66f0f15a841e5b8e128784c2cbcdf960c449d64db7e46b2dd297b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ppdav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ppdav/xml.zip"
+  },
+  "stand_datum": "2023-10-30",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 5 V v. 30.10.2023 I Nr. 290",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 V v. 30.1.2026 I Nr. 31 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung zur automatisierten Datenübermittlung und zu automatisierten Datenabrufen aus den Pass-, den Personalausweis- und den eID-Karte-Registern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-12-19",
+  "bjnr": "BJNR431300013",
+  "eli": null,
+  "gii_slug": "rvbeitrsbek_2014",
+  "ingested_at": "2026-04-17T15:27:31Z",
+  "jurabk": "RVBeitrSBek 2014",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "11c6729b19ec6c5b1554604b8d3ffd840360642b6226f1611f93acc36448f75f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rvbeitrsbek_2014/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rvbeitrsbek_2014/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2014",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

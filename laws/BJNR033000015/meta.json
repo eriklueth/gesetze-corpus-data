@@ -1,0 +1,26 @@
+{
+  "amtabk": "MessEGebV",
+  "ausfertigung_datum": "2015-03-24",
+  "bjnr": "BJNR033000015",
+  "eli": null,
+  "gii_slug": "messegebv",
+  "ingested_at": "2026-04-17T15:24:49Z",
+  "jurabk": "MessEGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7d20f0c9936bc5471efc90760969200007d352e349375ce0c6abd581721b9509"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/messegebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/messegebv/xml.zip"
+  },
+  "stand_datum": "2025-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 8.12.2025 I Nr. 321",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gebührenverordnung zum Mess- und Eichwesen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

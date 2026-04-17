@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-11-30",
+  "bjnr": "BJNR1690A0023",
+  "eli": null,
+  "gii_slug": "energiestg_53aabs11s2u3bek",
+  "ingested_at": "2026-04-17T15:20:40Z",
+  "jurabk": "EnergieStG§53aAbs11S2u3Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "58b8e8acf83c9088c13c77db4f64dbe2b92f75a3271d86a678f638659807d61d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/energiestg_53aabs11s2u3bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/energiestg_53aabs11s2u3bek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung nach § 53a Absatz 11 Satz 2 und 3 des Energiesteuergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

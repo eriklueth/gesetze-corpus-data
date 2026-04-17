@@ -1,0 +1,26 @@
+{
+  "amtabk": "BGebG",
+  "ausfertigung_datum": "2013-08-07",
+  "bjnr": "BJNR315410013",
+  "eli": null,
+  "gii_slug": "bgebg",
+  "ingested_at": "2026-04-17T15:18:18Z",
+  "jurabk": "BGebG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6d3a5421fc9fc2e246202196787eb112ecf96736f795c85d78d7b392905f7d06"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgebg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgebg/xml.zip"
+  },
+  "stand_datum": "2023-11-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 G v. 21.11.2023 I Nr. 315",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Gebühren und Auslagen des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

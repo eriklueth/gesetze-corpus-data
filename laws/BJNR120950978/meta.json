@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-12-06",
+  "bjnr": "BJNR120950978",
+  "eli": null,
+  "gii_slug": "bverfgbes_1978-12-06",
+  "ingested_at": "2026-04-17T15:19:32Z",
+  "jurabk": "BVerfGBes 1978-12-06",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f650eb28da3f76f9383681db1edb56b3d22580676d969f2b392de250a2fc856f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bverfgbes_1978-12-06/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bverfgbes_1978-12-06/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Beschluß des Plenums des Bundesverfassungsgerichts vom 6. Dezember 1978 gemäß § 14 Abs. 4 des Gesetzes über das Bundesverfassungsgericht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

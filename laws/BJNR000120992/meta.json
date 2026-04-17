@@ -1,0 +1,26 @@
+{
+  "amtabk": "KAV",
+  "ausfertigung_datum": "1992-01-09",
+  "bjnr": "BJNR000120992",
+  "eli": null,
+  "gii_slug": "kav",
+  "ingested_at": "2026-04-17T15:23:26Z",
+  "jurabk": "KAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b5c281e37ad454c7b6ab5c0696dcaa788ce519d02ca69cba7d42a574770e0910"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kav/xml.zip"
+  },
+  "stand_datum": "2025-12-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 18.12.2025 I Nr. 347",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Konzessionsabgaben für Strom und Gas",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "14. ÄndG LAG",
+  "ausfertigung_datum": "1961-06-26",
+  "bjnr": "BJNR007850961",
+  "eli": null,
+  "gii_slug": "lag_ndg_14",
+  "ingested_at": "2026-04-17T15:16:30Z",
+  "jurabk": "LAGÄndG 14",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9addba68b23b1e9871a83580d8d5f98f297dac610efb330dc57a7927c5f2e034"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lag_ndg_14/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lag_ndg_14/xml.zip"
+  },
+  "stand_datum": "2006-06-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 G v. 21.6.2006 I 1323",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Vierzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

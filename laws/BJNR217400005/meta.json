@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-07-13",
+  "bjnr": "BJNR217400005",
+  "eli": null,
+  "gii_slug": "agrarausbsteignv",
+  "ingested_at": "2026-04-17T15:16:53Z",
+  "jurabk": "AgrarAusbStEignV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9557e807fedb9e19c36880cd56ac12357ea39589c8a9d2655dc4686a891f6edf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/agrarausbsteignv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/agrarausbsteignv/xml.zip"
+  },
+  "stand_datum": "2017-05-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 Abs. 14 G v. 23.5.2017 I 1228",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zur Fachkraft Agrarservice",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "1. DV-BRüG",
+  "ausfertigung_datum": "1965-05-14",
+  "bjnr": "BJNR004200965",
+  "eli": null,
+  "gii_slug": "br_gdv_1",
+  "ingested_at": "2026-04-17T15:16:27Z",
+  "jurabk": "BRüGDV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6d0d616d6bb7f9b62cf9bb3de294e8d34b02be05b03697894b248da94cbc4ffb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/br_gdv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/br_gdv_1/xml.zip"
+  },
+  "stand_datum": "2005-09-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 Abs. 11 G v. 22.9.2005 I 2809",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Erste Verordnung zur Durchführung des Bundesrückerstattungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

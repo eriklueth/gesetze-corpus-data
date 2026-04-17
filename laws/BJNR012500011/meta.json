@@ -1,0 +1,21 @@
+{
+  "amtabk": "FilmDigitV",
+  "ausfertigung_datum": "2011-01-28",
+  "bjnr": "BJNR012500011",
+  "eli": null,
+  "gii_slug": "filmdigitv",
+  "ingested_at": "2026-04-17T15:21:20Z",
+  "jurabk": "FilmDigitV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d4fd4fe677c7bbc83da33108efb0fdb7e8b0a2019b677d01b373ec8b72b9c2c2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/filmdigitv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/filmdigitv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Förderung der erstmaligen technischen Umstellung von Filmtheatern auf digitales Filmabspiel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

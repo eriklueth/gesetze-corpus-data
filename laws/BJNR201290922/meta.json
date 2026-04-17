@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1922-05-18",
+  "bjnr": "BJNR201290922",
+  "eli": null,
+  "gii_slug": "urhusag",
+  "ingested_at": "2026-04-17T15:29:54Z",
+  "jurabk": "UrhUSAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e7994e6dbf208d8f42d9b09bbb778f64671439cd8b64adaa0e4ae5162edb511d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/urhusag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/urhusag/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 217 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Schutz der Urheberrechte der Angehörigen der Vereinigten Staaten von Amerika",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

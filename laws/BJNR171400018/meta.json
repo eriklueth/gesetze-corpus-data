@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-10-02",
+  "bjnr": "BJNR171400018",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2018-10-02",
+  "ingested_at": "2026-04-17T15:25:32Z",
+  "jurabk": "Münz20EuroBek 2018-10-02",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bc6426e90772e57da14057a31aeab4807fecc11e39a3fb5e14d42dd04d85aaf9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2018-10-02/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2018-10-02/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „150. Geburtstag Peter Behrens“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2021-06-07",
+  "bjnr": "BJNR171000021",
+  "eli": null,
+  "gii_slug": "vorsorg_rehasivbgverlv",
+  "ingested_at": "2026-04-17T15:30:16Z",
+  "jurabk": "Vorsorg/RehaSiVbgVerlV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c8c1a7fc201e324fa5eac75d84cfc0fda40c32c6a5bb42461ae659fddd232658"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vorsorg_rehasivbgverlv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vorsorg_rehasivbgverlv/xml.zip"
+  },
+  "stand_datum": "2022-04-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 8.4.2022 BAnz AT 11.04.2022 V1",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Verlängerung des Zeitraums für Vereinbarungen zur wirtschaftlichen Sicherung der Vorsorge- und Rehabilitationseinrichtungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

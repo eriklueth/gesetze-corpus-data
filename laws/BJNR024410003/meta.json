@@ -1,0 +1,30 @@
+{
+  "amtabk": "BVLÜV",
+  "ausfertigung_datum": "2003-02-21",
+  "bjnr": "BJNR024410003",
+  "eli": null,
+  "gii_slug": "bvl_v",
+  "ingested_at": "2026-04-17T15:19:31Z",
+  "jurabk": "BVLÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0bf16824f4f027cca14a2448ca69ae3799338da6d5929f548284883f928d00eb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bvl_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bvl_v/xml.zip"
+  },
+  "stand_datum": "2009-05-28",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 28.5.2009 I 1220;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 G v. 3.2.2026 I Nr. 29",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Übertragung von Befugnissen auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

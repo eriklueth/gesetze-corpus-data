@@ -1,0 +1,26 @@
+{
+  "amtabk": "BuchbAusbV",
+  "ausfertigung_datum": "2011-05-20",
+  "bjnr": "BJNR096600011",
+  "eli": null,
+  "gii_slug": "buchbausbv_2011",
+  "ingested_at": "2026-04-17T15:19:25Z",
+  "jurabk": "BuchbAusbV 2011",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0d821e2880003b591ed43c27d10df30de14e8ea0336db9c3aea97d6ba84395d1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/buchbausbv_2011/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/buchbausbv_2011/xml.zip"
+  },
+  "stand_datum": "1995-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Diese V ersetzt V 806-21-1-194 v. 8.12.1995 I 1610 (BuchbAusbV 1996)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Buchbinder und zur Buchbinderin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

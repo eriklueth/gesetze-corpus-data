@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-02-11",
+  "bjnr": "BJNR021600993",
+  "eli": null,
+  "gii_slug": "gr_ndstvtr_sn_th",
+  "ingested_at": "2026-04-17T15:22:29Z",
+  "jurabk": "GrÄndStVtr SN/TH",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6576f0e3ab1555b3f78e575219274bfbb58b4e8c5e6ab8972bc157a25f2ed399"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gr_ndstvtr_sn_th/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Staatsvertrag zwischen dem Freistaat Sachsen und dem Land Thüringen über die Änderung der gemeinsamen Landesgrenze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

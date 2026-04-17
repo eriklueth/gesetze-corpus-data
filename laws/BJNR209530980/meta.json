@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-08-16",
+  "bjnr": "BJNR209530980",
+  "eli": null,
+  "gii_slug": "euwaffkontr_bkg",
+  "ingested_at": "2026-04-17T15:21:08Z",
+  "jurabk": "EuWaffKontrÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2e27e7d7cc88359aa51e635905e40fadbd1d21bfcb89af24e5ed1d7204923c0b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euwaffkontr_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euwaffkontr_bkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Europäischen Übereinkommen vom 28. Juni 1978 über die Kontrolle des Erwerbs und Besitzes von Schußwaffen durch Einzelpersonen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

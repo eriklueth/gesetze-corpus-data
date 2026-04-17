@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-04-30",
+  "bjnr": "BJNR004880980",
+  "eli": null,
+  "gii_slug": "aujeszkkrv",
+  "ingested_at": "2026-04-17T15:17:19Z",
+  "jurabk": "AujeszkKrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "45528ed0641a80118a532844eb6ca7b7597bfa94c9f9ea8b7947f1ce17c980d7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aujeszkkrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aujeszkkrv/xml.zip"
+  },
+  "stand_datum": "2005-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 20.12.2005 I 3609;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "geändert durch Art. 385 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Schutz gegen die Aujeszkysche Krankheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-09-02",
+  "bjnr": "BJNR202220994",
+  "eli": null,
+  "gii_slug": "eubeitrvtrg",
+  "ingested_at": "2026-04-17T15:20:54Z",
+  "jurabk": "EUBeitrVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d08836d963c0683c8b29837fe2fb9e3191082fda891dea452455b2743310e4c5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eubeitrvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eubeitrvtrg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 29 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Vertrag in Kraft gem. Bek. v. 30.8.1996 II 1486 mWv 1.1.1995",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zu dem Vertrag vom 24. Juni 1994 über den Beitritt des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden zur Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1984-07-27",
+  "bjnr": "BJNR202030986",
+  "eli": null,
+  "gii_slug": "wpostvsazprot_3",
+  "ingested_at": "2026-04-17T15:30:42Z",
+  "jurabk": "WPostVSaZProt 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8cbd5355824a3bfc3aa37c85c82f515070fb51d01372ffc54ebc90b0b240aeb5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpostvsazprot_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpostvsazprot_3/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Drittes Zusatzprotokoll zur Satzung des Weltpostvereins",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

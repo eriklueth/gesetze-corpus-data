@@ -1,0 +1,601 @@
+{
+  "bjnr": "BJNR016170972",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Gemeinsame Marktorganisationen und Direktzahlungen",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Marktordnungswaren",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Marktordnungsstelle",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Ein- und Ausfuhr",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Sonstige Begriffsbestimmungen",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Vergünstigungen",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0006a.md",
+      "heading": "Vermarktungsnormen",
+      "number": "§ 6a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Interventionen",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Mengen",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0008a.md",
+      "heading": "Branchenvereinbarungen und Preisberichterstattung",
+      "number": "§ 8a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Obligatorische Maßnahmen",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0009a.md",
+      "heading": "Einhaltung anderweitiger Verpflichtungen",
+      "number": "§ 9a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0009b.md",
+      "heading": "Außergewöhnliche Maßnahmen zur Marktstützung",
+      "number": "§ 9b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0009c.md",
+      "heading": "Außergewöhnliche Maßnahmen zur Marktstützung auf Antrag mit finanzieller Beteiligung",
+      "number": "§ 9c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0009d.md",
+      "heading": "Weitere Finanzierung außergewöhnlicher Maßnahmen zur Marktstützung ohne Antrag",
+      "number": "§ 9d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0009e.md",
+      "heading": "Vorbehalt der Nachprüfung",
+      "number": "§ 9e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Rücknahme, Widerruf, Erstattung",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Beweislast",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Abgaben",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Sicherheiten",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 1 Ermächtigungen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Zinsen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 2 Überwachung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Überwachung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 2 Überwachung"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Duldungs- und Mitwirkungspflichten",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 2 Vergünstigungen, Interventionen, Abgaben",
+        "Titel 2 Überwachung"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Entnahme von Proben; Erhebung von Gebühren und Auslagen durch Behörden des Bundes",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 1 Verfahren"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Lizenzen, Erlaubnisse, Dokumente, Genehmigungen",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 1 Verfahren"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Vorausfestsetzungen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 1 Verfahren"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Sicherheit",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 1 Verfahren"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Ermächtigungen",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 1 Verfahren"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Mengenkontingente",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 2 Ausfuhrabgaben"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Allgemeine Vorschriften",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 2 Ausfuhrabgaben"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Ermächtigungen",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 2 Ausfuhrabgaben"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Befugnis zur Auskunftserteilung",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 2 Ausfuhrabgaben"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Abgaben im innergemeinschaftlichen Handel",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 3 Schutzmaßnahmen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Zuständigkeiten und Durchführung",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 3 Ein- und Ausfuhr",
+        "Titel 4 Überwachung"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Überwachung des Fracht-, Post- und Reiseverkehrs",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 5 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Zuständigkeit für die Durchführung",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 5 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0031a.md",
+      "heading": "Aufsicht; Kostenerstattung",
+      "number": "§ 31a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 5 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Meldepflichten",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 5 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Allgemeine Prüfungsrechte und Auskunftspflichten",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 5 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Öffentlich-rechtliche Streitigkeiten",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 6 Datenschutz"
+      ],
+      "file": "paragraphs/0034a.md",
+      "heading": "Betriebsdaten",
+      "number": "§ 34a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 6 Datenschutz"
+      ],
+      "file": "paragraphs/0034b.md",
+      "heading": "Verarbeitung von Daten durch die zuständige Behörde",
+      "number": "§ 34b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 6 Datenschutz"
+      ],
+      "file": "paragraphs/0034c.md",
+      "heading": "Übermittlung von Daten",
+      "number": "§ 34c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 6 Datenschutz"
+      ],
+      "file": "paragraphs/0034d.md",
+      "heading": "Löschungsfristen",
+      "number": "§ 34d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 6 Datenschutz"
+      ],
+      "file": "paragraphs/0034e.md",
+      "heading": "Verarbeitung weiterer Daten bei außergewöhnlichen Maßnahmen",
+      "number": "§ 34e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 6 Datenschutz"
+      ],
+      "file": "paragraphs/0034f.md",
+      "heading": "Ermächtigungen",
+      "number": "§ 34f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 7 Straf- und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Geltungsbereich der Straf- und Bußgeldvorschriften der Abgabenordnung",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 7 Straf- und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 7 Straf- und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Befugnisse der Zollbehörden",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 7 Straf- und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Straf- und Bußgeldverfahren",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 8 Erweiterung der Gemeinschaft"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Gewährung von Ausgleichsbeträgen",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 8 Erweiterung der Gemeinschaft"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Besondere Maßnahmen bei wirtschaftlichen Schwierigkeiten",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 9 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Rechtsverordnungen",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 9 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Bestimmungen zum Verwaltungsverfahren",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 9 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "(weggefallen)",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 9 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Übergangsregelungen",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Begriffsbestimmungen",
+        "Abschnitt 9 Schlussvorschriften"
+      ],
+      "file": "annexes/0000.md",
+      "heading": "(zu § 34a Absatz 1 und § 34f Absatz 2)",
+      "number": "Anlage",
+      "type": "annex"
+    }
+  ]
+}

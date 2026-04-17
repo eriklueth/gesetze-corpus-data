@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-02-16",
+  "bjnr": "BJNR259230998",
+  "eli": null,
+  "gii_slug": "wpostvtr1994vollzo",
+  "ingested_at": "2026-04-17T15:30:42Z",
+  "jurabk": "WPostVtr1994VollzO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "196b7b6aaae1885568015e2938e0aa0e26cb2352edc8051a56175d6a46a532a0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpostvtr1994vollzo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpostvtr1994vollzo/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vollzugsordnung zum Weltpostvertrag",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

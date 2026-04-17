@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-05-25",
+  "bjnr": "BJNR123500012",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2012",
+  "ingested_at": "2026-04-17T15:25:26Z",
+  "jurabk": "Münz20EuroBek 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a379944c1fd980c6449f12ff3afc3ef1791f77813c5cdb0357b1bb96d4cd3d04"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2012/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Fichte“ der Serie „Deutscher Wald“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

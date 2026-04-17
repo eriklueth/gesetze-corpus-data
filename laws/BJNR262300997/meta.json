@@ -1,0 +1,26 @@
+{
+  "amtabk": "BKV",
+  "ausfertigung_datum": "1997-10-31",
+  "bjnr": "BJNR262300997",
+  "eli": null,
+  "gii_slug": "bkv",
+  "ingested_at": "2026-04-17T15:18:32Z",
+  "jurabk": "BKV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5d421b985ca021b073a3140e9fd6d9895f0dee748400f37b47d54acaa87b0dfc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bkv/xml.zip"
+  },
+  "stand_datum": "2025-02-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 19.2.2025 I Nr. 50",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Berufskrankheiten-Verordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

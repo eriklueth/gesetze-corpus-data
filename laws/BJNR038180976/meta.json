@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-12-22",
+  "bjnr": "BJNR038180976",
+  "eli": null,
+  "gii_slug": "flul_rmramstv",
+  "ingested_at": "2026-04-17T15:21:34Z",
+  "jurabk": "FluLärmRamstV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a14407c92a28407c2f24917d0a1e2ce63c836da7a62f01a5293b920dec20b579"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flul_rmramstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flul_rmramstv/xml.zip"
+  },
+  "stand_datum": "1983-07-26",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 26.7.1983 I 1045",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Ramstein",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

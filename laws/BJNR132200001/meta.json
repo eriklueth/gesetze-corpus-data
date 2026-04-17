@@ -1,0 +1,26 @@
+{
+  "amtabk": "AltZertG",
+  "ausfertigung_datum": "2001-06-26",
+  "bjnr": "BJNR132200001",
+  "eli": null,
+  "gii_slug": "altzertg",
+  "ingested_at": "2026-04-17T15:16:57Z",
+  "jurabk": "AltZertG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6607cfd69416a2682484d24b0f36fe1cd850e884c48abf397fde7c0db23cf633"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/altzertg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/altzertg/xml.zip"
+  },
+  "stand_datum": "2023-10-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 25.10.2023 I Nr. 294",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Zertifizierung von Altersvorsorge- und Basisrentenverträgen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

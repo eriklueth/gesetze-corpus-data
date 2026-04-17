@@ -1,0 +1,30 @@
+{
+  "amtabk": "UStErstV",
+  "ausfertigung_datum": "1970-04-03",
+  "bjnr": "BJNR003160970",
+  "eli": null,
+  "gii_slug": "usterstvo",
+  "ingested_at": "2026-04-17T15:29:56Z",
+  "jurabk": "UStErstVO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "996737b3d1310ba2156ee66b96a1bd7440455d3c920373da3b4aa4d651dbc3f1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/usterstvo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/usterstvo/xml.zip"
+  },
+  "stand_datum": "1988-10-03",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 3.10.1988 I 1780;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 V v. 19.12.2022 I 2432",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Erstattung von Umsatzsteuer an ausländische ständige diplomatische Missionen und berufskonsularische Vertretungen sowie an ihre ausländischen Mitglieder",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

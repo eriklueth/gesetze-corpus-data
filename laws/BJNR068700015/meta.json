@@ -1,0 +1,21 @@
+{
+  "amtabk": "StIKoVetV",
+  "ausfertigung_datum": "2015-05-05",
+  "bjnr": "BJNR068700015",
+  "eli": null,
+  "gii_slug": "stikovetv",
+  "ingested_at": "2026-04-17T15:28:55Z",
+  "jurabk": "StIKoVetV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "18d2040f77ae6b92e0cf324460d2f40e4e38ccada7f57490c6f224b172f2410f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stikovetv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stikovetv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Ständige Impfkommission Veterinärmedizin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

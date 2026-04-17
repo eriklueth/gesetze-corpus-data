@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-09-27",
+  "bjnr": "BJNR114650973",
+  "eli": null,
+  "gii_slug": "bgsresoffbpr_sernano",
+  "ingested_at": "2026-04-17T15:18:22Z",
+  "jurabk": "BGSResOffBPräsErnAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0ea6943c898c5db3b0ec880562f3ce802d854902aecdaf9912df1b7e3e68208e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgsresoffbpr_sernano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgsresoffbpr_sernano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Grenzschutzoffiziere der Reserve",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

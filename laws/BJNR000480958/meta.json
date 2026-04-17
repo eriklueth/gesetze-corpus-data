@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-01-06",
+  "bjnr": "BJNR000480958",
+  "eli": null,
+  "gii_slug": "lwgenv",
+  "ingested_at": "2026-04-17T15:24:39Z",
+  "jurabk": "LwGenV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5129e2049ed5fe74ab3e94547b3a5423f3aade85eab59c34139b6a813982c0e2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lwgenv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lwgenv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Zugehörigkeit von Zusammenschlüssen landwirtschaftlicher Genossenschaften zu den Industrie- und Handelskammern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

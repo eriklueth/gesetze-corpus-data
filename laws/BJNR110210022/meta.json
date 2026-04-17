@@ -1,0 +1,21 @@
+{
+  "amtabk": "HomTAMRegV",
+  "ausfertigung_datum": "2022-07-06",
+  "bjnr": "BJNR110210022",
+  "eli": null,
+  "gii_slug": "homtamregv",
+  "ingested_at": "2026-04-17T15:22:44Z",
+  "jurabk": "HomTAMRegV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "607c3e5a765d36f1453295a792da66cd921a1785b7a69c1396d01bf3eeb6104d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/homtamregv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/homtamregv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Registrierung homöopathischer Tierarzneimittel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

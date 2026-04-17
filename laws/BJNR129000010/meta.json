@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2010-09-05",
+  "bjnr": "BJNR129000010",
+  "eli": null,
+  "gii_slug": "vsorglastvteilstvtr",
+  "ingested_at": "2026-04-17T15:30:17Z",
+  "jurabk": "VsorglastVteilStVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "95ab2375a458ecd8652e5224f6ac739f0f4c00c83e2e080ec6e94a6fef305d85"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vsorglastvteilstvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vsorglastvteilstvtr/xml.zip"
+  },
+  "stand_datum": "2010-10-08",
+  "standangabe": [
+    {
+      "kommentar": "Der Staatsvertrag ist gem. § 17 Abs. 1 Satz 1 iVm Bek. v. 8.10.2010 I 1404 am 1.1.2011 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Staatsvertrag über die Verteilung von Versorgungslasten bei bund- und länderübergreifenden Dienstherrenwechseln",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

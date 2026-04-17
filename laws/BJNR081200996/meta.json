@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-06-10",
+  "bjnr": "BJNR081200996",
+  "eli": null,
+  "gii_slug": "_lmeldv",
+  "ingested_at": "2026-04-17T15:26:09Z",
+  "jurabk": "ÖlmeldV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2fa233aa1fbd24634cb04e1c19042f3779f0e5ffcedeeac37bfc1b8e30a3b38f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/_lmeldv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/_lmeldv/xml.zip"
+  },
+  "stand_datum": "2000-12-21",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 36 G v. 21.12.2000 I 1956",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Ermittlung der zum Internationalen Entschädigungsfonds für Ölverschmutzungsschäden nach dem Ölschadengesetz beitragspflichtigen Ölmengen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

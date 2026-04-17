@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2024-11-26",
+  "bjnr": "BJNR1740C0024",
+  "eli": null,
+  "gii_slug": "sgb7_178abs1s1_v",
+  "ingested_at": "2026-04-17T15:28:14Z",
+  "jurabk": "SGB7§178Abs1S1ÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b308e5c9bd4fa63b9cab95a04618edd7d7f6a961fa153b28543e635ba28bfede"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgb7_178abs1s1_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgb7_178abs1s1_v/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Übertragung der Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 Satz 1 des Siebten Buches Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

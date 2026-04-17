@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-05-30",
+  "bjnr": "BJNR225800018",
+  "eli": null,
+  "gii_slug": "wasta_stvtr",
+  "ingested_at": "2026-04-17T15:30:22Z",
+  "jurabk": "WAStAÜStVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "66ca2d7da2521bd249e9b4b69fa670211898325fb9562a956931381faf592a6b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wasta_stvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wasta_stvtr/xml.zip"
+  },
+  "stand_datum": "2019-04-12",
+  "standangabe": [
+    {
+      "kommentar": "Der Staatsvertrag ist gem. § 3 iVm Bek. v. 12.4.2019 I 496 am 1.1.2019 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Staatsvertrag über den Übergang der Aufgaben der Deutschen Dienststelle für die Benachrichtigung der nächsten Angehörigen von Gefallenen der ehemaligen Deutschen Wehrmacht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

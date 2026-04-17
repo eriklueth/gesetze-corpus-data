@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1960-11-10",
+  "bjnr": "BJNR204470963",
+  "eli": null,
+  "gii_slug": "sozsichabkuazprot_bel",
+  "ingested_at": "2026-04-17T15:28:38Z",
+  "jurabk": "SozSichAbkuaZProt BEL",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "21d0a0e533db66548aba1b8739f1c5761763a96f6ac5509dd005faddb4b5093d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkuazprot_bel/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkuazprot_bel/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzprotokoll zum Allgemeinen Abkommen zwischen der Bundesrepublik Deutschland und dem KÖnigreich Belgien über Soziale Sicherheit vom 7. Dezember 1957, zur Dritten Zusatzvereinbarung und zum Schlußprotokoll zu dem Allgemeinen Abkommen vom 7. Dezember 1957",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

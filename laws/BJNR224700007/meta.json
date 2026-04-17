@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-09-07",
+  "bjnr": "BJNR224700007",
+  "eli": null,
+  "gii_slug": "prkg",
+  "ingested_at": "2026-04-17T15:26:59Z",
+  "jurabk": "PrKG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "612a143bf3929573b31effbade22c3b2a261a80811493a8e29cc6859a86d5574"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/prkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/prkg/xml.zip"
+  },
+  "stand_datum": "2009-07-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 Abs. 8 G v. 29.7.2009 I 2355",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über das Verbot der Verwendung von Preisklauseln bei der Bestimmung von Geldschulden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

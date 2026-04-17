@@ -1,0 +1,26 @@
+{
+  "amtabk": "UntAbschlG",
+  "ausfertigung_datum": "1994-05-06",
+  "bjnr": "BJNR099000994",
+  "eli": null,
+  "gii_slug": "untabschlg",
+  "ingested_at": "2026-04-17T15:29:53Z",
+  "jurabk": "UntAbschlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9229169e502fbb576b2337266398eee747aa70604174c0e5a1e1c66d549cafa7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/untabschlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/untabschlg/xml.zip"
+  },
+  "stand_datum": "2019-12-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 12.12.2019 I 2652",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Abschluß von Unterstützungen der Bürger der ehemaligen Deutschen Demokratischen Republik bei Gesundheitsschäden infolge medizinischer Maßnahmen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

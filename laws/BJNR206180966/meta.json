@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-12-04",
+  "bjnr": "BJNR206180966",
+  "eli": null,
+  "gii_slug": "asentwbk_bk",
+  "ingested_at": "2026-04-17T15:17:07Z",
+  "jurabk": "AsEntwBkÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "68859f95abe5a43033bfffce6271da2a3a38ed8f3d5083f34933d8a5b9c9523b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/asentwbk_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/asentwbk_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen zur Errichtung der Asiatischen Entwicklungsbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

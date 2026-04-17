@@ -1,0 +1,26 @@
+{
+  "amtabk": "WahrnV",
+  "ausfertigung_datum": "1994-12-14",
+  "bjnr": "BJNR381200994",
+  "eli": null,
+  "gii_slug": "wahrnv_1994",
+  "ingested_at": "2026-04-17T15:30:21Z",
+  "jurabk": "WahrnV 1994",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1fb5857256c6ec714a4252807a878d60ba7d11496d5da1c3df0171f09b5c23a6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wahrnv_1994/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wahrnv_1994/xml.zip"
+  },
+  "stand_datum": "2024-06-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 V v. 24.6.2024 I Nr. 215",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Wahrnehmung einzelner den Prüfungsstellen, der Gebrauchsmusterstelle, den Markenstellen und den Abteilungen des Patentamts obliegender Geschäfte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

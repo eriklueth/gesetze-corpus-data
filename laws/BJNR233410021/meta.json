@@ -1,0 +1,30 @@
+{
+  "amtabk": "BMUKNBGebV",
+  "ausfertigung_datum": "2021-06-30",
+  "bjnr": "BJNR233410021",
+  "eli": null,
+  "gii_slug": "bmubgebv",
+  "ingested_at": "2026-04-17T15:18:46Z",
+  "jurabk": "BMUBGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a5ee9b4db7bad691d43331c3506e33883af34f5362dcc4e317e9f841522fcf72"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmubgebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmubgebv/xml.zip"
+  },
+  "stand_datum": "2023-09-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 Nr. 1 V v. 5.9.2023 I Nr. 247",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 V v. 1.4.2026 I Nr. 101 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Besondere Gebührenverordnung des Bundesministeriums für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "4. KugBeV",
+  "ausfertigung_datum": "2025-12-17",
+  "bjnr": "BJNR1520A0025",
+  "eli": null,
+  "gii_slug": "kugbev_4",
+  "ingested_at": "2026-04-17T15:16:38Z",
+  "jurabk": "KugBeV 4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d246e8a97034e5430818935f2f259dc95a692b3ad9a7b8dde5c4b1f321158a9f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kugbev_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kugbev_4/xml.zip"
+  },
+  "stand_datum": "2026-12-31",
+  "standangabe": [
+    {
+      "kommentar": "V aufgeh. durch § 2 dieser V mit Ablauf des 31.12.2026",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Vierte Verordnung über die Bezugsdauer für das Kurzarbeitergeld",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

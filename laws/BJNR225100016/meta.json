@@ -1,0 +1,21 @@
+{
+  "amtabk": "MSPTBeihilfeAnO",
+  "ausfertigung_datum": "2016-10-06",
+  "bjnr": "BJNR225100016",
+  "eli": null,
+  "gii_slug": "msptbeihilfeano",
+  "ingested_at": "2026-04-17T15:25:03Z",
+  "jurabk": "MSPTBeihilfeAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bcbb090c5963fb8baba4a90977531328f2f3d5ddf61c5a1d4dd4e807d43c4f17"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/msptbeihilfeano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/msptbeihilfeano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung der Entscheidung über Widersprüche in Beihilfeangelegenheiten und zur Vertretung des Dienstherrn bei Klagen in Beihilfeangelegenheiten bei der Museumsstiftung Post und Telekommunikation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

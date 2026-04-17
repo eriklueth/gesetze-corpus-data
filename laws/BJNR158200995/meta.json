@@ -1,0 +1,21 @@
+{
+  "amtabk": "11. RAV",
+  "ausfertigung_datum": "1995-12-04",
+  "bjnr": "BJNR158200995",
+  "eli": null,
+  "gii_slug": "rav_11",
+  "ingested_at": "2026-04-17T15:16:31Z",
+  "jurabk": "RAV 11",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4dcf2211ab68f9b15f6bc2318dc424d93ddfa659787590c9ffcf28762990e4f7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rav_11/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rav_11/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur elften Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1996",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

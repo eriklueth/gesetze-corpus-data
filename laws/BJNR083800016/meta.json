@@ -1,0 +1,21 @@
+{
+  "amtabk": "FinRVV",
+  "ausfertigung_datum": "2016-04-18",
+  "bjnr": "BJNR083800016",
+  "eli": null,
+  "gii_slug": "finrvv_2016",
+  "ingested_at": "2026-04-17T15:21:22Z",
+  "jurabk": "FinRVV 2016",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a927766c0e3bbb165ec71df219bf89783e42d322a0d8b53eee22c23c273f35a5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/finrvv_2016/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/finrvv_2016/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Finanzrückversicherungsverträge und Verträge ohne hinreichenden Risikotransfer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

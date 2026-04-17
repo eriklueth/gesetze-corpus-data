@@ -1,0 +1,26 @@
+{
+  "amtabk": "InvKG",
+  "ausfertigung_datum": "2020-08-08",
+  "bjnr": "BJNR179510020",
+  "eli": null,
+  "gii_slug": "invkg",
+  "ingested_at": "2026-04-17T15:23:08Z",
+  "jurabk": "InvKG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5a48d9708f659107e930138d00e8504a5c1c723ced657350aa19db058c604650"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/invkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/invkg/xml.zip"
+  },
+  "stand_datum": "2023-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 9 G v. 22.12.2023 I Nr. 409",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Investitionsgesetz Kohleregionen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

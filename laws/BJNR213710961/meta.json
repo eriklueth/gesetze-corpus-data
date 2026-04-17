@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-08-03",
+  "bjnr": "BJNR213710961",
+  "eli": null,
+  "gii_slug": "streitabk_can",
+  "ingested_at": "2026-04-17T15:28:57Z",
+  "jurabk": "StreitAbk CAN",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0b34c9c160f66d6352a1c79db7dde3331f29d092c5c10a675a558fc8b6fc9b1c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/streitabk_can/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/streitabk_can/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und Kanada über die Beilegung von Streitigkeiten bei Direktbeschaffungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

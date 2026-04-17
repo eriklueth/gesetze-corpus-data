@@ -1,0 +1,26 @@
+{
+  "amtabk": "BAföG-EinkommensV",
+  "ausfertigung_datum": "1988-04-05",
+  "bjnr": "BJNR005050988",
+  "eli": null,
+  "gii_slug": "baf_g-einkommensv",
+  "ingested_at": "2026-04-17T15:17:34Z",
+  "jurabk": "BAföG-EinkommensV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9d141f544fb73db3583cc3dcd33365bb21b066f258f45749a73e433deb4e45eb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baf_g-einkommensv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baf_g-einkommensv/xml.zip"
+  },
+  "stand_datum": "2021-08-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 84 G v. 20.8.2021 I 3932",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Bezeichnung der als Einkommen geltenden sonstigen Einnahmen nach § 21 Abs. 3 Nr. 4 des Bundesausbildungsförderungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "GBBerG",
+  "ausfertigung_datum": "1993-12-20",
+  "bjnr": "BJNR219200993",
+  "eli": null,
+  "gii_slug": "gbberg_1993",
+  "ingested_at": "2026-04-17T15:21:54Z",
+  "jurabk": "GBBerG 1993",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ad98f691642714629db035a75faf2ec891a21affa90413f59f7a46ef64b1bea0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gbberg_1993/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gbberg_1993/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 158 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Grundbuchbereinigungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

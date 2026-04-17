@@ -1,0 +1,30 @@
+{
+  "amtabk": "WerkstTerHMstrV",
+  "ausfertigung_datum": "2021-02-16",
+  "bjnr": "BJNR025000021",
+  "eli": null,
+  "gii_slug": "betterhmstrv",
+  "ingested_at": "2026-04-17T15:30:31Z",
+  "jurabk": "BetTerHMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0927ccd1632709587d083138b27ee071578d6f120b56f3712ed9ee67eeabd8a3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/betterhmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/betterhmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 96 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7110-3-104 v. 21.1.1993 I 87 (BetTerMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Werkstein- und Terrazzohersteller-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

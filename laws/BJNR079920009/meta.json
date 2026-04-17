@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-07-17",
+  "bjnr": "BJNR079920009",
+  "eli": null,
+  "gii_slug": "fehmarnbeltqvtrg",
+  "ingested_at": "2026-04-17T15:21:17Z",
+  "jurabk": "FehmarnbeltqVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9d16083170d271fa71ae2c76b477a83dcced1b769c6522eab3088ddb37225a22"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fehmarnbeltqvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fehmarnbeltqvtrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 3. September 2008 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über eine Feste Fehmarnbeltquerung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

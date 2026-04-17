@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-08-05",
+  "bjnr": "BJNR131800996",
+  "eli": null,
+  "gii_slug": "ausbanerkaufhv",
+  "ingested_at": "2026-04-17T15:17:19Z",
+  "jurabk": "AusbAnerkAufhV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "901badb71478fa481bb03ce7d7806e22c7b67f856d11b87237c482523d5ca303"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ausbanerkaufhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ausbanerkaufhv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Aufhebung der staatlichen Anerkennung von Ausbildungsberufen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

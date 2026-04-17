@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1938-12-31",
+  "bjnr": "BJNR000030939",
+  "eli": null,
+  "gii_slug": "elbvwhhmbv",
+  "ingested_at": "2026-04-17T15:20:37Z",
+  "jurabk": "ElbVwHHmbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4066e2066ac42091191a2b720fb6f48283c62511121d69701b7952ec0d383c3c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/elbvwhhmbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/elbvwhhmbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Verwaltung der Elbe und anderer Reichswasserstraßen durch die Hansestadt Hamburg",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

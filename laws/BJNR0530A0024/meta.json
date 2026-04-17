@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2024-02-20",
+  "bjnr": "BJNR0530A0024",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2024-02-20_3",
+  "ingested_at": "2026-04-17T15:25:36Z",
+  "jurabk": "Münz20EuroBek 2024-02-20/3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "887f3c58f19d53e54495421bded3c75ed0728a913f2a2ca02dd1c4b6d6c80930"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2024-02-20_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2024-02-20_3/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „75 Jahre Grundgesetz“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

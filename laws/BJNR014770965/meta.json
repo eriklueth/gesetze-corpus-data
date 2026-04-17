@@ -1,0 +1,46 @@
+{
+  "amtabk": "FGO",
+  "ausfertigung_datum": "1965-10-06",
+  "bjnr": "BJNR014770965",
+  "eli": null,
+  "gii_slug": "fgo",
+  "ingested_at": "2026-04-17T15:21:20Z",
+  "jurabk": "FGO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c69ba0e365fb8437ba951109d865eb97a0a50d7fe2d6bb71b4d742d0b09559c7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fgo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fgo/xml.zip"
+  },
+  "stand_datum": "2001-03-28",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 28.3.2001 I 442, 2262; 2002 I 679;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 32 G v. 8.12.2025 I Nr. 319",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 37 G v. 8.12.2025 I Nr. 319 ist berücksichtigt",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 17 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 18 G v. 22.12.2025 I Nr. 349 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Finanzgerichtsordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

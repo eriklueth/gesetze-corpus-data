@@ -1,0 +1,26 @@
+{
+  "amtabk": "MRegV",
+  "ausfertigung_datum": "2016-07-21",
+  "bjnr": "BJNR185010016",
+  "eli": null,
+  "gii_slug": "mregv_2016",
+  "ingested_at": "2026-04-17T15:25:00Z",
+  "jurabk": "MRegV 2016",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5557b7cccfee647b99609ad48c7163f382b01d417f8153a9de4cfefdc96fa48f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mregv_2016/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mregv_2016/xml.zip"
+  },
+  "stand_datum": "2023-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 35 G v. 2.3.2023 I Nr. 56",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Registrierung von Anbietern mautdienstbezogener Leistungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BfAAG",
+  "ausfertigung_datum": "2020-06-12",
+  "bjnr": "BJNR124110020",
+  "eli": null,
+  "gii_slug": "bfaag",
+  "ingested_at": "2026-04-17T15:18:15Z",
+  "jurabk": "BfAAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "df86c4bfed48d393f05ae991802b8af24137809892142ba1bf2da68402fed83c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bfaag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bfaag/xml.zip"
+  },
+  "stand_datum": "2023-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 13 G v. 22.12.2023 I Nr. 414",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Errichtung eines Bundesamts für Auswärtige Angelegenheiten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-05-21",
+  "bjnr": "BJNR071800003",
+  "eli": null,
+  "gii_slug": "investausbv",
+  "ingested_at": "2026-04-17T15:23:08Z",
+  "jurabk": "InvestAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f87763d92547c37798c57b99a5645e93bb052ebbbadd0c8f9f2cd8584402c1ee"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/investausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/investausbv/xml.zip"
+  },
+  "stand_datum": "2013-07-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 27 Abs. 3 G v. 4.7.2013 I 1981",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

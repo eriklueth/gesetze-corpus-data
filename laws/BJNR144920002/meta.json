@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-09-15",
+  "bjnr": "BJNR144920002",
+  "eli": null,
+  "gii_slug": "wpostvsazprot_6",
+  "ingested_at": "2026-04-17T15:30:42Z",
+  "jurabk": "WPostVSaZProt 6",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5f7f20dfdd1b8afd0c9b9cfc4b862566e7794576cfecae6585a7f5134aedaa3e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpostvsazprot_6/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpostvsazprot_6/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Sechstes Zusatzprotokoll zur Satzung des Weltpostvereins",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

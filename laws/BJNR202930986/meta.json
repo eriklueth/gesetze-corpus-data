@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1984-07-27",
+  "bjnr": "BJNR202930986",
+  "eli": null,
+  "gii_slug": "postpakabk_1984",
+  "ingested_at": "2026-04-17T15:27:02Z",
+  "jurabk": "PostPakAbk 1984",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d368eef8c3b5d46dd14624110948153693d1fc49e1a3e32b2ee7b3ad7189cb3e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postpakabk_1984/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postpakabk_1984/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Postpaketabkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

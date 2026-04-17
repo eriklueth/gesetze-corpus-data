@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-03-20",
+  "bjnr": "BJNR076300020",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2020-03-20",
+  "ingested_at": "2026-04-17T15:25:25Z",
+  "jurabk": "Münz10EuroBek 2020-03-20",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1a1d6f3d57e048ad18394b8c6e0622765e48b1944597e8f460e1690ef7b244e1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2020-03-20/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2020-03-20/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „An Land“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

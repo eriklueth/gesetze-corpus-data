@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZESV",
+  "ausfertigung_datum": "2002-07-18",
+  "bjnr": "BJNR266300002",
+  "eli": null,
+  "gii_slug": "zesv",
+  "ingested_at": "2026-04-17T15:31:18Z",
+  "jurabk": "ZESV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cd6567403882e4d79493345c0cf12a1ee15e1c47ba0aa8b97a15e1a38a44726f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zesv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zesv/xml.zip"
+  },
+  "stand_datum": "2017-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 51 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Zentrale Ethik-Kommission für Stammzellenforschung und über die zuständige Behörde nach dem Stammzellgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

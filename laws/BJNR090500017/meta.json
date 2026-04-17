@@ -1,0 +1,34 @@
+{
+  "amtabk": "AwSV",
+  "ausfertigung_datum": "2017-04-18",
+  "bjnr": "BJNR090500017",
+  "eli": null,
+  "gii_slug": "awsv",
+  "ingested_at": "2026-04-17T15:17:32Z",
+  "jurabk": "AwSV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "eef98bc0662c9b06d93a2df1153bc82520c79ee07a2de7965cecd21df34aca2f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/awsv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/awsv/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 256 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "§§ 57 bis 60 treten gem. § 73 Satz 1 dieser V am 22.4.2017 in Kraft",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Ersetzt V 753-13-1 v. 31.3.2010 I 377 (WasgefStAnlV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

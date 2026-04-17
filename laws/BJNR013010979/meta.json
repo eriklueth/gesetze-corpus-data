@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-07-30",
+  "bjnr": "BJNR013010979",
+  "eli": null,
+  "gii_slug": "dienstr_ndg_2",
+  "ingested_at": "2026-04-17T15:19:58Z",
+  "jurabk": "DienstRÄndG 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c3038eaee6b6bab773a0b37cd3c3cca3e2893e11eb10ce5d3978a013323df1eb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dienstr_ndg_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dienstr_ndg_2/xml.zip"
+  },
+  "stand_datum": "2009-02-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 15 Abs. 52 G v. 5.2.2009 I 160",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweites Gesetz zur Änderung dienstrechtlicher Vorschriften (Angehörige des öffentlichen Dienstes in Landesparlamenten)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

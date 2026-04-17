@@ -1,0 +1,34 @@
+{
+  "bjnr": "BJNR200010929",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0001.md",
+      "heading": "",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0002.md",
+      "heading": "",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "annexes/0001.md",
+      "heading": "Nachtrag zum Zusatzvertrag mit Preußen",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [],
+      "file": "annexes/0002.md",
+      "heading": "Nachtrag zum Zusatzvertrag mit Hamburg",
+      "number": "Anlage 2",
+      "type": "annex"
+    }
+  ]
+}

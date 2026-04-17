@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-10-24",
+  "bjnr": "BJNR201120982",
+  "eli": null,
+  "gii_slug": "eurhi_bkvtr_ita",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "EuRHiÜbkVtr ITA",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fc808b92ac73e0468535974eda7df7cf57bf4b652fe22c6fe39caf8f3d63f96b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurhi_bkvtr_ita/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurhi_bkvtr_ita/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Italienischen Republik über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

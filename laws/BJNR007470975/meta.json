@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-03-17",
+  "bjnr": "BJNR007470975",
+  "eli": null,
+  "gii_slug": "wzg_4commwbek",
+  "ingested_at": "2026-04-17T15:31:07Z",
+  "jurabk": "WZG§4CommwBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8b038a8349dcbf4cfa796043528cceee0adc5102b5408eb8e6ecc0d63e83faa3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4commwbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4commwbek/xml.zip"
+  },
+  "stand_datum": "1975-11-21",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Bek. v. 21.11.1975 I 2911",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

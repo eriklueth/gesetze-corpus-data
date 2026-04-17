@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-09-06",
+  "bjnr": "BJNR010650965",
+  "eli": null,
+  "gii_slug": "rtrabwg",
+  "ingested_at": "2026-04-17T15:27:31Z",
+  "jurabk": "RTrAbwG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6991c6140246a25a989c052995797f7f86b2bac6aa5437710133cc5814a6b36a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rtrabwg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rtrabwg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 215 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung der Rechtsverhältnisse nicht mehr bestehender öffentlicher Rechtsträger",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "LastG",
+  "ausfertigung_datum": "2006-09-05",
+  "bjnr": "BJNR210500006",
+  "eli": null,
+  "gii_slug": "lastg",
+  "ingested_at": "2026-04-17T15:24:11Z",
+  "jurabk": "LastG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "43799768f2d2dbdb5b080c9dad26dec3b1ee03099da52fcd97e724be1e3fc3ca"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lastg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lastg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Lastentragung im Bund-Länder-Verhältnis bei Verletzung von supranationalen oder völkerrechtlichen Verpflichtungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

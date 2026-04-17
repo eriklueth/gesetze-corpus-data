@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1984-06-25",
+  "bjnr": "BJNR007740984",
+  "eli": null,
+  "gii_slug": "frsaftausbv",
+  "ingested_at": "2026-04-17T15:21:43Z",
+  "jurabk": "FrSaftAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "265272e2a5977d01e3710ed8d3763837bc6dd58be503107daa42e1684538e790"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/frsaftausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/frsaftausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zur Fachkraft für Fruchtsafttechnik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2019-06-21",
+  "bjnr": "BJNR053020019",
+  "eli": null,
+  "gii_slug": "wpostvtr2016g",
+  "ingested_at": "2026-04-17T15:30:45Z",
+  "jurabk": "WPostVtr2016G",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a12d13b6d29aabb5db8b6736663782af811ca0a09fd1066743890162f8381a18"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpostvtr2016g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpostvtr2016g/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu den Verträgen vom 5. Oktober 2004, 12. August 2008, 11. Oktober 2012 und 6. Oktober 2016 des Weltpostvereins",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

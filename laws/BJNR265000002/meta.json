@@ -1,0 +1,26 @@
+{
+  "amtabk": "KHV",
+  "ausfertigung_datum": "2002-07-17",
+  "bjnr": "BJNR265000002",
+  "eli": null,
+  "gii_slug": "khv",
+  "ingested_at": "2026-04-17T15:23:33Z",
+  "jurabk": "KHV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "88c910551633d1673aa8c1c6ab724fe497179e95520ef1c02abb07bca1e471fd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/khv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/khv/xml.zip"
+  },
+  "stand_datum": "2020-12-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 Abs. 2 G v. 21.12.2020 I 3229",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Verwendung von Gebärdensprache und anderen Kommunikationshilfen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-11-22",
+  "bjnr": "BJNR794500012",
+  "eli": null,
+  "gii_slug": "wastrschlbetrzv_2013",
+  "ingested_at": "2026-04-17T15:30:23Z",
+  "jurabk": "WaStrSchlBetrZV 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "112d3470bb8d1d8030eedc082db933fe626dabdd6eaeab7b490d71d38e6b26ce"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wastrschlbetrzv_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wastrschlbetrzv_2013/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen im Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion Ost",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

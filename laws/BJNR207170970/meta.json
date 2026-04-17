@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1970-07-10",
+  "bjnr": "BJNR207170970",
+  "eli": null,
+  "gii_slug": "dbarevprotg_fra",
+  "ingested_at": "2026-04-17T15:19:50Z",
+  "jurabk": "DBARevProtG FRA",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5280dee34f852e928b74f8eb56306ba1af2487f2fda3174404990bc6998e835e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbarevprotg_fra/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbarevprotg_fra/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Revisionsprotokoll vom 9. Juni 1969 zu dem am 21. Juli 1959 in Paris unterzeichneten Abkommen zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und Rechtshilfe auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie der Gewerbesteuern und der Grundsteuern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

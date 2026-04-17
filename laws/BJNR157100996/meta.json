@@ -1,0 +1,26 @@
+{
+  "amtabk": "THW-AuslUFV",
+  "ausfertigung_datum": "1996-10-24",
+  "bjnr": "BJNR157100996",
+  "eli": null,
+  "gii_slug": "thw-auslufv",
+  "ingested_at": "2026-04-17T15:29:26Z",
+  "jurabk": "THW-AuslUFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6f3e172ea18a3094e4e4b2db09eb5a21a92c96b2298494d31d1bac29135630e8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/thw-auslufv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/thw-auslufv/xml.zip"
+  },
+  "stand_datum": "2009-07-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Nr. 5 G v. 29.7.2009 I 2350",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Gewährung von Unfallfürsorge für hauptamtliche Angehörige und Helfer der Bundesanstalt Technisches Hilfswerk bei Leistung technischer Hilfe im Ausland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

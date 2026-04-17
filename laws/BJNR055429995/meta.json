@@ -1,0 +1,26 @@
+{
+  "amtabk": "SkAufG",
+  "ausfertigung_datum": "1995-07-20",
+  "bjnr": "BJNR055429995",
+  "eli": null,
+  "gii_slug": "skaufg",
+  "ingested_at": "2026-04-17T15:28:15Z",
+  "jurabk": "SkAufG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "801a2eb4e10d17dd35d8161496485eeca137bb33ded206ae8b12b73a8e6016e4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/skaufg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/skaufg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 191 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Rechtsstellung ausländischer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik Deutschland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "TabakerzV",
+  "ausfertigung_datum": "2016-04-27",
+  "bjnr": "BJNR098010016",
+  "eli": null,
+  "gii_slug": "tabakerzv",
+  "ingested_at": "2026-04-17T15:29:15Z",
+  "jurabk": "TabakerzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b9c786154319f351464f069858e887b8595fd0a513b10306b8290ec00b080e14"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tabakerzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tabakerzv/xml.zip"
+  },
+  "stand_datum": "2023-07-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 24.7.2023 I Nr. 196",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Tabakerzeugnisse und verwandte Erzeugnisse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

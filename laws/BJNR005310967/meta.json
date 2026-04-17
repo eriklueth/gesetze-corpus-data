@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1967-05-11",
+  "bjnr": "BJNR005310967",
+  "eli": null,
+  "gii_slug": "avavgdv_22",
+  "ingested_at": "2026-04-17T15:17:28Z",
+  "jurabk": "AVAVGDV 22",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "21857fd79f97717b5016ddcc726682acaaadeb446c95c87bbd74642dd468c22e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/avavgdv_22/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/avavgdv_22/xml.zip"
+  },
+  "stand_datum": "2003-12-24",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 55a G v. 24.12.2003 I 2954",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweiundzwanzigste Verordnung zur Durchführung des Gesetzes über Arbeitsvermittlung und Arbeitslosenversicherung (Fach- und Führungskräfte aus Entwicklungsländern)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

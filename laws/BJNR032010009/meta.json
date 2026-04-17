@@ -1,0 +1,26 @@
+{
+  "amtabk": "MuSchEltZV",
+  "ausfertigung_datum": "2009-02-12",
+  "bjnr": "BJNR032010009",
+  "eli": null,
+  "gii_slug": "muscheltzv",
+  "ingested_at": "2026-04-17T15:25:51Z",
+  "jurabk": "MuSchEltZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1655299e4bc1502312ac928994a8d7fab13519013bb7247dc10099d032876ae2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/muscheltzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/muscheltzv/xml.zip"
+  },
+  "stand_datum": "2025-02-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 24.2.2025 I Nr. 59",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Mutterschutz für Beamtinnen des Bundes und die Elternzeit für Beamtinnen und Beamte des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

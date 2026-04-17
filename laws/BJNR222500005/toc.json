@@ -1,0 +1,515 @@
+{
+  "bjnr": "BJNR222500005",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Grundsätze der Entgeltbestimmung",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0003a.md",
+      "heading": "Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen",
+      "number": "§ 3a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0003b.md",
+      "heading": "Ermittlung der Netzkosten von grenzüberschreitenden Elektrizitätsverbindungsleitungen",
+      "number": "§ 3b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 1 Kostenartenrechnung"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Grundsätze der Netzkostenermittlung",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 1 Kostenartenrechnung"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Aufwandsgleiche Kostenpositionen",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 1 Kostenartenrechnung"
+      ],
+      "file": "paragraphs/0005a.md",
+      "heading": "Kostenanerkennung von Zahlungen an Grundstückseigentümer und Nutzungsberechtigte",
+      "number": "§ 5a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 1 Kostenartenrechnung"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Kalkulatorische Abschreibungen",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 1 Kostenartenrechnung"
+      ],
+      "file": "paragraphs/0006a.md",
+      "heading": "Preisindizes zur Ermittlung der Tagesneuwerte",
+      "number": "§ 6a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 1 Kostenartenrechnung"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Kalkulatorische Eigenkapitalverzinsung",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 1 Kostenartenrechnung"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Kalkulatorische Steuern",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 1 Kostenartenrechnung"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Kostenmindernde Erlöse und Erträge",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 1 Kostenartenrechnung"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Behandlung von Netzverlusten",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 1 Kostenartenrechnung"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Periodenübergreifende Saldierung",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 2 Kostenstellenrechnung"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Grundsätze der Kostenverteilung",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 2 Kostenstellenrechnung"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Kostenstellen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 2 Kostenstellenrechnung"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Kostenwälzung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 2a Bundeseinheitliche Übertragungsnetzentgelte"
+      ],
+      "file": "paragraphs/0014a.md",
+      "heading": "Bildung bundeseinheitlicher Übertragungsnetzentgelte",
+      "number": "§ 14a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 2a Bundeseinheitliche Übertragungsnetzentgelte"
+      ],
+      "file": "paragraphs/0014b.md",
+      "heading": "Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte",
+      "number": "§ 14b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 2a Bundeseinheitliche Übertragungsnetzentgelte"
+      ],
+      "file": "paragraphs/0014c.md",
+      "heading": "Ausgleich der Mehr- und Mindereinnahmen auf Grund bundeseinheitlicher Übertragungsnetzentgelte",
+      "number": "§ 14c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 2a Bundeseinheitliche Übertragungsnetzentgelte"
+      ],
+      "file": "paragraphs/0014d.md",
+      "heading": "Datenaustausch zur Bildung bundeseinheitlicher Übertragungsnetzentgelte",
+      "number": "§ 14d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 3 Kostenträgerrechnung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Grundsätze der Entgeltermittlung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 3 Kostenträgerrechnung"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Gleichzeitigkeitsgrad",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 3 Kostenträgerrechnung"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Ermittlung der Netzentgelte",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 3 Kostenträgerrechnung"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Entgelt für dezentrale Einspeisung",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 3 Kostenträgerrechnung"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Sonderformen der Netznutzung",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 3 Kostenträgerrechnung"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Verprobung",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Methode zur Ermittlung der Netzentgelte",
+        "Abschnitt 3 Kostenträgerrechnung"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Netzentgeltbildung bei Anreizregulierung",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 (weggefallen)"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "(weggefallen)",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 (weggefallen)"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "(weggefallen)",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 (weggefallen)"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "(weggefallen)",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 (weggefallen)"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "(weggefallen)",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 (weggefallen)"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "(weggefallen)",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Pflichten der Netzbetreiber"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "(weggefallen)",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Pflichten der Netzbetreiber"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Dokumentation",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Pflichten der Netzbetreiber"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Mitteilungen gegenüber der Regulierungsbehörde",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Festlegungen der Regulierungsbehörde",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Übergangsregelungen",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "paragraphs/0032a.md",
+      "heading": "(weggefallen)",
+      "number": "§ 32a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "paragraphs/0032b.md",
+      "heading": "Übergangsregelung für Kapitalkosten der Offshore-Anbindungsleitungen",
+      "number": "§ 32b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 6 Abs. 5 Satz 1)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 13)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(zu § 14 Abs. 3)",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "(zu § 16 Abs. 2)",
+      "number": "Anlage 4",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "annexes/0004a.md",
+      "heading": "(zu § 18 Absatz 2)",
+      "number": "Anlage 4a",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Sonstige Bestimmungen"
+      ],
+      "file": "annexes/0005.md",
+      "heading": "(zu § 28 Abs. 2 Nr. 6)",
+      "number": "Anlage 5",
+      "type": "annex"
+    }
+  ]
+}

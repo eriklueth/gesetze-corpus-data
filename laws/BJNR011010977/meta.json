@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-06-29",
+  "bjnr": "BJNR011010977",
+  "eli": null,
+  "gii_slug": "staatenlmind_bkag",
+  "ingested_at": "2026-04-17T15:28:46Z",
+  "jurabk": "StaatenlMindÜbkAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5378d9ce3edf93962a26fbfc0e615f95907b774497b7accd1e6378d13ef6cc4c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/staatenlmind_bkag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/staatenlmind_bkag/xml.zip"
+  },
+  "stand_datum": "1999-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 § 4 G v. 15.7.1999 I 1618",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Ausführungsgesetz zu dem Übereinkommen vom 30. August 1961 zur Verminderung der Staatenlosigkeit und zu dem Übereinkommen vom 13. September 1973 zur Verringerung der Fälle von Staatenlosigkeit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

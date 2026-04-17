@@ -1,0 +1,26 @@
+{
+  "amtabk": "WiPrPrüfV",
+  "ausfertigung_datum": "2004-07-20",
+  "bjnr": "BJNR170700004",
+  "eli": null,
+  "gii_slug": "wiprpr_fv",
+  "ingested_at": "2026-04-17T15:30:35Z",
+  "jurabk": "WiPrPrüfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6dc18c3fd8d1b3e651ec7ae9823d21c1cd283f96dc7eeafab00357889471bee1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wiprpr_fv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wiprpr_fv/xml.zip"
+  },
+  "stand_datum": "2024-12-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 V v. 11.12.2024 I Nr. 411",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Prüfungsverordnung für Wirtschaftsprüfer nach §§ 14 und 131l der Wirtschaftsprüferordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

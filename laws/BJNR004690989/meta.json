@@ -1,0 +1,30 @@
+{
+  "amtabk": "AgrStatG",
+  "ausfertigung_datum": "1989-03-15",
+  "bjnr": "BJNR004690989",
+  "eli": null,
+  "gii_slug": "agrstatg",
+  "ingested_at": "2026-04-17T15:16:53Z",
+  "jurabk": "AgrStatG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bf0052c87b02f98953feb17ca2f50cc17538dad921839a8f1e02fea34996a7eb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/agrstatg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/agrstatg/xml.zip"
+  },
+  "stand_datum": "2009-12-17",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 17.12.2009 I 3886;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 11.1.2026 I Nr. 8",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Agrarstatistiken",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

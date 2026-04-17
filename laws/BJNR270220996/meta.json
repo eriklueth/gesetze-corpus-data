@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-11-28",
+  "bjnr": "BJNR270220996",
+  "eli": null,
+  "gii_slug": "grabfertvbgautv",
+  "ingested_at": "2026-04-17T15:22:22Z",
+  "jurabk": "GrAbfertVbgAUTV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "711be5991c53feb0de3e55cac3703561a4ddc219ed70f13140be7a4c2afd69e3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grabfertvbgautv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grabfertvbgautv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zu der deutsch-österreichischen Vereinbarung vom 3. Juli 1996/18. Juli 1996 über die Errichtung vorgeschobener deutscher Grenzdienststellen auf österreichischem Gebiet und vorgeschobener österreichischer Grenzdienststellen auf deutschem Gebiet und die zeitweilige österreichische Grenzabfertigung auf deutschem Gebiet",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

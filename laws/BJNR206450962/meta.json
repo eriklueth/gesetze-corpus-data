@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1962-06-01",
+  "bjnr": "BJNR206450962",
+  "eli": null,
+  "gii_slug": "erpwiplang_1962",
+  "ingested_at": "2026-04-17T15:20:46Z",
+  "jurabk": "ERPWiPlanG 1962",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5ab17540eb846bb6679ae500fd1279ab5382ccf4a5121cfcaf0b464da01d30a6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/erpwiplang_1962/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/erpwiplang_1962/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Rechnungsjahr 1962",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

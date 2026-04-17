@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-07-21",
+  "bjnr": "BJNR004670951",
+  "eli": null,
+  "gii_slug": "rvermvg",
+  "ingested_at": "2026-04-17T15:27:35Z",
+  "jurabk": "RVermVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d1e157174f918f6451f2e1e63bdc86cce1272df4f014fbd0507cb11baa2f979e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rvermvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rvermvg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur vorläufigen Regelung der Rechtsverhältnisse des Reichsvermögens und der preußischen Beteiligungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

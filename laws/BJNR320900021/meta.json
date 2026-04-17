@@ -1,0 +1,26 @@
+{
+  "amtabk": "BMeldDAV",
+  "ausfertigung_datum": "2021-07-27",
+  "bjnr": "BJNR320900021",
+  "eli": null,
+  "gii_slug": "bmelddav_2022",
+  "ingested_at": "2026-04-17T15:18:39Z",
+  "jurabk": "BMeldDAV 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5669c2ef3590855cd765c365c84883686520753d3130b378aac0811a310a085c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmelddav_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmelddav_2022/xml.zip"
+  },
+  "stand_datum": "2025-01-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 22.1.2025 I Nr. 23",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

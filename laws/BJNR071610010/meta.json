@@ -1,0 +1,26 @@
+{
+  "amtabk": "BKADV",
+  "ausfertigung_datum": "2010-06-04",
+  "bjnr": "BJNR071610010",
+  "eli": null,
+  "gii_slug": "bkadv",
+  "ingested_at": "2026-04-17T15:18:27Z",
+  "jurabk": "BKADV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ff85686314a80cdf9cab6a3696c88f24691db6370760965e8b3151eac5b36417"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bkadv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bkadv/xml.zip"
+  },
+  "stand_datum": "2017-04-13",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 Abs. 12 G v. 13.4.2017 I 872",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Art der Daten, die nach den §§ 8 und 9 des Bundeskriminalamtgesetzes gespeichert werden dürfen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

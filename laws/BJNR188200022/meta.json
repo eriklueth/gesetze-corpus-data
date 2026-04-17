@@ -1,0 +1,26 @@
+{
+  "amtabk": "eWpRV",
+  "ausfertigung_datum": "2022-10-24",
+  "bjnr": "BJNR188200022",
+  "eli": null,
+  "gii_slug": "ewprv",
+  "ingested_at": "2026-04-17T15:21:11Z",
+  "jurabk": "eWpRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "108c7841d6b562e15af6789fc9d9aee8f23d845016b57d271b5912ccbf782475"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ewprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ewprv/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 27 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Anforderungen an elektronische Wertpapierregister",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

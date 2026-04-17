@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-04-22",
+  "bjnr": "BJNR046300993",
+  "eli": null,
+  "gii_slug": "finberg_ddr",
+  "ingested_at": "2026-04-17T15:21:21Z",
+  "jurabk": "FinBerG DDR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1fe073417df494c93f43eaac25dc04f4a8c76d111bc03789fe91f300fcee8c83"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/finberg_ddr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/finberg_ddr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Bereinigung von in der ehemaligen Deutschen Demokratischen Republik zwischen den öffentlichen Haushalten und volkseigenen Unternehmen, Genossenschaften sowie Gewerbetreibenden begründeten Finanzbeziehungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

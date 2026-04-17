@@ -1,0 +1,26 @@
+{
+  "amtabk": "SchAusnahmV",
+  "ausfertigung_datum": "2021-05-08",
+  "bjnr": "BJNR612800021",
+  "eli": null,
+  "gii_slug": "schausnahmv",
+  "ingested_at": "2026-04-17T15:27:45Z",
+  "jurabk": "SchAusnahmV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5a701136622247249a8d82702d9ddd963d57203d42dda9d758a0ff2958607261"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schausnahmv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schausnahmv/xml.zip"
+  },
+  "stand_datum": "2022-03-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 18.3.2022 I 478",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Regelung von Erleichterungen und Ausnahmen von Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

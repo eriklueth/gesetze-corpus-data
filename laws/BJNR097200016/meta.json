@@ -1,0 +1,21 @@
+{
+  "amtabk": "ImmoDarlSachkV",
+  "ausfertigung_datum": "2016-04-25",
+  "bjnr": "BJNR097200016",
+  "eli": null,
+  "gii_slug": "immodarlsachkv",
+  "ingested_at": "2026-04-17T15:22:56Z",
+  "jurabk": "ImmoDarlSachkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "da2d618a30684d8053bc4dc6521b04a58158943c3dd301f04ad34a62ab6194a0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/immodarlsachkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/immodarlsachkv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Anforderungen an die Sachkunde der mit der Vergabe von Immobiliar-Verbraucherdarlehen befassten internen und externen Mitarbeiter",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

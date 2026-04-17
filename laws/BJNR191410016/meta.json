@@ -1,0 +1,26 @@
+{
+  "amtabk": "KGSG",
+  "ausfertigung_datum": "2016-07-31",
+  "bjnr": "BJNR191410016",
+  "eli": null,
+  "gii_slug": "kgsg",
+  "ingested_at": "2026-04-17T15:23:33Z",
+  "jurabk": "KGSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "df2654cdbfa862bd29facb7b1a5978b68bf2df9338ed0a92668765225b6b4161"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kgsg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kgsg/xml.zip"
+  },
+  "stand_datum": "2025-07-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 17.7.2025 I Nr. 167",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zum Schutz von Kulturgut",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

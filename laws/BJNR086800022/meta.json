@@ -1,0 +1,26 @@
+{
+  "amtabk": "KryptoFAV",
+  "ausfertigung_datum": "2022-06-03",
+  "bjnr": "BJNR086800022",
+  "eli": null,
+  "gii_slug": "kryptofav",
+  "ingested_at": "2026-04-17T15:23:54Z",
+  "jurabk": "KryptoFAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f38dcbbff90d55f5ddd29f552d9cb7e23d0b77b8bc43c88699ab02a44c176ef9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kryptofav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kryptofav/xml.zip"
+  },
+  "stand_datum": "2026-04-09",
+  "standangabe": [
+    {
+      "kommentar": "Änderung durch Art. 13 G v. 9.4.2026 I Nr. 97 mWv 16.4.2026 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über Kryptofondsanteile",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

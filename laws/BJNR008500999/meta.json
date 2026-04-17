@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-02-04",
+  "bjnr": "BJNR008500999",
+  "eli": null,
+  "gii_slug": "fdnormv",
+  "ingested_at": "2026-04-17T15:21:16Z",
+  "jurabk": "FDNormV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8bc44f3aefd4dcf3b2e72ed7b18a1d6e27f7baca26ea77e3c85f347aaa934802"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fdnormv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fdnormv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Anwendung von Normen für voll digitale Fernsehdienste",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

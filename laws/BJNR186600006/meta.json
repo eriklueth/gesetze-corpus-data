@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-08-14",
+  "bjnr": "BJNR186600006",
+  "eli": null,
+  "gii_slug": "nkrg",
+  "ingested_at": "2026-04-17T15:26:01Z",
+  "jurabk": "NKRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5c538b7fce4217408d7f82338541722f95affda9f79c7c077c572e3ae404913c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nkrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nkrg/xml.zip"
+  },
+  "stand_datum": "2022-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert Art. 1 G v. 19.6.2022 I 920",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Einsetzung eines Nationalen Normenkontrollrates",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

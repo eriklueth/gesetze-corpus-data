@@ -1,0 +1,26 @@
+{
+  "amtabk": "TierNebG",
+  "ausfertigung_datum": "2004-01-25",
+  "bjnr": "BJNR008210004",
+  "eli": null,
+  "gii_slug": "tiernebg",
+  "ingested_at": "2026-04-17T15:29:28Z",
+  "jurabk": "TierNebG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e41f7e2a381e371fad099d32670e5f7aa66f2f814403126e92094510c09d0f63"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tiernebg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tiernebg/xml.zip"
+  },
+  "stand_datum": "2022-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 18 G v. 20.12.2022 I 2752",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Tierische Nebenprodukte-Beseitigungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

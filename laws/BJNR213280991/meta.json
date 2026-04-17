@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1991-12-16",
+  "bjnr": "BJNR213280991",
+  "eli": null,
+  "gii_slug": "grenzvtrpolg",
+  "ingested_at": "2026-04-17T15:22:29Z",
+  "jurabk": "GrenzVtrPOLG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ec3f688d1d5d4e9b69c4927dce508a5099b1498b2b1ad9785d2001b2120db666"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grenzvtrpolg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grenzvtrpolg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 14. November 1990 zwischen der Bundesrepublik Deutschland und der Republik Polen über die Bestätigung der zwischen ihnen bestehenden Grenze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

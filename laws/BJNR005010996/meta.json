@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-12-29",
+  "bjnr": "BJNR005010996",
+  "eli": null,
+  "gii_slug": "bbvanpg95art3abs3bek",
+  "ingested_at": "2026-04-17T15:17:54Z",
+  "jurabk": "BBVAnpG95Art3Abs3Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "23f4fc1bdef971af3413868e037dfe9aaad2fe079f18696e0d995ba40e2a4023"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbvanpg95art3abs3bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbvanpg95art3abs3bek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu Artikel 3 Abs. 3 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1995",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

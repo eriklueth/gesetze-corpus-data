@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1991-09-26",
+  "bjnr": "BJNR210060991",
+  "eli": null,
+  "gii_slug": "_vp_bkg",
+  "ingested_at": "2026-04-17T15:29:43Z",
+  "jurabk": "ÜvPÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3aad7fcdf05fd739c7c09044b75b295626128e0aa3716c06f304e71c8f4a11ad"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/_vp_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/_vp_bkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Übereinkommen vom 21. März 1983 über die Überstellung verurteilter Personen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

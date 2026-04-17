@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2001-03-05",
+  "bjnr": "BJNR020220001",
+  "eli": null,
+  "gii_slug": "nukhaft_bk_athaft_bkgemprotg",
+  "ingested_at": "2026-04-17T15:26:06Z",
+  "jurabk": "NukHaftÜbk/AtHaftÜbkGemProtG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "266d421068dd569b7e53dec78157fbee3552637fc7be3bc79c73888c49eb0b8f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nukhaft_bk_athaft_bkgemprotg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nukhaft_bk_athaft_bkgemprotg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Gemeinsamen Protokoll vom 21. September 1988 über die Anwendung des Wiener Übereinkommens und des Pariser Übereinkommens (Gesetz zu dem Gemeinsamen Protokoll über die Anwendung des Wiener Übereinkommens und des Pariser Übereinkommens)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

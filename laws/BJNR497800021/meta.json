@@ -1,0 +1,26 @@
+{
+  "amtabk": "BSI-ITSiKV",
+  "ausfertigung_datum": "2021-11-24",
+  "bjnr": "BJNR497800021",
+  "eli": null,
+  "gii_slug": "bsi-itsikv",
+  "ingested_at": "2026-04-17T15:19:15Z",
+  "jurabk": "BSI-ITSiKV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "81d1d2aaa165410905c109058701e8e844ffe7381ec2e62f095cc1412e0a105a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bsi-itsikv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bsi-itsikv/xml.zip"
+  },
+  "stand_datum": "2025-12-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 9 G v. 2.12.2025 I Nr. 301",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum IT-Sicherheitskennzeichen des Bundesamtes für Sicherheit in der Informationstechnik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

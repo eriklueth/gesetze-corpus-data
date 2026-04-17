@@ -1,0 +1,30 @@
+{
+  "amtabk": "VIG",
+  "ausfertigung_datum": "2007-11-05",
+  "bjnr": "BJNR255810007",
+  "eli": null,
+  "gii_slug": "vig",
+  "ingested_at": "2026-04-17T15:30:12Z",
+  "jurabk": "VIG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f8a4d4e370e73d31e0454b04a3058fb637e9b2672e5569996957a2224c922c83"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vig/xml.zip"
+  },
+  "stand_datum": "2012-10-17",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 17.10.2012 I 2166, 2725",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 4 G v. 3.2.2026 I Nr. 29",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Verbesserung der gesundheitsbezogenen Verbraucherinformation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

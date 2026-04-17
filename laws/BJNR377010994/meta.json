@@ -1,0 +1,26 @@
+{
+  "amtabk": "MB-APrV",
+  "ausfertigung_datum": "1994-12-06",
+  "bjnr": "BJNR377010994",
+  "eli": null,
+  "gii_slug": "mb-aprv",
+  "ingested_at": "2026-04-17T15:24:46Z",
+  "jurabk": "MB-APrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e909c505af7af94884da6cc0784dec7730b9ec1ac6032926433a62267a32e20e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mb-aprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mb-aprv/xml.zip"
+  },
+  "stand_datum": "2023-06-07",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 V v. 7.6.2023 I Nr. 148",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Ausbildungs- und Prüfungsverordnung für Masseure und medizinische Bademeister",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

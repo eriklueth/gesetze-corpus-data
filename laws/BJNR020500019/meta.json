@@ -1,0 +1,30 @@
+{
+  "amtabk": "GntDBwVVDV",
+  "ausfertigung_datum": "2019-03-01",
+  "bjnr": "BJNR020500019",
+  "eli": null,
+  "gii_slug": "gntdbwvvdv",
+  "ingested_at": "2026-04-17T15:22:21Z",
+  "jurabk": "GntDBwVVDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c3c14cec280a69cbe3139738236ff9b95c528e632c7ba24c6ed575f7bc6c58a6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gntdbwvvdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gntdbwvvdv/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 24 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2030-7-12-3 v. 14.3.2005 I 779 (LAP-gntDBWVV 2005)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst in der Bundeswehrverwaltung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

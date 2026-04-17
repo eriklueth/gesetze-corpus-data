@@ -1,0 +1,26 @@
+{
+  "amtabk": "GrSiDAV",
+  "ausfertigung_datum": "2005-07-27",
+  "bjnr": "BJNR227310005",
+  "eli": null,
+  "gii_slug": "grsidav",
+  "ingested_at": "2026-04-17T15:22:29Z",
+  "jurabk": "GrSiDAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d30fd6539ffd68615cc2852b85beeb9d54c04dcc0c57593d9c7f20906b504908"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grsidav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grsidav/xml.zip"
+  },
+  "stand_datum": "2017-11-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 30.11.2017 I 3826",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung für Arbeitsuchende",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

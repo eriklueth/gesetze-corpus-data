@@ -1,0 +1,26 @@
+{
+  "amtabk": "FMStFV",
+  "ausfertigung_datum": "2008-10-20",
+  "bjnr": "BJNR612300008",
+  "eli": null,
+  "gii_slug": "fmstfv",
+  "ingested_at": "2026-04-17T15:21:35Z",
+  "jurabk": "FMStFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0255a2162fdab02e63edb6afb851982a2e08f4535b67d47c1e080cdd22a62d3c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fmstfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fmstfv/xml.zip"
+  },
+  "stand_datum": "2020-07-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 Abs. 1 G v. 10.7.2020 I 1633",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Stabilisierungsfondsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

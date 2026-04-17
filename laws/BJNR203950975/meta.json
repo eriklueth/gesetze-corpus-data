@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-07-12",
+  "bjnr": "BJNR203950975",
+  "eli": null,
+  "gii_slug": "euastroorgvorrprot",
+  "ingested_at": "2026-04-17T15:20:52Z",
+  "jurabk": "EuAstroOrgVorRProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c90f4ba6c556d5857e43042711f5f1130b015e3b2b23c6e32ca73d325fccecc1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euastroorgvorrprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euastroorgvorrprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll über die Vorrechte und Immunitäten der Europäischen Organisation für Astronomische Forschung in der Südlichen Hemisphäre",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

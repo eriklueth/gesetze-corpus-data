@@ -1,0 +1,21 @@
+{
+  "amtabk": "ÖLVermehrAnzV",
+  "ausfertigung_datum": "2023-07-26",
+  "bjnr": "BJNR0CE0C0023",
+  "eli": null,
+  "gii_slug": "_lvermehranzv",
+  "ingested_at": "2026-04-17T15:26:12Z",
+  "jurabk": "ÖLVermehrAnzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f6de6516c04fe77e2564079851af1e2e7ca856cbca9f388f4a3dab1393cb002"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/_lvermehranzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/_lvermehranzv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Anzeige von Vermehrungsflächen im ökologischen Landbau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1960-12-21",
+  "bjnr": "BJNR010530960",
+  "eli": null,
+  "gii_slug": "umstr_ckstg",
+  "ingested_at": "2026-04-17T15:29:46Z",
+  "jurabk": "UmstRückstG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "30e541e6a028be68a32a2bbcf7aaa0032fb011962072d9a43f7391a8b72525cb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/umstr_ckstg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/umstr_ckstg/xml.zip"
+  },
+  "stand_datum": "1964-01-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 17 G v. 22.1.1964 I 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Bildung von Rückstellungen in der Umstellungsrechnung der Geldinstitute, Versicherungsunternehmen und Bausparkassen und in der Altbankenrechnung der Berliner Altbanken",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

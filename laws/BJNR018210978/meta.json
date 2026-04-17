@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-11-24",
+  "bjnr": "BJNR018210978",
+  "eli": null,
+  "gii_slug": "adenauerhstiftg",
+  "ingested_at": "2026-04-17T15:16:45Z",
+  "jurabk": "AdenauerHStiftG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f6423843116a66f965fddbe60d24dee876421739919f954e5fa6e1f2c3325e8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/adenauerhstiftg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/adenauerhstiftg/xml.zip"
+  },
+  "stand_datum": "2001-10-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 74 V v. 29.10.2001 I 2785",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Errichtung einer Stiftung Bundeskanzler-Adenauer-Haus",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

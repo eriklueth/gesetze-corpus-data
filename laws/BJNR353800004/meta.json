@@ -1,0 +1,21 @@
+{
+  "amtabk": "EG-PKHVV",
+  "ausfertigung_datum": "2004-12-21",
+  "bjnr": "BJNR353800004",
+  "eli": null,
+  "gii_slug": "eg-pkhvv",
+  "ingested_at": "2026-04-17T15:20:28Z",
+  "jurabk": "EG-PKHVV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4ea8da9461c85db26fd254f7757bf72b17df4662bed2756e4a1fec3236ccd6c3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eg-pkhvv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eg-pkhvv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Einführung eines Vordrucks für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozesskostenhilfe sowie eines Vordrucks für die Übermittlung der Anträge auf Bewilligung von Prozesskostenhilfe im grenzüberschreitenden Verkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

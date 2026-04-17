@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-11-21",
+  "bjnr": "BJNR522730005",
+  "eli": null,
+  "gii_slug": "luftvodv_225",
+  "ingested_at": "2026-04-17T15:24:26Z",
+  "jurabk": "LuftVODV 225",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "777cbdf0a7287fac787b5d83b498358ea882b194d73457bc77b3763e8e485756"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_225/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_225/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweihundertfünfundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Friedrichshafen)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

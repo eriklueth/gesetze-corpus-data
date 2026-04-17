@@ -1,0 +1,21 @@
+{
+  "amtabk": "PKHB 2024",
+  "ausfertigung_datum": "2023-12-22",
+  "bjnr": "BJNR1930A0023",
+  "eli": null,
+  "gii_slug": "pkhb_2024",
+  "ingested_at": "2026-04-17T15:26:50Z",
+  "jurabk": "PKHB 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a1233bf0b3d8e5440f0a8382e09e58f882cbe995e5a9bae830555ec851371a89"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pkhb_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pkhb_2024/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 115 der Zivilprozessordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

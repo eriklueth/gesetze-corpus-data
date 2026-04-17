@@ -1,0 +1,26 @@
+{
+  "amtabk": "AufhFG",
+  "ausfertigung_datum": "2002-09-19",
+  "bjnr": "BJNR365200002",
+  "eli": null,
+  "gii_slug": "aufhfg",
+  "ingested_at": "2026-04-17T15:17:15Z",
+  "jurabk": "AufhFG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "12e15274d1843064f1c715f5d32cff7ad9e27836af130ee880520dfa2069aa63"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aufhfg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aufhfg/xml.zip"
+  },
+  "stand_datum": "2011-05-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 23.5.2011 I 920",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Errichtung eines Fonds \"Aufbauhilfe\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

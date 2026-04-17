@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-07-02",
+  "bjnr": "BJNR121100018",
+  "eli": null,
+  "gii_slug": "m_nz5eurobek_2018-07-23",
+  "ingested_at": "2026-04-17T15:25:48Z",
+  "jurabk": "Münz5EuroBek 2018-07-23",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a20c5c79c622bdc872f8fa32ef538c0edec8e6707c461c5748baaeedc184d185"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz5eurobek_2018-07-23/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz5eurobek_2018-07-23/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Subtropische Zone“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

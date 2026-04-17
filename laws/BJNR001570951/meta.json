@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-03-02",
+  "bjnr": "BJNR001570951",
+  "eli": null,
+  "gii_slug": "babg",
+  "ingested_at": "2026-04-17T15:17:32Z",
+  "jurabk": "BABG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "375e59bbe244912a5ec529caa7aedfd0d7fbb605da1a866a6006898927368f8a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/babg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/babg/xml.zip"
+  },
+  "stand_datum": "2018-11-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 G v. 29.11.2018 I 2237",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 8 Nr. 1 G v. 29.11.2018 I 2237 berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über die vermögensrechtlichen Verhältnisse der Bundesautobahnen und sonstigen Bundesstraßen des Fernverkehrs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

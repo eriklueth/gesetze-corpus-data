@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1937-06-30",
+  "bjnr": "BJNR007270937",
+  "eli": null,
+  "gii_slug": "elbvwgrhmbv",
+  "ingested_at": "2026-04-17T15:20:37Z",
+  "jurabk": "ElbVwGrHmbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "67268af31efd20da4dc6533e40b739c2194bf0472874b04fa2dca72fcf8bbf13"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/elbvwgrhmbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/elbvwgrhmbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Verwaltung der Elbe im Gebiet Groß-Hamburg",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

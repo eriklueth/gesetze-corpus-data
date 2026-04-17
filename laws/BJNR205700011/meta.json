@@ -1,0 +1,26 @@
+{
+  "amtabk": "FIDEVerzV",
+  "ausfertigung_datum": "2011-10-05",
+  "bjnr": "BJNR205700011",
+  "eli": null,
+  "gii_slug": "fideverzv",
+  "ingested_at": "2026-04-17T15:21:20Z",
+  "jurabk": "FIDEVerzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5cc8ca752ebc6790b2f89708b2ef7bf066912abdb840c9dd2892ca80ce20a186"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fideverzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fideverzv/xml.zip"
+  },
+  "stand_datum": "2024-05-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 25 G v. 6.5.2024 I Nr. 149",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Verzeichnis der Zuwiderhandlungen, die in das Aktennachweissystem für Zollzwecke aufgenommen werden sollen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

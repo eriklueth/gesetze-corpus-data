@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-03-02",
+  "bjnr": "BJNR001550951",
+  "eli": null,
+  "gii_slug": "bbahnvermg",
+  "ingested_at": "2026-04-17T15:17:44Z",
+  "jurabk": "BBahnVermG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d78ec4607df9ef25c9be79f9cf6dce58d4df7608b29ab21d502dca26c3f73112"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbahnvermg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbahnvermg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die vermögensrechtlichen Verhältnisse der Deutschen Bundesbahn",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,46 @@
+{
+  "amtabk": "KWG",
+  "ausfertigung_datum": "1961-07-10",
+  "bjnr": "BJNR008810961",
+  "eli": null,
+  "gii_slug": "kredwg",
+  "ingested_at": "2026-04-17T15:24:02Z",
+  "jurabk": "KredWG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9cb69322c06dfef3c44601104f85dbf3f0887692995bbe9f5b47eed5f0ee0d73"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kredwg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kredwg/xml.zip"
+  },
+  "stand_datum": "1998-09-09",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 9.9.1998 I 2776",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 25.3.2026 I Nr. 81",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 3 G v. 25.3.2026 I Nr. 81 ist berücksichtigt",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 6 G v. 9.4.2026 I Nr. 97 mWv 16.4.2026 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 7 G v. 9.4.2026 I Nr. 97 mWv 15.4.2026 bzw. 25.6.2026 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Gesetz über das Kreditwesen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

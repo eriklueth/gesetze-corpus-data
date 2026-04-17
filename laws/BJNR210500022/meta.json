@@ -1,0 +1,26 @@
+{
+  "amtabk": "StBPPV",
+  "ausfertigung_datum": "2022-11-25",
+  "bjnr": "BJNR210500022",
+  "eli": null,
+  "gii_slug": "stbppv",
+  "ingested_at": "2026-04-17T15:28:52Z",
+  "jurabk": "StBPPV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d18756123af6f2e1e39bcc4df8033abe205b087f4e4f3a4ed81a142a05056b7c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stbppv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stbppv/xml.zip"
+  },
+  "stand_datum": "2024-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 20.12.2024 I Nr. 443",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Steuerberaterplattform und die besonderen elektronischen Steuerberaterpostfächer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

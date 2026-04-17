@@ -1,0 +1,21 @@
+{
+  "amtabk": "HundVerbrEinfG",
+  "ausfertigung_datum": "2001-04-12",
+  "bjnr": "BJNR053010001",
+  "eli": null,
+  "gii_slug": "hundverbreinfg",
+  "ingested_at": "2026-04-17T15:22:48Z",
+  "jurabk": "HundVerbrEinfG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "95f7b3991697b2ec7afb9e765c516b6124b26bf02c1601c643157bf1111786b9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hundverbreinfg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hundverbreinfg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Beschränkung des Verbringens oder der Einfuhr gefährlicher Hunde in das Inland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

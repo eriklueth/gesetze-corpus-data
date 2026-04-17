@@ -1,0 +1,26 @@
+{
+  "amtabk": "EBPV",
+  "ausfertigung_datum": "2000-07-07",
+  "bjnr": "BJNR102500000",
+  "eli": null,
+  "gii_slug": "ebpv",
+  "ingested_at": "2026-04-17T15:20:11Z",
+  "jurabk": "EBPV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d60e6eec42ee09039507c9e9ce21732e59efcaec27014de2d8f1c0e00a263b96"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ebpv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ebpv/xml.zip"
+  },
+  "stand_datum": "2011-05-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 9.5.2011 I 810",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum Betriebsleiter für Eisenbahnen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

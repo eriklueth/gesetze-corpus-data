@@ -1,0 +1,882 @@
+{
+  "bjnr": "BJNR261810005",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Zweck des Gesetzes",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Weitere Begriffsbestimmungen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Vorschriften und Ermächtigungen zum Geltungsbereich",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Verbote zum Schutz der Gesundheit",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "(weggefallen)",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Ermächtigungen zum Schutz der Gesundheit und vor Täuschung",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Bestrahlungsverbot und Zulassungsermächtigung",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Pflanzenschutz- oder sonstige Mittel",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Stoffe mit pharmakologischer Wirkung",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Vorschriften zum Schutz vor Täuschung",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Weitere Verbote",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Ermächtigungen zum Schutz der Gesundheit und vor Täuschung",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Weitere Ermächtigungen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Deutsches Lebensmittelbuch",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verkehr mit Lebensmitteln"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Deutsche Lebensmittelbuch-Kommission",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Verbote",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0017a.md",
+      "heading": "Versicherung",
+      "number": "§ 17a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "(weggefallen)",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Verbote zum Schutz vor Täuschung",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Verbot der krankheitsbezogenen Werbung",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Weitere Verbote sowie Beschränkungen",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Ermächtigungen zum Schutz der Gesundheit",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Weitere Ermächtigungen zum Schutz der Gesundheit",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0023a.md",
+      "heading": "Ermächtigungen zum Schutz der tierischen Gesundheit und zur Förderung der tierischen Erzeugung",
+      "number": "§ 23a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0023b.md",
+      "heading": "Weitere Ermächtigungen für Arzneifuttermittel",
+      "number": "§ 23b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Gewähr für bestimmte Anforderungen",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Verkehr mit Futtermitteln"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Mitwirkung bestimmter Behörden",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 4 Verkehr mit Mitteln zum Tätowieren und kosmetischen Mitteln"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Verbote zum Schutz der Gesundheit",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 4 Verkehr mit Mitteln zum Tätowieren und kosmetischen Mitteln"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Vorschriften zum Schutz vor Täuschung",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 4 Verkehr mit Mitteln zum Tätowieren und kosmetischen Mitteln"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Ermächtigungen zum Schutz der Gesundheit",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 4 Verkehr mit Mitteln zum Tätowieren und kosmetischen Mitteln"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Weitere Ermächtigungen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 5 Verkehr mit sonstigen Bedarfsgegenständen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Verbote zum Schutz der Gesundheit",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 5 Verkehr mit sonstigen Bedarfsgegenständen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Übergang von Stoffen auf Lebensmittel",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 5 Verkehr mit sonstigen Bedarfsgegenständen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Ermächtigungen zum Schutz der Gesundheit",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 5 Verkehr mit sonstigen Bedarfsgegenständen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Vorschriften zum Schutz vor Täuschung",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Gemeinsame Vorschriften für alle Erzeugnisse"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Ermächtigungen zum Schutz der Gesundheit",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Gemeinsame Vorschriften für alle Erzeugnisse"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Ermächtigungen zum Schutz vor Täuschung und zur Unterrichtung",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Gemeinsame Vorschriften für alle Erzeugnisse"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Ermächtigungen für betriebseigene Kontrollen und Maßnahmen",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Gemeinsame Vorschriften für alle Erzeugnisse"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Weitere Ermächtigungen",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Zuständigkeit, Aufgabe und gegenseitige Information",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0038a.md",
+      "heading": "Übermittlung von Daten über den Internethandel",
+      "number": "§ 38a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0038b.md",
+      "heading": "Unterrichtung von Anbietern digitaler Dienste",
+      "number": "§ 38b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Maßnahmen der für die Überwachung von Lebensmitteln, Futtermitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 1 zuständigen Behörden",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0039a.md",
+      "heading": "Maßnahmen der für die Überwachung von Mitteln zum Tätowieren, kosmetischen Mitteln und Bedarfsgegenständen im Sinne von § 2 Absatz 6 Satz 1 Nummer 2 bis 9 zuständigen Behörden",
+      "number": "§ 39a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Information der Öffentlichkeit",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "(weggefallen)",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Durchführung der Überwachung",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Probenahme",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0043a.md",
+      "heading": "Probenahme bei Erzeugnissen, die unter Verwendung von Fernkommunikationsmitteln angeboten werden",
+      "number": "§ 43a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Duldungs-, Mitwirkungs- und Übermittlungspflichten",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0044a.md",
+      "heading": "Mitteilungs- und Übermittlungspflichten über Untersuchungsergebnisse zu gesundheitlich nicht erwünschten Stoffen",
+      "number": "§ 44a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Schiedsverfahren",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Ermächtigungen",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Weitere Ermächtigungen",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Landesrechtliche Bestimmungen",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Erstellung eines Lagebildes, Verwendung bestimmter Daten",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 7 Überwachung"
+      ],
+      "file": "paragraphs/0049a.md",
+      "heading": "Zusammenarbeit von Bund und Ländern",
+      "number": "§ 49a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 8 Monitoring"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Monitoring",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 8 Monitoring"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Durchführung des Monitorings",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 8 Monitoring"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Erlass von Verwaltungsvorschriften",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 9 Verbringen in das und aus dem Inland"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Verbringungsverbote",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 9 Verbringen in das und aus dem Inland"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Bestimmte Erzeugnisse aus anderen Mitgliedstaaten oder anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 9 Verbringen in das und aus dem Inland"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Mitwirkung der Zollbehörden",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 9 Verbringen in das und aus dem Inland"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Ermächtigungen",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 9 Verbringen in das und aus dem Inland"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Ausfuhr; sonstiges Verbringen aus dem Inland",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 9a Besondere Regelungen zum Schutz vor ionisierender Strahlung"
+      ],
+      "file": "paragraphs/0057a.md",
+      "heading": "Ermächtigungen zum Schutz der Gesundheit vor ionisierender Strahlung",
+      "number": "§ 57a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 9a Besondere Regelungen zum Schutz vor ionisierender Strahlung"
+      ],
+      "file": "paragraphs/0057b.md",
+      "heading": "Weitere Ermächtigungen in radiologischen Notfällen",
+      "number": "§ 57b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 9a Besondere Regelungen zum Schutz vor ionisierender Strahlung"
+      ],
+      "file": "paragraphs/0057c.md",
+      "heading": "Überwachung",
+      "number": "§ 57c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 9a Besondere Regelungen zum Schutz vor ionisierender Strahlung"
+      ],
+      "file": "paragraphs/0057d.md",
+      "heading": "Ausführung durch die Länder im Auftrag des Bundes",
+      "number": "§ 57d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 10 Straf- und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Strafvorschriften",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 10 Straf- und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Strafvorschriften",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 10 Straf- und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 10 Straf- und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Einziehung",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 10 Straf- und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Ermächtigungen",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "(weggefallen)",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Amtliche Sammlung von Untersuchungsverfahren; Bekanntmachungen",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Aufgabendurchführung",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Statistik",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Ausnahmeermächtigungen für Krisenzeiten",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Zulassung von Ausnahmen",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Zulassung weiterer Ausnahmen",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Rechtsverordnungen in bestimmten Fällen",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Beteiligung der Öffentlichkeit",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "Außenverkehr",
+      "number": "§ 72",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0073.md",
+      "heading": "(weggefallen)",
+      "number": "§ 73",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0074.md",
+      "heading": "Geltungsbereich bestimmter Vorschriften",
+      "number": "§ 74",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 11 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0075.md",
+      "heading": "Übergangsregelungen",
+      "number": "§ 75",
+      "type": "paragraph"
+    }
+  ]
+}

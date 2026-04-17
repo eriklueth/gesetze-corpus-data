@@ -1,0 +1,21 @@
+{
+  "amtabk": "AELV 2018",
+  "ausfertigung_datum": "2017-07-07",
+  "bjnr": "BJNR229000017",
+  "eli": null,
+  "gii_slug": "aelv_2018",
+  "ingested_at": "2026-04-17T15:16:47Z",
+  "jurabk": "AELV 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "78ef70e0b6c1f2cfb62ee5c86b9c632cf0cc59318d574e42c5774d6786c4e697"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aelv_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aelv_2018/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2018",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

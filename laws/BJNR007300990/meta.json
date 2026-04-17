@@ -1,0 +1,26 @@
+{
+  "amtabk": "KHStatV",
+  "ausfertigung_datum": "1990-04-10",
+  "bjnr": "BJNR007300990",
+  "eli": null,
+  "gii_slug": "khstatv",
+  "ingested_at": "2026-04-17T15:23:33Z",
+  "jurabk": "KHStatV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "33e684a7fb7abe07128c2e691da61b79eabf89a54c5a110bafdc8e57b661a709"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/khstatv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/khstatv/xml.zip"
+  },
+  "stand_datum": "2017-07-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 10.7.2017 I 2300",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Bundesstatistik für Krankenhäuser",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-01-28",
+  "bjnr": "BJNR209140959",
+  "eli": null,
+  "gii_slug": "grenzgsteinkvtr_nld",
+  "ingested_at": "2026-04-17T15:22:28Z",
+  "jurabk": "GrenzgSteinKVtr NLD",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6a76a5fcea012669bb271553d5c6dcb07c4e5e9abf51ad9b7b883e1ea1f647a0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grenzgsteinkvtr_nld/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grenzgsteinkvtr_nld/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über den Abbau von Steinkohlen im deutsch-niederländischen Grenzgebiet westlich Wegberg-Brüggen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

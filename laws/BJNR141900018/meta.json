@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-09-21",
+  "bjnr": "BJNR141900018",
+  "eli": null,
+  "gii_slug": "binschuo2018anh_i",
+  "ingested_at": "2026-04-17T15:18:26Z",
+  "jurabk": "BinSchUO2018Anh I",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b39b7ee930a05cecc7e870598d6c9153358b7bdfccc8e803431a0d06b4634bf6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschuo2018anh_i/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschuo2018anh_i/xml.zip"
+  },
+  "stand_datum": "2025-10-14",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 Nr. 14 V v. 14.10.2025 I Nr. 242",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Liste der in die geografischen Zonen 1, 2, 3, und 4 eingeteilten Wasserstraßen der Bundesrepublik Deutschland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

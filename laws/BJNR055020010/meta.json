@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2010-06-25",
+  "bjnr": "BJNR055020010",
+  "eli": null,
+  "gii_slug": "skaufv_che",
+  "ingested_at": "2026-04-17T15:28:18Z",
+  "jurabk": "SkAufV CHE",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "850d545ea9cc2eb044a8fb84f7273b1525bf9458ff66183e3f79ccfb9e7207cc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/skaufv_che/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/skaufv_che/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zu dem Abkommen vom 7. Juni 2010 zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat über den vorübergehenden Aufenthalt von Mitgliedern der Streitkräfte der Bundesrepublik Deutschland und der Streitkräfte der Schweizerischen Eidgenossenschaft im Hoheitsgebiet des jeweils anderen Staats für die Teilnahme an und die Durchführung von Übungs- und Ausbildungsvorhaben",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

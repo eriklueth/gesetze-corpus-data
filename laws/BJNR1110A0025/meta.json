@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-11-06",
+  "bjnr": "BJNR1110A0025",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2025-11-06_2",
+  "ingested_at": "2026-04-17T15:25:33Z",
+  "jurabk": "Münz20EuroBek 2025-11-06/2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a537f1bf2026c1fd14924f7091751033fc919287c24c77717a6ac712e3c397ac"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2025-11-06_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2025-11-06_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Luchs“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

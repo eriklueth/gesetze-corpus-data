@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-11-10",
+  "bjnr": "BJNR090520996",
+  "eli": null,
+  "gii_slug": "unfreiwprograbk",
+  "ingested_at": "2026-04-17T15:29:50Z",
+  "jurabk": "UNFreiwProgrAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6bb51db8b21397c2867b224b3ace80d266a3758379bff0e4175273283076e892"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unfreiwprograbk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unfreiwprograbk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

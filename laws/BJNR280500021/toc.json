@@ -1,0 +1,661 @@
+{
+  "bjnr": "BJNR280500021",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich; Wertermittlungsobjekt",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Grundlagen der Wertermittlung",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung",
+        "Abschnitt 2 Begriffsbestimmungen zu einzelnen Grundstücksmerkmalen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Entwicklungszustand; sonstige Flächen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung",
+        "Abschnitt 2 Begriffsbestimmungen zu einzelnen Grundstücksmerkmalen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Alter, Gesamt- und Restnutzungsdauer",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung",
+        "Abschnitt 2 Begriffsbestimmungen zu einzelnen Grundstücksmerkmalen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Weitere Grundstücksmerkmale",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung",
+        "Abschnitt 3 Allgemeine Grundsätze der Wertermittlung"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Wertermittlungsverfahren; Ermittlung des Verkehrswerts",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung",
+        "Abschnitt 3 Allgemeine Grundsätze der Wertermittlung"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Berücksichtigung der allgemeinen Wertverhältnisse",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung",
+        "Abschnitt 3 Allgemeine Grundsätze der Wertermittlung"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Berücksichtigung der allgemeinen und besonderen objektspezifischen Grundstücksmerkmale",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung",
+        "Abschnitt 3 Allgemeine Grundsätze der Wertermittlung"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Eignung und Anpassung der Daten; ungewöhnliche oder persönliche Verhältnisse; Herkunft der Daten",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung",
+        "Abschnitt 3 Allgemeine Grundsätze der Wertermittlung"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Grundsatz der Modellkonformität",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Abschnitt 1 Anwendungsbereich; Gegenstand und Grundlagen der Wertermittlung",
+        "Abschnitt 3 Allgemeine Grundsätze der Wertermittlung"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Künftige Änderungen des Grundstückszustands",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Allgemeines zu den für die Wertermittlung erforderlichen Daten",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 2 Bodenrichtwerte"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Bodenrichtwert und Bodenrichtwertgrundstück",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 2 Bodenrichtwerte"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Grundlagen der Bodenrichtwertermittlung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 2 Bodenrichtwerte"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Bildung der Bodenrichtwertzonen",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 2 Bodenrichtwerte"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Grundstücksmerkmale des Bodenrichtwertgrundstücks",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 2 Bodenrichtwerte"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Automatisiertes Führen der Bodenrichtwerte",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 3 Sonstige für die Wertermittlung erforderliche Daten"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Indexreihen",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 3 Sonstige für die Wertermittlung erforderliche Daten"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Umrechnungskoeffizienten",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 3 Sonstige für die Wertermittlung erforderliche Daten"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Vergleichsfaktoren",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 3 Sonstige für die Wertermittlung erforderliche Daten"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Liegenschaftszinssätze; Sachwertfaktoren",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 3 Sonstige für die Wertermittlung erforderliche Daten"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Erbbaurechts- und Erbbaugrundstücksfaktoren",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Für die Wertermittlung erforderliche Daten",
+        "Abschnitt 3 Sonstige für die Wertermittlung erforderliche Daten"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Erbbaurechts- und Erbbaugrundstückskoeffizienten",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 1 Vergleichswertverfahren"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Grundlagen des Vergleichswertverfahrens",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 1 Vergleichswertverfahren"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Vergleichspreise",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 1 Vergleichswertverfahren"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Objektspezifisch angepasster Vergleichsfaktor; objektspezifisch angepasster Bodenrichtwert",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 2 Ertragswertverfahren",
+        "Unterabschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Grundlagen des Ertragswertverfahrens",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 2 Ertragswertverfahren",
+        "Unterabschnitt 2 Verfahrensvarianten"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Allgemeines Ertragswertverfahren",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 2 Ertragswertverfahren",
+        "Unterabschnitt 2 Verfahrensvarianten"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Vereinfachtes Ertragswertverfahren",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 2 Ertragswertverfahren",
+        "Unterabschnitt 2 Verfahrensvarianten"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Periodisches Ertragswertverfahren",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 2 Ertragswertverfahren",
+        "Unterabschnitt 3 Ermittlung des Ertragswerts"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Reinertrag; Rohertrag",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 2 Ertragswertverfahren",
+        "Unterabschnitt 3 Ermittlung des Ertragswerts"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Bewirtschaftungskosten",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 2 Ertragswertverfahren",
+        "Unterabschnitt 3 Ermittlung des Ertragswerts"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Objektspezifisch angepasster Liegenschaftszinssatz",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 2 Ertragswertverfahren",
+        "Unterabschnitt 3 Ermittlung des Ertragswerts"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Barwertfaktor",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 3 Sachwertverfahren"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Grundlagen des Sachwertverfahrens",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 3 Sachwertverfahren"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Vorläufiger Sachwert der baulichen Anlagen; durchschnittliche Herstellungskosten",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 3 Sachwertverfahren"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Vorläufiger Sachwert der baulichen Außenanlagen und sonstigen Anlagen",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 3 Sachwertverfahren"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Alterswertminderungsfaktor",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Besondere Grundsätze zu den einzelnen Wertermittlungsverfahren",
+        "Abschnitt 3 Sachwertverfahren"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Objektspezifisch angepasster Sachwertfaktor",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 1 Bodenwertermittlung"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Allgemeines zur Bodenwertermittlung",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 1 Bodenwertermittlung"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Erhebliche Überschreitung der marktüblichen Grundstücksgröße",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 1 Bodenwertermittlung"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Bodenwert von Bauerwartungsland und Rohbauland",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 1 Bodenwertermittlung"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Nutzungsabhängiger Bodenwert bei Liquidationsobjekten",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 1 Bodenwertermittlung"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Gemeinbedarfsflächen",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 1 Bodenwertermittlung"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Wasserflächen",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 2 Grundstücksbezogene Rechte und Belastungen",
+        "Unterabschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Allgemeines zu grundstücksbezogenen Rechten und Belastungen",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 2 Grundstücksbezogene Rechte und Belastungen",
+        "Unterabschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Grundsätze der Wertermittlung bei Rechten und Belastungen",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 2 Grundstücksbezogene Rechte und Belastungen",
+        "Unterabschnitt 2 Erbbaurecht und Erbbaugrundstück"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Allgemeines zum Erbbaurecht und Erbbaugrundstück",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 2 Grundstücksbezogene Rechte und Belastungen",
+        "Unterabschnitt 2 Erbbaurecht und Erbbaugrundstück"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Vergleichswertverfahren für das Erbbaurecht",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 2 Grundstücksbezogene Rechte und Belastungen",
+        "Unterabschnitt 2 Erbbaurecht und Erbbaugrundstück"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Finanzmathematischer Wert des Erbbaurechts",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 2 Grundstücksbezogene Rechte und Belastungen",
+        "Unterabschnitt 2 Erbbaurecht und Erbbaugrundstück"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Vergleichswertverfahren für das Erbbaugrundstück",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Bodenwertermittlung; grundstücksbezogene Rechte und Belastungen",
+        "Abschnitt 2 Grundstücksbezogene Rechte und Belastungen",
+        "Unterabschnitt 2 Erbbaurecht und Erbbaugrundstück"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Finanzmathematischer Wert des Erbbaugrundstücks",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 5 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Übergangsregelungen",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 5 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Inkrafttreten, Außerkrafttreten",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 5 Schlussvorschriften"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 12 Absatz 5 Satz 1)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 5 Schlussvorschriften"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 12 Absatz 5 Satz 1)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 5 Schlussvorschriften"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(zu § 12 Absatz 5 Satz 2)",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 5 Schlussvorschriften"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "(zu § 12 Absatz 5 Satz 3)",
+      "number": "Anlage 4",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 5 Schlussvorschriften"
+      ],
+      "file": "annexes/0005.md",
+      "heading": "(zu § 16 Absatz 3)",
+      "number": "Anlage 5",
+      "type": "annex"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "ITSiV-PV",
+  "ausfertigung_datum": "2022-01-06",
+  "bjnr": "BJNR001800022",
+  "eli": null,
+  "gii_slug": "itsiv-pv",
+  "ingested_at": "2026-04-17T15:23:11Z",
+  "jurabk": "ITSiV-PV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "558a0693d08a383abed59aa16d21f1b7e82804ef6ac8ef0c0542f3b82edd272b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/itsiv-pv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/itsiv-pv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Gewährleistung der IT-Sicherheit der im Portalverbund und zur Anbindung an den Portalverbund genutzten IT-Komponenten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

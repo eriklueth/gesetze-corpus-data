@@ -1,0 +1,21 @@
+{
+  "amtabk": "FHBLeistBV",
+  "ausfertigung_datum": "2004-12-16",
+  "bjnr": "BJNR355000004",
+  "eli": null,
+  "gii_slug": "fhbleistbv",
+  "ingested_at": "2026-04-17T15:21:19Z",
+  "jurabk": "FHBLeistBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2321fa7239a63cebb9f766f8c2ddd542339e6f54203332edb496010231403dae"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fhbleistbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fhbleistbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Leistungsbezüge und Zulagen an der Fachhochschule des Bundes für öffentliche Verwaltung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

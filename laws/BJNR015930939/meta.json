@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1939-08-28",
+  "bjnr": "BJNR015930939",
+  "eli": null,
+  "gii_slug": "prisengo",
+  "ingested_at": "2026-04-17T15:26:59Z",
+  "jurabk": "PrisenGO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "42a1b65aea96d46f09cbddf54db03437e76e8eaa11abd95c5ef9f18c324dcbca"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/prisengo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/prisengo/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Prisengerichtsordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

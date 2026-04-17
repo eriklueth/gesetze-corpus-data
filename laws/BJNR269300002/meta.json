@@ -1,0 +1,26 @@
+{
+  "amtabk": "InstallateurHeizungsbauerMstrV",
+  "ausfertigung_datum": "2002-07-17",
+  "bjnr": "BJNR269300002",
+  "eli": null,
+  "gii_slug": "installateurheizungsbauermstrv",
+  "ingested_at": "2026-04-17T15:23:00Z",
+  "jurabk": "InstallateurHeizungsbauerMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f8030940aa948c075eab6ad1b6dedd6c4308b11e26da4c0075a522497b991599"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/installateurheizungsbauermstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/installateurheizungsbauermstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 41 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Installateur- und Heizungsbauer-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

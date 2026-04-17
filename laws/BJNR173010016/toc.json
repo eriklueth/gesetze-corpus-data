@@ -1,0 +1,627 @@
+{
+  "bjnr": "BJNR173010016",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Gesetzlicher Vertreter",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Zuständige Finanzbehörden, Verordnungsermächtigung",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Prüfung der steuerlichen Verhältnisse",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen"
+      ],
+      "file": "paragraphs/0005a.md",
+      "heading": "Übertragung von Wirtschaftsgütern in einen Investmentfonds",
+      "number": "§ 5a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 1 Besteuerung des Investmentfonds"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Körperschaftsteuerpflicht eines Investmentfonds",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 1 Besteuerung des Investmentfonds"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Erhebung der Kapitalertragsteuer gegenüber Investmentfonds",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 1 Besteuerung des Investmentfonds"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Steuerbefreiung aufgrund steuerbegünstigter Anleger",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 1 Besteuerung des Investmentfonds"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Nachweis der Steuerbefreiung",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 1 Besteuerung des Investmentfonds"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Investmentfonds oder Anteilklassen für steuerbegünstigte Anleger; Nachweis der Steuerbefreiung",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 1 Besteuerung des Investmentfonds"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Erstattung von Kapitalertragsteuer an Investmentfonds durch die Finanzbehörden",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 1 Besteuerung des Investmentfonds"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Leistungspflicht gegenüber steuerbegünstigten Anlegern",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 1 Besteuerung des Investmentfonds"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Wegfall der Steuerbefreiung eines Anlegers",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 1 Besteuerung des Investmentfonds"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Haftung bei unberechtigter Steuerbefreiung oder -erstattung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 1 Besteuerung des Investmentfonds"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Gewerbesteuer",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Investmentfonds"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Investmenterträge",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Investmentfonds"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Erträge bei Abwicklung eines Investmentfonds",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Investmentfonds"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Vorabpauschale",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Investmentfonds"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Gewinne aus der Veräußerung von Investmentanteilen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Investmentfonds"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Teilfreistellung",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Investmentfonds"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Anteilige Abzüge aufgrund einer Teilfreistellung",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Investmentfonds"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Änderung des anwendbaren Teilfreistellungssatzes",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 3 Verschmelzung von Investmentfonds"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Verschmelzung von Investmentfonds",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 2 Investmentfonds",
+        "Abschnitt 4 Verhältnis zu den Besteuerungsregelungen für Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Kein Wechsel zu den Besteuerungsregelungen für Spezial-Investmentfonds",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 1 Voraussetzungen und Besteuerung eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Getrennte Besteuerungsregelungen",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 1 Voraussetzungen und Besteuerung eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Anlagebestimmungen",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 1 Voraussetzungen und Besteuerung eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Rechtsformen von inländischen Spezial-Investmentfonds",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 1 Voraussetzungen und Besteuerung eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Beteiligung von Personengesellschaften",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 1 Voraussetzungen und Besteuerung eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Steuerpflicht des Spezial-Investmentfonds",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 1 Voraussetzungen und Besteuerung eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Inländische Beteiligungseinnahmen und sonstige inländische Einkünfte mit Steuerabzug",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 1 Voraussetzungen und Besteuerung eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Steuerabzug und Steueranrechnung bei Ausübung der Transparenzoption",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 1 Voraussetzungen und Besteuerung eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Haftung bei ausgeübter Transparenzoption",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 1 Voraussetzungen und Besteuerung eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Inländische Immobilienerträge und sonstige inländische Einkünfte ohne Steuerabzug",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Spezial-Investmenterträge",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Ausgeschüttete Erträge und Ausschüttungsreihenfolge",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Ausschüttungsgleiche Erträge",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Ermittlung der Einkünfte",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Vereinnahmung und Verausgabung",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Werbungskosten, Abzug der Direktkosten",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Abzug der Allgemeinkosten",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Verlustverrechnung",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Steuerbefreiung von Beteiligungseinkünften und inländischen Immobilienerträgen",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Steuerbefreiung aufgrund von Abkommen zur Vermeidung der Doppelbesteuerung und der Teilfreistellung",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Anteilige Abzüge aufgrund einer Steuerbefreiung",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Gewerbesteuer bei Spezial-Investmenterträgen",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Zinsschranke",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Anrechnung und Abzug von ausländischer Steuer",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Fonds-Aktiengewinn, Fonds-Abkommensgewinn, Fonds-Teilfreistellungsgewinn",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Veräußerung von Spezial-Investmentanteilen, Teilwertansatz",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Kapitalertragsteuer",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 2 Besteuerung des Anlegers eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Feststellung der Besteuerungsgrundlagen",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 3 Spezial-Investmentfonds",
+        "Abschnitt 3 Wegfall der Voraussetzungen eines Spezial-Investmentfonds"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Wegfall der Voraussetzungen eines Spezial-Investmentfonds",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 4 Altersvorsorgevermögenfonds"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Altersvorsorgevermögenfonds",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 5 Verschmelzung von Spezial-Investmentfonds und von Altersvorsorgevermögenfonds"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Verschmelzung von Spezial-Investmentfonds und Altersvorsorgevermögenfonds",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 6 Bußgeldvorschriften, Anwendungs- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 6 Bußgeldvorschriften, Anwendungs- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Anwendungs- und Übergangsvorschriften zum Investmentsteuerreformgesetz",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Regelungen",
+        "Kapitel 6 Bußgeldvorschriften, Anwendungs- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Anwendungsvorschriften",
+      "number": "§ 57",
+      "type": "paragraph"
+    }
+  ]
+}

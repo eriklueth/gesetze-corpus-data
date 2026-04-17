@@ -1,0 +1,30 @@
+{
+  "amtabk": "BPolZV",
+  "ausfertigung_datum": "2008-02-22",
+  "bjnr": "BJNR025000008",
+  "eli": null,
+  "gii_slug": "bpolzv_2008",
+  "ingested_at": "2026-04-17T15:18:53Z",
+  "jurabk": "BPolZV 2008",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "14cac5f2655102a5301aaa0fe7317da8bff1acf7fd725ac9c19e82404d8d001c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpolzv_2008/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpolzv_2008/xml.zip"
+  },
+  "stand_datum": "2024-10-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 10 G v. 25.10.2024 I Nr. 332",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V v. 28.6.2005 I 1870 mWv 1.3.2008",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Zuständigkeit der Bundespolizeibehörden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

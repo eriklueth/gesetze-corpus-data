@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-07-09",
+  "bjnr": "BJNR210890976",
+  "eli": null,
+  "gii_slug": "fmvtr1973g",
+  "ingested_at": "2026-04-17T15:21:35Z",
+  "jurabk": "FMVtr1973G",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9ec8310dec0df1aadc4d1868044181a9c3da30ac549b88b7d2eed9d9182fb6ba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fmvtr1973g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fmvtr1973g/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Internationalen Fernmeldevertrag vom 25. Oktober 1973",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

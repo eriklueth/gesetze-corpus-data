@@ -1,0 +1,21 @@
+{
+  "amtabk": "BBFestV 2015",
+  "ausfertigung_datum": "2015-07-23",
+  "bjnr": "BJNR141000015",
+  "eli": null,
+  "gii_slug": "bbfestv_2015",
+  "ingested_at": "2026-04-17T15:17:45Z",
+  "jurabk": "BBFestV 2015",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "03d1a3934fbfebba8c82080c7d0c3d1d91680d6d85c5efb0af26c9e56a0915d1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbfestv_2015/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbfestv_2015/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Festlegung der der Revision unterliegenden Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2015",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

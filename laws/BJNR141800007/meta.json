@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-07-17",
+  "bjnr": "BJNR141800007",
+  "eli": null,
+  "gii_slug": "pmmprv",
+  "ingested_at": "2026-04-17T15:26:51Z",
+  "jurabk": "PMMPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "11ffab755d4a33006cb3371837191bd9ff94e88e1944cb9eaacf88a4f278d1b5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pmmprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pmmprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 36 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Prozessmanager - Mikrotechnologie und Geprüfte Prozessmanagerin - Mikrotechnologie (Certified Process Manager - Microtechnology)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

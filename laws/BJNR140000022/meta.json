@@ -1,0 +1,26 @@
+{
+  "amtabk": "PAO157Abs2DV",
+  "ausfertigung_datum": "2022-08-15",
+  "bjnr": "BJNR140000022",
+  "eli": null,
+  "gii_slug": "pao157abs2dv",
+  "ingested_at": "2026-04-17T15:26:26Z",
+  "jurabk": "PAO157Abs2DV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b36281498ece3f832642d459588ce5a61f4df818c8e40635ffc5ba3f3b586a35"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pao157abs2dv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pao157abs2dv/xml.zip"
+  },
+  "stand_datum": "2024-10-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 11.10.2024 I Nr. 310",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des § 157 Absatz 2 der Patentanwaltsordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "EnSTransV",
+  "ausfertigung_datum": "2016-05-04",
+  "bjnr": "BJNR115810016",
+  "eli": null,
+  "gii_slug": "enstransv",
+  "ingested_at": "2026-04-17T15:20:40Z",
+  "jurabk": "EnSTransV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6f867b2d25dad35f3dd5cc2a7f018dcc611617a7d24e3c2a3d252d3b0b20d1e2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/enstransv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/enstransv/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 22.12.2025 I Nr. 340",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Umsetzung unionsrechtlicher Veröffentlichungs-, Informations- und Transparenzpflichten im Energiesteuer- und im Stromsteuergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

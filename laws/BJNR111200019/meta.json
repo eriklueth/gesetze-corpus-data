@@ -1,0 +1,26 @@
+{
+  "amtabk": "DTAGÜbertrAnO",
+  "ausfertigung_datum": "2019-07-09",
+  "bjnr": "BJNR111200019",
+  "eli": null,
+  "gii_slug": "dtag_bertrano_2019",
+  "ingested_at": "2026-04-17T15:20:07Z",
+  "jurabk": "DTAGÜbertrAnO 2019",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4455f670a10d3f9a3f8bc1adfbaafc04fbefeffeff6768d0c94263a410a619c6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dtag_bertrano_2019/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dtag_bertrano_2019/xml.zip"
+  },
+  "stand_datum": "2024-02-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 AnO v. 14.2.2024 I Nr. 57",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Anordnung zur Übertragung beamtenrechtlicher Befugnisse und Zuständigkeiten im Bereich der Deutschen Telekom AG",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

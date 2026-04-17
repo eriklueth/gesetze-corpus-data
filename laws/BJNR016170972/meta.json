@@ -1,0 +1,30 @@
+{
+  "amtabk": "MOG",
+  "ausfertigung_datum": "1972-08-31",
+  "bjnr": "BJNR016170972",
+  "eli": null,
+  "gii_slug": "mog",
+  "ingested_at": "2026-04-17T15:24:55Z",
+  "jurabk": "MOG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e621df01c051e0acab937727db3b14be23b982a2d8f3830d81b34fe923d13e79"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mog/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mog/xml.zip"
+  },
+  "stand_datum": "2017-11-07",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 7.11.2017 I 3746;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 G v. 23.10.2024 I Nr. 327",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Durchführung der gemeinsamen Marktorganisationen und der Direktzahlungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-07-15",
+  "bjnr": "BJNR120900993",
+  "eli": null,
+  "gii_slug": "bdobukbminaano",
+  "ingested_at": "2026-04-17T15:17:54Z",
+  "jurabk": "BDOBuKBMinAAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "26924da08c273320e0758d9f49c2fda986edb7f5c2e4a2447682347e97d38c40"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bdobukbminaano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bdobukbminaano/xml.zip"
+  },
+  "stand_datum": "2000-05-10",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 AnO v. 10.5.2000 I 769",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Anordnung zur Durchführung der Bundesdisziplinarordnung bei den bundesunmittelbaren Körperschaften mit Dienstherrnfähigkeit im Geschäftsbereich des Bundesministeriums für Arbeit und Sozialordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

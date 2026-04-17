@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-08-15",
+  "bjnr": "BJNR211570975",
+  "eli": null,
+  "gii_slug": "eurhiaut_bkergvtrg",
+  "ingested_at": "2026-04-17T15:20:58Z",
+  "jurabk": "EuRHiAUTÜbkErgVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ab113bfc69298decb381133c5a155fdbeabfd4874b3e073b3098d6e87f1774d7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurhiaut_bkergvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurhiaut_bkergvtrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 31. Januar 1972 zwischen der Bundesrepublik Deutschland und der Republik Österreich über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

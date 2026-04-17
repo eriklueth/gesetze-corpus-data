@@ -1,0 +1,30 @@
+{
+  "amtabk": "BauGB",
+  "ausfertigung_datum": "1960-06-23",
+  "bjnr": "BJNR003410960",
+  "eli": null,
+  "gii_slug": "bbaug",
+  "ingested_at": "2026-04-17T15:17:40Z",
+  "jurabk": "BBauG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7c9ab8c103ae4c398dec0f9126ab88e337ddd54b1cbf319b7c1ce855713c2a93"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbaug/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbaug/xml.zip"
+  },
+  "stand_datum": "2017-11-03",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 3.11.2017 I 3634",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 5 G v. 22.12.2025 I Nr. 348",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Baugesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

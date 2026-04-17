@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-10-26",
+  "bjnr": "BJNR200040958",
+  "eli": null,
+  "gii_slug": "intatomsa",
+  "ingested_at": "2026-04-17T15:23:01Z",
+  "jurabk": "IntAtomSa",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "964cbba86caf479e0f81f0fac08f96f99bef39b13dff96554e362d0513f4df32"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intatomsa/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intatomsa/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Satzung der Internationalen Atomenergie-Organisation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

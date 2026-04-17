@@ -1,0 +1,21 @@
+{
+  "amtabk": "SEGStatV",
+  "ausfertigung_datum": "2024-06-17",
+  "bjnr": "BJNR0C50A0024",
+  "eli": null,
+  "gii_slug": "segstatv",
+  "ingested_at": "2026-04-17T15:28:04Z",
+  "jurabk": "SEGStatV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "eb1a3fd41d0edb193d2fd20b48ab5d244a59de3bd15cefa42f066cf1f261e479"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/segstatv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/segstatv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Führung einer amtlichen Statistik auf dem Gebiet des Soldatenentschädigungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

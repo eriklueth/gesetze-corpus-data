@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1971-04-30",
+  "bjnr": "BJNR202170971",
+  "eli": null,
+  "gii_slug": "msag",
+  "ingested_at": "2026-04-17T15:25:00Z",
+  "jurabk": "MSAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "71796b1ae9802c3b37a21e53a2960cbab40b9b0b7cf063d5d87882f5f4f496cf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/msag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/msag/xml.zip"
+  },
+  "stand_datum": "2013-01-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 23.1.2013 I 101",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 über die Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

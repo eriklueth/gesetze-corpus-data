@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-02-25",
+  "bjnr": "BJNR036400003",
+  "eli": null,
+  "gii_slug": "aug_1abs2bek_22",
+  "ingested_at": "2026-04-17T15:17:21Z",
+  "jurabk": "AUG§1Abs2Bek 22",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9f141376dc0dceb069e87d7d67e52d0d8572017e28af65d45245998a76f5aed6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aug_1abs2bek_22/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aug_1abs2bek_22/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweiundzwanzigste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

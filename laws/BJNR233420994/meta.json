@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-03-17",
+  "bjnr": "BJNR233420994",
+  "eli": null,
+  "gii_slug": "wassl_bk",
+  "ingested_at": "2026-04-17T15:30:22Z",
+  "jurabk": "WassLÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "33924ace317e52a7a98b7b295d2ca63d0571df2c4baf3f7e4483050d252d4d22"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wassl_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wassl_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen zum Schutz und zur Nutzung grenzüberschreitender Wasserläufe und internationaler Seen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

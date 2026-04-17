@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-12-18",
+  "bjnr": "BJNR009200956",
+  "eli": null,
+  "gii_slug": "ihkg",
+  "ingested_at": "2026-04-17T15:23:02Z",
+  "jurabk": "IHKG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b0cf3612886e40580bde409d178dc09ecf4d1404135585f0a0729204914ffee1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ihkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ihkg/xml.zip"
+  },
+  "stand_datum": "2021-08-07",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 7.8.2021 I 3306",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

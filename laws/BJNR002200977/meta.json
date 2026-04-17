@@ -1,0 +1,26 @@
+{
+  "amtabk": "AtDeckV",
+  "ausfertigung_datum": "1977-01-25",
+  "bjnr": "BJNR002200977",
+  "eli": null,
+  "gii_slug": "atdeckv_1977",
+  "ingested_at": "2026-04-17T15:17:10Z",
+  "jurabk": "AtDeckV 1977",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ed9bc29b89ed1c75f7315525d9d23563b469312f121d1ca07bd459c28914dc2c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/atdeckv_1977/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/atdeckv_1977/xml.zip"
+  },
+  "stand_datum": "2022-01-21",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 21.1.2022 I 118",
+      "typ": "Neuf"
+    }
+  ],
+  "title": "Verordnung über die Deckungsvorsorge nach dem Atomgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

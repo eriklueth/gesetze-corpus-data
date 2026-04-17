@@ -1,0 +1,261 @@
+{
+  "bjnr": "BJNR477900021",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Gegenstand",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 2 Einfache Mietspiegel"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Erstellung und Anpassung",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 2 Einfache Mietspiegel"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Dokumentation",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 2 Einfache Mietspiegel"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Veröffentlichung",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Allgemeine Anforderungen",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 1 Erstellung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Methoden",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 1 Erstellung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Datengrundlagen",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 1 Erstellung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Bruttostichprobe",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 1 Erstellung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Nettostichprobe",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 1 Erstellung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Stichprobenumfang",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 1 Erstellung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Datenaufbereitung",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 1 Erstellung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Datenauswertung bei der Tabellenanalyse",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 1 Erstellung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Datenauswertung bei der Regressionsanalyse",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 1 Erstellung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Bestimmung und Darstellung der ortsüblichen Vergleichsmiete bei der Tabellenanalyse",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 1 Erstellung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Bestimmung und Darstellung der ortsüblichen Vergleichsmiete bei der Regressionsanalyse",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 2 Inhalt des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Art der Wohnungen",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 2 Inhalt des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Größe, Beschaffenheit und Ausstattung der Wohnungen",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 2 Inhalt des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Wohnlagen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 3 Dokumentation und Veröffentlichung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Dokumentation",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 3 Dokumentation und Veröffentlichung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Veröffentlichung",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 4 Anpassung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Anpassung mittels Index",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 3 Qualifizierte Mietspiegel",
+        "Unterabschnitt 4 Anpassung des qualifizierten Mietspiegels"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Anpassung mittels Stichprobe",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Regelungen",
+        "Abschnitt 4 Schlussvorschrift"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 24",
+      "type": "paragraph"
+    }
+  ]
+}

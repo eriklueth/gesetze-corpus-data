@@ -1,0 +1,30 @@
+{
+  "amtabk": "AFIV",
+  "ausfertigung_datum": "2008-12-10",
+  "bjnr": "BJNR614700008",
+  "eli": null,
+  "gii_slug": "afivo",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "AFIVO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2c3f71b48e902468bab40b12fd600d5d27f430dacbdb207da83700689fcc08cc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/afivo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/afivo/xml.zip"
+  },
+  "stand_datum": "2024-04-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 4.4.2024 I Nr. 116",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V tritt nach ihrem § 6 Abs. 2 mit Ablauf des 12.6.2009 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird; § 6 Abs. 2 aufgeh. durch Art. 1 Nr. 2 V v. 2.6.2009 eBAnz AT 59 V1, dadurch ist die Geltung der V über den 12.6.2009 hinaus verlängert worden",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Agrar- und Fischereifonds der Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

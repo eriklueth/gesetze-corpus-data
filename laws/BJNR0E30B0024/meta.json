@@ -1,0 +1,30 @@
+{
+  "amtabk": "MtDBwVWehrtechnikVDV",
+  "ausfertigung_datum": "2024-07-04",
+  "bjnr": "BJNR0E30B0024",
+  "eli": null,
+  "gii_slug": "mtdbwvvdv",
+  "ingested_at": "2026-04-17T15:25:03Z",
+  "jurabk": "MtDBwVVDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5b8d83ad55f8aa766b7e0ce8d38c6618ecf03dcce363dcd8424198571e28bdf7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mtdbwvvdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mtdbwvvdv/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 32 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2030-7-17-3 v. 17.4.2002 I 1444 (LAP-mtDBWVV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den mittleren technischen Verwaltungsdienst in der Bundeswehrverwaltung im Verwendungsbereich Wehrtechnik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

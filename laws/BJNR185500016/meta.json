@@ -1,0 +1,26 @@
+{
+  "amtabk": "MautVvfV",
+  "ausfertigung_datum": "2016-07-21",
+  "bjnr": "BJNR185500016",
+  "eli": null,
+  "gii_slug": "mautvvfv",
+  "ingested_at": "2026-04-17T15:24:46Z",
+  "jurabk": "MautVvfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "12421cf79605a5e0e3268a903c64c3a003c72e61c9f6e6b94a4d11e26d09181a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mautvvfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mautvvfv/xml.zip"
+  },
+  "stand_datum": "2021-09-28",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 V v. 28.9.2021 I 4619",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Regelung des Vermittlungsverfahrens nach dem Mautsystemgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

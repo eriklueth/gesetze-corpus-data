@@ -1,0 +1,21 @@
+{
+  "amtabk": "AugenoptAusbV",
+  "ausfertigung_datum": "2011-04-26",
+  "bjnr": "BJNR069800011",
+  "eli": null,
+  "gii_slug": "augenoptausbv",
+  "ingested_at": "2026-04-17T15:17:18Z",
+  "jurabk": "AugenoptAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aa35f7e31da643c64b9a10c27388c495f0615151e4d3c6ae64c5ded4b8594e50"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/augenoptausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/augenoptausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Augenoptiker und zur Augenoptikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-04-21",
+  "bjnr": "BJNR116200006",
+  "eli": null,
+  "gii_slug": "bmaszustano",
+  "ingested_at": "2026-04-17T15:18:36Z",
+  "jurabk": "BMASZustAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "adbf446e7d8460091980b2edeca361448e1db312345a52c4fd7bf87928d7fb85"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmaszustano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmaszustano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundesministeriums für Arbeit und Soziales in Angelegenheiten von Besoldung, von Amtsbezügen und nach dem Bundesreisekostengesetz, dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Verordnungen und nach den Beihilfevorschriften des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

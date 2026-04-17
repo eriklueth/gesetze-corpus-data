@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-12-10",
+  "bjnr": "BJNR221800015",
+  "eli": null,
+  "gii_slug": "verkdhspfrusppfleg",
+  "ingested_at": "2026-04-17T15:30:03Z",
+  "jurabk": "VerkdHSpFruSpPflEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "88e3435bacc92fc2d40748a3bbaf76fa22717b9965b0b28db27412bdbfb610db"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verkdhspfrusppfleg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verkdhspfrusppfleg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Einführung einer Speicherpflicht und einer Höchstspeicherfrist für Verkehrsdaten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

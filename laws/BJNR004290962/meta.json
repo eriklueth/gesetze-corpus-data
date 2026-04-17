@@ -1,0 +1,30 @@
+{
+  "amtabk": "BauNVO",
+  "ausfertigung_datum": "1962-06-26",
+  "bjnr": "BJNR004290962",
+  "eli": null,
+  "gii_slug": "baunvo",
+  "ingested_at": "2026-04-17T15:17:40Z",
+  "jurabk": "BauNVO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "72a36f825be1b9b3ade5c9690850f06c8a668228edbe94398361fd1c2b61c467"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baunvo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baunvo/xml.zip"
+  },
+  "stand_datum": "2017-11-21",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 21.11.2017 I 3786;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 G v. 3.7.2023 I Nr. 176",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die bauliche Nutzung der Grundstücke",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

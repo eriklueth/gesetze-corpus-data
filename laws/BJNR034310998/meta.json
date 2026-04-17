@@ -1,0 +1,30 @@
+{
+  "amtabk": "DEÜV",
+  "ausfertigung_datum": "1998-02-10",
+  "bjnr": "BJNR034310998",
+  "eli": null,
+  "gii_slug": "de_v",
+  "ingested_at": "2026-04-17T15:19:57Z",
+  "jurabk": "DEÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "abfadfebef7eadaea1b693a0ddf1a06b24eb05d4b094839bbe90c1f4b8c77c07"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/de_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/de_v/xml.zip"
+  },
+  "stand_datum": "2006-01-23",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 23.1.2006 I 152;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 20 G v. 22.12.2025 I Nr. 355",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

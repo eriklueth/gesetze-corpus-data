@@ -1,0 +1,26 @@
+{
+  "amtabk": "BuTMedienMstrBAProFV",
+  "ausfertigung_datum": "2023-09-21",
+  "bjnr": "BJNR0FC0A0023",
+  "eli": null,
+  "gii_slug": "butmedienmstrbaprofv",
+  "ingested_at": "2026-04-17T15:19:29Z",
+  "jurabk": "BuTMedienMstrBAProFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "600da1a7a5b25ada1cedb6953ad2b201aed97c89b60ac61b6c1bf06548c88471"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/butmedienmstrbaprofv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/butmedienmstrbaprofv/xml.zip"
+  },
+  "stand_datum": "2012-07-04",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-22-6-39 v. 4.7.2012 I 1467 (MedienBTMstrPrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Meister für Medienproduktion Bild und Ton oder Geprüfte Meisterin für Medienproduktion Bild und Ton – Bachelor Professional in Medienproduktion Bild und Ton",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-07-11",
+  "bjnr": "BJNR147900012",
+  "eli": null,
+  "gii_slug": "krfarbzg",
+  "ingested_at": "2026-04-17T15:23:51Z",
+  "jurabk": "KrFArbZG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5c489de66e691f9267ded828fed52a80a9fb779c664d18a583b38a212ecacf39"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/krfarbzg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/krfarbzg/xml.zip"
+  },
+  "stand_datum": "2017-05-16",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 G v. 16.5.2017 I 1214",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung der Arbeitszeit von selbständigen Kraftfahrern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

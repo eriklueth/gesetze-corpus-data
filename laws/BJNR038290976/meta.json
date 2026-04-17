@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-12-22",
+  "bjnr": "BJNR038290976",
+  "eli": null,
+  "gii_slug": "flul_rmb_chv",
+  "ingested_at": "2026-04-17T15:21:33Z",
+  "jurabk": "FluLärmBüchV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7793f114e7faa5e2906a41129d0c83c8844c31e35c8d69d40f0f37b2025fe0ba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flul_rmb_chv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flul_rmb_chv/xml.zip"
+  },
+  "stand_datum": "1991-10-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 9.10.1991 I 1976",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Büchel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

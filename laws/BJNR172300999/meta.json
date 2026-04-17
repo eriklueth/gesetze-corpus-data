@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-07-16",
+  "bjnr": "BJNR172300999",
+  "eli": null,
+  "gii_slug": "bkorgerl1999bek",
+  "ingested_at": "2026-04-17T15:18:35Z",
+  "jurabk": "BKOrgErl1999Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "73130982ae21c150e2636e5aaecf5173a85278d541a4742bc89447db0a053b3b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bkorgerl1999bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bkorgerl1999bek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung des Organisationserlasses des Bundeskanzlers",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

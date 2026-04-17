@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1991-12-20",
+  "bjnr": "BJNR023920991",
+  "eli": null,
+  "gii_slug": "stvzoausnv_40",
+  "ingested_at": "2026-04-17T15:29:07Z",
+  "jurabk": "StVZOAusnV 40",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a127cbc06490c587cdae8ffb644a11ea43437bba24237e6bb3af4dea08b4feee"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvzoausnv_40/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvzoausnv_40/xml.zip"
+  },
+  "stand_datum": "2000-03-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 Nr. 1 V v. 23.3.2000 I 310",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Vierzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

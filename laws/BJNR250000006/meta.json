@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-10-19",
+  "bjnr": "BJNR250000006",
+  "eli": null,
+  "gii_slug": "rvbunddiszrano",
+  "ingested_at": "2026-04-17T15:27:32Z",
+  "jurabk": "RVBundDiszRAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fb5ae700d125fc437cd6142811de6dbb14100e11665752e17d221e6d0cc29dd5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rvbunddiszrano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rvbunddiszrano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Deutschen Rentenversicherung Bund",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

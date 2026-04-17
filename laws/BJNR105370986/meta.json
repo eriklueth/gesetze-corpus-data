@@ -1,0 +1,30 @@
+{
+  "amtabk": "PassG",
+  "ausfertigung_datum": "1986-04-19",
+  "bjnr": "BJNR105370986",
+  "eli": null,
+  "gii_slug": "pa_g_1986",
+  "ingested_at": "2026-04-17T15:26:30Z",
+  "jurabk": "PaßG 1986",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "af70fe97c4e8e3ffe6e12bf77fab09ba6e35898d068036e38378706ea4d0f601"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pa_g_1986/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pa_g_1986/xml.zip"
+  },
+  "stand_datum": "2023-10-30",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 30.10.2023 I Nr. 291",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 G v. 27.10.2025 I Nr. 256",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Passgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

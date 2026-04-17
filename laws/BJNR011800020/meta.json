@@ -1,0 +1,30 @@
+{
+  "amtabk": "FZulBV",
+  "ausfertigung_datum": "2020-01-30",
+  "bjnr": "BJNR011800020",
+  "eli": null,
+  "gii_slug": "fzulbv",
+  "ingested_at": "2026-04-17T15:21:46Z",
+  "jurabk": "FZulBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0da66dc904620936fdfe295f504d1a6c0c6dff11d0b5accd36d2b85b5a9486d6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fzulbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fzulbv/xml.zip"
+  },
+  "stand_datum": "2020-08-19",
+  "standangabe": [
+    {
+      "kommentar": "Die V ist gem. Bek. v. 19.8.2020 I 1954 am 1.8.2020 in Kraft getreten",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 12.4.2024 I Nr. 122",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung von § 14 Absatz 1 des Forschungszulagengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-12-16",
+  "bjnr": "BJNR311300011",
+  "eli": null,
+  "gii_slug": "fev2010ausnv_2",
+  "ingested_at": "2026-04-17T15:21:18Z",
+  "jurabk": "FeV2010AusnV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "620c6d52935f363bb20c642c02ff4ef26fef3dc194a635f9d1ab1c523fd0b025"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fev2010ausnv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fev2010ausnv_2/xml.zip"
+  },
+  "stand_datum": "2017-06-01",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 11 G v. 1.6.2017 I 1354",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweite Verordnung über Ausnahmen von den Vorschriften der Fahrerlaubnis-Verordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-04-09",
+  "bjnr": "BJNR139720994",
+  "eli": null,
+  "gii_slug": "ostsumwsch_bk_1992",
+  "ingested_at": "2026-04-17T15:26:26Z",
+  "jurabk": "OstSUmwSchÜbk 1992",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "36b8aebc54712368c0dae93b204bae1ab91be3e0ce8f4dc02a89bf6e30b1a947"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ostsumwsch_bk_1992/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ostsumwsch_bk_1992/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen von 1992 über den Schutz der Meeresumwelt des Ostseegebiets",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

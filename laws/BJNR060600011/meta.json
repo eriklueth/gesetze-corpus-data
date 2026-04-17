@@ -1,0 +1,21 @@
+{
+  "amtabk": "PKHB 2011",
+  "ausfertigung_datum": "2011-04-07",
+  "bjnr": "BJNR060600011",
+  "eli": null,
+  "gii_slug": "pkhb_2011",
+  "ingested_at": "2026-04-17T15:26:49Z",
+  "jurabk": "PKHB 2011",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ce5c2826c07ebee65fd9490308267e4a60cf47a8a69b4919ee79ff821c741f5e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pkhb_2011/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pkhb_2011/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 115 der Zivilprozessordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

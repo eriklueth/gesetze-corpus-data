@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-10-28",
+  "bjnr": "BJNR209790988",
+  "eli": null,
+  "gii_slug": "unsorgvorrv_3",
+  "ingested_at": "2026-04-17T15:29:53Z",
+  "jurabk": "UNSOrgVorRV 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4e267103f646690d6585783cd4d5ebb824fe6941da52eecf535a72218baba4a7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unsorgvorrv_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unsorgvorrv_3/xml.zip"
+  },
+  "stand_datum": "1989-06-21",
+  "standangabe": [
+    {
+      "kommentar": "V in Kraft gem. Bek. v. 21.6.1989 II 559 mWv 3.3.1989",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Dritte Verordnung über die Gewährung von Vorrechten und Befreiungen an die Sonderorganisationen der Vereinten Nationen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

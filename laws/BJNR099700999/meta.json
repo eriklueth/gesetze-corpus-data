@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-05-19",
+  "bjnr": "BJNR099700999",
+  "eli": null,
+  "gii_slug": "fmontausbv",
+  "ingested_at": "2026-04-17T15:21:35Z",
+  "jurabk": "FMontAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "de9b0676813a7641de11417f6b16785582b21be8b20a60caf2c835ab7da37009"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fmontausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fmontausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Fassadenmonteur/zur Fassadenmonteurin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

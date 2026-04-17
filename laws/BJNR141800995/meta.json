@@ -1,0 +1,26 @@
+{
+  "amtabk": "WeinkMstrV",
+  "ausfertigung_datum": "1995-10-16",
+  "bjnr": "BJNR141800995",
+  "eli": null,
+  "gii_slug": "weinkmstrv",
+  "ingested_at": "2026-04-17T15:30:28Z",
+  "jurabk": "WeinkMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d07edfe57d980abe36bcad7ab720b834c56b06c0bfd1af97b128335a719976ac"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/weinkmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/weinkmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 21 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Weinküfer-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

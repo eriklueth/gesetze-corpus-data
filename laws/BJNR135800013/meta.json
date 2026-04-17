@@ -1,0 +1,21 @@
+{
+  "amtabk": "OrthAusbVO",
+  "ausfertigung_datum": "2013-05-15",
+  "bjnr": "BJNR135800013",
+  "eli": null,
+  "gii_slug": "orthausbvo",
+  "ingested_at": "2026-04-17T15:26:23Z",
+  "jurabk": "OrthAusbVO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0b6a3e38790ebc4b43fde723ef6a8cb33158091cbc3018b08e8e0d92a8fad03e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/orthausbvo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/orthausbvo/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Orthopädietechnik-Mechaniker und zur Orthopädietechnik-Mechanikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

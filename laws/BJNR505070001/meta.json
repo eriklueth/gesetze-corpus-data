@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2001-02-23",
+  "bjnr": "BJNR505070001",
+  "eli": null,
+  "gii_slug": "luftvodv_203",
+  "ingested_at": "2026-04-17T15:24:25Z",
+  "jurabk": "LuftVODV 203",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "11971c67f530140d2b355cf62f4fca2329f020190200f7c1a97d8e8279444a95"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_203/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_203/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweihundertdritte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Augsburg)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

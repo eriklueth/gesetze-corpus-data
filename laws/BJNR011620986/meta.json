@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-07-25",
+  "bjnr": "BJNR011620986",
+  "eli": null,
+  "gii_slug": "intkonnbek",
+  "ingested_at": "2026-04-17T15:23:02Z",
+  "jurabk": "IntKonnBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "72a9ab725744eb21ffc5822071cb7295c0e0ba50801337ff0e2bff806add4301"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intkonnbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intkonnbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

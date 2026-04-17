@@ -1,0 +1,26 @@
+{
+  "amtabk": "BevStatG",
+  "ausfertigung_datum": "2013-04-20",
+  "bjnr": "BJNR082600013",
+  "eli": null,
+  "gii_slug": "bevstatg_2013",
+  "ingested_at": "2026-04-17T15:18:14Z",
+  "jurabk": "BevStatG 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "321825d50dd6705cc1a89478c52a173cf9326424ccdfeb0d3a94f62d99d40f4b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bevstatg_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bevstatg_2013/xml.zip"
+  },
+  "stand_datum": "2023-07-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 17.7.2023 I Nr. 190",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Statistik der Bevölkerungsbewegung und die Fortschreibung des Bevölkerungsstandes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

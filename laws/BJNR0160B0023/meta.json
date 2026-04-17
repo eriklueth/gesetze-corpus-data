@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-01-24",
+  "bjnr": "BJNR0160B0023",
+  "eli": null,
+  "gii_slug": "tvmindestlohnp_da_6",
+  "ingested_at": "2026-04-17T15:29:36Z",
+  "jurabk": "TVMindestlohnPäda 6",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d7867b1bac5bb7ffc4cd13553eca37d9eeb3ad589b8219913fb677454f07fd33"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tvmindestlohnp_da_6/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tvmindestlohnp_da_6/xml.zip"
+  },
+  "stand_datum": "2023-01-24",
+  "standangabe": [
+    {
+      "kommentar": "Die zugehörige V v. 24.1.2023 I Nr. 22 (AusbDienstLArbbV 6) tritt gem. § 2 dieser V am 31.12.2026 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Rechtsnormen des Tarifvertrags Nr. 7 zur Regelung des Mindestlohns für pädagogisches Personal vom 27. Juli 2022",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

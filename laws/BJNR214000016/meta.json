@@ -1,0 +1,30 @@
+{
+  "amtabk": "FinSV",
+  "ausfertigung_datum": "2016-09-05",
+  "bjnr": "BJNR214000016",
+  "eli": null,
+  "gii_slug": "finsv",
+  "ingested_at": "2026-04-17T15:21:22Z",
+  "jurabk": "FinSV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e055fc809bdbe431f8ecb5da9d1a4d6ab414416a46fdf7fdc2796ac356c55ecd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/finsv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/finsv/xml.zip"
+  },
+  "stand_datum": "2023-10-08",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 27 G v. 8.10.2023 I Nr. 272",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "§§ 11 bis 20 treten gem. § 27 Abs. 1 Satz 1 dieser V am 17.9.2016 in Kraft",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Verbraucherschlichtungsstellen im Finanzbereich nach § 14 des Unterlassungsklagengesetzes und ihr Verfahren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "FStrPrivFinBestV",
+  "ausfertigung_datum": "2005-06-20",
+  "bjnr": "BJNR168600005",
+  "eli": null,
+  "gii_slug": "fstrprivfinbestv_2005",
+  "ingested_at": "2026-04-17T15:21:45Z",
+  "jurabk": "FStrPrivFinBestV 2005",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "529af9a24fd39321f160f1de075f2f15f832024d098ba187c9937ef1b1a64284"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fstrprivfinbestv_2005/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fstrprivfinbestv_2005/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Bestimmung von privatfinanzierten Abschnitten von Bundesfernstraßen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

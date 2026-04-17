@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1982-06-23",
+  "bjnr": "BJNR007330982",
+  "eli": null,
+  "gii_slug": "seescha_v",
+  "ingested_at": "2026-04-17T15:27:59Z",
+  "jurabk": "SeeSchAÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "45f9a7820b7688aca276523bcd4197e5ed2e8d53077041be2e8bbfa6795cd0c5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seescha_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seescha_v/xml.zip"
+  },
+  "stand_datum": "2005-06-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 120 G v. 21.6.2005 I 1818",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Übertragung von Aufgaben auf dem Gebiet der Seeschiffahrt zur Ausübung auf die Bundespolizei und die Zollverwaltung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-08-04",
+  "bjnr": "BJNR004880951",
+  "eli": null,
+  "gii_slug": "kbag",
+  "ingested_at": "2026-04-17T15:23:26Z",
+  "jurabk": "KBAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "01b4f5faaa9fcd2a3811b7fd20c3535ba1af0eabd3b4222c489a7b318e2d8e46"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kbag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kbag/xml.zip"
+  },
+  "stand_datum": "2023-11-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 21.11.2023 I Nr. 315",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Errichtung eines Kraftfahrt-Bundesamtes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

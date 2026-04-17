@@ -1,0 +1,26 @@
+{
+  "amtabk": "KVKG",
+  "ausfertigung_datum": "1977-06-27",
+  "bjnr": "BJNR010699977",
+  "eli": null,
+  "gii_slug": "kvkg",
+  "ingested_at": "2026-04-17T15:24:01Z",
+  "jurabk": "KVKG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1141e035fc01e845ce3619519258025d80c4f7d50e724294f517414349d919ed"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kvkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kvkg/xml.zip"
+  },
+  "stand_datum": "2012-04-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 13 Abs. 8 G v. 12.4.2012 I 579",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Dämpfung der Ausgabenentwicklung und zur Strukturverbesserung in der gesetzlichen Krankenversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

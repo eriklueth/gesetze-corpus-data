@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1966-12-23",
+  "bjnr": "BJNR006979966",
+  "eli": null,
+  "gii_slug": "finplg",
+  "ingested_at": "2026-04-17T15:21:22Z",
+  "jurabk": "FinPlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "70224b89d64f0f87b92be9c1be5db576050abf9d7b053484ceb067d6498e70c0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/finplg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/finplg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert Art. 244 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Erstes Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

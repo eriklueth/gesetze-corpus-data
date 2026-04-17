@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-12-22",
+  "bjnr": "BJNR240000014",
+  "eli": null,
+  "gii_slug": "albeitrbek_2015",
+  "ingested_at": "2026-04-17T15:16:55Z",
+  "jurabk": "ALBeitrBek 2015",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e99e2874c03f29b4b4eaf62212fae9cbdc2556f6b07f9fa4e448e0be7092a9d4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/albeitrbek_2015/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/albeitrbek_2015/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2015",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

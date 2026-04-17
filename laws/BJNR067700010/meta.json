@@ -1,0 +1,21 @@
+{
+  "amtabk": "BüchsenmAusbV",
+  "ausfertigung_datum": "2010-05-26",
+  "bjnr": "BJNR067700010",
+  "eli": null,
+  "gii_slug": "b_chsenmausbv_2010",
+  "ingested_at": "2026-04-17T15:19:26Z",
+  "jurabk": "BüchsenmAusbV 2010",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "891785a38863b0638c4ef9e365d272bbec4d576afbcd8228270b3fa12d9e9764"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/b_chsenmausbv_2010/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/b_chsenmausbv_2010/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

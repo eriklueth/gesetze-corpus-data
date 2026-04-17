@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZensVorbG 2011",
+  "ausfertigung_datum": "2007-12-08",
+  "bjnr": "BJNR280800007",
+  "eli": null,
+  "gii_slug": "zensvorbg_2011",
+  "ingested_at": "2026-04-17T15:31:17Z",
+  "jurabk": "ZensVorbG 2011",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3fd9f7a392489658d030f000ee52f69f9be9d50a5d20ae98087488769b72a321"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zensvorbg_2011/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zensvorbg_2011/xml.zip"
+  },
+  "stand_datum": "2009-07-08",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 G v. 8.7.2009 I 1781",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer Gebäude- und Wohnungszählung 2011",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

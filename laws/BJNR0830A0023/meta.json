@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-03-30",
+  "bjnr": "BJNR0830A0023",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2023-03-30_1",
+  "ingested_at": "2026-04-17T15:25:33Z",
+  "jurabk": "Münz20EuroBek 2023-03-30/1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "88faeab3db750680a9829717e5f9624d2704ede6931d2f3e0d3170dfca540f60"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2023-03-30_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2023-03-30_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Hans im Glück“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

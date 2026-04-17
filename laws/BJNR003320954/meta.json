@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1954-11-10",
+  "bjnr": "BJNR003320954",
+  "eli": null,
+  "gii_slug": "wzg_35phibek",
+  "ingested_at": "2026-04-17T15:31:06Z",
+  "jurabk": "WZG§35PHIBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9e3a9f7ed2d63134e85d8e1c57f761636b33beeb330f3ae002146c73743d10fb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35phibek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35phibek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

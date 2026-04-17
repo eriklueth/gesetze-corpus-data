@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-05-21",
+  "bjnr": "BJNR094000008",
+  "eli": null,
+  "gii_slug": "schsiservausbv",
+  "ingested_at": "2026-04-17T15:27:50Z",
+  "jurabk": "SchSiServAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f08c92384a87673b4b90958f18f548b582f27c2b0747808b93ead6f73234ceb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schsiservausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schsiservausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zur Servicekraft für Schutz und Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

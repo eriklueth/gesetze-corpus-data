@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-09-18",
+  "bjnr": "BJNR212390990",
+  "eli": null,
+  "gii_slug": "einigvtrvbg",
+  "ingested_at": "2026-04-17T15:20:36Z",
+  "jurabk": "EinigVtrVbg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f421c980031bafc82d30e57f7c723f86ae4932de29158f27aaadc2bba52cbbb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/einigvtrvbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/einigvtrvbg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vereinbarung zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Durchführung und Auslegung des am 31. August 1990 in Berlin unterzeichneten Vertrages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands - Einigungsvertrag -",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

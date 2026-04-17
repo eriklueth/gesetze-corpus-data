@@ -1,0 +1,26 @@
+{
+  "amtabk": "ERVV",
+  "ausfertigung_datum": "2017-11-24",
+  "bjnr": "BJNR380300017",
+  "eli": null,
+  "gii_slug": "ervv",
+  "ingested_at": "2026-04-17T15:20:47Z",
+  "jurabk": "ERVV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "82357d2b602414eb91ad7b2aa625f0debe9e1eb3538d124d6329ca13c445a19f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ervv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ervv/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 349",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

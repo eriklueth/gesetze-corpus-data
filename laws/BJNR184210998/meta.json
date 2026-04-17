@@ -1,0 +1,30 @@
+{
+  "amtabk": "AnlEntG",
+  "ausfertigung_datum": "1998-07-16",
+  "bjnr": "BJNR184210998",
+  "eli": null,
+  "gii_slug": "eaeg",
+  "ingested_at": "2026-04-17T15:17:00Z",
+  "jurabk": "EAEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "823aa02e6cf2accb2f5366ffb4290aea0d93fc83ae5e57dd89d023f749668d2f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eaeg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eaeg/xml.zip"
+  },
+  "stand_datum": "2024-12-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 18 G v. 27.12.2024 I Nr. 438",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 8 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Anlegerentschädigungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

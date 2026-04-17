@@ -1,0 +1,26 @@
+{
+  "amtabk": "SaRegG",
+  "ausfertigung_datum": "2017-07-17",
+  "bjnr": "BJNR251310017",
+  "eli": null,
+  "gii_slug": "saregg",
+  "ingested_at": "2026-04-17T15:27:38Z",
+  "jurabk": "SaRegG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8505bdc2220901454fd6ddc0faa41ed5bc93b594f209c329fe86aac87660576d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/saregg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/saregg/xml.zip"
+  },
+  "stand_datum": "2020-04-28",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 16a Abs. 1 G v. 28.4.2020 I 960",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Errichtung eines Samenspenderregisters und zur Regelung der Auskunftserteilung über den Spender nach heterologer Verwendung von Samen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

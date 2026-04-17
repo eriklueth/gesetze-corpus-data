@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-03-19",
+  "bjnr": "BJNR040000999",
+  "eli": null,
+  "gii_slug": "bgsbdodano_1999",
+  "ingested_at": "2026-04-17T15:18:19Z",
+  "jurabk": "BGSBDODAnO 1999",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b57ad6a39248436e7175c5c692fce948632e209c45db6dbee356d0939c47fc5f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgsbdodano_1999/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgsbdodano_1999/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Durchführung der Bundesdisziplinarordnung für den Bundesgrenzschutz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

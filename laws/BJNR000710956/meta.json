@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-02-15",
+  "bjnr": "BJNR000710956",
+  "eli": null,
+  "gii_slug": "e_gv",
+  "ingested_at": "2026-04-17T15:20:56Z",
+  "jurabk": "EÜGV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ee3957776540aee4cb98b0b43f4c04a90f4e26896c4347d883b825f1801cf0de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/e_gv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/e_gv/xml.zip"
+  },
+  "stand_datum": "1971-05-10",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 1 V v. 10.5.1971 I 450",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Eignungsübungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

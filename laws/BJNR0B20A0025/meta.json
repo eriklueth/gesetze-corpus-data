@@ -1,0 +1,26 @@
+{
+  "amtabk": "KFV",
+  "ausfertigung_datum": "2025-07-22",
+  "bjnr": "BJNR0B20A0025",
+  "eli": null,
+  "gii_slug": "kfv",
+  "ingested_at": "2026-04-17T15:23:29Z",
+  "jurabk": "KFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e7f2ff34fd40ad1bd4e96e9204961ec3ab1b5bef5f715d9697d6f0da986224a4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfv/xml.zip"
+  },
+  "stand_datum": "2028-07-26",
+  "standangabe": [
+    {
+      "kommentar": "V aufgeh. durch § 8 dieser V mWv 26.7.2028",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zur vorübergehenden Abweichung von der Binnenschiffspersonalverordnung für kleine Fahrgastschiffe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

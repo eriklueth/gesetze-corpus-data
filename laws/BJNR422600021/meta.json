@@ -1,0 +1,21 @@
+{
+  "amtabk": "HNSPflichtVersBeschV",
+  "ausfertigung_datum": "2021-09-07",
+  "bjnr": "BJNR422600021",
+  "eli": null,
+  "gii_slug": "hnspflichtversbeschv",
+  "ingested_at": "2026-04-17T15:22:44Z",
+  "jurabk": "HNSPflichtVersBeschV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8cf32f9d2a3003fad2bc45a984b21d565e5dac9e8a6a647b4a22a6b787f57590"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hnspflichtversbeschv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hnspflichtversbeschv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Ausstellung von Pflichtversicherungsbescheinigungen nach dem HNS-Gesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

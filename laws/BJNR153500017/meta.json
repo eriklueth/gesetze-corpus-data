@@ -1,0 +1,30 @@
+{
+  "amtabk": "KlaCembAusbV",
+  "ausfertigung_datum": "2017-06-08",
+  "bjnr": "BJNR153500017",
+  "eli": null,
+  "gii_slug": "klacembausbv_2017",
+  "ingested_at": "2026-04-17T15:23:40Z",
+  "jurabk": "KlaCembAusbV 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2078722d4ffc2ed75c1b417d8a06fbe5fa05d8c00857425408da2a31030d6926"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/klacembausbv_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/klacembausbv_2017/xml.zip"
+  },
+  "stand_datum": "2017-12-29",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 29.12.2017; 2018 I 58",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Ersetzt V 806-21-1-99 v. 7.12.1982 I 1647 (KlaCembAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Klavier- und Cembalobauer und zur Klavier- und Cembalobauerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

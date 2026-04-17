@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-09-12",
+  "bjnr": "BJNR371620994",
+  "eli": null,
+  "gii_slug": "streitkrnotw_1994",
+  "ingested_at": "2026-04-17T15:28:57Z",
+  "jurabk": "StreitkrNotW 1994",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "37cc176a29b7c36c43a890e1222e7180a14055cc264f3e16f0a23b1a2e87f062"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/streitkrnotw_1994/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/streitkrnotw_1994/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Notenwechsel vom 12. September 1994 zwischen dem Königreich Belgien, der Bundesrepublik Deutschland, der Französischen Republik, Kanada, dem Königreich der Niederlande, dem Königreich Großbritannien und Nordirland und den Vereinigten Staaten von Amerika zur Änderung des Notenwechsels vom 25. September 1990 zum NATO-Truppenstatut",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

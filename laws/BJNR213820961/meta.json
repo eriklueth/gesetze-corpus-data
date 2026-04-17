@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-08-03",
+  "bjnr": "BJNR213820961",
+  "eli": null,
+  "gii_slug": "streitabk_usa",
+  "ingested_at": "2026-04-17T15:28:57Z",
+  "jurabk": "StreitAbk USA",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0db5346e3a7e371406139d13605596441fabe689b49d43dfc4d7118a9d2efa00"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/streitabk_usa/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/streitabk_usa/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über die Beilegung von Streitigkeiten bei Direktbeschaffungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

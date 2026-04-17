@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-05-06",
+  "bjnr": "BJNR057500014",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2014-05-06",
+  "ingested_at": "2026-04-17T15:25:22Z",
+  "jurabk": "Münz10EuroBek 2014-05-06",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "657b361df4b789e640d040eeed455fdae945962b89a76998be60e69fb47b6dc3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2014-05-06/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2014-05-06/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „250. Geburtstag Johann Gottfried Schadow“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

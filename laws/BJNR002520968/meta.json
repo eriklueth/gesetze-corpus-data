@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1968-03-29",
+  "bjnr": "BJNR002520968",
+  "eli": null,
+  "gii_slug": "bpr_samtsbez_bano",
+  "ingested_at": "2026-04-17T15:19:00Z",
+  "jurabk": "BPräsAmtsbezÜbAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7b085c351745c74a26139a1d0a22bd5904f1fb911552616eedfb5902e62ccf0b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_samtsbez_bano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_samtsbez_bano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Übertragung der Befugnis zur Festsetzung von Amtsbezeichnungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,378 @@
+{
+  "bjnr": "BJNR258000021",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Datenübermittlung der Zollbehörden",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Anmeldung von Zolllagerverkehren",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Veredelungsverkehre",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Befreiung der Anmeldung von Waren zu oder nach der vorübergehenden Verwendung",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Anmeldepflichten",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Verfahren bei statistischen Anmeldungen/Anmeldeverfahren",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Berichtigungen",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Warenbezeichnung und Warennummer",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Menge der Ware",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Rechnungsbetrag",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Statistischer Wert",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Lieferbedingungen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Ursprungsland",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Versendungsland",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Bestimmungsland",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Ursprungsbundesland, Bestimmungsbundesland",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Art des Geschäfts",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 2 Nähere Bestimmung zu den Erhebungsmerkmalen"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Teilsendungen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 3 Besondere Waren und Warenbewegungen"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Schiffe, Luft- und Raumfahrzeuge",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 3 Besondere Waren und Warenbewegungen"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Schiffs- und Luftfahrzeugbedarf",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 3 Besondere Waren und Warenbewegungen"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Waren an und von Einrichtungen auf hoher See",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 3 Besondere Waren und Warenbewegungen"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Meeresprodukte",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 3 Besondere Waren und Warenbewegungen"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Strom und Erdgas",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 3 Besondere Waren und Warenbewegungen"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Warenverkehre mit exterritorialen Einheiten",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 3 Besondere Waren und Warenbewegungen"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Warenverkehre mit Abfällen",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 4 Vereinfachungen und Befreiungen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Vereinfachte Anmeldungen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 4 Vereinfachungen und Befreiungen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Verwendung von genehmigungspflichtigen Sammelwarennummern",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 4 Vereinfachungen und Befreiungen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Vereinfachte Anmeldung von Fabrikationsanlagen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 4 Vereinfachungen und Befreiungen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Vereinfachte Anmeldung für Zusammenstellungen von Waren",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 4 Vereinfachungen und Befreiungen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Genehmigungsfreie Vereinfachungen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 4 Vereinfachungen und Befreiungen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Befreiungen",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 5 Datenübermittlung"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Datenübermittlung",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 5 Datenübermittlung"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 5 Datenübermittlung"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "Kapitel 99 des Warenverzeichnisses Zusammenstellung verschiedener Waren und besondere Warenbewegungen",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 5 Datenübermittlung"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "Verzeichnis der Arten des Geschäfts",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 5 Datenübermittlung"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "Verzeichnis der Ursprungs- bzw. Bestimmungsregionen",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anmeldeverfahren",
+        "Abschnitt 5 Datenübermittlung"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "Befreiungsliste",
+      "number": "Anlage 4",
+      "type": "annex"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-04-23",
+  "bjnr": "BJNR612810012",
+  "eli": null,
+  "gii_slug": "luftvodv_248",
+  "ingested_at": "2026-04-17T15:24:32Z",
+  "jurabk": "LuftVODV 248",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6884a696f20ac39566f5db4f1ccbcd07b4d5c08243c60f2b42a32d8c5926e58e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_248/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_248/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweihundertachtundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Berlin Brandenburg)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

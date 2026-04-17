@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-06-20",
+  "bjnr": "BJNR201500959",
+  "eli": null,
+  "gii_slug": "uhansprausl_bk",
+  "ingested_at": "2026-04-17T15:29:43Z",
+  "jurabk": "UhAnsprAuslÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8380f8aaff0365f579040253ffd4244dd4ea450ad26f8f744496cbb99f9e3f74"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uhansprausl_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uhansprausl_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Geltendmachung von Unterhaltsansprüchen im Ausland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

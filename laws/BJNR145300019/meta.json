@@ -1,0 +1,26 @@
+{
+  "amtabk": "SeeUnterkunftsV",
+  "ausfertigung_datum": "2019-10-17",
+  "bjnr": "BJNR145300019",
+  "eli": null,
+  "gii_slug": "seeunterkunftsv_2019",
+  "ingested_at": "2026-04-17T15:28:01Z",
+  "jurabk": "SeeUnterkunftsV 2019",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6a30ab02c8388ff6818dab4376e38daba634c9035de73730557aace0752ee15f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seeunterkunftsv_2019/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seeunterkunftsv_2019/xml.zip"
+  },
+  "stand_datum": "2013-07-25",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 9513-38-3 v. 25.7.2013 BAnz AT 30.07.2013 V1 (SeeUnterkunftsV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Unterkünfte und Freizeiteinrichtungen der Besatzungsmitglieder an Bord von Kauffahrteischiffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

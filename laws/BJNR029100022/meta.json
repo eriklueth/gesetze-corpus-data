@@ -1,0 +1,26 @@
+{
+  "amtabk": "VersFinKflAusbV",
+  "ausfertigung_datum": "2022-03-02",
+  "bjnr": "BJNR029100022",
+  "eli": null,
+  "gii_slug": "versfinkflausbv",
+  "ingested_at": "2026-04-17T15:30:08Z",
+  "jurabk": "VersFinKflAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7b9560f89ed8fc1b4e4b78f278c49f2e1cff7d3b55c7bdbe4c8b01a9c653b6f2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/versfinkflausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/versfinkflausbv/xml.zip"
+  },
+  "stand_datum": "2006-05-17",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-22-1-24 v. 17.5.2006 I 1187 (VersFinKfAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzanlagen und zur Kauffrau für Versicherungen und Finanzanlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

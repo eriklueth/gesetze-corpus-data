@@ -1,0 +1,26 @@
+{
+  "amtabk": "FlugBelWertV",
+  "ausfertigung_datum": "2009-04-20",
+  "bjnr": "BJNR103600009",
+  "eli": null,
+  "gii_slug": "flugbelwertv",
+  "ingested_at": "2026-04-17T15:21:32Z",
+  "jurabk": "FlugBelWertV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fba1b3dfcd491336a18cf777fd8afe88257cb7f16d356f2c23450e159e299764"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flugbelwertv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flugbelwertv/xml.zip"
+  },
+  "stand_datum": "2022-10-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 7 V v. 4.10.2022 I 1614",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Ermittlung der Beleihungswerte von Flugzeugen nach § 26d Absatz 1 und 2 des Pfandbriefgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

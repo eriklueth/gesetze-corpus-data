@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-07-09",
+  "bjnr": "BJNR150700012",
+  "eli": null,
+  "gii_slug": "bbankg_36ae_v",
+  "ingested_at": "2026-04-17T15:17:44Z",
+  "jurabk": "BBankG§36aEÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0656c72c234238645e89fb78d5818bca6d9d5ddf95d4a1d0c9727ce2bf9a3428"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbankg_36ae_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbankg_36ae_v/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Übertragung der Verordnungsermächtigung nach § 36a des Gesetzes über die Deutsche Bundesbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

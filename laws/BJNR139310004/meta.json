@@ -1,0 +1,26 @@
+{
+  "amtabk": "WODrittelbG",
+  "ausfertigung_datum": "2004-06-23",
+  "bjnr": "BJNR139310004",
+  "eli": null,
+  "gii_slug": "wodrittelbg",
+  "ingested_at": "2026-04-17T15:30:38Z",
+  "jurabk": "WODrittelbG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "465d1ace305d4961178e037f9036436e30f5c8476ad094af7f726b034ba1df18"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wodrittelbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wodrittelbg/xml.zip"
+  },
+  "stand_datum": "2021-08-07",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 22 G v. 7.8.2021 I 3311",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung zur Wahl der Aufsichtsratsmitglieder der Arbeitnehmer nach dem Drittelbeteiligungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

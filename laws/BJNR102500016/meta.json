@@ -1,0 +1,26 @@
+{
+  "amtabk": "SHKAMAusbV",
+  "ausfertigung_datum": "2016-04-28",
+  "bjnr": "BJNR102500016",
+  "eli": null,
+  "gii_slug": "shkamausbv",
+  "ingested_at": "2026-04-17T15:28:14Z",
+  "jurabk": "SHKAMAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d1855cd524eea0a180e6f1339a94e0123eb9cee06f831cf4e5c8211b609c0a4f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/shkamausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/shkamausbv/xml.zip"
+  },
+  "stand_datum": "2003-06-24",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-1-305 v. 24.6.2003 I 1012, 1439 (SHKAnlMechAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik und zur Anlagenmechanikerin für Sanitär-, Heizungs- und Klimatechnik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "WoGenVermG",
+  "ausfertigung_datum": "1993-06-23",
+  "bjnr": "BJNR098900993",
+  "eli": null,
+  "gii_slug": "wgvg",
+  "ingested_at": "2026-04-17T15:30:38Z",
+  "jurabk": "WGVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "451ac744af706fd3887d419213d17a5c990820d8900feed0844b4fc73feeddf8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wgvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wgvg/xml.zip"
+  },
+  "stand_datum": "1994-06-26",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 26.6.1994 I 1437",
+      "typ": "Neuf"
+    }
+  ],
+  "title": "Gesetz zur Regelung vermögensrechtlicher Angelegenheiten der Wohnungsgenossenschaften im Beitrittsgebiet",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

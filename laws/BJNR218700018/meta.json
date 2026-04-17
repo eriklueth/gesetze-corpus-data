@@ -1,0 +1,26 @@
+{
+  "amtabk": "NiSV",
+  "ausfertigung_datum": "2018-11-29",
+  "bjnr": "BJNR218700018",
+  "eli": null,
+  "gii_slug": "nisv",
+  "ingested_at": "2026-04-17T15:26:01Z",
+  "jurabk": "NiSV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5968cce701ac983c2018bef938587459393525e325ae090a78bbaf5c341c6199"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nisv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nisv/xml.zip"
+  },
+  "stand_datum": "2023-06-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 12.6.2023 I Nr. 149",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

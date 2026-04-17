@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-06-15",
+  "bjnr": "BJNR207050956",
+  "eli": null,
+  "gii_slug": "rheinlotso",
+  "ingested_at": "2026-04-17T15:27:17Z",
+  "jurabk": "RheinLotsO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b808ffc331fb6478e6880a191803d919754eba3b9710addf90ec8ac439c41978"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rheinlotso/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rheinlotso/xml.zip"
+  },
+  "stand_datum": "1968-08-27",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 V v. 27.8.1968 II 813",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen (Anlage 1 zu der Verordnung zur Einführung der Lotsenordnung für den Oberrhein)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

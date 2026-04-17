@@ -1,0 +1,34 @@
+{
+  "amtabk": "ProdSG",
+  "ausfertigung_datum": "2021-07-27",
+  "bjnr": "BJNR314700021",
+  "eli": null,
+  "gii_slug": "prodsg_2021",
+  "ingested_at": "2026-04-17T15:27:00Z",
+  "jurabk": "ProdSG 2021",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "93aa5c257e6a91701f4bf0693739a1d0eb149844d22d8f1f41827206675b3cd2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/prodsg_2021/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/prodsg_2021/xml.zip"
+  },
+  "stand_datum": "2021-07-27",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 G v. 27.7.2021 I 3146",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 G v. 3.2.2026 I Nr. 29 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Ersetzt V 8053-8 v. 8.11.2011 I 2178, 2179; 2012 I 131 (ProdSG 2011)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über die Bereitstellung von Produkten auf dem Markt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

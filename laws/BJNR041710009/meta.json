@@ -1,0 +1,26 @@
+{
+  "amtabk": "ITFG",
+  "ausfertigung_datum": "2009-03-02",
+  "bjnr": "BJNR041710009",
+  "eli": null,
+  "gii_slug": "itfg",
+  "ingested_at": "2026-04-17T15:23:14Z",
+  "jurabk": "ITFG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2f39d7506e66df9e3416581531a8ad3662ab1df55365a65b8fef04ae4d53f02c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/itfg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/itfg/xml.zip"
+  },
+  "stand_datum": "2025-09-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 30.9.2025 I Nr. 231",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Errichtung eines Sondervermögens „Investitions- und Tilgungsfonds“",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

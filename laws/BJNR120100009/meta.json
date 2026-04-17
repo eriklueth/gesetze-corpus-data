@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-05-28",
+  "bjnr": "BJNR120100009",
+  "eli": null,
+  "gii_slug": "indelekausbv",
+  "ingested_at": "2026-04-17T15:22:57Z",
+  "jurabk": "IndElekAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4f3a23abf6540e4bde7d3c47a5a85cc62dc5228ac75560b9eb18c14c3ce46e53"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/indelekausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/indelekausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Industrieelektriker/zur Industrieelektrikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

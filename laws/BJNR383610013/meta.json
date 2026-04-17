@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-10-19",
+  "bjnr": "BJNR383610013",
+  "eli": null,
+  "gii_slug": "uvbberg",
+  "ingested_at": "2026-04-17T15:29:57Z",
+  "jurabk": "UVBBErG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3136f698497641443396b9a9b2019c47039c7d8592ed934078a351f55c02b4c7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uvbberg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uvbberg/xml.zip"
+  },
+  "stand_datum": "2024-12-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 18.12.2024 I Nr. 423",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Errichtung der Unfallversicherung Bund und Bahn",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

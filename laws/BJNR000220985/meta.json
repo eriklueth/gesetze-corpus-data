@@ -1,0 +1,26 @@
+{
+  "amtabk": "AMWarnV",
+  "ausfertigung_datum": "1984-12-21",
+  "bjnr": "BJNR000220985",
+  "eli": null,
+  "gii_slug": "amwarnv",
+  "ingested_at": "2026-04-17T15:17:00Z",
+  "jurabk": "AMWarnV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5b6f19350e6d010495f422a8f6db465b10f4bb802b34ae4291694ed794cd668a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/amwarnv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/amwarnv/xml.zip"
+  },
+  "stand_datum": "2022-04-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 12.4.2022 I 681",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Arzneimittel-Warnhinweisverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

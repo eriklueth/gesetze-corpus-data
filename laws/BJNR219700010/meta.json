@@ -1,0 +1,26 @@
+{
+  "amtabk": "StipV",
+  "ausfertigung_datum": "2010-12-20",
+  "bjnr": "BJNR219700010",
+  "eli": null,
+  "gii_slug": "stipgdv",
+  "ingested_at": "2026-04-17T15:28:56Z",
+  "jurabk": "StipGDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9c057a11367d156951585deb1aa223dc2f5289b34adbc3506bf36732658fbafb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stipgdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stipgdv/xml.zip"
+  },
+  "stand_datum": "2011-11-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 V v. 29.11.2011 I 2450",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Stipendienprogramm-Gesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

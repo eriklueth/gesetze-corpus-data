@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-11-01",
+  "bjnr": "BJNR163110996",
+  "eli": null,
+  "gii_slug": "beitrentlkrg",
+  "ingested_at": "2026-04-17T15:18:05Z",
+  "jurabk": "BeitrEntlKrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "152aa8cfda1ba4cf3bd7a8a910c1c040355a1569fa9468009b54d7d3c6bc8f9b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/beitrentlkrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/beitrentlkrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Beitragsentlastung der gesetzlichen Krankenversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

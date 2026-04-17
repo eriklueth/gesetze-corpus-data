@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-05-05",
+  "bjnr": "BJNR086700999",
+  "eli": null,
+  "gii_slug": "insokostv",
+  "ingested_at": "2026-04-17T15:23:00Z",
+  "jurabk": "InsoKostV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "161437f4dbfe6be64410d4973bb3e8b05e33514d740cca7bc73551234b3aa3f1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/insokostv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/insokostv/xml.zip"
+  },
+  "stand_datum": "2011-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 43 G v. 20.12.2011 I 2854",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Pauschalierung der sonstigen Kosten für die Erbringung von Insolvenzgeld",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1949-08-12",
+  "bjnr": "BJNR207830954",
+  "eli": null,
+  "gii_slug": "lstrkrabk_genf",
+  "ingested_at": "2026-04-17T15:24:09Z",
+  "jurabk": "LStrkrAbk Genf",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "81afa07b5dedff5ad1de1ec56404bdd4a2aadfe79e0fd3fc16891460707aa35c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lstrkrabk_genf/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lstrkrabk_genf/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "I. Genfer Abkommen vom 12. August 1949 zur Verbesserung des Loses der Verwundeten und Kranken der Streitkräfte im Felde",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-03-30",
+  "bjnr": "BJNR055200011",
+  "eli": null,
+  "gii_slug": "bkwid_vtrbrkguaano",
+  "ingested_at": "2026-04-17T15:18:33Z",
+  "jurabk": "BKWid/VtrBRKGuaAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ac5ba52547d12defa71f97316b6d42fd16527f93bd160b935e8d4d7f12cd75c2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bkwid_vtrbrkguaano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bkwid_vtrbrkguaano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundeskanzleramtes in Angelegenheiten nach dem Bundesreisekostengesetz und der Auslandsreisekostenverordnung einschließlich der hierzu ergangenen Verwaltungsvorschriften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "InhKontrollV",
+  "ausfertigung_datum": "2009-03-20",
+  "bjnr": "BJNR056210009",
+  "eli": null,
+  "gii_slug": "inhkontrollv",
+  "ingested_at": "2026-04-17T15:23:01Z",
+  "jurabk": "InhKontrollV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5209a92cfca35414c234e7715ff7a9622825e144e2621df57c4e65bb6c692afe"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/inhkontrollv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/inhkontrollv/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 39 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Anzeigen nach § 2c des Kreditwesengesetzes und § 17 des Versicherungsaufsichtsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

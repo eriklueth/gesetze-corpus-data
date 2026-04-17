@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-11-12",
+  "bjnr": "BJNR186800998",
+  "eli": null,
+  "gii_slug": "gr_ndstvtr2_nd_nw",
+  "ingested_at": "2026-04-17T15:22:28Z",
+  "jurabk": "GrÄndStVtr2 ND/NW",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f6004fa7ae3ae5941e40118e3b1df637e2a1e9cd68ff1127edad89d8a33ecdb8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gr_ndstvtr2_nd_nw/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gr_ndstvtr2_nd_nw/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweiter Staatsvertrag zwischen den Ländern Niedersachsen und Nordrhein-Westfalen über Änderungen der gemeinsamen Landesgrenze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

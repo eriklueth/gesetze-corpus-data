@@ -1,0 +1,30 @@
+{
+  "amtabk": "BSIG",
+  "ausfertigung_datum": "2025-12-02",
+  "bjnr": "BJNR12D0B0025",
+  "eli": null,
+  "gii_slug": "bsig_2025",
+  "ingested_at": "2026-04-17T15:19:15Z",
+  "jurabk": "BSIG 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9daf9574bfd6f8f0bec491799011a20d94d6529e6bc805b9a32a50c607ec6913"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bsig_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bsig_2025/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 4 G v. 11.3.2026 I Nr. 66",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt G 206-2 v. 14.8.2009 I 2821 (BSIG 2009)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit in der Informationstechnik von Einrichtungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

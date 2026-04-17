@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-01-22",
+  "bjnr": "BJNR200650975",
+  "eli": null,
+  "gii_slug": "intschverm_bkg",
+  "ingested_at": "2026-04-17T15:23:07Z",
+  "jurabk": "IntSchVermÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b1e4adf3b5956fa2921a8bcdf37d27bda514cc93d2121ab7585ad96582cc2933"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intschverm_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intschverm_bkg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 566 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Internationalen Schiffsvermessungs-Übereinkommen vom 23. Juni 1969",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

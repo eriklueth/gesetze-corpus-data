@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-09-21",
+  "bjnr": "BJNR155200018",
+  "eli": null,
+  "gii_slug": "binschuo2018anh_ix",
+  "ingested_at": "2026-04-17T15:18:26Z",
+  "jurabk": "BinSchUO2018Anh IX",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "66ba52aa13a8429952fb9cc1ae5ff60ee696eda1a64f88c18783b4d0ee144b67"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschuo2018anh_ix/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschuo2018anh_ix/xml.zip"
+  },
+  "stand_datum": "2025-10-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 Nr. 18 V v. 14.10.2025 I Nr. 242",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Für die Beförderung von mehr als 12 bis zu höchstens 35 Fahrgästen durch Fahrgastboote zugelassene Fahrtgebiete",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

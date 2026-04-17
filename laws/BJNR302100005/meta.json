@@ -1,0 +1,26 @@
+{
+  "amtabk": "StDAV",
+  "ausfertigung_datum": "2005-10-13",
+  "bjnr": "BJNR302100005",
+  "eli": null,
+  "gii_slug": "stdav",
+  "ingested_at": "2026-04-17T15:28:52Z",
+  "jurabk": "StDAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a3ffc1e8449b0c1fda24f5dd3c290ad18b567b0f971235f5d4bf60b8a0d08a8f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stdav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stdav/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 19 Abs. 7 G v. 22.12.2025 I Nr. 369",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den automatisierten Abruf von Steuerdaten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

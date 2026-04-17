@@ -1,0 +1,26 @@
+{
+  "amtabk": "BBergG",
+  "ausfertigung_datum": "1980-08-13",
+  "bjnr": "BJNR013100980",
+  "eli": null,
+  "gii_slug": "bbergg",
+  "ingested_at": "2026-04-17T15:17:44Z",
+  "jurabk": "BBergG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "19323c6d6480acf33abcc8113dc3c90b3586fdfb5f60095f2a65669e6c3744f5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbergg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbergg/xml.zip"
+  },
+  "stand_datum": "2026-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 29.3.2026 I Nr. 84",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundesberggesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

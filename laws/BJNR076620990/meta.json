@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-08-10",
+  "bjnr": "BJNR076620990",
+  "eli": null,
+  "gii_slug": "dbache1971prot1989g",
+  "ingested_at": "2026-04-17T15:19:46Z",
+  "jurabk": "DBACHE1971Prot1989G",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "422146598cead6c0285ddee864bc06dd9486fea317b45c8658f3905eb8746c35"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbache1971prot1989g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbache1971prot1989g/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Protokoll vom 17. Oktober 1989 zu dem Abkommen vom 11. August 1971 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen in der Fassung des Protokolls vom 30. November 1978",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

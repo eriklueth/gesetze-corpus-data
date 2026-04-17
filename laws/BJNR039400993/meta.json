@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-03-26",
+  "bjnr": "BJNR039400993",
+  "eli": null,
+  "gii_slug": "stvrausnv",
+  "ingested_at": "2026-04-17T15:29:04Z",
+  "jurabk": "StVRAusnV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7f7cb9c65208ddb65fd6e913471c66cfb09bd69d17bc6981ad0ada92667d0ff9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvrausnv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvrausnv/xml.zip"
+  },
+  "stand_datum": "1998-08-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 § 1 V v. 18.8.1998 I 2214",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

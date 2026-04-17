@@ -1,0 +1,26 @@
+{
+  "amtabk": "EGMRKHG",
+  "ausfertigung_datum": "2013-04-20",
+  "bjnr": "BJNR082910013",
+  "eli": null,
+  "gii_slug": "egmrkhg",
+  "ingested_at": "2026-04-17T15:20:29Z",
+  "jurabk": "EGMRKHG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8430048bb4c7ad6e5ad9a30b9a115d276e206f53906f1d7b6da60c080160a1fa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/egmrkhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/egmrkhg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 148 V v. 31.8.2015 I 1474",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Gesetz zur Einführung von Kostenhilfe für Drittbetroffene in Verfahren vor dem Europäischen Gerichtshof für Menschenrechte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

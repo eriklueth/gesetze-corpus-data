@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-06-23",
+  "bjnr": "BJNR103600015",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2015-06-23_2",
+  "ingested_at": "2026-04-17T15:25:22Z",
+  "jurabk": "Münz10EuroBek 2015-06-23/2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c50f9bad94c3938b3720c0b669caa8cd512ba1e1aa1b9218b6cb51940f4066c1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2015-06-23_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2015-06-23_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Dornröschen“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

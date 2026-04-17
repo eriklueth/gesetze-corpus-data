@@ -1,0 +1,26 @@
+{
+  "amtabk": "VgV",
+  "ausfertigung_datum": "2016-04-12",
+  "bjnr": "BJNR062410016",
+  "eli": null,
+  "gii_slug": "vgv_2016",
+  "ingested_at": "2026-04-17T15:30:12Z",
+  "jurabk": "VgV 2016",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "386594672e1733a01948ec3ba237af841f90c1e7195108f2d0d033939f613442"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vgv_2016/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vgv_2016/xml.zip"
+  },
+  "stand_datum": "2024-02-07",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 7.2.2024 I Nr. 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Vergabe öffentlicher Aufträge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

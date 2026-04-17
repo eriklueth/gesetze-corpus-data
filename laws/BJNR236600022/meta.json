@@ -1,0 +1,26 @@
+{
+  "amtabk": "GAPAusnV",
+  "ausfertigung_datum": "2022-12-14",
+  "bjnr": "BJNR236600022",
+  "eli": null,
+  "gii_slug": "gapausnv",
+  "ingested_at": "2026-04-17T15:21:51Z",
+  "jurabk": "GAPAusnV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a357f93e5136b1106ff4dcce0ba75f6ba976ddcb34a28ef8a99036d42be08453"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gapausnv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gapausnv/xml.zip"
+  },
+  "stand_datum": "2024-02-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 23.2.2024 I Nr. 67",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Ausnahmeregelungen hinsichtlich der Anwendung der Standards für den guten landwirtschaftlichen und ökologischen Zustand (GLÖZ-Standards) 7 und 8 für das Antragsjahr 2023",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

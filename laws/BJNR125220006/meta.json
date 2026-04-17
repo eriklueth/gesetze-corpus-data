@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-06-25",
+  "bjnr": "BJNR125220006",
+  "eli": null,
+  "gii_slug": "aarhus_bk",
+  "ingested_at": "2026-04-17T15:16:42Z",
+  "jurabk": "AarhusÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ebb77934ff2c1d6ce62aad92a64b3f7da438992c4284d59a9aedd9e49c1849ac"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aarhus_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aarhus_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über den Zugang zu Informationen, die Öffentlichkeitsbeteiligung an Entscheidungsverfahren und den Zugang zu Gerichten in Umweltangelegenheiten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

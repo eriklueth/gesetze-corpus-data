@@ -1,0 +1,42 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-06-02",
+  "bjnr": "BJNR110200999",
+  "eli": null,
+  "gii_slug": "bauwiausbv_1999",
+  "ingested_at": "2026-04-17T15:17:44Z",
+  "jurabk": "BauWiAusbV 1999",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c8d374d794b653033f13916a5abb44e4970afb8e0244645ca878c53f513c54d8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bauwiausbv_1999/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bauwiausbv_1999/xml.zip"
+  },
+  "stand_datum": "2024-06-03",
+  "standangabe": [
+    {
+      "kommentar": "V aufgeh. durch Art. 4 Satz 2 V v. 3.6.2024 I Nr. 179 mWv 1.8.2026",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Ersetzt durch V 806-22-1-154 v. 3.6.2024 I Nr. 179 (TiefbauBAusbV)",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Ersetzt durch V 806-22-1-155 v. 3.6.2024 I Nr. 179 (HochbauBAusbV)",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Ersetzt durch V 806-22-1-156 v. 3.6.2024 I Nr. 179 (AusbauBAusbV)",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 20.2.2009 I 399",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung in der Bauwirtschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-02-28",
+  "bjnr": "BJNR003769992",
+  "eli": null,
+  "gii_slug": "bausfamtg",
+  "ingested_at": "2026-04-17T15:17:43Z",
+  "jurabk": "BAusfAmtG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "799487154230c25691dcb9d3217ec53a6a01207917475213d889006830a18384"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bausfamtg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bausfamtg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 250 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Errichtung eines Bundesausfuhramtes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

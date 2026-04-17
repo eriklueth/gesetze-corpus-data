@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-06-27",
+  "bjnr": "BJNR097020994",
+  "eli": null,
+  "gii_slug": "ecer_70",
+  "ingested_at": "2026-04-17T15:20:12Z",
+  "jurabk": "ECER 70",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c685da5efa8a09cdca4d009a4569395c7ea5cd5e6be1c66a30719ec59b63ff7e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ecer_70/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ecer_70/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "ECE-Regelung Nr. 70 (Anlageband zur Verordnung über die Inkraftsetzung der ECE-Regelung Nr. 70) über einheitliche Bedingungen für die Genehmigung von Tafeln zur hinteren Kennzeichnung schwerer und langer Fahrzeuge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

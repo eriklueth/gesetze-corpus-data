@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-04-25",
+  "bjnr": "BJNR114820006",
+  "eli": null,
+  "gii_slug": "eubeitrvtr_bgr_rom",
+  "ingested_at": "2026-04-17T15:20:53Z",
+  "jurabk": "EUBeitrVtr BGR/ROM",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1b1b13d8011d9f24e1817eee686406364f786eddad52774ccd3f24ac14eba3a7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eubeitrvtr_bgr_rom/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eubeitrvtr_bgr_rom/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen dem Königreich Belgien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, der Hellenischen Republik, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Großherzogtum Luxemburg, der Republik Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden, dem Vereinigten Königreich Großbritannien und Nordirland (Mitgliedstaaten der Europäischen Union) und der Republik Bulgarien und Rumänien über den Beitritt der Republik Bulgarien und Rumäniens zur Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

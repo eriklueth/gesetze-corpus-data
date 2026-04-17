@@ -1,0 +1,21 @@
+{
+  "amtabk": "Bio-AHVV",
+  "ausfertigung_datum": "2023-09-27",
+  "bjnr": "BJNR1090B0023",
+  "eli": null,
+  "gii_slug": "bio-ahvv",
+  "ingested_at": "2026-04-17T15:18:27Z",
+  "jurabk": "Bio-AHVV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "43790b6c1abbb5e819b58e4b73b306ae2487be8b3f985b85a236087fdb51baf5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bio-ahvv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bio-ahvv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Regelung der Produktion, der Kontrolle und der Kennzeichnung von Bio-Zutaten und Bio-Erzeugnissen sowie zur Auszeichnung des Gesamtanteils an Bio-Lebensmitteln in gemeinschaftlichen Verpflegungseinrichtungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

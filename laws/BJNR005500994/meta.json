@@ -1,0 +1,26 @@
+{
+  "amtabk": "RSAV",
+  "ausfertigung_datum": "1994-01-03",
+  "bjnr": "BJNR005500994",
+  "eli": null,
+  "gii_slug": "rsav",
+  "ingested_at": "2026-04-17T15:27:28Z",
+  "jurabk": "RSAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "df6c646341e745c8a3e7714aa30e63384ed6c98c6faed88ada15e2c457b68688"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rsav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rsav/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 22.12.2025 I Nr. 371",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Verfahren zum Risikostrukturausgleich in der gesetzlichen Krankenversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

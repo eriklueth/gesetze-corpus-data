@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-07-06",
+  "bjnr": "BJNR010260978",
+  "eli": null,
+  "gii_slug": "milchqbalmzustv",
+  "ingested_at": "2026-04-17T15:24:51Z",
+  "jurabk": "MilchQBALMZustV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "737d82b468419319ff544cecfdaea8dc77de3fc99f1611cf1632fb48e934861b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/milchqbalmzustv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/milchqbalmzustv/xml.zip"
+  },
+  "stand_datum": "1994-08-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 74 G v. 2.8.1994 I 2018",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft und Ernährung bei Maßnahmen zur Verbesserung der Milchqualität",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

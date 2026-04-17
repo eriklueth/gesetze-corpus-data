@@ -1,0 +1,26 @@
+{
+  "amtabk": "IfSG",
+  "ausfertigung_datum": "2000-07-20",
+  "bjnr": "BJNR104510000",
+  "eli": null,
+  "gii_slug": "ifsg",
+  "ingested_at": "2026-04-17T15:22:53Z",
+  "jurabk": "IfSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3a168b1bc9df6a0df6b9a06f9c5a17a8b66241f7be1828661514c64fe72f3ff9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ifsg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ifsg/xml.zip"
+  },
+  "stand_datum": "2026-03-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 Abs. 1 G v. 4.3.2026 I Nr. 60",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

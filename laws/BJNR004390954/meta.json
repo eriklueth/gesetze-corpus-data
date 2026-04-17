@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1954-12-16",
+  "bjnr": "BJNR004390954",
+  "eli": null,
+  "gii_slug": "pfandbr_blg",
+  "ingested_at": "2026-04-17T15:26:41Z",
+  "jurabk": "PfandBrÜblG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ed39dbea9787b3f0b07778e25409350f594e0bee08a35173ee8e6d4e20b7409b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pfandbr_blg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pfandbr_blg/xml.zip"
+  },
+  "stand_datum": "1988-12-20",
+  "standangabe": [
+    {
+      "kommentar": "G tritt gem. § 7 G v. 20.12.1988 I 2310 an dem Tag außer Kraft, an dem die Aktiengesellschaft ins Handelsregister eingetragen wird",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Gesetz zur Überleitung der Beteiligung des ehemaligen Landes Preußen am Grundkapital der Deutschen Pfandbriefanstalt auf den Bund",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

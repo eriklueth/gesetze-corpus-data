@@ -1,0 +1,26 @@
+{
+  "amtabk": "StrabBlPV",
+  "ausfertigung_datum": "1988-07-29",
+  "bjnr": "BJNR015540988",
+  "eli": null,
+  "gii_slug": "strabblpv",
+  "ingested_at": "2026-04-17T15:28:56Z",
+  "jurabk": "StrabBlPV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d7c3da1a7fa09369e62ff4e258b6eaf1ccb7a5fa837ca46b1c94848af5e1b884"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/strabblpv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/strabblpv/xml.zip"
+  },
+  "stand_datum": "2017-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 173 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum Betriebsleiter von Straßenbahnunternehmen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "RHmV",
+  "ausfertigung_datum": "1994-09-01",
+  "bjnr": "BJNR229900994",
+  "eli": null,
+  "gii_slug": "rhmv_1994",
+  "ingested_at": "2026-04-17T15:27:21Z",
+  "jurabk": "RHmV 1994",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5ee87f0950482a27458fb3eee77027e62c0aa6f79d0a623b604282533512ba4c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rhmv_1994/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rhmv_1994/xml.zip"
+  },
+  "stand_datum": "1999-10-21",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 21.10.1999 I 2082; 2002, 1004;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 V v. 16.7.2020 I 1699",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Höchstmengen an Rückständen von Pflanzenschutz- und Schädlingsbekämpfungsmitteln in oder auf Lebensmitteln",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

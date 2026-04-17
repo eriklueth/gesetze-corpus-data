@@ -1,0 +1,26 @@
+{
+  "amtabk": "TierHaltKennzG",
+  "ausfertigung_datum": "2023-08-17",
+  "bjnr": "BJNR0DC0A0023",
+  "eli": null,
+  "gii_slug": "tierhaltkennzg",
+  "ingested_at": "2026-04-17T15:29:27Z",
+  "jurabk": "TierHaltKennzG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b509e3fbe6ae9ca88d8e96170d21a7c03831ee8785e61b439d5eace7e3cbcef0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tierhaltkennzg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tierhaltkennzg/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 4.2.2026 I Nr. 34",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

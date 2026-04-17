@@ -1,0 +1,26 @@
+{
+  "amtabk": "MuSchG",
+  "ausfertigung_datum": "2017-05-23",
+  "bjnr": "BJNR122810017",
+  "eli": null,
+  "gii_slug": "muschg_2018",
+  "ingested_at": "2026-04-17T15:25:51Z",
+  "jurabk": "MuSchG 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fa18842c9b21ef0ed9bd764c63e9401bc73cd900d51a44c4a41be1d7ff8a9201"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/muschg_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/muschg_2018/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 13 G v. 22.12.2025 I Nr. 371",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zum Schutz von Müttern bei der Arbeit, in der Ausbildung und im Studium",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

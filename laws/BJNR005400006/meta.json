@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-01-17",
+  "bjnr": "BJNR005400006",
+  "eli": null,
+  "gii_slug": "gestraumprv",
+  "ingested_at": "2026-04-17T15:22:07Z",
+  "jurabk": "GestRaumPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "779578e397907128812af22c1ce92a1bb18d473a9b167a901c4250d01a423a3c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gestraumprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gestraumprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

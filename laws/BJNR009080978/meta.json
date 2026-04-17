@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-06-26",
+  "bjnr": "BJNR009080978",
+  "eli": null,
+  "gii_slug": "mmilchpulvv",
+  "ingested_at": "2026-04-17T15:24:56Z",
+  "jurabk": "MMilchPulvV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0624668d1096ab12ff5943707b227fee448f90575aa7de5d0d98b6e3cdbc46d3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mmilchpulvv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mmilchpulvv/xml.zip"
+  },
+  "stand_datum": "2011-12-13",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 27 V v. 13.12.2011 I 2720",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der öffentlichen Lagerhaltung von Magermilchpulver",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

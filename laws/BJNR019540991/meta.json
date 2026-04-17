@@ -1,0 +1,26 @@
+{
+  "amtabk": "ÜAG",
+  "ausfertigung_datum": "1991-09-26",
+  "bjnr": "BJNR019540991",
+  "eli": null,
+  "gii_slug": "_ag",
+  "ingested_at": "2026-04-17T15:29:39Z",
+  "jurabk": "ÜAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "68db142362d52d4339e3e0db744095ef1a0c758571ca5cfd8f85d890032eca87"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/_ag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/_ag/xml.zip"
+  },
+  "stand_datum": "2009-07-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 29.7.2009 I 2274",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Ausführung des Übereinkommens vom 21. März 1983 über die Überstellung verurteilter Personen, des Zusatzprotokolls vom 18. Dezember 1997 und des Schengener Durchführungsübereinkommens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-08-24",
+  "bjnr": "BJNR009270965",
+  "eli": null,
+  "gii_slug": "verksig",
+  "ingested_at": "2026-04-17T15:30:04Z",
+  "jurabk": "VerkSiG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "73e8ca322b7f41d3d8a71bd9a9c018176d599a376380001148e9ae8bf18942de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verksig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verksig/xml.zip"
+  },
+  "stand_datum": "1968-10-08",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 8.10.1968 I 1082;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 40 G v. 15.7.2024 I Nr. 236",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Sicherstellung des Verkehrs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-03-13",
+  "bjnr": "BJNR030500015",
+  "eli": null,
+  "gii_slug": "bodverkfkrv",
+  "ingested_at": "2026-04-17T15:18:50Z",
+  "jurabk": "BodVerkFKrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3c71e746e545ed24f761abca249cd4a6538528f84cc5dff695b3bcf6f7fdad17"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bodverkfkrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bodverkfkrv/xml.zip"
+  },
+  "stand_datum": "2016-03-01",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 1.3.2016 I 336",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den anerkannten Umschulungsabschluss Geprüfte Fachkraft Bodenverkehrsdienst im Luftverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

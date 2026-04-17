@@ -1,0 +1,26 @@
+{
+  "amtabk": "SVHV",
+  "ausfertigung_datum": "1977-12-21",
+  "bjnr": "BJNR031470977",
+  "eli": null,
+  "gii_slug": "svhv",
+  "ingested_at": "2026-04-17T15:29:11Z",
+  "jurabk": "SVHV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6fa7fd2f0561725a08407e3c10d27d0549118d13efe9bf1f026b2758df4e7a9e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svhv/xml.zip"
+  },
+  "stand_datum": "2021-07-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 14.7.2021 I 2867",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Haushaltswesen in der Sozialversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

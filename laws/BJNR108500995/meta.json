@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-07-20",
+  "bjnr": "BJNR108500995",
+  "eli": null,
+  "gii_slug": "bkorgerl1995-07bek",
+  "ingested_at": "2026-04-17T15:18:32Z",
+  "jurabk": "BKOrgErl1995-07Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "429a69a1e45b04b63586554493ff3bf981064d58640b444f912a5aac2486793c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bkorgerl1995-07bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bkorgerl1995-07bek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung des Organisationserlasses des Bundeskanzlers",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

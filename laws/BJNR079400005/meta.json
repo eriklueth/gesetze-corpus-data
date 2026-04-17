@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-03-18",
+  "bjnr": "BJNR079400005",
+  "eli": null,
+  "gii_slug": "tourkfmausbv",
+  "ingested_at": "2026-04-17T15:29:32Z",
+  "jurabk": "TourKfmAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5c93eb1e76272bfc6447d4fafa28491b32b18b40ec7a3485c929cd66e06fe56b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tourkfmausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tourkfmausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Kaufmann für Tourismus und Freizeit/zur Kauffrau für Tourismus und Freizeit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

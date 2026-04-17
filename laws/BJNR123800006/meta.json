@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-05-23",
+  "bjnr": "BJNR123800006",
+  "eli": null,
+  "gii_slug": "dialogmservausbv",
+  "ingested_at": "2026-04-17T15:19:58Z",
+  "jurabk": "DialogmServAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e117d51da05170402c827f3860d63dc13dca6f692968beeeb85c6e7075721c85"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dialogmservausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dialogmservausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zur Servicefachkraft für Dialogmarketing",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

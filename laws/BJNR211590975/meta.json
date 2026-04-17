@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-01-31",
+  "bjnr": "BJNR211590975",
+  "eli": null,
+  "gii_slug": "eurhi_bkvtr_aut",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "EuRHiÜbkVtr AUT",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5582e2385181867336a4e142a34bfcd799fcc97bdc8f756289e2c1909a7ea4ca"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurhi_bkvtr_aut/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurhi_bkvtr_aut/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

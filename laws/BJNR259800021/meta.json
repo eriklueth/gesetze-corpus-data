@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2021-07-09",
+  "bjnr": "BJNR259800021",
+  "eli": null,
+  "gii_slug": "ersatzbaustoffvev_bbodschvneuf_depv2009ua_ndv",
+  "ingested_at": "2026-04-17T15:20:47Z",
+  "jurabk": "ErsatzbaustoffVEV/BBodSchVNeuf/DepV2009uaÄndV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "891a357937d5a8f21682c3876c950e53183604a9763d173087bc60d4192ebef3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ersatzbaustoffvev_bbodschvneuf_depv2009ua_ndv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ersatzbaustoffvev_bbodschvneuf_depv2009ua_ndv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der Gewerbeabfallverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

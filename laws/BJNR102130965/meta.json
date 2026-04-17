@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-04-05",
+  "bjnr": "BJNR102130965",
+  "eli": null,
+  "gii_slug": "pflvg",
+  "ingested_at": "2026-04-17T15:26:46Z",
+  "jurabk": "PflVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bab807cd467f67b2b16c4ab53aace4391f6422161b85298aa33259967b9c9916"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflvg/xml.zip"
+  },
+  "stand_datum": "2024-04-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 11.4.2024 I Nr. 119",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Neufassung durch Art. 1 G v. 5.4.1965 I 213 udB \"Gesetz über die Pflichtversicherung für Kraftfahrzeughalter (Pflichtversicherungsgesetz)\"",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über die Pflichtversicherung für Kraftfahrzeughalter",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

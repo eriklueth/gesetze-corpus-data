@@ -1,0 +1,21 @@
+{
+  "amtabk": "VertrGebErstG",
+  "ausfertigung_datum": "2021-07-07",
+  "bjnr": "BJNR243200021",
+  "eli": null,
+  "gii_slug": "vertrgeberstg",
+  "ingested_at": "2026-04-17T15:30:11Z",
+  "jurabk": "VertrGebErstG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "83a35f677933091f0f294e7b60a1f84a2fdebafc008a9991efa51b62a5db400f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vertrgeberstg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vertrgeberstg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die Erstattung von Gebühren der beigeordneten Vertretung in Patent-, Gebrauchsmuster-, Marken-, Design-, Topographieschutz- und Sortenschutzsachen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

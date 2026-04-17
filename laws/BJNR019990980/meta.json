@@ -1,0 +1,30 @@
+{
+  "amtabk": "AGGrenzg NL",
+  "ausfertigung_datum": "1980-10-21",
+  "bjnr": "BJNR019990980",
+  "eli": null,
+  "gii_slug": "grenzgnldag",
+  "ingested_at": "2026-04-17T15:16:50Z",
+  "jurabk": "GrenzgNLDAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e19580f94f211f9f0ad77818ce9d140d294e08a04c2dc8700b561adb9f39ce83"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grenzgnldag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grenzgnldag/xml.zip"
+  },
+  "stand_datum": "1986-02-24",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 24.2.1986 I 321,",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 13 v. 11.10.1995 I 1250",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Ausführungsgesetz zum Zusatzprotokoll vom 13. März 1980 zum Abkommen vom 16. Juni 1959 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

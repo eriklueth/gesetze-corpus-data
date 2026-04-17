@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1954-05-14",
+  "bjnr": "BJNR213000967",
+  "eli": null,
+  "gii_slug": "kultgschkonvprot",
+  "ingested_at": "2026-04-17T15:23:57Z",
+  "jurabk": "KultgSchKonvProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "777b9803384bdaf4ea269be66f692d56443470d77f8109421e7f8ba0d3bc0299"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kultgschkonvprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kultgschkonvprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll (zu der Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten vom 14. Mai 1954)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

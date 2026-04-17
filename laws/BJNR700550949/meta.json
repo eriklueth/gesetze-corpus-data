@@ -1,0 +1,30 @@
+{
+  "amtabk": "TVG",
+  "ausfertigung_datum": "1949-04-09",
+  "bjnr": "BJNR700550949",
+  "eli": null,
+  "gii_slug": "tvg",
+  "ingested_at": "2026-04-17T15:29:36Z",
+  "jurabk": "TVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f5418ce49905074baace0882336be7e41db27d87876a5e55036b6eefa187fa25"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tvg/xml.zip"
+  },
+  "stand_datum": "1969-08-25",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 25.8.1969 I 1323;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 8 G v. 20.5.2020 I 1055",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Tarifvertragsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

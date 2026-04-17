@@ -1,0 +1,21 @@
+{
+  "amtabk": "11. RAG",
+  "ausfertigung_datum": "1968-11-19",
+  "bjnr": "BJNR011890968",
+  "eli": null,
+  "gii_slug": "rag_11",
+  "ingested_at": "2026-04-17T15:16:31Z",
+  "jurabk": "RAG 11",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "37bea085d1857f85bd650178627ba55404fa8a5d2323d7351046e3b4bba48cf2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rag_11/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rag_11/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Elftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

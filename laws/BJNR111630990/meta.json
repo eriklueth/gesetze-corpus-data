@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-06-26",
+  "bjnr": "BJNR111630990",
+  "eli": null,
+  "gii_slug": "sgb_8",
+  "ingested_at": "2026-04-17T15:28:10Z",
+  "jurabk": "SGB 8",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "05b00b482af565d4e1c24b31e525e895ec3859bb6731fba644eee63626a1c66e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgb_8/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgb_8/xml.zip"
+  },
+  "stand_datum": "2012-09-11",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 11.9.2012 I 2022;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 G v. 29.3.2026 I Nr. 85",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

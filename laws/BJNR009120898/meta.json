@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1898-06-16",
+  "bjnr": "BJNR009120898",
+  "eli": null,
+  "gii_slug": "bgbabest_1898",
+  "ingested_at": "2026-04-17T15:18:18Z",
+  "jurabk": "BGBABest 1898",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "62b08f62e980eef1721de2fb2b4f2a75709f18e603470cdd8f71943601a3ffb3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgbabest_1898/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgbabest_1898/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung betreffend Ausführungsbestimmungen zu den §§ 980, 981, 983 des Bürgerlichen Gesetzbuchs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

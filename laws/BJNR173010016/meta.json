@@ -1,0 +1,30 @@
+{
+  "amtabk": "InvStG",
+  "ausfertigung_datum": "2016-07-19",
+  "bjnr": "BJNR173010016",
+  "eli": null,
+  "gii_slug": "invstg_2018",
+  "ingested_at": "2026-04-17T15:23:08Z",
+  "jurabk": "InvStG 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "238600cbc8ae32c8f24eeab3dc1154dfeb56a186741df018f483804d9d3b8804"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/invstg_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/invstg_2018/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 28 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt G 610-6-15 v. 15.12.2003 I 2676, 2724 (InvStG)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Investmentsteuergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

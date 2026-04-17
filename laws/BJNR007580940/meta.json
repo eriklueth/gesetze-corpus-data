@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1940-05-12",
+  "bjnr": "BJNR007580940",
+  "eli": null,
+  "gii_slug": "libiurhfrverlg",
+  "ingested_at": "2026-04-17T15:24:05Z",
+  "jurabk": "LiBiUrhFrVerlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "18f5879e0f7865069cced5289d18e8a353b59964d1ea857b70792ef9b470f28a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/libiurhfrverlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/libiurhfrverlg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Verlängerung der Schutzfristen für das Urheberrecht an Lichtbildern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

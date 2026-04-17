@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1957-04-02",
+  "bjnr": "BJNR103660957",
+  "eli": null,
+  "gii_slug": "bpr_skldgverkvwano",
+  "ingested_at": "2026-04-17T15:19:04Z",
+  "jurabk": "BPräsKldgVerkVwAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "af1dbf83e4e76c506abe702b26118fc1d77545763d8987708d10fb96137ce0ce"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_skldgverkvwano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_skldgverkvwano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung von Beamten der Bundesverkehrsverwaltung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

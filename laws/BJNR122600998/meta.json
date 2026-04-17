@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-06-05",
+  "bjnr": "BJNR122600998",
+  "eli": null,
+  "gii_slug": "seddiktstiftg",
+  "ingested_at": "2026-04-17T15:27:57Z",
+  "jurabk": "SEDDiktStiftG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "846754dfeb747b90b9bde954220647cfb75f346ed0939cf5d71c8d0a5293d251"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seddiktstiftg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seddiktstiftg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 156 V v. 19.6.2020 I 1328",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Gesetz über die Errichtung einer Stiftung zur Aufarbeitung der SED-Diktatur",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

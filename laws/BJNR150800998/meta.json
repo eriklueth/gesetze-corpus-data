@@ -1,0 +1,21 @@
+{
+  "amtabk": "KindArbSchV",
+  "ausfertigung_datum": "1998-06-23",
+  "bjnr": "BJNR150800998",
+  "eli": null,
+  "gii_slug": "kindarbschv",
+  "ingested_at": "2026-04-17T15:23:36Z",
+  "jurabk": "KindArbSchV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2955bfa9d16612cdbb7f7e22b0958470c06e48015a559a453c5e51eaec1c817f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kindarbschv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kindarbschv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über den Kinderarbeitsschutz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "IMLebensmFPrV",
+  "ausfertigung_datum": "2017-01-31",
+  "bjnr": "BJNR013900017",
+  "eli": null,
+  "gii_slug": "imlebensmfprv",
+  "ingested_at": "2026-04-17T15:22:56Z",
+  "jurabk": "IMLebensmFPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c235c5cf454b40af01989384efefdc81476042e1d0dc2f4c0613dd02e460968d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/imlebensmfprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/imlebensmfprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 79 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 806-21-7-31 v. 21.8.1985 I 1695 (LMIndMeistPrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Lebensmittel und Geprüfte Industriemeisterin – Fachrichtung Lebensmittel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-01-10",
+  "bjnr": "BJNR001820996",
+  "eli": null,
+  "gii_slug": "grabfertcesvtrg",
+  "ingested_at": "2026-04-17T15:22:22Z",
+  "jurabk": "GrAbfertCESVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "172e2b44ec5bf40f066c75f87949e1a45a716b31a24f5d3a233581b63a80b248"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grabfertcesvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grabfertcesvtrg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 209 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Vertrag vom 19. Mai 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über Erleichterungen der Grenzabfertigung im Eisenbahn-, Straßen- und Schiffsverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

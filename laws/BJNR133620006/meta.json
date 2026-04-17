@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-03-09",
+  "bjnr": "BJNR133620006",
+  "eli": null,
+  "gii_slug": "gesundzaabkfravvbg",
+  "ingested_at": "2026-04-17T15:22:07Z",
+  "jurabk": "GesundZAAbkFRAVVbg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4957e0ecaa19f7cef50d0c149af2c4bdbd684bcb9651948430775a50483f65c1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gesundzaabkfravvbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gesundzaabkfravvbg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verwaltungsvereinbarung zwischen dem Bundesministerium für Gesundheit der Bundesrepublik Deutschland und dem Minister für Gesundheit und Solidarität der Französischen Republik über die Durchführungsmodalitäten des Rahmenabkommens vom 22. Juli 2005 über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

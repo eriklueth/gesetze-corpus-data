@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-05-02",
+  "bjnr": "BJNR508720005",
+  "eli": null,
+  "gii_slug": "luftvodv_223",
+  "ingested_at": "2026-04-17T15:24:26Z",
+  "jurabk": "LuftVODV 223",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8f012c052f116bf01bd91b91f60cf02cb647330dc319ef00a220576c8f38636d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_223/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_223/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweihundertdreiundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Köln/Bonn)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

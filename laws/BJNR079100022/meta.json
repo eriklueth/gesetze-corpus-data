@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2022-05-12",
+  "bjnr": "BJNR079100022",
+  "eli": null,
+  "gii_slug": "abgg10u11abschnabestbek",
+  "ingested_at": "2026-04-17T15:16:46Z",
+  "jurabk": "AbgG10u11AbschnABestBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a3f17a88cfa95adce9f434b68ceb0037924683df8319ec5331ae10440155a686"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/abgg10u11abschnabestbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/abgg10u11abschnabestbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Ausführungsbestimmungen zu den Vorschriften des Zehnten und Elften Abschnitts des Abgeordnetengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

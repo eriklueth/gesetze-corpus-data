@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-12-23",
+  "bjnr": "BJNR200020982",
+  "eli": null,
+  "gii_slug": "intmeersch_bk1973g",
+  "ingested_at": "2026-04-17T15:23:04Z",
+  "jurabk": "IntMeerSchÜbk1973G",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7070ef30325c1eedd41754bb7838310ad8310adc18bc6947ca0b0dee99280963"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intmeersch_bk1973g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intmeersch_bk1973g/xml.zip"
+  },
+  "stand_datum": "1998-09-18",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 18.9.1998 II 2546;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 G v. 25.11.2015 I 2095",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und zu dem Protokoll von 1978 zu diesem Übereinkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

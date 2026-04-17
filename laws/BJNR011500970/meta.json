@@ -1,0 +1,30 @@
+{
+  "amtabk": "MilchErzV",
+  "ausfertigung_datum": "1970-07-15",
+  "bjnr": "BJNR011500970",
+  "eli": null,
+  "gii_slug": "milchv",
+  "ingested_at": "2026-04-17T15:24:50Z",
+  "jurabk": "MilchV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2448a08f6314bd8b13bffcc7e40e4672f960d56e7a5cbe1ef2a5e974bd07200c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/milchv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/milchv/xml.zip"
+  },
+  "stand_datum": "2025-11-24",
+  "standangabe": [
+    {
+      "kommentar": "V aufgeh. durch § 8 dieser V idF v. 24.11.2025 mWv 14.7.2026",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 Abs. 2 V v. 24.11.2025 I Nr. 280",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Milcherzeugnisse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

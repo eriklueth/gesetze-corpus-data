@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-11-19",
+  "bjnr": "BJNR046800004",
+  "eli": null,
+  "gii_slug": "goethemedstat_2003",
+  "ingested_at": "2026-04-17T15:22:21Z",
+  "jurabk": "GoetheMedStat 2003",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dfbe52698f8bbbee6845a92daad6ce9e7809e5b0ea6b901dc0b794ba1586fa71"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/goethemedstat_2003/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/goethemedstat_2003/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts e. V. (gestiftet 1954)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

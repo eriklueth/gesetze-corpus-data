@@ -1,0 +1,30 @@
+{
+  "amtabk": "AWV",
+  "ausfertigung_datum": "2013-08-02",
+  "bjnr": "BJNR286500013",
+  "eli": null,
+  "gii_slug": "awv_2013",
+  "ingested_at": "2026-04-17T15:17:32Z",
+  "jurabk": "AWV 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "df54c06d169c91a715b7fcdae972c51d277788dddae5d5bf963a262e347a9f58"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/awv_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/awv_2013/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 11.3.2026 I Nr. 66",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "V in Kraft gem. § 83 Satz 1 iVm Art. 4 Abs. 1 Satz 1 G v. 6.6.2013 I 1482 mWv 1.9.2013",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Außenwirtschaftsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

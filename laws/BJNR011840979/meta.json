@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-07-23",
+  "bjnr": "BJNR011840979",
+  "eli": null,
+  "gii_slug": "uhvorschg",
+  "ingested_at": "2026-04-17T15:29:45Z",
+  "jurabk": "UhVorschG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "edfe3429bf4240600c62596d4258d3dc5337ba7420d583888d91a83fc67707d8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uhvorschg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uhvorschg/xml.zip"
+  },
+  "stand_datum": "2007-07-17",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 17.7.2007 I 1446;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 44 G v. 2.12.2024 I Nr. 387",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Sicherung des Unterhalts von Kindern alleinstehender Mütter und Väter durch Unterhaltsvorschüsse oder -ausfallleistungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

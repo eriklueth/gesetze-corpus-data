@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-01-27",
+  "bjnr": "BJNR100690958",
+  "eli": null,
+  "gii_slug": "wzg_35sgpbek",
+  "ingested_at": "2026-04-17T15:31:06Z",
+  "jurabk": "WZG§35SGPBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8eba3f5ecdfa25b20b9c541ab7061c4691381feb2e093d5ec7316d6d72a89a4f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35sgpbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35sgpbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

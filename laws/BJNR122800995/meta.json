@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-09-27",
+  "bjnr": "BJNR122800995",
+  "eli": null,
+  "gii_slug": "flul_rmnordholzv",
+  "ingested_at": "2026-04-17T15:21:33Z",
+  "jurabk": "FluLärmNordholzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e85ce705b77ca345a35a6379c06736e5a4bcc43de9751e8615d41946bc37fcce"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flul_rmnordholzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flul_rmnordholzv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Nordholz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

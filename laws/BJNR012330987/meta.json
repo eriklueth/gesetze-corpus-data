@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1987-04-15",
+  "bjnr": "BJNR012330987",
+  "eli": null,
+  "gii_slug": "lbprzgleichstv",
+  "ingested_at": "2026-04-17T15:24:03Z",
+  "jurabk": "LbPrZGleichstV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ccdd5910cf87e330e4bdab0c433474504a4b1da0168f7285ae66fea68372d321"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lbprzgleichstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lbprzgleichstv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Gleichstellung von Zeugnissen über die Laufbahnprüfung für die Laufbahnen des mittleren Postbankdienstes und des mittleren Fernmeldedienstes bei der Deutschen Bundespost mit den Zeugnissen über das Bestehen der Abschlußprüfung im Ausbildungsberuf Verwaltungsfachangestellter/Verwaltungsfachangestellte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-08-28",
+  "bjnr": "BJNR233120002",
+  "eli": null,
+  "gii_slug": "grbr_ckabk2000polg",
+  "ingested_at": "2026-04-17T15:22:27Z",
+  "jurabk": "GrBrückAbk2000POLG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a187a781eacf4dc6c8291d1a2e410a8ad04c12a38752f004c8ba047eae77493c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grbr_ckabk2000polg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grbr_ckabk2000polg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 21. November 2000 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Polen über den Bau und die Erhaltung von Grenzbrücken im nachgeordneten Straßennetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

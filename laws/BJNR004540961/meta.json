@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-04-17",
+  "bjnr": "BJNR004540961",
+  "eli": null,
+  "gii_slug": "kvstgleichstv",
+  "ingested_at": "2026-04-17T15:24:01Z",
+  "jurabk": "KVStGleichstV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e76a72359233c5f42ec614087b4a7764f5a6f677670584cffbefe22c3333feac"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kvstgleichstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kvstgleichstv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die kapitalverkehrsteuerliche Gleichstellung der Europäischen Gemeinschaft für Kohle und Stahl, der Europäischen Atomgemeinschaft und der Europäischen Investitionsbank mit dem Bund",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-02-14",
+  "bjnr": "BJNR002860990",
+  "eli": null,
+  "gii_slug": "bmlernano_1990",
+  "ingested_at": "2026-04-17T15:18:43Z",
+  "jurabk": "BMLErnAnO 1990",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "48bffc0a0f98dbdfe9245ebd4e22698422a7a089c9393e25594ef6f1aafa891c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmlernano_1990/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmlernano_1990/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

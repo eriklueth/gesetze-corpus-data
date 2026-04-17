@@ -1,0 +1,30 @@
+{
+  "amtabk": "FotografMstrV",
+  "ausfertigung_datum": "2019-09-30",
+  "bjnr": "BJNR140400019",
+  "eli": null,
+  "gii_slug": "fotografmstrv_2020",
+  "ingested_at": "2026-04-17T15:21:38Z",
+  "jurabk": "FotografMstrV 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4dd898c14f653c4104e04eebb30b2886aef42213dbe444cabb685bf6e223a135"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fotografmstrv_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fotografmstrv_2020/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 87 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7110-3-148 v. 17.4.2002 I 1438 (FotografMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Fotografen-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-08-06",
+  "bjnr": "BJNR164320998",
+  "eli": null,
+  "gii_slug": "clnig",
+  "ingested_at": "2026-04-17T15:19:39Z",
+  "jurabk": "CLNIG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "81b86e56415d66eda3064b526244f1935a0c7542140c89cb7d8b1cc77a1c03dc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/clnig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/clnig/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 28 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Straßburger Übereinkommen vom 4. November 1988 über die Beschränkung der Haftung in der Binnenschiffahrt (CLNI)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

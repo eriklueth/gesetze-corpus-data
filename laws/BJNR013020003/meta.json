@@ -1,0 +1,26 @@
+{
+  "amtabk": "8. MARPOL-ÄndV",
+  "ausfertigung_datum": "2003-02-26",
+  "bjnr": "BJNR013020003",
+  "eli": null,
+  "gii_slug": "marpol_ndv_8",
+  "ingested_at": "2026-04-17T15:16:41Z",
+  "jurabk": "MARPOLÄndV 8",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3981e475259b0c7a628dbd9a6797f2f3da6a13a6c26c1059021e2bb717575458"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/marpol_ndv_8/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/marpol_ndv_8/xml.zip"
+  },
+  "stand_datum": "2013-02-27",
+  "standangabe": [
+    {
+      "kommentar": "Die V ist nach ihrem Art. 5 iVm Bek. v. 27.2.2013 II 394 am 19.5.2005 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Achte Verordnung über Änderungen des Internationalen Übereinkommens von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und des Protokolls von 1978 zu diesem Übereinkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

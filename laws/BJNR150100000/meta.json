@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2000-11-09",
+  "bjnr": "BJNR150100000",
+  "eli": null,
+  "gii_slug": "rebflanpflv_02_03",
+  "ingested_at": "2026-04-17T15:27:13Z",
+  "jurabk": "RebflAnpflV 02/03",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f5a57c659af02e78b52612a3299cdf15a8cdc62566c9c245aa7caf5c35a4ccda"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rebflanpflv_02_03/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rebflanpflv_02_03/xml.zip"
+  },
+  "stand_datum": "2008-11-07",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 7.11.2008 I 2166",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Genehmigung für Neuanpflanzungen von Rebflächen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-08-01",
+  "bjnr": "BJNR011520980",
+  "eli": null,
+  "gii_slug": "wzg_4ifadbek",
+  "ingested_at": "2026-04-17T15:31:11Z",
+  "jurabk": "WZG§4IFADBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "833716b76bfe726a582ec3890c6a3733404e72e0637cdf16072966faaf6faeac"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4ifadbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4ifadbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

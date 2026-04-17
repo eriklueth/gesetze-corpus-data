@@ -1,0 +1,26 @@
+{
+  "amtabk": "TAppV",
+  "ausfertigung_datum": "2006-07-27",
+  "bjnr": "BJNR182700006",
+  "eli": null,
+  "gii_slug": "tappv",
+  "ingested_at": "2026-04-17T15:29:18Z",
+  "jurabk": "TAppV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a2f25b515990e10c634396b2f945a10b9bb450d806a99633a9db63b8cd71ef53"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tappv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tappv/xml.zip"
+  },
+  "stand_datum": "2019-08-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 G v. 15.8.2019 I 1307",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Approbation von Tierärztinnen und Tierärzten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

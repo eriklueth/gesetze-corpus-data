@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-07-22",
+  "bjnr": "DDNR009550990",
+  "eli": null,
+  "gii_slug": "leinfg",
+  "ingested_at": "2026-04-17T15:24:04Z",
+  "jurabk": "LEinfG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "88bda7eb7e0fcd56adbd873ed50317d548dbf99f66b962436fb435241caf5a1f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/leinfg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/leinfg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verfassungsgesetz zur Bildung von Ländern in der Deutschen Demokratischen Republik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

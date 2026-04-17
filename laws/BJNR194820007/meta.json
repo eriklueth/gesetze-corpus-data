@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-02-09",
+  "bjnr": "BJNR194820007",
+  "eli": null,
+  "gii_slug": "sozsichabkausergabkdvbg",
+  "ingested_at": "2026-04-17T15:28:31Z",
+  "jurabk": "SozSichAbkAUSErgAbkDVbg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7446ea28df3ce24974b0c06c6d9be9e08ba04895757a883b818009296b47d0ef"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkausergabkdvbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkausergabkdvbg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vereinbarung zur Durchführung des Ergänzungsabkommens vom 9. Februar 2007 zwischen der Bundesrepublik Deutschland und Australien über die Soziale Sicherheit von vorübergehend im Hoheitsgebiet des anderen Staates beschäftigten Personen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

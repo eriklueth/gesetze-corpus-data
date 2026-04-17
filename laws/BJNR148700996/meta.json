@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-09-25",
+  "bjnr": "BJNR148700996",
+  "eli": null,
+  "gii_slug": "pehrlinstzustv",
+  "ingested_at": "2026-04-17T15:26:34Z",
+  "jurabk": "PEhrlInstZustV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "25cad4da028ec3e11cccec09b0ab4a07469df185da05fcfa422eeb2940b0077c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pehrlinstzustv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pehrlinstzustv/xml.zip"
+  },
+  "stand_datum": "2022-07-06",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 V v. 6.7.2022 I 1102",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Änderung der Zuständigkeit des Paul-Ehrlich-Instituts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

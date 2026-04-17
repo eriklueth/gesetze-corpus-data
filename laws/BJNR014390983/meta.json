@@ -1,0 +1,26 @@
+{
+  "amtabk": "BAföG-TeilerlaßV",
+  "ausfertigung_datum": "1983-12-14",
+  "bjnr": "BJNR014390983",
+  "eli": null,
+  "gii_slug": "baf_g-teilerla_v",
+  "ingested_at": "2026-04-17T15:17:34Z",
+  "jurabk": "BAföG-TeilerlaßV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6fec560fe21de66c673261b6ec67831d093f0e42e713d0202e42be35cf5b8b5b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baf_g-teilerla_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baf_g-teilerla_v/xml.zip"
+  },
+  "stand_datum": "2017-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 72 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den leistungsabhängigen Teilerlaß von Ausbildungsförderungsdarlehen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

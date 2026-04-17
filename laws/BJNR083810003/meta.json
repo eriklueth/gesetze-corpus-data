@@ -1,0 +1,26 @@
+{
+  "amtabk": "SpruchG",
+  "ausfertigung_datum": "2003-06-12",
+  "bjnr": "BJNR083810003",
+  "eli": null,
+  "gii_slug": "spruchg",
+  "ingested_at": "2026-04-17T15:28:48Z",
+  "jurabk": "SpruchG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b0906ece2f936a4d827bb5026fca9a20f699670af79796d4cc82e4551c4732d3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/spruchg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/spruchg/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über das gesellschaftsrechtliche Spruchverfahren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

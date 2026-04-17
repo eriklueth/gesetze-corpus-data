@@ -1,0 +1,26 @@
+{
+  "amtabk": "DMBeEndG",
+  "ausfertigung_datum": "1999-12-16",
+  "bjnr": "BJNR240210999",
+  "eli": null,
+  "gii_slug": "dmbeendg",
+  "ingested_at": "2026-04-17T15:20:00Z",
+  "jurabk": "DMBeEndG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8e1c7dbaa49569ab37f9a5d0ca5b85cc4bbb07025b59cb514409ff34216531cb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dmbeendg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dmbeendg/xml.zip"
+  },
+  "stand_datum": "2005-09-14",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 7 G v. 14.9.2005 I 2746",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Beendigung der Zahlungsmitteleigenschaft der auf Deutsche Mark lautenden Banknoten und der auf Deutsche Mark oder Deutsche Pfennig lautenden Bundesmünzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

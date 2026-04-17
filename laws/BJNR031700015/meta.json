@@ -1,0 +1,21 @@
+{
+  "amtabk": "BMJVWidVertrAnO",
+  "ausfertigung_datum": "2015-03-05",
+  "bjnr": "BJNR031700015",
+  "eli": null,
+  "gii_slug": "bmjvwidvertrano",
+  "ingested_at": "2026-04-17T15:18:42Z",
+  "jurabk": "BMJVWidVertrAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8203e5557ddb8c48236d63b70128d206996a06776eaf239a86c3514826bc2442"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmjvwidvertrano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmjvwidvertrano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesministeriums der Justiz und für Verbraucherschutz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

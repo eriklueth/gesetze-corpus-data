@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-05-07",
+  "bjnr": "BJNR007150986",
+  "eli": null,
+  "gii_slug": "wassig_13v",
+  "ingested_at": "2026-04-17T15:30:22Z",
+  "jurabk": "WasSiG§13V",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6107421744054c10c92804fc60642caf51b23e29faa5fb8a936e7cecf12fe6fb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wassig_13v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wassig_13v/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Übertragung der Ermächtigung zum Erlaß von Rechtsverordnungen nach § 13 des Wassersicherstellungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

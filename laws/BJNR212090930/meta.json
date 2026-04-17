@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1930-08-23",
+  "bjnr": "BJNR212090930",
+  "eli": null,
+  "gii_slug": "vollstrabkcheav",
+  "ingested_at": "2026-04-17T15:30:14Z",
+  "jurabk": "VollstrAbkCHEAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a28ea24b7fc3691e952076ecc3de7f94ec916425ee03beabfde9197b472dc402"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vollstrabkcheav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vollstrabkcheav/xml.zip"
+  },
+  "stand_datum": "2001-07-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 18 G v. 27.7.2001 I 1887",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Ausführung des deutsch-schweizerischen Abkommens über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen und Schiedssprüchen vom 2. November 1929",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

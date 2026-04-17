@@ -1,0 +1,26 @@
+{
+  "amtabk": "SGleibWV",
+  "ausfertigung_datum": "2005-05-12",
+  "bjnr": "BJNR139400005",
+  "eli": null,
+  "gii_slug": "sgleibwv",
+  "ingested_at": "2026-04-17T15:28:14Z",
+  "jurabk": "SGleibWV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "01dcd7bd2a282106283604b61e4dd3aa5ffd4f6e287eb1cf42580202708a9355"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgleibwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgleibwv/xml.zip"
+  },
+  "stand_datum": "2024-01-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 22.1.2024 I Nr. 17",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen durch Soldatinnen der Bundeswehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

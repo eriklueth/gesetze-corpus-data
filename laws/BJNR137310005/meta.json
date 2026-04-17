@@ -1,0 +1,30 @@
+{
+  "amtabk": "PfandBG",
+  "ausfertigung_datum": "2005-05-22",
+  "bjnr": "BJNR137310005",
+  "eli": null,
+  "gii_slug": "pfandbg",
+  "ingested_at": "2026-04-17T15:26:42Z",
+  "jurabk": "PfandBG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bb8be5092b70dfd7ebb684a6270c3fb41777fccd2c975a68f6a2e69eeee10fe7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pfandbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pfandbg/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 52 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 23 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Pfandbriefgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

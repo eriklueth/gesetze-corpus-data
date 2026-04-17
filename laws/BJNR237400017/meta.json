@@ -1,0 +1,30 @@
+{
+  "amtabk": "KraftStDV",
+  "ausfertigung_datum": "2017-07-12",
+  "bjnr": "BJNR237400017",
+  "eli": null,
+  "gii_slug": "kraftstdv_2017",
+  "ingested_at": "2026-04-17T15:23:49Z",
+  "jurabk": "KraftStDV 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e448886c1fe08e208415a37e8b751803c6bdf07639627d03984fb132757b19a3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kraftstdv_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kraftstdv_2017/xml.zip"
+  },
+  "stand_datum": "1979-07-02",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 611-17-2 v. 2.7.1979 I 901 (KraftStDV 1979)",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 20.7.2023 I Nr. 199",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Kraftfahrzeugsteuer-Durchführungsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

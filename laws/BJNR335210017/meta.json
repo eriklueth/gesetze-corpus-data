@@ -1,0 +1,26 @@
+{
+  "amtabk": "NetzDG",
+  "ausfertigung_datum": "2017-09-01",
+  "bjnr": "BJNR335210017",
+  "eli": null,
+  "gii_slug": "netzdg",
+  "ingested_at": "2026-04-17T15:25:58Z",
+  "jurabk": "NetzDG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "efd86d5abc43d80f9ec6113173c4dc47dc3e509f138db7105f458808f580f625"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/netzdg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/netzdg/xml.zip"
+  },
+  "stand_datum": "2024-05-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 29 G v. 6.5.2024 I Nr. 149",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Verbesserung der Rechtsdurchsetzung in sozialen Netzwerken",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

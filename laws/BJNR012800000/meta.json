@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2000-02-16",
+  "bjnr": "BJNR012800000",
+  "eli": null,
+  "gii_slug": "flul_rmspangv",
+  "ingested_at": "2026-04-17T15:21:35Z",
+  "jurabk": "FluLärmSpangV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "18f677ed866e0e7c53b6561437997ba31d2d60996417f7520b82913400b2deba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flul_rmspangv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flul_rmspangv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Spangdahlem",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

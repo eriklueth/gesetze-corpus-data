@@ -1,0 +1,21 @@
+{
+  "amtabk": "InsoGeldFestV 2018",
+  "ausfertigung_datum": "2017-09-27",
+  "bjnr": "BJNR345800017",
+  "eli": null,
+  "gii_slug": "insogeldfestv_2018",
+  "ingested_at": "2026-04-17T15:23:00Z",
+  "jurabk": "InsoGeldFestV 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "75a1c1e4e16de69dbdc99b42d95795a3e0cddc1d14ee5e7ca569694cc27e646d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/insogeldfestv_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/insogeldfestv_2018/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für das Kalenderjahr 2018",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

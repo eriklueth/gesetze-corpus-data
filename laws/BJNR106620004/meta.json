@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-07-23",
+  "bjnr": "BJNR106620004",
+  "eli": null,
+  "gii_slug": "sozsichabkmkdg",
+  "ingested_at": "2026-04-17T15:28:34Z",
+  "jurabk": "SozSichAbkMKDG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3399d572febee60940e8af1cdf69ebace894581ccfe2ce0912cd24c3d923aacb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkmkdg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkmkdg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 8. Juli 2003 zwischen der Regierung der Bundesrepublik Deutschland und der mazedonischen Regierung über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

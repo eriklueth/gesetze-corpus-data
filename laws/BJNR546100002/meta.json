@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2001-12-17",
+  "bjnr": "BJNR546100002",
+  "eli": null,
+  "gii_slug": "moselschabgt2002abest",
+  "ingested_at": "2026-04-17T15:24:56Z",
+  "jurabk": "MoselSchAbgT2002ABest",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "00832cabfd4d5b212af695a4e4b1fc957147f21740260913cb3bba8c0619a671"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/moselschabgt2002abest/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/moselschabgt2002abest/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Ausführungsbestimmungen zum Tarif für die Schifffahrtsabgaben auf der Mosel zwischen Thionville (Diedenhofen) und Koblenz (Coblence)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

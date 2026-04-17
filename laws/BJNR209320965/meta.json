@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-11-12",
+  "bjnr": "BJNR209320965",
+  "eli": null,
+  "gii_slug": "fmvtr_1965",
+  "ingested_at": "2026-04-17T15:21:35Z",
+  "jurabk": "FMVtr 1965",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0aedada2c7fda34f538500d9c6c330384732d266b8e7d2a8f8b7b989f4692b72"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fmvtr_1965/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fmvtr_1965/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationaler Fernmeldevertrag (Montreux 1965)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

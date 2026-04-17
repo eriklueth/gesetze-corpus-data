@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-06-22",
+  "bjnr": "BJNR214580973",
+  "eli": null,
+  "gii_slug": "dtfrjwabk_ndabk",
+  "ingested_at": "2026-04-17T15:20:07Z",
+  "jurabk": "DtFrJWAbkÄndAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a5c99fc18ca441d1596de20a4397f71f00fecb3f3ea8ac96b0888927b309083a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dtfrjwabk_ndabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dtfrjwabk_ndabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zur Änderung des Abkommens vom 5. Juli 1963 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die Errichtung des deutsch-französischen Jugendwerks",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

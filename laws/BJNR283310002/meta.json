@@ -1,0 +1,26 @@
+{
+  "amtabk": "VersatzV",
+  "ausfertigung_datum": "2002-07-24",
+  "bjnr": "BJNR283310002",
+  "eli": null,
+  "gii_slug": "versatzv",
+  "ingested_at": "2026-04-17T15:30:07Z",
+  "jurabk": "VersatzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5421391a01c4147cc5dd38d7b6ccd22095a92588b1adedc72012f0d57645e74e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/versatzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/versatzv/xml.zip"
+  },
+  "stand_datum": "2012-02-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 Abs. 25 G v. 24.2.2012 I 212",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Versatz von Abfällen unter Tage",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

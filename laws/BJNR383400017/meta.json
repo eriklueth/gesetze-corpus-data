@@ -1,0 +1,26 @@
+{
+  "amtabk": "MVTAusbV",
+  "ausfertigung_datum": "2017-12-04",
+  "bjnr": "BJNR383400017",
+  "eli": null,
+  "gii_slug": "mvtausbv",
+  "ingested_at": "2026-04-17T15:25:54Z",
+  "jurabk": "MVTAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cc41b00baa1868a0f596cde1f028c4d0a329d0b22ba38c9e432ac56613542f8e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mvtausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mvtausbv/xml.zip"
+  },
+  "stand_datum": "1997-05-28",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-1-233 v. 28.5.1997 I 1260 (GießVerfMAusbV 1997)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Verfahrenstechnologen Metall und zur Verfahrenstechnologin Metall",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

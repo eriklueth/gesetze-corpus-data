@@ -1,0 +1,26 @@
+{
+  "amtabk": "FotoAusbV",
+  "ausfertigung_datum": "2025-01-31",
+  "bjnr": "BJNR01D0A0025",
+  "eli": null,
+  "gii_slug": "fotoausbv_2025",
+  "ingested_at": "2026-04-17T15:21:38Z",
+  "jurabk": "FotoAusbV 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9ebe00a6520b22f5978aa9352fc18082d37f6b4172aeb7c374538f7ab9b5935c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fotoausbv_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fotoausbv_2025/xml.zip"
+  },
+  "stand_datum": "2009-05-12",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 7110-6-103 v. 12.5.2009 I 1051 (FotoAusbV 2009)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Fotografen und zur Fotografin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

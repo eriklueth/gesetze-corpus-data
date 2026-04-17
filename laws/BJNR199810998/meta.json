@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZerlG",
+  "ausfertigung_datum": "1998-08-06",
+  "bjnr": "BJNR199810998",
+  "eli": null,
+  "gii_slug": "zerlg_1998",
+  "ingested_at": "2026-04-17T15:31:17Z",
+  "jurabk": "ZerlG 1998",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "080cd201f17b9aed12e36043a110dc21f0834d78ba8c3ff28dfe30e53115a961"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zerlg_1998/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zerlg_1998/xml.zip"
+  },
+  "stand_datum": "2024-12-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 15 G v. 2.12.2024 I Nr. 387",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zerlegungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

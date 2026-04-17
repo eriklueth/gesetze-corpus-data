@@ -1,0 +1,21 @@
+{
+  "amtabk": "WaStrAbG",
+  "ausfertigung_datum": "2016-12-23",
+  "bjnr": "BJNR322410016",
+  "eli": null,
+  "gii_slug": "wastrabg",
+  "ingested_at": "2026-04-17T15:30:22Z",
+  "jurabk": "WaStrAbG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2b4f24e2d2d89dad0340339322f38c033a05a41558a5c052f5e3d5bd5e10cee9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wastrabg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wastrabg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bundeswasserstraßenausbaugesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

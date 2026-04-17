@@ -1,0 +1,26 @@
+{
+  "amtabk": "PflvDV",
+  "ausfertigung_datum": "2012-12-20",
+  "bjnr": "BJNR299400012",
+  "eli": null,
+  "gii_slug": "pflvdv",
+  "ingested_at": "2026-04-17T15:26:45Z",
+  "jurabk": "PflvDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "78c9fda091b69d6e609e5146baea0ad536fadac0e2a4086f9df167be6ca6bf60"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflvdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflvdv/xml.zip"
+  },
+  "stand_datum": "2018-12-12",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 12.12.2018 I 2452",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der Zulage für die private Pflegevorsorge nach dem Vierzehnten Kapitel des Elften Buches Sozialgesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

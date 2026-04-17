@@ -1,0 +1,21 @@
+{
+  "amtabk": "AgrarGeoSchDG",
+  "ausfertigung_datum": "2026-01-11",
+  "bjnr": "BJNR0090B0026",
+  "eli": null,
+  "gii_slug": "agrargeoschdg",
+  "ingested_at": "2026-04-17T15:16:53Z",
+  "jurabk": "AgrarGeoSchDG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ba3700045b32421dc0e7c24908b177f6377b8e7b7b07db3e6004c1d1ed974240"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/agrargeoschdg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/agrargeoschdg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Durchführung des Unionsrechts auf dem Gebiet des Agrargeoschutzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

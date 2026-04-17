@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-08-24",
+  "bjnr": "BJNR517010998",
+  "eli": null,
+  "gii_slug": "luftvodv_189",
+  "ingested_at": "2026-04-17T15:24:32Z",
+  "jurabk": "LuftVODV 189",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5a57ba3dde0dd041eb59cebbc1304d8d944297d0c89cdcdb630ee0d83d4cf759"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_189/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_189/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hundertneunundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen Magdeburg/City)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

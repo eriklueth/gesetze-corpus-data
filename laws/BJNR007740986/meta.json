@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-05-20",
+  "bjnr": "BJNR007740986",
+  "eli": null,
+  "gii_slug": "m_nz5dmbek_1986",
+  "ingested_at": "2026-04-17T15:25:48Z",
+  "jurabk": "Münz5DMBek 1986",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7279004dc99db755450d2fb49c4cd40bd10139f7ab96ea34e04345fe332d4e09"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz5dmbek_1986/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz5dmbek_1986/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 600jähriges Bestehen der Ruprecht-Karls-Universität Heidelberg)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

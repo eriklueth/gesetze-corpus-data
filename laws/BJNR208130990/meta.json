@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-08-29",
+  "bjnr": "BJNR208130990",
+  "eli": null,
+  "gii_slug": "gdtwahlvdvtrg",
+  "ingested_at": "2026-04-17T15:21:58Z",
+  "jurabk": "GDtWahlVDVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d4935f8546c2ba5231da01e9f33916f7c165cc3d1d8fab459c82715eb16f1b97"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gdtwahlvdvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gdtwahlvdvtrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 3. August 1990 zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik sowie dem Änderungsvertrag vom 20. August 1990",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

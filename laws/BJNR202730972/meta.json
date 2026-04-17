@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-03-21",
+  "bjnr": "BJNR202730972",
+  "eli": null,
+  "gii_slug": "schvermssg_nd_bkv",
+  "ingested_at": "2026-04-17T15:27:53Z",
+  "jurabk": "SchVermssgÄndÜbkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b31a15c108dfbe66e5e6e5822278a36a0756ba23afca0519657b8e459f84f209"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schvermssg_nd_bkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schvermssg_nd_bkv/xml.zip"
+  },
+  "stand_datum": "2006-09-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 70 G v. 19.9.2006 I 2146",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zu den Änderungen vom 21. Mai 1965 des Übereinkommens über ein einheitliches System der Schiffsvermessung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

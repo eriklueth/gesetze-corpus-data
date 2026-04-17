@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-04-25",
+  "bjnr": "BJNR007320972",
+  "eli": null,
+  "gii_slug": "essigv",
+  "ingested_at": "2026-04-17T15:20:48Z",
+  "jurabk": "EssigV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ac19c816830655d0620cdd7f6270b8bddce18b069b780d65e1626a008230048b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/essigv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/essigv/xml.zip"
+  },
+  "stand_datum": "2023-01-26",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 26.01.2023 I Nr. 31;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "geändert durch Art. 3 V v. 16.10.2024 I Nr. 315",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Verkehr mit Essig und Essigessenz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-02-12",
+  "bjnr": "BJNR201090984",
+  "eli": null,
+  "gii_slug": "flusigebvbg",
+  "ingested_at": "2026-04-17T15:21:34Z",
+  "jurabk": "FluSiGebVbg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1b77c1e787db8c752446634f5d79a52b448d9c42b8eb54ea8ac7211089b4dcc2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flusigebvbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flusigebvbg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Mehrseitige Vereinbarung über Flugsicherungs-Streckengebühren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2019-07-04",
+  "bjnr": "BJNR092900019",
+  "eli": null,
+  "gii_slug": "glprzhanauv_2019",
+  "ingested_at": "2026-04-17T15:22:17Z",
+  "jurabk": "GlPrZHanauV 2019",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4c51f6c83db1259b474c25629337d9a239aed9be1a88400d71659b40b3406ed8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/glprzhanauv_2019/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/glprzhanauv_2019/xml.zip"
+  },
+  "stand_datum": "2023-08-01",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 2 V am 1.8.2023 außer Kraft; die Geltung dieser V ist gem. § 2 idF d. Art. 1 Nr. 2 V v. 26.6.2023 I Nr. 170 über den 1.8.2023 hinaus bis zum 1.8.2026 verlängert worden",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zur Gleichstellung von Prüfungszeugnissen der Staatlichen Zeichenakademie Hanau mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-01-17",
+  "bjnr": "BJNR016100006",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2006-01-17",
+  "ingested_at": "2026-04-17T15:25:15Z",
+  "jurabk": "Münz10EuroBek 2006-01-17",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "047703949675b8a31629db3f1cb486b3b8a01ef63d1ac3d5832047700226dc8a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2006-01-17/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2006-01-17/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"FIFA Fußball-Weltmeisterschaft Deutschland 2006\" - 4. Ausgabe 2006 -)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

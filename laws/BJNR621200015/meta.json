@@ -1,0 +1,30 @@
+{
+  "amtabk": "MiLoDokV",
+  "ausfertigung_datum": "2015-07-29",
+  "bjnr": "BJNR621200015",
+  "eli": null,
+  "gii_slug": "milodokv_2015",
+  "ingested_at": "2026-04-17T15:24:51Z",
+  "jurabk": "MiLoDokV 2015",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2f548489935c2da600ef591a8e15d61fb5d3ad4393b46dd2134eaa9f586bd55e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/milodokv_2015/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/milodokv_2015/xml.zip"
+  },
+  "stand_datum": "2023-12-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 15.12.2023 I Nr. 372",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 802-5-4 v. 18.12.2014 BAnz AT 29.12.2014 V1 (MiLoDokV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zu den Dokumentationspflichten nach den §§ 16 und 17 des Mindestlohngesetzes und den §§ 18 und 19 des Arbeitnehmer-Entsendegesetzes in Bezug auf bestimmte Arbeitnehmergruppen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

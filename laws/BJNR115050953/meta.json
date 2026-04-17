@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1953-10-29",
+  "bjnr": "BJNR115050953",
+  "eli": null,
+  "gii_slug": "wzg_35pakbek",
+  "ingested_at": "2026-04-17T15:31:06Z",
+  "jurabk": "WZG§35PAKBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "46d23430b06ea004726d8d4f4ca2fa9a45ba7fe46f67829cb4c4b66924da3a0f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35pakbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35pakbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

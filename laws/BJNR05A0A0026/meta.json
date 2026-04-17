@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2026-03-27",
+  "bjnr": "BJNR05A0A0026",
+  "eli": null,
+  "gii_slug": "lupinenv_2026",
+  "ingested_at": "2026-04-17T15:24:36Z",
+  "jurabk": "LupinenV 2026",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b1a04dea037461a81c91bc17aad81819ff3a8ab2a618a988e7534e2bf54aa8bf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lupinenv_2026/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lupinenv_2026/xml.zip"
+  },
+  "stand_datum": "2026-07-01",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 3 mWv 1.7.2026 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung über besondere Anforderungen an Saatgut von Weißer Lupine im Rahmen der Saatgutanerkennung 2026",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

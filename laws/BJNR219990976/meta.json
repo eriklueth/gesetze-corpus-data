@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-12-22",
+  "bjnr": "BJNR219990976",
+  "eli": null,
+  "gii_slug": "nordsfischzprokbek",
+  "ingested_at": "2026-04-17T15:26:02Z",
+  "jurabk": "NordSFischZProkBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "af87bed859abf55404c4601b6b38ebb5f11caf78c15df83599fe25dca88ed411"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nordsfischzprokbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nordsfischzprokbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Nordsee",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

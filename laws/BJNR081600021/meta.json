@@ -1,0 +1,26 @@
+{
+  "amtabk": "PostG-ÜbertrV",
+  "ausfertigung_datum": "2021-04-16",
+  "bjnr": "BJNR081600021",
+  "eli": null,
+  "gii_slug": "postg-_bertrv",
+  "ingested_at": "2026-04-17T15:26:53Z",
+  "jurabk": "PostG-ÜbertrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "13b2edf0a6f4d6b050629fef2ef66068b278076d3cf0e7831c43a88d22ece2e4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postg-_bertrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postg-_bertrv/xml.zip"
+  },
+  "stand_datum": "2024-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 34 G v. 15.7.2024 I Nr. 236, Nr. 331",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Übertragung der Befugnis zum Erlass einer Rechtsverordnung nach § 18a des Postgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

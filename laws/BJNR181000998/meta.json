@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-07-07",
+  "bjnr": "BJNR181000998",
+  "eli": null,
+  "gii_slug": "b_dermeistprv",
+  "ingested_at": "2026-04-17T15:17:33Z",
+  "jurabk": "BäderMeistPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6a25507667bdd105c1078a9f805c26d41a90153066e25450272f8dadc061a1a3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/b_dermeistprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/b_dermeistprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 15 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Meister für Bäderbetriebe/Geprüfte Meisterin für Bäderbetriebe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

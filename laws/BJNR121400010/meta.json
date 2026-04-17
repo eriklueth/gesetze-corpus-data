@@ -1,0 +1,26 @@
+{
+  "amtabk": "GntDAIVVDV",
+  "ausfertigung_datum": "2010-08-11",
+  "bjnr": "BJNR121400010",
+  "eli": null,
+  "gii_slug": "gntdaivaprv",
+  "ingested_at": "2026-04-17T15:22:21Z",
+  "jurabk": "GntDAIVAPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b863fc91fe7dea47f649ec135da1fab5b6906f9ad0ea35f9582dbae483d27961"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gntdaivaprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gntdaivaprv/xml.zip"
+  },
+  "stand_datum": "2025-01-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 15.1.2025 I Nr. 18",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

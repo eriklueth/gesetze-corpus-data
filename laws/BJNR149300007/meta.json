@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-07-20",
+  "bjnr": "BJNR149300007",
+  "eli": null,
+  "gii_slug": "k_ltemechaausbv",
+  "ingested_at": "2026-04-17T15:23:17Z",
+  "jurabk": "KälteMechaAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e9791dd699e0e7b0d1990393e14b5c983a8070f1456dca5b2c34a503dfd83f57"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/k_ltemechaausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/k_ltemechaausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Mechatroniker für Kältetechnik/zur Mechatronikerin für Kältetechnik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

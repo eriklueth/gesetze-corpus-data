@@ -1,0 +1,26 @@
+{
+  "amtabk": "DüMV",
+  "ausfertigung_datum": "2012-12-05",
+  "bjnr": "BJNR248200012",
+  "eli": null,
+  "gii_slug": "d_mv_2012",
+  "ingested_at": "2026-04-17T15:20:08Z",
+  "jurabk": "DüMV 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "17c2d33ab912e850a0e4ee9810b636862931fdc0dc77bd481cd6bc512d448897"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/d_mv_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/d_mv_2012/xml.zip"
+  },
+  "stand_datum": "2019-10-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 2.10.2019 I 1414",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Inverkehrbringen von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "UBSKMG",
+  "ausfertigung_datum": "2025-04-03",
+  "bjnr": "BJNR06B0B0025",
+  "eli": null,
+  "gii_slug": "ubskmg",
+  "ingested_at": "2026-04-17T15:29:39Z",
+  "jurabk": "UBSKMG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6bef66c626c2382c47dd797a17932f9df02af2248b26d6ccd31401f10dd69966"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ubskmg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ubskmg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Einrichtung der oder des Unabhängigen Bundesbeauftragten gegen sexuellen Missbrauch von Kindern und Jugendlichen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,926 @@
+{
+  "bjnr": "BJNR151010001",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Persönlicher Geltungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Sachlicher Geltungsbereich",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Ergänzende Anwendung des Verwaltungsverfahrensgesetzes und der Verwaltungsgerichtsordnung",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Gebot der Beschleunigung",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Arten der Disziplinarmaßnahmen",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Verweis",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Geldbuße",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Kürzung der Dienstbezüge",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Zurückstufung",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Entfernung aus dem Beamtenverhältnis",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Kürzung des Ruhegehalts",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Aberkennung des Ruhegehalts",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Bemessung der Disziplinarmaßnahme",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Zulässigkeit von Disziplinarmaßnahmen nach Straf- oder Bußgeldverfahren",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Disziplinarmaßnahmeverbot wegen Zeitablaufs",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Disziplinarmaßnahmen"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Verwertungsverbot, Entfernung aus der Personalakte",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 1 Einleitung, Ausdehnung und Beschränkung"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Einleitung von Amts wegen",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 1 Einleitung, Ausdehnung und Beschränkung"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Einleitung auf Antrag des Beamten",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 1 Einleitung, Ausdehnung und Beschränkung"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Ausdehnung und Beschränkung",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Unterrichtung, Belehrung und Anhörung des Beamten",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Pflicht zur Durchführung von Ermittlungen, Ausnahmen",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Zusammentreffen von Disziplinarverfahren mit Strafverfahren oder anderen Verfahren, Aussetzung",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Bindung an tatsächliche Feststellungen aus Strafverfahren oder anderen Verfahren",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Beweiserhebung",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Zeugen und Sachverständige",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Herausgabe von Unterlagen",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Beschlagnahmen und Durchsuchungen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Protokoll",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Innerdienstliche Informationen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0029a.md",
+      "heading": "Informationen nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG",
+      "number": "§ 29a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Abschließende Anhörung",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 2 Durchführung"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Abgabe des Disziplinarverfahrens",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 3 Abschlussentscheidung"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Einstellungsverfügung",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 3 Abschlussentscheidung"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Disziplinarverfügung",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 3 Abschlussentscheidung"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Disziplinarbefugnisse",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 3 Abschlussentscheidung"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Grenzen der erneuten Ausübung der Disziplinarbefugnisse",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 3 Abschlussentscheidung"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Wiederaufgreifen des Verfahrens",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 3 Abschlussentscheidung"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Kostentragungspflicht",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 4 Vorläufige Dienstenthebung und Einbehaltung von Bezügen"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Zulässigkeit",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 4 Vorläufige Dienstenthebung und Einbehaltung von Bezügen"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Rechtswirkungen",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 4 Vorläufige Dienstenthebung und Einbehaltung von Bezügen"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Verfall, Erstattung und Nachzahlung",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 5 Widerspruchsverfahren"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Erforderlichkeit, Form und Frist des Widerspruchs",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 5 Widerspruchsverfahren"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Widerspruchsbescheid",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 5 Widerspruchsverfahren"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Grenzen der erneuten Ausübung der Disziplinarbefugnisse",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Behördliches Disziplinarverfahren",
+        "Kapitel 5 Widerspruchsverfahren"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Kostentragungspflicht",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 1 Disziplinargerichtsbarkeit"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Zuständigkeit der Verwaltungsgerichtsbarkeit",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 1 Disziplinargerichtsbarkeit"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Kammer für Disziplinarsachen",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 1 Disziplinargerichtsbarkeit"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Beamtenbeisitzer",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 1 Disziplinargerichtsbarkeit"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Ausschluss von der Ausübung des Richteramts",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 1 Disziplinargerichtsbarkeit"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Nichtheranziehung eines Beamtenbeisitzers",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 1 Disziplinargerichtsbarkeit"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Entbindung vom Amt des Beamtenbeisitzers",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 1 Disziplinargerichtsbarkeit"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Senate für Disziplinarsachen",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 2 Verfahren vor dem Verwaltungsgericht",
+        "Abschnitt 1 Klageverfahren"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Klageerhebung, Form und Frist der Klage",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 2 Verfahren vor dem Verwaltungsgericht",
+        "Abschnitt 1 Klageverfahren"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Beschränkung des Disziplinarverfahrens",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 2 Verfahren vor dem Verwaltungsgericht",
+        "Abschnitt 1 Klageverfahren"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Bindung an tatsächliche Feststellungen aus anderen Verfahren",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 2 Verfahren vor dem Verwaltungsgericht",
+        "Abschnitt 1 Klageverfahren"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Beweisaufnahme",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 2 Verfahren vor dem Verwaltungsgericht",
+        "Abschnitt 1 Klageverfahren"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "(weggefallen)",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 2 Verfahren vor dem Verwaltungsgericht",
+        "Abschnitt 1 Klageverfahren"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Mündliche Verhandlung, Entscheidung durch Urteil",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 2 Verfahren vor dem Verwaltungsgericht",
+        "Abschnitt 1 Klageverfahren"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Grenzen der erneuten Ausübung der Disziplinarbefugnisse",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 2 Verfahren vor dem Verwaltungsgericht",
+        "Abschnitt 2 Besondere Verfahren"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Antrag auf gerichtliche Fristsetzung",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 2 Verfahren vor dem Verwaltungsgericht",
+        "Abschnitt 2 Besondere Verfahren"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Antrag auf Aussetzung der vorläufigen Dienstenthebung und der Einbehaltung von Bezügen",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 3 Verfahren vor dem Oberverwaltungsgericht",
+        "Abschnitt 1 Berufung"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Statthaftigkeit, Form und Frist der Berufung",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 3 Verfahren vor dem Oberverwaltungsgericht",
+        "Abschnitt 1 Berufung"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Berufungsverfahren",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 3 Verfahren vor dem Oberverwaltungsgericht",
+        "Abschnitt 1 Berufung"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Mündliche Verhandlung, Entscheidung durch Urteil",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 3 Verfahren vor dem Oberverwaltungsgericht",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Statthaftigkeit, Form und Frist der Beschwerde",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 3 Verfahren vor dem Oberverwaltungsgericht",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Entscheidung des Oberverwaltungsgerichts",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 4 Verfahren vor dem Bundesverwaltungsgericht"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Form, Frist und Zulassung der Revision",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 4 Verfahren vor dem Bundesverwaltungsgericht"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Revisionsverfahren, Entscheidung über die Revision",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 5 Wiederaufnahme des gerichtlichen Verfahrens"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Wiederaufnahmegründe",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 5 Wiederaufnahme des gerichtlichen Verfahrens"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "Unzulässigkeit der Wiederaufnahme",
+      "number": "§ 72",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 5 Wiederaufnahme des gerichtlichen Verfahrens"
+      ],
+      "file": "paragraphs/0073.md",
+      "heading": "Frist, Verfahren",
+      "number": "§ 73",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 5 Wiederaufnahme des gerichtlichen Verfahrens"
+      ],
+      "file": "paragraphs/0074.md",
+      "heading": "Entscheidung durch Beschluss",
+      "number": "§ 74",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 5 Wiederaufnahme des gerichtlichen Verfahrens"
+      ],
+      "file": "paragraphs/0075.md",
+      "heading": "Mündliche Verhandlung, Entscheidung des Gerichts",
+      "number": "§ 75",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 5 Wiederaufnahme des gerichtlichen Verfahrens"
+      ],
+      "file": "paragraphs/0076.md",
+      "heading": "Rechtswirkungen, Entschädigung",
+      "number": "§ 76",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 6 Kosten"
+      ],
+      "file": "paragraphs/0077.md",
+      "heading": "Kostentragung und erstattungsfähige Kosten",
+      "number": "§ 77",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Gerichtliches Verfahren",
+        "Kapitel 6 Kosten"
+      ],
+      "file": "paragraphs/0078.md",
+      "heading": "Gerichtskosten",
+      "number": "§ 78",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts"
+      ],
+      "file": "paragraphs/0079.md",
+      "heading": "Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts",
+      "number": "§ 79",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts"
+      ],
+      "file": "paragraphs/0080.md",
+      "heading": "Unterhaltsleistung bei Mithilfe zur Aufdeckung von Straftaten",
+      "number": "§ 80",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts"
+      ],
+      "file": "paragraphs/0081.md",
+      "heading": "Begnadigung",
+      "number": "§ 81",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 6 Besondere Bestimmungen für einzelne Beamtengruppen und für Ruhestandsbeamte"
+      ],
+      "file": "paragraphs/0082.md",
+      "heading": "Polizeivollzugsbeamte des Bundes",
+      "number": "§ 82",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 6 Besondere Bestimmungen für einzelne Beamtengruppen und für Ruhestandsbeamte"
+      ],
+      "file": "paragraphs/0083.md",
+      "heading": "Beamte der bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts",
+      "number": "§ 83",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 6 Besondere Bestimmungen für einzelne Beamtengruppen und für Ruhestandsbeamte"
+      ],
+      "file": "paragraphs/0084.md",
+      "heading": "Ausübung der Disziplinarbefugnisse bei Ruhestandsbeamten",
+      "number": "§ 84",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0085.md",
+      "heading": "Übergangsbestimmungen",
+      "number": "§ 85",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0086.md",
+      "heading": "Verwaltungsvorschriften",
+      "number": "§ 86",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0000.md",
+      "heading": "Gebührenverzeichnis",
+      "number": "Anlage (zu § 78)",
+      "type": "annex"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "WindSeeG",
+  "ausfertigung_datum": "2016-10-13",
+  "bjnr": "BJNR231000016",
+  "eli": null,
+  "gii_slug": "windseeg",
+  "ingested_at": "2026-04-17T15:30:35Z",
+  "jurabk": "WindSeeG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "95836ba56f90a6b1570578b2a9d872445f25c97f38d85b1656bbfb418a4caced"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/windseeg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/windseeg/xml.zip"
+  },
+  "stand_datum": "2026-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 29.3.2026 I Nr. 84",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Zur Umsetzung der BVerfGE v. 30.6.2020 I 1993 - 1 BvR 1679/17 wurde § 10a dieses G durch Art. 1 Nr. 10 G v. 3.12.2020 I 2682 mWv 10.12.2020 eingeführt (vgl. BT-Drucksache 19/24039).",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zur Entwicklung und Förderung der Windenergie auf See",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

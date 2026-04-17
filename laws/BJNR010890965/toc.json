@@ -1,0 +1,4627 @@
+{
+  "bjnr": "BJNR010890965",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Wesen der Aktiengesellschaft",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Gründerzahl",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Formkaufmann. Börsennotierung",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Firma",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Sitz",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Grundkapital",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Mindestnennbetrag des Grundkapitals",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Form und Mindestbeträge der Aktien",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Ausgabebetrag der Aktien",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Aktien und Zwischenscheine",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Aktien besonderer Gattung",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Stimmrecht",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Unterzeichnung der Aktien",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Zuständigkeit",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Verbundene Unternehmen",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "In Mehrheitsbesitz stehende Unternehmen und mit Mehrheit beteiligte Unternehmen",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Abhängige und herrschende Unternehmen",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Konzern und Konzernunternehmen",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Wechselseitig beteiligte Unternehmen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Mitteilungspflichten",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Mitteilungspflichten der Gesellschaft",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Nachweis mitgeteilter Beteiligungen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Feststellung der Satzung",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "(weggefallen)",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Bekanntmachungen der Gesellschaft",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Sondervorteile. Gründungsaufwand",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Sacheinlagen, Sachübernahmen; Rückzahlung von Einlagen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Gründer",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Errichtung der Gesellschaft",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Bestellung des Aufsichtsrats, des Vorstands und des Abschlußprüfers",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Bestellung des Aufsichtsrats bei Sachgründung",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Gründungsbericht",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Gründungsprüfung. Allgemeines",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0033a.md",
+      "heading": "Sachgründung ohne externe Gründungsprüfung",
+      "number": "§ 33a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Umfang der Gründungsprüfung",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Meinungsverschiedenheiten zwischen Gründern und Gründungsprüfern. Vergütung und Auslagen der Gründungsprüfer",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Anmeldung der Gesellschaft",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0036a.md",
+      "heading": "Leistung der Einlagen",
+      "number": "§ 36a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Inhalt der Anmeldung",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0037a.md",
+      "heading": "Anmeldung bei Sachgründung ohne externe Gründungsprüfung",
+      "number": "§ 37a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Prüfung durch das Gericht",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Inhalt der Eintragung",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "(weggefallen)",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Handeln im Namen der Gesellschaft vor der Eintragung. Verbotene Aktienausgabe",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Einpersonen-Gesellschaft",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Sitzverlegung",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Verantwortlichkeit der Gründer",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Verantwortlichkeit anderer Personen neben den Gründern",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Verantwortlichkeit des Vorstands und des Aufsichtsrats",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Verantwortlichkeit der Gründungsprüfer",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Verzicht und Vergleich",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Verjährung der Ersatzansprüche",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Nachgründung",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Zweiter Teil Gründung der Gesellschaft"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Ersatzansprüche bei der Nachgründung",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0053a.md",
+      "heading": "Gleichbehandlung der Aktionäre",
+      "number": "§ 53a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Hauptverpflichtung der Aktionäre",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Nebenverpflichtungen der Aktionäre",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Keine Zeichnung eigener Aktien. Aktienübernahme für Rechnung der Gesellschaft oder durch ein abhängiges oder in Mehrheitsbesitz stehendes Unternehmen",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Keine Rückgewähr, keine Verzinsung der Einlagen",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Verwendung des Jahresüberschusses",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Abschlagszahlung auf den Bilanzgewinn",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Gewinnverteilung",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Vergütung von Nebenleistungen",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Haftung der Aktionäre beim Empfang verbotener Leistungen",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Folgen nicht rechtzeitiger Einzahlung",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Ausschluß säumiger Aktionäre",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Zahlungspflicht der Vormänner",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Keine Befreiung der Aktionäre von ihren Leistungspflichten",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Eintragung im Aktienregister",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0067a.md",
+      "heading": "Übermittlung von Informationen über Unternehmensereignisse; Begriffsbestimmungen",
+      "number": "§ 67a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0067b.md",
+      "heading": "Übermittlung von Informationen durch Intermediäre an die Aktionäre",
+      "number": "§ 67b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0067c.md",
+      "heading": "Übermittlung von Informationen durch Intermediäre an die Gesellschaft; Nachweis des Anteilsbesitzes",
+      "number": "§ 67c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0067d.md",
+      "heading": "Informationsanspruch der Gesellschaft gegenüber Intermediären",
+      "number": "§ 67d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0067e.md",
+      "heading": "Verarbeitung und Berichtigung personenbezogener Daten der Aktionäre",
+      "number": "§ 67e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0067f.md",
+      "heading": "Kosten; Verordnungsermächtigung",
+      "number": "§ 67f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Übertragung von Namensaktien. Vinkulierung",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Rechtsgemeinschaft an einer Aktie",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Berechnung der Aktienbesitzzeit",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Erwerb eigener Aktien",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0071a.md",
+      "heading": "Umgehungsgeschäfte",
+      "number": "§ 71a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0071b.md",
+      "heading": "Rechte aus eigenen Aktien",
+      "number": "§ 71b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0071c.md",
+      "heading": "Veräußerung und Einziehung eigener Aktien",
+      "number": "§ 71c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0071d.md",
+      "heading": "Erwerb eigener Aktien durch Dritte",
+      "number": "§ 71d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0071e.md",
+      "heading": "Inpfandnahme eigener Aktien",
+      "number": "§ 71e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "Kraftloserklärung von Aktien im Aufgebotsverfahren",
+      "number": "§ 72",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0073.md",
+      "heading": "Kraftloserklärung von Aktien durch die Gesellschaft",
+      "number": "§ 73",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0074.md",
+      "heading": "Neue Urkunden an Stelle beschädigter oder verunstalteter Aktien oder Zwischenscheine",
+      "number": "§ 74",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter"
+      ],
+      "file": "paragraphs/0075.md",
+      "heading": "Neue Gewinnanteilscheine",
+      "number": "§ 75",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0076.md",
+      "heading": "Leitung der Aktiengesellschaft",
+      "number": "§ 76",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0077.md",
+      "heading": "Geschäftsführung",
+      "number": "§ 77",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0078.md",
+      "heading": "Vertretung",
+      "number": "§ 78",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0079.md",
+      "heading": "(weggefallen)",
+      "number": "§ 79",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0080.md",
+      "heading": "Angaben auf Geschäftsbriefen",
+      "number": "§ 80",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0081.md",
+      "heading": "Änderung des Vorstands und der Vertretungsbefugnis seiner Mitglieder",
+      "number": "§ 81",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0082.md",
+      "heading": "Beschränkungen der Vertretungs- und Geschäftsführungsbefugnis",
+      "number": "§ 82",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0083.md",
+      "heading": "Vorbereitung und Ausführung von Hauptversammlungsbeschlüssen",
+      "number": "§ 83",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0084.md",
+      "heading": "Bestellung und Abberufung des Vorstands",
+      "number": "§ 84",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0085.md",
+      "heading": "Bestellung durch das Gericht",
+      "number": "§ 85",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0086.md",
+      "heading": "",
+      "number": "§ 86",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0087.md",
+      "heading": "Grundsätze für die Bezüge der Vorstandsmitglieder",
+      "number": "§ 87",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0087a.md",
+      "heading": "Vergütungssystem börsennotierter Gesellschaften",
+      "number": "§ 87a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0088.md",
+      "heading": "Wettbewerbsverbot",
+      "number": "§ 88",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0089.md",
+      "heading": "Kreditgewährung an Vorstandsmitglieder",
+      "number": "§ 89",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0090.md",
+      "heading": "Berichte an den Aufsichtsrat",
+      "number": "§ 90",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0091.md",
+      "heading": "Organisation. Buchführung",
+      "number": "§ 91",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0092.md",
+      "heading": "Vorstandspflichten bei Verlust, Überschuldung oder Zahlungsunfähigkeit",
+      "number": "§ 92",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0093.md",
+      "heading": "Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder",
+      "number": "§ 93",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Erster Abschnitt Vorstand"
+      ],
+      "file": "paragraphs/0094.md",
+      "heading": "Stellvertreter von Vorstandsmitgliedern",
+      "number": "§ 94",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0095.md",
+      "heading": "Zahl der Aufsichtsratsmitglieder",
+      "number": "§ 95",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0096.md",
+      "heading": "Zusammensetzung des Aufsichtsrats",
+      "number": "§ 96",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0097.md",
+      "heading": "Bekanntmachung über die Zusammensetzung des Aufsichtsrats",
+      "number": "§ 97",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0098.md",
+      "heading": "Gerichtliche Entscheidung über die Zusammensetzung des Aufsichtsrats",
+      "number": "§ 98",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0099.md",
+      "heading": "Verfahren",
+      "number": "§ 99",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0100.md",
+      "heading": "Persönliche Voraussetzungen für Aufsichtsratsmitglieder",
+      "number": "§ 100",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0101.md",
+      "heading": "Bestellung der Aufsichtsratsmitglieder",
+      "number": "§ 101",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0102.md",
+      "heading": "Amtszeit der Aufsichtsratsmitglieder",
+      "number": "§ 102",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0103.md",
+      "heading": "Abberufung der Aufsichtsratsmitglieder",
+      "number": "§ 103",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0104.md",
+      "heading": "Bestellung durch das Gericht",
+      "number": "§ 104",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0105.md",
+      "heading": "Unvereinbarkeit der Zugehörigkeit zum Vorstand und zum Aufsichtsrat",
+      "number": "§ 105",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0106.md",
+      "heading": "Bekanntmachung der Änderungen im Aufsichtsrat",
+      "number": "§ 106",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0107.md",
+      "heading": "Innere Ordnung des Aufsichtsrats",
+      "number": "§ 107",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0108.md",
+      "heading": "Beschlußfassung des Aufsichtsrats",
+      "number": "§ 108",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0109.md",
+      "heading": "Teilnahme an Sitzungen des Aufsichtsrats und seiner Ausschüsse",
+      "number": "§ 109",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0110.md",
+      "heading": "Einberufung des Aufsichtsrats",
+      "number": "§ 110",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0111.md",
+      "heading": "Aufgaben und Rechte des Aufsichtsrats",
+      "number": "§ 111",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0111a.md",
+      "heading": "Geschäfte mit nahestehenden Personen",
+      "number": "§ 111a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0111b.md",
+      "heading": "Zustimmungsvorbehalt des Aufsichtsrats bei Geschäften mit nahestehenden Personen",
+      "number": "§ 111b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0111c.md",
+      "heading": "Veröffentlichung von Geschäften mit nahestehenden Personen",
+      "number": "§ 111c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0112.md",
+      "heading": "Vertretung der Gesellschaft gegenüber Vorstandsmitgliedern",
+      "number": "§ 112",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0113.md",
+      "heading": "Vergütung der Aufsichtsratsmitglieder",
+      "number": "§ 113",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0114.md",
+      "heading": "Verträge mit Aufsichtsratsmitgliedern",
+      "number": "§ 114",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0115.md",
+      "heading": "Kreditgewährung an Aufsichtsratsmitglieder",
+      "number": "§ 115",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Zweiter Abschnitt Aufsichtsrat"
+      ],
+      "file": "paragraphs/0116.md",
+      "heading": "Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder",
+      "number": "§ 116",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Dritter Abschnitt Benutzung des Einflusses auf die Gesellschaft"
+      ],
+      "file": "paragraphs/0117.md",
+      "heading": "Schadenersatzpflicht",
+      "number": "§ 117",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Erster Unterabschnitt Rechte der Hauptversammlung"
+      ],
+      "file": "paragraphs/0118.md",
+      "heading": "Allgemeines",
+      "number": "§ 118",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Erster Unterabschnitt Rechte der Hauptversammlung"
+      ],
+      "file": "paragraphs/0118a.md",
+      "heading": "Virtuelle Hauptversammlung",
+      "number": "§ 118a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Erster Unterabschnitt Rechte der Hauptversammlung"
+      ],
+      "file": "paragraphs/0119.md",
+      "heading": "Rechte der Hauptversammlung",
+      "number": "§ 119",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Erster Unterabschnitt Rechte der Hauptversammlung"
+      ],
+      "file": "paragraphs/0120.md",
+      "heading": "Entlastung",
+      "number": "§ 120",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Erster Unterabschnitt Rechte der Hauptversammlung"
+      ],
+      "file": "paragraphs/0120a.md",
+      "heading": "Votum zum Vergütungssystem und zum Vergütungsbericht",
+      "number": "§ 120a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Zweiter Unterabschnitt Einberufung der Hauptversammlung"
+      ],
+      "file": "paragraphs/0121.md",
+      "heading": "Allgemeines",
+      "number": "§ 121",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Zweiter Unterabschnitt Einberufung der Hauptversammlung"
+      ],
+      "file": "paragraphs/0122.md",
+      "heading": "Einberufung auf Verlangen einer Minderheit",
+      "number": "§ 122",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Zweiter Unterabschnitt Einberufung der Hauptversammlung"
+      ],
+      "file": "paragraphs/0123.md",
+      "heading": "Frist, Anmeldung zur Hauptversammlung, Nachweis",
+      "number": "§ 123",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Zweiter Unterabschnitt Einberufung der Hauptversammlung"
+      ],
+      "file": "paragraphs/0124.md",
+      "heading": "Bekanntmachung von Ergänzungsverlangen; Vorschläge zur Beschlussfassung",
+      "number": "§ 124",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Zweiter Unterabschnitt Einberufung der Hauptversammlung"
+      ],
+      "file": "paragraphs/0124a.md",
+      "heading": "Veröffentlichungen auf der Internetseite der Gesellschaft",
+      "number": "§ 124a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Zweiter Unterabschnitt Einberufung der Hauptversammlung"
+      ],
+      "file": "paragraphs/0125.md",
+      "heading": "Mitteilungen für die Aktionäre und an Aufsichtsratsmitglieder",
+      "number": "§ 125",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Zweiter Unterabschnitt Einberufung der Hauptversammlung"
+      ],
+      "file": "paragraphs/0126.md",
+      "heading": "Anträge von Aktionären",
+      "number": "§ 126",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Zweiter Unterabschnitt Einberufung der Hauptversammlung"
+      ],
+      "file": "paragraphs/0127.md",
+      "heading": "Wahlvorschläge von Aktionären",
+      "number": "§ 127",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Zweiter Unterabschnitt Einberufung der Hauptversammlung"
+      ],
+      "file": "paragraphs/0127a.md",
+      "heading": "Aktionärsforum",
+      "number": "§ 127a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Zweiter Unterabschnitt Einberufung der Hauptversammlung"
+      ],
+      "file": "paragraphs/0128.md",
+      "heading": "(weggefallen)",
+      "number": "§ 128",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Dritter Unterabschnitt Verhandlungsniederschrift. Auskunftsrecht"
+      ],
+      "file": "paragraphs/0129.md",
+      "heading": "Geschäftsordnung; Verzeichnis der Teilnehmer; Nachweis der Stimmzählung",
+      "number": "§ 129",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Dritter Unterabschnitt Verhandlungsniederschrift. Auskunftsrecht"
+      ],
+      "file": "paragraphs/0130.md",
+      "heading": "Niederschrift",
+      "number": "§ 130",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Dritter Unterabschnitt Verhandlungsniederschrift. Auskunftsrecht"
+      ],
+      "file": "paragraphs/0130a.md",
+      "heading": "Stellungnahme- und Rederecht bei virtuellen Hauptversammlungen",
+      "number": "§ 130a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Dritter Unterabschnitt Verhandlungsniederschrift. Auskunftsrecht"
+      ],
+      "file": "paragraphs/0131.md",
+      "heading": "Auskunftsrecht des Aktionärs",
+      "number": "§ 131",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Dritter Unterabschnitt Verhandlungsniederschrift. Auskunftsrecht"
+      ],
+      "file": "paragraphs/0132.md",
+      "heading": "Gerichtliche Entscheidung über das Auskunftsrecht",
+      "number": "§ 132",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Vierter Unterabschnitt Stimmrecht"
+      ],
+      "file": "paragraphs/0133.md",
+      "heading": "Grundsatz der einfachen Stimmenmehrheit",
+      "number": "§ 133",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Vierter Unterabschnitt Stimmrecht"
+      ],
+      "file": "paragraphs/0134.md",
+      "heading": "Stimmrecht",
+      "number": "§ 134",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Vierter Unterabschnitt Stimmrecht"
+      ],
+      "file": "paragraphs/0134a.md",
+      "heading": "Begriffsbestimmungen; Anwendungsbereich",
+      "number": "§ 134a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Vierter Unterabschnitt Stimmrecht"
+      ],
+      "file": "paragraphs/0134b.md",
+      "heading": "Mitwirkungspolitik, Mitwirkungsbericht, Abstimmungsverhalten",
+      "number": "§ 134b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Vierter Unterabschnitt Stimmrecht"
+      ],
+      "file": "paragraphs/0134c.md",
+      "heading": "Offenlegungspflichten von institutionellen Anlegern und Vermögensverwaltern",
+      "number": "§ 134c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Vierter Unterabschnitt Stimmrecht"
+      ],
+      "file": "paragraphs/0134d.md",
+      "heading": "Offenlegungspflichten der Stimmrechtsberater",
+      "number": "§ 134d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Vierter Unterabschnitt Stimmrecht"
+      ],
+      "file": "paragraphs/0135.md",
+      "heading": "Ausübung des Stimmrechts durch Intermediäre und geschäftsmäßig Handelnde",
+      "number": "§ 135",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Vierter Unterabschnitt Stimmrecht"
+      ],
+      "file": "paragraphs/0135a.md",
+      "heading": "Mehrstimmrechtsaktien",
+      "number": "§ 135a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Vierter Unterabschnitt Stimmrecht"
+      ],
+      "file": "paragraphs/0136.md",
+      "heading": "Ausschluß des Stimmrechts",
+      "number": "§ 136",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Vierter Unterabschnitt Stimmrecht"
+      ],
+      "file": "paragraphs/0137.md",
+      "heading": "Abstimmung über Wahlvorschläge von Aktionären",
+      "number": "§ 137",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Fünfter Unterabschnitt Sonderbeschluß"
+      ],
+      "file": "paragraphs/0138.md",
+      "heading": "Gesonderte Versammlung. Gesonderte Abstimmung",
+      "number": "§ 138",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Sechster Unterabschnitt Vorzugsaktien ohne Stimmrecht"
+      ],
+      "file": "paragraphs/0139.md",
+      "heading": "Wesen",
+      "number": "§ 139",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Sechster Unterabschnitt Vorzugsaktien ohne Stimmrecht"
+      ],
+      "file": "paragraphs/0140.md",
+      "heading": "Rechte der Vorzugsaktionäre",
+      "number": "§ 140",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Sechster Unterabschnitt Vorzugsaktien ohne Stimmrecht"
+      ],
+      "file": "paragraphs/0141.md",
+      "heading": "Aufhebung oder Beschränkung des Vorzugs",
+      "number": "§ 141",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Siebenter Unterabschnitt Sonderprüfung. Geltendmachung von Ersatzansprüchen"
+      ],
+      "file": "paragraphs/0142.md",
+      "heading": "Bestellung der Sonderprüfer",
+      "number": "§ 142",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Siebenter Unterabschnitt Sonderprüfung. Geltendmachung von Ersatzansprüchen"
+      ],
+      "file": "paragraphs/0143.md",
+      "heading": "Auswahl der Sonderprüfer",
+      "number": "§ 143",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Siebenter Unterabschnitt Sonderprüfung. Geltendmachung von Ersatzansprüchen"
+      ],
+      "file": "paragraphs/0144.md",
+      "heading": "Verantwortlichkeit der Sonderprüfer",
+      "number": "§ 144",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Siebenter Unterabschnitt Sonderprüfung. Geltendmachung von Ersatzansprüchen"
+      ],
+      "file": "paragraphs/0145.md",
+      "heading": "Rechte der Sonderprüfer. Prüfungsbericht",
+      "number": "§ 145",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Siebenter Unterabschnitt Sonderprüfung. Geltendmachung von Ersatzansprüchen"
+      ],
+      "file": "paragraphs/0146.md",
+      "heading": "Kosten",
+      "number": "§ 146",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Siebenter Unterabschnitt Sonderprüfung. Geltendmachung von Ersatzansprüchen"
+      ],
+      "file": "paragraphs/0147.md",
+      "heading": "Geltendmachung von Ersatzansprüchen",
+      "number": "§ 147",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Siebenter Unterabschnitt Sonderprüfung. Geltendmachung von Ersatzansprüchen"
+      ],
+      "file": "paragraphs/0148.md",
+      "heading": "Klagezulassungsverfahren",
+      "number": "§ 148",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Vierter Teil Verfassung der Aktiengesellschaft",
+        "Vierter Abschnitt Hauptversammlung",
+        "Siebenter Unterabschnitt Sonderprüfung. Geltendmachung von Ersatzansprüchen"
+      ],
+      "file": "paragraphs/0149.md",
+      "heading": "Bekanntmachungen zur Haftungsklage",
+      "number": "§ 149",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Erster Abschnitt Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht"
+      ],
+      "file": "paragraphs/0150.md",
+      "heading": "Gesetzliche Rücklage. Kapitalrücklage",
+      "number": "§ 150",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Erster Abschnitt Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht"
+      ],
+      "file": "paragraphs/0150a.md",
+      "heading": "(weggefallen)",
+      "number": "§ 150a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Erster Abschnitt Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht"
+      ],
+      "file": "paragraphs/0151.md",
+      "heading": "(weggefallen)",
+      "number": "§ 151",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Erster Abschnitt Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht"
+      ],
+      "file": "paragraphs/0152.md",
+      "heading": "Vorschriften zur Bilanz",
+      "number": "§ 152",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Erster Abschnitt Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht"
+      ],
+      "file": "paragraphs/0158.md",
+      "heading": "Vorschriften zur Gewinn- und Verlustrechnung",
+      "number": "§ 158",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Erster Abschnitt Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht"
+      ],
+      "file": "paragraphs/0159.md",
+      "heading": "",
+      "number": "§ 159",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Erster Abschnitt Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht"
+      ],
+      "file": "paragraphs/0160.md",
+      "heading": "Vorschriften zum Anhang",
+      "number": "§ 160",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Erster Abschnitt Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht"
+      ],
+      "file": "paragraphs/0161.md",
+      "heading": "Erklärung zum Corporate Governance Kodex",
+      "number": "§ 161",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Erster Abschnitt Jahresabschluss und Lagebericht; Entsprechenserklärung und Vergütungsbericht"
+      ],
+      "file": "paragraphs/0162.md",
+      "heading": "Vergütungsbericht",
+      "number": "§ 162",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Zweiter Abschnitt Prüfung des Jahresabschlusses",
+        "Zweiter Unterabschnitt Prüfung durch den Aufsichtsrat"
+      ],
+      "file": "paragraphs/0170.md",
+      "heading": "Vorlage an den Aufsichtsrat",
+      "number": "§ 170",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Zweiter Abschnitt Prüfung des Jahresabschlusses",
+        "Zweiter Unterabschnitt Prüfung durch den Aufsichtsrat"
+      ],
+      "file": "paragraphs/0171.md",
+      "heading": "Prüfung durch den Aufsichtsrat",
+      "number": "§ 171",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Dritter Abschnitt Feststellung des Jahresabschlusses. Gewinnverwendung",
+        "Erster Unterabschnitt Feststellung des Jahresabschlusses"
+      ],
+      "file": "paragraphs/0172.md",
+      "heading": "Feststellung durch Vorstand und Aufsichtsrat",
+      "number": "§ 172",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Dritter Abschnitt Feststellung des Jahresabschlusses. Gewinnverwendung",
+        "Erster Unterabschnitt Feststellung des Jahresabschlusses"
+      ],
+      "file": "paragraphs/0173.md",
+      "heading": "Feststellung durch die Hauptversammlung",
+      "number": "§ 173",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Dritter Abschnitt Feststellung des Jahresabschlusses. Gewinnverwendung",
+        "Zweiter Unterabschnitt Gewinnverwendung"
+      ],
+      "file": "paragraphs/0174.md",
+      "heading": "",
+      "number": "§ 174",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Dritter Abschnitt Feststellung des Jahresabschlusses. Gewinnverwendung",
+        "Dritter Unterabschnitt Ordentliche Hauptversammlung"
+      ],
+      "file": "paragraphs/0175.md",
+      "heading": "Einberufung",
+      "number": "§ 175",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Dritter Abschnitt Feststellung des Jahresabschlusses. Gewinnverwendung",
+        "Dritter Unterabschnitt Ordentliche Hauptversammlung"
+      ],
+      "file": "paragraphs/0176.md",
+      "heading": "Vorlagen. Anwesenheit des Abschlußprüfers",
+      "number": "§ 176",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Vierter Abschnitt Bekanntmachung des Jahresabschlusses"
+      ],
+      "file": "paragraphs/0177.md",
+      "heading": "",
+      "number": "§ 177",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Fünfter Teil Rechnungslegung Gewinnverwendung",
+        "Vierter Abschnitt Bekanntmachung des Jahresabschlusses"
+      ],
+      "file": "paragraphs/0178.md",
+      "heading": "",
+      "number": "§ 178",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Erster Abschnitt Satzungsänderung"
+      ],
+      "file": "paragraphs/0179.md",
+      "heading": "Beschluß der Hauptversammlung",
+      "number": "§ 179",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Erster Abschnitt Satzungsänderung"
+      ],
+      "file": "paragraphs/0179a.md",
+      "heading": "Verpflichtung zur Übertragung des ganzen Gesellschaftsvermögens",
+      "number": "§ 179a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Erster Abschnitt Satzungsänderung"
+      ],
+      "file": "paragraphs/0180.md",
+      "heading": "Zustimmung der betroffenen Aktionäre",
+      "number": "§ 180",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Erster Abschnitt Satzungsänderung"
+      ],
+      "file": "paragraphs/0181.md",
+      "heading": "Eintragung der Satzungsänderung",
+      "number": "§ 181",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0182.md",
+      "heading": "Voraussetzungen",
+      "number": "§ 182",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0183.md",
+      "heading": "Kapitalerhöhung mit Sacheinlagen; Rückzahlung von Einlagen",
+      "number": "§ 183",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0183a.md",
+      "heading": "Kapitalerhöhung mit Sacheinlagen ohne Prüfung",
+      "number": "§ 183a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0184.md",
+      "heading": "Anmeldung des Beschlusses",
+      "number": "§ 184",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0185.md",
+      "heading": "Zeichnung der neuen Aktien",
+      "number": "§ 185",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0186.md",
+      "heading": "Bezugsrecht",
+      "number": "§ 186",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0187.md",
+      "heading": "Zusicherung von Rechten auf den Bezug neuer Aktien",
+      "number": "§ 187",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0188.md",
+      "heading": "Anmeldung und Eintragung der Durchführung",
+      "number": "§ 188",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0189.md",
+      "heading": "Wirksamwerden der Kapitalerhöhung",
+      "number": "§ 189",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0190.md",
+      "heading": "(weggefallen)",
+      "number": "§ 190",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Erster Unterabschnitt Kapitalerhöhung gegen Einlagen"
+      ],
+      "file": "paragraphs/0191.md",
+      "heading": "Verbotene Ausgabe von Aktien und Zwischenscheinen",
+      "number": "§ 191",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Zweiter Unterabschnitt Bedingte Kapitalerhöhung"
+      ],
+      "file": "paragraphs/0192.md",
+      "heading": "Voraussetzungen",
+      "number": "§ 192",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Zweiter Unterabschnitt Bedingte Kapitalerhöhung"
+      ],
+      "file": "paragraphs/0193.md",
+      "heading": "Erfordernisse des Beschlusses",
+      "number": "§ 193",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Zweiter Unterabschnitt Bedingte Kapitalerhöhung"
+      ],
+      "file": "paragraphs/0194.md",
+      "heading": "Bedingte Kapitalerhöhung mit Sacheinlagen; Rückzahlung von Einlagen",
+      "number": "§ 194",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Zweiter Unterabschnitt Bedingte Kapitalerhöhung"
+      ],
+      "file": "paragraphs/0195.md",
+      "heading": "Anmeldung des Beschlusses",
+      "number": "§ 195",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Zweiter Unterabschnitt Bedingte Kapitalerhöhung"
+      ],
+      "file": "paragraphs/0196.md",
+      "heading": "(weggefallen)",
+      "number": "§ 196",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Zweiter Unterabschnitt Bedingte Kapitalerhöhung"
+      ],
+      "file": "paragraphs/0197.md",
+      "heading": "Verbotene Aktienausgabe",
+      "number": "§ 197",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Zweiter Unterabschnitt Bedingte Kapitalerhöhung"
+      ],
+      "file": "paragraphs/0198.md",
+      "heading": "Bezugserklärung",
+      "number": "§ 198",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Zweiter Unterabschnitt Bedingte Kapitalerhöhung"
+      ],
+      "file": "paragraphs/0199.md",
+      "heading": "Ausgabe der Bezugsaktien",
+      "number": "§ 199",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Zweiter Unterabschnitt Bedingte Kapitalerhöhung"
+      ],
+      "file": "paragraphs/0200.md",
+      "heading": "Wirksamwerden der bedingten Kapitalerhöhung",
+      "number": "§ 200",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Zweiter Unterabschnitt Bedingte Kapitalerhöhung"
+      ],
+      "file": "paragraphs/0201.md",
+      "heading": "Anmeldung der Ausgabe von Bezugsaktien",
+      "number": "§ 201",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Dritter Unterabschnitt Genehmigtes Kapital"
+      ],
+      "file": "paragraphs/0202.md",
+      "heading": "Voraussetzungen",
+      "number": "§ 202",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Dritter Unterabschnitt Genehmigtes Kapital"
+      ],
+      "file": "paragraphs/0203.md",
+      "heading": "Ausgabe der neuen Aktien",
+      "number": "§ 203",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Dritter Unterabschnitt Genehmigtes Kapital"
+      ],
+      "file": "paragraphs/0204.md",
+      "heading": "Bedingungen der Aktienausgabe",
+      "number": "§ 204",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Dritter Unterabschnitt Genehmigtes Kapital"
+      ],
+      "file": "paragraphs/0205.md",
+      "heading": "Ausgabe gegen Sacheinlagen; Rückzahlung von Einlagen",
+      "number": "§ 205",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Dritter Unterabschnitt Genehmigtes Kapital"
+      ],
+      "file": "paragraphs/0206.md",
+      "heading": "Verträge über Sacheinlagen vor Eintragung der Gesellschaft",
+      "number": "§ 206",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0207.md",
+      "heading": "Voraussetzungen",
+      "number": "§ 207",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0208.md",
+      "heading": "Umwandlungsfähigkeit von Kapital- und Gewinnrücklagen",
+      "number": "§ 208",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0209.md",
+      "heading": "Zugrunde gelegte Bilanz",
+      "number": "§ 209",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0210.md",
+      "heading": "Anmeldung und Eintragung des Beschlusses",
+      "number": "§ 210",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0211.md",
+      "heading": "Wirksamwerden der Kapitalerhöhung",
+      "number": "§ 211",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0212.md",
+      "heading": "Aus der Kapitalerhöhung Berechtigte",
+      "number": "§ 212",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0213.md",
+      "heading": "Teilrechte",
+      "number": "§ 213",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0214.md",
+      "heading": "Aufforderung an die Aktionäre",
+      "number": "§ 214",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0215.md",
+      "heading": "Eigene Aktien. Teileingezahlte Aktien",
+      "number": "§ 215",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0216.md",
+      "heading": "Wahrung der Rechte der Aktionäre und Dritter",
+      "number": "§ 216",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0217.md",
+      "heading": "Beginn der Gewinnbeteiligung",
+      "number": "§ 217",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0218.md",
+      "heading": "Bedingtes Kapital",
+      "number": "§ 218",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0219.md",
+      "heading": "Verbotene Ausgabe von Aktien und Zwischenscheinen",
+      "number": "§ 219",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Vierter Unterabschnitt Kapitalerhöhung aus Gesellschaftsmitteln"
+      ],
+      "file": "paragraphs/0220.md",
+      "heading": "Wertansätze",
+      "number": "§ 220",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Zweiter Abschnitt Maßnahmen der Kapitalbeschaffung",
+        "Fünfter Unterabschnitt Wandelschuldverschreibungen. Gewinnschuldverschreibungen"
+      ],
+      "file": "paragraphs/0221.md",
+      "heading": "",
+      "number": "§ 221",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Erster Unterabschnitt Ordentliche Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0222.md",
+      "heading": "Voraussetzungen",
+      "number": "§ 222",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Erster Unterabschnitt Ordentliche Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0223.md",
+      "heading": "Anmeldung des Beschlusses",
+      "number": "§ 223",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Erster Unterabschnitt Ordentliche Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0224.md",
+      "heading": "Wirksamwerden der Kapitalherabsetzung",
+      "number": "§ 224",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Erster Unterabschnitt Ordentliche Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0225.md",
+      "heading": "Gläubigerschutz",
+      "number": "§ 225",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Erster Unterabschnitt Ordentliche Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0226.md",
+      "heading": "Kraftloserklärung von Aktien",
+      "number": "§ 226",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Erster Unterabschnitt Ordentliche Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0227.md",
+      "heading": "Anmeldung der Durchführung",
+      "number": "§ 227",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Erster Unterabschnitt Ordentliche Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0228.md",
+      "heading": "Herabsetzung unter den Mindestnennbetrag",
+      "number": "§ 228",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Zweiter Unterabschnitt Vereinfachte Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0229.md",
+      "heading": "Voraussetzungen",
+      "number": "§ 229",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Zweiter Unterabschnitt Vereinfachte Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0230.md",
+      "heading": "Verbot von Zahlungen an die Aktionäre",
+      "number": "§ 230",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Zweiter Unterabschnitt Vereinfachte Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0231.md",
+      "heading": "Beschränkte Einstellung in die Kapitalrücklage und in die gesetzliche Rücklage",
+      "number": "§ 231",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Zweiter Unterabschnitt Vereinfachte Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0232.md",
+      "heading": "Einstellung von Beträgen in die Kapitalrücklage bei zu hoch angenommenen Verlusten",
+      "number": "§ 232",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Zweiter Unterabschnitt Vereinfachte Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0233.md",
+      "heading": "Gewinnausschüttung. Gläubigerschutz",
+      "number": "§ 233",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Zweiter Unterabschnitt Vereinfachte Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0234.md",
+      "heading": "Rückwirkung der Kapitalherabsetzung",
+      "number": "§ 234",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Zweiter Unterabschnitt Vereinfachte Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0235.md",
+      "heading": "Rückwirkung einer gleichzeitigen Kapitalerhöhung",
+      "number": "§ 235",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Zweiter Unterabschnitt Vereinfachte Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0236.md",
+      "heading": "Offenlegung",
+      "number": "§ 236",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Dritter Unterabschnitt Kapitalherabsetzung durch Einziehung von Aktien. Ausnahme für Stückaktien"
+      ],
+      "file": "paragraphs/0237.md",
+      "heading": "Voraussetzungen",
+      "number": "§ 237",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Dritter Unterabschnitt Kapitalherabsetzung durch Einziehung von Aktien. Ausnahme für Stückaktien"
+      ],
+      "file": "paragraphs/0238.md",
+      "heading": "Wirksamwerden der Kapitalherabsetzung",
+      "number": "§ 238",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Dritter Unterabschnitt Kapitalherabsetzung durch Einziehung von Aktien. Ausnahme für Stückaktien"
+      ],
+      "file": "paragraphs/0239.md",
+      "heading": "Anmeldung der Durchführung",
+      "number": "§ 239",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung",
+        "Dritter Abschnitt Maßnahmen der Kapitalherabsetzung",
+        "Vierter Unterabschnitt Ausweis der Kapitalherabsetzung"
+      ],
+      "file": "paragraphs/0240.md",
+      "heading": "",
+      "number": "§ 240",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0241.md",
+      "heading": "Nichtigkeitsgründe",
+      "number": "§ 241",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0242.md",
+      "heading": "Heilung der Nichtigkeit",
+      "number": "§ 242",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0243.md",
+      "heading": "Anfechtungsgründe",
+      "number": "§ 243",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0244.md",
+      "heading": "Bestätigung anfechtbarer Hauptversammlungsbeschlüsse*.",
+      "number": "§ 244",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0245.md",
+      "heading": "Anfechtungsbefugnis",
+      "number": "§ 245",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0246.md",
+      "heading": "Anfechtungsklage",
+      "number": "§ 246",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0246a.md",
+      "heading": "Freigabeverfahren",
+      "number": "§ 246a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0247.md",
+      "heading": "Streitwert",
+      "number": "§ 247",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0248.md",
+      "heading": "Urteilswirkung",
+      "number": "§ 248",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0248a.md",
+      "heading": "Bekanntmachungen zur Anfechtungsklage",
+      "number": "§ 248a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Erster Unterabschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0249.md",
+      "heading": "Nichtigkeitsklage",
+      "number": "§ 249",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Zweiter Unterabschnitt Nichtigkeit bestimmter Hauptversammlungsbeschlüsse"
+      ],
+      "file": "paragraphs/0250.md",
+      "heading": "Nichtigkeit der Wahl von Aufsichtsratsmitgliedern",
+      "number": "§ 250",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Zweiter Unterabschnitt Nichtigkeit bestimmter Hauptversammlungsbeschlüsse"
+      ],
+      "file": "paragraphs/0251.md",
+      "heading": "Anfechtung der Wahl von Aufsichtsratsmitgliedern",
+      "number": "§ 251",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Zweiter Unterabschnitt Nichtigkeit bestimmter Hauptversammlungsbeschlüsse"
+      ],
+      "file": "paragraphs/0252.md",
+      "heading": "Urteilswirkung",
+      "number": "§ 252",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Zweiter Unterabschnitt Nichtigkeit bestimmter Hauptversammlungsbeschlüsse"
+      ],
+      "file": "paragraphs/0253.md",
+      "heading": "Nichtigkeit des Beschlusses über die Verwendung des Bilanzgewinns",
+      "number": "§ 253",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Zweiter Unterabschnitt Nichtigkeit bestimmter Hauptversammlungsbeschlüsse"
+      ],
+      "file": "paragraphs/0254.md",
+      "heading": "Anfechtung des Beschlusses über die Verwendung des Bilanzgewinns",
+      "number": "§ 254",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Zweiter Unterabschnitt Nichtigkeit bestimmter Hauptversammlungsbeschlüsse"
+      ],
+      "file": "paragraphs/0255.md",
+      "heading": "Anfechtung der Kapitalerhöhung gegen Einlagen",
+      "number": "§ 255",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Zweiter Unterabschnitt Nichtigkeit bestimmter Hauptversammlungsbeschlüsse"
+      ],
+      "file": "paragraphs/0255a.md",
+      "heading": "Gewährung zusätzlicher Aktien",
+      "number": "§ 255a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Erster Abschnitt Nichtigkeit von Hauptversammlungsbeschlüssen",
+        "Zweiter Unterabschnitt Nichtigkeit bestimmter Hauptversammlungsbeschlüsse"
+      ],
+      "file": "paragraphs/0255b.md",
+      "heading": "Kapitalerhöhung zur Gewährung zusätzlicher Aktien",
+      "number": "§ 255b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Zweiter Abschnitt Nichtigkeit des festgestellten Jahresabschlusses"
+      ],
+      "file": "paragraphs/0256.md",
+      "heading": "Nichtigkeit",
+      "number": "§ 256",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Zweiter Abschnitt Nichtigkeit des festgestellten Jahresabschlusses"
+      ],
+      "file": "paragraphs/0257.md",
+      "heading": "Anfechtung der Feststellung des Jahresabschlusses durch die Hauptversammlung",
+      "number": "§ 257",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Dritter Abschnitt Sonderprüfung wegen unzulässiger Unterbewertung"
+      ],
+      "file": "paragraphs/0258.md",
+      "heading": "Bestellung der Sonderprüfer",
+      "number": "§ 258",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Dritter Abschnitt Sonderprüfung wegen unzulässiger Unterbewertung"
+      ],
+      "file": "paragraphs/0259.md",
+      "heading": "Prüfungsbericht. Abschließende Feststellungen",
+      "number": "§ 259",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Dritter Abschnitt Sonderprüfung wegen unzulässiger Unterbewertung"
+      ],
+      "file": "paragraphs/0260.md",
+      "heading": "Gerichtliche Entscheidung über die abschließenden Feststellungen der Sonderprüfer",
+      "number": "§ 260",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Dritter Abschnitt Sonderprüfung wegen unzulässiger Unterbewertung"
+      ],
+      "file": "paragraphs/0261.md",
+      "heading": "Entscheidung über den Ertrag auf Grund höherer Bewertung",
+      "number": "§ 261",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung",
+        "Dritter Abschnitt Sonderprüfung wegen unzulässiger Unterbewertung"
+      ],
+      "file": "paragraphs/0261a.md",
+      "heading": "Mitteilungen an die Bundesanstalt für Finanzdienstleistungsaufsicht",
+      "number": "§ 261a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Erster Unterabschnitt Auflösungsgründe und Anmeldung"
+      ],
+      "file": "paragraphs/0262.md",
+      "heading": "Auflösungsgründe",
+      "number": "§ 262",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Erster Unterabschnitt Auflösungsgründe und Anmeldung"
+      ],
+      "file": "paragraphs/0263.md",
+      "heading": "Anmeldung und Eintragung der Auflösung",
+      "number": "§ 263",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0264.md",
+      "heading": "Notwendigkeit der Abwicklung",
+      "number": "§ 264",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0265.md",
+      "heading": "Abwickler",
+      "number": "§ 265",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0266.md",
+      "heading": "Anmeldung der Abwickler",
+      "number": "§ 266",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0267.md",
+      "heading": "Aufruf der Gläubiger",
+      "number": "§ 267",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0268.md",
+      "heading": "Pflichten der Abwickler",
+      "number": "§ 268",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0269.md",
+      "heading": "Vertretung durch die Abwickler",
+      "number": "§ 269",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0270.md",
+      "heading": "Eröffnungsbilanz. Jahresabschluß und Lagebericht",
+      "number": "§ 270",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0271.md",
+      "heading": "Verteilung des Vermögens",
+      "number": "§ 271",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0272.md",
+      "heading": "Gläubigerschutz",
+      "number": "§ 272",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0273.md",
+      "heading": "Schluß der Abwicklung",
+      "number": "§ 273",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Erster Abschnitt Auflösung",
+        "Zweiter Unterabschnitt Abwicklung"
+      ],
+      "file": "paragraphs/0274.md",
+      "heading": "Fortsetzung einer aufgelösten Gesellschaft",
+      "number": "§ 274",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Zweiter Abschnitt Nichtigerklärung der Gesellschaft"
+      ],
+      "file": "paragraphs/0275.md",
+      "heading": "Klage auf Nichtigerklärung",
+      "number": "§ 275",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Zweiter Abschnitt Nichtigerklärung der Gesellschaft"
+      ],
+      "file": "paragraphs/0276.md",
+      "heading": "Heilung von Mängeln",
+      "number": "§ 276",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Erster Teil Allgemeine Vorschriften",
+        "Achter Teil Auflösung und Nichtigerklärung der Gesellschaft",
+        "Zweiter Abschnitt Nichtigerklärung der Gesellschaft"
+      ],
+      "file": "paragraphs/0277.md",
+      "heading": "Wirkung der Eintragung der Nichtigkeit",
+      "number": "§ 277",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0278.md",
+      "heading": "Wesen der Kommanditgesellschaft auf Aktien",
+      "number": "§ 278",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0279.md",
+      "heading": "Firma",
+      "number": "§ 279",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0280.md",
+      "heading": "Feststellung der Satzung. Gründer",
+      "number": "§ 280",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0281.md",
+      "heading": "Inhalt der Satzung",
+      "number": "§ 281",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0282.md",
+      "heading": "Eintragung der persönlich haftenden Gesellschafter",
+      "number": "§ 282",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0283.md",
+      "heading": "Persönlich haftende Gesellschafter",
+      "number": "§ 283",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0284.md",
+      "heading": "Wettbewerbsverbot",
+      "number": "§ 284",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0285.md",
+      "heading": "Hauptversammlung",
+      "number": "§ 285",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0286.md",
+      "heading": "Jahresabschluß. Lagebericht",
+      "number": "§ 286",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0287.md",
+      "heading": "Aufsichtsrat",
+      "number": "§ 287",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0288.md",
+      "heading": "Entnahmen der persönlich haftenden Gesellschafter. Kreditgewährung",
+      "number": "§ 288",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0289.md",
+      "heading": "Auflösung",
+      "number": "§ 289",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Zweites Buch Kommanditgesellschaft auf Aktien"
+      ],
+      "file": "paragraphs/0290.md",
+      "heading": "Abwicklung",
+      "number": "§ 290",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Erster Abschnitt Arten von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0291.md",
+      "heading": "Beherrschungsvertrag. Gewinnabführungsvertrag",
+      "number": "§ 291",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Erster Abschnitt Arten von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0292.md",
+      "heading": "Andere Unternehmensverträge",
+      "number": "§ 292",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0293.md",
+      "heading": "Zustimmung der Hauptversammlung",
+      "number": "§ 293",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0293a.md",
+      "heading": "Bericht über den Unternehmensvertrag",
+      "number": "§ 293a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0293b.md",
+      "heading": "Prüfung des Unternehmensvertrags",
+      "number": "§ 293b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0293c.md",
+      "heading": "Bestellung der Vertragsprüfer",
+      "number": "§ 293c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0293d.md",
+      "heading": "Auswahl, Stellung und Verantwortlichkeit der Vertragsprüfer",
+      "number": "§ 293d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0293e.md",
+      "heading": "Prüfungsbericht",
+      "number": "§ 293e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0293f.md",
+      "heading": "Vorbereitung der Hauptversammlung",
+      "number": "§ 293f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0293g.md",
+      "heading": "Durchführung der Hauptversammlung",
+      "number": "§ 293g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0294.md",
+      "heading": "Eintragung. Wirksamwerden",
+      "number": "§ 294",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0295.md",
+      "heading": "Änderung",
+      "number": "§ 295",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0296.md",
+      "heading": "Aufhebung",
+      "number": "§ 296",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0297.md",
+      "heading": "Kündigung",
+      "number": "§ 297",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0298.md",
+      "heading": "Anmeldung und Eintragung",
+      "number": "§ 298",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Zweiter Abschnitt Abschluß, Änderung und Beendigung von Unternehmensverträgen"
+      ],
+      "file": "paragraphs/0299.md",
+      "heading": "Ausschluß von Weisungen",
+      "number": "§ 299",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Dritter Abschnitt Sicherung der Gesellschaft und der Gläubiger"
+      ],
+      "file": "paragraphs/0300.md",
+      "heading": "Gesetzliche Rücklage",
+      "number": "§ 300",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Dritter Abschnitt Sicherung der Gesellschaft und der Gläubiger"
+      ],
+      "file": "paragraphs/0301.md",
+      "heading": "Höchstbetrag der Gewinnabführung",
+      "number": "§ 301",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Dritter Abschnitt Sicherung der Gesellschaft und der Gläubiger"
+      ],
+      "file": "paragraphs/0302.md",
+      "heading": "Verlustübernahme",
+      "number": "§ 302",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Dritter Abschnitt Sicherung der Gesellschaft und der Gläubiger"
+      ],
+      "file": "paragraphs/0303.md",
+      "heading": "Gläubigerschutz",
+      "number": "§ 303",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Vierter Abschnitt Sicherung der außenstehenden Aktionäre bei Beherrschungs- und Gewinnabführungsverträgen"
+      ],
+      "file": "paragraphs/0304.md",
+      "heading": "Angemessener Ausgleich",
+      "number": "§ 304",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Vierter Abschnitt Sicherung der außenstehenden Aktionäre bei Beherrschungs- und Gewinnabführungsverträgen"
+      ],
+      "file": "paragraphs/0305.md",
+      "heading": "Abfindung",
+      "number": "§ 305",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Vierter Abschnitt Sicherung der außenstehenden Aktionäre bei Beherrschungs- und Gewinnabführungsverträgen"
+      ],
+      "file": "paragraphs/0306.md",
+      "heading": "",
+      "number": "§ 306",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Erster Teil Unternehmensverträge",
+        "Vierter Abschnitt Sicherung der außenstehenden Aktionäre bei Beherrschungs- und Gewinnabführungsverträgen"
+      ],
+      "file": "paragraphs/0307.md",
+      "heading": "Vertragsbeendigung zur Sicherung außenstehender Aktionäre",
+      "number": "§ 307",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Erster Abschnitt Leitungsmacht und Verantwortlichkeit bei Bestehen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0308.md",
+      "heading": "Leitungsmacht",
+      "number": "§ 308",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Erster Abschnitt Leitungsmacht und Verantwortlichkeit bei Bestehen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0309.md",
+      "heading": "Verantwortlichkeit der gesetzlichen Vertreter des herrschenden Unternehmens",
+      "number": "§ 309",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Erster Abschnitt Leitungsmacht und Verantwortlichkeit bei Bestehen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0310.md",
+      "heading": "Verantwortlichkeit der Verwaltungsmitglieder der Gesellschaft",
+      "number": "§ 310",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Zweiter Abschnitt Verantwortlichkeit bei Fehlen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0311.md",
+      "heading": "Schranken des Einflusses",
+      "number": "§ 311",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Zweiter Abschnitt Verantwortlichkeit bei Fehlen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0312.md",
+      "heading": "Bericht des Vorstands über Beziehungen zu verbundenen Unternehmen",
+      "number": "§ 312",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Zweiter Abschnitt Verantwortlichkeit bei Fehlen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0313.md",
+      "heading": "Prüfung durch den Abschlußprüfer",
+      "number": "§ 313",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Zweiter Abschnitt Verantwortlichkeit bei Fehlen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0314.md",
+      "heading": "Prüfung durch den Aufsichtsrat",
+      "number": "§ 314",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Zweiter Abschnitt Verantwortlichkeit bei Fehlen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0315.md",
+      "heading": "Sonderprüfung",
+      "number": "§ 315",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Zweiter Abschnitt Verantwortlichkeit bei Fehlen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0316.md",
+      "heading": "Kein Bericht über Beziehungen zu verbundenen Unternehmen bei Gewinnabführungsvertrag",
+      "number": "§ 316",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Zweiter Abschnitt Verantwortlichkeit bei Fehlen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0317.md",
+      "heading": "Verantwortlichkeit des herrschenden Unternehmens und seiner gesetzlichen Vertreter",
+      "number": "§ 317",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Zweiter Teil Leitungsmacht und Verantwortlichkeit bei Abhängigkeit von Unternehmen",
+        "Zweiter Abschnitt Verantwortlichkeit bei Fehlen eines Beherrschungsvertrags"
+      ],
+      "file": "paragraphs/0318.md",
+      "heading": "Verantwortlichkeit der Verwaltungsmitglieder der Gesellschaft",
+      "number": "§ 318",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0319.md",
+      "heading": "Eingliederung",
+      "number": "§ 319",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0320.md",
+      "heading": "Eingliederung durch Mehrheitsbeschluß",
+      "number": "§ 320",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0320a.md",
+      "heading": "Wirkungen der Eingliederung",
+      "number": "§ 320a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0320b.md",
+      "heading": "Abfindung der ausgeschiedenen Aktionäre",
+      "number": "§ 320b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0321.md",
+      "heading": "Gläubigerschutz",
+      "number": "§ 321",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0322.md",
+      "heading": "Haftung der Hauptgesellschaft",
+      "number": "§ 322",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0323.md",
+      "heading": "Leitungsmacht der Hauptgesellschaft und Verantwortlichkeit der Vorstandsmitglieder",
+      "number": "§ 323",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0324.md",
+      "heading": "Gesetzliche Rücklage. Gewinnabführung. Verlustübernahme",
+      "number": "§ 324",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0325.md",
+      "heading": "",
+      "number": "§ 325",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0326.md",
+      "heading": "Auskunftsrecht der Aktionäre der Hauptgesellschaft",
+      "number": "§ 326",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Dritter Teil Eingegliederte Gesellschaften"
+      ],
+      "file": "paragraphs/0327.md",
+      "heading": "Ende der Eingliederung",
+      "number": "§ 327",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Vierter Teil Ausschluss von Minderheitsaktionären"
+      ],
+      "file": "paragraphs/0327a.md",
+      "heading": "Übertragung von Aktien gegen Barabfindung",
+      "number": "§ 327a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Vierter Teil Ausschluss von Minderheitsaktionären"
+      ],
+      "file": "paragraphs/0327b.md",
+      "heading": "Barabfindung",
+      "number": "§ 327b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Vierter Teil Ausschluss von Minderheitsaktionären"
+      ],
+      "file": "paragraphs/0327c.md",
+      "heading": "Vorbereitung der Hauptversammlung",
+      "number": "§ 327c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Vierter Teil Ausschluss von Minderheitsaktionären"
+      ],
+      "file": "paragraphs/0327d.md",
+      "heading": "Durchführung der Hauptversammlung",
+      "number": "§ 327d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Vierter Teil Ausschluss von Minderheitsaktionären"
+      ],
+      "file": "paragraphs/0327e.md",
+      "heading": "Eintragung des Übertragungsbeschlusses",
+      "number": "§ 327e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Vierter Teil Ausschluss von Minderheitsaktionären"
+      ],
+      "file": "paragraphs/0327f.md",
+      "heading": "Gerichtliche Nachprüfung der Abfindung",
+      "number": "§ 327f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Fünfter Teil Wechselseitig beteiligte Unternehmen"
+      ],
+      "file": "paragraphs/0328.md",
+      "heading": "Beschränkung der Rechte",
+      "number": "§ 328",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Sechster Teil Rechnungslegung im Konzern"
+      ],
+      "file": "paragraphs/0337.md",
+      "heading": "",
+      "number": "§ 337",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Drittes Buch Verbundene Unternehmen",
+        "Sechster Teil Rechnungslegung im Konzern"
+      ],
+      "file": "paragraphs/0338.md",
+      "heading": "",
+      "number": "§ 338",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Erster Teil Sondervorschriften bei Beteiligung von Gebietskörperschaften"
+      ],
+      "file": "paragraphs/0393a.md",
+      "heading": "Besetzung von Organen bei Aktiengesellschaften mit Mehrheitsbeteiligung des Bundes",
+      "number": "§ 393a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Erster Teil Sondervorschriften bei Beteiligung von Gebietskörperschaften"
+      ],
+      "file": "paragraphs/0394.md",
+      "heading": "Berichte der Aufsichtsratsmitglieder",
+      "number": "§ 394",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Erster Teil Sondervorschriften bei Beteiligung von Gebietskörperschaften"
+      ],
+      "file": "paragraphs/0395.md",
+      "heading": "Verschwiegenheitspflicht",
+      "number": "§ 395",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Zweiter Teil Gerichtliche Auflösung"
+      ],
+      "file": "paragraphs/0396.md",
+      "heading": "Voraussetzungen",
+      "number": "§ 396",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Zweiter Teil Gerichtliche Auflösung"
+      ],
+      "file": "paragraphs/0397.md",
+      "heading": "Anordnungen bei der Auflösung",
+      "number": "§ 397",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Zweiter Teil Gerichtliche Auflösung"
+      ],
+      "file": "paragraphs/0398.md",
+      "heading": "Eintragung",
+      "number": "§ 398",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0399.md",
+      "heading": "Falsche Angaben",
+      "number": "§ 399",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0400.md",
+      "heading": "Unrichtige Darstellung",
+      "number": "§ 400",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0401.md",
+      "heading": "Pflichtverletzung bei Verlust, Überschuldung oder Zahlungsunfähigkeit",
+      "number": "§ 401",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0402.md",
+      "heading": "Falsche Ausstellung von Berechtigungsnachweisen",
+      "number": "§ 402",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0403.md",
+      "heading": "Verletzung der Berichtspflicht",
+      "number": "§ 403",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0404.md",
+      "heading": "Verletzung der Geheimhaltungspflicht",
+      "number": "§ 404",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0404a.md",
+      "heading": "Verletzung der Pflichten bei Abschlussprüfungen",
+      "number": "§ 404a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0405.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 405",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0406.md",
+      "heading": "(weggefallen)",
+      "number": "§ 406",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0407.md",
+      "heading": "Zwangsgelder",
+      "number": "§ 407",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0407a.md",
+      "heading": "Mitteilungen an die Abschlussprüferaufsichtsstelle",
+      "number": "§ 407a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0408.md",
+      "heading": "Strafbarkeit persönlich haftender Gesellschafter einer Kommanditgesellschaft auf Aktien",
+      "number": "§ 408",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0409.md",
+      "heading": "Geltung in Berlin",
+      "number": "§ 409",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erstes Buch Aktiengesellschaft",
+        "Viertes Buch Sonder-, Straf- und Schlußvorschriften",
+        "Dritter Teil Straf- und Bußgeldvorschriften. Schlußvorschriften"
+      ],
+      "file": "paragraphs/0410.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 410",
+      "type": "paragraph"
+    }
+  ]
+}

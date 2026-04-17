@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-06-08",
+  "bjnr": "BJNR215510990",
+  "eli": null,
+  "gii_slug": "genfrkabkzprot_i",
+  "ingested_at": "2026-04-17T15:22:05Z",
+  "jurabk": "GenfRKAbkZProt I",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fe02dec33ebfc63b246a7facef6ca74cfcd85f4b44af1617b983511093521395"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/genfrkabkzprot_i/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/genfrkabkzprot_i/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-05-03",
+  "bjnr": "BJNR040000096",
+  "eli": null,
+  "gii_slug": "haftentschbefstoffesee_bk",
+  "ingested_at": "2026-04-17T15:22:36Z",
+  "jurabk": "HaftEntschBefStoffeSeeÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "28ede2f97149dc71484d967a397e605ca3d3957ec33f4d3f78160e3db53f5419"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/haftentschbefstoffesee_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/haftentschbefstoffesee_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationales Übereinkommen von 2010 über die Haftung und Entschädigung für Schäden bei der Beförderung schädlicher und gefährlicher Stoffe auf See",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

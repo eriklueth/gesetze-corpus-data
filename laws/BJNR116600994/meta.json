@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-05-27",
+  "bjnr": "BJNR116600994",
+  "eli": null,
+  "gii_slug": "bpr_sthhstiftg",
+  "ingested_at": "2026-04-17T15:19:04Z",
+  "jurabk": "BPräsTHHStiftG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "db8ea7ef65b831cdcc0cee6dd39cee35fc64f058ebef73650d28f4bd6e53912a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_sthhstiftg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_sthhstiftg/xml.zip"
+  },
+  "stand_datum": "2001-10-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 77 V v. 29.10.2001 I 2785",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Errichtung einer Stiftung Bundespräsident-Theodor-Heuss-Haus",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

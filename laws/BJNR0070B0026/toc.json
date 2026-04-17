@@ -1,0 +1,617 @@
+{
+  "bjnr": "BJNR0070B0026",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Organisation des Militärischen Abschirmdienstes",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Aufgaben",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Zusammenarbeit",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 1 Allgemeine Befugnisse"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Allgemeine Befugnisse zur Datenerhebung",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 1 Allgemeine Befugnisse"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Vorprüfung",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 1 Arten besonderer Befugnisse und Maßnahmerichtung"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Besondere Befugnisse",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 1 Arten besonderer Befugnisse und Maßnahmerichtung"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Maßnahmerichtung",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Einsatz nachrichtendienstlicher Mittel",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Observation",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Überwachung des gesprochenen Wortes",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Einsatz technischer Mittel zur Wohnraumüberwachung",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Technische Ortung; Aufenthaltsbestimmung",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Einsatz von Vertrauenspersonen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Einsatz von verdeckten Bediensteten",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Einsatz virtueller Agenten bei der Aufklärung im Internet",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Einsichtnahme in Systeme der Informations- und Kommunikationstechnik; Asservatenauswertung",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Auslesen technischer Spuren informationstechnischer Angriffe fremder Mächte",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 2 Nachrichtendienstliche Mittel"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Überwachung der Telekommunikation sowie des Brief- und Postverkehrs",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 3 Besondere Auskunftsverlangen"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Besondere Auskunftsverlangen zu Bestandsdaten",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 3 Besondere Auskunftsverlangen"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Besondere Auskunftsverlangen zu sonstigen Daten",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 3 Besondere Auskunftsverlangen"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Besondere Auskunftsverlangen bei informationstechnischen Angriffen fremder Mächte",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 4 Verfahrensregelungen für besondere Befugnisse"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Anordnung von besonderen Befugnissen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 2 Besondere Befugnisse",
+        "Unterabschnitt 4 Verfahrensregelungen für besondere Befugnisse"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Mitteilungspflichten",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 3 Weitere Befugnisse"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Automatisierter Abruf aus dem Personalwirtschaftssystem",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 3 Weitere Befugnisse"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Besondere Eigensicherungsbefugnisse",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 3 Weitere Befugnisse"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Verfahren für den Einsatz der Eigensicherungsbefugnisse",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 3 Weitere Befugnisse"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Weitere Befugnisse im Ausland",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 4 Schranken"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Schutz des Kernbereichs privater Lebensgestaltung",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 2 Befugnisse und Schranken",
+        "Abschnitt 4 Schranken"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Schutz von zeugnisverweigerungsberechtigten Berufsgeheimnisträgerinnen und Berufsgeheimnisträgern",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Übermittlungsverbote",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Übermittlung an inländische öffentliche Stellen zur Gefahrenabwehr",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Übermittlung an inländische öffentliche Stellen zum administrativen Rechtsgüterschutz",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Übermittlung an Strafverfolgungsbehörden zur Strafverfolgung",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Übermittlung an inländische öffentliche Stellen ohne belastende Maßnahmen mit Außenwirkung",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Übermittlung an inländische nichtöffentliche Stellen",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Minderjährigenschutz bei Inlandsübermittlungen",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Weiterverarbeitung durch die empfangende Stelle",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Übermittlung an ausländische sowie über- und zwischenstaatliche Stellen",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Übermittlung zum Schutz der betroffenen Person",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Weitere Verfahrensregelungen",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Übermittlung von personenbezogenen Daten aus allgemein zugänglichen Quellen",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 3 Übermittlungen"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Übermittlungen von Informationen an den Militärischen Abschirmdienst",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 4 Kontrolle und allgemeiner Datenschutz"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Exekutivkontrolle",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 4 Kontrolle und allgemeiner Datenschutz"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Parlamentarische Kontrolle",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 4 Kontrolle und allgemeiner Datenschutz"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Gerichtliche Kontrolle",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 4 Kontrolle und allgemeiner Datenschutz"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Unabhängige Datenschutzkontrolle",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 4 Kontrolle und allgemeiner Datenschutz"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Weiterverarbeitung personenbezogener Daten",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 4 Kontrolle und allgemeiner Datenschutz"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Berichtigung, Löschung und Einschränkung der Verarbeitung von personenbezogenen Daten",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 4 Kontrolle und allgemeiner Datenschutz"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Dateianordnungen",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 4 Kontrolle und allgemeiner Datenschutz"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Auskunft an die betroffene Person",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 4 Kontrolle und allgemeiner Datenschutz"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Anwendbarkeit des allgemeinen Datenschutzrechts",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 5 Landes- und Bündnisverteidigung"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Spannungs- und Verteidigungsfall",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 6 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Verfassungsschutz durch Aufklärung der Öffentlichkeit",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 6 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Strafvorschriften",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 6 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 6 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Einschränkung von Grundrechten",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Organisation und Aufgaben",
+        "Teil 6 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Übergangsvorschriften",
+      "number": "§ 57",
+      "type": "paragraph"
+    }
+  ]
+}

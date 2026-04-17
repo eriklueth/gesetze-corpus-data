@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-06-27",
+  "bjnr": "BJNR018570975",
+  "eli": null,
+  "gii_slug": "ordenerl_4",
+  "ingested_at": "2026-04-17T15:26:19Z",
+  "jurabk": "OrdenErl 4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b8c03406eff10394e49b6e497b6aa07c63b586133381f0d22417e6def84636cd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ordenerl_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ordenerl_4/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vierter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

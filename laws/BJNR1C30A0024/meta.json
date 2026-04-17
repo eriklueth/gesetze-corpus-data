@@ -1,0 +1,26 @@
+{
+  "amtabk": "FFG",
+  "ausfertigung_datum": "2024-12-23",
+  "bjnr": "BJNR1C30A0024",
+  "eli": null,
+  "gii_slug": "ffg_2025",
+  "ingested_at": "2026-04-17T15:21:19Z",
+  "jurabk": "FFG 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "51aeeb1d8e8614e0e2b920c09c003df36bd7a3dd3bac751509879b41fc30ee29"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ffg_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ffg_2025/xml.zip"
+  },
+  "stand_datum": "2016-12-23",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 707-27 v. 23.12.2016 I 3413 (FFG 2017)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über Maßnahmen zur Förderung des deutschen Films",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

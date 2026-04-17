@@ -1,0 +1,21 @@
+{
+  "amtabk": "FinDiszErstV",
+  "ausfertigung_datum": "2022-12-22",
+  "bjnr": "BJNR0020A0023",
+  "eli": null,
+  "gii_slug": "findiszerstv",
+  "ingested_at": "2026-04-17T15:21:21Z",
+  "jurabk": "FinDiszErstV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c22f14505a3b14502e3c901cf1b634d95d0821ebd671cdd46efa8d29841f055d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/findiszerstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/findiszerstv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Durchführung der Erstattung von Mitteln aus der Finanzdisziplin des Europäischen Garantiefonds für die Landwirtschaft an die Empfänger von Direktzahlungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-01-28",
+  "bjnr": "BJNR205390985",
+  "eli": null,
+  "gii_slug": "ds_bk",
+  "ingested_at": "2026-04-17T15:20:06Z",
+  "jurabk": "DSÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "894b84db52d443648c19ba068f8737be184ef2bf1fe6c7db9718789cc3282c1e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ds_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ds_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

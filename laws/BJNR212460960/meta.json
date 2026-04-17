@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-06-06",
+  "bjnr": "BJNR212460960",
+  "eli": null,
+  "gii_slug": "zpvtr_aut",
+  "ingested_at": "2026-04-17T15:31:28Z",
+  "jurabk": "ZPVtr AUT",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "035f53483e04b51ef0efe9031ccd9c9a971180daf633ccfc8b710560aa34935f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zpvtr_aut/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zpvtr_aut/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BRHG",
+  "ausfertigung_datum": "1985-07-11",
+  "bjnr": "BJNR014450985",
+  "eli": null,
+  "gii_slug": "brhg_1985",
+  "ingested_at": "2026-04-17T15:19:08Z",
+  "jurabk": "BRHG 1985",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cf50995b8754d591183c0a30f0e277fd6654f145b58913fdd3559d7ee80093ae"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/brhg_1985/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/brhg_1985/xml.zip"
+  },
+  "stand_datum": "2009-02-05",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 15 Abs. 82 G v. 5.2.2009 I 160",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Bundesrechnungshof",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

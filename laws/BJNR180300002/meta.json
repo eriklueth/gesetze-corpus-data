@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-06-07",
+  "bjnr": "BJNR180300002",
+  "eli": null,
+  "gii_slug": "versorgausglanglfaktorbek",
+  "ingested_at": "2026-04-17T15:30:09Z",
+  "jurabk": "VersorgAusglAnglFaktorBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "83a1212e100f9a24e893e8d40fa5acf091b45d37247ed7631956b15bc6661115"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/versorgausglanglfaktorbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/versorgausglanglfaktorbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

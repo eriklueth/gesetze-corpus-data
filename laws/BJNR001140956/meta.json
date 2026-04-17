@@ -1,0 +1,30 @@
+{
+  "amtabk": "SG",
+  "ausfertigung_datum": "1956-03-19",
+  "bjnr": "BJNR001140956",
+  "eli": null,
+  "gii_slug": "sg",
+  "ingested_at": "2026-04-17T15:28:05Z",
+  "jurabk": "SG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c6415b73c78b0ed862c7a0e1b5c6a0aeda2fbf31c927e19593df76d2311f63ba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sg/xml.zip"
+  },
+  "stand_datum": "2005-05-30",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 30.5.2005 I 1482;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert Art. 5 G v. 9.1.2026 I Nr. 7",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Rechtsstellung der Soldaten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

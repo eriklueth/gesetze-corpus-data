@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-12-22",
+  "bjnr": "BJNR015429981",
+  "eli": null,
+  "gii_slug": "mvzafwog",
+  "ingested_at": "2026-04-17T15:25:51Z",
+  "jurabk": "MVzAFWoG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c24b71c9e2c42a12b449d42728daea6a7e9e292231d078dba365403871bf5ef2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mvzafwog/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mvzafwog/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zum Abbau der Fehlsubventionierung und der Mietverzerrung im Wohnungswesen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

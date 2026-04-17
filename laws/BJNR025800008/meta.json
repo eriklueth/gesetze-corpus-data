@@ -1,0 +1,26 @@
+{
+  "amtabk": "EVPG",
+  "ausfertigung_datum": "2008-02-27",
+  "bjnr": "BJNR025800008",
+  "eli": null,
+  "gii_slug": "ebpg",
+  "ingested_at": "2026-04-17T15:21:12Z",
+  "jurabk": "EBPG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "26b6823754341a4d797f86a92363a08bb7d852fd1f7620509ca029df68351fdf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ebpg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ebpg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 260 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

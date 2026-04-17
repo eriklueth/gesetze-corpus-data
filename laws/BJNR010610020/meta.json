@@ -1,0 +1,30 @@
+{
+  "amtabk": "InnAusV",
+  "ausfertigung_datum": "2020-01-20",
+  "bjnr": "BJNR010610020",
+  "eli": null,
+  "gii_slug": "innausv",
+  "ingested_at": "2026-04-17T15:22:59Z",
+  "jurabk": "InnAusV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5c21d1e684036dd1e5871494e35c3984d247c888a655cfbe86329684f95528cc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/innausv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/innausv/xml.zip"
+  },
+  "stand_datum": "2028-12-31",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt nach § 20 am 31.12.2028 außer Kraft",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 21.2.2025 I Nr. 51",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zu den Innovationsausschreibungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

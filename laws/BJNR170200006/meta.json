@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-07-20",
+  "bjnr": "BJNR170200006",
+  "eli": null,
+  "gii_slug": "sgb2_20abs2bek_2006",
+  "ingested_at": "2026-04-17T15:28:10Z",
+  "jurabk": "SGB2§20Abs2Bek 2006",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c9ad1e29aad6e073b5225e98a28b17657c280d2edcf75f66b061fa22391992b9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgb2_20abs2bek_2006/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgb2_20abs2bek_2006/xml.zip"
+  },
+  "stand_datum": "2010-02-09",
+  "standangabe": [
+    {
+      "kommentar": "Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 9.2.2010 I 193 - 1 BvL 1/09, 1 BvL 3/09,1 BvL 4/09 -",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2006",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

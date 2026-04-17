@@ -1,0 +1,26 @@
+{
+  "amtabk": "KCanG",
+  "ausfertigung_datum": "2024-03-27",
+  "bjnr": "BJNR06D0B0024",
+  "eli": null,
+  "gii_slug": "kcang",
+  "ingested_at": "2026-04-17T15:23:24Z",
+  "jurabk": "KCanG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ce70ef7f99501ab0d60f38f5e67003008570a82e745e3599b6de7bb56bc55764"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kcang/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kcang/xml.zip"
+  },
+  "stand_datum": "2024-06-20",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 G v. 20.6.2024 I Nr. 207",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zum Umgang mit Konsumcannabis",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

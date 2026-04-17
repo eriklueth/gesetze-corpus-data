@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-08-25",
+  "bjnr": "BJNR243200998",
+  "eli": null,
+  "gii_slug": "luftvg_ndg_11",
+  "ingested_at": "2026-04-17T15:24:16Z",
+  "jurabk": "LuftVGÄndG 11",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "708ef5835c4ca18c7c87d44197a9384c67248fe7e6f6deb47c08d30fa782aad8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvg_ndg_11/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvg_ndg_11/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Elftes Gesetz zur Änderung des Luftverkehrsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

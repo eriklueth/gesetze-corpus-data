@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1983-01-06",
+  "bjnr": "BJNR000320983",
+  "eli": null,
+  "gii_slug": "wzg_35guybek",
+  "ingested_at": "2026-04-17T15:30:59Z",
+  "jurabk": "WZG§35GUYBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "08e0ca5c3613ca52f6fcc73dac90fbdfd60c0b660b1805f69a9926bc77a0f7c3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35guybek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35guybek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

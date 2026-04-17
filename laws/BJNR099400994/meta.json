@@ -1,0 +1,26 @@
+{
+  "amtabk": "GlasVMstrV",
+  "ausfertigung_datum": "1994-05-02",
+  "bjnr": "BJNR099400994",
+  "eli": null,
+  "gii_slug": "glasvmstrv",
+  "ingested_at": "2026-04-17T15:22:17Z",
+  "jurabk": "GlasVMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e31066813ecfa9500a25998e210f7ce9de2128ebc4b4e3cede8e14d0d0b032af"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/glasvmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/glasvmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 15 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Glasveredler-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

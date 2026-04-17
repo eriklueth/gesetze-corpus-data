@@ -1,0 +1,26 @@
+{
+  "amtabk": "EG-EStRG",
+  "ausfertigung_datum": "1974-12-21",
+  "bjnr": "BJNR036560974",
+  "eli": null,
+  "gii_slug": "estrgeg",
+  "ingested_at": "2026-04-17T15:20:28Z",
+  "jurabk": "EStRGEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7688f7199680cffea4828a0e8f92fcb2af4c59ef44aabe826cf3b14e87639d0a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/estrgeg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/estrgeg/xml.zip"
+  },
+  "stand_datum": "2010-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 64 G v. 8.12.2010 I 1864",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Einführungsgesetz zum Einkommensteuerreformgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

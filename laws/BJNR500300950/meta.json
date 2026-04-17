@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1949-11-25",
+  "bjnr": "BJNR500300950",
+  "eli": null,
+  "gii_slug": "geldwnobauspano",
+  "ingested_at": "2026-04-17T15:22:02Z",
+  "jurabk": "GeldWNOBauspAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3214c6a8b7cf01f1bf2ac21810d686306378359399a77d7e7c3e6f471f7f8eef"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/geldwnobauspano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/geldwnobauspano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Bausparverhältnisse aus Anlaß der Neuordnung des Geldwesens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

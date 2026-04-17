@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1947-10-30",
+  "bjnr": "BJNR301730951",
+  "eli": null,
+  "gii_slug": "gattabk",
+  "ingested_at": "2026-04-17T15:21:53Z",
+  "jurabk": "GATTAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1ba12bf314e8ccf84e1c0725eca6b48ad252aa68a751dd0551113f40d833b6b0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gattabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gattabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Allgemeines Zoll- und Handelsabkommen von Genf (General Agreement on Tariffs and Trade)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

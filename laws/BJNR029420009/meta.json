@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-04-01",
+  "bjnr": "BJNR029420009",
+  "eli": null,
+  "gii_slug": "unsekrsitzabk_ndprotg",
+  "ingested_at": "2026-04-17T15:29:52Z",
+  "jurabk": "UNSekrSitzAbkÄndProtG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d91aab6c7c6149587c5d98a8a34277e48f8c15a7eace13f1c9f2eb5508982367"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unsekrsitzabk_ndprotg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unsekrsitzabk_ndprotg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Protokoll vom 7. Dezember 2005 zur Änderung des Abkommens vom 20. Juni 1996 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

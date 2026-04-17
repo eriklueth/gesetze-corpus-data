@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-09-08",
+  "bjnr": "BJNR015870969",
+  "eli": null,
+  "gii_slug": "gemfinrefg",
+  "ingested_at": "2026-04-17T15:22:05Z",
+  "jurabk": "GemFinRefG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f7408af0ec99193d056ea579d12d1861390180ce7249c24c132ca6d8bff34063"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gemfinrefg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gemfinrefg/xml.zip"
+  },
+  "stand_datum": "2009-03-10",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 10.3.2009 I 502;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 G v. 26.4.2024 I Nr. 140",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Neuordnung der Gemeindefinanzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

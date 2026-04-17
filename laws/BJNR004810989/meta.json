@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-02-28",
+  "bjnr": "BJNR004810989",
+  "eli": null,
+  "gii_slug": "stvouavsausnv_2",
+  "ingested_at": "2026-04-17T15:29:04Z",
+  "jurabk": "StVOuaVsAusnV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f51d48ee483822aecc3667a1319c461fbfd5c9b8c953f7a46d05cdd6ee5d86f2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvouavsausnv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvouavsausnv_2/xml.zip"
+  },
+  "stand_datum": "2023-07-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 V v. 20.7.2023 I Nr. 199",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweite Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

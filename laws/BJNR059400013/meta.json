@@ -1,0 +1,26 @@
+{
+  "amtabk": "TelekomBATZV",
+  "ausfertigung_datum": "2013-03-21",
+  "bjnr": "BJNR059400013",
+  "eli": null,
+  "gii_slug": "telekombatzv",
+  "ingested_at": "2026-04-17T15:29:21Z",
+  "jurabk": "TelekomBATZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "77623aa396aaaa9e0ea8990a4ae812a211c9544604e3464cf2029e9fdb6ac559"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/telekombatzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/telekombatzv/xml.zip"
+  },
+  "stand_datum": "2024-11-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 19.11.2024 I Nr. 369",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Bewilligung von Altersteilzeit und die Gewährung eines Altersteilzeitzuschlags für die bei der Deutschen Telekom AG beschäftigten Beamtinnen und Beamten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

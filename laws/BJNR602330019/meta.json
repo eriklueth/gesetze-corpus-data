@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2019-08-07",
+  "bjnr": "BJNR602330019",
+  "eli": null,
+  "gii_slug": "luftvodv_242_2020",
+  "ingested_at": "2026-04-17T15:24:29Z",
+  "jurabk": "LuftVODV 242 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c95cb46b4f063669446d80dfb1090fe52f244d6bc32187a5890b7d3b10f8fb46"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_242_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_242_2020/xml.zip"
+  },
+  "stand_datum": "2009-03-03",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 96-1-2-242 v. 3.3.2009 BAnz 2009, Nr 057, 1363 (LuftVODV 242)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Zweihundertzweiundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Hamburg)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

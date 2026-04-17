@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-12-15",
+  "bjnr": "BJNR345600004",
+  "eli": null,
+  "gii_slug": "dwg_ndg",
+  "ingested_at": "2026-04-17T15:21:08Z",
+  "jurabk": "DWGÄndG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6311d53f506c314b5fa2345bc19f41129be64849a80945a1bea63bf5c70c1819"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dwg_ndg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dwg_ndg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Änderung des Deutsche-Welle-Gesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "SachenR-DV",
+  "ausfertigung_datum": "1994-12-20",
+  "bjnr": "BJNR390000994",
+  "eli": null,
+  "gii_slug": "sachenr-dv",
+  "ingested_at": "2026-04-17T15:27:37Z",
+  "jurabk": "SachenR-DV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2b84903fdbe201af80189377186fc5bc3925e2f2839cd07cc43a3db5c9c4739e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sachenr-dv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sachenr-dv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Durchführung des Grundbuchbereinigungsgesetzes und anderer Vorschriften auf dem Gebiet des Sachenrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

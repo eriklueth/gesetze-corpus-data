@@ -1,0 +1,30 @@
+{
+  "amtabk": "25. BImSchV",
+  "ausfertigung_datum": "1996-11-08",
+  "bjnr": "BJNR172200996",
+  "eli": null,
+  "gii_slug": "bimschv_25",
+  "ingested_at": "2026-04-17T15:16:34Z",
+  "jurabk": "BImSchV 25",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4da2353060d68860cfc5aa5ea91ebac7e3420c4c5f3360f0eeacd2ab5ed392a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_25/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_25/xml.zip"
+  },
+  "stand_datum": "2014-07-30",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 30.7.2014 I 1316;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "geändert durch Art. 4 V v. 24.3.2017 I 656",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Fünfundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

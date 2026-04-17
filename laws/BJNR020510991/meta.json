@@ -1,0 +1,30 @@
+{
+  "amtabk": "TLMV",
+  "ausfertigung_datum": "1991-10-29",
+  "bjnr": "BJNR020510991",
+  "eli": null,
+  "gii_slug": "tlmv",
+  "ingested_at": "2026-04-17T15:29:32Z",
+  "jurabk": "TLMV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7c3f73a7b591662383b45ce793bdf9b58de8b6c04b58305ff660c5ad57478135"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tlmv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tlmv/xml.zip"
+  },
+  "stand_datum": "2007-02-22",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 22.2.2007 I 258",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 5.7.2017 I 2272",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über tiefgefrorene Lebensmittel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

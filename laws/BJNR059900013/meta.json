@@ -1,0 +1,21 @@
+{
+  "amtabk": "PfleBeteiligungsV",
+  "ausfertigung_datum": "2013-03-22",
+  "bjnr": "BJNR059900013",
+  "eli": null,
+  "gii_slug": "pflebeteiligungsv",
+  "ingested_at": "2026-04-17T15:26:45Z",
+  "jurabk": "PfleBeteiligungsV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "899996c9f7dbbf07b1f4376bf90cfebcb0b720651ec5c17bd0a3fdfe31b49580"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflebeteiligungsv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflebeteiligungsv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Beteiligung der auf Bundesebene maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen sowie der pflegenden Angehörigen im Bereich der Begutachtung und Qualitätssicherung der Sozialen Pflegeversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

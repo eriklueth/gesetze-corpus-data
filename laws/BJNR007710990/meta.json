@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-04-12",
+  "bjnr": "BJNR007710990",
+  "eli": null,
+  "gii_slug": "prfgzautv",
+  "ingested_at": "2026-04-17T15:26:59Z",
+  "jurabk": "PrfgZAUTV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6f605f50925c4f5e3b49d6b8ed312b56ae064d3031353ca3e7a4f3a90570d3aa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/prfgzautv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/prfgzautv/xml.zip"
+  },
+  "stand_datum": "2005-11-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 17.11.2005 I 3188",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Gleichstellung österreichischer Prüfungszeugnisse mit Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

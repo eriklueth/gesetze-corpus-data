@@ -1,0 +1,26 @@
+{
+  "amtabk": "AtAV",
+  "ausfertigung_datum": "2009-04-30",
+  "bjnr": "BJNR100000009",
+  "eli": null,
+  "gii_slug": "atav_2009",
+  "ingested_at": "2026-04-17T15:17:17Z",
+  "jurabk": "AtAV 2009",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e5f5ee5661369862c0a7650c17cd3217e3ab940a232329d6d050850e4f39613f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/atav_2009/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/atav_2009/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 241 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter Brennelemente",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

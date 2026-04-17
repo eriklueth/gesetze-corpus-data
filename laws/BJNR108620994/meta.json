@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-07-15",
+  "bjnr": "BJNR108620994",
+  "eli": null,
+  "gii_slug": "dbag_bol",
+  "ingested_at": "2026-04-17T15:19:47Z",
+  "jurabk": "DBAG BOL",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "36eea7a6b1087bd643f3cdc3f0bfae889323e5d68ace6b7ca66eef8212a89929"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbag_bol/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbag_bol/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 30. September 1992 zwischen der Bundesrepublik Deutschland und der Republik Bolivien zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

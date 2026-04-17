@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-12-17",
+  "bjnr": "BJNR14E0B0025",
+  "eli": null,
+  "gii_slug": "tvmindestlohn_vflughsik_4",
+  "ingested_at": "2026-04-17T15:29:36Z",
+  "jurabk": "TVMindestlohn VFlughSiK 4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aaa7fe604c35acad2fb49e469d9a429ffa545fad60d30d5da399f25e9d59de2c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tvmindestlohn_vflughsik_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tvmindestlohn_vflughsik_4/xml.zip"
+  },
+  "stand_datum": "2025-12-17",
+  "standangabe": [
+    {
+      "kommentar": "Die zugehörige V v. 17.12.2025 I Nr. 334 (VFlughSiKArbbV 4) tritt gem. § 3 dieser V mit Ablauf des 31.12.2026 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Rechtsnormen des Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 8. April 2025",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

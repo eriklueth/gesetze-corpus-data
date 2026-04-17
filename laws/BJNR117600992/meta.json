@@ -1,0 +1,26 @@
+{
+  "amtabk": "BinSchZV",
+  "ausfertigung_datum": "1992-09-30",
+  "bjnr": "BJNR117600992",
+  "eli": null,
+  "gii_slug": "binschzv",
+  "ingested_at": "2026-04-17T15:18:26Z",
+  "jurabk": "BinSchZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dd00d0991a15e9044315423cd63cc64ddf982260dacb3ab247076f6a7c74449b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschzv/xml.zip"
+  },
+  "stand_datum": "2016-06-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 35 V v. 2.6.2016 I 1257",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Binnenschiffsgüter-Berufszugangsverordnung (Artikel 1 der Verordnung über den Zugang zum Beruf des Unternehmers im innerstaatlichen und grenzüberschreitenden Binnenschiffsgüterverkehr)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

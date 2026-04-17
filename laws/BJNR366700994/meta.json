@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-11-17",
+  "bjnr": "BJNR366700994",
+  "eli": null,
+  "gii_slug": "bkorgerl1994bek",
+  "ingested_at": "2026-04-17T15:18:32Z",
+  "jurabk": "BKOrgErl1994Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ced3d0353b0bfe137c4e1ec31cdcb93744cedfc6ef00a2a1e7645f9054de4cf7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bkorgerl1994bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bkorgerl1994bek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung des Organisationserlasses des Bundeskanzlers",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

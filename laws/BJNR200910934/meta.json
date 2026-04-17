@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1934-03-07",
+  "bjnr": "BJNR200910934",
+  "eli": null,
+  "gii_slug": "bahng",
+  "ingested_at": "2026-04-17T15:17:34Z",
+  "jurabk": "BahnG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "72523d5b94f0b0cfbfba89ea1a8b6ce0d88320874a049acea9581cdb13963f12"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bahng/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bahng/xml.zip"
+  },
+  "stand_datum": "2010-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 101 G v. 8.12.2010 I 1864",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Maßnahmen zur Aufrechterhaltung des Betriebs von Bahnunternehmen des öffentlichen Verkehrs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "PRV",
+  "ausfertigung_datum": "1995-06-16",
+  "bjnr": "BJNR080800995",
+  "eli": null,
+  "gii_slug": "prv",
+  "ingested_at": "2026-04-17T15:27:03Z",
+  "jurabk": "PRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e3310d9b32bbe232acae1ea5cd84c439880b445b888a184449bd3df53913719a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/prv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/prv/xml.zip"
+  },
+  "stand_datum": "2021-08-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 39 G v. 10.8.2021 I 3436",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Einrichtung und Führung des Partnerschaftsregisters",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

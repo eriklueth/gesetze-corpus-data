@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-07-25",
+  "bjnr": "BJNR146800008",
+  "eli": null,
+  "gii_slug": "metallbausbv_2008",
+  "ingested_at": "2026-04-17T15:24:49Z",
+  "jurabk": "MetallbAusbV 2008",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "de619462ef1dd36fdf6783ff60e52536c5240b8a6a92f6709e9aeaf2208fcf22"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/metallbausbv_2008/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/metallbausbv_2008/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Metallbauer und zur Metallbauerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-09-24",
+  "bjnr": "BJNR208970986",
+  "eli": null,
+  "gii_slug": "zt_1986",
+  "ingested_at": "2026-04-17T15:31:28Z",
+  "jurabk": "ZT 1986",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0ad4c81fdbfb91ba48f051436f13067655d5362627cfcfb8c2586fbc7edb5283"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zt_1986/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zt_1986/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zolltarif (Anlage zu § 1 der Zolltarifverordnung vom 24.9.1986 II 896)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1964-09-09",
+  "bjnr": "BJNR008050964",
+  "eli": null,
+  "gii_slug": "zg_ndg_4_1964",
+  "ingested_at": "2026-04-17T15:31:18Z",
+  "jurabk": "ZGÄndG 4 1964",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f309a3a8acea15e6af48fccc53f6042303187d4fe03a561595c11cbdf4be2713"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zg_ndg_4_1964/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zg_ndg_4_1964/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Viertes Gesetz zur Änderung des Zollgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

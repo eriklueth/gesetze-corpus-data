@@ -1,0 +1,26 @@
+{
+  "amtabk": "1. WOMitbestG",
+  "ausfertigung_datum": "2002-05-27",
+  "bjnr": "BJNR168200002",
+  "eli": null,
+  "gii_slug": "mitbestgwo_1_2002",
+  "ingested_at": "2026-04-17T15:16:28Z",
+  "jurabk": "MitbestGWO 1 2002",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "98698ca183be88b8ec9cbc8ca0d0f6c8d98ce55add4da4d4b43c7f11cfaa9e7e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mitbestgwo_1_2002/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mitbestgwo_1_2002/xml.zip"
+  },
+  "stand_datum": "2021-08-07",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 18 G v. 7.8.2021 I 3311",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Erste Wahlordnung zum Mitbestimmungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

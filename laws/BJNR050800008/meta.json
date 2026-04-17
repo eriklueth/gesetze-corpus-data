@@ -1,0 +1,26 @@
+{
+  "amtabk": "SatDSiV",
+  "ausfertigung_datum": "2008-03-26",
+  "bjnr": "BJNR050800008",
+  "eli": null,
+  "gii_slug": "satdsiv",
+  "ingested_at": "2026-04-17T15:27:39Z",
+  "jurabk": "SatDSiV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e1b56c147df156d22f94318fed1686a189c325501b40d3098c55a79f648206d4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/satdsiv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/satdsiv/xml.zip"
+  },
+  "stand_datum": "2023-10-16",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 16.10.2023 I Nr. 278",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Satellitendatensicherheitsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

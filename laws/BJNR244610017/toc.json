@@ -1,0 +1,790 @@
+{
+  "bjnr": "BJNR244610017",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht"
+      ],
+      "file": "paragraphs/0001a.md",
+      "heading": "Unzuverlässigkeit von sanktionierten Personen",
+      "number": "§ 1a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Ausnahmen; Verordnungsermächtigung",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Für Institute zugelassene Tätigkeiten und verbotene Geschäfte",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Aufgaben und allgemeine Befugnisse der Bundesanstalt, Entscheidung in Zweifelsfällen",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht"
+      ],
+      "file": "paragraphs/0004a.md",
+      "heading": "Elektronische Bekanntgabe oder Zustellung von Verwaltungsakten; Verordnungsermächtigung",
+      "number": "§ 4a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht"
+      ],
+      "file": "paragraphs/0004b.md",
+      "heading": "Besondere Befugnisse nach der Verordnung (EU) 2022/2554",
+      "number": "§ 4b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Zusammenarbeit mit anderen Behörden",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Verschwiegenheitspflicht",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht",
+        "Unterabschnitt 2 Durchsetzung des Erlaubnisvorbehalts"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Einschreiten gegen unerlaubte Zahlungsdienste und E-Geld-Geschäfte",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht",
+        "Unterabschnitt 2 Durchsetzung des Erlaubnisvorbehalts"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Verfolgung unerlaubter Zahlungsdienste und E-Geld-Geschäfte",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 1 Begriffsbestimmungen, Anwendungsbereich, Aufsicht",
+        "Unterabschnitt 3 Sofortige Vollziehbarkeit"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Sofortige Vollziehbarkeit",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Erlaubnis; Inhaber bedeutender Beteiligungen",
+        "Unterabschnitt 1 Erlaubnis"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Erlaubnis für das Erbringen von Zahlungsdiensten; Verordnungsermächtigung",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Erlaubnis; Inhaber bedeutender Beteiligungen",
+        "Unterabschnitt 1 Erlaubnis"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Erlaubnis für das Betreiben von E-Geld-Geschäften; Verordnungsermächtigung",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Erlaubnis; Inhaber bedeutender Beteiligungen",
+        "Unterabschnitt 1 Erlaubnis"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Versagung der Erlaubnis",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Erlaubnis; Inhaber bedeutender Beteiligungen",
+        "Unterabschnitt 1 Erlaubnis"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Erlöschen und Aufhebung der Erlaubnis",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Erlaubnis; Inhaber bedeutender Beteiligungen",
+        "Unterabschnitt 2 Inhaber bedeutender Beteiligungen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Inhaber bedeutender Beteiligungen; Verordnungsermächtigung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Eigenmittel, Absicherung im Haftungsfall"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Eigenmittel; Verordnungsermächtigung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Eigenmittel, Absicherung im Haftungsfall"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Absicherung für den Haftungsfall für Zahlungsauslösedienste; Verordnungsermächtigung",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Sicherungsanforderungen"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Sicherungsanforderungen für die Entgegennahme von Geldbeträgen im Rahmen der Erbringung von Zahlungsdiensten und des Betreibens des E-Geld-Geschäfts",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Sicherungsanforderungen"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Sicherungsanforderungen für die Entgegennahme von Geldbeträgen für die Ausgabe von E-Geld",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Auskünfte und Prüfungen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Abberufung von Geschäftsleitern und Mitgliedern des Verwaltungs- und Aufsichtsorgans, Übertragung von Organbefugnissen auf Sonderbeauftragte",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Maßnahmen in besonderen Fällen und Insolvenzantrag",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Vorlage von Jahresabschluss, Lagebericht und Prüfungsberichten",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Anzeigepflicht bei Bestellung des Abschlussprüfers, Bestellung in besonderen Fällen",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Besondere Pflichten des Prüfers; Verordnungsermächtigung",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Inanspruchnahme von Agenten; Verordnungsermächtigung",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Auslagerung",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Organisationspflichten",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Anzeigen; Verordnungsermächtigung",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Monatsausweise; Verordnungsermächtigung",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Vorschriften über die laufende Beaufsichtigung von Instituten"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Aufbewahrung von Unterlagen",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Sondervorschriften für das E-Geld-Geschäft und den Vertrieb und die Rücktauschbarkeit"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Verbot der Ausgabe von E-Geld über andere Personen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Sondervorschriften für das E-Geld-Geschäft und den Vertrieb und die Rücktauschbarkeit"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Vertrieb und Rücktausch von E-Geld durch E-Geld-Agenten",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Sondervorschriften für das E-Geld-Geschäft und den Vertrieb und die Rücktauschbarkeit"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Verpflichtungen des E-Geld-Emittenten bei der Ausgabe und dem Rücktausch von E-Geld",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Sonderbestimmungen für Kontoinformationsdienste"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Registrierungspflicht; Verordnungsermächtigung",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Sonderbestimmungen für Kontoinformationsdienste"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Versagung der Registrierung",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Sonderbestimmungen für Kontoinformationsdienste"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Absicherung für den Haftungsfall; Verordnungsermächtigung",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Sonderbestimmungen für Kontoinformationsdienste"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Erlöschen und Aufhebung der Registrierung",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr, Zweigstellen aus Drittstaaten"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr durch inländische Institute",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr, Zweigstellen aus Drittstaaten"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr von Unternehmen mit Sitz in einem anderen Staat des Europäischen Wirtschaftsraums",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr, Zweigstellen aus Drittstaaten"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Berichtspflicht",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr, Zweigstellen aus Drittstaaten"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Zentrale Kontaktperson; Verordnungsermächtigung",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Europäischer Pass, Zweigniederlassung und grenzüberschreitender Dienstleistungsverkehr, Zweigstellen aus Drittstaaten"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Zweigstellen von Unternehmen mit Sitz außerhalb des Europäischen Wirtschaftsraums",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 9 Register"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Zahlungsinstituts-Register",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 9 Register"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "E-Geld-Instituts-Register",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 1 Kartengebundene Zahlungsinstrumente"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Pflichten des kontoführenden Zahlungsdienstleisters",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 1 Kartengebundene Zahlungsinstrumente"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Rechte und Pflichten des kartenausgebenden Zahlungsdienstleisters",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 1 Kartengebundene Zahlungsinstrumente"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Ausnahme für E-Geld-Instrumente",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 2 Zugang von Zahlungsauslöse- und Kontoinformationsdienstleistern zu Zahlungskonten"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Pflichten des kontoführenden Zahlungsdienstleisters bei Zahlungsauslösediensten",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 2 Zugang von Zahlungsauslöse- und Kontoinformationsdienstleistern zu Zahlungskonten"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Pflichten des Zahlungsauslösedienstleisters",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 2 Zugang von Zahlungsauslöse- und Kontoinformationsdienstleistern zu Zahlungskonten"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Pflichten des kontoführenden Zahlungsdienstleisters bei Kontoinformationsdiensten",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 2 Zugang von Zahlungsauslöse- und Kontoinformationsdienstleistern zu Zahlungskonten"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Pflichten des Kontoinformationsdienstleisters",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 2 Zugang von Zahlungsauslöse- und Kontoinformationsdienstleistern zu Zahlungskonten"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Zugang zu Zahlungskonten",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 3 Risiken und Meldung von Vorfällen"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Beherrschung operationeller und sicherheitsrelevanter Risiken",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 3 Risiken und Meldung von Vorfällen"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Meldung schwerwiegender Betriebs- oder Sicherheitsvorfälle",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 4 Starke Kundenauthentifizierung"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Starke Kundenauthentifizierung",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 5 Zugang zu Konten und Zahlungssystemen"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Zugang zu Zahlungskontodiensten bei CRR-Kreditinstituten",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 5 Zugang zu Konten und Zahlungssystemen"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Zugang zu Zahlungssystemen",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 5 Zugang zu Konten und Zahlungssystemen"
+      ],
+      "file": "paragraphs/0057a.md",
+      "heading": "Voraussetzungen für die Beantragung der Teilnahme an benannten Zahlungssystemen; Verordnungsermächtigung",
+      "number": "§ 57a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 5 Zugang zu Konten und Zahlungssystemen"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Aufgaben der Bundesanstalt bei Kartenzahlverfahren, Ausnahmen für neue Zahlverfahren im Massenzahlungsverkehr; Verordnungsermächtigung",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Gemeinsame Bestimmungen für alle Zahlungsdienstleister",
+        "Unterabschnitt 5a Technische Infrastrukturleistungen"
+      ],
+      "file": "paragraphs/0058a.md",
+      "heading": "Zugang zu technischen Infrastrukturleistungen bei der Erbringung von Zahlungsdiensten oder dem Betreiben des E-Geld-Geschäfts",
+      "number": "§ 58a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 11 Datenschutz"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Datenschutz",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 12 Beschwerden; Außergerichtliche Streitbeilegung und kollektive Verbraucherinformation"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Beschwerden über Zahlungsdienstleister",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 12 Beschwerden; Außergerichtliche Streitbeilegung und kollektive Verbraucherinformation"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Beschwerden über E-Geld-Emittenten",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 12 Beschwerden; Außergerichtliche Streitbeilegung und kollektive Verbraucherinformation"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Streitbeilegung bei einem Zahlungsdienstleister",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 12 Beschwerden; Außergerichtliche Streitbeilegung und kollektive Verbraucherinformation"
+      ],
+      "file": "paragraphs/0062a.md",
+      "heading": "Kollektive Verbraucherinformation",
+      "number": "§ 62a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Strafvorschriften, Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Strafvorschriften",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Strafvorschriften, Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Strafvorschriften, Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Mitteilung in Strafsachen",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Strafvorschriften, Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0065a.md",
+      "heading": "Bekanntmachung von Sanktionen wegen Verstößen gegen die Verordnung (EU) 2022/2554",
+      "number": "§ 65a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Übergangsvorschriften für Zahlungsinstitute, die bereits über eine Erlaubnis verfügen",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Übergangsvorschriften für E-Geld-Institute, die bereits über eine Erlaubnis verfügen",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Übergangsvorschriften für bestimmte Zahlungsdienste und für die starke Kundenauthentifizierung",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Übergangsvorschrift zum Finanzmarktdigitalisierungsgesetz",
+      "number": "§ 69",
+      "type": "paragraph"
+    }
+  ]
+}

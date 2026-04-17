@@ -1,0 +1,26 @@
+{
+  "amtabk": "PflSchSaatgAnwendV",
+  "ausfertigung_datum": "2016-07-22",
+  "bjnr": "BJNR178200016",
+  "eli": null,
+  "gii_slug": "pflschsaatganwendv",
+  "ingested_at": "2026-04-17T15:26:45Z",
+  "jurabk": "PflSchSaatgAnwendV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "afd9308e6a585c804a9461e43b01c7e637177ac93a2f22a408ef6f47e354cb35"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflschsaatganwendv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflschsaatganwendv/xml.zip"
+  },
+  "stand_datum": "2015-07-20",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 7823-7-8 v. 20.7.2015 BAnz AT 20.07.2015 V1, BAnz AT 23.07.2015 V1 (PflSchGetreidesaatgAnwendV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über das Inverkehrbringen und die Aussaat von mit bestimmten Pflanzenschutzmitteln behandeltem Saatgut",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

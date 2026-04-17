@@ -1,0 +1,30 @@
+{
+  "amtabk": "KVLG 1989",
+  "ausfertigung_datum": "1988-12-20",
+  "bjnr": "BJNR025570988",
+  "eli": null,
+  "gii_slug": "kvlg_1989",
+  "ingested_at": "2026-04-17T15:24:01Z",
+  "jurabk": "KVLG 1989",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "eb248d12638b58e841ee2425faf2b8d2182a1a18a635dce0868f2824b63596e4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kvlg_1989/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kvlg_1989/xml.zip"
+  },
+  "stand_datum": "2023-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 13a G v. 22.12.2023 I Nr. 408",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung der Inhaltsübersicht durch Art. 23 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Zweites Gesetz über die Krankenversicherung der Landwirte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

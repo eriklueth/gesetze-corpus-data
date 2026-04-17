@@ -1,0 +1,30 @@
+{
+  "amtabk": "VermG",
+  "ausfertigung_datum": "1990-09-23",
+  "bjnr": "BJNR211590990",
+  "eli": null,
+  "gii_slug": "vermg",
+  "ingested_at": "2026-04-17T15:30:05Z",
+  "jurabk": "VermG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "df1b1e9bc80cab26b4327f5d41d316370aa5ac4157b52c6c777a61ba98049653"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vermg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vermg/xml.zip"
+  },
+  "stand_datum": "2005-02-09",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 9.2.2005 I 205;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 15 Abs. 33 G v. 4.5.2021 I 882",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung offener Vermögensfragen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

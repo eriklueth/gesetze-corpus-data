@@ -1,0 +1,26 @@
+{
+  "amtabk": "Weser/Jade LV",
+  "ausfertigung_datum": "2003-02-25",
+  "bjnr": "BJNR504130003",
+  "eli": null,
+  "gii_slug": "weser_jadelotsv_2003",
+  "ingested_at": "2026-04-17T15:30:31Z",
+  "jurabk": "Weser/JadeLotsV 2003",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f63aaf44ff25b2b1742be8b5673ad48bf116507b80b05235abf12bd445e56ebd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/weser_jadelotsv_2003/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/weser_jadelotsv_2003/xml.zip"
+  },
+  "stand_datum": "2025-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 19.12.2025 I Nr. 380",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Verwaltung und Ordnung der Seelotsreviere Weser I und Weser II/Jade",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

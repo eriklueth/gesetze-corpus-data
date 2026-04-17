@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-12-11",
+  "bjnr": "BJNR288100020",
+  "eli": null,
+  "gii_slug": "walderhcokonjpdg",
+  "ingested_at": "2026-04-17T15:30:21Z",
+  "jurabk": "WaldErhCoKonjPDG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "94d9af5af3d5448fa4c856b5c21356159bfbd66e08fc6de0e089af1700992b97"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/walderhcokonjpdg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/walderhcokonjpdg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die Durchführung von Maßnahmen aus dem Corona-Konjunkturpaket zum Erhalt und zur nachhaltigen Bewirtschaftung der Wälder",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

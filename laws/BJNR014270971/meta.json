@@ -1,0 +1,30 @@
+{
+  "amtabk": "FVG",
+  "ausfertigung_datum": "1971-08-30",
+  "bjnr": "BJNR014270971",
+  "eli": null,
+  "gii_slug": "fvg_1971",
+  "ingested_at": "2026-04-17T15:21:52Z",
+  "jurabk": "FVG 1971",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b42bddaeafc657f6054b03bec950f078bbd223864281f16f12f4921d4c7dd091"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fvg_1971/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fvg_1971/xml.zip"
+  },
+  "stand_datum": "2006-04-04",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 4.4.2006 I 846, 1202;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 7 G v. 10.2.2026 I Nr. 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Finanzverwaltung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

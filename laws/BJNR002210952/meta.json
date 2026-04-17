@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1952-03-31",
+  "bjnr": "BJNR002210952",
+  "eli": null,
+  "gii_slug": "zhg",
+  "ingested_at": "2026-04-17T15:31:18Z",
+  "jurabk": "ZHG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f2e2e7c0428cf5b45bea994839fc3cec899e27399710fa3a130480a695b4c930"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zhg/xml.zip"
+  },
+  "stand_datum": "1987-04-16",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 16.4.1987 I 1225;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 13 G v. 19.5.2020 I 1018",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Ausübung der Zahnheilkunde",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

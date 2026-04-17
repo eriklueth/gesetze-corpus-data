@@ -1,0 +1,26 @@
+{
+  "amtabk": "RVWZPauschBeitrV",
+  "ausfertigung_datum": "1998-12-21",
+  "bjnr": "BJNR383100998",
+  "eli": null,
+  "gii_slug": "rvwzpauschbeitrv",
+  "ingested_at": "2026-04-17T15:27:33Z",
+  "jurabk": "RVWZPauschBeitrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bf25c6bac9d6868d0c7d3aba1c26126d1e0a38ceeafe14aec7ca5a6aec4c8ecf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rvwzpauschbeitrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rvwzpauschbeitrv/xml.zip"
+  },
+  "stand_datum": "2019-08-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 30 G v. 4.8.2019 I 1147",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die pauschale Berechnung und die Zahlung der Beiträge zur gesetzlichen Rentenversicherung für die Dauer eines auf Grund gesetzlicher Pflicht zu leistenden Wehr- und Zivildienstes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

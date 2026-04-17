@@ -1,0 +1,30 @@
+{
+  "amtabk": "UkraineAufenthFGV",
+  "ausfertigung_datum": "2023-11-28",
+  "bjnr": "BJNR14E0A0023",
+  "eli": null,
+  "gii_slug": "ukraineaufenthfgv",
+  "ingested_at": "2026-04-17T15:29:45Z",
+  "jurabk": "UkraineAufenthFGV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "521f98a521ba176b46cf974faaa4caf6cfb9e0020ecbf66f8f658c3f7dc45661"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ukraineaufenthfgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ukraineaufenthfgv/xml.zip"
+  },
+  "stand_datum": "2025-10-22",
+  "standangabe": [
+    {
+      "kommentar": "V aufgeh. durch § 3 Abs. 2 dieser V idF d. Art. 1 Nr. 2 V v. 22.10.2025 I Nr. 252 mit Ablauf d. 4.3.2027",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 22.10.2025 I Nr. 252",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Regelung der Fortgeltung der gemäß § 24 Absatz 1 Aufenthaltsgesetz erteilten Aufenthaltserlaubnisse für vorübergehend Schutzberechtigte aus der Ukraine",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,34 @@
+{
+  "amtabk": "ElektroG",
+  "ausfertigung_datum": "2015-10-20",
+  "bjnr": "BJNR173910015",
+  "eli": null,
+  "gii_slug": "elektrog_2015",
+  "ingested_at": "2026-04-17T15:20:38Z",
+  "jurabk": "ElektroG 2015",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "28c1fdbe86d795b0c9d08908ee36a91d834cb14f7bc8cb9ce698f08884bb2927"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/elektrog_2015/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/elektrog_2015/xml.zip"
+  },
+  "stand_datum": "2025-09-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 Abs. 4 G v. 30.9.2025 I Nr. 233",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 G v. 25.11.2025 I Nr. 286 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Ersetzt G 2129-43 v. 16.3.2005 I 762 (ElektroG)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Elektro- und Elektronikgeräten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

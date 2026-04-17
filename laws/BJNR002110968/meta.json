@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1968-02-29",
+  "bjnr": "BJNR002110968",
+  "eli": null,
+  "gii_slug": "bmvgbdodano",
+  "ingested_at": "2026-04-17T15:18:46Z",
+  "jurabk": "BMVgBDODAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "99057ac2450f9c92904011209a48311a1f488187c0f467b9cb463710f1d88eb7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmvgbdodano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmvgbdodano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Durchführung der Bundesdisziplinarordnung für den Geschäftsbereich des Bundesministers der Verteidigung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

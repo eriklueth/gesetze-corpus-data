@@ -1,0 +1,30 @@
+{
+  "amtabk": "AMG",
+  "ausfertigung_datum": "1976-08-24",
+  "bjnr": "BJNR024480976",
+  "eli": null,
+  "gii_slug": "amg_1976",
+  "ingested_at": "2026-04-17T15:16:59Z",
+  "jurabk": "AMG 1976",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "214f304c2dcee7a9914dda5cb1d044b1f42c392169e631c85c40faf31461866d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/amg_1976/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/amg_1976/xml.zip"
+  },
+  "stand_datum": "2005-12-12",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 12.12.2005 I 3394;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 G v. 23.10.2024 I Nr. 324",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Verkehr mit Arzneimitteln",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

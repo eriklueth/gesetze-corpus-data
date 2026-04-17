@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-02-05",
+  "bjnr": "BJNR207530980",
+  "eli": null,
+  "gii_slug": "autobbrvtr_bel",
+  "ingested_at": "2026-04-17T15:17:28Z",
+  "jurabk": "AutobBrVtr BEL",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "77a6de62bcc67319553a3ad5e65ab3bc66b33b49cfd8bb7fa8718732aea384d6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/autobbrvtr_bel/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/autobbrvtr_bel/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über den Bau und die Unterhaltung einer Autobahnbrücke über die Our bei Steinebrück",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

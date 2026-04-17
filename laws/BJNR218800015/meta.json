@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-12-03",
+  "bjnr": "BJNR218800015",
+  "eli": null,
+  "gii_slug": "minuhv",
+  "ingested_at": "2026-04-17T15:24:53Z",
+  "jurabk": "MinUhV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "697262f39a6176f8ffeb59a25a299ae10811c98befefafb6f0cedbb26b5bd40a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/minuhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/minuhv/xml.zip"
+  },
+  "stand_datum": "2024-11-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 15.11.2024 I Nr. 359",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Festlegung des Mindestunterhalts minderjähriger Kinder nach § 1612a Absatz 1 des Bürgerlichen Gesetzbuchs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

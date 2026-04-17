@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1984-11-12",
+  "bjnr": "BJNR013660984",
+  "eli": null,
+  "gii_slug": "k_merwbek",
+  "ingested_at": "2026-04-17T15:23:56Z",
+  "jurabk": "KüMErwBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "85554a2083f14ba64325d30489102ff9bcf7a4698cb097a48a07219057c4f13f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/k_merwbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/k_merwbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung des Beschlusses der Bundesregierung über die Erweiterung des Küstenmeeres der Bundesrepublik Deutschland in der Nordsee zur Verhinderung von Tankerunfällen in der Deutschen Bucht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

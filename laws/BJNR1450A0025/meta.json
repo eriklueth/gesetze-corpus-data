@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-12-12",
+  "bjnr": "BJNR1450A0025",
+  "eli": null,
+  "gii_slug": "nootsstvtrg",
+  "ingested_at": "2026-04-17T15:26:02Z",
+  "jurabk": "NOOTSStVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a0710e1dacab02b9370a2355e3a7e3e6d4c6b17b8dcf2ae87f85ae22712b7276"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nootsstvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nootsstvtrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zum Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) – Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG – NOOTS-Staatsvertrag",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "AMVO",
+  "ausfertigung_datum": "2011-10-26",
+  "bjnr": "BJNR214900011",
+  "eli": null,
+  "gii_slug": "amstprv",
+  "ingested_at": "2026-04-17T15:17:00Z",
+  "jurabk": "AMstPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "83e0fe281e9d4c1459760a5cb2e59d6aa571d11166435bdd21427f548b44c344"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/amstprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/amstprv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 97 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen III und IV im Handwerk und in handwerksähnlichen Gewerben",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

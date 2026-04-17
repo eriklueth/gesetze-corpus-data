@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-09-17",
+  "bjnr": "BJNR213050965",
+  "eli": null,
+  "gii_slug": "vermrglvtrisr_ausg",
+  "ingested_at": "2026-04-17T15:30:08Z",
+  "jurabk": "VermRglVtrISR/AUSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b8480ce1444f628217ca9acea04978d46a9ce007e0e8db3d1d60d7d88023fe12"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vermrglvtrisr_ausg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vermrglvtrisr_ausg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zum Vertrag vom 21. April 1965 zwischen der Bundesrepublik Deutschland und dem Australischen Bund über die Aufteilung der von der Regierung des Staates Israel für das deutsche weltliche Vermögen in Israel gezahlten Entschädigung auf Deutschland und Australien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

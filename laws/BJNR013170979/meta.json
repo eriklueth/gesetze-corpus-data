@@ -1,0 +1,26 @@
+{
+  "amtabk": "G Artikel 29 Abs. 6",
+  "ausfertigung_datum": "1979-07-30",
+  "bjnr": "BJNR013170979",
+  "eli": null,
+  "gii_slug": "ggart29abs6g",
+  "ingested_at": "2026-04-17T15:21:47Z",
+  "jurabk": "GGArt29Abs6G",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ffaa038790c4169d53da3374d9a2a0fd3c906aad49b96c3db6f7f1f7eec77f36"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ggart29abs6g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ggart29abs6g/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über das Verfahren bei Volksentscheid, Volksbegehren und Volksbefragung nach Artikel 29 Abs. 6 des Grundgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

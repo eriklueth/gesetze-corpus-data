@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-11-21",
+  "bjnr": "BJNR523100958",
+  "eli": null,
+  "gii_slug": "bmpzversano",
+  "ingested_at": "2026-04-17T15:18:46Z",
+  "jurabk": "BMPZVersAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fc65f81dc0b14b17d61deb4ce27b07b4636c5203a618c01016aa31e069f8c749"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmpzversano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmpzversano/xml.zip"
+  },
+  "stand_datum": "1967-08-12",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Abs. 3 Buchst. d AnO v. 12.8.1967 BAnz. 1967, Nr. 157",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung usw. im Dienstbereich des Bundesminister für das Post- und Fernmeldewesen - ZOVers -",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-03-04",
+  "bjnr": "BJNR040700998",
+  "eli": null,
+  "gii_slug": "ofdaufg_bertrv",
+  "ingested_at": "2026-04-17T15:26:12Z",
+  "jurabk": "OFDAufgÜbertrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2822e4e2c8e6c5f0dc04058b6d6a4291af3cb3346c776487abc0eac45e4550ee"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ofdaufg_bertrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ofdaufg_bertrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektionen Berlin, Bremen, Chemnitz, Düsseldorf, Erfurt, Frankfurt am Main, Hannover, Kiel, Magdeburg, München, Münster, Rostock, Saarbrücken und Stuttgart",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

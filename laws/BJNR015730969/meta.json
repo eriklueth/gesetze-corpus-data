@@ -1,0 +1,30 @@
+{
+  "amtabk": "GAKG",
+  "ausfertigung_datum": "1969-09-03",
+  "bjnr": "BJNR015730969",
+  "eli": null,
+  "gii_slug": "agrstruktg",
+  "ingested_at": "2026-04-17T15:21:48Z",
+  "jurabk": "AgrStruktG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "30609f686e067d689e18d935535c8aab7c313d9f977febb6390e5816a42c8d5a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/agrstruktg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/agrstruktg/xml.zip"
+  },
+  "stand_datum": "1988-07-21",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 21.7.1988 I 1055;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 11.10.2016 I 2231",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Gemeinschaftsaufgabe \"Verbesserung der Agrarstruktur und des Küstenschutzes\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

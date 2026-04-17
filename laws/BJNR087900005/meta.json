@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-03-22",
+  "bjnr": "BJNR087900005",
+  "eli": null,
+  "gii_slug": "kepfachausbv",
+  "ingested_at": "2026-04-17T15:23:25Z",
+  "jurabk": "KEPFachAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e4e3e334fb107a0eefb63cbb2a476aa889c51578da015228c87d8fb7cf7e2b17"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kepfachausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kepfachausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zur Fachkraft für Kurier-, Express- und Postdienstleistungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "RWBestG 2022",
+  "ausfertigung_datum": "2022-06-28",
+  "bjnr": "BJNR097800022",
+  "eli": null,
+  "gii_slug": "rwbestg_2022",
+  "ingested_at": "2026-04-17T15:27:33Z",
+  "jurabk": "RWBestG 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "21d104afb0134957e6e83bef9d2692d76cd2ea2298c7fcf5689b66a924c2fd00"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rwbestg_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rwbestg_2022/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte und zur Bestimmung weiterer Werte zum 1. Juli 2022",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-11-05",
+  "bjnr": "BJNR219300999",
+  "eli": null,
+  "gii_slug": "patinfozbek_1999-11",
+  "ingested_at": "2026-04-17T15:26:30Z",
+  "jurabk": "PatInfoZBek 1999-11",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "564b165eed53984cd1aec568ee6f573f98b4e1c8e8fab465fe83b133348d1df0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/patinfozbek_1999-11/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/patinfozbek_1999-11/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der zur Entgegennahme von Patent- und Gebrauchsmusteranmeldungen befugten Patentinformationszentren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

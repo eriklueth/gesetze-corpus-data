@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-10-06",
+  "bjnr": "BJNR159900014",
+  "eli": null,
+  "gii_slug": "fvogedenkbek",
+  "ingested_at": "2026-04-17T15:21:46Z",
+  "jurabk": "FVOGedenkBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0fcb818f947d61620068a7a6c9caa9de7588b9e78becfe4cb37d30bc8ff56dbc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fvogedenkbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fvogedenkbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über den Beschluss der Bundesregierung zur Einführung eines jährlichen Gedenktages für die Opfer von Flucht und Vertreibung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

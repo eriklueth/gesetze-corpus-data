@@ -1,0 +1,21 @@
+{
+  "amtabk": "AsphAusbV",
+  "ausfertigung_datum": "1984-03-19",
+  "bjnr": "BJNR004570984",
+  "eli": null,
+  "gii_slug": "asphausbv",
+  "ingested_at": "2026-04-17T15:17:07Z",
+  "jurabk": "AsphAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "62ced0d4b83a76a3e66f904053cb4bce9721a37d5c507b87ce72c8e92704a64d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/asphausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/asphausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Asphaltbauer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

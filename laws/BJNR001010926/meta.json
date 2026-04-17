@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1926-02-13",
+  "bjnr": "BJNR001010926",
+  "eli": null,
+  "gii_slug": "stiftkstbegv",
+  "ingested_at": "2026-04-17T15:28:55Z",
+  "jurabk": "StiftKStBegV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c599c80ceca153c42a22dde2e89479afa4dc79060debbae5a05f34f9dc312828"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stiftkstbegv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stiftkstbegv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Steuerbegünstigung von Stiftungen, die an die Stelle von Familienfideikommissen getreten sind",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

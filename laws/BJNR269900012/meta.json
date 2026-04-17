@@ -1,0 +1,26 @@
+{
+  "amtabk": "NLPosV",
+  "ausfertigung_datum": "2012-12-17",
+  "bjnr": "BJNR269900012",
+  "eli": null,
+  "gii_slug": "nlposv_2012",
+  "ingested_at": "2026-04-17T15:26:01Z",
+  "jurabk": "NLPosV 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b2864274ce1c7172e41ff186572dd47a3f09526aab1f3bf3047d2dc392c6bbdb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nlposv_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nlposv_2012/xml.zip"
+  },
+  "stand_datum": "2017-06-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 24 Abs. 11 G v. 23.6.2017 I 1693",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Konkretisierung der Mitteilungs- und Veröffentlichungspflichten für Netto-Leerverkaufspositionen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

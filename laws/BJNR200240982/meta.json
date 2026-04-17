@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-02-17",
+  "bjnr": "BJNR200240982",
+  "eli": null,
+  "gii_slug": "intmeersch_bk1973prot",
+  "ingested_at": "2026-04-17T15:23:04Z",
+  "jurabk": "IntMeerSchÜbk1973Prot",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "648c8556c7cee7e01163e692551d16a15f4d06d541a4e79b71464c8b1550e3d5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intmeersch_bk1973prot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intmeersch_bk1973prot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll von 1978 zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-03-20",
+  "bjnr": "BJNR208580958",
+  "eli": null,
+  "gii_slug": "fzgteil_bk",
+  "ingested_at": "2026-04-17T15:21:46Z",
+  "jurabk": "FzgTeilÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "be0a29408d636bd3075e21ad642c8d070391f9ab8ddb6859019c9eb5721e3331"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fzgteil_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fzgteil_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Annahme einheitlicher Bedingungen für die Genehmigung der Ausrüstungsgegenstände und Teile von Kraftfahrzeugen (Motorfahrzeugen) und über die gegenseitige Anerkennung der Genehmigung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

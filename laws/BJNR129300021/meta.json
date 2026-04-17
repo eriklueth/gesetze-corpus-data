@@ -1,0 +1,21 @@
+{
+  "amtabk": "ZVEG",
+  "ausfertigung_datum": "2021-06-02",
+  "bjnr": "BJNR129300021",
+  "eli": null,
+  "gii_slug": "zveg",
+  "ingested_at": "2026-04-17T15:31:30Z",
+  "jurabk": "ZVEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dda0b52a031a14321c6c4e72d4442b978b56b49d605620873d91c033ffd2d8c0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zveg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zveg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die statistische Erhebung der Zeitverwendung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

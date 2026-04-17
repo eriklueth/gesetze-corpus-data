@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-12-23",
+  "bjnr": "BJNR036780974",
+  "eli": null,
+  "gii_slug": "invzulberg",
+  "ingested_at": "2026-04-17T15:23:08Z",
+  "jurabk": "InvZulBerG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7372a2e234256b908e7afa9771a1bfb578608dcf77cc1e8ffa29ef794d055a14"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/invzulberg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/invzulberg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die berechnungsrechtliche Behandlung von Investitionszulagen im preisgebundenen Wohnungsbau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-03-06",
+  "bjnr": "BJNR047700998",
+  "eli": null,
+  "gii_slug": "mikrotausbv",
+  "ingested_at": "2026-04-17T15:24:50Z",
+  "jurabk": "MikrotAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d8d8e80c4a63c996f6486394776252e688cb9025b146095f23149ffe43d29eeb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mikrotausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mikrotausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

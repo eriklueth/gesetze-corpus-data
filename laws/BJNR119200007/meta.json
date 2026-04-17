@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-06-26",
+  "bjnr": "BJNR119200007",
+  "eli": null,
+  "gii_slug": "pharmrefprv",
+  "ingested_at": "2026-04-17T15:26:49Z",
+  "jurabk": "PharmRefPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e536205551a1616b7505a6416f3e0fa3f67400210f422073d127f69734516a3a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pharmrefprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pharmrefprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 37 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

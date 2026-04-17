@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-04-10",
+  "bjnr": "BJNR212610969",
+  "eli": null,
+  "gii_slug": "sozsichabkzabk_aut",
+  "ingested_at": "2026-04-17T15:28:38Z",
+  "jurabk": "SozSichAbkZAbk AUT",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "99191c4a60ffaef8731e48cd81acd4570479db2921f9557683beaeac1033d611"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkzabk_aut/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkzabk_aut/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzabkommen zum Abkommen vom 22. Dezember 1966 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

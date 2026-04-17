@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-04-02",
+  "bjnr": "BJNR064100013",
+  "eli": null,
+  "gii_slug": "stanz_umfmechausbv",
+  "ingested_at": "2026-04-17T15:28:51Z",
+  "jurabk": "Stanz/UmfMechAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e2b98641f4a11153096019a384a839d0af022f96b737ebfdf44f1132c3939658"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stanz_umfmechausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stanz_umfmechausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Stanz- und Umformmechaniker und zur Stanz- und Umformmechanikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

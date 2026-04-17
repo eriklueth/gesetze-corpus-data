@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-08-25",
+  "bjnr": "BJNR024440976",
+  "eli": null,
+  "gii_slug": "wzg_35nzlbek",
+  "ingested_at": "2026-04-17T15:31:06Z",
+  "jurabk": "WZG§35NZLBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "234232546a40d71f42cae2e061fba319a22c5ba2259cadb2aec26ddd2cc0a705"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35nzlbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35nzlbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 Abs. 3 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

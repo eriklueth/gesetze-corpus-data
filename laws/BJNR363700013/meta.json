@@ -1,0 +1,26 @@
+{
+  "amtabk": "BMFSVZustAnO",
+  "ausfertigung_datum": "2013-09-13",
+  "bjnr": "BJNR363700013",
+  "eli": null,
+  "gii_slug": "bmfsvzustano",
+  "ingested_at": "2026-04-17T15:18:39Z",
+  "jurabk": "BMFSVZustAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4917d782fecff73cb6920b974fba5bdf2ee7133896501a44f76ba6afce5072f6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmfsvzustano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmfsvzustano/xml.zip"
+  },
+  "stand_datum": "2016-01-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 AnO v. 4.1.2016 I 31",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Anordnung zur Übertragung der örtlichen Zuständigkeit auf dem Gebiet der Soldatenversorgung im Geschäftsbereich des Bundesministeriums der Finanzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

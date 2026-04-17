@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1963-09-12",
+  "bjnr": "BJNR007810963",
+  "eli": null,
+  "gii_slug": "wzg_4unbek",
+  "ingested_at": "2026-04-17T15:31:13Z",
+  "jurabk": "WZG§4UNBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cbb0b88220e5709bbfe566aba5b94d82799dc37f1427240c3abf5f9dfc669952"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4unbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4unbek/xml.zip"
+  },
+  "stand_datum": "1977-07-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Bek. v. 20.7.1977 I 1345",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

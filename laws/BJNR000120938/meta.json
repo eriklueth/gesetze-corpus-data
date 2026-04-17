@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1938-01-07",
+  "bjnr": "BJNR000120938",
+  "eli": null,
+  "gii_slug": "famnam_ndgdv_1",
+  "ingested_at": "2026-04-17T15:21:16Z",
+  "jurabk": "FamNamÄndGDV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dc302a49a58fa8e6660540f842b67e3b012dee78b02ed77f5a891400503757e9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/famnam_ndgdv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/famnam_ndgdv_1/xml.zip"
+  },
+  "stand_datum": "2016-07-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 Abs. 47 G v. 18.7.2016 I 1666",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Erste Verordnung zur Durchführung des Gesetzes über die Änderung von Familiennamen und Vornamen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

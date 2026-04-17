@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1968-05-10",
+  "bjnr": "BJNR204280968",
+  "eli": null,
+  "gii_slug": "pflzsch_bkg",
+  "ingested_at": "2026-04-17T15:26:46Z",
+  "jurabk": "PflZSchÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "16e05cbca451f759a349f50cfd0d4629711120211951465472cb7c049ef71963"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflzsch_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflzsch_bkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu den Internationalen Übereinkommen vom 2. Dezember 1961 zum Schutz von Pflanzenzüchtungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

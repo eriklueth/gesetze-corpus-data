@@ -1,0 +1,30 @@
+{
+  "amtabk": "SolingenV",
+  "ausfertigung_datum": "1994-12-16",
+  "bjnr": "BJNR383300994",
+  "eli": null,
+  "gii_slug": "solingenv",
+  "ingested_at": "2026-04-17T15:28:20Z",
+  "jurabk": "SolingenV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6c5d639d63b1a5391bdd5dcc8784011a340622efe51f3b0990530b6af82efd63"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/solingenv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/solingenv/xml.zip"
+  },
+  "stand_datum": "2026-01-11",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 G v. 11.1.2026 I Nr. 9",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V tritt gem. § 4 idF d. Art. 6 G v. 11.1.2026 I Nr. 9 an dem Tag außer Kraft, an dem das Amt der Europäischen Union für geistiges Eigentum auf der Grundlage eines gemäß Artikel 70 Absatz 2 der Verordnung (EU) 2023/2411 gestellten Antrags die hiernach geschützte Angabe in das Unionsregister nach der Verordnung (EU) 2023/2411 einträgt oder über den Antrag anderweitig abschließend entscheidet",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zum Schutz des Namens Solingen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

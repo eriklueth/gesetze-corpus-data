@@ -1,0 +1,26 @@
+{
+  "amtabk": "VReformG",
+  "ausfertigung_datum": "1998-06-29",
+  "bjnr": "BJNR166600998",
+  "eli": null,
+  "gii_slug": "vreformg",
+  "ingested_at": "2026-04-17T15:30:16Z",
+  "jurabk": "VReformG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e30e92a5e97d9ea94ae6391794e635911eb8982bb62b37b7f9030b3e2e387efb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vreformg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vreformg/xml.zip"
+  },
+  "stand_datum": "2005-04-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 G v. 22.4.2005 I 1106",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Umsetzung des Versorgungsberichts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

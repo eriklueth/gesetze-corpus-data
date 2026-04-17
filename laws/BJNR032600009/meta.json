@@ -1,0 +1,26 @@
+{
+  "amtabk": "BBhV",
+  "ausfertigung_datum": "2009-02-13",
+  "bjnr": "BJNR032600009",
+  "eli": null,
+  "gii_slug": "bbhv",
+  "ingested_at": "2026-04-17T15:17:46Z",
+  "jurabk": "BBhV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "71dc6107b051046e669e433cfeeba905250052515a39f407eba48f347afab08c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbhv/xml.zip"
+  },
+  "stand_datum": "2025-10-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 14.10.2025 I Nr. 240",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Beihilfe in Krankheits-, Pflege- und Geburtsfällen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-01-05",
+  "bjnr": "BJNR003500999",
+  "eli": null,
+  "gii_slug": "l_rmschutzv",
+  "ingested_at": "2026-04-17T15:24:02Z",
+  "jurabk": "LärmschutzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "569cff6a623649a82eade080274ea08f44b6d035276dc6a9f9a1b6558dd95a02"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/l_rmschutzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/l_rmschutzv/xml.zip"
+  },
+  "stand_datum": "2015-10-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 5 V v. 29.10.2015 I 1894",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Landeplatz-Lärmschutz-Verordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

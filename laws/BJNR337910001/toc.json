@@ -1,0 +1,34 @@
+{
+  "bjnr": "BJNR337910001",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0002.md",
+      "heading": "Abfallbezeichnung",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0003.md",
+      "heading": "Gefährlichkeit von Abfällen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "annexes/0000.md",
+      "heading": "(zu § 2 Abs. 1)",
+      "number": "Anlage",
+      "type": "annex"
+    }
+  ]
+}

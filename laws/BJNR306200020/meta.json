@@ -1,0 +1,26 @@
+{
+  "amtabk": "EinkFachwBAProPPrV",
+  "ausfertigung_datum": "2020-12-18",
+  "bjnr": "BJNR306200020",
+  "eli": null,
+  "gii_slug": "einkfachwbapropprv",
+  "ingested_at": "2026-04-17T15:20:36Z",
+  "jurabk": "EinkFachwBAProPPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d2b325cdd868a11618ff2623dfcc4f273a3802629cb6f453d01b8668ae6e7e0b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/einkfachwbapropprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/einkfachwbapropprv/xml.zip"
+  },
+  "stand_datum": "2014-08-21",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-22-6-52 v. 21.8.2014 I 1466 (EinkFachwPrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Einkauf und Geprüfte Fachwirtin für Einkauf-Bachelor Professional in Procurement",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

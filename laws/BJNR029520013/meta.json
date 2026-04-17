@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-05-17",
+  "bjnr": "BJNR029520013",
+  "eli": null,
+  "gii_slug": "unwfpb_roabk",
+  "ingested_at": "2026-04-17T15:29:53Z",
+  "jurabk": "UNWFPBüroAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ec3c89270e6d863c771afd168555c65c4fc0c63bd70982074e0bf9cd17f44e12"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unwfpb_roabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unwfpb_roabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Welternährungsprogramm der Vereinten Nationen über das Büro des Welternährungsprogramms der Vereinten Nationen in der Bundesrepublik Deutschland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

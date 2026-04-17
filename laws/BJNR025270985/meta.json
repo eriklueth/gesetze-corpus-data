@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1985-12-20",
+  "bjnr": "BJNR025270985",
+  "eli": null,
+  "gii_slug": "shstatg1985aussv",
+  "ingested_at": "2026-04-17T15:28:14Z",
+  "jurabk": "SHStatG1985AussV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "17f94ffe7108104a68e530701036684e80b0de126e7b63339dd44e601bf75d12"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/shstatg1985aussv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/shstatg1985aussv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Aussetzung statistischer Erhebungen im Bereich der Jugendhilfe im Jahre 1985 nach dem Gesetz über die Durchführung von Statistiken auf dem Gebiet der Sozialhilfe, der Kriegsopferfürsorge und der Jugendhilfe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

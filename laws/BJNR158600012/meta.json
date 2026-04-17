@@ -1,0 +1,21 @@
+{
+  "amtabk": "BwBeamtAusglG",
+  "ausfertigung_datum": "2012-07-21",
+  "bjnr": "BJNR158600012",
+  "eli": null,
+  "gii_slug": "bwbeamtausglg",
+  "ingested_at": "2026-04-17T15:19:33Z",
+  "jurabk": "BwBeamtAusglG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2ab77e0beaa9fda6be77a4b9e14842b5d771f9790398e0edfc868194c8e73db1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bwbeamtausglg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bwbeamtausglg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Ausgliederung von Beamtinnen und Beamten der Bundeswehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

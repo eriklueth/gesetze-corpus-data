@@ -1,0 +1,26 @@
+{
+  "amtabk": "BALMÜV",
+  "ausfertigung_datum": "2016-01-14",
+  "bjnr": "BJNR602600016",
+  "eli": null,
+  "gii_slug": "bag_v",
+  "ingested_at": "2026-04-17T15:17:35Z",
+  "jurabk": "BAGÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5b1c234a0c6615212a04507aaed7e5729b3e3383c9a1420b10b39a0024a039ee"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bag_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bag_v/xml.zip"
+  },
+  "stand_datum": "2023-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 32 G v. 2.3.2023 I Nr. 56",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf das Bundesamt für Logistik und Mobilität",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

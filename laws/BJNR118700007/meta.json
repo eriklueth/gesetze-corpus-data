@@ -1,0 +1,26 @@
+{
+  "amtabk": "KraftNAV",
+  "ausfertigung_datum": "2007-06-26",
+  "bjnr": "BJNR118700007",
+  "eli": null,
+  "gii_slug": "kraftnav",
+  "ingested_at": "2026-04-17T15:23:49Z",
+  "jurabk": "KraftNAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1b09bf69a95ae1be0d318e9ad70f54e33a142642a1ed27e67409af81fb3fc1fe"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kraftnav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kraftnav/xml.zip"
+  },
+  "stand_datum": "2025-12-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 23.12.2025 I Nr. 368",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung von elektrischer Energie",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

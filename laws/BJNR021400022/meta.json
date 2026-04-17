@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2022-02-16",
+  "bjnr": "BJNR021400022",
+  "eli": null,
+  "gii_slug": "tgewopfgedenkbek",
+  "ingested_at": "2026-04-17T15:29:25Z",
+  "jurabk": "TGewOpfGedenkBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "520d859badcabae326300c4002c616385a77c88a59a7e1f9c74620030fb572c7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tgewopfgedenkbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tgewopfgedenkbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über den Beschluss der Bundesregierung zur Einführung eines nationalen Gedenktages für die Opfer terroristischer Gewalt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "VergMindV 2023",
+  "ausfertigung_datum": "2023-01-24",
+  "bjnr": "BJNR0170A0023",
+  "eli": null,
+  "gii_slug": "vergmindv_2023",
+  "ingested_at": "2026-04-17T15:30:03Z",
+  "jurabk": "VergMindV 2023",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a9630a5d5531f004578eb88fa436340ccfd4eade8dc8c16ff32dca0fc5591cea"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vergmindv_2023/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vergmindv_2023/xml.zip"
+  },
+  "stand_datum": "2026-12-31",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 6 am 31.12.2026 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zur Festsetzung eines vergabespezifischen Mindestentgelts für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder Dritten Buch Sozialgesetzbuch für die Kalenderjahre 2023 bis 2026",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

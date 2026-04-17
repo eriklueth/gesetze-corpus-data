@@ -1,0 +1,30 @@
+{
+  "amtabk": "BaustellV",
+  "ausfertigung_datum": "1998-06-10",
+  "bjnr": "BJNR128300998",
+  "eli": null,
+  "gii_slug": "baustellv",
+  "ingested_at": "2026-04-17T15:17:43Z",
+  "jurabk": "BaustellV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "90effb7df9796ca120ab1a4bbfb0a9b13701e15eba745c4094b0511fd6f6afd1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baustellv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baustellv/xml.zip"
+  },
+  "stand_datum": "2022-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 19.12.2022; 2023 I Nr. 1",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 V v. 17.12.2025 I Nr. 337 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über Sicherheit und Gesundheitsschutz auf Baustellen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

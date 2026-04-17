@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-09-23",
+  "bjnr": "BJNR208850990",
+  "eli": null,
+  "gii_slug": "einigvtrg",
+  "ingested_at": "2026-04-17T15:20:36Z",
+  "jurabk": "EinigVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "77def0f5495def894aaff82de26e4d8c39668aecf3a1f6d1f88be7af8d486a0d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/einigvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/einigvtrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 31. August 1990 zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands - Einigungsvertragsgesetz - und der Vereinbarung vom 18. September 1990",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

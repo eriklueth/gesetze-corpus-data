@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-10-19",
+  "bjnr": "BJNR12B0O0023",
+  "eli": null,
+  "gii_slug": "unopsb_rovbgv",
+  "ingested_at": "2026-04-17T15:29:52Z",
+  "jurabk": "UNOPSBüroVbgV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c286a61c58ecfe19bccf9e06e1971768b3dbd467d3340873ab3a6b4218ba7259"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unopsb_rovbgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unopsb_rovbgv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. Art. 3 Abs. 3 an dem Tag außer Kraft, an dem die Vereinbarung außer Kraft tritt",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen (UNV) über die Errichtung einer Zweigstelle des Büros der Vereinten Nationen für Projektdienstleistungen (UNOPS) in Bonn",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

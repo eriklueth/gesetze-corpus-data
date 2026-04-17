@@ -1,0 +1,26 @@
+{
+  "amtabk": "VerifZusAusfG",
+  "ausfertigung_datum": "2000-01-29",
+  "bjnr": "BJNR007400000",
+  "eli": null,
+  "gii_slug": "verifzusausfg",
+  "ingested_at": "2026-04-17T15:30:03Z",
+  "jurabk": "VerifZusAusfG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "42b8d2bf9ab48dda9c5223e1292e7fe3a905fd6a399a192bf233b7bbe536b0d2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verifzusausfg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verifzusausfg/xml.zip"
+  },
+  "stand_datum": "2004-05-10",
+  "standangabe": [
+    {
+      "kommentar": "Das G ist gem. § 23 Abs. 1 iVm Bek. v. 10.5.2004 II 789 mWv 30.4.2004 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Ausführungsgesetz zu dem Übereinkommen vom 5. April 1973 zwischen den Nichtkernwaffenstaaten der Europäischen Atomgemeinschaft, der Europäischen Atomgemeinschaft und der Internationalen Atomenergie-Organisation in Ausführung von Artikel III Abs. 1 und 4 des Vertrages vom 1. Juli 1968 über die Nichtverbreitung von Kernwaffen (Verifikationsabkommen) sowie zu dem Zusatzprotokoll zu diesem Übereinkommen vom 22. September 1998",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1957-10-01",
+  "bjnr": "BJNR016800957",
+  "eli": null,
+  "gii_slug": "arbnerfgdv_2",
+  "ingested_at": "2026-04-17T15:17:03Z",
+  "jurabk": "ArbnErfGDV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cfc8b5660438fe22bc3a1c070cbbd9e9d9e21fe8b12c667ca491e5e5230c5e60"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/arbnerfgdv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/arbnerfgdv_2/xml.zip"
+  },
+  "stand_datum": "2009-07-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 31.7.2009 I 2521",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweite Verordnung zur Durchführung des Gesetzes über Arbeitnehmererfindungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2001-08-16",
+  "bjnr": "BJNR213800001",
+  "eli": null,
+  "gii_slug": "jmbstiftg",
+  "ingested_at": "2026-04-17T15:23:14Z",
+  "jurabk": "JMBStiftG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8fbb0987352635c6aaffb7ab50fbe77054a67fb9cf257f7b736f731a76fc47e1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/jmbstiftg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/jmbstiftg/xml.zip"
+  },
+  "stand_datum": "2017-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 76 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Errichtung einer \"Stiftung Jüdisches Museum Berlin\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

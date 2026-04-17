@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-04-09",
+  "bjnr": "BJNR081300009",
+  "eli": null,
+  "gii_slug": "bbankge_v",
+  "ingested_at": "2026-04-17T15:17:44Z",
+  "jurabk": "BBankGEÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8928dec46b46c506af6c3fb83ee123bf0e1c74b0f23e742b73d57eda6006e23b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbankge_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbankge_v/xml.zip"
+  },
+  "stand_datum": "2024-08-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 29.8.2024 I Nr. 273",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Übertragung von Verordnungsermächtigungen der Bundesregierung nach § 31 des Gesetzes über die Deutsche Bundesbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

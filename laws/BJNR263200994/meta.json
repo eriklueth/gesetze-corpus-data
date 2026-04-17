@@ -1,0 +1,30 @@
+{
+  "amtabk": "NS-VEntschG",
+  "ausfertigung_datum": "1994-09-27",
+  "bjnr": "BJNR263200994",
+  "eli": null,
+  "gii_slug": "ns-ventschg",
+  "ingested_at": "2026-04-17T15:26:04Z",
+  "jurabk": "NS-VEntschG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8866e0b7eee67e27cc80c3fc435df7fb58fabb280ed1bface5bd7fb0a040e4ca"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ns-ventschg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ns-ventschg/xml.zip"
+  },
+  "stand_datum": "2004-07-13",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 13.7.2004 I 1671;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 4 Abs. 42 G v. 22.9.2005 I 2809",
+      "typ": "Stand"
+    }
+  ],
+  "title": "NS-Verfolgtenentschädigungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

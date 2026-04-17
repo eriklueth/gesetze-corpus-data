@@ -1,0 +1,21 @@
+{
+  "amtabk": "EPPSG",
+  "ausfertigung_datum": "2022-12-16",
+  "bjnr": "BJNR235700022",
+  "eli": null,
+  "gii_slug": "eppsg",
+  "ingested_at": "2026-04-17T15:20:43Z",
+  "jurabk": "EPPSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "380e13abb6865dd67996ee09ec358f6c4687c8b1433eb3f2f1881a8a4cc926f3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eppsg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eppsg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Zahlung einer einmaligen Energiepreispauschale für Studierende, Fachschülerinnen und Fachschüler sowie Berufsfachschülerinnen und Berufsfachschüler in Bildungsgängen mit dem Ziel eines mindestens zweijährigen berufsqualifizierenden Abschlusses",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

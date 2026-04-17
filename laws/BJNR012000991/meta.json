@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1991-05-23",
+  "bjnr": "BJNR012000991",
+  "eli": null,
+  "gii_slug": "ddrum_nzakbek",
+  "ingested_at": "2026-04-17T15:19:56Z",
+  "jurabk": "DDRUMünzAkBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "66d317f9ec07a07dec8e6422e8e3bd8993dc9e15c92b9e089890aa58a1155531"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ddrum_nzakbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ddrum_nzakbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Außerkurssetzung der im Beitrittsgebiet noch gültigen Umlaufmünzen der ehemaligen DDR zu 1, 5, 10, 20 und 50 Pfennig",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

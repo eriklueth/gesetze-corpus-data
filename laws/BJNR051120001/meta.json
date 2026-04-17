@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-04-28",
+  "bjnr": "BJNR051120001",
+  "eli": null,
+  "gii_slug": "berg_bk",
+  "ingested_at": "2026-04-17T15:18:08Z",
+  "jurabk": "BergÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "efbeaebb88a14d75886aac4268e4b4041187ef7138b1c9de0b3d3b6170d800bb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/berg_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/berg_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationales Übereinkommen von 1989 über Bergung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

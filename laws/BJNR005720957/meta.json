@@ -1,0 +1,26 @@
+{
+  "amtabk": "Ärzte-ZV",
+  "ausfertigung_datum": "1957-05-28",
+  "bjnr": "BJNR005720957",
+  "eli": null,
+  "gii_slug": "zo-_rzte",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "ZO-Ärzte",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "34c533d5d9f712095a63153548e15912a69323cd32a3c30f4e37ff9da931b834"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zo-_rzte/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zo-_rzte/xml.zip"
+  },
+  "stand_datum": "2025-02-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 14.2.2025 I Nr. 40",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zulassungsverordnung für Vertragsärzte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

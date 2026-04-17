@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-03-09",
+  "bjnr": "BJNR03D0B0023",
+  "eli": null,
+  "gii_slug": "hopfv_2023",
+  "ingested_at": "2026-04-17T15:22:45Z",
+  "jurabk": "HopfV 2023",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a9cdfd3c5cbb5c97f7345d1d9f4ee23a3062eb94413f2cf501e8e502ad741046"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hopfv_2023/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hopfv_2023/xml.zip"
+  },
+  "stand_datum": "2023-11-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 V v. 4.11.2023 I Nr. 304",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7821-2-2 v. 27.1.2009 I 152 (HopfV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Durchführung unionsrechtlicher Vorschriften im Hopfensektor",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

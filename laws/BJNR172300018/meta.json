@@ -1,0 +1,26 @@
+{
+  "amtabk": "StimmRMV",
+  "ausfertigung_datum": "2018-10-02",
+  "bjnr": "BJNR172300018",
+  "eli": null,
+  "gii_slug": "stimmrmv",
+  "ingested_at": "2026-04-17T15:28:55Z",
+  "jurabk": "StimmRMV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "62a06d8102dc9253e87f525f2cc59d0bbfce96aad0384f779f29465ad9bd6903"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stimmrmv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stimmrmv/xml.zip"
+  },
+  "stand_datum": "2020-06-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 2.6.2020 I 1217",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Mitteilung der Stimmrechte aus Aktien und anderen Instrumenten nach dem Wertpapierhandelsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

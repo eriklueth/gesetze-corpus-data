@@ -1,0 +1,26 @@
+{
+  "amtabk": "LuftEBV",
+  "ausfertigung_datum": "2008-02-22",
+  "bjnr": "BJNR026600008",
+  "eli": null,
+  "gii_slug": "luftebv_2008",
+  "ingested_at": "2026-04-17T15:24:12Z",
+  "jurabk": "LuftEBV 2008",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6b6f492caa6c5a3617ef5f78ad405455b12b7d2bc82da09a849541167c5f15ba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftebv_2008/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftebv_2008/xml.zip"
+  },
+  "stand_datum": "1999-03-01",
+  "standangabe": [
+    {
+      "kommentar": "Die V ersetzt V v. 1.3.1999 I 239 (LuftEBV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Regelung des Betriebs von nicht als Luftfahrtgerät zugelassenen elektronischen Geräten in Luftfahrzeugen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

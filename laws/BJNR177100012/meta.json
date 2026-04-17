@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-08-15",
+  "bjnr": "BJNR177100012",
+  "eli": null,
+  "gii_slug": "bbesg_bes_gbek_2012",
+  "ingested_at": "2026-04-17T15:17:47Z",
+  "jurabk": "BBesG/BesÜGBek 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bb9dcdfb75786d9bda1ad319710459d8caa6bf8793b62d09b40e8107b8a37fc1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbesg_bes_gbek_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbesg_bes_gbek_2012/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

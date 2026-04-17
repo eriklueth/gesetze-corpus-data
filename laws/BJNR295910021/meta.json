@@ -1,0 +1,21 @@
+{
+  "amtabk": "LkSG",
+  "ausfertigung_datum": "2021-07-16",
+  "bjnr": "BJNR295910021",
+  "eli": null,
+  "gii_slug": "lksg",
+  "ingested_at": "2026-04-17T15:24:05Z",
+  "jurabk": "LkSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4a7f40e29c6862e9fb08c3485e24d94e3359f4a07d81f290226a693d5587c6de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lksg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lksg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die unternehmerischen Sorgfaltspflichten zur Vermeidung von Menschenrechtsverletzungen in Lieferketten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

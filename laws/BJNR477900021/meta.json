@@ -1,0 +1,21 @@
+{
+  "amtabk": "MsV",
+  "ausfertigung_datum": "2021-10-28",
+  "bjnr": "BJNR477900021",
+  "eli": null,
+  "gii_slug": "msv",
+  "ingested_at": "2026-04-17T15:25:03Z",
+  "jurabk": "MsV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7501c50a8ab0056f514d66f70cb9a251006805ff30cb3152165a1ee5830e0483"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/msv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/msv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über den Inhalt und das Verfahren zur Erstellung und zur Anpassung von Mietspiegeln sowie zur Konkretisierung der Grundsätze für qualifizierte Mietspiegel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

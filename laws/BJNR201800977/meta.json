@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-12-29",
+  "bjnr": "BJNR201800977",
+  "eli": null,
+  "gii_slug": "meerabfschabk",
+  "ingested_at": "2026-04-17T15:24:48Z",
+  "jurabk": "MeerAbfSchAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "18bca96509340573e69978fe37e035b51f2a819f79734146b5bdce01d655ab82"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/meerabfschabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/meerabfschabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

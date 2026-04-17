@@ -1,0 +1,21 @@
+{
+  "amtabk": "QFUV",
+  "ausfertigung_datum": "2024-01-22",
+  "bjnr": "BJNR0180A0024",
+  "eli": null,
+  "gii_slug": "qfuv",
+  "ingested_at": "2026-04-17T15:27:05Z",
+  "jurabk": "QFUV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fc2c048cc05672e39203a9d8c21b4957e73910ae7a038ed154e4b1d2c3ed0790"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/qfuv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/qfuv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die berufliche Umschulung zum Geprüften Qualitätsfachmann Fertigungsprüftechnik und zur Geprüften Qualitätsfachfrau Fertigungsprüftechnik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "ChemOzonSchichtV",
+  "ausfertigung_datum": "2006-11-13",
+  "bjnr": "BJNR263800006",
+  "eli": null,
+  "gii_slug": "chemozonschichtv",
+  "ingested_at": "2026-04-17T15:19:38Z",
+  "jurabk": "ChemOzonSchichtV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c515932e2b52d5a14e15f7778a41ff2cce55eda571443621da498a8168397a6e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/chemozonschichtv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/chemozonschichtv/xml.zip"
+  },
+  "stand_datum": "2012-02-15",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 15.2.2012 I 409;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 298 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Stoffe, die die Ozonschicht schädigen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

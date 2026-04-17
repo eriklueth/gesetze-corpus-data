@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1962-02-27",
+  "bjnr": "BJNR001600962",
+  "eli": null,
+  "gii_slug": "bpr_samtsbezano_1962",
+  "ingested_at": "2026-04-17T15:18:54Z",
+  "jurabk": "BPräsAmtsbezAnO 1962",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2492e630e9661111c8e609d4232e0d468b9fd2bc442e45bb00b78aa64f37588d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_samtsbezano_1962/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_samtsbezano_1962/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

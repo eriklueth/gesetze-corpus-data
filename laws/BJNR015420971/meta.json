@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1971-09-06",
+  "bjnr": "BJNR015420971",
+  "eli": null,
+  "gii_slug": "af_gvorkhsv",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "AfögVorkHSV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c742202b7171b92af71b7486f87f9610a080663d14713d576efc5baa563ca852"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/af_gvorkhsv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/af_gvorkhsv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Ausbildungsförderung für die Teilnahme an Vorkursen zur Vorbereitung des Besuchs von Kollegs und Hochschulen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

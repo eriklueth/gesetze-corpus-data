@@ -1,0 +1,26 @@
+{
+  "amtabk": "AHGV",
+  "ausfertigung_datum": "2000-12-15",
+  "bjnr": "BJNR173400000",
+  "eli": null,
+  "gii_slug": "ahgv",
+  "ingested_at": "2026-04-17T15:16:53Z",
+  "jurabk": "AHGV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8574150720b4d8b8eb5593eadcceeb933712746c7674c8b7575ae54ab2285a30"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ahgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ahgv/xml.zip"
+  },
+  "stand_datum": "2008-11-10",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 G v. 10.11.2008 I 2179",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Altschuldenhilfe-Gesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

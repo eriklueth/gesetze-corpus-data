@@ -1,0 +1,26 @@
+{
+  "amtabk": "BSI-KritisV",
+  "ausfertigung_datum": "2016-04-22",
+  "bjnr": "BJNR095800016",
+  "eli": null,
+  "gii_slug": "bsi-kritisv",
+  "ingested_at": "2026-04-17T15:19:15Z",
+  "jurabk": "BSI-KritisV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c0dedee13bbf4ec67d8bcdabc89f98290abd1ec03d3f1185c53a78748d5cb163"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bsi-kritisv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bsi-kritisv/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 G v. 11.3.2026 I Nr. 66",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Bestimmung kritischer Anlagen nach dem BSI-Gesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

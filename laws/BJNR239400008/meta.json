@@ -1,0 +1,26 @@
+{
+  "amtabk": "TierErzHaVerbG",
+  "ausfertigung_datum": "2008-12-08",
+  "bjnr": "BJNR239400008",
+  "eli": null,
+  "gii_slug": "khfeverbg",
+  "ingested_at": "2026-04-17T15:29:26Z",
+  "jurabk": "KHfEVerbG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "62e451b2f01b57cd21fc90f979ed35b28e8a279a846c1e4308d11882e4d5b7ba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/khfeverbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/khfeverbg/xml.zip"
+  },
+  "stand_datum": "2022-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 24 G v. 20.12.2022 I 2752",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Durchführung unionsrechtlicher Vorschriften über Verbote und Beschränkungen hinsichtlich des Handels mit bestimmten tierischen Erzeugnissen sowie zu Haltungs- und Abgabeverboten in bestimmten Fällen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "PTBBGebV",
+  "ausfertigung_datum": "2021-06-08",
+  "bjnr": "BJNR171700021",
+  "eli": null,
+  "gii_slug": "ptbbgebv",
+  "ingested_at": "2026-04-17T15:27:04Z",
+  "jurabk": "PTBBGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "688700f8310716789d547e87370b255670de672b1fa1c20339aa7c427e511ffa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ptbbgebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ptbbgebv/xml.zip"
+  },
+  "stand_datum": "2025-03-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 19.3.2025 I Nr. 90",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Besondere Gebührenverordnung für individuell zurechenbare öffentliche Leistungen der Physikalisch-Technischen Bundesanstalt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "RfBV",
+  "ausfertigung_datum": "2015-03-10",
+  "bjnr": "BJNR030000015",
+  "eli": null,
+  "gii_slug": "rfbv",
+  "ingested_at": "2026-04-17T15:27:17Z",
+  "jurabk": "RfBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "087a8b960c008a4f693ea188d9e004088e6f48ed4262e7bb8454c8d60b076ef3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rfbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rfbv/xml.zip"
+  },
+  "stand_datum": "2017-07-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 19.7.2017 I 3037",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den kollektiven Teil der Rückstellung für Beitragsrückerstattung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

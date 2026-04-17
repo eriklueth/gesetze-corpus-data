@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-01-21",
+  "bjnr": "BJNR0130B0025",
+  "eli": null,
+  "gii_slug": "gr_ndstvtr_bb_st_2024",
+  "ingested_at": "2026-04-17T15:22:26Z",
+  "jurabk": "GrÄndStVtr BB/ST 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "92e4f615af2d5fe4f8a9c42fa2dadf578770c9597ddd2e0978afa73f5056f31b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gr_ndstvtr_bb_st_2024/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Staatsvertrag zwischen dem Land Brandenburg und dem Land Sachsen-Anhalt über die Änderung der gemeinsamen Landesgrenze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

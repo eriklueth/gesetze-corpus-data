@@ -1,0 +1,26 @@
+{
+  "amtabk": "FuAG",
+  "ausfertigung_datum": "2017-06-27",
+  "bjnr": "BJNR194710017",
+  "eli": null,
+  "gii_slug": "fuag",
+  "ingested_at": "2026-04-17T15:21:45Z",
+  "jurabk": "FuAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2f06b5745b2b605e0309431ed5451fa8ca7c392c1fd057d4f64e76a7b1b08451"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fuag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fuag/xml.zip"
+  },
+  "stand_datum": "2024-05-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 6.5.2024 I Nr. 148",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Bereitstellung von Funkanlagen auf dem Markt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

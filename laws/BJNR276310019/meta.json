@@ -1,0 +1,26 @@
+{
+  "amtabk": "FZulG",
+  "ausfertigung_datum": "2019-12-14",
+  "bjnr": "BJNR276310019",
+  "eli": null,
+  "gii_slug": "fzulg",
+  "ingested_at": "2026-04-17T15:21:46Z",
+  "jurabk": "FZulG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f5b8f013fe741b1aed0ca09280523c408bae87a6bd4d6d4a17c00ea3232f180f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fzulg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fzulg/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 22.12.2025 I Nr. 363",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur steuerlichen Förderung von Forschung und Entwicklung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

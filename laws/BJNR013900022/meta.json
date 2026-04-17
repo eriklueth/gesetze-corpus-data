@@ -1,0 +1,34 @@
+{
+  "amtabk": "GAPDZV",
+  "ausfertigung_datum": "2022-01-24",
+  "bjnr": "BJNR013900022",
+  "eli": null,
+  "gii_slug": "gapdzv",
+  "ingested_at": "2026-04-17T15:21:52Z",
+  "jurabk": "GAPDZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1b0dd1dd0d18953e1f50357f369489d11f06e8d533d032efba3e04a2cd501dcb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gapdzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gapdzv/xml.zip"
+  },
+  "stand_datum": "2024-12-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 4.12.2024 I Nr. 396",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 V v. 10.12.2025 I Nr. 322 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Gem. § 28 Abs. 2 F. 24.1.2022 iVm Bek. v. 9.12.2022 I 2287 ist diese V im Übrigen am 22.11.2022 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der GAP-Direktzahlungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

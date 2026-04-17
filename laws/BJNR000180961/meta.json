@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-01-11",
+  "bjnr": "BJNR000180961",
+  "eli": null,
+  "gii_slug": "prhaushstatg",
+  "ingested_at": "2026-04-17T15:26:59Z",
+  "jurabk": "PrHaushStatG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5140896f6e5a1fe7552dfb3b0119177dee342b99e7bc6cd78003344ad89dbf80"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/prhaushstatg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/prhaushstatg/xml.zip"
+  },
+  "stand_datum": "2016-07-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 21.7.2016 I 1768",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Statistik der Wirtschaftsrechnungen privater Haushalte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-05-20",
+  "bjnr": "BJNR109400994",
+  "eli": null,
+  "gii_slug": "stvzoausnv_47",
+  "ingested_at": "2026-04-17T15:29:07Z",
+  "jurabk": "StVZOAusnV 47",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dcccbb425e6c369b5982e74e4cf9f190372645c760925cd649c9a166c39b0a5a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvzoausnv_47/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvzoausnv_47/xml.zip"
+  },
+  "stand_datum": "1996-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 19.12.1996 I 2158",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Siebenundvierzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

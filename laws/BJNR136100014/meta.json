@@ -1,0 +1,30 @@
+{
+  "amtabk": "MilchLAusbStEignV",
+  "ausfertigung_datum": "2014-08-08",
+  "bjnr": "BJNR136100014",
+  "eli": null,
+  "gii_slug": "milchlausbsteignv",
+  "ingested_at": "2026-04-17T15:24:50Z",
+  "jurabk": "MilchLAusbStEignV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e3ab89db6bec1ab02e9773d00fd62a20a7d399a85356b737fae1379e7570cbe7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/milchlausbsteignv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/milchlausbsteignv/xml.zip"
+  },
+  "stand_datum": "2017-05-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 Abs. 23 G v. 23.5.2017 I 1228",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 806-21-8-9 v. 28.2.1991 I 524 (MilchLAusbStV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Milchwirtschaftlichen Laboranten und zur Milchwirtschaftlichen Laborantin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

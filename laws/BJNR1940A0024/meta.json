@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2024-12-05",
+  "bjnr": "BJNR1940A0024",
+  "eli": null,
+  "gii_slug": "albeitrbek_2025",
+  "ingested_at": "2026-04-17T15:16:55Z",
+  "jurabk": "ALBeitrBek 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "513231406ec2fa935946eaf81a0f8c0c1d9324251ff28da1dcc3b3ca70e51037"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/albeitrbek_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/albeitrbek_2025/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung des Beitrags in der Alterssicherung der Landwirte für das Jahr 2025",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

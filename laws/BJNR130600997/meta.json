@@ -1,0 +1,30 @@
+{
+  "amtabk": "GGKontrollV",
+  "ausfertigung_datum": "1997-05-27",
+  "bjnr": "BJNR130600997",
+  "eli": null,
+  "gii_slug": "ggkontrollv",
+  "ingested_at": "2026-04-17T15:22:12Z",
+  "jurabk": "GGKontrollV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dc49304c3546a5c59391edb74de3c22f7a52317ca4cc435a3be66133bf553976"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ggkontrollv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ggkontrollv/xml.zip"
+  },
+  "stand_datum": "2005-10-26",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 26.10.2005 I 3104",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 27 G v. 2.3.2023 I Nr. 56",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Kontrollen von Gefahrguttransporten auf der Straße und in den Unternehmen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

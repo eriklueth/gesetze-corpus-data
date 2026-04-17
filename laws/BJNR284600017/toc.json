@@ -1,0 +1,632 @@
+{
+  "bjnr": "BJNR284600017",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Art und Umfang der Berichterstattung",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Anlagen zu Prüfungsberichten",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Gegenstand der Berichterstattung",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Grundsätze zur Berichterstattung",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Besondere Hinweispflichten",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Datenqualität",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 2 Ansatz und Bewertung"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Ansatz der Vermögenswerte und Verbindlichkeiten",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 2 Ansatz und Bewertung"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Bewertung",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 2 Ansatz und Bewertung"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Erleichterungen bei der Bewertung",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 2 Ansatz und Bewertung"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Eventualverbindlichkeiten",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 3 Besondere Prüfungsgebiete"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Immaterielle Vermögenswerte",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 3 Besondere Prüfungsgebiete"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Latente Steuern",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 3 Besondere Prüfungsgebiete"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Fremdgenutzte Immobilien",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 3 Besondere Prüfungsgebiete"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Bewertungsverfahren und -modelle für bestimmte Vermögenswerte",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 3 Besondere Prüfungsgebiete"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Organismen für gemeinsame Anlagen in Wertpapieren und anderen Anlagen in Fondsform",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 3 Besondere Prüfungsgebiete"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Einforderbare Beträge aus Rückversicherungsverträgen und gegenüber Zweckgesellschaften",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 3 Besondere Prüfungsgebiete"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Versicherungstechnische Rückstellungen",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 3 Besondere Prüfungsgebiete"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Besonderheiten bei der Bewertung von versicherungstechnischen Rückstellungen bei Nichtlebensversicherungsunternehmen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 3 Besondere Prüfungsgebiete"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Bewertungsmodelle versicherungstechnischer Rückstellungen in der Personenversicherung",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 3 Besondere Prüfungsgebiete"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Gruppen",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 4 Zusammenfassende Feststellungen und Prüfungsvermerk"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Zusammenfassende Feststellungen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 2 Berichte zur Prüfung der Solvabilitätsübersicht",
+        "Abschnitt 4 Zusammenfassende Feststellungen und Prüfungsvermerk"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Prüfungsvermerk",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Bestandteile des Prüfungsberichts",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Berichtszeitraum",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 2 Angaben zum Versicherungsunternehmen"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 2 Angaben zum Versicherungsunternehmen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Auslandsgeschäft",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 3 Geschäftliche Entwicklung und Lage des Versicherungsunternehmens"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Geschäftliche Entwicklung im Berichtsjahr",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 3 Geschäftliche Entwicklung und Lage des Versicherungsunternehmens"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Beurteilung der Vermögenslage",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 3 Geschäftliche Entwicklung und Lage des Versicherungsunternehmens"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Liquiditätslage",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 3 Geschäftliche Entwicklung und Lage des Versicherungsunternehmens"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Darstellung der Ertragslage",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 4 Kapitalanlagen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Anlage und Struktur der Kapitalanlagen",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 4 Kapitalanlagen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Geschäfte mit besonderen Kapitalanlagen",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 5 Kostenverteilung"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Kostenverteilung",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 6 Rückversicherungsgeschäft"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Berichterstattung",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 6 Rückversicherungsgeschäft"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Finanzrückversicherungsverträge",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 7 Bestimmte Unternehmen"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Pensionskassen",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 7 Bestimmte Unternehmen"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Lebens- und Krankenversicherungsunternehmen",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 7 Bestimmte Unternehmen"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Schaden- und Unfallversicherungsunternehmen",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 8 Weitere regulatorische Vorgaben"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Einhaltung der Pflichten aus Derivategeschäften und für zentrale Gegenparteien gemäß der Verordnung (EU) Nr. 648/2012",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 8 Weitere regulatorische Vorgaben"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Berichterstattung über die Verwendung von Ratings",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 8 Weitere regulatorische Vorgaben"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Anzeigewesen",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 8 Weitere regulatorische Vorgaben"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Anordnungen der Bundesanstalt nach dem Wertpapierhandelsgesetz",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 8a Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung"
+      ],
+      "file": "paragraphs/0043a.md",
+      "heading": "Zeitpunkt der Prüfung",
+      "number": "§ 43a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 8a Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung"
+      ],
+      "file": "paragraphs/0043b.md",
+      "heading": "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung",
+      "number": "§ 43b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 9 Schlussbemerkung"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Schlussbemerkung",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 10 Besonderer Teil des Prüfungsberichts"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Allgemeine Erläuterungen",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 10 Besonderer Teil des Prüfungsberichts"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 10 Besonderer Teil des Prüfungsberichts"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Versicherungstechnische Rückstellungen",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 10 Besonderer Teil des Prüfungsberichts"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Rückstellung für noch nicht abgewickelte Versicherungsfälle",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 10 Besonderer Teil des Prüfungsberichts"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Schwankungsrückstellung und ähnliche Rückstellungen",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 3 Bericht zur Prüfung des Jahresabschlusses und Lageberichts",
+        "Abschnitt 10 Besonderer Teil des Prüfungsberichts"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Einzelne Posten der Gewinn- und Verlust-Rechnung",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 4 Bericht zur Prüfung des Konzernabschlusses und Konzernlageberichts"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "In die Konsolidierung einzubeziehende Unternehmen",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 4 Bericht zur Prüfung des Konzernabschlusses und Konzernlageberichts"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Mindestanforderungen an den Konzernprüfungsbericht",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 4 Bericht zur Prüfung des Konzernabschlusses und Konzernlageberichts"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Ort der Berichterstattung",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 5 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Übergangsvorschrift",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 5 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Vorschriften zu Prüfungsberichten",
+        "Kapitel 5 Schlussvorschriften"
+      ],
+      "file": "annexes/0000.md",
+      "heading": "(zu § 43b Absatz 9)",
+      "number": "Anlage",
+      "type": "annex"
+    }
+  ]
+}

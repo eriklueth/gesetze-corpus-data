@@ -1,0 +1,26 @@
+{
+  "amtabk": "BBankPersV",
+  "ausfertigung_datum": "2009-12-09",
+  "bjnr": "BJNR385600009",
+  "eli": null,
+  "gii_slug": "bbankpersv",
+  "ingested_at": "2026-04-17T15:17:44Z",
+  "jurabk": "BBankPersV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ab2817d278d1108f173eeec722a36641439283cc6d9406beb4b993f9127c32f7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbankpersv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbankpersv/xml.zip"
+  },
+  "stand_datum": "2020-01-06",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 6.1.2020 I 26",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Regelung der Rechtsverhältnisse des Personals der Deutschen Bundesbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-04-20",
+  "bjnr": "BJNR203770979",
+  "eli": null,
+  "gii_slug": "stgrenzvtrautg",
+  "ingested_at": "2026-04-17T15:28:55Z",
+  "jurabk": "StGrenzVtrAUTG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e09c6a1148700764e7dc7659babb90d2322644e644a30374e4318ad4deb4a5e9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stgrenzvtrautg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stgrenzvtrautg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 20. April 1977 zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Verlauf der gemeinsamen Staatsgrenze im Grenzabschnitt \"Dreieckmark-Dandlbachmündung\" und in einem Teil des Grenzabschnittes \"Scheibelberg-Bodensee\" sowie über Befugnisse der Grenzkommission",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

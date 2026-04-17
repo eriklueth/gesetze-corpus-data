@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-07-02",
+  "bjnr": "BJNR017499976",
+  "eli": null,
+  "gii_slug": "adg",
+  "ingested_at": "2026-04-17T15:16:45Z",
+  "jurabk": "AdG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9a70f90b804d4b0f6e2ac790b0cb6f40f0e586ab12270290d22890cc0786fe53"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/adg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/adg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die Annahme als Kind und zur Änderung anderer Vorschriften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

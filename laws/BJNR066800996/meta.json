@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-05-02",
+  "bjnr": "BJNR066800996",
+  "eli": null,
+  "gii_slug": "ordenerl_7",
+  "ingested_at": "2026-04-17T15:26:19Z",
+  "jurabk": "OrdenErl 7",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6da807e4a30a7a1f982532a908283803c7a9a84a451922873900700db1ec383a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ordenerl_7/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ordenerl_7/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Siebter Erlaß über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

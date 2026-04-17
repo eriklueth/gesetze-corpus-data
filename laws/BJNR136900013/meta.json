@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-05-15",
+  "bjnr": "BJNR136900013",
+  "eli": null,
+  "gii_slug": "weintechausbv",
+  "ingested_at": "2026-04-17T15:30:27Z",
+  "jurabk": "WeinTechAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c8de27f072bcaf237d0bb638f31bd6ab0de288db27742ff8a44ad46ca9fb5269"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/weintechausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/weintechausbv/xml.zip"
+  },
+  "stand_datum": "2014-01-27",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 27.1.2014 I 90",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Weintechnologen und zur Weintechnologin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

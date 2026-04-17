@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-04-27",
+  "bjnr": "BJNR506800009",
+  "eli": null,
+  "gii_slug": "sonnenblv",
+  "ingested_at": "2026-04-17T15:28:21Z",
+  "jurabk": "SonnenblV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e42103b70597297cc8ae9ca872dc99f52f8a32dbb8c88cdad58a2f2d096c2864"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sonnenblv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sonnenblv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über besondere Anforderungen an Saatgut von Sonnenblumen im Rahmen der Saatgutanerkennung 2009",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

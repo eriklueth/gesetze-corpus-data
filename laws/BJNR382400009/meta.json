@@ -1,0 +1,26 @@
+{
+  "amtabk": "LBAV",
+  "ausfertigung_datum": "2009-11-23",
+  "bjnr": "BJNR382400009",
+  "eli": null,
+  "gii_slug": "lbav",
+  "ingested_at": "2026-04-17T15:24:03Z",
+  "jurabk": "LBAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1c741fc56208915e318c57c32b55e88c315541b33e368d493263c3a294679cd3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lbav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lbav/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 2 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Anerkennung europäischer Berufsqualifikationen als Laufbahnbefähigung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

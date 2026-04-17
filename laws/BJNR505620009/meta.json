@@ -1,0 +1,26 @@
+{
+  "amtabk": "2. DV LuftBO",
+  "ausfertigung_datum": "2009-04-06",
+  "bjnr": "BJNR505620009",
+  "eli": null,
+  "gii_slug": "luftbodv_2_2009",
+  "ingested_at": "2026-04-17T15:16:32Z",
+  "jurabk": "LuftBODV 2 2009",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "667117894728312d3a9827b0b672aa74ad670e218cee37808031cfa17c68eb7d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftbodv_2_2009/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftbodv_2_2009/xml.zip"
+  },
+  "stand_datum": "2017-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 180 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweite Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Dienst-, Flugdienst-, Block- und Ruhezeiten von Besatzungsmitgliedern in Luftfahrtunternehmen und außerhalb von Luftfahrtunternehmen bei berufsmäßiger Betätigung)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

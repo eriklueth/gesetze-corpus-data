@@ -1,0 +1,368 @@
+{
+  "bjnr": "BJNR364800009",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Risikoorientierung und Wesentlichkeit",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Art und Umfang der Berichterstattung",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Anlagen",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Berichtszeitraum",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Zusammenfassende Schlussbemerkung",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Berichtsturnus; Unterzeichnung",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Angaben zum Institut"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Darstellung der rechtlichen, wirtschaftlichen und organisatorischen Grundlagen",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Angaben zum Institut"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Zweigniederlassungen",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 1 Risikomanagement und Geschäftsorganisation"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Ordnungsmäßigkeit der Geschäftsorganisation",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 1 Risikomanagement und Geschäftsorganisation"
+      ],
+      "file": "paragraphs/0010a.md",
+      "heading": "IT-Systeme",
+      "number": "§ 10a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 2 Eigenmittel und Solvenzanforderungen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Ermittlung der Eigenmittel",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 2 Eigenmittel und Solvenzanforderungen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Eigenmittel",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 2 Eigenmittel und Solvenzanforderungen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Solvabilitätskennzahl",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 2a Absicherung für den Haftungsfall bei Zahlungsauslöse- und Kontoinformationsdiensten"
+      ],
+      "file": "paragraphs/0013a.md",
+      "heading": "Absicherung für den Haftungsfall bei Zahlungsauslösediensten",
+      "number": "§ 13a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 2a Absicherung für den Haftungsfall bei Zahlungsauslöse- und Kontoinformationsdiensten"
+      ],
+      "file": "paragraphs/0013b.md",
+      "heading": "Absicherung für den Haftungsfall bei Kontoinformationsdiensten",
+      "number": "§ 13b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 3 Anzeigewesen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Anzeigewesen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 4 Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Zeitpunkt der Prüfung und Berichtszeitraum",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 4 Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 4 Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung"
+      ],
+      "file": "paragraphs/0016a.md",
+      "heading": "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2021/1230",
+      "number": "§ 16a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 4 Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung"
+      ],
+      "file": "paragraphs/0016b.md",
+      "heading": "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012",
+      "number": "§ 16b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 4 Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung"
+      ],
+      "file": "paragraphs/0016c.md",
+      "heading": "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015/751",
+      "number": "§ 16c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Aufsichtliche Vorgaben",
+        "Unterabschnitt 4 Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung"
+      ],
+      "file": "paragraphs/0016d.md",
+      "heading": "Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz",
+      "number": "§ 16d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Besondere Angaben zu Zahlungsdiensten und dem E-Geld-Geschäft"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Berichterstattung über Zahlungsdienste und das E-Geld-Geschäft",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Abschlussorientierte Berichterstattung",
+        "Unterabschnitt 1 Lage des Instituts (einschließlich geschäftliche Entwicklung sowie Ergebnisentwicklung)"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Geschäftliche Entwicklung im Berichtsjahr",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Abschlussorientierte Berichterstattung",
+        "Unterabschnitt 1 Lage des Instituts (einschließlich geschäftliche Entwicklung sowie Ergebnisentwicklung)"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Beurteilung der Vermögenslage",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Abschlussorientierte Berichterstattung",
+        "Unterabschnitt 1 Lage des Instituts (einschließlich geschäftliche Entwicklung sowie Ergebnisentwicklung)"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Beurteilung der Ertragslage",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Abschlussorientierte Berichterstattung",
+        "Unterabschnitt 1 Lage des Instituts (einschließlich geschäftliche Entwicklung sowie Ergebnisentwicklung)"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Risikolage und Risikovorsorge",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Abschlussorientierte Berichterstattung",
+        "Unterabschnitt 2 Feststellungen, Erläuterungen zur Rechnungslegung"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Erläuterungen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Datenübersichten"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Datenübersicht",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Erstmalige Anwendung",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 8 Absatz 3)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 16 Absatz 9)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(zu § 23)",
+      "number": "Anlage 3",
+      "type": "annex"
+    }
+  ]
+}

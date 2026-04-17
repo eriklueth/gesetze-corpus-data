@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-08-11",
+  "bjnr": "BJNR015860988",
+  "eli": null,
+  "gii_slug": "ethylenoxidv",
+  "ingested_at": "2026-04-17T15:20:49Z",
+  "jurabk": "EthylenoxidV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8121bab5ba3076d59449e283301b39db7899ac181015e6e918930d112b11099a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ethylenoxidv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ethylenoxidv/xml.zip"
+  },
+  "stand_datum": "2009-07-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 G v. 17.7.2009 I 1990",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über ein Verbot der Verwendung von Ethylenoxid bei Arzneimitteln",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

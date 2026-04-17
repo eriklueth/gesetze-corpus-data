@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-07-15",
+  "bjnr": "BJNR020540976",
+  "eli": null,
+  "gii_slug": "bgsresernano",
+  "ingested_at": "2026-04-17T15:18:28Z",
+  "jurabk": "BGSResErnAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3982e981e9ca9c04cd3bfa30303abbfd1b14672776485ea2afff07b0829ba569"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgsresernano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgsresernano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Ernennung und Entlassung der Angehörigen der Grenzschutzreserve",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

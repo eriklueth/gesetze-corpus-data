@@ -1,0 +1,26 @@
+{
+  "amtabk": "RiFlEtikettV",
+  "ausfertigung_datum": "2009-06-30",
+  "bjnr": "BJNR171510009",
+  "eli": null,
+  "gii_slug": "rifletikettv_2009",
+  "ingested_at": "2026-04-17T15:27:21Z",
+  "jurabk": "RiFlEtikettV 2009",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "353847658cbb44c57849ce0b8a2f0a5dcfb9e20a61c64171ed18617059e39a92"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rifletikettv_2009/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rifletikettv_2009/xml.zip"
+  },
+  "stand_datum": "2024-10-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 30.10.2024 I Nr. 342",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Etikettierung von Rindfleisch und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

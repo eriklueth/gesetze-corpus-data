@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-01-14",
+  "bjnr": "BJNR002240992",
+  "eli": null,
+  "gii_slug": "wzg_4cskfinbek",
+  "ingested_at": "2026-04-17T15:31:11Z",
+  "jurabk": "WZG§4CSKFINBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "68bad3f18b39c46126498b717cd5c3ef0a575ab46518b4f7ea4b44a9ce0c2faa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4cskfinbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4cskfinbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

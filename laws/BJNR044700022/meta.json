@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZVSAusbV",
+  "ausfertigung_datum": "2022-03-14",
+  "bjnr": "BJNR044700022",
+  "eli": null,
+  "gii_slug": "zvsausbv",
+  "ingested_at": "2026-04-17T15:31:30Z",
+  "jurabk": "ZVSAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "eba870ee20cef5dd8c63d991de9ccfb2cdd1af3b97ef208a57d5f34fb1d211d4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zvsausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zvsausbv/xml.zip"
+  },
+  "stand_datum": "2022-07-05",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 5.7.2022 I 1071",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Eisenbahner in der Zugverkehrssteuerung und zur Eisenbahnerin in der Zugverkehrssteuerung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

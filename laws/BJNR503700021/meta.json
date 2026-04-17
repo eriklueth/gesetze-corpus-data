@@ -1,0 +1,21 @@
+{
+  "amtabk": "AELV 2022",
+  "ausfertigung_datum": "2021-11-30",
+  "bjnr": "BJNR503700021",
+  "eli": null,
+  "gii_slug": "aelv_2022",
+  "ingested_at": "2026-04-17T15:16:56Z",
+  "jurabk": "AELV 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "96ecfc1180ce777db8ddeccbf3368da00a70c7a8ca990e16985fe0a193891ab5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aelv_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aelv_2022/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2022",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

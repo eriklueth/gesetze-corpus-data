@@ -1,0 +1,21 @@
+{
+  "amtabk": "ERFSV",
+  "ausfertigung_datum": "2024-12-20",
+  "bjnr": "BJNR1B10A0024",
+  "eli": null,
+  "gii_slug": "erfsv",
+  "ingested_at": "2026-04-17T15:20:44Z",
+  "jurabk": "ERFSV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7d102a19f342c1e533498b04908e7640d4f4018c0ac2ac37165dc362b8792e1f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/erfsv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/erfsv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Schnittstellen des E-Rezept-Fachdienstes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

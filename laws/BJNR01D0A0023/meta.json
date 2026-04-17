@@ -1,0 +1,26 @@
+{
+  "amtabk": "BEDV",
+  "ausfertigung_datum": "2023-01-27",
+  "bjnr": "BJNR01D0A0023",
+  "eli": null,
+  "gii_slug": "bedv",
+  "ingested_at": "2026-04-17T15:18:07Z",
+  "jurabk": "BEDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "34d7866060588190089dd035723596cc5b47e2d035ce8b2b36961348918be1e5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bedv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bedv/xml.zip"
+  },
+  "stand_datum": "2023-12-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 3 G v. 4.12.2023 I Nr. 344",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Kompensation doppelt bilanzierter Brennstoffemissionen nach Brennstoffemissionshandelsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

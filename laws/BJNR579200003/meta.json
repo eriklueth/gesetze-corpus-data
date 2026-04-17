@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-04-01",
+  "bjnr": "BJNR579200003",
+  "eli": null,
+  "gii_slug": "luftvodv_215",
+  "ingested_at": "2026-04-17T15:24:25Z",
+  "jurabk": "LuftVODV 215",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7939ee19c97ba6d7e14fbabd170fb5bd00e6ca2015e241ccdb1bb4f57adc52d5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_215/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_215/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweihundertfünfzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Niederrhein)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-05-07",
+  "bjnr": "BJNR068000007",
+  "eli": null,
+  "gii_slug": "textilprausbv",
+  "ingested_at": "2026-04-17T15:29:31Z",
+  "jurabk": "TextilPrAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9bab97243fa2485607c75f3459762dce6b2ea511c3f07d4623dc8939517f7a00"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/textilprausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/textilprausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Produktprüfer-Textil/zur Produktprüferin-Textil",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

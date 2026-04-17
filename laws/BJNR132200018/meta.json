@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-08-02",
+  "bjnr": "BJNR132200018",
+  "eli": null,
+  "gii_slug": "m_nz50eurobek_2018-08-02",
+  "ingested_at": "2026-04-17T15:25:44Z",
+  "jurabk": "Münz50EuroBek 2018-08-02",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "00d59edc9f69727ce0c903692d6af33af0e0849a216c7b5717c555b3900c4ea4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz50eurobek_2018-08-02/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz50eurobek_2018-08-02/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Kontrabass“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

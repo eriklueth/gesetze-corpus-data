@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1938-02-10",
+  "bjnr": "BJNR300450938",
+  "eli": null,
+  "gii_slug": "wzg_35ausbek",
+  "ingested_at": "2026-04-17T15:30:56Z",
+  "jurabk": "WZG§35AUSBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "24618d83201ce50f0bb0f05590061d3cdd4099b963ba192bb98a71ea6c065144"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35ausbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35ausbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

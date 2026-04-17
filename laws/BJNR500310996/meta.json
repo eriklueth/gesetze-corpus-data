@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-12-15",
+  "bjnr": "BJNR500310996",
+  "eli": null,
+  "gii_slug": "luftvodv_159",
+  "ingested_at": "2026-04-17T15:24:22Z",
+  "jurabk": "LuftVODV 159",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f5ac1ccb14999a9b894ad939772849968997174d1faabaa1e0c9996f0daaec9a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_159/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_159/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hundertneunundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Saarbrücken)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

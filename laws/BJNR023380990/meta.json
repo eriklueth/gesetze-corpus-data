@@ -1,0 +1,30 @@
+{
+  "amtabk": "GenTAufzV",
+  "ausfertigung_datum": "1990-10-24",
+  "bjnr": "BJNR023380990",
+  "eli": null,
+  "gii_slug": "gentaufzv",
+  "ingested_at": "2026-04-17T15:22:05Z",
+  "jurabk": "GenTAufzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "11d8d242815c3cc94adecc026b42568891d0efc42f0d2e9cad04a6bbf168ed59"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gentaufzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gentaufzv/xml.zip"
+  },
+  "stand_datum": "1996-11-04",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 4.11.1996 I 1644;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 28.4.2008 I 766",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Aufzeichnungen bei gentechnischen Arbeiten und bei Freisetzungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

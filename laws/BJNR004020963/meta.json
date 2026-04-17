@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1963-06-15",
+  "bjnr": "BJNR004020963",
+  "eli": null,
+  "gii_slug": "svsaaranglg",
+  "ingested_at": "2026-04-17T15:29:14Z",
+  "jurabk": "SVSaarAnglG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e1a8d5a558d0d012c6f4640557e957a9941cc07998cd124662521541dd29c56e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svsaaranglg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svsaaranglg/xml.zip"
+  },
+  "stand_datum": "2004-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 51 G v. 9.12.2004 I 3242",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Angleichung des Sozialversicherungsrechts im Saarland an das im übrigen Bundesgebiet geltende Recht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

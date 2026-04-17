@@ -1,0 +1,21 @@
+{
+  "amtabk": "SchauAusnV",
+  "ausfertigung_datum": "2021-02-19",
+  "bjnr": "BJNR605720021",
+  "eli": null,
+  "gii_slug": "stvouavsausnv_4",
+  "ingested_at": "2026-04-17T15:27:42Z",
+  "jurabk": "StVOuaVsAusnV 4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "10b86b1b4e84747a8e94f7703c96e29408659413782bccf994b19d0f6fc58ec1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvouavsausnv_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvouavsausnv_4/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vierte Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

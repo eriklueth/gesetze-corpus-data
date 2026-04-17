@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1953-05-05",
+  "bjnr": "BJNR200020956",
+  "eli": null,
+  "gii_slug": "svabk_ita",
+  "ingested_at": "2026-04-17T15:29:08Z",
+  "jurabk": "SVAbk ITA",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1dcfe57dd4ea14621508ede5dee7f2672ce7a5e0b717be2c7488a66416065673"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svabk_ita/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svabk_ita/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Italienischen Republik über Sozialversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "MPAV",
+  "ausfertigung_datum": "2014-07-25",
+  "bjnr": "BJNR122710014",
+  "eli": null,
+  "gii_slug": "mpav",
+  "ingested_at": "2026-04-17T15:24:59Z",
+  "jurabk": "MPAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "196b5084fb144675d8f237d52a4d315cfe66f1f93a56eee8984d2f38f587b844"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mpav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mpav/xml.zip"
+  },
+  "stand_datum": "2025-02-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 14.2.2025 I Nr. 38",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Regelung der Abgabe von Medizinprodukten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

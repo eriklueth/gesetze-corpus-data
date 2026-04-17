@@ -1,0 +1,26 @@
+{
+  "amtabk": "See-BAV",
+  "ausfertigung_datum": "2013-09-10",
+  "bjnr": "BJNR356500013",
+  "eli": null,
+  "gii_slug": "see-bav",
+  "ingested_at": "2026-04-17T15:27:57Z",
+  "jurabk": "See-BAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4f68a47de50a4721a001565f1db927533c80c03b40f9b152c06bc7ee24bf778a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/see-bav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/see-bav/xml.zip"
+  },
+  "stand_datum": "2025-05-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 14.5.2025 I Nr. 133",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung in der Seeschifffahrt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

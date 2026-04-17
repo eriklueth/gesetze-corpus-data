@@ -1,0 +1,30 @@
+{
+  "amtabk": "MBPolVDVDV",
+  "ausfertigung_datum": "2020-03-06",
+  "bjnr": "BJNR050600020",
+  "eli": null,
+  "gii_slug": "mbpolvdvdv",
+  "ingested_at": "2026-04-17T15:24:47Z",
+  "jurabk": "MBPolVDVDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0b8a4de11080332704b86e635ecc38c1a830b3ad0b1478d659f0026462c91a52"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mbpolvdvdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mbpolvdvdv/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 7 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2030-6-20 v. 19.12.2001 I 3882 (AP-mDBGSV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den mittleren Polizeivollzugsdienst in der Bundespolizei",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

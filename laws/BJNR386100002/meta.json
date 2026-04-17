@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-09-25",
+  "bjnr": "BJNR386100002",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2002-10",
+  "ingested_at": "2026-04-17T15:25:14Z",
+  "jurabk": "Münz10EuroBek 2002-10",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "174dff38944d1a451436bf3d88468f91e0f9898470bcdcf5c1e199c872236e73"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2002-10/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2002-10/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"50 Jahre Deutsches Fernsehen\")",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

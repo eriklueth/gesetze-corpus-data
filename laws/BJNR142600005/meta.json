@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-05-17",
+  "bjnr": "BJNR142600005",
+  "eli": null,
+  "gii_slug": "twirtausbv_2005",
+  "ingested_at": "2026-04-17T15:29:36Z",
+  "jurabk": "TWirtAusbV 2005",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "18a257f7d739ad41316c4739e933e6efcc71a439b82d83b600487063584dccd7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/twirtausbv_2005/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/twirtausbv_2005/xml.zip"
+  },
+  "stand_datum": "2006-02-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 23.2.2006 I 465",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Tierwirt/zur Tierwirtin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

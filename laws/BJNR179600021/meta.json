@@ -1,0 +1,26 @@
+{
+  "amtabk": "EUTBV",
+  "ausfertigung_datum": "2021-06-14",
+  "bjnr": "BJNR179600021",
+  "eli": null,
+  "gii_slug": "eutbv",
+  "ingested_at": "2026-04-17T15:21:05Z",
+  "jurabk": "EUTBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4808ead4d5342834e6666b1b642b933babdabda136b3fffe205ad880dd34ca06"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eutbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eutbv/xml.zip"
+  },
+  "stand_datum": "2024-02-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 23.2.2024 I Nr. 63",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Weiterführung der Ergänzenden unabhängigen Teilhabeberatung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

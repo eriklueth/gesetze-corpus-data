@@ -1,0 +1,30 @@
+{
+  "amtabk": "KfzTechMstrV",
+  "ausfertigung_datum": "2019-11-28",
+  "bjnr": "BJNR198700019",
+  "eli": null,
+  "gii_slug": "kfztechmstrv_2020",
+  "ingested_at": "2026-04-17T15:23:30Z",
+  "jurabk": "KfzTechMstrV 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "19472963552dd6513299d837d0bf438d96f85de076a3bb9b890ed06989c424fb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfztechmstrv_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfztechmstrv_2020/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 88 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7110-3-140 v. 10.8.2000 I 1286 (KfzTechMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Kraftfahrzeugtechniker-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

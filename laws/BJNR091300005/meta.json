@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-03-23",
+  "bjnr": "BJNR091300005",
+  "eli": null,
+  "gii_slug": "saausbv_2005",
+  "ingested_at": "2026-04-17T15:27:36Z",
+  "jurabk": "SaAusbV 2005",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2b3ac0381c95518d2ca83cccf7fb35e05ec2d302f30b4dc925bbc6ce1a0022fd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/saausbv_2005/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/saausbv_2005/xml.zip"
+  },
+  "stand_datum": "2011-02-14",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 14.2.2011 I 263",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Sattler/zur Sattlerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

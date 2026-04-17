@@ -1,0 +1,21 @@
+{
+  "amtabk": "StruKomLäG",
+  "ausfertigung_datum": "2025-10-20",
+  "bjnr": "BJNR0F70B0025",
+  "eli": null,
+  "gii_slug": "strukoml_g",
+  "ingested_at": "2026-04-17T15:29:03Z",
+  "jurabk": "StruKomLäG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e7ca10d8f143de7a7abc8fb4cc4657dba9db1135ccf6c8a7dbe36c3cbdad4ba1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/strukoml_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/strukoml_g/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Ausführung von Artikel 109 Absatz 3 Satz 6 und 7 des Grundgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

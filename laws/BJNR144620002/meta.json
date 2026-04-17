@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-06-18",
+  "bjnr": "BJNR144620002",
+  "eli": null,
+  "gii_slug": "wpostvtr1999g",
+  "ingested_at": "2026-04-17T15:30:45Z",
+  "jurabk": "WPostVtr1999G",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "056a15ef5df4689d6d41f41385f50a509025fdac2a3ea14fcadc5712a432ce8a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpostvtr1999g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpostvtr1999g/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 322 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu den Verträgen vom 15. September 1999 des Weltpostvereins",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

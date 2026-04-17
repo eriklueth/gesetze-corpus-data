@@ -1,0 +1,30 @@
+{
+  "amtabk": "SchuFV",
+  "ausfertigung_datum": "2012-07-26",
+  "bjnr": "BJNR165400012",
+  "eli": null,
+  "gii_slug": "schufv",
+  "ingested_at": "2026-04-17T15:27:53Z",
+  "jurabk": "SchuFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9a60b949d4e79457acbe917d697a9d4a7ee0d4d0a874a6a9511ebf7231531d34"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schufv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schufv/xml.zip"
+  },
+  "stand_datum": "2019-11-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 11 G v. 20.11.2019 I 1724",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Führung des Schuldnerverzeichnisses",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

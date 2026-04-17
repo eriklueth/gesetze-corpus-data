@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-12-18",
+  "bjnr": "BJNR000030973",
+  "eli": null,
+  "gii_slug": "wzg_4dzabek",
+  "ingested_at": "2026-04-17T15:31:17Z",
+  "jurabk": "WZG§4DZABek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2dc74864c41ed5537de802ea621286fbd4b34ea5b76eefbce52a568f7e7438ab"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4dzabek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4dzabek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

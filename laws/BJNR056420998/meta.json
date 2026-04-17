@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-11-29",
+  "bjnr": "BJNR056420998",
+  "eli": null,
+  "gii_slug": "dbaestprot",
+  "ingested_at": "2026-04-17T15:19:46Z",
+  "jurabk": "DBAESTProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "446f9888f077eac8b438fb9a4e505eeae14fd243b914492560af9028b6f3a6e0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbaestprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbaestprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Republik Estland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-02-28",
+  "bjnr": "BJNR025200014",
+  "eli": null,
+  "gii_slug": "m_nz100eurobek_2014-02-28",
+  "ingested_at": "2026-04-17T15:25:04Z",
+  "jurabk": "Münz100EuroBek 2014-02-28",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d49fcb556676d53596afbce2135a4b06c765fc269597bdd396254e4dfe28597d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz100eurobek_2014-02-28/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz100eurobek_2014-02-28/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe Gartenreich Dessau-Wörlitz“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

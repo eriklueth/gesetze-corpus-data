@@ -1,0 +1,21 @@
+{
+  "amtabk": "PKHB 2013",
+  "ausfertigung_datum": "2013-01-09",
+  "bjnr": "BJNR008100013",
+  "eli": null,
+  "gii_slug": "pkhb_2013",
+  "ingested_at": "2026-04-17T15:26:49Z",
+  "jurabk": "PKHB 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "11409abb72a8c37004bbe39ab99e0d84b43df9ea1b33c410a63b690bbaf2c3a6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pkhb_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pkhb_2013/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 115 der Zivilprozessordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

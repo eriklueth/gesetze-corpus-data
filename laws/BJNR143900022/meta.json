@@ -1,0 +1,26 @@
+{
+  "amtabk": "SchiLichtMstrV",
+  "ausfertigung_datum": "2022-08-22",
+  "bjnr": "BJNR143900022",
+  "eli": null,
+  "gii_slug": "schilichtmstrv",
+  "ingested_at": "2026-04-17T15:27:43Z",
+  "jurabk": "SchiLichtMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6597b9399bf08e4fe86c324f2d1315a115f2a2e3ef94aa9ba0f1e333121b3373"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schilichtmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schilichtmstrv/xml.zip"
+  },
+  "stand_datum": "2007-06-18",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 7110-3-174 v. 18.6.2007 I 1173 (SchiLichtrMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Schilder- und Lichtreklamehersteller-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

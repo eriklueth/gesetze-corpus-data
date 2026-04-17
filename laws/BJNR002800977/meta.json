@@ -1,0 +1,30 @@
+{
+  "amtabk": "AtVfV",
+  "ausfertigung_datum": "1977-02-18",
+  "bjnr": "BJNR002800977",
+  "eli": null,
+  "gii_slug": "atvfv",
+  "ingested_at": "2026-04-17T15:17:14Z",
+  "jurabk": "AtVfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4a572290722724a33566ecd6af294d4126a555830648ad0cca48b2c676021ac8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/atvfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/atvfv/xml.zip"
+  },
+  "stand_datum": "1995-02-03",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 3.2.1995 I 180",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 16 V v. 11.12.2024 I Nr. 411",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Verfahren bei der Genehmigung von Anlagen nach § 7 des Atomgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

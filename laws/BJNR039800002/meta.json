@@ -1,0 +1,26 @@
+{
+  "amtabk": "GASV",
+  "ausfertigung_datum": "2002-01-08",
+  "bjnr": "BJNR039800002",
+  "eli": null,
+  "gii_slug": "gasv",
+  "ingested_at": "2026-04-17T15:21:54Z",
+  "jurabk": "GASV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "eb626c1a95bcb79a1d1961581f4aaea98e7475b870c2bc71b0828f3f2d5c0766"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gasv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gasv/xml.zip"
+  },
+  "stand_datum": "2014-03-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 31.3.2014 I 313",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Bestimmung von weiteren grundlegenden Anforderungen an Geräte sowie zur Bestimmung von Äquivalenzen nationaler Schnittstellen und Geräteklassenkennungen auf dem Gebiet der Funkanlagen und Telekommunikationsendeinrichtungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

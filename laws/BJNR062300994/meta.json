@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-03-24",
+  "bjnr": "BJNR062300994",
+  "eli": null,
+  "gii_slug": "stvoausnv_5",
+  "ingested_at": "2026-04-17T15:29:04Z",
+  "jurabk": "StVOAusnV 5",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f54765949161824228b1e4fd51eac32be49c361b713f94b1a9fc43b95a592ce0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvoausnv_5/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvoausnv_5/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Fünfte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

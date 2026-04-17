@@ -1,0 +1,30 @@
+{
+  "amtabk": "WpDPV",
+  "ausfertigung_datum": "2018-01-17",
+  "bjnr": "BJNR014000018",
+  "eli": null,
+  "gii_slug": "wpdpv_2018",
+  "ingested_at": "2026-04-17T15:30:41Z",
+  "jurabk": "WpDPV 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4d67d227f15c01de5261ed00187a621f9b8456407f99d057ef9afdc265fedb0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpdpv_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpdpv_2018/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 4110-4-10 v. 16.12.2004 I 3515 (WpDPV 2005)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Prüfung der Wertpapierdienstleistungsunternehmen nach § 89 des Wertpapierhandelsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

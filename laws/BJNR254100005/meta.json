@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-08-11",
+  "bjnr": "BJNR254100005",
+  "eli": null,
+  "gii_slug": "m_nz100eurobek_2005",
+  "ingested_at": "2026-04-17T15:25:04Z",
+  "jurabk": "Münz100EuroBek 2005",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7e3772b6cb9f6d320ec1ac85f9f380f532a469d99c1271d1441d927d8c3fcad6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz100eurobek_2005/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz100eurobek_2005/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze \"FIFA Fußball-Weltmeisterschaft in Deutschland 2006\")",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

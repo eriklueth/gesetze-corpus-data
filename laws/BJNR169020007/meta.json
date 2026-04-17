@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-11-16",
+  "bjnr": "BJNR169020007",
+  "eli": null,
+  "gii_slug": "ezbpersabk_eibversorgabkv",
+  "ingested_at": "2026-04-17T15:21:12Z",
+  "jurabk": "EZBPersAbk/EIBVersorgAbkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d0827fc691e11025a3937ac3df208a2cfd13fa00d0dd146a54e3101a1c728938"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ezbpersabk_eibversorgabkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ezbpersabk_eibversorgabkv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zu dem Abkommen vom 24. August 2007 zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Zentralbank über die Durchführung des Abschnitts 16 des Anhangs III der Beschäftigungsbedingungen für das Personal der Europäischen Zentralbank und zu dem Abkommen vom 23. August 2007 zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Investitionsbank über die Übertragung von Versorgungsanwartschaften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

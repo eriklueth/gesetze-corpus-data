@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-12-16",
+  "bjnr": "BJNR354320994",
+  "eli": null,
+  "gii_slug": "kathilabk_russf_",
+  "ingested_at": "2026-04-17T15:23:23Z",
+  "jurabk": "KatHiLAbk RussFö",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "75c24458173f3bb0bba4eef87e3ad08520e0fb1fd469b161d64b0a1954d0d8ee"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kathilabk_russf_/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kathilabk_russf_/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Russischen Föderation über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

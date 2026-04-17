@@ -1,0 +1,26 @@
+{
+  "amtabk": "UmwG",
+  "ausfertigung_datum": "1994-10-28",
+  "bjnr": "BJNR321010994",
+  "eli": null,
+  "gii_slug": "umwg_1995",
+  "ingested_at": "2026-04-17T15:29:50Z",
+  "jurabk": "UmwG 1995",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9db8821faaecb30f5a4ae348a1965cdca3494d136dd220b903118ef79b86adad"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/umwg_1995/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/umwg_1995/xml.zip"
+  },
+  "stand_datum": "2024-10-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 17 G v. 23.10.2024 I Nr. 323",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Umwandlungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

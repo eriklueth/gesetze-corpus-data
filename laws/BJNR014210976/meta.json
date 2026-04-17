@@ -1,0 +1,26 @@
+{
+  "amtabk": "1. EheRG",
+  "ausfertigung_datum": "1976-06-14",
+  "bjnr": "BJNR014210976",
+  "eli": null,
+  "gii_slug": "eherg_1",
+  "ingested_at": "2026-04-17T15:16:27Z",
+  "jurabk": "EheRG 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6b2d023752a4e473fa988d345c5e67dd0001fb0576ed60b2a44ea2050ea8935d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eherg_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eherg_1/xml.zip"
+  },
+  "stand_datum": "2009-04-03",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 21 G v. 3.4.2009 I 700",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Erstes Gesetz zur Reform des Ehe- und Familienrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-04-28",
+  "bjnr": "BJNR202840982",
+  "eli": null,
+  "gii_slug": "vermrglabk_egy",
+  "ingested_at": "2026-04-17T15:30:05Z",
+  "jurabk": "VermRglAbk EGY",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6f10699d04ddd3730db648139ec91ac67abb0c7a9b53043c0d2699b0978e5293"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vermrglabk_egy/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vermrglabk_egy/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Arabischen Republik Ägypten über die Regelung gewisser Fragen betreffend deutsches VermÖgen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

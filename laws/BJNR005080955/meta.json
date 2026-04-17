@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1955-08-12",
+  "bjnr": "BJNR005080955",
+  "eli": null,
+  "gii_slug": "auslwbgdv_10",
+  "ingested_at": "2026-04-17T15:17:22Z",
+  "jurabk": "AuslWBGDV 10",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f77c2fc4ac8ef4482b32fdf2c6372951cc17ba0313a3301f3259d5a6157339bd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/auslwbgdv_10/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/auslwbgdv_10/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zehnte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Zweite Verlängerung der Anmeldefrist)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

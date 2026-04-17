@@ -1,0 +1,30 @@
+{
+  "amtabk": "GBZugV",
+  "ausfertigung_datum": "2011-12-21",
+  "bjnr": "BJNR312000011",
+  "eli": null,
+  "gii_slug": "gbzugv_2011",
+  "ingested_at": "2026-04-17T15:22:02Z",
+  "jurabk": "GBZugV 2011",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fd34e43ca1f1b7076da921b07e81404ff23effaf4ac4c325f5045511d565d3b4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gbzugv_2011/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gbzugv_2011/xml.zip"
+  },
+  "stand_datum": "2024-04-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 Abs. 6 G v. 11.4.2024 I Nr. 119",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 3 Abs. 2 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Berufszugangsverordnung für den Güterkraftverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "DBBZStV",
+  "ausfertigung_datum": "2025-07-11",
+  "bjnr": "BJNR0AF0A0025",
+  "eli": null,
+  "gii_slug": "dbbzstv",
+  "ingested_at": "2026-04-17T15:19:51Z",
+  "jurabk": "DBBZStV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "622f1e5bdeca8e77a5a4713d54e681a7716e8fc790051946cdcae27aa4688dac"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbbzstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbbzstv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Bestimmung der Zuständigen Stelle für den Betrieb des Digitalfunk BOS des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

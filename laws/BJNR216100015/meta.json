@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-12-03",
+  "bjnr": "BJNR216100015",
+  "eli": null,
+  "gii_slug": "terrbekgebefrverlg",
+  "ingested_at": "2026-04-17T15:29:21Z",
+  "jurabk": "TerrBekGeBefrVerlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9c4509d8ccce806c0926919503117875d373fac98dd117429cb95549f7fdf554"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/terrbekgebefrverlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/terrbekgebefrverlg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Verlängerung der Befristung von Vorschriften nach den Terrorismusbekämpfungsgesetzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

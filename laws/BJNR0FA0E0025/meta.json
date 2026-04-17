@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-10-17",
+  "bjnr": "BJNR0FA0E0025",
+  "eli": null,
+  "gii_slug": "btgo2025anl_3",
+  "ingested_at": "2026-04-17T15:19:22Z",
+  "jurabk": "BTGO2025Anl 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "434dcbdabbcecf52ac4f3133946b23911f1d50427311dc4fe9ad003057480279"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/btgo2025anl_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/btgo2025anl_3/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Richtlinien für Aussprachen zu Themen von allgemeinem aktuellen Interesse (Anlage 3 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

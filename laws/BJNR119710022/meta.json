@@ -1,0 +1,30 @@
+{
+  "amtabk": "OGErzeugerOrgDV",
+  "ausfertigung_datum": "2022-07-22",
+  "bjnr": "BJNR119710022",
+  "eli": null,
+  "gii_slug": "ogerzeugerorgdv_2022",
+  "ingested_at": "2026-04-17T15:26:16Z",
+  "jurabk": "OGErzeugerOrgDV 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3c34bb5fe84ae28bbf875cf745f9f05e2328025339aca3d27a00cf2b8296e0bd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ogerzeugerorgdv_2022/xml.zip"
+  },
+  "stand_datum": "2024-06-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 4.6.2024 I Nr. 182",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7840-4-2 v. 25.9.2014 I 1561 (OGErzeugerOrgDV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der unionsrechtlichen Regelungen über Erzeugerorganisationen im Sektor Obst und Gemüse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

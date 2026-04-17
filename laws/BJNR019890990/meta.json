@@ -1,0 +1,26 @@
+{
+  "amtabk": "MargMFV",
+  "ausfertigung_datum": "1990-08-31",
+  "bjnr": "BJNR019890990",
+  "eli": null,
+  "gii_slug": "margmfv",
+  "ingested_at": "2026-04-17T15:24:40Z",
+  "jurabk": "MargMFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cdbb9c156c0a425025a435b2ab6bd76d1b05bad139fd425a59518b200af2ea2d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/margmfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/margmfv/xml.zip"
+  },
+  "stand_datum": "2025-11-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 V v. 24.11.2025 I Nr. 280",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Margarine- und Mischfetterzeugnisse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

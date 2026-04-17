@@ -1,0 +1,26 @@
+{
+  "amtabk": "VerstV",
+  "ausfertigung_datum": "2003-04-24",
+  "bjnr": "BJNR054710003",
+  "eli": null,
+  "gii_slug": "verstv_2003",
+  "ingested_at": "2026-04-17T15:30:10Z",
+  "jurabk": "VerstV 2003",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9aafb76ca2a69c3a619e0100048aba3023f6d6fec86c20acceec206d1e345f4c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verstv_2003/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verstv_2003/xml.zip"
+  },
+  "stand_datum": "2024-12-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 15 V v. 11.12.2024 I Nr. 411",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über gewerbsmäßige Versteigerungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

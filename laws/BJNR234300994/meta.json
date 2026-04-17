@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-09-14",
+  "bjnr": "BJNR234300994",
+  "eli": null,
+  "gii_slug": "postagsa",
+  "ingested_at": "2026-04-17T15:26:52Z",
+  "jurabk": "PostAGSa",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a3f4dc31ea73be799ad038b96e2cb3d79cd292dc841375331a620e3d5f6d8362"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postagsa/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postagsa/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Satzung der Deutsche Post AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

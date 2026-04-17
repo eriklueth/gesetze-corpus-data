@@ -1,0 +1,21 @@
+{
+  "amtabk": "IUCNVorV",
+  "ausfertigung_datum": "2017-03-31",
+  "bjnr": "BJNR036820017",
+  "eli": null,
+  "gii_slug": "iucnvorv",
+  "ingested_at": "2026-04-17T15:23:12Z",
+  "jurabk": "IUCNVorV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7d142b29f98766e5c74cf975688a6de456dc4272ffe23721e06797e3784c6777"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/iucnvorv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/iucnvorv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Union für die Erhaltung der Natur und der natürlichen Hilfsquellen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

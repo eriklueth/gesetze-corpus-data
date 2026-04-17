@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1970-04-21",
+  "bjnr": "BJNR004110970",
+  "eli": null,
+  "gii_slug": "konjausglrv_1970",
+  "ingested_at": "2026-04-17T15:23:43Z",
+  "jurabk": "KonjAusglRV 1970",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e57fc74d4562a34e89e594dd488d876dae898e437ca68638f4dce640ad9d4d32"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/konjausglrv_1970/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/konjausglrv_1970/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Bildung von Konjunkturausgleichsrücklagen durch Bund und Länder im Haushaltsjahr 1970",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

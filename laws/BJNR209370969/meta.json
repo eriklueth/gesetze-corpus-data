@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-04-30",
+  "bjnr": "BJNR209370969",
+  "eli": null,
+  "gii_slug": "grabfertdnkvtrg",
+  "ingested_at": "2026-04-17T15:22:22Z",
+  "jurabk": "GrAbfertDNKVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4d5f28868533a38d54a1b001e06fd6930351aed09e823a4084f4b25ca17fcf98"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grabfertdnkvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grabfertdnkvtrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 30. März 1967 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über Zollerleichterungen im kleinen Grenzverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

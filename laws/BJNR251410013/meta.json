@@ -1,0 +1,26 @@
+{
+  "amtabk": "BioStoffV",
+  "ausfertigung_datum": "2013-07-15",
+  "bjnr": "BJNR251410013",
+  "eli": null,
+  "gii_slug": "biostoffv_2013",
+  "ingested_at": "2026-04-17T15:18:27Z",
+  "jurabk": "BioStoffV 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3a0655e142f3712402aba106aa8f63fde14cece7d82e8d2a137cee1597a09c38"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/biostoffv_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/biostoffv_2013/xml.zip"
+  },
+  "stand_datum": "2024-12-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 2.12.2024 I Nr. 384",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Sicherheit und Gesundheitsschutz bei Tätigkeiten mit Biologischen Arbeitsstoffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

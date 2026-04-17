@@ -1,0 +1,26 @@
+{
+  "amtabk": "EHKostV 2007",
+  "ausfertigung_datum": "2004-08-31",
+  "bjnr": "BJNR227300004",
+  "eli": null,
+  "gii_slug": "ehkostv_2007",
+  "ingested_at": "2026-04-17T15:20:31Z",
+  "jurabk": "EHKostV 2007",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ec35ab2adac57d00453fad7872141cea042629ac2fe39d713bfacf4c5ef577bb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ehkostv_2007/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ehkostv_2007/xml.zip"
+  },
+  "stand_datum": "2011-07-21",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 7 G v. 21.7.2011 I 1475",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Kostenverordnung zum Treibhausgas-Emissionshandelsgesetz und zum Zuteilungsgesetz 2007",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

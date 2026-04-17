@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1967-07-27",
+  "bjnr": "BJNR008050967",
+  "eli": null,
+  "gii_slug": "bewg_55abs3_4dv",
+  "ingested_at": "2026-04-17T15:18:15Z",
+  "jurabk": "BewG§55Abs3/4DV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7e09f16dd02a28ea62af9cf140c35793b09a4ef8b620a9849eca9a6bc1b6907d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bewg_55abs3_4dv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bewg_55abs3_4dv/xml.zip"
+  },
+  "stand_datum": "2000-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 18 Nr. 1 G v. 19.12.2000 I 1790",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des § 55 Abs. 3 und 4 des Bewertungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

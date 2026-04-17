@@ -1,0 +1,26 @@
+{
+  "amtabk": "RbGeldERAV",
+  "ausfertigung_datum": "2017-10-18",
+  "bjnr": "BJNR358200017",
+  "eli": null,
+  "gii_slug": "rbgelderav",
+  "ingested_at": "2026-04-17T15:27:10Z",
+  "jurabk": "RbGeldERAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e3b5464c3791ee12ac9bf61589802b1343aa61664db5c752d922f34a86e68abc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rbgelderav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rbgelderav/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 10 G v. 22.12.2025 I Nr. 349",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Einführung des elektronischen Rechtsverkehrs und der elektronischen Aktenführung beim Bundesamt für Justiz im Anwendungsbereich des Rahmenbeschlusses 2005/214/JI des Rates vom 24. Februar 2005 über die Anwendung des Grundsatzes der gegenseitigen Anerkennung von Geldstrafen und Geldbußen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

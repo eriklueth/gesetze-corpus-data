@@ -1,0 +1,26 @@
+{
+  "amtabk": "AAÜG",
+  "ausfertigung_datum": "1991-07-25",
+  "bjnr": "BJNR016770991",
+  "eli": null,
+  "gii_slug": "aa_g",
+  "ingested_at": "2026-04-17T15:16:42Z",
+  "jurabk": "AAÜG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cc3de018534237173665620b0b7ca05855a2dd90b3af8b0fa83ff5955cc408a2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aa_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aa_g/xml.zip"
+  },
+  "stand_datum": "2020-10-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 6.10.2020 I 2072",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Überführung der Ansprüche und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

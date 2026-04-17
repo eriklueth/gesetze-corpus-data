@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZwVwV",
+  "ausfertigung_datum": "2003-12-19",
+  "bjnr": "BJNR280400003",
+  "eli": null,
+  "gii_slug": "zwvwv",
+  "ingested_at": "2026-04-17T15:31:31Z",
+  "jurabk": "ZwVwV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1a11d288f4aced871e3260462fc761fc7299b6e6ff62429dd1931123a824b8a8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zwvwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zwvwv/xml.zip"
+  },
+  "stand_datum": "2024-03-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 22.3.2024 I Nr. 110",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zwangsverwalterverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

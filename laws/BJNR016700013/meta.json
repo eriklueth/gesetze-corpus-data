@@ -1,0 +1,21 @@
+{
+  "amtabk": "BMJVertrAnO",
+  "ausfertigung_datum": "2013-02-01",
+  "bjnr": "BJNR016700013",
+  "eli": null,
+  "gii_slug": "bmjvertrano_2013",
+  "ingested_at": "2026-04-17T15:18:42Z",
+  "jurabk": "BMJVertrAnO 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b7a22c99539fe56d0351df627b7f9780300173e0feb22fd257ced1d83669902d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmjvertrano_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmjvertrano_2013/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Vertretung der Bundesrepublik Deutschland im Geschäftsbereich des Bundesministeriums der Justiz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

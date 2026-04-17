@@ -1,0 +1,26 @@
+{
+  "amtabk": "BestMstrV",
+  "ausfertigung_datum": "2009-09-15",
+  "bjnr": "BJNR303600009",
+  "eli": null,
+  "gii_slug": "bestmstrv",
+  "ingested_at": "2026-04-17T15:18:11Z",
+  "jurabk": "BestMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cc5482483095a999ad12c01aac4877b1643b3d45a37aa83307235567e5a731e6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bestmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bestmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 72 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Bestattungsgewerbe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

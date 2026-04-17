@@ -1,0 +1,26 @@
+{
+  "amtabk": "AromenDV",
+  "ausfertigung_datum": "2021-10-20",
+  "bjnr": "BJNR472310021",
+  "eli": null,
+  "gii_slug": "aromendv",
+  "ingested_at": "2026-04-17T15:17:04Z",
+  "jurabk": "AromenDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "21428530ae0d9fd1178567fa80bfaaf4f7ef1a4ea21b5a69206155d051a6fce8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aromendv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aromendv/xml.zip"
+  },
+  "stand_datum": "2024-12-11",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 5 V v. 11.12.2024 I Nr. 411",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Durchführungsverordnung über Aromen und Aromen enthaltende Lebensmittel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

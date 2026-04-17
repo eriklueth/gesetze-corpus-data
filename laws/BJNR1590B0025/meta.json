@@ -1,0 +1,21 @@
+{
+  "amtabk": "PostAufgÜberlG",
+  "ausfertigung_datum": "2025-12-22",
+  "bjnr": "BJNR1590B0025",
+  "eli": null,
+  "gii_slug": "postaufg_berlg",
+  "ingested_at": "2026-04-17T15:26:52Z",
+  "jurabk": "PostAufgÜberlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "24ec0a80089f11daed8da86aa10abcb75bacea22524c2cf2b4fafeb26f393e65"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postaufg_berlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postaufg_berlg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Überleitung öffentlicher Aufgaben bei Umwandlungsmaßnahmen der Deutsche Post AG",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

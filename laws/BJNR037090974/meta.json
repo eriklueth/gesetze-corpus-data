@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-12-19",
+  "bjnr": "BJNR037090974",
+  "eli": null,
+  "gii_slug": "binschowizustv_1974",
+  "ingested_at": "2026-04-17T15:18:24Z",
+  "jurabk": "BinSchOWiZustV 1974",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f16c129e9f2db24fd124f2e561eab9bc84725c070c4f6a8c1d80c8e38326bace"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschowizustv_1974/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschowizustv_1974/xml.zip"
+  },
+  "stand_datum": "2016-06-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 V v. 2.6.2016 I 1257",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

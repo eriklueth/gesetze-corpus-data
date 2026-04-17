@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-05-14",
+  "bjnr": "BJNR203400973",
+  "eli": null,
+  "gii_slug": "kfzabkgbrg",
+  "ingested_at": "2026-04-17T15:23:29Z",
+  "jurabk": "KfzAbkGBRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4c7eab5368aaa2b03411794f12c9bf42f2fdb030a7acfc9d4a10b4a06bb593aa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfzabkgbrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfzabkgbrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 5. November 1971 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Vereinigten Königreichs Großbritannien und Nordirland über die steuerliche Behandlung von Straßenfahrzeugen im internationalen Verkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

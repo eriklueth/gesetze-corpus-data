@@ -1,0 +1,26 @@
+{
+  "amtabk": "AkkStelleGBV",
+  "ausfertigung_datum": "2009-12-21",
+  "bjnr": "BJNR396200009",
+  "eli": null,
+  "gii_slug": "akkstellegbv",
+  "ingested_at": "2026-04-17T15:16:54Z",
+  "jurabk": "AkkStelleGBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "122d8d8b3c0c9d087f2d96f352c30509ce3e33e0180dc0c4a50e1d3d51d9262c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/akkstellegbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/akkstellegbv/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 273 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Beleihung der Akkreditierungsstelle nach dem Akkreditierungsstellengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

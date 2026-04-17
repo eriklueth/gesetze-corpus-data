@@ -1,0 +1,26 @@
+{
+  "amtabk": "SaubFahrzeugBeschG",
+  "ausfertigung_datum": "2021-06-09",
+  "bjnr": "BJNR169110021",
+  "eli": null,
+  "gii_slug": "saubfahrzeugbeschg",
+  "ingested_at": "2026-04-17T15:27:39Z",
+  "jurabk": "SaubFahrzeugBeschG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2d123b70dd174b40b62fac5e67728e3ea75dc7a22396970d01a488911c7c82a7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/saubfahrzeugbeschg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/saubfahrzeugbeschg/xml.zip"
+  },
+  "stand_datum": "2024-05-20",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 G v. 20.5.2024 I Nr. 167",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Beschaffung sauberer Straßenfahrzeuge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

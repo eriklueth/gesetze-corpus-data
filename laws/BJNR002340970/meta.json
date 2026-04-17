@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1970-02-18",
+  "bjnr": "BJNR002340970",
+  "eli": null,
+  "gii_slug": "dbiblbdodano",
+  "ingested_at": "2026-04-17T15:19:54Z",
+  "jurabk": "DBiblBDODAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3ddba39107213b182381a344d0ab644726a2d7d2763414f29e778d4ab2407cfc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbiblbdodano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbiblbdodano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Durchführung der Bundesdisziplinarordnung für die Deutsche Bibliothek",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

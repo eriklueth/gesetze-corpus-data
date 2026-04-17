@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-12-23",
+  "bjnr": "BJNR036790974",
+  "eli": null,
+  "gii_slug": "estfreigg",
+  "ingested_at": "2026-04-17T15:20:48Z",
+  "jurabk": "EStFreigG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "11dff1a999781b7190081c89d15ae70f4eee7f30cc62d42427740700d79ffb7b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/estfreigg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/estfreigg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die Freigabe der stillgelegten Mittel aus dem Zuschlag zur Einkommensteuer und zur Körperschaftsteuer sowie über die Aufhebung der Stillegungspflicht für künftig aufkommende Beträge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

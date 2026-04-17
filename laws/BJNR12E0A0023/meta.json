@@ -1,0 +1,26 @@
+{
+  "amtabk": "EVV",
+  "ausfertigung_datum": "2023-11-06",
+  "bjnr": "BJNR12E0A0023",
+  "eli": null,
+  "gii_slug": "evv",
+  "ingested_at": "2026-04-17T15:21:12Z",
+  "jurabk": "EVV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c9975cddc9e4c8baddf34a349c1317342e8c206cdd44937a511935c0512926de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/evv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/evv/xml.zip"
+  },
+  "stand_datum": "2026-01-16",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 16 G v. 16.1.2026 I Nr. 14",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen bei den Besonderen Leistungen im Einzelfall im Sozialen Entschädigungsrecht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

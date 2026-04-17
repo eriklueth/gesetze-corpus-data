@@ -1,0 +1,26 @@
+{
+  "amtabk": "BuTMedAusbV",
+  "ausfertigung_datum": "2020-02-28",
+  "bjnr": "BJNR030000020",
+  "eli": null,
+  "gii_slug": "butmedausbv",
+  "ingested_at": "2026-04-17T15:19:29Z",
+  "jurabk": "BuTMedAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5bed98d5f4d2f548d9d02fb5ed6779d05b28fec781523ff4b46466ca256f8d34"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/butmedausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/butmedausbv/xml.zip"
+  },
+  "stand_datum": "2006-05-26",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-1-27 v. 26.5.2006 I 1271 (MediengestAusbV) u. V 806-21-1-199 v. 29.1.1996 I 125 (VideoedAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Mediengestalter Bild und Ton und zur Mediengestalterin Bild und Ton",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

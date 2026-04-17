@@ -1,0 +1,21 @@
+{
+  "amtabk": "StandVKlV",
+  "ausfertigung_datum": "2025-09-16",
+  "bjnr": "BJNR0D70B0025",
+  "eli": null,
+  "gii_slug": "standvklv",
+  "ingested_at": "2026-04-17T15:28:48Z",
+  "jurabk": "StandVKlV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a86a1c82bcf0f73f79cb5a8308d88c574d2365b52315ff5b54ce80b79a4dd527"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/standvklv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/standvklv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Standardvertragsklauseln für die Durchführung klinischer Prüfungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

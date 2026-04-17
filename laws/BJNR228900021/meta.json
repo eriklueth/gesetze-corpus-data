@@ -1,0 +1,21 @@
+{
+  "amtabk": "BASPOErmV",
+  "ausfertigung_datum": "2021-06-24",
+  "bjnr": "BJNR228900021",
+  "eli": null,
+  "gii_slug": "baspoermv",
+  "ingested_at": "2026-04-17T15:17:40Z",
+  "jurabk": "BASPOErmV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "610c460142063c2873f9c6bc644a2a6055d6c742a3ed35656085d0f368168ec0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baspoermv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baspoermv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Ermächtigung zum Erlass von Prüfungsordnungen durch das Bundesamt für Soziale Sicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

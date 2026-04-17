@@ -1,0 +1,21 @@
+{
+  "amtabk": "AtEV",
+  "ausfertigung_datum": "2018-11-29",
+  "bjnr": "BJNR217210018",
+  "eli": null,
+  "gii_slug": "atev",
+  "ingested_at": "2026-04-17T15:17:10Z",
+  "jurabk": "AtEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "903c6fb56764ac829f5826657b6a989a452899e0e33365a10bad5110ed81046e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/atev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/atev/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Anforderungen und Verfahren zur Entsorgung radioaktiver Abfälle",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

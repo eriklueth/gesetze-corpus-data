@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1984-04-16",
+  "bjnr": "BJNR206000986",
+  "eli": null,
+  "gii_slug": "sozsichabkzprot_tun",
+  "ingested_at": "2026-04-17T15:28:41Z",
+  "jurabk": "SozSichAbkZProt TUN",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1110d936b874b17beb3029fefccc744e553932bc404199546d0d285ad4206a92"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkzprot_tun/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkzprot_tun/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzprotokoll zu dem Abkommen vom 16. April 1984 zwischen der Bundesrepublik Deutschland und der Tunesischen Republik über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

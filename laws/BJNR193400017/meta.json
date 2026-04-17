@@ -1,0 +1,21 @@
+{
+  "amtabk": "ProstStatV",
+  "ausfertigung_datum": "2017-06-13",
+  "bjnr": "BJNR193400017",
+  "eli": null,
+  "gii_slug": "proststatv",
+  "ingested_at": "2026-04-17T15:27:09Z",
+  "jurabk": "ProstStatV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "11c4a10893d3e964caaa452bb0c77e58102a2c47cc741e5c2a31f558618aa23d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/proststatv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/proststatv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Führung einer Bundesstatistik nach dem Prostituiertenschutzgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "AELV 2013",
+  "ausfertigung_datum": "2012-10-15",
+  "bjnr": "BJNR214200012",
+  "eli": null,
+  "gii_slug": "aelv_2013",
+  "ingested_at": "2026-04-17T15:16:47Z",
+  "jurabk": "AELV 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3aadbbfb2d8bc3bf675204107a69433178c0dfca6e4bdb3151618245c01e21ae"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aelv_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aelv_2013/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2013",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

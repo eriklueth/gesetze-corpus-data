@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-09-27",
+  "bjnr": "BJNR396100002",
+  "eli": null,
+  "gii_slug": "bapauschv",
+  "ingested_at": "2026-04-17T15:17:36Z",
+  "jurabk": "BAPauschV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3b6a34aab2d5c3a569da433d3730d41582c6a3cff17fc028608f6a41cbbfd565"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bapauschv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bapauschv/xml.zip"
+  },
+  "stand_datum": "2019-12-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 57 Abs. 32 G v. 12.12.2019 I 2652",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Pauschalierung und Zahlung des Ausgleichsbetrags der Bundesagentur für Arbeit an die Träger der gesetzlichen Rentenversicherung für arbeitsmarktbedingte Renten wegen voller Erwerbsminderung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

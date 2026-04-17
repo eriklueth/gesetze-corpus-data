@@ -1,0 +1,21 @@
+{
+  "amtabk": "SchLichtReklAusbV",
+  "ausfertigung_datum": "2012-03-26",
+  "bjnr": "BJNR049400012",
+  "eli": null,
+  "gii_slug": "schlichtreklausbv",
+  "ingested_at": "2026-04-17T15:27:46Z",
+  "jurabk": "SchLichtReklAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "632f54bb3f2c3f1f015fb6a40f14edbc7681472f49faff5b26814ae2d8e38a1b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schlichtreklausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schlichtreklausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Schilder- und Lichtreklamehersteller und zur Schilder- und Lichtreklameherstellerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

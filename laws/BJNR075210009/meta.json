@@ -1,0 +1,26 @@
+{
+  "amtabk": "GflSalmoV",
+  "ausfertigung_datum": "2009-04-06",
+  "bjnr": "BJNR075210009",
+  "eli": null,
+  "gii_slug": "h_salmov",
+  "ingested_at": "2026-04-17T15:22:09Z",
+  "jurabk": "HüSalmoV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "549b260d0f86d3a3caa353defb4be625a633385d9e7c3d0164d3ebf544f31fd1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/h_salmov/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/h_salmov/xml.zip"
+  },
+  "stand_datum": "2023-12-18",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 18.12.2023 I Nr. 381",
+      "typ": "Neuf"
+    }
+  ],
+  "title": "Verordnung zur Bekämpfung von Salmonellen beim Haushuhn und bei Puten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

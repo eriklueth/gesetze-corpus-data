@@ -1,0 +1,26 @@
+{
+  "amtabk": "ERPWiPlanG 2025",
+  "ausfertigung_datum": "2025-02-21",
+  "bjnr": "BJNR0350A0025",
+  "eli": null,
+  "gii_slug": "erpwiplang_2025",
+  "ingested_at": "2026-04-17T15:20:46Z",
+  "jurabk": "ERPWiPlanG 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d47ac46e11d09afa0b58d3f36f445b456d9626eb44ee88579be5d73e7af02133"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/erpwiplang_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/erpwiplang_2025/xml.zip"
+  },
+  "stand_datum": "2025-12-31",
+  "standangabe": [
+    {
+      "kommentar": "Die §§ 2 bis 5 treten gem. § 6 am Tag der Verkündung des ERP-Wirtschaftsplangesetzes 2026, frühestens jedoch am 31.12.2025, außer Kraft",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2025",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

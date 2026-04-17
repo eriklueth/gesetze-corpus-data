@@ -1,0 +1,26 @@
+{
+  "amtabk": "WindBG",
+  "ausfertigung_datum": "2022-07-20",
+  "bjnr": "BJNR135310022",
+  "eli": null,
+  "gii_slug": "windbg",
+  "ingested_at": "2026-04-17T15:30:34Z",
+  "jurabk": "WindBG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "762fecce1f4a141b7911bd6882c7185d42468051c2448d168abe49690036ed09"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/windbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/windbg/xml.zip"
+  },
+  "stand_datum": "2025-08-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 12.8.2025 I Nr. 189",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Festlegung von Flächenbedarfen und zur Genehmigungserleichterung für Windenergieanlagen an Land und für Anlagen zur Speicherung vom Strom oder Wärme aus erneuerbaren Energien in bestimmten Gebieten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

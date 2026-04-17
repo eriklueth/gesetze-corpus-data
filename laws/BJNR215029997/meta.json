@@ -1,0 +1,34 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-12-16",
+  "bjnr": "BJNR215029997",
+  "eli": null,
+  "gii_slug": "europolg",
+  "ingested_at": "2026-04-17T15:21:02Z",
+  "jurabk": "EuropolG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "097b354edbafa5e4efad8c6a1cf3d1a2232ecc5b179078096246984eb6c6e000"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/europolg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/europolg/xml.zip"
+  },
+  "stand_datum": "2026-02-03",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 3.2.2026 I Nr. 26",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung des § 8 (bezeichnet als Art. 2 § 8) durch Art. 10 Abs. 1 G v. 30.10.2017 I 3618 ist aufgrund bereits erfolgter Aufhebung der §§ 8 bis 10 durch Art. 1 Nr. 10 G v. 23.6.2017 I 1882 gegenstandslos und mithin nicht ausführbar.",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Art. 2 §§ 1 bis 8 (nach Aufhebung der Angabe \"Artikel 2\" durch Art. 1 Nr. 2 G v. 23.6.2017 I 1882 jetzt §§ 1 bis 8) treten gem. Art. 3 Abs. 1 Satz 2 an dem Tage in Kraft, an dem das Übereinkommen nach seinem Art. 45 Abs. 3 in Kraft tritt. Das Übereinkommen ist gem. Bek. v. 9.10.1998 II 2930 mWv 1.10.1998 in Kraft getreten.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zur Anwendung der Verordnung (EU) 2016/794 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Agentur der Europäischen Union für die Zusammenarbeit auf dem Gebiet der Strafverfolgung (Europol) und zur Ersetzung und Aufhebung der Beschlüsse 2009/371/JI, 2009/934/JI, 2009/935/JI, 2009/936/JI und 2009/968/JI des Rates",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

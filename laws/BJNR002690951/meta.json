@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-04-25",
+  "bjnr": "BJNR002690951",
+  "eli": null,
+  "gii_slug": "hauslg",
+  "ingested_at": "2026-04-17T15:22:34Z",
+  "jurabk": "HAuslG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "909bb37060082db33e05ad72a4dc190e1886d0b1243c9d7cabdca2378526bc3e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hauslg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hauslg/xml.zip"
+  },
+  "stand_datum": "2004-07-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 G v. 30.7.2004 I 1950",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

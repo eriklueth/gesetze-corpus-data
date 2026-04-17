@@ -1,0 +1,26 @@
+{
+  "amtabk": "EstrMstrV",
+  "ausfertigung_datum": "2024-11-04",
+  "bjnr": "BJNR1580A0024",
+  "eli": null,
+  "gii_slug": "estrmstrv_2026",
+  "ingested_at": "2026-04-17T15:20:51Z",
+  "jurabk": "EstrMstrV 2026",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5ac506efd67508b880abab92337c5de7ce2c061c0d01f1c7a45187a467dd407a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/estrmstrv_2026/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/estrmstrv_2026/xml.zip"
+  },
+  "stand_datum": "1995-02-16",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 7110-3-121 v. 16.2.1995 I 214 (EstrMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Estrichleger-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

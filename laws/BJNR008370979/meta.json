@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-06-22",
+  "bjnr": "BJNR008370979",
+  "eli": null,
+  "gii_slug": "bergmausbv",
+  "ingested_at": "2026-04-17T15:18:07Z",
+  "jurabk": "BergMAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cc82aba8d83f9460483f6961b049f1b644a324c624f71073112e0f2edd604465"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bergmausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bergmausbv/xml.zip"
+  },
+  "stand_datum": "2013-07-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 29.7.2013 I 2834",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Berg- und Maschinenmann und zur Berg- und Maschinenfrau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

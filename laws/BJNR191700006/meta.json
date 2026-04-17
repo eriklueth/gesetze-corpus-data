@@ -1,0 +1,26 @@
+{
+  "amtabk": "SCEBG",
+  "ausfertigung_datum": "2006-08-14",
+  "bjnr": "BJNR191700006",
+  "eli": null,
+  "gii_slug": "scebg",
+  "ingested_at": "2026-04-17T15:27:42Z",
+  "jurabk": "SCEBG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "162c2ab183bc8083e3b5d95291e825cee710c17fccc9952a72a0c16d44aa23ba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/scebg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/scebg/xml.zip"
+  },
+  "stand_datum": "2022-09-16",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6h G v. 16.9.2022 I 1454",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Beteiligung der Arbeitnehmer und Arbeitnehmerinnen in einer Europäischen Genossenschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

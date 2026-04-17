@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-01-02",
+  "bjnr": "BJNR000210018",
+  "eli": null,
+  "gii_slug": "fahrlg2018dv",
+  "ingested_at": "2026-04-17T15:21:16Z",
+  "jurabk": "FahrlG2018DV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d67bdfc065cda916358a70140e80783986a12da1908588785ff38d724dd8c0ba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fahrlg2018dv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fahrlg2018dv/xml.zip"
+  },
+  "stand_datum": "2022-03-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 18.3.2022 I 498",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 9231-7-9 v. 19.6.2012 I 1346 (FahrlGDV 2012)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Durchführungsverordnung zum Fahrlehrergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

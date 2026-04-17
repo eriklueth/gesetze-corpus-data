@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-10-22",
+  "bjnr": "BJNR205990988",
+  "eli": null,
+  "gii_slug": "athaftabk_che",
+  "ingested_at": "2026-04-17T15:17:10Z",
+  "jurabk": "AtHaftAbk CHE",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bb2920305f47d47ecdd9f78ffeeed7ec6dc2359284788f856102a3534ef344a6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/athaftabk_che/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/athaftabk_che/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

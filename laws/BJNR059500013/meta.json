@@ -1,0 +1,34 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-03-22",
+  "bjnr": "BJNR059500013",
+  "eli": null,
+  "gii_slug": "mtskraftv",
+  "ingested_at": "2026-04-17T15:25:03Z",
+  "jurabk": "MTSKraftV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e8b213919bcb96cf8d8189c3355482f39f4e4669956b447316614686284a9124"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mtskraftv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mtskraftv/xml.zip"
+  },
+  "stand_datum": "2024-05-06",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 27 G v. 6.5.2024 I Nr. 149",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Der § 4 Abs. 2 ist gem. Bek. v. 23.8.2013 I 3304 am 31.8.2013 in Kraft getreten.",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Die §§ 5 und 7 sind gem. Bek. v. 23.8.2013 I 3304 am 1.12.2013 in Kraft getreten.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Markttransparenzstelle für Kraftstoffe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

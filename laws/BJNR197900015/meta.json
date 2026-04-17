@@ -1,0 +1,30 @@
+{
+  "amtabk": "AgrStatV",
+  "ausfertigung_datum": "2015-11-10",
+  "bjnr": "BJNR197900015",
+  "eli": null,
+  "gii_slug": "agrstatv_2015",
+  "ingested_at": "2026-04-17T15:16:53Z",
+  "jurabk": "AgrStatV 2015",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7cdfcc125532390a5bf7bcf7b936a72d14a272b38ef57c14e73ae3c955f54e73"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/agrstatv_2015/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/agrstatv_2015/xml.zip"
+  },
+  "stand_datum": "2021-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 22.12.2021 I 5259 mWv 30.12.2021",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7860-9-1 v. 20.11.2002 I 4415 (AgrStatV 1)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Aussetzung und Ergänzung von Merkmalen sowie zur Einschränkung des Kreises der zu Befragenden nach dem Agrarstatistikgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

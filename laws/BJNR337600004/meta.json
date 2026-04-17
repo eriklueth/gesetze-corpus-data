@@ -1,0 +1,26 @@
+{
+  "amtabk": "WpAV",
+  "ausfertigung_datum": "2004-12-13",
+  "bjnr": "BJNR337600004",
+  "eli": null,
+  "gii_slug": "wpaiv",
+  "ingested_at": "2026-04-17T15:30:40Z",
+  "jurabk": "WpAIV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7e87e1227b5a0bab5c9b0d0295ef5b28721250e664640a8f167dcbdd2fad55a1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpaiv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpaiv/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 10 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Konkretisierung von Anzeige-, Mitteilungs- und Veröffentlichungspflichten nach dem Wertpapierhandelsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,34 @@
+{
+  "amtabk": "AugOptMstrV",
+  "ausfertigung_datum": "2005-08-29",
+  "bjnr": "BJNR261000005",
+  "eli": null,
+  "gii_slug": "augoptmstrv",
+  "ingested_at": "2026-04-17T15:17:17Z",
+  "jurabk": "AugOptMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8d1b58336c4d009281059da9ea49336ee80d63f110b32d1f4a45fc33ddbbc72e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/augoptmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/augoptmstrv/xml.zip"
+  },
+  "stand_datum": "2025-07-08",
+  "standangabe": [
+    {
+      "kommentar": "V aufgeh. durch § 9a idF d. Art. 2 V v. 8.7.2025 mWv 1.7.2026",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 8.7.2025 I Nr. 157",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt durch V 7110-3-222 v. 8.7.2025 I Nr. 157 (AugOptMstrV 2026)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Augenoptiker-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

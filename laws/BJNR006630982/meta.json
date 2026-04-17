@@ -1,0 +1,26 @@
+{
+  "amtabk": "IsolMstrV",
+  "ausfertigung_datum": "1982-06-03",
+  "bjnr": "BJNR006630982",
+  "eli": null,
+  "gii_slug": "isolmstrv",
+  "ingested_at": "2026-04-17T15:23:11Z",
+  "jurabk": "IsolMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f77da4826f7ea0122b1bbb05c3620bc46b8a0f3444d7c22a86d5c77e9dee82dc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/isolmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/isolmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 2 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Wärme-, Kälte- und Schallschutzisolierer-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

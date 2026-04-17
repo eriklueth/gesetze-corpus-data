@@ -1,0 +1,26 @@
+{
+  "amtabk": "AufbhV",
+  "ausfertigung_datum": "2013-08-16",
+  "bjnr": "BJNR323300013",
+  "eli": null,
+  "gii_slug": "aufbhv",
+  "ingested_at": "2026-04-17T15:17:15Z",
+  "jurabk": "AufbhV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b826c21cdde57303030d1af5f2d26b82798bb83bd4b6729d94b40c3685cd400e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aufbhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aufbhv/xml.zip"
+  },
+  "stand_datum": "2014-11-15",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 G v. 15.11.2014 I 1716",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Verteilung und Verwendung der Mittel des Fonds „Aufbauhilfe“",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

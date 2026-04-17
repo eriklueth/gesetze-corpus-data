@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2022-04-06",
+  "bjnr": "BJNR072500022",
+  "eli": null,
+  "gii_slug": "m_nz2eurobek_2022-04-06",
+  "ingested_at": "2026-04-17T15:25:40Z",
+  "jurabk": "Münz2EuroBek 2022-04-06",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cffdaf2756a8f730ad03eec5f654eca9476d65e17ca665c58822f0e96bc1baaa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz2eurobek_2022-04-06/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz2eurobek_2022-04-06/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „35 Jahre Erasmus-Programm“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

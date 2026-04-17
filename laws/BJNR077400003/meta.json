@@ -1,0 +1,26 @@
+{
+  "amtabk": "TechKontrollV",
+  "ausfertigung_datum": "2003-05-21",
+  "bjnr": "BJNR077400003",
+  "eli": null,
+  "gii_slug": "techkontrollv",
+  "ingested_at": "2026-04-17T15:29:18Z",
+  "jurabk": "TechKontrollV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1015e1238585929f845b734f6bbb0efccc701b952509d7f25ea8215b2c89ed53"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/techkontrollv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/techkontrollv/xml.zip"
+  },
+  "stand_datum": "2023-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 17 G v. 2.3.2023 I Nr. 56",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über technische Kontrollen von Nutzfahrzeugen auf der Straße",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

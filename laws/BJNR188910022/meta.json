@@ -1,0 +1,30 @@
+{
+  "amtabk": "DarlehensV",
+  "ausfertigung_datum": "2022-10-26",
+  "bjnr": "BJNR188910022",
+  "eli": null,
+  "gii_slug": "darlehensv_2022",
+  "ingested_at": "2026-04-17T15:19:40Z",
+  "jurabk": "DarlehensV 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "653d4b6254becff19b64a9d111046de038be4fe6196a29ccbf311a1a2d1a7d3f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/darlehensv_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/darlehensv_2022/xml.zip"
+  },
+  "stand_datum": "2025-08-26",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 26.8.2025 I Nr. 226",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2212-2-8-3 v. 9.7.1980 I 895 (DarlehensV 1980)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Einziehung der nach dem Bundesausbildungsförderungsgesetz geleisteten Darlehen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-06-08",
+  "bjnr": "BJNR006050973",
+  "eli": null,
+  "gii_slug": "tierseuchschnokanv",
+  "ingested_at": "2026-04-17T15:29:29Z",
+  "jurabk": "TierSeuchSchNOKanV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b91a5a82aebfe4a0419cb1bfdb8ff1024f9c1a1023495e6eb97c9d77e0349b12"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tierseuchschnokanv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tierseuchschnokanv/xml.zip"
+  },
+  "stand_datum": "1983-07-19",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 19.7.1983 I 1015;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 15 V v. 17.4.2014 I 388",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Beförderung von Tieren, Teilen, Erzeugnissen und Rohstoffen von Tieren sowie von sonstigen Gegenständen, die Träger von Ansteckungsstoff sein können, durch den Nord-Ostsee-Kanal",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BtMBinHV",
+  "ausfertigung_datum": "1981-12-16",
+  "bjnr": "BJNR014250981",
+  "eli": null,
+  "gii_slug": "btmbinhv",
+  "ingested_at": "2026-04-17T15:19:22Z",
+  "jurabk": "BtMBinHV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "44909a7c7951c37943f1102d442d5a2e0b17eea3c9846ec41e8605296e49440b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/btmbinhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/btmbinhv/xml.zip"
+  },
+  "stand_datum": "2022-12-16",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 16.12.2022 BAnz AT 20.12.2022 V1",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Betäubungsmittel-Binnenhandelsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

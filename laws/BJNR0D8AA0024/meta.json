@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2024-06-26",
+  "bjnr": "BJNR0D8AA0024",
+  "eli": null,
+  "gii_slug": "enwg2005_28r_28sanwbek",
+  "ingested_at": "2026-04-17T15:20:43Z",
+  "jurabk": "EnWG2005§28r§28sAnwBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c840d32963c745ab6b2eeda27720cac89c90143e012d4deed49da52529a535a4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/enwg2005_28r_28sanwbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/enwg2005_28r_28sanwbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Erteilung einer beihilferechtlichen Genehmigung der Europäischen Kommission zur Anwendung von § 28r Absatz 1 bis 9 und § 28s Absatz 1 bis 5 des Energiewirtschaftsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

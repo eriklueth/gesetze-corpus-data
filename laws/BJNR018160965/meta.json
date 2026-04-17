@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-11-08",
+  "bjnr": "BJNR018160965",
+  "eli": null,
+  "gii_slug": "fl_hgdv_2",
+  "ingested_at": "2026-04-17T15:21:29Z",
+  "jurabk": "FlüHGDV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "97089aec47d3009b10a7fe0aeaea024d723339a64c882d05c6ad167bd8e8900e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fl_hgdv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fl_hgdv_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweite Verordnung zur Durchführung des Gesetzes über Hilfsmaßnahmen für Deutsche aus der sowjetischen Besatzungszone Deutschlands und dem sowjetisch besetzten Sektor von Berlin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

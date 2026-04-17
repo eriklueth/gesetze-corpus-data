@@ -1,0 +1,53 @@
+{
+  "bjnr": "BJNR234610008",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Deutsches Rotes Kreuz"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Rechtsstellung",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Deutsches Rotes Kreuz"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Aufgaben",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Deutsches Rotes Kreuz"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Schutz des Zeichens und der Bezeichnungen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Deutsches Rotes Kreuz",
+        "Abschnitt 2 Andere freiwillige Hilfsgesellschaften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Rechtsstellung",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Deutsches Rotes Kreuz",
+        "Abschnitt 2 Andere freiwillige Hilfsgesellschaften"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Aufgaben",
+      "number": "§ 5",
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-06-25",
+  "bjnr": "BJNR160000009",
+  "eli": null,
+  "gii_slug": "chembiolackausbv_2009",
+  "ingested_at": "2026-04-17T15:19:40Z",
+  "jurabk": "ChemBioLackAusbV 2009",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e57cef1f49c2110d06873e003b9986e0d5c6916eab0c7eadbf7ab2b369c3a520"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/chembiolackausbv_2009/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/chembiolackausbv_2009/xml.zip"
+  },
+  "stand_datum": "2020-04-24",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 24.4.2020 I 868",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 10.2.2022 I 174",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung im Laborbereich Chemie, Biologie und Lack",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

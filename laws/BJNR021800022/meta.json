@@ -1,0 +1,30 @@
+{
+  "amtabk": "GlashütteV",
+  "ausfertigung_datum": "2022-02-22",
+  "bjnr": "BJNR021800022",
+  "eli": null,
+  "gii_slug": "glash_ttev",
+  "ingested_at": "2026-04-17T15:22:16Z",
+  "jurabk": "GlashütteV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4d668ca2862f94550562536c39e7419f7d4aaf41853d37abbf10a50d4088fc6d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/glash_ttev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/glash_ttev/xml.zip"
+  },
+  "stand_datum": "2026-01-11",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 8 G v. 11.1.2026 I Nr. 9",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V tritt gem. § 6 idF d. Art. 8 G v. 11.1.2026 I Nr. 9 an dem Tag außer Kraft, an dem das Amt der Europäischen Union für geistiges Eigentum auf der Grundlage eines gemäß Artikel 70 Absatz 2 der Verordnung (EU) 2023/2411 gestellten Antrags die hiernach geschützte Angabe in das Unionsregister nach der Verordnung (EU) 2023/2411 einträgt oder über den Antrag anderweitig abschließend entscheidet",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zum Schutz der geografischen Herkunftsangabe „Glashütte“",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

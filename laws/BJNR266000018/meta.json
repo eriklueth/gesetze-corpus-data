@@ -1,0 +1,26 @@
+{
+  "amtabk": "BrKrFrühErkV",
+  "ausfertigung_datum": "2018-12-17",
+  "bjnr": "BJNR266000018",
+  "eli": null,
+  "gii_slug": "brkrfr_herkv",
+  "ingested_at": "2026-04-17T15:19:08Z",
+  "jurabk": "BrKrFrühErkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ff6fd54a62d7a42cd75c29e4f1a34789c8a383eb3888570d7898ece3044c6658"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/brkrfr_herkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/brkrfr_herkv/xml.zip"
+  },
+  "stand_datum": "2026-02-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 27.2.2026 I Nr. 53",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Zulässigkeit der Anwendung von Röntgenstrahlung zur Früherkennung von Brustkrebs bei Frauen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

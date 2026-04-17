@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-08-25",
+  "bjnr": "BJNR112600995",
+  "eli": null,
+  "gii_slug": "bpr_samtsbezano_1995",
+  "ingested_at": "2026-04-17T15:19:00Z",
+  "jurabk": "BPräsAmtsbezAnO 1995",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8a4c18edc219a31c17636cb8b5d37c5aeaf077d05d0bec5c920cd97edfdcf929"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_samtsbezano_1995/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_samtsbezano_1995/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

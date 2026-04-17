@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1954-09-28",
+  "bjnr": "BJNR204740976",
+  "eli": null,
+  "gii_slug": "staatenl_bk",
+  "ingested_at": "2026-04-17T15:28:46Z",
+  "jurabk": "StaatenlÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2a0dadc5bbf533f9eed1ac0b9fc4367a445ece3d0948115902f84e4ba6f34e0a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/staatenl_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/staatenl_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Rechtsstellung der Staatenlosen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

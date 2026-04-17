@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-07-05",
+  "bjnr": "BJNR513310999",
+  "eli": null,
+  "gii_slug": "luftvodv_194",
+  "ingested_at": "2026-04-17T15:24:25Z",
+  "jurabk": "LuftVODV 194",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "04a7662066f776bfb8c4f01e3bf7adcad199f9203e84ae8b32ce5f91304d7b5c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_194/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_194/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hundertvierundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Mannheim-City)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

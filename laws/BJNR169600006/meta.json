@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-07-14",
+  "bjnr": "BJNR169600006",
+  "eli": null,
+  "gii_slug": "blindkennzv",
+  "ingested_at": "2026-04-17T15:18:36Z",
+  "jurabk": "BlindKennzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6756b8dd19bb15804f42eb5ec2ae5f1b13b8c5d0167fb80a04f1d2bdd4b9dd81"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/blindkennzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/blindkennzv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Kennzeichnung von Arzneimitteln in Blindenschrift bei Kleinstmengen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

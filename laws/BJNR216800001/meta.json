@@ -1,0 +1,26 @@
+{
+  "amtabk": "PBefGKostV",
+  "ausfertigung_datum": "2001-08-15",
+  "bjnr": "BJNR216800001",
+  "eli": null,
+  "gii_slug": "pbefgkostv",
+  "ingested_at": "2026-04-17T15:26:34Z",
+  "jurabk": "PBefGKostV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "846ecd1dc06725cede62320775b866970f7a013994f08bc1c1d899aba2722816"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pbefgkostv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pbefgkostv/xml.zip"
+  },
+  "stand_datum": "2012-05-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 4.5.2012 I 1042",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Kostenverordnung für Amtshandlungen im entgeltlichen oder geschäftsmäßigen Personenverkehr mit Kraftfahrzeugen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

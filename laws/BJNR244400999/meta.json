@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-12-16",
+  "bjnr": "BJNR244400999",
+  "eli": null,
+  "gii_slug": "dslbsa",
+  "ingested_at": "2026-04-17T15:20:06Z",
+  "jurabk": "DSLBSa",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "36f7f022f359fce78209924424780115ab8ed1489a7b66fdf06cb3fe91f70c82"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dslbsa/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dslbsa/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Satzung der DSL Bank AG (Anhang des Gesetzes über die Umwandlung der Deutschen Siedlungs- und Landesrentenbank in eine Aktiengesellschaft)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

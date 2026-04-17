@@ -1,0 +1,26 @@
+{
+  "amtabk": "LPartG",
+  "ausfertigung_datum": "2001-02-16",
+  "bjnr": "BJNR026610001",
+  "eli": null,
+  "gii_slug": "lpartg",
+  "ingested_at": "2026-04-17T15:24:09Z",
+  "jurabk": "LPartG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3c2c84d1c63ecb3f61a943249c56a6ff4d0876ba8e3f78f3adca7a24021c8776"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lpartg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lpartg/xml.zip"
+  },
+  "stand_datum": "2024-06-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 Abs. 3 G v. 11.6.2024 I Nr. 185",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Eingetragene Lebenspartnerschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

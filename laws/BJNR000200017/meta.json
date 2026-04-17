@@ -1,0 +1,21 @@
+{
+  "amtabk": "AFVFinV",
+  "ausfertigung_datum": "2017-01-01",
+  "bjnr": "BJNR000200017",
+  "eli": null,
+  "gii_slug": "afvfinv",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "AFVFinV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "137ee25d9e956e5f5a287427f59a3e15ff002a433d9cb55a76f2d2f026a3239c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/afvfinv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/afvfinv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Finanzierung der Verwaltung des Ausgleichsfonds der sozialen Pflegeversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

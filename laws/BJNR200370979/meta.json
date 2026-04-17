@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-01-17",
+  "bjnr": "BJNR200370979",
+  "eli": null,
+  "gii_slug": "sozsichabkdvbgsweg",
+  "ingested_at": "2026-04-17T15:28:34Z",
+  "jurabk": "SozSichAbkDVbgSWEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7ea35d5180c271a3c0a0f00008f50ca06cff801b57b3f002b6c1dc40195d73f0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkdvbgsweg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkdvbgsweg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu der Vereinbarung vom 23. Februar 1978 zwischen der Bundesrepublik Deutschland und dem Königreich Schweden zur Durchführung des Abkommens vom 27. Februar 1976 über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

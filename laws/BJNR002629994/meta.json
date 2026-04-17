@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-01-03",
+  "bjnr": "BJNR002629994",
+  "eli": null,
+  "gii_slug": "streitkrnotwg",
+  "ingested_at": "2026-04-17T15:28:57Z",
+  "jurabk": "StreitkrNotWG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8cc047805c0702cf29b2d0b4a95018ef72a772df2b6b2b1f5727c7f839716b7a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/streitkrnotwg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/streitkrnotwg/xml.zip"
+  },
+  "stand_datum": "2004-08-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12g Abs. 2 G v. 24.8.2004 I 2198",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu den Notenwechseln vom 25. September 1990 und vom 23. September 1991 über die Rechtsstellung der in Deutschland stationierten verbündeten Streitkräfte und zu dem Übereinkommen vom 25. September 1990 zur Regelung bestimmter Fragen in bezug auf Berlin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

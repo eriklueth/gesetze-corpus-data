@@ -1,0 +1,34 @@
+{
+  "amtabk": "LuftVG",
+  "ausfertigung_datum": "1922-08-01",
+  "bjnr": "BJNR006810922",
+  "eli": null,
+  "gii_slug": "luftvg",
+  "ingested_at": "2026-04-17T15:24:16Z",
+  "jurabk": "LuftVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "42cd85361b8e1e50ca5d97653837b5dadda6aab9c7345f88e457f6cb9f8f8ba0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvg/xml.zip"
+  },
+  "stand_datum": "2007-05-10",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 10.5.2007 I 698;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 G v. 23.10.2024 I Nr. 327",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 G v. 10.2.2026 I Nr. 40 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Luftverkehrsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

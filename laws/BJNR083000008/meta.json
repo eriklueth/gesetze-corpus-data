@@ -1,0 +1,34 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-05-13",
+  "bjnr": "BJNR083000008",
+  "eli": null,
+  "gii_slug": "speisherprobv",
+  "ingested_at": "2026-04-17T15:28:44Z",
+  "jurabk": "SpEisHErprobV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "29141f681f08f7ecc508b690841464a35481d4c1315fd03cf7e2b1dd4fa5e921"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/speisherprobv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/speisherprobv/xml.zip"
+  },
+  "stand_datum": "2013-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 19.6.2013 I 1611",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V tritt mit Ausnahme des § 10 nach ihrem § 11 am 31. Juli 2013 außer Kraft",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Die Geltung dieser V ist durch § 11 idF d. Art. 1 V v. 19.6.2013 I 1611 über den 31.7.2013 hinaus bis zum 31.7.2014 verlängert worden.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Entwicklung und Erprobung des Ausbildungsberufs Speiseeishersteller/Speiseeisherstellerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

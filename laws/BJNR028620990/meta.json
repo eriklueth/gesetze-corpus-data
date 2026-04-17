@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-12-17",
+  "bjnr": "BJNR028620990",
+  "eli": null,
+  "gii_slug": "zust_blg",
+  "ingested_at": "2026-04-17T15:31:29Z",
+  "jurabk": "ZustÜblG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aa0e4a4887537bcbc375049a779acdc06902a99496fe8afb72bd4603bb4ace59"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zust_blg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zust_blg/xml.zip"
+  },
+  "stand_datum": "2006-04-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 65 G v. 19.4.2006 I 866",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Überleitung der Zuständigkeit der Obersten Rückerstattungsgerichte auf den Bundesgerichtshof (Artikel 9 d. Rechtspflege-Vereinfachungsgesetzes)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

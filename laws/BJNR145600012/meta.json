@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-07-03",
+  "bjnr": "BJNR145600012",
+  "eli": null,
+  "gii_slug": "pharmkfmausbv_2012",
+  "ingested_at": "2026-04-17T15:26:49Z",
+  "jurabk": "PharmKfmAusbV 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ff723eb6114ab211ab1f24d8703d7f7cfb55a0ec973d5d10f95fc7b590d37931"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pharmkfmausbv_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pharmkfmausbv_2012/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Pharmazeutisch-kaufmännischen Angestellten und zur Pharmazeutisch-kaufmännischen Angestellten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-12-19",
+  "bjnr": "BJNR027530977",
+  "eli": null,
+  "gii_slug": "kohleumeldeg",
+  "ingested_at": "2026-04-17T15:23:43Z",
+  "jurabk": "KohleUMeldeG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7028ff80cc220a2f214cbfc4f7078941aff7ce6d4e70b41b5cf33ed8c2ed5083"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kohleumeldeg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kohleumeldeg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 302 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Meldungen der Unternehmen des deutschen Steinkohlenbergbaus",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

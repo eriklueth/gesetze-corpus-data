@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-07-02",
+  "bjnr": "BJNR121000018",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2018-07-23_4",
+  "ingested_at": "2026-04-17T15:25:29Z",
+  "jurabk": "Münz20EuroBek 2018-07-23/4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3201e3664c4360e58789078ad6a36ca6bbcff585edd543d89e299e25b2c7ab14"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2018-07-23_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2018-07-23_4/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Uhu“ der Serie „Heimische Vögel“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

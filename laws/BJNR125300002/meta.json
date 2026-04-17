@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-03-25",
+  "bjnr": "BJNR125300002",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2002-03",
+  "ingested_at": "2026-04-17T15:25:14Z",
+  "jurabk": "Münz10EuroBek 2002-03",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "48f7e0e2d6cf486cb7bf7f29be6c1ad9e8cc513c6cd96d7a4682b0d69350e0b7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2002-03/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2002-03/xml.zip"
+  },
+  "stand_datum": "2002-12-02",
+  "standangabe": [
+    {
+      "kommentar": "Änderung v. 2.12.2002 I 4527",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"Kunstausstellung documenta Kassel\")",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

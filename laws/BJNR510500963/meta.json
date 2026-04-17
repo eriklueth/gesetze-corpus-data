@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1963-05-30",
+  "bjnr": "BJNR510500963",
+  "eli": null,
+  "gii_slug": "bmfl_jubano",
+  "ingested_at": "2026-04-17T15:18:39Z",
+  "jurabk": "BMFlüJubAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f9d0381d23966be7fc4dda53aefd27d668f0d8fca34270fce5f30149ea2b6d3a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmfl_jubano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmfl_jubano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen an Beamte im Geschäftsbereich des Bundesministeriums für Vertriebene, Flüchtlinge und Kriegsgeschädigte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

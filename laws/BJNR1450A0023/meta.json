@@ -1,0 +1,30 @@
+{
+  "amtabk": "MStDVDV",
+  "ausfertigung_datum": "2023-11-15",
+  "bjnr": "BJNR1450A0023",
+  "eli": null,
+  "gii_slug": "mstdvdv_2024",
+  "ingested_at": "2026-04-17T15:25:03Z",
+  "jurabk": "MStDVDV 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fd8ec3ba12ced5d4d5e2e9dd0ab4033d9f4a25dcb849846f739773a443badeec"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mstdvdv_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mstdvdv_2024/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 30 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2030-8-5-9 v. 12.1.2017 I 78 (MStDVDV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den mittleren Steuerdienst des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

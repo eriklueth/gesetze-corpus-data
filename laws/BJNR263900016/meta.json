@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2016-11-17",
+  "bjnr": "BJNR263900016",
+  "eli": null,
+  "gii_slug": "rvbeitrsbek_2017",
+  "ingested_at": "2026-04-17T15:27:31Z",
+  "jurabk": "RVBeitrSBek 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "23791b0ac659fe2325e3159aafb725b5b87c1046fc82617853b0baf9f2a734fb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rvbeitrsbek_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rvbeitrsbek_2017/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2017",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

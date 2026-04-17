@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1966-12-08",
+  "bjnr": "BJNR204920968",
+  "eli": null,
+  "gii_slug": "sozsichabkdvbg_prt",
+  "ingested_at": "2026-04-17T15:28:34Z",
+  "jurabk": "SozSichAbkDVbg PRT",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "63ba76f6e5d98c4f24f63b26ce11f865fb76e1d938337bcca4649f2e91100ed3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkdvbg_prt/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkdvbg_prt/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzvereinbarung zur Durchführung und Ergänzung des Abkommens vom 6. November 1964 zwischen der Bundesrepublik Deutschland und der Portugiesischen Republik über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-12-11",
+  "bjnr": "BJNR096720002",
+  "eli": null,
+  "gii_slug": "kyotoprot",
+  "ingested_at": "2026-04-17T15:24:01Z",
+  "jurabk": "KyotoProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d1b3fb9285dd16618b92d12a1d434bc33c0bdc5cf08bd080f390abdd6f759587"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kyotoprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kyotoprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll von Kyoto zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

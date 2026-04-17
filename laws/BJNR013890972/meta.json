@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-08-01",
+  "bjnr": "BJNR013890972",
+  "eli": null,
+  "gii_slug": "wzg_4mltbek_1",
+  "ingested_at": "2026-04-17T15:31:12Z",
+  "jurabk": "WZG§4MLTBek 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5eb7ecb3892d12423d458302d2d8d9c9294ada0da7d2400c0209dcefdeeae46c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4mltbek_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4mltbek_1/xml.zip"
+  },
+  "stand_datum": "1977-07-20",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Bek. v. 20.7.1977 I 1345",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

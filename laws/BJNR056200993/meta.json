@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-04-21",
+  "bjnr": "BJNR056200993",
+  "eli": null,
+  "gii_slug": "ffgv_1993",
+  "ingested_at": "2026-04-17T15:21:19Z",
+  "jurabk": "FFGV 1993",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f249be4a976ec934716248b87e772819bde46b71da958982b586b143b9f20a60"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ffgv_1993/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ffgv_1993/xml.zip"
+  },
+  "stand_datum": "2001-10-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 2.10.2001 I 2604",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Filmförderungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

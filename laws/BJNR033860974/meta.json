@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-11-25",
+  "bjnr": "BJNR033860974",
+  "eli": null,
+  "gii_slug": "bpr_skldgbgsauslano",
+  "ingested_at": "2026-04-17T15:19:00Z",
+  "jurabk": "BPräsKldgBGSAuslAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c0f1923f052213b8ecda67142d25d10c8bc2ed0d52542641970f8b4a788dea35"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_skldgbgsauslano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_skldgbgsauslano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Dienstkleidung der bei den deutschen Auslandsvertretungen für den Geheim-, Haus- und Objektschutz eingesetzten Polizeivollzugsbeamten im BGS",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "TKMV",
+  "ausfertigung_datum": "2022-06-14",
+  "bjnr": "BJNR088000022",
+  "eli": null,
+  "gii_slug": "tkmv",
+  "ingested_at": "2026-04-17T15:29:31Z",
+  "jurabk": "TKMV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c87e41d5e73c74b9bb44b766ede297a215f0c7d7ce951145df4a7e394d7f1c90"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tkmv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tkmv/xml.zip"
+  },
+  "stand_datum": "2024-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 20.12.2024 I Nr. 447",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Mindestanforderungen für das Recht auf Versorgung mit Telekommunikationsdiensten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

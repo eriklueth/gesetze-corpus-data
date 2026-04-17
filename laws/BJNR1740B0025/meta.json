@@ -1,0 +1,21 @@
+{
+  "amtabk": "DBALTUNotV",
+  "ausfertigung_datum": "2025-12-19",
+  "bjnr": "BJNR1740B0025",
+  "eli": null,
+  "gii_slug": "dbaltunotv",
+  "ingested_at": "2026-04-17T15:19:50Z",
+  "jurabk": "DBALTUNotV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d6053854f6b68f184866b0ef1c51e45f08c7c2a8b008d7fc836d4cf5c47af3aa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbaltunotv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbaltunotv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Umsetzung der Notifizierung zur Anwendung der Anrechnungsmethode bei bestimmten Einkünften nach dem deutsch-litauischen Doppelbesteuerungsabkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

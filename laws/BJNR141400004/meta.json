@@ -1,0 +1,30 @@
+{
+  "amtabk": "UWG",
+  "ausfertigung_datum": "2004-07-03",
+  "bjnr": "BJNR141400004",
+  "eli": null,
+  "gii_slug": "uwg_2004",
+  "ingested_at": "2026-04-17T15:29:59Z",
+  "jurabk": "UWG 2004",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0bdc8ea8a9cc23db0ec8eb7521b441f0eeb176c35ae9ef46c9fa38b4b33c4ba8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uwg_2004/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uwg_2004/xml.zip"
+  },
+  "stand_datum": "2010-03-03",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 3.3.2010 I 254;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G vom 12.2.2026 I Nr. 43",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz gegen den unlauteren Wettbewerb",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

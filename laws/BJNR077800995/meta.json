@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-06-06",
+  "bjnr": "BJNR077800995",
+  "eli": null,
+  "gii_slug": "seer_bkag",
+  "ingested_at": "2026-04-17T15:27:59Z",
+  "jurabk": "SeeRÜbkAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7e5bc4a75532b4f142bf9632afee2303ce6fa7cce089b03bc138582d7a347a67"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seer_bkag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seer_bkag/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "geändert Art. 550 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Ausführung des Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982 sowie des Übereinkommens vom 28. Juli 1994 zur Durchführung des Teils XI des Seerechtsübereinkommens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

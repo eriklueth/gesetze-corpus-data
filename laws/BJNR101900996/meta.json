@@ -1,0 +1,30 @@
+{
+  "amtabk": "AMbG",
+  "ausfertigung_datum": "1996-07-19",
+  "bjnr": "BJNR101900996",
+  "eli": null,
+  "gii_slug": "ambg",
+  "ingested_at": "2026-04-17T15:17:00Z",
+  "jurabk": "AMbG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7684f3c6d54a69fbca2530d600b6c2685dc1b8a541ddee560d929d14fab0420f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ambg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ambg/xml.zip"
+  },
+  "stand_datum": "2016-07-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 Abs. 115 G v. 18.7.2016 I 1666",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Allgemeines Magnetschwebebahngesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

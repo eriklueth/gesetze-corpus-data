@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-08-10",
+  "bjnr": "BJNR008890981",
+  "eli": null,
+  "gii_slug": "filmf_frav",
+  "ingested_at": "2026-04-17T15:21:20Z",
+  "jurabk": "FilmFöFRAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a0672d8c37f63e84be698c398e5894e9378601418a6cf6bd28902d01dca29319"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/filmf_frav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/filmf_frav/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur verstärkten Förderung deutsch-französischer Filmvorhaben",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

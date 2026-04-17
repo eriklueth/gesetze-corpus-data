@@ -1,0 +1,21 @@
+{
+  "amtabk": "FeinwAusbV",
+  "ausfertigung_datum": "2010-07-07",
+  "bjnr": "BJNR088800010",
+  "eli": null,
+  "gii_slug": "feinwausbv",
+  "ingested_at": "2026-04-17T15:21:17Z",
+  "jurabk": "FeinwAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a1d969444244f31bd46df9b5b0c2b3064f8477d3d5d8aea0853fd074b52e0ec5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/feinwausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/feinwausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Feinwerkmechaniker und zur Feinwerkmechanikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

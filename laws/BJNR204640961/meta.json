@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1960-08-16",
+  "bjnr": "BJNR204640961",
+  "eli": null,
+  "gii_slug": "dollbberabk_2",
+  "ingested_at": "2026-04-17T15:20:00Z",
+  "jurabk": "DollBBerAbk 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "80c5c2379a895229f4053ef83c021b6e51f789b5d31edf382e5a67449c81d43c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dollbberabk_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dollbberabk_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweites Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gewisse Angelegenheiten, die sich aus der Bereinigung deutscher Dollarbonds ergeben",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

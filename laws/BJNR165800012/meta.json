@@ -1,0 +1,26 @@
+{
+  "amtabk": "SchuVAbdrV",
+  "ausfertigung_datum": "2012-07-26",
+  "bjnr": "BJNR165800012",
+  "eli": null,
+  "gii_slug": "schuvabdrv",
+  "ingested_at": "2026-04-17T15:27:53Z",
+  "jurabk": "SchuVAbdrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c60e701c810fb339603f380463c0b8a11454d640dff4ed7e9a654fab7d82e0a7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schuvabdrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schuvabdrv/xml.zip"
+  },
+  "stand_datum": "2019-11-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 20.11.2019 I 1724",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Bezug von Abdrucken aus dem Schuldnerverzeichnis",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

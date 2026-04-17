@@ -1,0 +1,21 @@
+{
+  "amtabk": "HolzEinschlBeschrV2021",
+  "ausfertigung_datum": "2021-04-14",
+  "bjnr": "BJNR080800021",
+  "eli": null,
+  "gii_slug": "holzeinschlbeschrv2021",
+  "ingested_at": "2026-04-17T15:22:44Z",
+  "jurabk": "HolzEinschlBeschrV2021",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ee143f80162390c91f14583c0988979876a616f4c5c6cf9d12f3d00c7d73c1d0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/holzeinschlbeschrv2021/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/holzeinschlbeschrv2021/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Beschränkung des ordentlichen Holzeinschlags in dem Forstwirtschaftsjahr 2021",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

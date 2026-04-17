@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-06-30",
+  "bjnr": "BJNR003390959",
+  "eli": null,
+  "gii_slug": "strsaareg",
+  "ingested_at": "2026-04-17T15:29:03Z",
+  "jurabk": "StRSaarEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "207962c7e8a9edb2be42b77af48079927d913a0a80937c76fc5765fc617ad0e4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/strsaareg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/strsaareg/xml.zip"
+  },
+  "stand_datum": "2010-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 58 G v. 8.12.2010 I 1864",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Einführung des deutschen Rechts auf dem Gebiete der Steuern, Zölle und Finanzmonopole im Saarland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

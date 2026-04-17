@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-04-05",
+  "bjnr": "BJNR007540990",
+  "eli": null,
+  "gii_slug": "postdienstbrano",
+  "ingested_at": "2026-04-17T15:26:53Z",
+  "jurabk": "POSTDIENSTBRAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4c42bf084f1225f58c65277f69bec6e471dae0a7a748d856002d0b978d94b7e4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postdienstbrano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postdienstbrano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts im Bereich der Deutschen Bundespost POSTDIENST",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

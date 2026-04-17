@@ -1,0 +1,26 @@
+{
+  "amtabk": "IMSüßFPrV",
+  "ausfertigung_datum": "2016-01-27",
+  "bjnr": "BJNR011000016",
+  "eli": null,
+  "gii_slug": "ims__fprv",
+  "ingested_at": "2026-04-17T15:22:59Z",
+  "jurabk": "IMSüßFPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4a01b51f5b2618f8905ebd48922d8fa8388cf3660139630959a9085f194f766"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ims__fprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ims__fprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 77 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister – Fachrichtung Süßwaren und Geprüfte Industriemeisterin – Fachrichtung Süßwaren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

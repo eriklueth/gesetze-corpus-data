@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1962-08-07",
+  "bjnr": "BJNR005510962",
+  "eli": null,
+  "gii_slug": "g_kg_6av",
+  "ingested_at": "2026-04-17T15:22:31Z",
+  "jurabk": "GüKG§6aV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6ce66448578bf5c5e87edcc25707491548a510b067b92364d0e018cbb584a020"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/g_kg_6av/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/g_kg_6av/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Anerkennung von Stadt- und Landkreisen nach § 6a des Güterkraftverkehrsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

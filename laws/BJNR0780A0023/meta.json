@@ -1,0 +1,26 @@
+{
+  "amtabk": "KFBauMechAusbV",
+  "ausfertigung_datum": "2023-05-01",
+  "bjnr": "BJNR0780A0023",
+  "eli": null,
+  "gii_slug": "kfbaumechausbv",
+  "ingested_at": "2026-04-17T15:23:26Z",
+  "jurabk": "KFBauMechAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7728d49b54d4c796743db358b67bcf0bddc0ae5f8bd8320ede74f77f577cbfd7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfbaumechausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfbaumechausbv/xml.zip"
+  },
+  "stand_datum": "2014-06-10",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-22-1-93 v. 10.6.2014 I 714 (FzMechAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

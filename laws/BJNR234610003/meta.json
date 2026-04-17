@@ -1,0 +1,21 @@
+{
+  "amtabk": "WoFlV",
+  "ausfertigung_datum": "2003-11-25",
+  "bjnr": "BJNR234610003",
+  "eli": null,
+  "gii_slug": "woflv",
+  "ingested_at": "2026-04-17T15:30:38Z",
+  "jurabk": "WoFlV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4a01ea1a178e61bdc097fdbccd69665da30546c86bee86cf9d0bcf98881a09e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/woflv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/woflv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Berechnung der Wohnfläche",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

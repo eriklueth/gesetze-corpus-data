@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2017-06-08",
+  "bjnr": "BJNR617200017",
+  "eli": null,
+  "gii_slug": "schkg_19abs2__24bek_2017",
+  "ingested_at": "2026-04-17T15:27:46Z",
+  "jurabk": "SchKG§19Abs2/§24Bek 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b7acc9c4188df41e48171f96eab693407d6a127bb771a28005759c650595b8b2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schkg_19abs2__24bek_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schkg_19abs2__24bek_2017/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2017 geltenden Beträge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

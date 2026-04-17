@@ -1,0 +1,26 @@
+{
+  "amtabk": "DiätAss-APrV",
+  "ausfertigung_datum": "1994-08-01",
+  "bjnr": "BJNR208800994",
+  "eli": null,
+  "gii_slug": "di_tass-aprv",
+  "ingested_at": "2026-04-17T15:19:57Z",
+  "jurabk": "DiätAss-APrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "483ee7bdbe9852647af168e6d46c75f2ff3f0f6b7bc40e8e16d3627f70fb6a29"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/di_tass-aprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/di_tass-aprv/xml.zip"
+  },
+  "stand_datum": "2023-06-07",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 V v. 7.6.2023 I Nr. 148",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Ausbildungs- und Prüfungsverordnung für Diätassistentinnen und Diätassistenten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

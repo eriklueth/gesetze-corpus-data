@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-07-30",
+  "bjnr": "BJNR007950981",
+  "eli": null,
+  "gii_slug": "mmilchpulvabsv",
+  "ingested_at": "2026-04-17T15:24:56Z",
+  "jurabk": "MMilchPulvAbsV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b0fce35036c09a561728d5408f2b51733c2f38650ba07e66b5f65eff500cf0d2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mmilchpulvabsv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mmilchpulvabsv/xml.zip"
+  },
+  "stand_datum": "2013-06-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 21 G v. 6.6.2013 I 1482",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Absatz von Magermilchpulver aus öffentlicher Lagerhaltung zur Denaturierung, zur Verarbeitung zu Mischfutter und zur Ausfuhr sowie über die Lieferung von Magermilchpulver im Rahmen der Nahrungsmittelhilfe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

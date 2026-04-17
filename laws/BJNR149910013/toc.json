@@ -1,0 +1,505 @@
+{
+  "bjnr": "BJNR149910013",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich der Verordnung",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Qualifizierte Beschäftigungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Vermittlungsabsprachen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Qualifizierte Beschäftigungen"
+      ],
+      "file": "paragraphs/0002a.md",
+      "heading": "Anerkennungspartnerschaft",
+      "number": "§ 2a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Qualifizierte Beschäftigungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Leitende Angestellte, Führungskräfte und Spezialisten",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Qualifizierte Beschäftigungen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "(weggefallen)",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Qualifizierte Beschäftigungen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Wissenschaft, Forschung und Entwicklung",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Qualifizierte Beschäftigungen"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Beschäftigung bei ausgeprägter berufspraktischer Erfahrung",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Qualifizierte Beschäftigungen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "(weggefallen)",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Qualifizierte Beschäftigungen"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Betriebliche Aus- und Weiterbildung; Anerkennung ausländischer Berufsqualifikationen",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Qualifizierte Beschäftigungen"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Beschäftigung bei Vorbeschäftigungszeiten oder längerem Voraufenthalt",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Internationaler Personalaustausch, Auslandsprojekte",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0010a.md",
+      "heading": "Unternehmensintern transferierte Arbeitnehmer",
+      "number": "§ 10a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Sprachlehrerinnen und Sprachlehrer, Spezialitätenköchinnen und Spezialitätenköche",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Au-pair-Beschäftigungen",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Hausangestellte von Entsandten",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Sonstige Beschäftigungen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Praktika zu Weiterbildungszwecken",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0015a.md",
+      "heading": "Saisonabhängige Beschäftigung",
+      "number": "§ 15a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0015b.md",
+      "heading": "Schaustellergehilfen",
+      "number": "§ 15b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0015c.md",
+      "heading": "Haushaltshilfen",
+      "number": "§ 15c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Vorübergehende Beschäftigung"
+      ],
+      "file": "paragraphs/0015d.md",
+      "heading": "Kurzzeitige kontingentierte Beschäftigung",
+      "number": "§ 15d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Entsandte Arbeitnehmerinnen und Arbeitnehmer"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Geschäftsreisende",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Entsandte Arbeitnehmerinnen und Arbeitnehmer"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Betriebliche Weiterbildung",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Entsandte Arbeitnehmerinnen und Arbeitnehmer"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Journalistinnen und Journalisten",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Entsandte Arbeitnehmerinnen und Arbeitnehmer"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Werklieferungsverträge",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Entsandte Arbeitnehmerinnen und Arbeitnehmer"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Internationaler Straßen- und Schienenverkehr",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Entsandte Arbeitnehmerinnen und Arbeitnehmer"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Dienstleistungserbringung",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Besondere Berufs- oder Personengruppen"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Besondere Berufsgruppen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Besondere Berufs- oder Personengruppen"
+      ],
+      "file": "paragraphs/0022a.md",
+      "heading": "Beschäftigung von Pflegehilfskräften",
+      "number": "§ 22a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Besondere Berufs- oder Personengruppen"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Internationale Sportveranstaltungen",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Besondere Berufs- oder Personengruppen"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Schifffahrt- und Luftverkehr",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Besondere Berufs- oder Personengruppen"
+      ],
+      "file": "paragraphs/0024a.md",
+      "heading": "Berufskraftfahrerinnen und Berufskraftfahrer",
+      "number": "§ 24a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Besondere Berufs- oder Personengruppen"
+      ],
+      "file": "paragraphs/0024b.md",
+      "heading": "Windenergieanlagen auf See und Offshore-Anbindungsleitungen",
+      "number": "§ 24b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Besondere Berufs- oder Personengruppen"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Kultur und Unterhaltung",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Besondere Berufs- oder Personengruppen"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Beschäftigung bestimmter Staatsangehöriger",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Besondere Berufs- oder Personengruppen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Grenzgängerbeschäftigung",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Besondere Berufs- oder Personengruppen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Deutsche Volkszugehörige",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 6 Sonstiges"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Internationale Abkommen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 6 Sonstiges"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Beschäftigungsaufenthalte ohne Aufenthaltstitel",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Beschäftigung bei Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen sowie von Personen mit Duldung und Asylbewerbern"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Beschäftigung bei Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Beschäftigung bei Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen sowie von Personen mit Duldung und Asylbewerbern"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Beschäftigung von Personen mit Duldung oder Aufenthaltsgestattung",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Beschäftigung bei Aufenthalt aus völkerrechtlichen, humanitären oder politischen Gründen sowie von Personen mit Duldung und Asylbewerbern"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "(weggefallen)",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 8 Verfahrensregelungen"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Beschränkung der Zustimmung",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 8 Verfahrensregelungen"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Reichweite der Zustimmung",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 8 Verfahrensregelungen"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Erteilung der Zustimmung",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 8 Verfahrensregelungen"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Härtefallregelung",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 9 Anwerbung und Arbeitsvermittlung aus dem Ausland"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Anwerbung und Vermittlung",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 9 Anwerbung und Arbeitsvermittlung aus dem Ausland"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 9 Anwerbung und Arbeitsvermittlung aus dem Ausland"
+      ],
+      "file": "annexes/0000.md",
+      "heading": "(zu § 32) (weggefallen)",
+      "number": "Anlage",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 9 Anwerbung und Arbeitsvermittlung aus dem Ausland"
+      ],
+      "file": "annexes/0000__1.md",
+      "heading": "(zu § 38)",
+      "number": "Anlage",
+      "type": "annex"
+    }
+  ]
+}

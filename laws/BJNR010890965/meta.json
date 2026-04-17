@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-09-06",
+  "bjnr": "BJNR010890965",
+  "eli": null,
+  "gii_slug": "aktg",
+  "ingested_at": "2026-04-17T15:16:54Z",
+  "jurabk": "AktG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2697401c5b4caf4f6a0fe1e19b97756300ad6137bbe34f7f8c16b07b257c6b60"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aktg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aktg/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 23 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Aktiengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-09-15",
+  "bjnr": "BJNR145120002",
+  "eli": null,
+  "gii_slug": "wpostvvfo_1999",
+  "ingested_at": "2026-04-17T15:30:45Z",
+  "jurabk": "WPostVVfO 1999",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "addfba3ecfbe08b3cf83c00c9ab289b0389a20ad337f58465e808ac6bcb0b6a2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpostvvfo_1999/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpostvvfo_1999/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Allgemeine Verfahrensordnung des Weltpostvereins",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

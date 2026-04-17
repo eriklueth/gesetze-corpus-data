@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-04-12",
+  "bjnr": "BJNR204730976",
+  "eli": null,
+  "gii_slug": "staatenl_bkg",
+  "ingested_at": "2026-04-17T15:28:46Z",
+  "jurabk": "StaatenlÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3b641bb5cb67fda37b07250ff98e39ba63b5f58cf2075fdba3aa0f425be4efc3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/staatenl_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/staatenl_bkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Übereinkommen vom 28. September 1954 über die Rechtsstellung der Staatenlosen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

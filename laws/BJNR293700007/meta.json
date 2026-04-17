@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-12-11",
+  "bjnr": "BJNR293700007",
+  "eli": null,
+  "gii_slug": "wei_zuckerbhv",
+  "ingested_at": "2026-04-17T15:30:27Z",
+  "jurabk": "WeißzuckerBhV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2308a240d35ec1ef7f83d216477aaa6973f5667c03ce60b82cc3456e60de3300"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wei_zuckerbhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wei_zuckerbhv/xml.zip"
+  },
+  "stand_datum": "2011-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 97 G v. 22.12.2011 I 3044",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von Weißzucker",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

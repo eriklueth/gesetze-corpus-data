@@ -1,0 +1,26 @@
+{
+  "amtabk": "THWG",
+  "ausfertigung_datum": "1990-01-22",
+  "bjnr": "BJNR001180990",
+  "eli": null,
+  "gii_slug": "thw-helfrg",
+  "ingested_at": "2026-04-17T15:29:26Z",
+  "jurabk": "THW-HelfRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "03d48e891a614defe2d7ffe512cab759547319f2e4faeb5f9fa6475097dc0fd8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/thw-helfrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/thw-helfrg/xml.zip"
+  },
+  "stand_datum": "2021-03-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 8 G v. 30.3.2021 I 402",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über das Technische Hilfswerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "WDErstattV",
+  "ausfertigung_datum": "2005-06-09",
+  "bjnr": "BJNR162100005",
+  "eli": null,
+  "gii_slug": "wderstattv",
+  "ingested_at": "2026-04-17T15:30:26Z",
+  "jurabk": "WDErstattV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "269786d99462b5ce84bc060ab8fd3ec962b685806a48c7f9f9f3e074d1980007"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wderstattv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wderstattv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Erstattung von notwendigen Auslagen, Verdienstausfall und Vertretungskosten der Wehrpflichtigen und Dienstleistungspflichtigen im Rahmen der Wehrüberwachung und Dienstleistungsüberwachung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

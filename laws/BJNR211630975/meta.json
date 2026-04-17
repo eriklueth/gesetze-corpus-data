@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-01-31",
+  "bjnr": "BJNR211630975",
+  "eli": null,
+  "gii_slug": "euauslf_bkergvtr_aut",
+  "ingested_at": "2026-04-17T15:20:52Z",
+  "jurabk": "EuAuslfÜbkErgVtr AUT",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9dfc538eae9f69693b47ef2e12be7ae0f502945d42df3b74cbbfae393a1ccc9e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euauslf_bkergvtr_aut/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euauslf_bkergvtr_aut/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über die Ergänzung des Europäischen Auslieferungsübereinkommens vom 13. Dezember 1957 und die Erleichterung seiner Anwendung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

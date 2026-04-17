@@ -1,0 +1,26 @@
+{
+  "amtabk": "PatKostZV",
+  "ausfertigung_datum": "2003-10-15",
+  "bjnr": "BJNR208300003",
+  "eli": null,
+  "gii_slug": "patkostzv_2004",
+  "ingested_at": "2026-04-17T15:26:31Z",
+  "jurabk": "PatKostZV 2004",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cbea5c612c196b733c206d2309c58a39b840efc9c3b8585cad8ea973ddde8193"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/patkostzv_2004/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/patkostzv_2004/xml.zip"
+  },
+  "stand_datum": "2022-02-07",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 7.2.2022 I 171",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Zahlung der Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

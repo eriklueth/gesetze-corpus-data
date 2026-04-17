@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-03-02",
+  "bjnr": "BJNR005470974",
+  "eli": null,
+  "gii_slug": "verpflg",
+  "ingested_at": "2026-04-17T15:30:07Z",
+  "jurabk": "VerpflG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "60cd7ffb9eb95348c185ca14a9e6bf1a0ba2a675526edfadd1cabb3c7a609b2f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verpflg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verpflg/xml.zip"
+  },
+  "stand_datum": "1974-08-15",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 1 Nr. 4 G v. 15.8.1974 I 1942",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die förmliche Verpflichtung nichtbeamteter Personen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

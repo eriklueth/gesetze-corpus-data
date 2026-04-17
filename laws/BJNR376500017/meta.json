@@ -1,0 +1,26 @@
+{
+  "amtabk": "SVLFG-AltRückV",
+  "ausfertigung_datum": "2017-11-06",
+  "bjnr": "BJNR376500017",
+  "eli": null,
+  "gii_slug": "svlfg-altr_ckv",
+  "ingested_at": "2026-04-17T15:29:11Z",
+  "jurabk": "SVLFG-AltRückV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b8b93c5ba4ea8c56945d20a5f04edaf460e4d532046672f1ad364b4456b468cc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svlfg-altr_ckv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svlfg-altr_ckv/xml.zip"
+  },
+  "stand_datum": "2019-12-12",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 57 Abs. 35 G v. 12.12.2019 I 2652",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung zur Bildung von Altersrückstellungen durch die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

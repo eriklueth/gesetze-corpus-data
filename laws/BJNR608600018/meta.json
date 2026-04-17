@@ -1,0 +1,26 @@
+{
+  "amtabk": "GVV",
+  "ausfertigung_datum": "2018-03-20",
+  "bjnr": "BJNR608600018",
+  "eli": null,
+  "gii_slug": "gvv",
+  "ingested_at": "2026-04-17T15:22:33Z",
+  "jurabk": "GVV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9f2b0957090732491e36f87486f87749226fff23c554894c92cb67ddb5a72061"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gvv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gvv/xml.zip"
+  },
+  "stand_datum": "2025-10-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 20.10.2025 I Nr. 244",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Vorgaben für das EETS-Gebiet Bundesfernstraßenmautgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

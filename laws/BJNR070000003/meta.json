@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-05-09",
+  "bjnr": "BJNR070000003",
+  "eli": null,
+  "gii_slug": "naturwmechausbv_2003",
+  "ingested_at": "2026-04-17T15:26:04Z",
+  "jurabk": "NaturwMechAusbV 2003",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d8c9520ea3b0b7bb00da81217fab350c60860db6f9f18a2ea9d0cf4bc1025f33"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/naturwmechausbv_2003/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/naturwmechausbv_2003/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Naturwerksteinmechaniker/zur Naturwerksteinmechanikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "NotVPV",
+  "ausfertigung_datum": "2019-03-04",
+  "bjnr": "BJNR018700019",
+  "eli": null,
+  "gii_slug": "notvpv",
+  "ingested_at": "2026-04-17T15:26:05Z",
+  "jurabk": "NotVPV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9968f0ceac064a9066fe1904e0dfa7dcefc1608f2d9177dd254f5b97a1273de7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/notvpv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/notvpv/xml.zip"
+  },
+  "stand_datum": "2021-12-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 V v. 17.12.2021 I 5219",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Notarverzeichnis und die besonderen elektronischen Notarpostfächer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

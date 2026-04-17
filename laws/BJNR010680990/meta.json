@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-06-12",
+  "bjnr": "BJNR010680990",
+  "eli": null,
+  "gii_slug": "avorbaschrbek",
+  "ingested_at": "2026-04-17T15:17:29Z",
+  "jurabk": "AVorbASchrBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f881ff5e0b83a5e37651ce4370dcc0c09f5df2e09ffe71056466eacce21d7605"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/avorbaschrbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/avorbaschrbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung des Schreibens der Drei Mächte vom 8. Juni 1990 zur Aufhebung ihrer Vorbehalte insbesondere in dem Genehmigungsschreiben zum Grundgesetz vom 12. Mai 1949 in bezug auf die Direktwahl der Berliner Vertreter zum Bundestag und ihr volles Stimmrecht im Bundestag und im Bundesrat",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

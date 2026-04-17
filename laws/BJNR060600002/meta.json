@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-02-08",
+  "bjnr": "BJNR060600002",
+  "eli": null,
+  "gii_slug": "maskausbv",
+  "ingested_at": "2026-04-17T15:24:47Z",
+  "jurabk": "MaskAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6530a2d3768e51bb047a6f063c96d2ffff3aa0296f1ae6221739b736d2fc713b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/maskausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/maskausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Maskenbildner/zur Maskenbildnerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

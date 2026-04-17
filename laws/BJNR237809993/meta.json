@@ -1,0 +1,26 @@
+{
+  "amtabk": "ENeuOG",
+  "ausfertigung_datum": "1993-12-27",
+  "bjnr": "BJNR237809993",
+  "eli": null,
+  "gii_slug": "eneuog",
+  "ingested_at": "2026-04-17T15:20:40Z",
+  "jurabk": "ENeuOG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3f73488c730b19632c3def8ba057b8ce4114553c8b5105b2835291ad5891bef5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eneuog/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eneuog/xml.zip"
+  },
+  "stand_datum": "2016-07-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 107 G v. 8.7.2016 I 1594",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Neuordnung des Eisenbahnwesens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

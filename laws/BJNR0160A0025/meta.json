@@ -1,0 +1,26 @@
+{
+  "amtabk": "10. GebäudeArbbV",
+  "ausfertigung_datum": "2025-01-23",
+  "bjnr": "BJNR0160A0025",
+  "eli": null,
+  "gii_slug": "geb_udearbbv_10",
+  "ingested_at": "2026-04-17T15:16:28Z",
+  "jurabk": "GebäudeArbbV 10",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f65fd1522848f5d7ec1ae26adb2588bde230096d6dab21c16ce67cdc9f9ca622"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/geb_udearbbv_10/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/geb_udearbbv_10/xml.zip"
+  },
+  "stand_datum": "2027-01-01",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 2 am 1.1.2027 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Zehnte Verordnung über zwingende Arbeitsbedingungen in der Gebäudereinigung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

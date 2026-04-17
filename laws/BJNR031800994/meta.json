@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-02-21",
+  "bjnr": "BJNR031800994",
+  "eli": null,
+  "gii_slug": "rindflsoerstv_1994",
+  "ingested_at": "2026-04-17T15:27:24Z",
+  "jurabk": "RindFlSoErstV 1994",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f31ac87bfd2cf627df751c7fc4c85fcdb7156eb462746191ea1e2392520633ae"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rindflsoerstv_1994/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rindflsoerstv_1994/xml.zip"
+  },
+  "stand_datum": "2011-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 96 G v. 22.12.2011 I 3044",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Verfahren für die Gewährung von Sondererstattungen bei der Ausfuhr von Rindfleisch nach Drittländern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

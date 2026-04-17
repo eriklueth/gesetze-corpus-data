@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-08-18",
+  "bjnr": "BJNR214890969",
+  "eli": null,
+  "gii_slug": "adrg",
+  "ingested_at": "2026-04-17T15:16:45Z",
+  "jurabk": "ADRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "de3d9819d93381efc4a91e81dd879f8804bb325d76ee1de5e21fd4b8e8e6e5b3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/adrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/adrg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 486 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Straße (ADR)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

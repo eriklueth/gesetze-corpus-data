@@ -1,0 +1,21 @@
+{
+  "amtabk": "ABAG",
+  "ausfertigung_datum": "2001-12-19",
+  "bjnr": "BJNR377309001",
+  "eli": null,
+  "gii_slug": "abag",
+  "ingested_at": "2026-04-17T15:16:43Z",
+  "jurabk": "ABAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d3a1c41d6af2e9604ebf11c6bd69386ad2b110b12c42343fcc641dfe2b269691"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/abag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/abag/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Ablösung des Arznei- und Heilmittelbudgets",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

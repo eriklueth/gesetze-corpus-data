@@ -1,0 +1,30 @@
+{
+  "amtabk": "SchHaltHygV",
+  "ausfertigung_datum": "1999-06-07",
+  "bjnr": "BJNR125200999",
+  "eli": null,
+  "gii_slug": "schhalthygv",
+  "ingested_at": "2026-04-17T15:27:43Z",
+  "jurabk": "SchHaltHygV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "64c3c54fb43335e25f63c08585166b2e5bed44b69bb552bcbe1d2d61b739a227"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schhalthygv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schhalthygv/xml.zip"
+  },
+  "stand_datum": "2014-04-02",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 2.4.2014 I 326;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 134 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über hygienische Anforderungen beim Halten von Schweinen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

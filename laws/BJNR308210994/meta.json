@@ -1,0 +1,30 @@
+{
+  "amtabk": "MarkenG",
+  "ausfertigung_datum": "1994-10-25",
+  "bjnr": "BJNR308210994",
+  "eli": null,
+  "gii_slug": "markeng",
+  "ingested_at": "2026-04-17T15:24:40Z",
+  "jurabk": "MarkenG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4370bb09b5c9118479f7915f2a86d539236ccee69b97d71e07e20901281f643f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/markeng/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/markeng/xml.zip"
+  },
+  "stand_datum": "2026-01-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 11.1.2026 I Nr. 9",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über den Schutz von Marken und sonstigen Kennzeichen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

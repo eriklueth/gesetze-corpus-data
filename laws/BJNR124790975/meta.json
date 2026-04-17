@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-08-20",
+  "bjnr": "BJNR124790975",
+  "eli": null,
+  "gii_slug": "bbahnernano_1975",
+  "ingested_at": "2026-04-17T15:17:43Z",
+  "jurabk": "BBahnErnAnO 1975",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "75170a1b79e2c70c78f4298a6c597d8183079f1a2e01642d3708cc542fdf92eb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbahnernano_1975/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbahnernano_1975/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Ernennung und Entlassung der Beamten der Deutschen Bundesbahn",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

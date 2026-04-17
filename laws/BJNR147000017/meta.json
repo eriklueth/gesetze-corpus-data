@@ -1,0 +1,21 @@
+{
+  "amtabk": "BVAÜWidVertrAnO",
+  "ausfertigung_datum": "2017-05-31",
+  "bjnr": "BJNR147000017",
+  "eli": null,
+  "gii_slug": "bva_widvertrano",
+  "ingested_at": "2026-04-17T15:19:29Z",
+  "jurabk": "BVAÜWidVertrAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ab235644aa08a4628a3c3e9ced197747e11cebf66bf2d7b99b40dc173d8c30e6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bva_widvertrano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bva_widvertrano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen von Beschäftigten des Bundesverwaltungsgerichts und Bundespatentgerichts in Angelegenheiten der Besoldung, des Umzugskosten- und Trennungsgeldrechts sowie von Beschäftigten des Bundesfinanzhofs in Angelegenheiten des Umzugskostenrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

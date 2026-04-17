@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1950-09-14",
+  "bjnr": "BJNR006940950",
+  "eli": null,
+  "gii_slug": "m_nz50pfbek_1950",
+  "ingested_at": "2026-04-17T15:25:41Z",
+  "jurabk": "Münz50PfBek 1950",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e52eaee850881fcdf7017467cca5d37c8917b55cca0149841f60993adbaf0ea2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz50pfbek_1950/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz50pfbek_1950/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausgabe von Bundesmünzen im Nennwert von 50 Deutschen Pfennig",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

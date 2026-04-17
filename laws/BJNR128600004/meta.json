@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-06-23",
+  "bjnr": "BJNR128600004",
+  "eli": null,
+  "gii_slug": "bpr_sernano_2004",
+  "ingested_at": "2026-04-17T15:19:00Z",
+  "jurabk": "BPräsErnAnO 2004",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "30cf9480764c00a2030594a8db2b50da13ae08bb31c1cfd8d24b574fe037e265"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_sernano_2004/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_sernano_2004/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Ernennung und Entlassung der Beamtinnen, Beamten, Richterinnen und Richter des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

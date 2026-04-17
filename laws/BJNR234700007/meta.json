@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-10-05",
+  "bjnr": "BJNR234700007",
+  "eli": null,
+  "gii_slug": "bmvbsbnichtrschgzustv",
+  "ingested_at": "2026-04-17T15:18:46Z",
+  "jurabk": "BMVBSBNichtrSchGZustV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c564d3b279bf4ffe247419e47806d8b51a264a6a88f7ab01f76dce4716bc5668"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmvbsbnichtrschgzustv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmvbsbnichtrschgzustv/xml.zip"
+  },
+  "stand_datum": "2023-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 2.3.2023 I Nr. 56",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesnichtraucherschutzgesetz im Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

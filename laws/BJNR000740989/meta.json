@@ -1,0 +1,21 @@
+{
+  "amtabk": "2. WoZErhV",
+  "ausfertigung_datum": "1989-01-12",
+  "bjnr": "BJNR000740989",
+  "eli": null,
+  "gii_slug": "wozerhv_2",
+  "ingested_at": "2026-04-17T15:16:33Z",
+  "jurabk": "WoZErhV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7fda5ff8616376391e63d3d01e59cf83994d11c3d31b8f5b7647846cb10a47e5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wozerhv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wozerhv_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweite Verordnung über die Erhöhung der Zinsen für Darlehen aus Wohnungsfürsorgemitteln des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

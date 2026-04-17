@@ -1,0 +1,30 @@
+{
+  "amtabk": "LiqV",
+  "ausfertigung_datum": "2006-12-14",
+  "bjnr": "BJNR311700006",
+  "eli": null,
+  "gii_slug": "liqv",
+  "ingested_at": "2026-04-17T15:24:06Z",
+  "jurabk": "LiqV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0148b2503f14471f6c144d13624eb8b1d53ea8b18e6f81b54f8b8324f2a338ab"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/liqv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/liqv/xml.zip"
+  },
+  "stand_datum": "2021-05-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 Abs. 41 G v. 12.5.2021 I 990",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 26 Abs. 4 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über die Liquidität der Institute",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

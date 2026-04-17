@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-12-21",
+  "bjnr": "BJNR362600005",
+  "eli": null,
+  "gii_slug": "beitrlv_2006",
+  "ingested_at": "2026-04-17T15:18:05Z",
+  "jurabk": "BeitrLV 2006",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7bb7b84408be7194fe4f26e3793b8762d2a3207e8fb14c8a8da1351d3412c2c4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/beitrlv_2006/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/beitrlv_2006/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Bestimmung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für 2006",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

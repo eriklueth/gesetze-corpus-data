@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1960-06-17",
+  "bjnr": "BJNR204660965",
+  "eli": null,
+  "gii_slug": "schsichvtr_1960",
+  "ingested_at": "2026-04-17T15:27:50Z",
+  "jurabk": "SchSichVtr 1960",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "20fe77e6ce6609c06940d30fa90c1080b174c04f8716efb1201ccafbd6c1194d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schsichvtr_1960/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schsichvtr_1960/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationaler Schiffsicherheitsvertrag von 1960",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

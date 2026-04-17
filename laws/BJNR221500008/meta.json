@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-11-13",
+  "bjnr": "BJNR221500008",
+  "eli": null,
+  "gii_slug": "t_tov",
+  "ingested_at": "2026-04-17T15:29:24Z",
+  "jurabk": "TätoV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0c398b35c312d3a4f9cdf5003c164385e4a4a173da54e48ec3d8378875cecfc0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/t_tov/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/t_tov/xml.zip"
+  },
+  "stand_datum": "2016-01-26",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 26.1.2016 I 108",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Mittel zum Tätowieren einschließlich bestimmter vergleichbarer Stoffe und Zubereitungen aus Stoffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

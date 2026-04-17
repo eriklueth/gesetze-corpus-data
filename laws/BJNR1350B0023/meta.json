@@ -1,0 +1,21 @@
+{
+  "amtabk": "EnEfG",
+  "ausfertigung_datum": "2023-11-13",
+  "bjnr": "BJNR1350B0023",
+  "eli": null,
+  "gii_slug": "enefg",
+  "ingested_at": "2026-04-17T15:20:39Z",
+  "jurabk": "EnEfG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "490d3fc4cf2a66142caafdeb799bea38810f843ec166bf03295db49c8f31c53f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/enefg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/enefg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Steigerung der Energieeffizienz in Deutschland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

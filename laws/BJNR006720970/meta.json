@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1970-05-15",
+  "bjnr": "BJNR006720970",
+  "eli": null,
+  "gii_slug": "bpr_skldgbwschano",
+  "ingested_at": "2026-04-17T15:19:01Z",
+  "jurabk": "BPräsKldgBWSchAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b0d41948bb88bdd1643a35cba84fb0cb586626c2ebe7a89694ec4974710d8274"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_skldgbwschano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_skldgbwschano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der beamteten Besatzungsangehörigen auf Hilfsschiffen der Bundeswehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

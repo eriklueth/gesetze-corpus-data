@@ -1,0 +1,26 @@
+{
+  "amtabk": "ProMechG",
+  "ausfertigung_datum": "2005-09-22",
+  "bjnr": "BJNR282610005",
+  "eli": null,
+  "gii_slug": "promechg",
+  "ingested_at": "2026-04-17T15:27:00Z",
+  "jurabk": "ProMechG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "311e42968b4301406ea95d7f336e7023981d7bdb968c602df29f18cc505c28bb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/promechg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/promechg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 131 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über projektbezogene Mechanismen nach dem Protokoll von Kyoto zum Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen vom 11. Dezember 1997",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

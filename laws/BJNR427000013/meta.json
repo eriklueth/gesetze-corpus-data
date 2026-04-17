@@ -1,0 +1,30 @@
+{
+  "amtabk": "InstitutsVergV",
+  "ausfertigung_datum": "2013-12-16",
+  "bjnr": "BJNR427000013",
+  "eli": null,
+  "gii_slug": "institutsvergv_2014",
+  "ingested_at": "2026-04-17T15:23:00Z",
+  "jurabk": "InstitutsVergV 2014",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3eb620aa452a66c6f0220961280dc6e5712ada66add4e48ab864b3743e864029"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/institutsvergv_2014/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/institutsvergv_2014/xml.zip"
+  },
+  "stand_datum": "2026-03-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 25.3.2026 I Nr. 81",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7610-2-38 v. 6.10.2010 I 1374",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme von Instituten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

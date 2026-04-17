@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-06-12",
+  "bjnr": "BJNR127400020",
+  "eli": null,
+  "gii_slug": "rviobeschzg",
+  "ingested_at": "2026-04-17T15:27:35Z",
+  "jurabk": "RVIOBeschZG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4d060bf27f7ab62e11ac37b8326bcc361e17d75a86605e06b947da66ae5f75ae"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rviobeschzg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rviobeschzg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Berücksichtigung von Beschäftigungszeiten bei internationalen Organisationen in der Rentenversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

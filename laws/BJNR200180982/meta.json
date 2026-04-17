@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-11-02",
+  "bjnr": "BJNR200180982",
+  "eli": null,
+  "gii_slug": "intmeersch_bk1973prot_1",
+  "ingested_at": "2026-04-17T15:23:04Z",
+  "jurabk": "IntMeerSchÜbk1973Prot 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "81faf90caa816bba050da4a5a674e1c0d0495f4b5479eca6a3ff91c7e5d7e8de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intmeersch_bk1973prot_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intmeersch_bk1973prot_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll I (zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe) Bestimmungen über Meldungen von Ereignissen in Verbindung mit Schadstoffen (nach Artikel 8 des Übereinkommens)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

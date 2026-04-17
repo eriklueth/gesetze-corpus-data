@@ -1,0 +1,30 @@
+{
+  "amtabk": "HZAZustV",
+  "ausfertigung_datum": "2022-11-22",
+  "bjnr": "BJNR211800022",
+  "eli": null,
+  "gii_slug": "hzazustv_2023",
+  "ingested_at": "2026-04-17T15:22:49Z",
+  "jurabk": "HZAZustV 2023",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b24e9561ce5e58bf5d4435ee5e1f5aed919f465a461cecd896b2ace8e5d98468"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hzazustv_2023/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hzazustv_2023/xml.zip"
+  },
+  "stand_datum": "2025-12-01",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 1.12.2025 I Nr. 300",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 600-1-3-20 v. 14.2.2022 I 175 (HZAZustV 2022)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Übertragung von Zuständigkeiten auf Hauptzollämter für den Bereich mehrerer Hauptzollämter",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

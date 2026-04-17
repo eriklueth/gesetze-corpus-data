@@ -1,0 +1,26 @@
+{
+  "amtabk": "HkNRG",
+  "ausfertigung_datum": "2023-01-04",
+  "bjnr": "BJNR0090B0023",
+  "eli": null,
+  "gii_slug": "hknrg",
+  "ingested_at": "2026-04-17T15:22:41Z",
+  "jurabk": "HkNRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8a55da12940a0e5de9bd49e5eb1be8b5585107cf7add89e92027dc8dd5167ac4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hknrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hknrg/xml.zip"
+  },
+  "stand_datum": "2024-02-05",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 G v. 5.2.2024 I Nr. 32",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Gesetz zur Ausstellung, Übertragung und Entwertung von Herkunftsnachweisen sowie zur Schaffung von Herkunftsnachweisregistern für Gas, Wärme oder Kälte aus erneuerbaren Energien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

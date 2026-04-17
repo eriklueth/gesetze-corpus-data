@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-07-09",
+  "bjnr": "BJNR133820998",
+  "eli": null,
+  "gii_slug": "pfptrstatg",
+  "ingested_at": "2026-04-17T15:26:46Z",
+  "jurabk": "PfPTrStatG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "31343126d16568f2ebacc91eb9d82998ea4dd73776bad69d255a25fe9e27d34a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pfptrstatg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pfptrstatg/xml.zip"
+  },
+  "stand_datum": "2002-09-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 4 G v. 19.9.2002 II 2482",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Übereinkommen vom 19. Juni 1995 zwischen den Vertragsstaaten des Nordatlantikvertrags und den anderen an der Partnerschaft für den Frieden teilnehmenden Staaten über die Rechtsstellung ihrer Truppen sowie dem Zusatzprotokoll",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

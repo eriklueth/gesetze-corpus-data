@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1991-04-26",
+  "bjnr": "BJNR911790991",
+  "eli": null,
+  "gii_slug": "bkorgerl_1991-04",
+  "ingested_at": "2026-04-17T15:18:29Z",
+  "jurabk": "BKOrgErl 1991-04",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bdc1215ff615fab83f572d5b6f028d104a88f0455a66a918216420857e3a3500"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bkorgerl_1991-04/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bkorgerl_1991-04/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Organisationserlaß des Bundeskanzlers",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

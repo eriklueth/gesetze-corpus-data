@@ -1,0 +1,26 @@
+{
+  "amtabk": "AABGebV",
+  "ausfertigung_datum": "2021-08-23",
+  "bjnr": "BJNR392000021",
+  "eli": null,
+  "gii_slug": "aabgebv",
+  "ingested_at": "2026-04-17T15:16:42Z",
+  "jurabk": "AABGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "611ba70362d5c5db40cfc92b5102628542005889cbd69f09bcb05c27acebc421"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aabgebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aabgebv/xml.zip"
+  },
+  "stand_datum": "2025-06-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 4.6.2025 I Nr. 140",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Besondere Gebührenverordnung des Auswärtigen Amts für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

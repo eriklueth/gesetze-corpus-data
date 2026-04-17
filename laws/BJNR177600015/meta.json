@@ -1,0 +1,30 @@
+{
+  "amtabk": "ElektroGBattDGGebV",
+  "ausfertigung_datum": "2015-10-20",
+  "bjnr": "BJNR177600015",
+  "eli": null,
+  "gii_slug": "elektroggebv",
+  "ingested_at": "2026-04-17T15:20:37Z",
+  "jurabk": "ElektroGGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5c9d14d842e11a4b61161477a54b06878c4b2ab776d6694dae2c36277fca7b84"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/elektroggebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/elektroggebv/xml.zip"
+  },
+  "stand_datum": "2025-09-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 Abs. 5 G v. 30.9.2025 I Nr. 233",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2129-43-1 v. 6.7.2005 I 2020 (ElektroGKostV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gebührenverordnung zum Elektro- und Elektronikgerätegesetz und zum Batterierecht-Durchführungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

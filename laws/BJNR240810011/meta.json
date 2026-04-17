@@ -1,0 +1,26 @@
+{
+  "amtabk": "BPolLV",
+  "ausfertigung_datum": "2011-12-02",
+  "bjnr": "BJNR240810011",
+  "eli": null,
+  "gii_slug": "bpollv_2011",
+  "ingested_at": "2026-04-17T15:18:53Z",
+  "jurabk": "BPolLV 2011",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "331e81c0a33610dd19f082868945ba6459325f54877a972799f0ebf3951be4f7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpollv_2011/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpollv_2011/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 5 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Laufbahnen des Polizeivollzugsdienstes in der Bundespolizei",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

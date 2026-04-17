@@ -1,0 +1,21 @@
+{
+  "amtabk": "RWBestV 2011",
+  "ausfertigung_datum": "2011-06-06",
+  "bjnr": "BJNR103900011",
+  "eli": null,
+  "gii_slug": "rwbestv_2011",
+  "ingested_at": "2026-04-17T15:27:33Z",
+  "jurabk": "RWBestV 2011",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a1b170583187354993710d7b0a7f727b8b7b50ad0805cb654c6a1c73bfcae3b8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rwbestv_2011/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rwbestv_2011/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2011",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

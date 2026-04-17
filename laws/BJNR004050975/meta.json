@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-01-22",
+  "bjnr": "BJNR004050975",
+  "eli": null,
+  "gii_slug": "m_nz5dmbek_1975-01-22",
+  "ingested_at": "2026-04-17T15:25:44Z",
+  "jurabk": "Münz5DMBek 1975-01-22",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f87139734ce1f6e6cdff75406e4de2745deb5d478756554f0cdd34e4d577cf64"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz5dmbek_1975-01-22/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz5dmbek_1975-01-22/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Friedrich-Ebert-Gedenkmünze)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

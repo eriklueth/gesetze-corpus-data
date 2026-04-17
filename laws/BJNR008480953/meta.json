@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1953-08-07",
+  "bjnr": "BJNR008480953",
+  "eli": null,
+  "gii_slug": "svfag",
+  "ingested_at": "2026-04-17T15:29:11Z",
+  "jurabk": "SVFAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3453066ab849609ffd586b4c46c2af0f1ce2d2a0f3f3ea180f464cede5c7e1c4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svfag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svfag/xml.zip"
+  },
+  "stand_datum": "2003-12-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 61 Abs. 3 Nr. 1 G v. 24.12.2003 I 2954",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Fremdrenten der Sozialversicherung an Berechtigte im Bundesgebiet und im Land Berlin, über Leistungen der Sozialversicherung an Berechtigte im Ausland sowie über freiwillige Sozialversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

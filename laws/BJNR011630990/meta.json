@@ -1,0 +1,26 @@
+{
+  "amtabk": "KJHG",
+  "ausfertigung_datum": "1990-06-26",
+  "bjnr": "BJNR011630990",
+  "eli": null,
+  "gii_slug": "kjhg",
+  "ingested_at": "2026-04-17T15:23:37Z",
+  "jurabk": "KJHG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bf9edd904453f1b8706562e1ac8caf1ff634d17342b6e1defc13cd9050476906"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kjhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kjhg/xml.zip"
+  },
+  "stand_datum": "1995-12-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 Satz 2 G v. 15.12.1995 I 1775",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Neuordnung des Kinder- und Jugendhilferechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,41 @@
+{
+  "bjnr": "BJNR085600010",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0002.md",
+      "heading": "Berechnung",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0003.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0004.md",
+      "heading": "Übergangsregelung",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "annexes/0000.md",
+      "heading": "(zu § 2 Absatz 1)",
+      "number": "Anlage",
+      "type": "annex"
+    }
+  ]
+}

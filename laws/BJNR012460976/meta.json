@@ -1,0 +1,26 @@
+{
+  "amtabk": "ErgThG",
+  "ausfertigung_datum": "1976-05-25",
+  "bjnr": "BJNR012460976",
+  "eli": null,
+  "gii_slug": "bearbthg",
+  "ingested_at": "2026-04-17T15:20:47Z",
+  "jurabk": "BeArbThG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9083778cc5fe5eeb4211457ff6990caa8794de534cb18d3b1530bbdc9984e407"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bearbthg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bearbthg/xml.zip"
+  },
+  "stand_datum": "2023-12-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8z2 G v. 12.12.2023 I Nr. 359",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Beruf der Ergotherapeutin und des Ergotherapeuten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

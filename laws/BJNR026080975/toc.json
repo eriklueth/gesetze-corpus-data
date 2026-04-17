@@ -1,0 +1,41 @@
+{
+  "bjnr": "BJNR026080975",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0001.md",
+      "heading": "",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0002.md",
+      "heading": "",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "paragraphs/0003.md",
+      "heading": "",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [],
+      "file": "annexes/0001.md",
+      "heading": "",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [],
+      "file": "annexes/0002.md",
+      "heading": "Übersicht zu § 1 Abs. 2",
+      "number": "Anlage 2",
+      "type": "annex"
+    }
+  ]
+}

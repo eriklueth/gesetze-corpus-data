@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1982-04-14",
+  "bjnr": "BJNR204200982",
+  "eli": null,
+  "gii_slug": "antarktmeersch_bkg",
+  "ingested_at": "2026-04-17T15:17:01Z",
+  "jurabk": "AntarktMeerSchÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1a3c06e30e15bacbe6f557bd0f1c986b7257332fd7de8b0e8fb0e2493f5f54c9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/antarktmeersch_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/antarktmeersch_bkg/xml.zip"
+  },
+  "stand_datum": "2006-10-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 183 V v. 31.10.2006 I 2407",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Übereinkommen vom 20. Mai 1980 über die Erhaltung der lebenden Meeresschätze der Antarktis",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,34 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-12-13",
+  "bjnr": "BJNR034730974",
+  "eli": null,
+  "gii_slug": "verstromg_3",
+  "ingested_at": "2026-04-17T15:30:10Z",
+  "jurabk": "VerstromG 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f6722aea675857cf99ce0094a2715c0782b89bace18a84829848aa02e59cc165"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verstromg_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verstromg_3/xml.zip"
+  },
+  "stand_datum": "1990-04-19",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 19.4.1990 I 917;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 322 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Das G in der Fassung der Bekanntmachung v. 17.11.1980 I 2137 ist - mit Ausnahme der §§ 12, 13 Abs. 1 Nr. 5, Abs. 2 bis 4, 6 bis 9, § 15 und § 17 - mit dem Grundgesetz unvereinbar gem. BVerfGE v. 11.10.1994, 1995 I 93 - 2 BvR 633/86 - Soweit es mit dem Grundgesetz unvereinbar ist, ist es längstens bis zum 31. Dezember 1995 weiter anzuwenden.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über die weitere Sicherung des Einsatzes von Gemeinschaftskohle in der Elektrizitätswirtschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

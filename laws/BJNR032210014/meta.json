@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-01-30",
+  "bjnr": "BJNR032210014",
+  "eli": null,
+  "gii_slug": "kredwgusafreistv",
+  "ingested_at": "2026-04-17T15:23:51Z",
+  "jurabk": "KredWGUSAFreistV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d9b19d5f4c1d2ea69c2a0a674344ad949bd710a499b290aefc4b082f559a43f8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kredwgusafreistv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kredwgusafreistv/xml.zip"
+  },
+  "stand_datum": "2020-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 11 Abs. 1 G v. 9.12.2020 I 2773",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über die Freistellung der Zweigstellen von Kreditinstituten mit Sitz in den Vereinigten Staaten von Amerika von Vorschriften des Gesetzes über das Kreditwesen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,34 @@
+{
+  "amtabk": "HebStPrV",
+  "ausfertigung_datum": "2020-01-08",
+  "bjnr": "BJNR003900020",
+  "eli": null,
+  "gii_slug": "hebstprv",
+  "ingested_at": "2026-04-17T15:22:35Z",
+  "jurabk": "HebStPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a46f510c0b655c3e587d7268ed8b9a3d2d6de4187de20a0bf4ef24c130505a24"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hebstprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hebstprv/xml.zip"
+  },
+  "stand_datum": "2024-11-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 V v. 21.11.2024 I Nr. 360",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "§ 43 Abs. 4 tritt gem. § 60 Abs. 1 Satz 2 dieser V am 1.3.2020 in Kraft",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Ersetzt V 2124-1-10 v. 3.9.1981 I 923 (HebAPrO)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Studien- und Prüfungsverordnung für Hebammen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

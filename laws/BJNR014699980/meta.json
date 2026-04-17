@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-08-18",
+  "bjnr": "BJNR014699980",
+  "eli": null,
+  "gii_slug": "sgb_10_kap1_2",
+  "ingested_at": "2026-04-17T15:28:06Z",
+  "jurabk": "SGB 10/Kap1/2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3e4657ed1364e954742a1b8c22629c7e60ee7ef47423be65dfc662bd5a82e717"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgb_10_kap1_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgb_10_kap1_2/xml.zip"
+  },
+  "stand_datum": "2000-12-21",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 67 Nr. 3 G v. 21.12.2000 I 1983",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Sozialgesetzbuch - Verwaltungsverfahren -",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

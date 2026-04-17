@@ -1,0 +1,26 @@
+{
+  "amtabk": "BOKraft",
+  "ausfertigung_datum": "1975-06-21",
+  "bjnr": "BJNR015730975",
+  "eli": null,
+  "gii_slug": "bokraft_1975",
+  "ingested_at": "2026-04-17T15:18:51Z",
+  "jurabk": "BOKraft 1975",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "723a833669aae5ca711c0debb7778503483dca0b5a766b4450c2d958cbce1a9a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bokraft_1975/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bokraft_1975/xml.zip"
+  },
+  "stand_datum": "2021-04-16",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 16.4.2021 I 822",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Betrieb von Kraftfahrunternehmen im Personenverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

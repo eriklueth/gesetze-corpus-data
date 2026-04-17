@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1970-01-27",
+  "bjnr": "BJNR001440970",
+  "eli": null,
+  "gii_slug": "bpr_samtsbezano_1970-01",
+  "ingested_at": "2026-04-17T15:18:57Z",
+  "jurabk": "BPräsAmtsbezAnO 1970-01",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ddeedd8daeeb17f6c1293e4f599a412c88f2e8d67d7299c7b468e2dfc1a5b28b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_samtsbezano_1970-01/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_samtsbezano_1970-01/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

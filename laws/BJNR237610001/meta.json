@@ -1,0 +1,26 @@
+{
+  "amtabk": "WoFG",
+  "ausfertigung_datum": "2001-09-13",
+  "bjnr": "BJNR237610001",
+  "eli": null,
+  "gii_slug": "wofg",
+  "ingested_at": "2026-04-17T15:30:38Z",
+  "jurabk": "WoFG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "67600cd870b509af8cef3cfb2879e81c698934b343f3581062e7d74958bee70a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wofg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wofg/xml.zip"
+  },
+  "stand_datum": "2022-12-16",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 Abs. 15 G v. 16.12.2022 I 2328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die soziale Wohnraumförderung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

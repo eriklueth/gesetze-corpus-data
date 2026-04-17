@@ -1,0 +1,26 @@
+{
+  "amtabk": "FKüAusbV",
+  "ausfertigung_datum": "2022-03-09",
+  "bjnr": "BJNR038900022",
+  "eli": null,
+  "gii_slug": "fk_ausbv",
+  "ingested_at": "2026-04-17T15:21:29Z",
+  "jurabk": "FKüAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6b7df453d6ada058047b677b7adfa7410db41482ee6d9f9cacacdc944f9143b1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fk_ausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fk_ausbv/xml.zip"
+  },
+  "stand_datum": "2029-07-31",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 18 mit Ablauf des 31.7.2029 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zur Fachkraft Küche",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

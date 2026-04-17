@@ -1,0 +1,30 @@
+{
+  "amtabk": "HörAkMstrV",
+  "ausfertigung_datum": "2022-02-17",
+  "bjnr": "BJNR020700022",
+  "eli": null,
+  "gii_slug": "h_rakmstrv",
+  "ingested_at": "2026-04-17T15:22:43Z",
+  "jurabk": "HörAkMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cabbe3e4132fc8d66ac374692b505fd69cbed2f807f3f13d756c5482cca1a88d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/h_rakmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/h_rakmstrv/xml.zip"
+  },
+  "stand_datum": "2022-06-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 22.6.2022 I 984",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7110-3-110 v. 26.4.1994 I 895 (HörgAkMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Hörakustiker-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

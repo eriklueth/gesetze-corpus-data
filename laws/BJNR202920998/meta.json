@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-12-17",
+  "bjnr": "BJNR202920998",
+  "eli": null,
+  "gii_slug": "sozsichabkbgrdvvbg",
+  "ingested_at": "2026-04-17T15:28:31Z",
+  "jurabk": "SozSichAbkBGRDVVbg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "222edc9c152553ab14926d98eafd6e37aaa5cb59748c8786924cd8f3ac4947bf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkbgrdvvbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkbgrdvvbg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vereinbarung zur Durchführung des Abkommens vom 17.12.1997 zwischen der Bundesrepublik Deutschland und der Republik Bulgarien über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

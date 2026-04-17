@@ -1,0 +1,26 @@
+{
+  "amtabk": "GGV",
+  "ausfertigung_datum": "1994-07-15",
+  "bjnr": "BJNR160610994",
+  "eli": null,
+  "gii_slug": "ggv",
+  "ingested_at": "2026-04-17T15:22:13Z",
+  "jurabk": "GGV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c1176f1cce764a15448fd5e0acdacbaac93db78dd941bb8c4dbe240c9c7a51d5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ggv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ggv/xml.zip"
+  },
+  "stand_datum": "2009-08-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 Abs. 3 G v. 11.8.2009 I 2713",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Anlegung und Führung von Gebäudegrundbüchern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

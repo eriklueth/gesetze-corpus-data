@@ -1,0 +1,26 @@
+{
+  "amtabk": "PortalV",
+  "ausfertigung_datum": "2015-10-15",
+  "bjnr": "BJNR177400015",
+  "eli": null,
+  "gii_slug": "portalv",
+  "ingested_at": "2026-04-17T15:26:52Z",
+  "jurabk": "PortalV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3afba0ff8e2ee511fe2c84f3b6dd48b3472694d54ef25827049b3969e49f8fba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/portalv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/portalv/xml.zip"
+  },
+  "stand_datum": "2019-03-28",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 28.3.2019 I 410",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zu den Voraussetzungen und dem Verfahren der Zulassung von in nicht öffentlich-rechtlicher Form betriebenen Portalen zur Durchführung von einfachen Melderegisterauskünften über das Internet",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

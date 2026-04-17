@@ -1,0 +1,26 @@
+{
+  "amtabk": "SZAG",
+  "ausfertigung_datum": "2006-09-05",
+  "bjnr": "BJNR210400006",
+  "eli": null,
+  "gii_slug": "szag",
+  "ingested_at": "2026-04-17T15:29:15Z",
+  "jurabk": "SZAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a8e74e08ecef4870587a883835184fff4415fc6fcdeafac96a62bfd8ba435a9c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/szag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/szag/xml.zip"
+  },
+  "stand_datum": "2025-10-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 20.10.2025 I Nr. 247",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur innerstaatlichen Aufteilung von Sanktionszahlungen zur Sicherstellung der Haushaltsdisziplin in der Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

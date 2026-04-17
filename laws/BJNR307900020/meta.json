@@ -1,0 +1,26 @@
+{
+  "amtabk": "GepBetrWMAProBusManFV",
+  "ausfertigung_datum": "2020-12-18",
+  "bjnr": "BJNR307900020",
+  "eli": null,
+  "gii_slug": "gepbetrwmaprobusmanfv",
+  "ingested_at": "2026-04-17T15:22:07Z",
+  "jurabk": "GepBetrWMAProBusManFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "321098de453e21a28fe0332777423363178d48bb5cb503235400282323532787"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gepbetrwmaprobusmanfv/xml.zip"
+  },
+  "stand_datum": "2019-12-03",
+  "standangabe": [
+    {
+      "kommentar": "Ersetz V 806-22-6-62 v. 3.12.2019 I 2552 (GepBetrWFV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Betriebswirt nach dem Berufsbildungsgesetz und Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz-Master Professional in Business Management nach dem Berufsbildungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

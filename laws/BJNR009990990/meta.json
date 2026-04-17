@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-06-05",
+  "bjnr": "BJNR009990990",
+  "eli": null,
+  "gii_slug": "stvouavsausnv_3",
+  "ingested_at": "2026-04-17T15:29:04Z",
+  "jurabk": "StVOuaVsAusnV 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d9786e288208e71e4f23ad50bb85358e9a16bfebfea0b7c5f2e41fe68839d627"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvouavsausnv_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvouavsausnv_3/xml.zip"
+  },
+  "stand_datum": "1992-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 22.12.1992 I 2480",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Dritte Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

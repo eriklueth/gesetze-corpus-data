@@ -1,0 +1,26 @@
+{
+  "amtabk": "RAÜG",
+  "ausfertigung_datum": "1990-06-08",
+  "bjnr": "BJNR010140990",
+  "eli": null,
+  "gii_slug": "ra_g",
+  "ingested_at": "2026-04-17T15:27:06Z",
+  "jurabk": "RAÜG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6b2abd66e0b051521ce50a10d89606849dd674b2a2ab97ce9ad3c90730a09aab"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ra_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ra_g/xml.zip"
+  },
+  "stand_datum": "1998-08-22",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 22.8.1998 I 2510",
+      "typ": "Neuf"
+    }
+  ],
+  "title": "Gesetz zur Übertragung von Verwaltungsaufgaben auf dem Gebiet der Raumfahrt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

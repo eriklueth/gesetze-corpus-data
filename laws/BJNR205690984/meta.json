@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1984-06-29",
+  "bjnr": "BJNR205690984",
+  "eli": null,
+  "gii_slug": "wildtart_bkg",
+  "ingested_at": "2026-04-17T15:30:34Z",
+  "jurabk": "WildTArtÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "24ea8f20ded48e8635f6252dc38ad9a33859f9b8af667b5a93e524dcb4f3f372"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wildtart_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wildtart_bkg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 286 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Übereinkommen vom 23. Juni 1979 zur Erhaltung der wandernden wildlebenden Tierarten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "DRK-SDDSG",
+  "ausfertigung_datum": "2009-04-02",
+  "bjnr": "BJNR069000009",
+  "eli": null,
+  "gii_slug": "sddsg",
+  "ingested_at": "2026-04-17T15:20:04Z",
+  "jurabk": "SDDSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e230cc32bcd9a06ab329ca2123cfe2a60964b40a138f3ba2b82a7fb17a07d6dc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sddsg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sddsg/xml.zip"
+  },
+  "stand_datum": "2019-11-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 32 G v. 20.11.2019 I 1626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung des Datenschutzes für den Suchdienst des Deutschen Roten Kreuzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-12-15",
+  "bjnr": "BJNR396800994",
+  "eli": null,
+  "gii_slug": "chemg_28bek",
+  "ingested_at": "2026-04-17T15:19:37Z",
+  "jurabk": "ChemG§28Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5620e0799108bef90addfd02c2f0a707d36aa2394d4a5679d38c14e7aeb0f918"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/chemg_28bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/chemg_28bek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 28 des Chemikaliengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

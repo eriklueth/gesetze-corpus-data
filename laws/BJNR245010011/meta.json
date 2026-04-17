@@ -1,0 +1,26 @@
+{
+  "amtabk": "StipHV",
+  "ausfertigung_datum": "2011-11-29",
+  "bjnr": "BJNR245010011",
+  "eli": null,
+  "gii_slug": "stiphv",
+  "ingested_at": "2026-04-17T15:28:56Z",
+  "jurabk": "StipHV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ac8646d62b50d45213df6f01b5a4c1c8f27fb476863437826d3cb3f17f4f1ed9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stiphv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stiphv/xml.zip"
+  },
+  "stand_datum": "2015-06-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 29.6.2015 I 1167",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Erreichung der Höchstgrenze nach dem Stipendienprogramm-Gesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

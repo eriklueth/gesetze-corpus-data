@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-09-12",
+  "bjnr": "DDNR514760990",
+  "eli": null,
+  "gii_slug": "natsgrh_nv",
+  "ingested_at": "2026-04-17T15:25:55Z",
+  "jurabk": "NatSGRhönV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5cce8a2c2019f68b44dbff9bec5332308da684cc692b4cc8e14451e6eab2d2e2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/natsgrh_nv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/natsgrh_nv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung \"Biosphärenreservat Rhön\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

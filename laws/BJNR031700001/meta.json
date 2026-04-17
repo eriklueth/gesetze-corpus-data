@@ -1,0 +1,26 @@
+{
+  "amtabk": "30. BImSchV",
+  "ausfertigung_datum": "2001-02-20",
+  "bjnr": "BJNR031700001",
+  "eli": null,
+  "gii_slug": "bimschv_30",
+  "ingested_at": "2026-04-17T15:16:35Z",
+  "jurabk": "BImSchV 30",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4ab379966b529dfaae2458235e1cc2281f13a5f91ea449fb2d7be5c1f47b47c8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_30/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_30/xml.zip"
+  },
+  "stand_datum": "2022-10-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 12.10.2022 I 1800",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Dreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

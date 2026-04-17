@@ -1,0 +1,26 @@
+{
+  "amtabk": "BerHFV",
+  "ausfertigung_datum": "2014-01-02",
+  "bjnr": "BJNR000200014",
+  "eli": null,
+  "gii_slug": "berhfv",
+  "ingested_at": "2026-04-17T15:18:08Z",
+  "jurabk": "BerHFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "188285033995e9d6aa86c47a301395769b1c19566d0ef26cd6cbc24f425595f4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/berhfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/berhfv/xml.zip"
+  },
+  "stand_datum": "2024-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 15.7.2024 I Nr. 237",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Verwendung von Formularen im Bereich der Beratungshilfe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

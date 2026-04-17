@@ -1,0 +1,46 @@
+{
+  "bjnr": "BJNR013579976",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Art 1",
+        "Art 2"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Art 1",
+        "Art 2"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Überleitungsregelung",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Art 1",
+        "Art 2"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Übergangsvorschriften",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Art 1",
+        "-"
+      ],
+      "file": "annexes/0000.md",
+      "heading": "zu Artikel 2 § 2 Abs. 1",
+      "number": "Anlage",
+      "type": "annex"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-06-17",
+  "bjnr": "BJNR134200009",
+  "eli": null,
+  "gii_slug": "sgb2_20abs2bek_2009",
+  "ingested_at": "2026-04-17T15:28:11Z",
+  "jurabk": "SGB2§20Abs2Bek 2009",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "69ea8f505b08db5cd426382cfb3477125c484c296e7f28e44ac2328c03046e3e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgb2_20abs2bek_2009/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgb2_20abs2bek_2009/xml.zip"
+  },
+  "stand_datum": "2010-02-09",
+  "standangabe": [
+    {
+      "kommentar": "Nach Maßgabe der Entscheidungsformel mit GG unvereinbar gem. BVerfGE v. 9.2.2010 I 193 - 1 BvL 1/09, 1 BvL 3/09,1 BvL 4/09 -",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Bekanntmachung über die Höhe der Regelleistung nach § 20 Absatz 2 Satz 1 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2009",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "PflBestSchV",
+  "ausfertigung_datum": "2023-10-13",
+  "bjnr": "BJNR1150B0023",
+  "eli": null,
+  "gii_slug": "pflbestschv",
+  "ingested_at": "2026-04-17T15:26:42Z",
+  "jurabk": "PflBestSchV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9bd2f3a76235040265909468afab2ac9e92b8e9302ab0d47f58509b25e3c1377"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflbestschv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflbestschv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zum Schutz von Beständen zur Erzeugung oder zum Erhalt von Obstanbaumaterial sowie Erwerbsobstbeständen vor besonderen unionsgeregelten Nicht-Quarantäneschadorganismen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

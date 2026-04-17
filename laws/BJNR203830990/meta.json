@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1987-11-26",
+  "bjnr": "BJNR203830990",
+  "eli": null,
+  "gii_slug": "sozsichrheinschiff_bkvwvbg",
+  "ingested_at": "2026-04-17T15:28:41Z",
+  "jurabk": "SozSichRheinSchiffÜbkVwVbg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "65b6ab81565fa70536f9e261415a8515f7000b324350ddc939f441f1f193900d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichrheinschiff_bkvwvbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichrheinschiff_bkvwvbg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verwaltungsvereinbarung zur Durchführung des Übereinkommens vom 30. November 1979 über die soziale Sicherheit der Rheinschiffer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

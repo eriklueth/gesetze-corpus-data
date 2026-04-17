@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1985-06-27",
+  "bjnr": "BJNR208100985",
+  "eli": null,
+  "gii_slug": "dba_ndprotg_ind",
+  "ingested_at": "2026-04-17T15:19:46Z",
+  "jurabk": "DBAÄndProtG IND",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "08407a54f899e6066f4de0bd2a2865afcef5002965abae2b7d58b16e87a1d881"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dba_ndprotg_ind/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dba_ndprotg_ind/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Protokoll vom 28. Juni 1984 zur Änderung des am 18. März 1959 in Neu-Delhi unterzeichneten Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Indien zur Vermeidung der Doppelbesteuerung des Einkommens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

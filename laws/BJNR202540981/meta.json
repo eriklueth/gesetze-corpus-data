@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1963-08-04",
+  "bjnr": "BJNR202540981",
+  "eli": null,
+  "gii_slug": "afrentwbk_bk",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "AfrEntwBkÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "04eab9da06020c89ef9bdd4414e73a51dc6b4387fb9d92f09c85eeda558d0831"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/afrentwbk_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/afrentwbk_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen zur Errichtung der Afrikanischen Entwicklungsbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

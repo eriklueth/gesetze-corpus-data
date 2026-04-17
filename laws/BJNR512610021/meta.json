@@ -1,0 +1,30 @@
+{
+  "amtabk": "BioSt-NachV",
+  "ausfertigung_datum": "2021-12-02",
+  "bjnr": "BJNR512610021",
+  "eli": null,
+  "gii_slug": "biost-nachv_2021",
+  "ingested_at": "2026-04-17T15:18:27Z",
+  "jurabk": "BioSt-NachV 2021",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a02727f4231ac7778e203f0fcf06c460273c89e6c4034b86f8abb570f9b14876"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/biost-nachv_2021/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/biost-nachv_2021/xml.zip"
+  },
+  "stand_datum": "2022-12-13",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 13.12.2022 I 2286",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 754-22-3 v. 23.7.2009 I 2174 (BioSt-NachV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über Anforderungen an eine nachhaltige Herstellung von Biomasse zur Stromerzeugung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

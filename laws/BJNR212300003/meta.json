@@ -1,0 +1,26 @@
+{
+  "amtabk": "AWaffV",
+  "ausfertigung_datum": "2003-10-27",
+  "bjnr": "BJNR212300003",
+  "eli": null,
+  "gii_slug": "awaffv",
+  "ingested_at": "2026-04-17T15:17:29Z",
+  "jurabk": "AWaffV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3036397088aa59d0ed72363364243333b64cea5d899f563ad6da214ef30521bb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/awaffv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/awaffv/xml.zip"
+  },
+  "stand_datum": "2025-07-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 11.7.2025 I Nr. 162",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Allgemeine Waffengesetz-Verordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

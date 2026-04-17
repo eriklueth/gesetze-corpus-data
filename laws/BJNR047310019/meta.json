@@ -1,0 +1,26 @@
+{
+  "amtabk": "GasgeräteDG",
+  "ausfertigung_datum": "2019-04-18",
+  "bjnr": "BJNR047310019",
+  "eli": null,
+  "gii_slug": "gasger_tedg",
+  "ingested_at": "2026-04-17T15:21:52Z",
+  "jurabk": "GasgeräteDG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "667919e0500e3a500670c3362e1813e9499b30c290312d41149c79a5bc733b8b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gasger_tedg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gasger_tedg/xml.zip"
+  },
+  "stand_datum": "2021-07-27",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 30 G v. 27.7.2021 I 3146",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Durchführung der Verordnung (EU) 2016/426 des Europäischen Parlaments und des Rates vom 9. März 2016 über Geräte zur Verbrennung gasförmiger Brennstoffe und zur Aufhebung der Richtlinie 2009/142/EG",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

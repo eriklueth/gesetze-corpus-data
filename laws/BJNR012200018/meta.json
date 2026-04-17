@@ -1,0 +1,26 @@
+{
+  "amtabk": "FHKBeauftrV",
+  "ausfertigung_datum": "2018-01-04",
+  "bjnr": "BJNR012200018",
+  "eli": null,
+  "gii_slug": "fhkbeauftrv",
+  "ingested_at": "2026-04-17T15:21:19Z",
+  "jurabk": "FHKBeauftrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "26ed6f07f72f6493dcc3f7a721550faf148e127a1ab535053bd7c2a4b7e80262"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fhkbeauftrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fhkbeauftrv/xml.zip"
+  },
+  "stand_datum": "1992-12-17",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 96-1-29 v. 17.12.1992 I 2072 (FPKBeauftrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Beauftragung des Flughafenkoordinators",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

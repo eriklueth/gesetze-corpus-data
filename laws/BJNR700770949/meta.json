@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1949-05-11",
+  "bjnr": "BJNR700770949",
+  "eli": null,
+  "gii_slug": "lwrentbkg",
+  "ingested_at": "2026-04-17T15:24:39Z",
+  "jurabk": "LwRentBkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "49b4b3c737fd7b6631923f991f25bd8bb04e2ecbb68738e1d7dbdaf6d5a2e8ed"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lwrentbkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lwrentbkg/xml.zip"
+  },
+  "stand_datum": "2013-12-12",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 12.12.2013 I 4120",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 17 G v. 22.12.2023 I Nr. 411",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Landwirtschaftliche Rentenbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

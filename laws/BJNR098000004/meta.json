@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-05-18",
+  "bjnr": "BJNR098000004",
+  "eli": null,
+  "gii_slug": "raumaausbv_2004",
+  "ingested_at": "2026-04-17T15:27:06Z",
+  "jurabk": "RaumAAusbV 2004",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7e526e4115c0d21267d1f1b9ecd647a7acf77c79deafb2dc47e249205aa491c3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/raumaausbv_2004/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/raumaausbv_2004/xml.zip"
+  },
+  "stand_datum": "2005-05-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 9.5.2005 I 1285",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Raumausstatter/zur Raumausstatterin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "GAPStatV",
+  "ausfertigung_datum": "2023-12-14",
+  "bjnr": "BJNR1710A0023",
+  "eli": null,
+  "gii_slug": "gapstatv",
+  "ingested_at": "2026-04-17T15:21:52Z",
+  "jurabk": "GAPStatV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b5907236eee5b35bb895e70c96244a0c679cb25ad92f1d1430e06bf17bf67a10"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gapstatv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gapstatv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Durchführung der Erhebungen nach dem Gesundheitsausgaben- und -personalstatistikgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

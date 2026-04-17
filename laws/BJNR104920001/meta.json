@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2001-09-13",
+  "bjnr": "BJNR104920001",
+  "eli": null,
+  "gii_slug": "emsschoabkergabkv",
+  "ingested_at": "2026-04-17T15:20:39Z",
+  "jurabk": "EmsSchOAbkErgAbkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c2fac90e9512a5e1dfa9b0204489663928b6da6cb5979a52377d75bbdf693399"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/emsschoabkergabkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/emsschoabkergabkv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zu dem Abkommen vom 22. Dezember 1986 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über die Schifffahrtsordnung in der Emsmündung und dem Abkommen vom 5. April 2001 zur Änderung und Ergänzung des Abkommens vom 22. Dezember 1986",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

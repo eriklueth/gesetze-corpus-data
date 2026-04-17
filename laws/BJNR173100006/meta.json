@@ -1,0 +1,26 @@
+{
+  "amtabk": "ChirMechMstrV",
+  "ausfertigung_datum": "2006-07-27",
+  "bjnr": "BJNR173100006",
+  "eli": null,
+  "gii_slug": "chirmechmstrv",
+  "ingested_at": "2026-04-17T15:19:38Z",
+  "jurabk": "ChirMechMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "044d9776981f1c2d916046fa5277bf11063998e490d3bd957c2e382aac18546e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/chirmechmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/chirmechmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 56 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Chirurgiemechaniker-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

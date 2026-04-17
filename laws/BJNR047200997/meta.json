@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-03-06",
+  "bjnr": "BJNR047200997",
+  "eli": null,
+  "gii_slug": "gr_ndstvtrbw_by3bek",
+  "ingested_at": "2026-04-17T15:22:26Z",
+  "jurabk": "GrÄndStVtrBW/BY3Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7ee958658f338f41bdbd9c12f026daa636cd8e0a0091fc4698975d082d0402f8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gr_ndstvtrbw_by3bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gr_ndstvtrbw_by3bek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über den Abschluß und das Inkrafttreten des Dritten Staatsvertrages zwischen dem Freistaat Bayern und dem Land Baden-Württemberg über die Änderung der Landesgrenze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

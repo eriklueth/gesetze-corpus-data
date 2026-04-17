@@ -1,0 +1,26 @@
+{
+  "amtabk": "SGB XIV",
+  "ausfertigung_datum": "2019-12-12",
+  "bjnr": "BJNR265210019",
+  "eli": null,
+  "gii_slug": "sgb_14",
+  "ingested_at": "2026-04-17T15:28:11Z",
+  "jurabk": "SGB 14",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "925444c5b28df4807105e740904f5cc2fe71e48f2363aed50d72ba20b241bd2b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgb_14/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgb_14/xml.zip"
+  },
+  "stand_datum": "2025-06-13",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 13.6.2025 I Nr. 144",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,38 @@
+{
+  "amtabk": "EnergieStG",
+  "ausfertigung_datum": "2006-07-15",
+  "bjnr": "BJNR153410006",
+  "eli": null,
+  "gii_slug": "energiestg",
+  "ingested_at": "2026-04-17T15:20:39Z",
+  "jurabk": "EnergieStG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e1b10de9228f74ed768b8f35bcd8e279227fdb0075adc18a78ebfd25d00bf6dc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/energiestg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/energiestg/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 341",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "§ 66 ist gem. Art. 3 Abs. 2 G v. 15.7.2006 I 1534 am 20.7.2006 in Kraft getreten",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "§ 3a ist gem. Art. 3 Abs. 4 Satz 1 G v. 15.7.2006 I 1534 iVm Bek. v. 7.4.2008 I 660 am 1.4.2008 in Kraft getreten",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "§ 58 ist gem. Art. 3 Abs. 3 Satz 1 G v. 15.7.2006 I 1534 iVm Bek. v. 8.5.2008 I 838, diese ersetzt durch Bek. v. 12.6.2008 I 1007, nach Maßgabe der Bek. v. 12.6.2008 I 1007 am 1.8.2006 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Energiesteuergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

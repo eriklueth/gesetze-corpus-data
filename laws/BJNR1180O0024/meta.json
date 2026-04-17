@@ -1,0 +1,26 @@
+{
+  "amtabk": "45. RheinSchPVAbweichV",
+  "ausfertigung_datum": "2024-07-16",
+  "bjnr": "BJNR1180O0024",
+  "eli": null,
+  "gii_slug": "rheinschpvabwv_45",
+  "ingested_at": "2026-04-17T15:16:38Z",
+  "jurabk": "RheinSchPVAbwV 45",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "be7aad8b45983ddc60c60c8319592d38fd88ebf440d4ecde1c267b01d0d9e532"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rheinschpvabwv_45/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rheinschpvabwv_45/xml.zip"
+  },
+  "stand_datum": "2027-11-30",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 4 dieser V mit Ablauf d. 30.11.2027 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Fünfundvierzigste Verordnung zur vorübergehenden Abweichung von der Rheinschifffahrtspolizeiverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

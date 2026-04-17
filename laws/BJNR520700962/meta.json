@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1962-10-12",
+  "bjnr": "BJNR520700962",
+  "eli": null,
+  "gii_slug": "bmfjubano",
+  "ingested_at": "2026-04-17T15:18:39Z",
+  "jurabk": "BMFJubAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3a6eafbba887af911da468740a883a571f09afe939c295c100d2aef55a48fef7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmfjubano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmfjubano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jubiläumszuwendungen an Beamte im Geschäftsbereich des Bundesministers der Finanzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1964-01-20",
+  "bjnr": "BJNR301040964",
+  "eli": null,
+  "gii_slug": "festlsockelprok",
+  "ingested_at": "2026-04-17T15:21:18Z",
+  "jurabk": "FestLSockelProk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "131e61fe99c49e4a03faf8d3800c38257c9713bfad6783049b72930863c63248"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/festlsockelprok/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/festlsockelprok/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Proklamation der Bundesregierung über die Erforschung und Ausbeutung des deutschen Festlandsockels",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1983-02-21",
+  "bjnr": "BJNR201320983",
+  "eli": null,
+  "gii_slug": "baktwaffvern_bkg",
+  "ingested_at": "2026-04-17T15:17:35Z",
+  "jurabk": "BaktWaffVernÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "05152d87035bae356c2e316e25eca26b364056412ef7ec66d7786c58dcff4d65"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baktwaffvern_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baktwaffvern_bkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Übereinkommen vom 10. April 1972 über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

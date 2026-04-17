@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-11-05",
+  "bjnr": "BJNR161620003",
+  "eli": null,
+  "gii_slug": "dbazabk_bel",
+  "ingested_at": "2026-04-17T15:19:51Z",
+  "jurabk": "DBAZAbk BEL",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fb1ff85a6698580b6ebb5ecd58e9ca5d67b7c4802c5fa81cc534f4066c03a3a6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbazabk_bel/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbazabk_bel/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzabkommen zum Abkommen vom 11. April 1967 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien zur Vermeidung der Doppelbesteuerungen und zur Regelung verschiedener anderer Fragen auf dem Gebiete der Steuern vom Einkommen und vom Vermögen einschließlich der Gewerbesteuer und der Grundsteuern sowie zum dazugehörigen Schlussprotokoll",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

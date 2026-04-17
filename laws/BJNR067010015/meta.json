@@ -1,0 +1,26 @@
+{
+  "amtabk": "KNV-V",
+  "ausfertigung_datum": "2015-04-28",
+  "bjnr": "BJNR067010015",
+  "eli": null,
+  "gii_slug": "knv-v",
+  "ingested_at": "2026-04-17T15:23:43Z",
+  "jurabk": "KNV-V",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "48faf7840459d5b0a7b7923fd9604fa5d7e7d6aafcaced0ae8ad7a69e68e0714"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/knv-v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/knv-v/xml.zip"
+  },
+  "stand_datum": "2025-11-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 3 G v. 25.11.2025 I Nr. 282",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Vergleich von Kosten und Nutzen der Kraft-Wärme-Kopplung und der Rückführung industrieller Abwärme bei der Wärme- und Kälteversorgung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

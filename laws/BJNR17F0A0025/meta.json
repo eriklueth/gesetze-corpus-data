@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-12-30",
+  "bjnr": "BJNR17F0A0025",
+  "eli": null,
+  "gii_slug": "bmipaktermv",
+  "ingested_at": "2026-04-17T15:18:41Z",
+  "jurabk": "BMIPAktErmV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8b1ca3cc2dfde2977b4ed9fa91dda380f6476a84b81f12e0a832dc064afcf341"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmipaktermv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmipaktermv/xml.zip"
+  },
+  "stand_datum": "2026-12-31",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 3 mit Ablauf des 31.12.2026 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zur Ermöglichung der Anlegung, Führung und Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums des Innern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

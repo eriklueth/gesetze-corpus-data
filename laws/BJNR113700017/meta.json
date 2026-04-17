@@ -1,0 +1,26 @@
+{
+  "amtabk": "EuPAG",
+  "ausfertigung_datum": "2017-05-12",
+  "bjnr": "BJNR113700017",
+  "eli": null,
+  "gii_slug": "eupag",
+  "ingested_at": "2026-04-17T15:20:57Z",
+  "jurabk": "EuPAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f9b25bfc7f6c8b224c3ec79b83f6632a0359ad380df59867550bf5ccc3ff4c42"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eupag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eupag/xml.zip"
+  },
+  "stand_datum": "2024-10-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 22.10.2024 I Nr. 320",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Tätigkeit europäischer Patentanwälte in Deutschland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

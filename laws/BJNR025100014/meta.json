@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-02-28",
+  "bjnr": "BJNR025100014",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2014-02-28_3",
+  "ingested_at": "2026-04-17T15:25:22Z",
+  "jurabk": "Münz10EuroBek 2014-02-28/3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "48694c1f12a13a400694295e7e394b3975a0e09af97114821a286dc8c5d0177a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2014-02-28_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2014-02-28_3/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „125 Jahre Strahlen elektrischer Kraft Heinrich Hertz“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

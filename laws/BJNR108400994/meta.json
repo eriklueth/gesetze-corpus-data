@@ -1,0 +1,26 @@
+{
+  "amtabk": "MPhG",
+  "ausfertigung_datum": "1994-05-26",
+  "bjnr": "BJNR108400994",
+  "eli": null,
+  "gii_slug": "mphg",
+  "ingested_at": "2026-04-17T15:25:00Z",
+  "jurabk": "MPhG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ffe3bac7eed0035965da0dd394bb099faa26a0c507a2a5390761c93312634abc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mphg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mphg/xml.zip"
+  },
+  "stand_datum": "2023-12-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8z3 G v. 12.12.2023 I Nr. 359",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Berufe in der Physiotherapie",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

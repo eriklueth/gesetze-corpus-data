@@ -1,0 +1,30 @@
+{
+  "amtabk": "SchwHKlV",
+  "ausfertigung_datum": "1986-12-18",
+  "bjnr": "BJNR126240986",
+  "eli": null,
+  "gii_slug": "hdlklschwv_1986",
+  "ingested_at": "2026-04-17T15:27:54Z",
+  "jurabk": "HdlKlSchwV 1986",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "90848b0563ba5124a1532f7fc93fa466aaa5ae174e866b8ad68ab5a9204f44de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hdlklschwv_1986/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hdlklschwv_1986/xml.zip"
+  },
+  "stand_datum": "1990-08-16",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 16.8.1990 I 1809;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 V v. 30.10.2024 I Nr. 342",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über gesetzliche Handelsklassen für Schweineschlachtkörper",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "GlasappAusbV",
+  "ausfertigung_datum": "2023-05-15",
+  "bjnr": "BJNR0810A0023",
+  "eli": null,
+  "gii_slug": "glasappausbv_2023",
+  "ingested_at": "2026-04-17T15:22:16Z",
+  "jurabk": "GlasappAusbV 2023",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "636b236853dee5994e1a511d317e0bf99e1819222e15d6acb6c435f70ac30908"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/glasappausbv_2023/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/glasappausbv_2023/xml.zip"
+  },
+  "stand_datum": "1983-12-21",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-1-106 v. 21.12.1983 I 1645 (GlasappAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Glasapparatebauer und zur Glasapparatebauerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

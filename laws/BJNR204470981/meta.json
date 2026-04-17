@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-03-02",
+  "bjnr": "BJNR204470981",
+  "eli": null,
+  "gii_slug": "kathilabk_lux",
+  "ingested_at": "2026-04-17T15:23:22Z",
+  "jurabk": "KatHiLAbk LUX",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3d2aab6f5b4b4046b05b44e15e42bbb043db8241f579607fb9fee72ea4aa4a03"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kathilabk_lux/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kathilabk_lux/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

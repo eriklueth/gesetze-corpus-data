@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-02-10",
+  "bjnr": "BJNR001850972",
+  "eli": null,
+  "gii_slug": "wzg_4upovbek",
+  "ingested_at": "2026-04-17T15:31:13Z",
+  "jurabk": "WZG§4UPOVBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aad58b1a34cd088ed6962648524c0c93ec3f3558c2b90ea038e6140031ea83e9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4upovbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4upovbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

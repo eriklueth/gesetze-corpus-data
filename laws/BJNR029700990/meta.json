@@ -1,0 +1,26 @@
+{
+  "amtabk": "BVerfSchG",
+  "ausfertigung_datum": "1990-12-20",
+  "bjnr": "BJNR029700990",
+  "eli": null,
+  "gii_slug": "bverfschg",
+  "ingested_at": "2026-04-17T15:19:33Z",
+  "jurabk": "BVerfSchG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3fd20e7cc67403e4950631ba1b72f1baf7112a5a2265388ac181d808b696c51a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bverfschg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bverfschg/xml.zip"
+  },
+  "stand_datum": "2026-01-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 9.1.2026 I Nr. 7",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Zusammenarbeit des Bundes und der Länder in Angelegenheiten des Verfassungsschutzes und über das Bundesamt für Verfassungsschutz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

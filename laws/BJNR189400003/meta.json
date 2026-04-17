@@ -1,0 +1,26 @@
+{
+  "amtabk": "LegRegG",
+  "ausfertigung_datum": "2003-09-12",
+  "bjnr": "BJNR189400003",
+  "eli": null,
+  "gii_slug": "legregg",
+  "ingested_at": "2026-04-17T15:24:04Z",
+  "jurabk": "LegRegG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3590f76f17350ead5f80697f91b2f245e9310810b10e98596fbe3a2df08da8ec"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/legregg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/legregg/xml.zip"
+  },
+  "stand_datum": "2014-07-28",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 G v. 28.7.2014 I 1308",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Registrierung von Betrieben zur Haltung von Legehennen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

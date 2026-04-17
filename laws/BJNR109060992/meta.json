@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-04-22",
+  "bjnr": "BJNR109060992",
+  "eli": null,
+  "gii_slug": "entschrg",
+  "ingested_at": "2026-04-17T15:20:42Z",
+  "jurabk": "EntschRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aa3bc9605e5be02a90a6b072960f06a27a4ab42a1ae20fb61292903038454f0e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/entschrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/entschrg/xml.zip"
+  },
+  "stand_datum": "2022-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 24 G v. 20.12.2022 I 2759",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Entschädigungsrentengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

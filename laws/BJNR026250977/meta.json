@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-12-15",
+  "bjnr": "BJNR026250977",
+  "eli": null,
+  "gii_slug": "agmahnvordrv",
+  "ingested_at": "2026-04-17T15:16:50Z",
+  "jurabk": "AGMahnVordrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "678caa3022a4eb8679e88b4b6466dc1e3f5defff7bb5465304d9f07c8a3fcc9a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/agmahnvordrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/agmahnvordrv/xml.zip"
+  },
+  "stand_datum": "2022-05-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 25.5.2022 I 823",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Einführung von Vordrucken für das arbeitsgerichtliche Mahnverfahren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

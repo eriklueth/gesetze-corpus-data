@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-06-30",
+  "bjnr": "BJNR207660959",
+  "eli": null,
+  "gii_slug": "vollstrabk_bel",
+  "ingested_at": "2026-04-17T15:30:14Z",
+  "jurabk": "VollstrAbk BEL",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "513a4e943a08ac70a2f8bad2b573837342ab486c47b3428c728dd9f16ce78372"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vollstrabk_bel/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vollstrabk_bel/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Schiedssprüchen und öffentlichen Urkunden in Zivil- und Handelssachen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

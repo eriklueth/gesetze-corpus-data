@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-10-05",
+  "bjnr": "BJNR209150976",
+  "eli": null,
+  "gii_slug": "eupat_bkao",
+  "ingested_at": "2026-04-17T15:20:57Z",
+  "jurabk": "EuPatÜbkAO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "abcd2913b5ec2dd84d1539229783866d75c1b7133365d3da761d6c4c361b0ab2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eupat_bkao/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eupat_bkao/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Ausführungsordnung zum Übereinkommen über die Erteilung europäischer Patente",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

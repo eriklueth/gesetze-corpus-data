@@ -1,0 +1,26 @@
+{
+  "amtabk": "FloristMFPrV",
+  "ausfertigung_datum": "2019-12-09",
+  "bjnr": "BJNR222300019",
+  "eli": null,
+  "gii_slug": "floristmfprv",
+  "ingested_at": "2026-04-17T15:21:29Z",
+  "jurabk": "FloristMFPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "44ebfe065c96ae2f197e22b6c59f879e6d601d14e53e9df55df3735c40389fcf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/floristmfprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/floristmfprv/xml.zip"
+  },
+  "stand_datum": "2001-04-05",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-7-62 v. 5.4.2001 I 534 (FloristMPrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Floristmeister oder Geprüfte Floristmeisterin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

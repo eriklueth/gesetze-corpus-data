@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-06-03",
+  "bjnr": "BJNR108220996",
+  "eli": null,
+  "gii_slug": "binschfudvbgbek",
+  "ingested_at": "2026-04-17T15:18:23Z",
+  "jurabk": "BinSchFuDVbgBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "741f515e38896990effba536c125b16c7a2b1c11d00e574e73edce08c04c0905"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschfudvbgbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschfudvbgbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Regionalen Vereinbarung über den Binnenschiffahrtsfunk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

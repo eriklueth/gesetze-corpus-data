@@ -1,0 +1,21 @@
+{
+  "amtabk": "Euromed-LuftvAbkG-Marok",
+  "ausfertigung_datum": "2011-04-05",
+  "bjnr": "BJNR046620011",
+  "eli": null,
+  "gii_slug": "euromed-luftvabkg-marok",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "Euromed-LuftvAbkG-Marok",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "79be14de081237bdc079c3213795fa97ba5531571fac212e31d603288bbb9036"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euromed-luftvabkg-marok/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euromed-luftvabkg-marok/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Europa-Mittelmeer-Luftverkehrsabkommen vom 12. Dezember 2006 zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und dem Königreich Marokko andererseits",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

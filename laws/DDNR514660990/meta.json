@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-09-12",
+  "bjnr": "DDNR514660990",
+  "eli": null,
+  "gii_slug": "natpvorpblv",
+  "ingested_at": "2026-04-17T15:25:55Z",
+  "jurabk": "NatPVorpBlV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0d14ec60bac682da8cde00cb5c80af60ee55d976bd84bcf0057ab76a8fcc2587"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/natpvorpblv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/natpvorpblv/xml.zip"
+  },
+  "stand_datum": "1997-06-24",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 10 Satz 2 V v. 24.6.1997 I 1542",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Festsetzung des Nationalparkes Vorpommersche Boddenlandschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

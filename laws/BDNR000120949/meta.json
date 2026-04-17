@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1948-11-04",
+  "bjnr": "BDNR000120949",
+  "eli": null,
+  "gii_slug": "m_nz1pfbek_bw",
+  "ingested_at": "2026-04-17T15:25:26Z",
+  "jurabk": "Münz1PfBek BW",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "549ba269630404e284d01be460bc834df7401f39b959519eda9ca068f6187a47"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz1pfbek_bw/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz1pfbek_bw/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-03-12",
+  "bjnr": "BJNR001660951",
+  "eli": null,
+  "gii_slug": "wahlprg",
+  "ingested_at": "2026-04-17T15:30:21Z",
+  "jurabk": "WahlPrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4fb369f4e0cafb9ec3dcd7a2ffd8d26584a0995a8d434e9b9d5de918d1ec31f2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wahlprg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wahlprg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 11 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Wahlprüfungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

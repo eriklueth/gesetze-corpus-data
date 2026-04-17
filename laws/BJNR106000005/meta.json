@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-04-08",
+  "bjnr": "BJNR106000005",
+  "eli": null,
+  "gii_slug": "blesitzbek",
+  "ingested_at": "2026-04-17T15:18:33Z",
+  "jurabk": "BLESitzBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b17c9cea4fe1c69b7745814ea635d8bdfa9ba3971540be8964062149b2c8ae12"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/blesitzbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/blesitzbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über den Dienstsitz der Bundesanstalt für Landwirtschaft und Ernährung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

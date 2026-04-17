@@ -1,0 +1,21 @@
+{
+  "amtabk": "ErrV",
+  "ausfertigung_datum": "2023-07-28",
+  "bjnr": "BJNR0CF0A0023",
+  "eli": null,
+  "gii_slug": "erreichbv",
+  "ingested_at": "2026-04-17T15:20:46Z",
+  "jurabk": "ErreichbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a0bc9a7832846ff3dbfaa147bec9c07eea4b30326f268f15e9185c3e1562c0ee"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/erreichbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/erreichbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Regelung weiterer Voraussetzungen der Erreichbarkeit erwerbsfähiger Leistungsberechtigter nach dem Zweiten Buch Sozialgesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

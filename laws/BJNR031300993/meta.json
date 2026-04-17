@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-03-12",
+  "bjnr": "BJNR031300993",
+  "eli": null,
+  "gii_slug": "euzblg",
+  "ingested_at": "2026-04-17T15:21:09Z",
+  "jurabk": "EUZBLG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e288ec168c771e15f17c4d18745e42a728eb19c5c5ace25939d9c813fa67ffb0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euzblg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euzblg/xml.zip"
+  },
+  "stand_datum": "2009-09-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 22.9.2009 I 3031",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Zusammenarbeit von Bund und Ländern in Angelegenheiten der Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

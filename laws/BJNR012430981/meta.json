@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-12-03",
+  "bjnr": "BJNR012430981",
+  "eli": null,
+  "gii_slug": "jurprnotskv",
+  "ingested_at": "2026-04-17T15:23:18Z",
+  "jurabk": "JurPrNotSkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1055b888403e3d731c7cec6896e56f8732369516acedf984a7c3e3216b9d80a8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/jurprnotskv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/jurprnotskv/xml.zip"
+  },
+  "stand_datum": "2006-04-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 209 Abs. 4 G v. 19.4.2006 I 866",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über eine Noten- und Punkteskala für die erste und zweite juristische Prüfung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

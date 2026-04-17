@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-09-18",
+  "bjnr": "BJNR140820003",
+  "eli": null,
+  "gii_slug": "eubeitrvtrczeuag",
+  "ingested_at": "2026-04-17T15:20:54Z",
+  "jurabk": "EUBeitrVtrCZEuaG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "765246ace5e3779a850e96364bbdc66fa1a3a9be3dd9d31b66d5e0c62fbffe37"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eubeitrvtrczeuag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eubeitrvtrczeuag/xml.zip"
+  },
+  "stand_datum": "2004-06-28",
+  "standangabe": [
+    {
+      "kommentar": "Vertrag in Kraft gem. Bek. v. 28.6.2004 II 1102 mWv 1.5.2004",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zu dem Vertrag vom 16. April 2003 über den Beitritt der Tschechischen Republik, der Republik Estland, der Republik Zypern, der Republik Lettland, der Republik Litauen, der Republik Ungarn, der Republik Malta, der Republik Polen, der Republik Slowenien und der Slowakischen Republik zur Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

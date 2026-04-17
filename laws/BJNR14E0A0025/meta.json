@@ -1,0 +1,26 @@
+{
+  "amtabk": "4. VFlughSiKArbbV",
+  "ausfertigung_datum": "2025-12-17",
+  "bjnr": "BJNR14E0A0025",
+  "eli": null,
+  "gii_slug": "vflughsikarbbv_4",
+  "ingested_at": "2026-04-17T15:16:38Z",
+  "jurabk": "VFlughSiKArbbV 4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "33b74b063592aebc3ed893b1864cc69a22139c850638ffb91dcdd0ef01da26d4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vflughsikarbbv_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vflughsikarbbv_4/xml.zip"
+  },
+  "stand_datum": "2026-12-31",
+  "standangabe": [
+    {
+      "kommentar": "V aufgeh. durch § 3 dieser V mit Ablauf des 31.12.2026",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Vierte Verordnung über zwingende Arbeitsbedingungen für Sicherheitskräfte an Verkehrsflughäfen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

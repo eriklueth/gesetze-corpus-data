@@ -1,0 +1,26 @@
+{
+  "amtabk": "OrthoptAPrV",
+  "ausfertigung_datum": "1990-03-21",
+  "bjnr": "BJNR005630990",
+  "eli": null,
+  "gii_slug": "orthoptaprv",
+  "ingested_at": "2026-04-17T15:26:23Z",
+  "jurabk": "OrthoptAPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "55da2f2a1c5f4ff1c1cff4c8cc21a307c8d9273a5f6a28d6836c09099e1fbfd4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/orthoptaprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/orthoptaprv/xml.zip"
+  },
+  "stand_datum": "2024-11-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 21.11.2024 I Nr. 360",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und Orthoptisten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

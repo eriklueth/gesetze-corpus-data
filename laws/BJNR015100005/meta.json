@@ -1,0 +1,26 @@
+{
+  "amtabk": "BioMatHintV",
+  "ausfertigung_datum": "2005-01-24",
+  "bjnr": "BJNR015100005",
+  "eli": null,
+  "gii_slug": "biomathintv",
+  "ingested_at": "2026-04-17T15:18:27Z",
+  "jurabk": "BioMatHintV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "792850dd216ce1d12db6d792e3b95d10dd4e300ea71b0061f895556f8fff87dc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/biomathintv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/biomathintv/xml.zip"
+  },
+  "stand_datum": "2016-04-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 14 Abs. 1 G v. 4.4.2016 I 558",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Hinterlegung von biologischem Material in Patent- und Gebrauchsmusterverfahren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

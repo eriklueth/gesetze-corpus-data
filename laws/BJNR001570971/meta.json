@@ -1,0 +1,26 @@
+{
+  "amtabk": "StrEG",
+  "ausfertigung_datum": "1971-03-08",
+  "bjnr": "BJNR001570971",
+  "eli": null,
+  "gii_slug": "streg",
+  "ingested_at": "2026-04-17T15:28:57Z",
+  "jurabk": "StrEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4e807d6533dc127d649fc6d37d93e85c04e952c2d0587d2f5d9b0d7e1f933e42"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/streg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/streg/xml.zip"
+  },
+  "stand_datum": "2020-09-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 30.9.2020 I 2049",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Entschädigung für Strafverfolgungsmaßnahmen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "ChemVOCFarbV",
+  "ausfertigung_datum": "2004-12-16",
+  "bjnr": "BJNR350800004",
+  "eli": null,
+  "gii_slug": "chemvocfarbv",
+  "ingested_at": "2026-04-17T15:19:38Z",
+  "jurabk": "ChemVOCFarbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9a9bea3ce43c26a44cd08b25c540469b8fcab9514bb2f37577be96c0f2abe8a5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/chemvocfarbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/chemvocfarbv/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 297 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 Abs. 1 G v. 29.3.2026 I Nr. 86 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Chemikalienrechtliche Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen (VOC) durch Beschränkung des Inverkehrbringens lösemittelhaltiger Farben und Lacke",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

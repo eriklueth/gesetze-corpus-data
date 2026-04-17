@@ -1,0 +1,26 @@
+{
+  "amtabk": "VWDG-DV",
+  "ausfertigung_datum": "2013-06-01",
+  "bjnr": "BJNR141400013",
+  "eli": null,
+  "gii_slug": "vwdg-dv",
+  "ingested_at": "2026-04-17T15:30:18Z",
+  "jurabk": "VWDG-DV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ddeaae92394d12da14a6e55dfe8f072ca229c943d403daae140b791f1cb81819"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vwdg-dv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vwdg-dv/xml.zip"
+  },
+  "stand_datum": "2020-06-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 Abs. 5 G v. 12.6.2020 I 1241",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Visa-Warndateigesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-09-24",
+  "bjnr": "BJNR198720998",
+  "eli": null,
+  "gii_slug": "sozsichabk_svn",
+  "ingested_at": "2026-04-17T15:28:27Z",
+  "jurabk": "SozSichAbk SVN",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d56ad62eec5dfd7f4404eb5ccca6a894f6a9586a271903dccff0a0a048bfce92"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabk_svn/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabk_svn/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Slowenien über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

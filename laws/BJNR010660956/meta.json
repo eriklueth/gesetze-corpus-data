@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-12-23",
+  "bjnr": "BJNR010660956",
+  "eli": null,
+  "gii_slug": "wbo",
+  "ingested_at": "2026-04-17T15:30:26Z",
+  "jurabk": "WBO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b743b908a2b40a714e5dd7bbad3a5b294f11e4be485dd5cf00ea6aa9e7c231d8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wbo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wbo/xml.zip"
+  },
+  "stand_datum": "2009-01-22",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 22.1.2009 I 81",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 G v. 17.12.2024 I Nr. 424",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Wehrbeschwerdeordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

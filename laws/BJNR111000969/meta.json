@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-07-02",
+  "bjnr": "BJNR111000969",
+  "eli": null,
+  "gii_slug": "ggart115dgo",
+  "ingested_at": "2026-04-17T15:22:12Z",
+  "jurabk": "GGArt115dGO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4fb01387441102b41440350d20849ce3aeb499ef9a2aee0828d110ca70641f2f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ggart115dgo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ggart115dgo/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Geschäftsordnung für das Verfahren nach Artikel 115 d des Grundgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-03-25",
+  "bjnr": "BJNR205670986",
+  "eli": null,
+  "gii_slug": "sozsichabkschlprot_mar",
+  "ingested_at": "2026-04-17T15:28:38Z",
+  "jurabk": "SozSichAbkSchlProt MAR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1657734c02563caca87e54c58c5c7d929d837fc0d656e39e6e9a69cc255d3c4e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkschlprot_mar/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkschlprot_mar/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Schlußprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Marokko über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

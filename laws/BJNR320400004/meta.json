@@ -1,0 +1,30 @@
+{
+  "amtabk": "BetrPrämDurchfV",
+  "ausfertigung_datum": "2004-12-03",
+  "bjnr": "BJNR320400004",
+  "eli": null,
+  "gii_slug": "betrpr_mdurchfv",
+  "ingested_at": "2026-04-17T15:18:12Z",
+  "jurabk": "BetrPrämDurchfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b6597ab0a18dade85adfd1acd2e10e33221d15c3c56da8cb78bb06cc5e84d9dd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/betrpr_mdurchfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/betrpr_mdurchfv/xml.zip"
+  },
+  "stand_datum": "2006-10-26",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 26.10.2006 I 2376;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 Abs. 103 G v. 22.12.2011 I 3044",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der einheitlichen Betriebsprämie",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

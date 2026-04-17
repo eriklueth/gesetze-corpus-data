@@ -1,0 +1,26 @@
+{
+  "amtabk": "UAGBV",
+  "ausfertigung_datum": "1995-12-18",
+  "bjnr": "BJNR201300995",
+  "eli": null,
+  "gii_slug": "uagbv",
+  "ingested_at": "2026-04-17T15:29:45Z",
+  "jurabk": "UAGBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "694147e23eb29fd13c221bc4a4e64fd7c78da969d62d55c12bdf8a7b6f496fac"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uagbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uagbv/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 125 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Beleihung der Zulassungsstelle nach dem Umweltauditgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-09-15",
+  "bjnr": "BJNR212340965",
+  "eli": null,
+  "gii_slug": "eufernsabkg",
+  "ingested_at": "2026-04-17T15:20:54Z",
+  "jurabk": "EuFernsAbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bc736cef7397e44adfd97eb5a840b94470d1633d70a9c892397d907a3e3099e8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eufernsabkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eufernsabkg/xml.zip"
+  },
+  "stand_datum": "1967-06-06",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 G v. 6.6.1967 II 1785",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über das Europäische Abkommen vom 22. Juni 1960 zum Schutz von Fernsehsendungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

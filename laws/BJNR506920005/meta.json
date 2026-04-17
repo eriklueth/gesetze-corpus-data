@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-03-23",
+  "bjnr": "BJNR506920005",
+  "eli": null,
+  "gii_slug": "luftvodv_222",
+  "ingested_at": "2026-04-17T15:24:26Z",
+  "jurabk": "LuftVODV 222",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "206547e58ac0a2c79e9e9dfd59a7b43fc75a88b4df2fbbe1e5b5acebd328d0b1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_222/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_222/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweihundertzweiundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Bremen)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

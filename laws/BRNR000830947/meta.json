@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1947-06-27",
+  "bjnr": "BRNR000830947",
+  "eli": null,
+  "gii_slug": "nsahndgg_br",
+  "ingested_at": "2026-04-17T15:26:04Z",
+  "jurabk": "NSAhndgG BR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b9b35843003cbad751ccfa6a8bfa5be12663b419f65c7c31d535b85c0e82913b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nsahndgg_br/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nsahndgg_br/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Ahndung nationalsozialistischer Straftaten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

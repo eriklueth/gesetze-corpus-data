@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-08-03",
+  "bjnr": "BJNR071620005",
+  "eli": null,
+  "gii_slug": "gii050716",
+  "ingested_at": "2026-04-17T15:22:13Z",
+  "jurabk": "GII050716",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c77d65433222454a16c141c3e7b409d64e6fc2cd6f5a02ca41f42b2de01c2e6d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gii050716/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gii050716/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 28. März 2000 zwischen der Bundesrepublik Deutschland und der Bundesrepublik Nigeria über die Förderung und den gegenseitigen Schutz von Kapitalanlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

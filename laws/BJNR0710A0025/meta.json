@@ -1,0 +1,26 @@
+{
+  "amtabk": "KHTFV",
+  "ausfertigung_datum": "2025-04-15",
+  "bjnr": "BJNR0710A0025",
+  "eli": null,
+  "gii_slug": "khtfv",
+  "ingested_at": "2026-04-17T15:23:33Z",
+  "jurabk": "KHTFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2126cd82568be19d499ea329d14d73295883a5cf160094d197511a25bbea7c2b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/khtfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/khtfv/xml.zip"
+  },
+  "stand_datum": "2026-04-09",
+  "standangabe": [
+    {
+      "kommentar": "Änderung durch Art. 4 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung zur Verwaltung des Transformationsfonds im Krankenhausbereich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

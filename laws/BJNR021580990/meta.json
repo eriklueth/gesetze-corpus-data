@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-10-04",
+  "bjnr": "BJNR021580990",
+  "eli": null,
+  "gii_slug": "uwg_einigvtre_bv",
+  "ingested_at": "2026-04-17T15:29:59Z",
+  "jurabk": "UWG/EinigVtrEÜbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c244dc39291db335e93d43848aa836bbee9bd0caec46fab066ef844c4b0ddd31"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uwg_einigvtre_bv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uwg_einigvtre_bv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Übertragung der Ermächtigung nach § 3 Abs. 6 der besonderen Bestimmungen zur Einführung der Rechtsvorschriften auf dem Gebiet des gewerblichen Rechtsschutzes im Einigungsvertrag",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

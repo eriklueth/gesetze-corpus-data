@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1955-04-27",
+  "bjnr": "BJNR001890955",
+  "eli": null,
+  "gii_slug": "_blg_4",
+  "ingested_at": "2026-04-17T15:29:42Z",
+  "jurabk": "ÜblG 4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2590f3c00791d10237ef8ae49b64a6a019afc578dc4dba556ab96d483600500d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/_blg_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/_blg_4/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Regelung finanzieller Beziehungen zwischen dem Bund und den Ländern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

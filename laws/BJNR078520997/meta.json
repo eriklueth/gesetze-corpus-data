@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-04-16",
+  "bjnr": "BJNR078520997",
+  "eli": null,
+  "gii_slug": "abzusgrbr_ckvtrcesg",
+  "ingested_at": "2026-04-17T15:16:45Z",
+  "jurabk": "ABZusGrBrückVtrCESG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1125489ad6c5b9cf9e0f252551f317e9a561fdfe2358eb9e78c862419a15b8aa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/abzusgrbr_ckvtrcesg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/abzusgrbr_ckvtrcesg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A 6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

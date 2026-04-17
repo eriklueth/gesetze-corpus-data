@@ -1,0 +1,42 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-12-19",
+  "bjnr": "BJNR338160994",
+  "eli": null,
+  "gii_slug": "rheinschpv_1994",
+  "ingested_at": "2026-04-17T15:27:32Z",
+  "jurabk": "RheinSchPV 1994",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4fb042a5e468a7ad9cd53a6385943516ff297df22c56a399cd679b8016a8d1ad"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rheinschpv_1994/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rheinschpv_1994/xml.zip"
+  },
+  "stand_datum": "2023-04-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 § 1 Abs. 1 Nr. 2 iVm Abs. 2 Nr. 2 (Anlage 2 Anlageband) V v. 5.4.2023 II Nr. 105",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 Nr. 1 iVm Anlage 1 bis 5 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 Nr. 2 iVm Anlage 3 bis 5 V v. 22.11.2023 II Nr. 321 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 Nr. 2 iVm Anlage 2 bis 4 V v. 11.3.2024 II Nr. 97 mWv 1.12.2024 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 Nr. 1 iVm Anlage 1 bis 6 V v. 5.8.2025 II Nr. 216 mWv 1.12.2025 u. 1.1.2026 u. 1.12.2026 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Rheinschiffahrtspolizeiverordnung (Anlage zur Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

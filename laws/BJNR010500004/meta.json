@@ -1,0 +1,26 @@
+{
+  "amtabk": "LAP-gbautDV",
+  "ausfertigung_datum": "2004-01-21",
+  "bjnr": "BJNR010500004",
+  "eli": null,
+  "gii_slug": "lap-gbautdv",
+  "ingested_at": "2026-04-17T15:24:02Z",
+  "jurabk": "LAP-gbautDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c1cada95ae216da013143169fda7362f5fa820e53e43926f1811993325aa7083"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lap-gbautdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lap-gbautdv/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 14 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen bautechnischen Verwaltungsdienst des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

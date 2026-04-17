@@ -1,0 +1,26 @@
+{
+  "amtabk": "PBLEntgV",
+  "ausfertigung_datum": "2007-12-13",
+  "bjnr": "BJNR293800007",
+  "eli": null,
+  "gii_slug": "postbanklentgv",
+  "ingested_at": "2026-04-17T15:26:33Z",
+  "jurabk": "PostbankLEntgV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "887e96ef3b636aed333e45611c7dbefe13c87e15b1a9ad4fcae16a07652fad2d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postbanklentgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postbanklentgv/xml.zip"
+  },
+  "stand_datum": "2024-09-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 9.9.2024 I Nr. 280",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Postbankleistungsentgeltverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

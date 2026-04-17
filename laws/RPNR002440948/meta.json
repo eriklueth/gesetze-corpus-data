@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1948-03-23",
+  "bjnr": "RPNR002440948",
+  "eli": null,
+  "gii_slug": "nsunrg_rp",
+  "ingested_at": "2026-04-17T15:26:05Z",
+  "jurabk": "NSUnrG RP",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "74659e3d835c584431e6cf159be7dd342c7a2d26b20147417c55ed93c0b942bd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nsunrg_rp/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nsunrg_rp/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Landesgesetz zur Beseitigung nationalsozialistischen Unrechts in der Strafrechtspflege",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

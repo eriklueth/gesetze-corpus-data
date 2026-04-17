@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-05-29",
+  "bjnr": "BJNR103520001",
+  "eli": null,
+  "gii_slug": "kisch_bk_haag",
+  "ingested_at": "2026-04-17T15:23:36Z",
+  "jurabk": "KiSchÜbk Haag",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "68b8fc5af97d4214816d41fbdbe3a5b9542124cfed6fc3d5ee5d45769ed454ab"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kisch_bk_haag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kisch_bk_haag/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

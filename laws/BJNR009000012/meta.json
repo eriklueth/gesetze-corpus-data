@@ -1,0 +1,26 @@
+{
+  "amtabk": "PostLV",
+  "ausfertigung_datum": "2012-01-12",
+  "bjnr": "BJNR009000012",
+  "eli": null,
+  "gii_slug": "postlv_2012",
+  "ingested_at": "2026-04-17T15:26:53Z",
+  "jurabk": "PostLV 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4105e9741d5ba0dbc3e2fad92467198f06f4db7fe82ec5166da337fa1d97eb62"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postlv_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postlv_2012/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 1 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Laufbahnen der Beamtinnen und Beamten im Geltungsbereich des Postpersonalrechtsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2016-04-04",
+  "bjnr": "BJNR075100016",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2016-04-04_1",
+  "ingested_at": "2026-04-17T15:25:26Z",
+  "jurabk": "Münz20EuroBek 2016-04-04/1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0943a38d51d78ce7186f4800eb438920cb9b4fa03765003ed516c02f761a343a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2016-04-04_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2016-04-04_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Rotkäppchen“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

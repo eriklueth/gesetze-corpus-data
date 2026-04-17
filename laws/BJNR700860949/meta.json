@@ -1,0 +1,21 @@
+{
+  "amtabk": "RV",
+  "ausfertigung_datum": "1949-08-26",
+  "bjnr": "BJNR700860949",
+  "eli": null,
+  "gii_slug": "versrmabschr",
+  "ingested_at": "2026-04-17T15:27:31Z",
+  "jurabk": "VersRMAbschR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f630ae35b7e33cfad72b285ccc726d9316f0bfa8014c074daaefb7f3389ef300"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/versrmabschr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/versrmabschr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Richtlinien zur Erstellung des Reichsmarkabschlusses und der Umstellungsrechnung der Versicherungsunternehmer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

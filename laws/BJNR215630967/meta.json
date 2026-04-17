@@ -1,0 +1,26 @@
+{
+  "amtabk": "EBO",
+  "ausfertigung_datum": "1967-05-08",
+  "bjnr": "BJNR215630967",
+  "eli": null,
+  "gii_slug": "ebo",
+  "ingested_at": "2026-04-17T15:20:12Z",
+  "jurabk": "EBO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "195d7caf10bac658fb3391b5f5c63acaf01b517401490013bd4953c6a353d124"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ebo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ebo/xml.zip"
+  },
+  "stand_datum": "2019-04-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 5.4.2019 I 479",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Eisenbahn-Bau- und Betriebsordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

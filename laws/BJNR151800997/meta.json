@@ -1,0 +1,26 @@
+{
+  "amtabk": "1. NOG",
+  "ausfertigung_datum": "1997-06-23",
+  "bjnr": "BJNR151800997",
+  "eli": null,
+  "gii_slug": "gkvnog_1",
+  "ingested_at": "2026-04-17T15:16:27Z",
+  "jurabk": "GKVNOG 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7c285c732a085cafbdb39d278a8b3bcd28c14c12be914c931da2b6c51efbdcf6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gkvnog_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gkvnog_1/xml.zip"
+  },
+  "stand_datum": "1998-03-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 24.3.1998 I 526",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Erstes Gesetz zur Neuordnung von Selbstverwaltung und Eigenverantwortung in der gesetzlichen Krankenversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

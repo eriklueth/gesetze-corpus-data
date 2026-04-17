@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1966-06-21",
+  "bjnr": "BJNR208820974",
+  "eli": null,
+  "gii_slug": "iao_bk_126",
+  "ingested_at": "2026-04-17T15:22:55Z",
+  "jurabk": "IAOÜbk 126",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "faa3778138a9b67772874dcb7d8d8949705c4d07f09602a83a327ad470b556a5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/iao_bk_126/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/iao_bk_126/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen Nr. 126 (der Internationalen Arbeitsorganisation) über die Quartierräume an Bord von Fischereifahrzeugen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

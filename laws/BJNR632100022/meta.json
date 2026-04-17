@@ -1,0 +1,26 @@
+{
+  "amtabk": "LNGV",
+  "ausfertigung_datum": "2022-11-16",
+  "bjnr": "BJNR632100022",
+  "eli": null,
+  "gii_slug": "lngv",
+  "ingested_at": "2026-04-17T15:24:08Z",
+  "jurabk": "LNGV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fb51d6f3409c89023339404d7a373f706f1f003b4c7e841b4fccd42247664664"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lngv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lngv/xml.zip"
+  },
+  "stand_datum": "2027-12-31",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 24 Satz 2 dieser V mit Ablauf des 31.12.2027 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zu regulatorischen Rahmenbedingungen für LNG-Anlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "StrafAktÜbV",
+  "ausfertigung_datum": "2020-04-14",
+  "bjnr": "BJNR079900020",
+  "eli": null,
+  "gii_slug": "strafakt_bv",
+  "ingested_at": "2026-04-17T15:28:59Z",
+  "jurabk": "StrafAktÜbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fbfdec6e2558ef98ff3db6b6d00b771d2120b51f1f573c6911cfabe90efe1590"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/strafakt_bv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/strafakt_bv/xml.zip"
+  },
+  "stand_datum": "2024-07-12",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 39 G v. 12.7.2024 I Nr. 234",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Standards für die Übermittlung elektronischer Akten zwischen Strafverfolgungsbehörden und Gerichten im Strafverfahren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

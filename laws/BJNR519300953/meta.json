@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1953-10-01",
+  "bjnr": "BJNR519300953",
+  "eli": null,
+  "gii_slug": "auslwbgdv_6",
+  "ingested_at": "2026-04-17T15:17:25Z",
+  "jurabk": "AuslWBGDV 6",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "497c639f28c8bc11e9ca9b744664fbb87b04285ed69fae0b887ed316932b207a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/auslwbgdv_6/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/auslwbgdv_6/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Sechste Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Belgien)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

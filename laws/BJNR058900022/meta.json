@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZahntechAusbV",
+  "ausfertigung_datum": "2022-03-23",
+  "bjnr": "BJNR058900022",
+  "eli": null,
+  "gii_slug": "zahntechausbv",
+  "ingested_at": "2026-04-17T15:31:15Z",
+  "jurabk": "ZahntechAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9461aaa90a3ac2ce1aaea69d4fbabb00d26354fe9a0523c2731de1a45cf5afad"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zahntechausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zahntechausbv/xml.zip"
+  },
+  "stand_datum": "1997-12-11",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 7110-6-67 v. 11.12.1997 I 3182 (ZTechAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Zahntechniker und zur Zahntechnikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

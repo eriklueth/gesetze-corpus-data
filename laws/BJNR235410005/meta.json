@@ -1,0 +1,26 @@
+{
+  "amtabk": "VwZG",
+  "ausfertigung_datum": "2005-08-12",
+  "bjnr": "BJNR235410005",
+  "eli": null,
+  "gii_slug": "vwzg_2005",
+  "ingested_at": "2026-04-17T15:30:19Z",
+  "jurabk": "VwZG 2005",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5b26ffb59a56344da5613cd0c7b28531482d78af410acd40bad645b93b353d80"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vwzg_2005/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vwzg_2005/xml.zip"
+  },
+  "stand_datum": "2024-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 15.7.2024 I Nr. 236",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verwaltungszustellungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

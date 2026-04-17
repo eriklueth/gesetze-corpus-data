@@ -1,0 +1,21 @@
+{
+  "amtabk": "KRITISDachG",
+  "ausfertigung_datum": "2026-03-11",
+  "bjnr": "BJNR0420B0026",
+  "eli": null,
+  "gii_slug": "kritisdachg",
+  "ingested_at": "2026-04-17T15:23:54Z",
+  "jurabk": "KRITISDachG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4f249b13960b8ba27c7a2ffdd757190ed062312c5f4583267a43a19aa3ccca3a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kritisdachg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kritisdachg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Dachgesetz zur Stärkung der physischen Resilienz kritischer Anlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

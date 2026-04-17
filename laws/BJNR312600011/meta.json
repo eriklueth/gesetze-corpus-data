@@ -1,0 +1,30 @@
+{
+  "amtabk": "VUDat-DV",
+  "ausfertigung_datum": "2011-12-21",
+  "bjnr": "BJNR312600011",
+  "eli": null,
+  "gii_slug": "vudat-dv",
+  "ingested_at": "2026-04-17T15:30:18Z",
+  "jurabk": "VUDat-DV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "35e46d5b2ab669d997afc7af6dce7c021a8b2fd37cbd8b3f81e978010575088b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vudat-dv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vudat-dv/xml.zip"
+  },
+  "stand_datum": "2023-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 30 G v. 2.3.2023 I Nr. 56",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 V v. 5.3.2026 I Nr. 63 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der Verkehrsunternehmensdatei nach dem Güterkraftverkehrsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

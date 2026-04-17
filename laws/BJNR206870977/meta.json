@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-12-04",
+  "bjnr": "BJNR206870977",
+  "eli": null,
+  "gii_slug": "sozsichabk_esp_2",
+  "ingested_at": "2026-04-17T15:28:26Z",
+  "jurabk": "SozSichAbk ESP 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "856242682a51b55694baa07be09ac982fcf645f5ee9681557679a5261bc477a5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabk_esp_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabk_esp_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

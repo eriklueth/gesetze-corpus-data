@@ -1,0 +1,21 @@
+{
+  "amtabk": "GesRV",
+  "ausfertigung_datum": "2022-12-16",
+  "bjnr": "BJNR242210022",
+  "eli": null,
+  "gii_slug": "gesrv",
+  "ingested_at": "2026-04-17T15:22:07Z",
+  "jurabk": "GesRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "43848f155e341346fa43679c4b62262ef39e3bee47efaed32608f97ae2b2540f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gesrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gesrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Einrichtung und Führung des Gesellschaftsregisters",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

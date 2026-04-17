@@ -1,0 +1,21 @@
+{
+  "amtabk": "HAV",
+  "ausfertigung_datum": "1974-11-04",
+  "bjnr": "BJNR031190974",
+  "eli": null,
+  "gii_slug": "hav",
+  "ingested_at": "2026-04-17T15:22:34Z",
+  "jurabk": "HAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9cb230840ae7f769bbba53c6256984f3130ae65b75b75545c03bde638df5eeae"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hav/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

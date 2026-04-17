@@ -1,0 +1,26 @@
+{
+  "amtabk": "KOV",
+  "ausfertigung_datum": "1967-07-31",
+  "bjnr": "BJNR008600967",
+  "eli": null,
+  "gii_slug": "koverstv",
+  "ingested_at": "2026-04-17T15:23:50Z",
+  "jurabk": "KOVErstV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c08fcee213ea50972da7be75b739ffd2b51c5ab32c4ffe38054cd07b02f4194d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/koverstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/koverstv/xml.zip"
+  },
+  "stand_datum": "2006-10-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 371 V v. 31.10.2006 I 2407",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die vom Bund zu tragenden Aufwendungen für die Heil- und Krankenbehandlung Versorgungsberechtigter in Versorgungskrankenanstalten der Länder",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

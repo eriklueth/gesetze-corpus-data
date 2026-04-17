@@ -1,0 +1,26 @@
+{
+  "amtabk": "MarkschBergV",
+  "ausfertigung_datum": "1986-12-19",
+  "bjnr": "BJNR026310986",
+  "eli": null,
+  "gii_slug": "markschbergv",
+  "ingested_at": "2026-04-17T15:24:44Z",
+  "jurabk": "MarkschBergV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2d61ce2d45f3b9e9e1a41f0dbbc65841c7cea619bfb21937dbe31b71070d8622"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/markschbergv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/markschbergv/xml.zip"
+  },
+  "stand_datum": "2020-07-21",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 21.7.2020 I 1702",
+      "typ": "Neuf"
+    }
+  ],
+  "title": "Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

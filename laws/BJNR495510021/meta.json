@@ -1,0 +1,21 @@
+{
+  "amtabk": "WasserstoffNEV",
+  "ausfertigung_datum": "2021-11-23",
+  "bjnr": "BJNR495510021",
+  "eli": null,
+  "gii_slug": "wasserstoffnev",
+  "ingested_at": "2026-04-17T15:30:22Z",
+  "jurabk": "WasserstoffNEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c21a87587316c2dbe340c552412b67de4619ede6cfa52c1020875b1c5dd832ef"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wasserstoffnev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wasserstoffnev/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Kosten und Entgelte für den Zugang zu Wasserstoffnetzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

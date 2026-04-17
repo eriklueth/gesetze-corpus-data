@@ -1,0 +1,26 @@
+{
+  "amtabk": "URüV",
+  "ausfertigung_datum": "1991-07-13",
+  "bjnr": "BJNR015420991",
+  "eli": null,
+  "gii_slug": "ur_v",
+  "ingested_at": "2026-04-17T15:29:55Z",
+  "jurabk": "URüV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "601e83e3ce66d48527d283bade652fb324f8fad9c778603117a50449ea962dc6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ur_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ur_v/xml.zip"
+  },
+  "stand_datum": "2021-05-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 15 Abs. 34 G v. 4.5.2021 I 882",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Vermögensgesetz über die Rückgabe von Unternehmen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

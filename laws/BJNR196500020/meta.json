@@ -1,0 +1,26 @@
+{
+  "amtabk": "GwGMeldV-Immobilien",
+  "ausfertigung_datum": "2020-08-20",
+  "bjnr": "BJNR196500020",
+  "eli": null,
+  "gii_slug": "imgwgmeldv",
+  "ingested_at": "2026-04-17T15:22:33Z",
+  "jurabk": "ImGwGMeldV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4f4bdf5693083929ccbd0b3b06622a11714d1ef3bdbb8de8d822597e7117cc0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/imgwgmeldv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/imgwgmeldv/xml.zip"
+  },
+  "stand_datum": "2025-01-15",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 15.1.2025 I Nr. 13",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zu den nach dem Geldwäschegesetz meldepflichtigen Sachverhalten im Immobilienbereich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

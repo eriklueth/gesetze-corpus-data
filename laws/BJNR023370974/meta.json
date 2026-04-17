@@ -1,0 +1,30 @@
+{
+  "amtabk": "BPersVWO",
+  "ausfertigung_datum": "1974-09-23",
+  "bjnr": "BJNR023370974",
+  "eli": null,
+  "gii_slug": "bpersvwo",
+  "ingested_at": "2026-04-17T15:18:52Z",
+  "jurabk": "BPersVWO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ae3b227fd5576da8be1efd7e971247ccdd30b8ed8f2fc7c6f544b9d037ba6bee"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpersvwo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpersvwo/xml.zip"
+  },
+  "stand_datum": "1994-12-01",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 1.12.1994 I 3653;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 23 G v. 9.6.2021 I 1614",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Wahlordnung zum Bundespersonalvertretungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "14. RAG",
+  "ausfertigung_datum": "1971-08-10",
+  "bjnr": "BJNR012570971",
+  "eli": null,
+  "gii_slug": "rag_14",
+  "ingested_at": "2026-04-17T15:16:30Z",
+  "jurabk": "RAG 14",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "785f88cca242345b9c962331999ef0231ff19c9ec62acdcc78a251866b9b039d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rag_14/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rag_14/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vierzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

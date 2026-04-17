@@ -1,0 +1,21 @@
+{
+  "amtabk": "MiLoV4",
+  "ausfertigung_datum": "2023-11-24",
+  "bjnr": "BJNR1410A0023",
+  "eli": null,
+  "gii_slug": "milov4",
+  "ingested_at": "2026-04-17T15:24:51Z",
+  "jurabk": "MiLoV4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cce3ba2d3ec4beeafae712863c09da89e3a2a4afb2e909916cb4f68bf9b6000f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/milov4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/milov4/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vierte Verordnung zur Anpassung der Höhe des Mindestlohns",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

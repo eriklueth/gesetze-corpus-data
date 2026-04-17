@@ -1,0 +1,21 @@
+{
+  "amtabk": "SiebdrAusbV",
+  "ausfertigung_datum": "2011-04-07",
+  "bjnr": "BJNR059000011",
+  "eli": null,
+  "gii_slug": "siebdrausbv_2011",
+  "ingested_at": "2026-04-17T15:28:15Z",
+  "jurabk": "SiebdrAusbV 2011",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "70f2db3209b37db30e582a0de68f775a2aef3338e1f5a4a69921d6b1d566d25d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/siebdrausbv_2011/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/siebdrausbv_2011/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Medientechnologen Siebdruck und zur Medientechnologin Siebdruck",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

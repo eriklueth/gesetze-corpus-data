@@ -1,0 +1,21 @@
+{
+  "amtabk": "KAGBAuslAnzV",
+  "ausfertigung_datum": "2022-11-23",
+  "bjnr": "BJNR209100022",
+  "eli": null,
+  "gii_slug": "kagbauslanzv",
+  "ingested_at": "2026-04-17T15:23:21Z",
+  "jurabk": "KAGBAuslAnzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fb1f0b01a137116ceffe4e5bcebfac1a92d3e07d3477d60f02630eb1a4de98de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kagbauslanzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kagbauslanzv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Anzeigen und die Vorlage von Unterlagen nach § 36 des Kapitalanlagegesetzbuchs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

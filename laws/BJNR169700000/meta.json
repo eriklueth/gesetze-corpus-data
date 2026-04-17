@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2000-11-10",
+  "bjnr": "BJNR169700000",
+  "eli": null,
+  "gii_slug": "bavsitzbek",
+  "ingested_at": "2026-04-17T15:17:43Z",
+  "jurabk": "BAVSitzBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "51c4961c5c35ccb7a029df312c4f7a163776dc8c089aa60b4be1dec2011e422d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bavsitzbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bavsitzbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über den Dienstsitz des Bundesaufsichtsamtes für das Versicherungswesen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

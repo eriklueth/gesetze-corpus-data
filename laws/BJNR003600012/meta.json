@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-12-21",
+  "bjnr": "BJNR003600012",
+  "eli": null,
+  "gii_slug": "m_nz2eurobek_2012",
+  "ingested_at": "2026-04-17T15:25:36Z",
+  "jurabk": "Münz2EuroBek 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e21dde3c94222fadf34c5acb8babeeae4fa513c9bc995392bab2619da11ba685"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz2eurobek_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz2eurobek_2012/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „10 Jahre Euro-Bargeld“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

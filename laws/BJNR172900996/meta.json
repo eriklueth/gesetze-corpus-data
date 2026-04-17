@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-11-13",
+  "bjnr": "BJNR172900996",
+  "eli": null,
+  "gii_slug": "flaggano_1996",
+  "ingested_at": "2026-04-17T15:21:26Z",
+  "jurabk": "FlaggAnO 1996",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0c3779aada35cb0134a3f14b231b1b6149f3cc0337611d60295bdcbdf5466378"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flaggano_1996/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flaggano_1996/xml.zip"
+  },
+  "stand_datum": "2005-11-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch AnO v. 22.11.2005 I 3181",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Anordnung über die deutschen Flaggen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

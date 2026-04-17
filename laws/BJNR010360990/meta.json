@@ -1,0 +1,26 @@
+{
+  "amtabk": "16. BImSchV",
+  "ausfertigung_datum": "1990-06-12",
+  "bjnr": "BJNR010360990",
+  "eli": null,
+  "gii_slug": "bimschv_16",
+  "ingested_at": "2026-04-17T15:16:32Z",
+  "jurabk": "BImSchV 16",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1eed7b18640bedcf76af84b3983811fdf98292f336d68bfbb0842ee8e849c34a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_16/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_16/xml.zip"
+  },
+  "stand_datum": "2020-11-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 4.11.2020 I 2334",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Sechzehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

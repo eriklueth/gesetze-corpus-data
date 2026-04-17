@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2022-05-25",
+  "bjnr": "BJNR082500022",
+  "eli": null,
+  "gii_slug": "pf_ndfreigrbek_2022",
+  "ingested_at": "2026-04-17T15:26:38Z",
+  "jurabk": "PfändfreiGrBek 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "08d7cd664c24498aa7fd3ec5db06288b8913dc13a92cf437197a0c34265e0843"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pf_ndfreigrbek_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pf_ndfreigrbek_2022/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu den Pfändungsfreigrenzen 2022 nach § 850c der Zivilprozessordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

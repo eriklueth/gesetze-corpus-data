@@ -1,0 +1,30 @@
+{
+  "amtabk": "GüKG",
+  "ausfertigung_datum": "1998-06-22",
+  "bjnr": "BJNR148510998",
+  "eli": null,
+  "gii_slug": "g_kg_1998",
+  "ingested_at": "2026-04-17T15:22:31Z",
+  "jurabk": "GüKG 1998",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "73cc214d8f98421b6132bdc58a09774d327584e860d961522cdffeb4e8888a3b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/g_kg_1998/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/g_kg_1998/xml.zip"
+  },
+  "stand_datum": "2024-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 39 G v. 15.7.2024 I Nr. 236",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Güterkraftverkehrsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

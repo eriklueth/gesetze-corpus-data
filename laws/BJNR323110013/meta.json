@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-08-14",
+  "bjnr": "BJNR323110013",
+  "eli": null,
+  "gii_slug": "ustatg2005berpflentlv",
+  "ingested_at": "2026-04-17T15:29:56Z",
+  "jurabk": "UStatG2005BerPflEntlV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f0489573e933f960ac3a0a1a7964e81c39a2eb741aa5256f12601a4c74d3e695"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ustatg2005berpflentlv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ustatg2005berpflentlv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Entlastung der nichtöffentlichen Betriebe, die Wasser gewinnen sowie Wasser oder Abwasser in Gewässer einleiten, von Berichtspflichten nach dem Umweltstatistikgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-12-18",
+  "bjnr": "BJNR1530A0025",
+  "eli": null,
+  "gii_slug": "bmfstrubvfpaktv",
+  "ingested_at": "2026-04-17T15:18:39Z",
+  "jurabk": "BMFStruBVfPAktV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "345db61365fec61a8f985d7c47571d1024d2fed717eee5e9431ce97444568ae5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmfstrubvfpaktv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmfstrubvfpaktv/xml.zip"
+  },
+  "stand_datum": "2026-12-31",
+  "standangabe": [
+    {
+      "kommentar": "V aufgeh. durch § 3 dieser V mit Ablauf des 31.12.2026",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zur Ermöglichung der Anlegung, Führung und Weiterführung papiergebundener Akten in Straf- und Bußgeldverfahren im Geschäftsbereich des Bundesministeriums der Finanzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

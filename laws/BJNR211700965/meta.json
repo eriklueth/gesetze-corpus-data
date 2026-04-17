@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1964-04-30",
+  "bjnr": "BJNR211700965",
+  "eli": null,
+  "gii_slug": "sozsichabk_tur",
+  "ingested_at": "2026-04-17T15:28:27Z",
+  "jurabk": "SozSichAbk TUR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ba7a0df50ddeca48e6ad414702e85c25e738103c4635c563cd31b5230df18b2c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabk_tur/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabk_tur/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Türkei über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

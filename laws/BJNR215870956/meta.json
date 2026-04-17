@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-12-22",
+  "bjnr": "BJNR215870956",
+  "eli": null,
+  "gii_slug": "saarvtrg",
+  "ingested_at": "2026-04-17T15:27:38Z",
+  "jurabk": "SaarVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1cb301a6e5f90c917c60d3486e165106fa347aad23790732e55fc504f10ecd32"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/saarvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/saarvtrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über den Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Regelung der Saarfrage",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

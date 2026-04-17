@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1964-07-29",
+  "bjnr": "BJNR005600964",
+  "eli": null,
+  "gii_slug": "geswzustg",
+  "ingested_at": "2026-04-17T15:22:08Z",
+  "jurabk": "GesWZustG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "42de8f956424b4b7163c9588c9d784e6403d9504c4eab4c549feeedc6a14ad3a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/geswzustg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/geswzustg/xml.zip"
+  },
+  "stand_datum": "2001-10-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 27 V v. 29.10.2001 I 2785",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Übergang von Zuständigkeiten auf dem Gebiete des Rechts des Gesundheitswesens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

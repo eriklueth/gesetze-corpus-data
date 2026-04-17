@@ -1,0 +1,26 @@
+{
+  "amtabk": "1. FlGDV",
+  "ausfertigung_datum": "2008-11-12",
+  "bjnr": "BJNR218610008",
+  "eli": null,
+  "gii_slug": "flgdv_1",
+  "ingested_at": "2026-04-17T15:16:27Z",
+  "jurabk": "FlGDV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "078b8cf028edd732bdb4367e72b46e629c0c5da0187b89b6ae9ac43289355960"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flgdv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flgdv_1/xml.zip"
+  },
+  "stand_datum": "2024-10-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 30.10.2024 I Nr. 342",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Preismeldung bei Schlachtkörpern und deren Kennzeichnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

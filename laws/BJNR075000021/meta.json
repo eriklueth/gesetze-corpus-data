@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2021-04-09",
+  "bjnr": "BJNR075000021",
+  "eli": null,
+  "gii_slug": "opfbeinr_barchg2017ua_ndg",
+  "ingested_at": "2026-04-17T15:26:16Z",
+  "jurabk": "OpfBEinr/BArchG2017uaÄndG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "87da528ef4ea218da11a28a9695d5c67eae96bd4c8ede24ecc51e4f47406c45f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/opfbeinr_barchg2017ua_ndg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/opfbeinr_barchg2017ua_ndg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Änderung des Bundesarchivgesetzes, des Stasi-Unterlagen-Gesetzes und zur Einrichtung einer oder eines SED-Opferbeauftragten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

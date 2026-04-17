@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1955-06-02",
+  "bjnr": "BJNR102710955",
+  "eli": null,
+  "gii_slug": "wzg_35prybek",
+  "ingested_at": "2026-04-17T15:31:06Z",
+  "jurabk": "WZG§35PRYBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9122b9ec2439db582079fe8623abe4b5e0bb25527acc3dea48a4590e98b34293"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35prybek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35prybek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

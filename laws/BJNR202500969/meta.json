@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1966-04-05",
+  "bjnr": "BJNR202500969",
+  "eli": null,
+  "gii_slug": "frbord_bk",
+  "ingested_at": "2026-04-17T15:21:41Z",
+  "jurabk": "FrBordÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9d6a65f5eccf079d99125893eb1749fe82ec7da58e56b473b444c12c4ffe84c8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/frbord_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/frbord_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationales Freibord-Übereinkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

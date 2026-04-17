@@ -1,0 +1,21 @@
+{
+  "amtabk": "MedaillenV",
+  "ausfertigung_datum": "2005-10-31",
+  "bjnr": "BJNR311700005",
+  "eli": null,
+  "gii_slug": "medaillenv",
+  "ingested_at": "2026-04-17T15:24:48Z",
+  "jurabk": "MedaillenV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "84fbf339c1a5fde8033537dfa829e0634ab2207cd92c49a35be071bd41b7bf33"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/medaillenv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/medaillenv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Herstellung und den Vertrieb von Medaillen und Münzstücken zum Schutz deutscher Euro-Gedenkmünzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1985-05-13",
+  "bjnr": "BJNR007760985",
+  "eli": null,
+  "gii_slug": "hgfsnatschv",
+  "ingested_at": "2026-04-17T15:22:40Z",
+  "jurabk": "HgFSNatSchV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "224c3744ce7deedde8e153a11dee51119533bd51410c35701cb45a640df1e75a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hgfsnatschv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hgfsnatschv/xml.zip"
+  },
+  "stand_datum": "2016-06-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 25 V v. 2.6.2016 I 1257",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Befahren des Naturschutzgebietes \"Helgoländer Felssockel\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

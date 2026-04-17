@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-03-28",
+  "bjnr": "BJNR203280978",
+  "eli": null,
+  "gii_slug": "eurhi_bkvtrfrag",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "EuRHiÜbkVtrFRAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9b7fff6ab94472ee54f44d6ca0dc5483f0c6063fce55bf3f0bf4c712e273e966"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurhi_bkvtrfrag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurhi_bkvtrfrag/xml.zip"
+  },
+  "stand_datum": "1982-12-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 83 Abs. 1 Nr. 6 G v. 23.12.1982 I 2071",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Vertrag vom 24. Oktober 1974 zwischen der Bundesrepublik Deutschland und der Französischen Republik zu dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

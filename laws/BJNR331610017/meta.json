@@ -1,0 +1,30 @@
+{
+  "amtabk": "MBankDVDV",
+  "ausfertigung_datum": "2017-08-30",
+  "bjnr": "BJNR331610017",
+  "eli": null,
+  "gii_slug": "mbankdvdv",
+  "ingested_at": "2026-04-17T15:24:46Z",
+  "jurabk": "MBankDVDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "42b2c6556f9ffd022a8ed3ca80d27f327faf46befce06d0d6f7c5aba1e42309c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mbankdvdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mbankdvdv/xml.zip"
+  },
+  "stand_datum": "2025-08-12",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V vom 12.8.2025 I Nr. 199",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2030-8-3-2 v. 11.8.2011 I 1717 (MBankDAPrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den mittleren Bankdienst der Deutschen Bundesbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "SIVFPrV",
+  "ausfertigung_datum": "2024-09-24",
+  "bjnr": "BJNR1280F0024",
+  "eli": null,
+  "gii_slug": "sivfprv",
+  "ingested_at": "2026-04-17T15:28:15Z",
+  "jurabk": "SIVFPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "205f3ed1bc2022205f65b370d3f68728040d518410ca4b813e39c96805b69e07"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sivfprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sivfprv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Systemintegration und Vernetzung oder Geprüfte Berufsspezialistin für Systemintegration und Vernetzung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

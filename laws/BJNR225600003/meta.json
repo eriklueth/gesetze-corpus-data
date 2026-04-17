@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-11-14",
+  "bjnr": "BJNR225600003",
+  "eli": null,
+  "gii_slug": "kk_nog",
+  "ingested_at": "2026-04-17T15:23:37Z",
+  "jurabk": "KKÜNOG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "305387eac558048fbb4de84f9ee84910f27ee3cec953e97d65a66710b64ba3e6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kk_nog/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kk_nog/xml.zip"
+  },
+  "stand_datum": "2007-03-26",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 39 G v. 26.3.2007 I 378",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu Übergangsregelungen zur Neuorganisation der vertragsärztlichen Selbstverwaltung und Organisation der Krankenkassen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

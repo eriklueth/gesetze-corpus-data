@@ -1,0 +1,21 @@
+{
+  "amtabk": "SBBFestV 2014",
+  "ausfertigung_datum": "2014-12-09",
+  "bjnr": "BJNR200400014",
+  "eli": null,
+  "gii_slug": "sbbfestv_2014",
+  "ingested_at": "2026-04-17T15:27:39Z",
+  "jurabk": "SBBFestV 2014",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f324969efb6443ea1d1849cbf289285e43eecbccf38d0b4654782151f4c34d33"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sbbfestv_2014/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sbbfestv_2014/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Festlegung der Höhe der Sonderentlastung von Kommunen mit besonderen Herausforderungen aus dem Zuzug aus anderen EU-Mitgliedstaaten über die Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2014",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

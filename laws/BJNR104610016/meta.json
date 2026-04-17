@@ -1,0 +1,26 @@
+{
+  "amtabk": "ImmVermV",
+  "ausfertigung_datum": "2016-04-28",
+  "bjnr": "BJNR104610016",
+  "eli": null,
+  "gii_slug": "immvermv",
+  "ingested_at": "2026-04-17T15:22:59Z",
+  "jurabk": "ImmVermV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f78fb6e995b6409519bd2736adfb632f0b28b1aaf0ada94a50b8b5ff14cf15f0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/immvermv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/immvermv/xml.zip"
+  },
+  "stand_datum": "2024-12-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 11 V v. 11.12.2024 I Nr. 411",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Immobiliardarlehensvermittlung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

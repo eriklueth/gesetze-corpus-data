@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1982-11-30",
+  "bjnr": "BJNR210060982",
+  "eli": null,
+  "gii_slug": "kathilabkbelg",
+  "ingested_at": "2026-04-17T15:23:23Z",
+  "jurabk": "KatHiLAbkBELG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "905547a2efc1e0ae6348c0587715f653883a96bc947bf16e1d18c24e30fd42f7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kathilabkbelg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kathilabkbelg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 6. November 1980 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

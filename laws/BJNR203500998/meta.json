@@ -1,0 +1,26 @@
+{
+  "amtabk": "EuGHG",
+  "ausfertigung_datum": "1998-08-06",
+  "bjnr": "BJNR203500998",
+  "eli": null,
+  "gii_slug": "eughg",
+  "ingested_at": "2026-04-17T15:20:54Z",
+  "jurabk": "EuGHG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fea557f5a744e1b0a221cc7e91152baac445d3cae6bb0a10d7c62ad7641a73b5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eughg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eughg/xml.zip"
+  },
+  "stand_datum": "1999-04-19",
+  "standangabe": [
+    {
+      "kommentar": "Dieses G ist gem. § 2 iVm Bek. v. 19.4.1999 I 728 am 1.5.1999 in Kraft getreten.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz betreffend die Anrufung des Gerichtshofes der Europäischen Gemeinschaften im Wege des Vorabentscheidungsverfahrens auf dem Gebiet der polizeilichen Zusammenarbeit und der justitiellen Zusammenarbeit in Strafsachen nach Artikel 35 des EU-Vertrages",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

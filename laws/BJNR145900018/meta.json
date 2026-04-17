@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-09-21",
+  "bjnr": "BJNR145900018",
+  "eli": null,
+  "gii_slug": "binschuo2018anh_iii",
+  "ingested_at": "2026-04-17T15:18:26Z",
+  "jurabk": "BinSchUO2018Anh III",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4cbd1d8dfb9d4c996a9f09af2a423aec04cbb146b4ae5e749a21843e309a46c2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschuo2018anh_iii/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschuo2018anh_iii/xml.zip"
+  },
+  "stand_datum": "2025-10-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 Nr. 16 V v. 14.10.2025 I Nr. 242",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zusätzliche technische Vorschriften für Fahrzeuge auf Binnenwasserstraßen der Zonen 1 und 2",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

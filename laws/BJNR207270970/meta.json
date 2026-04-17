@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-07-04",
+  "bjnr": "BJNR207270970",
+  "eli": null,
+  "gii_slug": "rheinausbvtr",
+  "ingested_at": "2026-04-17T15:27:20Z",
+  "jurabk": "RheinAusbVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ff06ec3927d9705d3a6ccdfb3e8fbbd13ae31d8417e3fc1087f684f66a85d5de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rheinausbvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rheinausbvtr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik über den Ausbau des Rheins zwischen Kehl/Straßburg und Neuburgweier/Lauterburg",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

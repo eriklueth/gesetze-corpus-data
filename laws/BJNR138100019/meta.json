@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2019-08-07",
+  "bjnr": "BJNR138100019",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2019-08-07_4",
+  "ingested_at": "2026-04-17T15:25:29Z",
+  "jurabk": "Münz20EuroBek 2019-08-07/4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a5aedb117ddb34d01aa1e3e1258b53e63fa742c254eee0041af8383a5bc2342a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2019-08-07_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2019-08-07_4/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Wanderfalke“ der Serie „Heimische Vögel“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

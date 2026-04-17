@@ -1,0 +1,21 @@
+{
+  "amtabk": "LuftVStAbsenkV 2018",
+  "ausfertigung_datum": "2017-12-01",
+  "bjnr": "BJNR385800017",
+  "eli": null,
+  "gii_slug": "luftvstabsenkv_2018",
+  "ingested_at": "2026-04-17T15:24:32Z",
+  "jurabk": "LuftVStAbsenkV 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a8520b10189924656816addbbf533448d8635c7fb9453ba29298733bbb13e2d7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvstabsenkv_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvstabsenkv_2018/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Absenkung der Steuersätze im Jahr 2018 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

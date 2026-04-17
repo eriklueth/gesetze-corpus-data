@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-03-12",
+  "bjnr": "BJNR032000015",
+  "eli": null,
+  "gii_slug": "seeversnachwganwbek",
+  "ingested_at": "2026-04-17T15:28:01Z",
+  "jurabk": "SeeVersNachwGAnwBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e8db8d63c551ae98ce340145ca8a83085cfbe44c3ceb809ad2f87d1efcb22631"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seeversnachwganwbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seeversnachwganwbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Anwendbarkeit von Teilen des Seeversicherungsnachweisgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

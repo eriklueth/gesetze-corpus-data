@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-02-20",
+  "bjnr": "BJNR002240979",
+  "eli": null,
+  "gii_slug": "prlagerhbeihv",
+  "ingested_at": "2026-04-17T15:26:59Z",
+  "jurabk": "PrLagerhBeihV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "be9481491d9fa5002ca8fac7354c077d18967de6c7ae1ed64e596d9fe5652dcc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/prlagerhbeihv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/prlagerhbeihv/xml.zip"
+  },
+  "stand_datum": "1994-08-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 50 G v. 2.8.1994 I 2018",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung bestimmter Milcherzeugnisse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

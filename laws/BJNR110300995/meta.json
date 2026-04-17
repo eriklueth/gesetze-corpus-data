@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-06-26",
+  "bjnr": "BJNR110300995",
+  "eli": null,
+  "gii_slug": "bminptdiszano",
+  "ingested_at": "2026-04-17T15:18:41Z",
+  "jurabk": "BMinPTDiszAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f480fcc667b3ec75e0e8c5396eafae4b84358fe245ee98679b6c38444cfc101a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bminptdiszano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bminptdiszano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung disziplinarrechtlicher Befugnisse im Geschäftsbereich des Bundesministeriums für Post und Telekommunikation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

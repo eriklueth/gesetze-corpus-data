@@ -1,0 +1,21 @@
+{
+  "amtabk": "14. BImSchV",
+  "ausfertigung_datum": "1986-04-09",
+  "bjnr": "BJNR003800986",
+  "eli": null,
+  "gii_slug": "bimschv_14",
+  "ingested_at": "2026-04-17T15:16:30Z",
+  "jurabk": "BImSchV 14",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "abfa297d96f7ee127041b1d723c88751fb26aa4c8b5d22ad285049a2f6ea5f03"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_14/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_14/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vierzehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

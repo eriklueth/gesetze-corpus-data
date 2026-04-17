@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-05-17",
+  "bjnr": "BJNR004160965",
+  "eli": null,
+  "gii_slug": "bt_o",
+  "ingested_at": "2026-04-17T15:19:18Z",
+  "jurabk": "BTÄO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e950d086513451da1350971a80f968403e95d61c22f398bcae2ee8945d361068"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bt_o/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bt_o/xml.zip"
+  },
+  "stand_datum": "1981-11-20",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 20.11.1981 I 1193;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 6 G v. 15.8.2019 I 1307",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundes-Tierärzteordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

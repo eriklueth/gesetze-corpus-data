@@ -1,0 +1,632 @@
+{
+  "bjnr": "BJNR215630967",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Geltungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Allgemeine Anforderungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Ausnahmen, Genehmigungen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines"
+      ],
+      "file": "paragraphs/0003a.md",
+      "heading": "Grenzbetriebsstrecken und Durchgangsstrecken",
+      "number": "§ 3a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Begriffserklärungen",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Spurweite",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Gleisbogen",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Gleisneigung",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Belastbarkeit des Oberbaus und der Bauwerke",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Regellichtraum",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Gleisabstand",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Bahnübergänge",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Höhengleiche Kreuzungen von Schienenbahnen",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Bahnsteige, Rampen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Signale und Weichen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Streckenblock, Zugbeeinflussung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Fernmeldeanlagen",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Zweiter Abschnitt Bahnanlagen"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Untersuchen und Überwachen der Bahnanlagen",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Einteilung, Begriffserklärungen",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Radsatzlasten und Fahrzeuggewichte je Längeneinheit",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Räder und Radsätze",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Begrenzung der Fahrzeuge",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Bremsen",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Zug- und Stoßeinrichtungen",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Freie Räume und Bauteile an den Fahrzeugenden",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Ausrüstung und Anschriften",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Abnahme und Untersuchung der Fahrzeuge",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Dritter Abschnitt Fahrzeuge"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Überwachungsbedürftige Anlagen der Fahrzeuge",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Begriff, Art und Länge der Züge",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Bremsen der Züge",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Zusammenstellen der Züge",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Ausrüsten der Züge mit Mitteln zur ersten Hilfeleistung",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Fahrordnung",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Zugfolge",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Fahrgeschwindigkeit",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Rangieren, Hemmschuhe",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Sichern stillstehender Fahrzeuge",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Besetzen der Triebfahrzeuge und Züge",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Vierter Abschnitt Bahnbetrieb"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Fünfter Abschnitt Personal"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Betriebsbeamte",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Fünfter Abschnitt Personal"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Anforderungen an Betriebsbeamte",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Fünfter Abschnitt Personal"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Ausbildung, Prüfung",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Betreten und Benutzen der Bahnanlagen und Fahrzeuge",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Verhalten auf dem Gebiet der Bahnanlagen",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Beschädigen der Bahn und betriebsstörende Handlungen",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "paragraphs/0064a.md",
+      "heading": "Eisenbahnbedienstete",
+      "number": "§ 64a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "paragraphs/0064b.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 64b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Übergangsregelung",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 9)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 9)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(zu § 9)",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "(zu § 10)",
+      "number": "Anlage 4",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0005.md",
+      "heading": "(zu § 11)",
+      "number": "Anlage 5",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0006.md",
+      "heading": "(zu § 21)",
+      "number": "Anlage 6",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0007.md",
+      "heading": "(zu § 22)",
+      "number": "Anlage 7",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0008.md",
+      "heading": "(zu § 22)",
+      "number": "Anlage 8",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0009.md",
+      "heading": "(zu § 22)",
+      "number": "Anlage 9",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0010.md",
+      "heading": "(zu § 24)",
+      "number": "Anlage 10",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt Allgemeines",
+        "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
+      ],
+      "file": "annexes/0011.md",
+      "heading": "(zu § 25)",
+      "number": "Anlage 11",
+      "type": "annex"
+    }
+  ]
+}

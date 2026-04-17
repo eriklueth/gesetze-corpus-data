@@ -1,0 +1,26 @@
+{
+  "amtabk": "FELEG",
+  "ausfertigung_datum": "1989-02-21",
+  "bjnr": "BJNR002330989",
+  "eli": null,
+  "gii_slug": "feleg",
+  "ingested_at": "2026-04-17T15:21:17Z",
+  "jurabk": "FELEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2c75e5562c5d6d4bad633a132f500faa1ed6d2d547017faa23523226afac78e1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/feleg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/feleg/xml.zip"
+  },
+  "stand_datum": "2023-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 13b G v. 22.12.2023 I Nr. 408",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Förderung der Einstellung der landwirtschaftlichen Erwerbstätigkeit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

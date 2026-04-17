@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1970-12-22",
+  "bjnr": "BJNR018469970",
+  "eli": null,
+  "gii_slug": "wgsvg_ndg",
+  "ingested_at": "2026-04-17T15:30:31Z",
+  "jurabk": "WGSVGÄndG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d1001736ac71e7bf2d897374270140b56467978bfbbbabc810ca017c3c1b1c93"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wgsvg_ndg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wgsvg_ndg/xml.zip"
+  },
+  "stand_datum": "1991-07-25",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 21 G v. 25.7.1991 I 1606",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Änderung und Ergänzung der Vorschriften über die Wiedergutmachung nationalsozialistischen Unrechts in der Sozialversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

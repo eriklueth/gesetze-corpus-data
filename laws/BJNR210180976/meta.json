@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-10-20",
+  "bjnr": "BJNR210180976",
+  "eli": null,
+  "gii_slug": "seestro1972_bk",
+  "ingested_at": "2026-04-17T15:28:01Z",
+  "jurabk": "SeeStrO1972Übk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "91d13566ff44eda4bc20e81baeda0be31a83fd1a8378aba0684faade6edcb89e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seestro1972_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seestro1972_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen von 1972 über die Internationalen Regeln zur Verhütung von Zusammenstößen auf See",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

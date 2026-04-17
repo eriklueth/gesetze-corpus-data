@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-11-23",
+  "bjnr": "BJNR261410007",
+  "eli": null,
+  "gii_slug": "besatzrberg",
+  "ingested_at": "2026-04-17T15:18:11Z",
+  "jurabk": "BesatzRBerG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "72acd0c7d131ffee36daf08eaa9eab68eed921f3bcb2af6a2efc6014a8da172c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/besatzrberg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/besatzrberg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Bereinigung des Besatzungsrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

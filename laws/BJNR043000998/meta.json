@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-03-03",
+  "bjnr": "BJNR043000998",
+  "eli": null,
+  "gii_slug": "gefbeitrv_1998",
+  "ingested_at": "2026-04-17T15:22:01Z",
+  "jurabk": "GefBeitrV 1998",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "245bc73379dd60405bca449b1cd963d48f89924302e5b8d481cdd1bd398efa2a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gefbeitrv_1998/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gefbeitrv_1998/xml.zip"
+  },
+  "stand_datum": "2003-12-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 105 G v. 23.12.2003 I 2848",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Pauschalberechnung der Beiträge zur Arbeitsförderung für Gefangene",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

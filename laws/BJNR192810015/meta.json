@@ -1,0 +1,38 @@
+{
+  "amtabk": "FMSAKostV",
+  "ausfertigung_datum": "2015-11-06",
+  "bjnr": "BJNR192810015",
+  "eli": null,
+  "gii_slug": "fmsakostv",
+  "ingested_at": "2026-04-17T15:21:35Z",
+  "jurabk": "FMSAKostV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "30423bf1d64c6a9d97f68587987faab9f23f458e99eade794d47a7388a4e45c2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fmsakostv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fmsakostv/xml.zip"
+  },
+  "stand_datum": "2026-01-01",
+  "standangabe": [
+    {
+      "kommentar": "Zukünftige amtl. Langüberschrift: Verordnung über die Erstattung und Umlage von Kosten im Zusammenhang mit der Finanzmarktstabilisierung (ab 1.1.2026; BGBl. 2025 I Nr. 69)",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Zukünftige amtl. Kurzüberschrift: FMS-Kostenverordnung (ab 1.1.2026; BGBl. 2025 I Nr. 69)",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Zukünftige amtl. Buchstabenankürzung: FMSKostV (ab 1.1.2026; BGBl. 2025 I Nr. 69)",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 28.2.2025 I Nr. 69",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Erstattung und Umlage von Kosten der Bundesanstalt für Finanzmarktstabilisierung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

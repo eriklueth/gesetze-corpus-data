@@ -1,0 +1,26 @@
+{
+  "amtabk": "PolVBDVorgV",
+  "ausfertigung_datum": "2020-06-24",
+  "bjnr": "BJNR151700020",
+  "eli": null,
+  "gii_slug": "polvbdvorgv",
+  "ingested_at": "2026-04-17T15:26:52Z",
+  "jurabk": "PolVBDVorgV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ea2bd41e3fcec063e8ca2c996e05766d68c57b4a285cb0587fdd0dfe19145227"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/polvbdvorgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/polvbdvorgv/xml.zip"
+  },
+  "stand_datum": "2008-10-16",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 2031-4-28 v. 16.10.2008 I 2004 (BDG§82V 2008)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zu § 82 des Bundesdisziplinargesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

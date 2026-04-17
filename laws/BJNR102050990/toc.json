@@ -1,0 +1,911 @@
+{
+  "bjnr": "BJNR102050990",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Grundsätze für Umweltprüfungen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Umweltverträglichkeitsprüfung",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Feststellung der UVP-Pflicht",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Unbedingte UVP-Pflicht bei Neuvorhaben",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Vorprüfung bei Neuvorhaben",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "UVP-Pflicht bei Störfallrisiko",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "UVP-Pflicht bei Änderungsvorhaben",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "UVP-Pflicht bei kumulierenden Vorhaben",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das Zulassungsverfahren für das frühere Vorhaben abgeschlossen ist",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "UVP-Pflicht bei hinzutretenden kumulierenden Vorhaben, bei denen das frühere Vorhaben noch im Zulassungsverfahren ist",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Ausnahme von der UVP-Pflicht bei kumulierenden Vorhaben",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Entwicklungs- und Erprobungsvorhaben",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0014a.md",
+      "heading": "Besondere Änderungen zur Modernisierung und Digitalisierung von Schienenwegen",
+      "number": "§ 14a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0014b.md",
+      "heading": "Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577",
+      "number": "§ 14b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0014c.md",
+      "heading": "Ersatzneubauten mit baulicher Erweiterung im Vorgriff auf einen späteren Ausbau",
+      "number": "§ 14c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0014d.md",
+      "heading": "Bau von Radwegen an Bundesstraßen",
+      "number": "§ 14d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Unterrichtung über den Untersuchungsrahmen",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "UVP-Bericht",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Beteiligung anderer Behörden",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Beteiligung der Öffentlichkeit",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Unterrichtung der Öffentlichkeit",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Zentrale Internetportale; Verordnungsermächtigung",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Äußerungen und Einwendungen der Öffentlichkeit",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Erneute Beteiligung der Öffentlichkeit bei Änderungen im Laufe des Verfahrens",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Geheimhaltung und Datenschutz sowie Schutz der Rechte am geistigen Eigentum",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Zusammenfassende Darstellung",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Begründete Bewertung der Umweltauswirkungen und Berücksichtigung des Ergebnisses bei der Entscheidung",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Inhalt des Bescheids über die Zulassung oder Ablehnung des Vorhabens",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Bekanntmachung der Entscheidung und Auslegung des Bescheids",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 2 Verfahrensschritte der Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Überwachung",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 3 Teilzulassungen, Zulassung eines Vorhabens durch mehrere Behörden, verbundene Prüfverfahren"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Umweltverträglichkeitsprüfung bei Teilzulassungen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 3 Teilzulassungen, Zulassung eines Vorhabens durch mehrere Behörden, verbundene Prüfverfahren"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Erneute Öffentlichkeitsbeteiligung bei Teilzulassungen",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 3 Teilzulassungen, Zulassung eines Vorhabens durch mehrere Behörden, verbundene Prüfverfahren"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Zulassung eines Vorhabens durch mehrere Behörden; federführende Behörde",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 2 Umweltverträglichkeitsprüfung",
+        "Abschnitt 3 Teilzulassungen, Zulassung eines Vorhabens durch mehrere Behörden, verbundene Prüfverfahren"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Verbundene Prüfverfahren",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Strategische Umweltprüfung"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Strategische Umweltprüfung",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Strategische Umweltprüfung"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Feststellung der SUP-Pflicht",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Strategische Umweltprüfung"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "SUP-Pflicht in bestimmten Plan- oder Programmbereichen und im Einzelfall",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Strategische Umweltprüfung"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "SUP-Pflicht aufgrund einer Verträglichkeitsprüfung",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 1 Voraussetzungen für eine Strategische Umweltprüfung"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Ausnahmen von der SUP-Pflicht",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 2 Verfahrensschritte der Strategischen Umweltprüfung"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Vorrang anderer Rechtsvorschriften bei der SUP",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 2 Verfahrensschritte der Strategischen Umweltprüfung"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Festlegung des Untersuchungsrahmens",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 2 Verfahrensschritte der Strategischen Umweltprüfung"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Umweltbericht",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 2 Verfahrensschritte der Strategischen Umweltprüfung"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Beteiligung anderer Behörden",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 2 Verfahrensschritte der Strategischen Umweltprüfung"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Beteiligung der Öffentlichkeit",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 2 Verfahrensschritte der Strategischen Umweltprüfung"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Abschließende Bewertung und Berücksichtigung",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 2 Verfahrensschritte der Strategischen Umweltprüfung"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Bekanntgabe der Entscheidung über die Annahme oder Ablehnung des Plans oder Programms",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 2 Verfahrensschritte der Strategischen Umweltprüfung"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Überwachung",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 3 Strategische Umweltprüfung",
+        "Abschnitt 2 Verfahrensschritte der Strategischen Umweltprüfung"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Verbundene Prüfverfahren",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 4 Besondere Verfahrensvorschriften für bestimmte Umweltprüfungen"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Linienbestimmung und Genehmigung von Flugplätzen",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 4 Besondere Verfahrensvorschriften für bestimmte Umweltprüfungen"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Raumordnungspläne",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 4 Besondere Verfahrensvorschriften für bestimmte Umweltprüfungen"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Umweltverträglichkeitsprüfung bei Vorhaben mit Raumverträglichkeitsprüfung",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 4 Besondere Verfahrensvorschriften für bestimmte Umweltprüfungen"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Bauleitpläne",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 4 Besondere Verfahrensvorschriften für bestimmte Umweltprüfungen"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Bergrechtliche Verfahren",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 4 Besondere Verfahrensvorschriften für bestimmte Umweltprüfungen"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Landschaftsplanungen",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 4 Besondere Verfahrensvorschriften für bestimmte Umweltprüfungen"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Verkehrswegeplanungen auf Bundesebene",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 1 Grenzüberschreitende Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Benachrichtigung eines anderen Staates",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 1 Grenzüberschreitende Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Grenzüberschreitende Behördenbeteiligung bei inländischen Vorhaben",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 1 Grenzüberschreitende Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Grenzüberschreitende Öffentlichkeitsbeteiligung bei inländischen Vorhaben",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 1 Grenzüberschreitende Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Übermittlung des Bescheids",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 1 Grenzüberschreitende Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Grenzüberschreitende Behördenbeteiligung bei ausländischen Vorhaben",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 1 Grenzüberschreitende Umweltverträglichkeitsprüfung"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Grenzüberschreitende Öffentlichkeitsbeteiligung bei ausländischen Vorhaben",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 2 Grenzüberschreitende Strategische Umweltprüfung"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Grenzüberschreitende Behördenbeteiligung bei inländischen Plänen und Programmen",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 2 Grenzüberschreitende Strategische Umweltprüfung"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Grenzüberschreitende Öffentlichkeitsbeteiligung bei inländischen Plänen und Programmen",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 2 Grenzüberschreitende Strategische Umweltprüfung"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Grenzüberschreitende Behördenbeteiligung bei ausländischen Plänen und Programmen",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 2 Grenzüberschreitende Strategische Umweltprüfung"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Grenzüberschreitende Öffentlichkeitsbeteiligung bei ausländischen Plänen und Programmen",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 5 Grenzüberschreitende Umweltprüfungen",
+        "Abschnitt 3 Gemeinsame Vorschriften"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Völkerrechtliche Verpflichtungen",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 6 Vorschriften für bestimmte Leitungsanlagen (Anlage 1 Nummer 19)"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Planfeststellung; Plangenehmigung",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 6 Vorschriften für bestimmte Leitungsanlagen (Anlage 1 Nummer 19)"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Entscheidung; Nebenbestimmungen; Verordnungsermächtigung",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 6 Vorschriften für bestimmte Leitungsanlagen (Anlage 1 Nummer 19)"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Verfahren; Verordnungsermächtigung",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 6 Vorschriften für bestimmte Leitungsanlagen (Anlage 1 Nummer 19)"
+      ],
+      "file": "paragraphs/0067a.md",
+      "heading": "Zulassung des vorzeitigen Baubeginns",
+      "number": "§ 67a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 6 Vorschriften für bestimmte Leitungsanlagen (Anlage 1 Nummer 19)"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Überwachung",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 6 Vorschriften für bestimmte Leitungsanlagen (Anlage 1 Nummer 19)"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Ermächtigung zum Erlass von Verwaltungsvorschriften",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Bestimmungen zum Verwaltungsverfahren",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "Vermeidung von Interessenkonflikten",
+      "number": "§ 72",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0073.md",
+      "heading": "Berichterstattung an die Europäische Kommission",
+      "number": "§ 73",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0074.md",
+      "heading": "Übergangsvorschrift",
+      "number": "§ 74",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "Liste „UVP-pflichtige Vorhaben“",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "Angaben des Vorhabenträgers zur Vorbereitung der Vorprüfung",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "Kriterien für die Vorprüfung im Rahmen einer Umweltverträglichkeitsprüfung",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "Angaben des UVP-Berichts für die Umweltverträglichkeitsprüfung",
+      "number": "Anlage 4",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "annexes/0005.md",
+      "heading": "Liste „SUP-pflichtiger Pläne und Programme“",
+      "number": "Anlage 5",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften für die Umweltprüfungen",
+        "Teil 7 Schlussvorschriften"
+      ],
+      "file": "annexes/0006.md",
+      "heading": "Kriterien für die Vorprüfung des Einzelfalls im Rahmen einer Strategischen Umweltprüfung",
+      "number": "Anlage 6",
+      "type": "annex"
+    }
+  ]
+}

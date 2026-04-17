@@ -1,0 +1,30 @@
+{
+  "amtabk": "HeimMindBauV",
+  "ausfertigung_datum": "1978-01-27",
+  "bjnr": "BJNR001890978",
+  "eli": null,
+  "gii_slug": "heimmindbauv",
+  "ingested_at": "2026-04-17T15:22:36Z",
+  "jurabk": "HeimMindBauV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dc92190295f6171251068395dc9ca7e6b564a30e97bade9cc27254b8c34ad375"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/heimmindbauv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/heimmindbauv/xml.zip"
+  },
+  "stand_datum": "1983-05-03",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 3.5.1983 I 550",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "geändert durch Art. 5 V v. 25.11.2003 I 2346",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über bauliche Mindestanforderungen für Altenheime, Altenwohnheime und Pflegeheime für Volljährige",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

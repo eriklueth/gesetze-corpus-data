@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-03-20",
+  "bjnr": "BJNR003610986",
+  "eli": null,
+  "gii_slug": "fwistatv",
+  "ingested_at": "2026-04-17T15:21:46Z",
+  "jurabk": "FWiStatV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cff3adf90b10de6c7af2fe2aad3e2b2f94a38e79250390b0a86bcc6e201822ce"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fwistatv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fwistatv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Aussetzung der statistischen Erhebungen im Bereich der Filmwirtschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

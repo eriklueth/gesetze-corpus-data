@@ -1,0 +1,30 @@
+{
+  "amtabk": "NetzResV",
+  "ausfertigung_datum": "2013-06-27",
+  "bjnr": "BJNR194700013",
+  "eli": null,
+  "gii_slug": "reskv",
+  "ingested_at": "2026-04-17T15:25:58Z",
+  "jurabk": "ResKV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "297e5eaf2d6b529654bbdf9e686a775bc5dfb239a4795c2e6606df7f16acce34"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/reskv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/reskv/xml.zip"
+  },
+  "stand_datum": "2023-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 22.12.2023 I Nr. 405",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V tritt gem. § 14 Abs. 2 mit Ablauf des 31.12.2017 außer Kraft; die Geltung dieser V ist durch Aufhebung d. § 12 (früher § 14) gem. Art. 6 Nr. 14 G v. 26.7.2016 I 1786 über den 31.12.2017 hinaus verlängert worden",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Regelung der Beschaffung und Vorhaltung von Anlagen in der Netzreserve",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

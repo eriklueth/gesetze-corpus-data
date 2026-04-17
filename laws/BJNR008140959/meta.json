@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-12-23",
+  "bjnr": "BJNR008140959",
+  "eli": null,
+  "gii_slug": "atg",
+  "ingested_at": "2026-04-17T15:17:10Z",
+  "jurabk": "AtG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ba2fc7a5ffc46067a7212d89a021b6a30cd03c4c259c39924f5f0d7bc7f1e560"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/atg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/atg/xml.zip"
+  },
+  "stand_datum": "1985-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 15.7.1985 I 1565;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 16 G v. 2.12.2025 I Nr. 301",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die friedliche Verwendung der Kernenergie und den Schutz gegen ihre Gefahren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

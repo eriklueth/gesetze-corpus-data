@@ -1,0 +1,30 @@
+{
+  "amtabk": "GBV",
+  "ausfertigung_datum": "1935-08-08",
+  "bjnr": "BJNR706370935",
+  "eli": null,
+  "gii_slug": "gbvfg",
+  "ingested_at": "2026-04-17T15:22:02Z",
+  "jurabk": "GBVfg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f167f5583419b74d84758d1da237ff7c2a548768872bfc654da1a74ef85bd4ee"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gbvfg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gbvfg/xml.zip"
+  },
+  "stand_datum": "1995-01-24",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 24.1.1995 I 114;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 V v. 24.4.2025 I Nr. 122",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der Grundbuchordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

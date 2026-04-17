@@ -1,0 +1,30 @@
+{
+  "amtabk": "BGSG",
+  "ausfertigung_datum": "1972-08-18",
+  "bjnr": "BJNR118340972",
+  "eli": null,
+  "gii_slug": "bgsg",
+  "ingested_at": "2026-04-17T15:18:28Z",
+  "jurabk": "BGSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ca6c97e99073cb40e9de535b47255bcab0a3c89e2fa939dae432fb0d64d09ab9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgsg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgsg/xml.zip"
+  },
+  "stand_datum": "2024-12-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 Abs. 1 G v. 17.12.2024 I Nr. 424",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "§§ 1 bis 47 u. §§ 62 bis 74 aufgeh. durch Art. 3 Abs. 1 Satz 2 G v. 19.10.1994 I 2978 mWv 1.11.1994",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Gesetz über den Bundesgrenzschutz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

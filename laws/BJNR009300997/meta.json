@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-01-27",
+  "bjnr": "BJNR009300997",
+  "eli": null,
+  "gii_slug": "holzbhausbv",
+  "ingested_at": "2026-04-17T15:22:43Z",
+  "jurabk": "HolzbhAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d76f8bdf3898d96a482edba3d9e991ffef848aeccc570e8d639c58759aa3dc68"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/holzbhausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/holzbhausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Holzbildhauer/zur Holzbildhauerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

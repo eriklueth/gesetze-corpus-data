@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-11-19",
+  "bjnr": "BJNR028610015",
+  "eli": null,
+  "gii_slug": "bverfggo_2015",
+  "ingested_at": "2026-04-17T15:19:33Z",
+  "jurabk": "BVerfGGO 2015",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4edec422b9650fd8db4f9fefda59858a36d29f16902415c1a4971067b76ff7f4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bverfggo_2015/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bverfggo_2015/xml.zip"
+  },
+  "stand_datum": "1986-12-15",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt Geschäftsordnung 1104-1-4 v. 15.12.1986 I 2529 (BVerfGGO 1986)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Geschäftsordnung des Bundesverfassungsgerichts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

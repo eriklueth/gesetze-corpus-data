@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-12-01",
+  "bjnr": "BJNR195700014",
+  "eli": null,
+  "gii_slug": "svbezgrv_2015",
+  "ingested_at": "2026-04-17T15:29:09Z",
+  "jurabk": "SVBezGrV 2015",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "98c77f080e014727dd70ff7c3db7acd85627ad83ce43b8dca22a49d72534ec79"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svbezgrv_2015/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svbezgrv_2015/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2015",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

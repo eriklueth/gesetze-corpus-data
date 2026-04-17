@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-01-26",
+  "bjnr": "BJNR004040976",
+  "eli": null,
+  "gii_slug": "dbbeamtrano_1976",
+  "ingested_at": "2026-04-17T15:19:51Z",
+  "jurabk": "DBBeamtRAnO 1976",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "711edc2c2b5d49984a13c372d02483f2faf51837d1a8f7d3c46f3d0b817ae320"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbbeamtrano_1976/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbbeamtrano_1976/xml.zip"
+  },
+  "stand_datum": "1982-06-28",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Abschn. II Satz 2 AnO v. 28.6.1982 I 1012",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Allgemeine Anordnung über die Übertragung von Befugnissen und die Regelung von Zuständigkeiten auf dem Gebiet des Beamtenrechts im Bereich der Deutschen Bundesbahn",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

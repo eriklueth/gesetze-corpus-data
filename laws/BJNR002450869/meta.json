@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1869-06-21",
+  "bjnr": "BJNR002450869",
+  "eli": null,
+  "gii_slug": "gewo",
+  "ingested_at": "2026-04-17T15:22:08Z",
+  "jurabk": "GewO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "08eb676c41fd49ef0c6f689d23ddf2eb0e39ce5f1686a63b8937a140ecd07d95"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gewo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gewo/xml.zip"
+  },
+  "stand_datum": "1999-02-22",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 22.2.1999 I 202",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 34 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gewerbeordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

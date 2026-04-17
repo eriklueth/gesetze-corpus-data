@@ -1,0 +1,30 @@
+{
+  "amtabk": "VKFV",
+  "ausfertigung_datum": "2011-08-02",
+  "bjnr": "BJNR171400011",
+  "eli": null,
+  "gii_slug": "vkfv",
+  "ingested_at": "2026-04-17T15:30:13Z",
+  "jurabk": "VKFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "70c847b9674396ff3d858a8c370d22fb35f031c4011c70ff366a8b68dc8cc1e1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vkfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vkfv/xml.zip"
+  },
+  "stand_datum": "2019-03-19",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 19.3.2019 I 378",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 28.11.2024 I Nr. 376",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Feststellung der Gesamtverwaltungskosten der gemeinsamen Einrichtung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

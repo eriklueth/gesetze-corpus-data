@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-12-19",
+  "bjnr": "BJNR208100012",
+  "eli": null,
+  "gii_slug": "dba_taipeh",
+  "ingested_at": "2026-04-17T15:19:43Z",
+  "jurabk": "DBA Taipeh",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a6a178f60f0b9877a0350f494331109a30a2a58cb19b65faf81c0ae568f95777"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dba_taipeh/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dba_taipeh/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen dem Deutschen Institut in Taipeh und der Taipeh Vertretung in der Bundesrepublik Deutschland zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerverkürzung hinsichtlich der Steuern vom Einkommen und vom Vermögen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

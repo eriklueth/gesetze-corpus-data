@@ -1,0 +1,26 @@
+{
+  "amtabk": "RehaErstV",
+  "ausfertigung_datum": "1992-12-03",
+  "bjnr": "BJNR019970992",
+  "eli": null,
+  "gii_slug": "rehaerstv",
+  "ingested_at": "2026-04-17T15:27:14Z",
+  "jurabk": "RehaErstV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ddf5f2ff2e927aea9c6e98c53fb9d3f5682045ac5b346d579b9bebe042b80751"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rehaerstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rehaerstv/xml.zip"
+  },
+  "stand_datum": "2004-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 73 G v. 9.12.2004 I 3242",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die pauschale Erstattung von Ausgaben der Träger der Rentenversicherung für Leistungen zur Rehabilitation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

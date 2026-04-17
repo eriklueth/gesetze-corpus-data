@@ -1,0 +1,26 @@
+{
+  "amtabk": "SKAG Berlin",
+  "ausfertigung_datum": "1957-12-26",
+  "bjnr": "BJNR018830957",
+  "eli": null,
+  "gii_slug": "skageg",
+  "ingested_at": "2026-04-17T15:28:15Z",
+  "jurabk": "SKAGEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6d90d25f754d2f02ce5aa4209caa383e1cd388776432c6f4daa570eaaa72e3f2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/skageg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/skageg/xml.zip"
+  },
+  "stand_datum": "1997-04-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 15 G v. 29.4.1997 I 968",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung und Angleichung des Rechts der Krankenversicherung im Land Berlin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

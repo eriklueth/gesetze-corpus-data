@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1894-03-04",
+  "bjnr": "BJNR001510894",
+  "eli": null,
+  "gii_slug": "nordsbrweing",
+  "ingested_at": "2026-04-17T15:26:02Z",
+  "jurabk": "NordSBrWeinG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b3a03ac6a0b225d5a6a1e05d83f70410bf96df47bcf227766a6cc1840a927089"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nordsbrweing/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nordsbrweing/xml.zip"
+  },
+  "stand_datum": "1974-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 233 G v. 2.3.1974 I 469",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz betreffend die Ausführung des internationalen Vertrages vom 16. November 1887/14. Februar 1893 zur Unterdrückung des Branntweinhandels unter den Nordseefischern auf hoher See",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

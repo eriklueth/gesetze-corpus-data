@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-06-17",
+  "bjnr": "BJNR203420981",
+  "eli": null,
+  "gii_slug": "vollstrvtr_nor",
+  "ingested_at": "2026-04-17T15:30:15Z",
+  "jurabk": "VollstrVtr NOR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "96a45ec2baddd63c260880ca9d65bfb6fb5a38b207001a3a07b75fa58d9f5b28"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vollstrvtr_nor/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vollstrvtr_nor/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Norwegen über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel in Zivil- und Handelssachen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

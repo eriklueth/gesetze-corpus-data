@@ -1,0 +1,26 @@
+{
+  "amtabk": "AFuV",
+  "ausfertigung_datum": "2005-02-15",
+  "bjnr": "BJNR024200005",
+  "eli": null,
+  "gii_slug": "afuv_2005",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "AFuV 2005",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4ae26d7d4f5fd24530aec750637d2b9e52d219fed5aef6e6790345bdacc56a36"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/afuv_2005/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/afuv_2005/xml.zip"
+  },
+  "stand_datum": "2024-05-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 27.5.2024 I Nr. 175",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Gesetz über den Amateurfunk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

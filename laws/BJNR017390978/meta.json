@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-11-09",
+  "bjnr": "BJNR017390978",
+  "eli": null,
+  "gii_slug": "flul_rmnordhv",
+  "ingested_at": "2026-04-17T15:21:35Z",
+  "jurabk": "FluLärmNordhV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "19fb955f2f8d0eb0275eeb20f07bebf3c24df17c3cdebf9864830033f0e8ca4d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flul_rmnordhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flul_rmnordhv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Festsetzung des Lärmschutzbereichs für den Luft/Boden-Schießplatz Nordhorn",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

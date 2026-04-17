@@ -1,0 +1,26 @@
+{
+  "amtabk": "BeurkG",
+  "ausfertigung_datum": "1969-08-28",
+  "bjnr": "BJNR015130969",
+  "eli": null,
+  "gii_slug": "beurkg",
+  "ingested_at": "2026-04-17T15:18:13Z",
+  "jurabk": "BeurkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0cef9328789d91d82a0ba8a016731c84ae2f2b0e340a632034570b8f46b93280"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/beurkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/beurkg/xml.zip"
+  },
+  "stand_datum": "2025-12-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 10.12.2025 I Nr. 320",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Beurkundungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

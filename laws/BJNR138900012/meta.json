@@ -1,0 +1,21 @@
+{
+  "amtabk": "RWBestV 2012",
+  "ausfertigung_datum": "2012-06-21",
+  "bjnr": "BJNR138900012",
+  "eli": null,
+  "gii_slug": "rwbestv_2012",
+  "ingested_at": "2026-04-17T15:27:34Z",
+  "jurabk": "RWBestV 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "600407791fc4bf6ec9526b2e1584448694a01ea9632360b70720beab248007d5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rwbestv_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rwbestv_2012/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2012",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

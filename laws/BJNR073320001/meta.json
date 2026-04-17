@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2001-07-13",
+  "bjnr": "BJNR073320001",
+  "eli": null,
+  "gii_slug": "eurhi_bkergvtrczeg",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "EuRHiÜbkErgVtrCZEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f89e51a935d7404c218ef8246cce62529824516dcf782a20b1fb9185b37a4e08"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurhi_bkergvtrczeg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurhi_bkergvtrczeg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 2. Februar 2000 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über die Ergänzung des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung seiner Anwendung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,38 @@
+{
+  "amtabk": "CoronaImpfV",
+  "ausfertigung_datum": "2021-08-30",
+  "bjnr": "BJNR624300021",
+  "eli": null,
+  "gii_slug": "coronaimpfv_2021-09",
+  "ingested_at": "2026-04-17T15:19:39Z",
+  "jurabk": "CoronaImpfV 2021-09",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4a4cdeb6325d4fad5f05b3bb81ae4ff373646048292b31ca58b21a53a558b2e0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/coronaimpfv_2021-09/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/coronaimpfv_2021-09/xml.zip"
+  },
+  "stand_datum": "2024-11-29",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 17 idF d. Art. 1 Nr. 4 V v. 29.11.2024 I Nr. 380 mit Ablauf des 31.12.2028 außer Kraft",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 29.11.2024 I Nr. 380",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die Geltung dieser V ist durch § 17 idF d. Art. 1 Nr. 6 V v. 15.11.2021 BAnz AT 15.11.2021 V1, d. Art. 1 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1, d. Art. 1 Nr. 14 V v. 23.5.2022 BAnz AT 24.05.2022 V1, d. Art. 8 Nr. 2 G v. 16.9.2022 I 1454, d. Art. 1 Nr. 12 V v. 29.12.2022 BAnz AT 30.12.2022 V1 u. d. Art. 1 Nr. 4 V v. 29.11.2024 I Nr. 380 über den 31.12.2021 hinaus bis zum Ablauf des 31.12.2028 verlängert worden",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Ersetzt V 860-5-73 v. 1.6.2021 BAnz AT 02.06.2021 V2 (CoronaImpfV 2021-06)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zum Anspruch auf Schutzimpfung gegen das Coronavirus SARS-CoV-2 und auf weitere Schutzimpfungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

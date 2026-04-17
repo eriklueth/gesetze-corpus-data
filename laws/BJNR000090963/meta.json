@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1963-01-14",
+  "bjnr": "BJNR000090963",
+  "eli": null,
+  "gii_slug": "hypbkg_ndg_5",
+  "ingested_at": "2026-04-17T15:22:49Z",
+  "jurabk": "HypBkGÄndG 5",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c226d3331b94c1c09bdff1a72ed37dfadf229d85c17fd2471a4825db80c543e6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hypbkg_ndg_5/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hypbkg_ndg_5/xml.zip"
+  },
+  "stand_datum": "2005-05-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 17 G v. 22.5.2005 I 1373",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Fünftes Gesetz zur Änderung und Ergänzung des Hypothekenbankgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

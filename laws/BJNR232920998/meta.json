@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-12-17",
+  "bjnr": "BJNR232920998",
+  "eli": null,
+  "gii_slug": "intbest_bk",
+  "ingested_at": "2026-04-17T15:23:01Z",
+  "jurabk": "IntBestÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ec843a2e3906dec0b181fbea79decbd74f8cb0e5adb9093e36809fa5f550f377"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intbest_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intbest_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Bekämpfung der Bestechung ausländischer Amtsträger im internationalen Geschäftsverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

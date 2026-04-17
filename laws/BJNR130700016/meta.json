@@ -1,0 +1,30 @@
+{
+  "amtabk": "VfAusbV",
+  "ausfertigung_datum": "2016-06-03",
+  "bjnr": "BJNR130700016",
+  "eli": null,
+  "gii_slug": "vfausbv",
+  "ingested_at": "2026-04-17T15:30:11Z",
+  "jurabk": "VfAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4007fa5527a030897d7f1b31e16fb32633240ed2f60fab413cda91331d5bf51"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vfausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vfausbv/xml.zip"
+  },
+  "stand_datum": "2022-06-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 14.6.2022 I 923",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 806-21-1-297 v. 18.7.2002 I 2699 (VeranstTechAusbV 2002)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

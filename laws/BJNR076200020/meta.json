@@ -1,0 +1,26 @@
+{
+  "amtabk": "LuftVStAbsenkV 2020",
+  "ausfertigung_datum": "2020-04-02",
+  "bjnr": "BJNR076200020",
+  "eli": null,
+  "gii_slug": "luftvstabsenkv_2020_2",
+  "ingested_at": "2026-04-17T15:24:32Z",
+  "jurabk": "LuftVStAbsenkV 2020/2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "92557e4490714fc61c1ebba8024d359115e0c3b176181fb284543ceb18391922"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvstabsenkv_2020_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvstabsenkv_2020_2/xml.zip"
+  },
+  "stand_datum": "2019-11-29",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 611-19-1-5 v. 29.11.2019 I 2033 (LuftVStAbsenkV 2020)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Absenkung der Steuersätze im Jahr 2020 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

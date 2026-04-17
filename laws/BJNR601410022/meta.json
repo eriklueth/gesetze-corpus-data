@@ -1,0 +1,26 @@
+{
+  "amtabk": "BinSchPersFührEBefähPrV",
+  "ausfertigung_datum": "2021-12-21",
+  "bjnr": "BJNR601410022",
+  "eli": null,
+  "gii_slug": "binschpersbef_hprv",
+  "ingested_at": "2026-04-17T15:18:24Z",
+  "jurabk": "BinSchPersBefähPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9ddbb9e8fb0e8791999037a15db6dc7963fd38365e9c7e5600b6c3cb67dbc9dc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschpersbef_hprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschpersbef_hprv/xml.zip"
+  },
+  "stand_datum": "2024-06-14",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 14.6.2024 I Nr. 193",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Durchführung von Befähigungsprüfungen auf Führungsebene nach der Binnenschiffspersonalverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

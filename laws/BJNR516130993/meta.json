@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-08-06",
+  "bjnr": "BJNR516130993",
+  "eli": null,
+  "gii_slug": "luftvodv_128",
+  "ingested_at": "2026-04-17T15:24:25Z",
+  "jurabk": "LuftVODV 128",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d8293b4f88c8d05bc0cb5086e769525ce1e43123478d51511c95fcca3dda5440"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_128/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_128/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hundertachtundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Leipzig/Halle)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

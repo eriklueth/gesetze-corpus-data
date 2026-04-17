@@ -1,0 +1,21 @@
+{
+  "amtabk": "BGSNeuRegG",
+  "ausfertigung_datum": "1994-10-19",
+  "bjnr": "BJNR297809994",
+  "eli": null,
+  "gii_slug": "bgsneuregg",
+  "ingested_at": "2026-04-17T15:18:28Z",
+  "jurabk": "BGSNeuRegG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3cc7ecda96b7038ddf547a5e423b3a9f207503d93d818cfc22286ff6140a5ff1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgsneuregg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgsneuregg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Neuregelung der Vorschriften über den Bundesgrenzschutz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

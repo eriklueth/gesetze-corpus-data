@@ -1,0 +1,30 @@
+{
+  "amtabk": "2. SprengV",
+  "ausfertigung_datum": "1977-11-23",
+  "bjnr": "BJNR021890977",
+  "eli": null,
+  "gii_slug": "sprengv_2",
+  "ingested_at": "2026-04-17T15:16:33Z",
+  "jurabk": "SprengV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "83d4a0168804ab2bc8f3c14dbc370c0f902d76b5adf7c8a113d70a4e431e92fe"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sprengv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sprengv_2/xml.zip"
+  },
+  "stand_datum": "2002-09-10",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 10.9.2002 I 3543;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 111 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweite Verordnung zum Sprengstoffgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

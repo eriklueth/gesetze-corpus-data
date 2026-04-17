@@ -1,0 +1,26 @@
+{
+  "amtabk": "LuftBO",
+  "ausfertigung_datum": "1970-03-04",
+  "bjnr": "BJNR002620970",
+  "eli": null,
+  "gii_slug": "luftbo",
+  "ingested_at": "2026-04-17T15:24:19Z",
+  "jurabk": "LuftBO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7fba8e281b80ba6515807fd3f9243af6eecafb18309f620fb5d4dfbe9ce7d09a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftbo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftbo/xml.zip"
+  },
+  "stand_datum": "2015-10-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 29.10.2015 I 1894",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Betriebsordnung für Luftfahrtgerät",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2019-12-17",
+  "bjnr": "BJNR284800019",
+  "eli": null,
+  "gii_slug": "svbezgrv_2020",
+  "ingested_at": "2026-04-17T15:29:10Z",
+  "jurabk": "SVBezGrV 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4a56502dc22fe45b9346a8633d79603bc592c44271cee4cc0b0a29c57060bf26"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svbezgrv_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svbezgrv_2020/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2020",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

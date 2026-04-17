@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-02-24",
+  "bjnr": "BJNR032209997",
+  "eli": null,
+  "gii_slug": "ref_dg",
+  "ingested_at": "2026-04-17T15:27:14Z",
+  "jurabk": "ReföDG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e887a74e5e501d70c6f5d1396d0a57cd9fe31743dcdfe9be4a5fa295c8803771"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ref_dg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ref_dg/xml.zip"
+  },
+  "stand_datum": "2006-02-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 17 G v. 19.2.2006 I 334",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Reform des öffentlichen Dienstrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

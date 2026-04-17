@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-03-20",
+  "bjnr": "BJNR202980989",
+  "eli": null,
+  "gii_slug": "kaentwbk_bkg",
+  "ingested_at": "2026-04-17T15:23:17Z",
+  "jurabk": "KaEntwBkÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d25ee0cad01c98975d7d7ffad6b20eee5c2deb2c66df74de09007083e7f8c3b1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kaentwbk_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kaentwbk_bkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Übereinkommen vom 18. Oktober 1969 zur Errichtung der Karibischen Entwicklungsbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

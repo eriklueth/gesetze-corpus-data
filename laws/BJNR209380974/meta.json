@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1968-06-07",
+  "bjnr": "BJNR209380974",
+  "eli": null,
+  "gii_slug": "rausk_bk",
+  "ingested_at": "2026-04-17T15:27:06Z",
+  "jurabk": "RAuskÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "64689b78788626dfa264523340d0c60fe0e3ab4fb53ccde2d268c90c0c7859b2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rausk_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rausk_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Europäisches Übereinkommen betreffend Auskünfte über ausländisches Recht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

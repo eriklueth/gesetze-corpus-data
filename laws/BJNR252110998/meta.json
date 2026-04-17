@@ -1,0 +1,30 @@
+{
+  "amtabk": "GWB",
+  "ausfertigung_datum": "1998-08-26",
+  "bjnr": "BJNR252110998",
+  "eli": null,
+  "gii_slug": "gwb",
+  "ingested_at": "2026-04-17T15:22:33Z",
+  "jurabk": "GWB",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1a44accb4c0d1529c65431da4cdb9273330bb73eb77600ef34751181e347c185"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gwb/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gwb/xml.zip"
+  },
+  "stand_datum": "2013-06-26",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 26.6.2013 I 1750, 3245;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 5 G v. 9.4.2026 I Nr. 98",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz gegen Wettbewerbsbeschränkungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

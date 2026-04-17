@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-07-21",
+  "bjnr": "BJNR010419961",
+  "eli": null,
+  "gii_slug": "wobaug2_ndg",
+  "ingested_at": "2026-04-17T15:30:38Z",
+  "jurabk": "WoBauG2ÄndG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "40c7853811519f4f89ac807bfe0d7e5d5408c1a98f314175165ee4ecedad29c3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wobaug2_ndg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wobaug2_ndg/xml.zip"
+  },
+  "stand_datum": "2001-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 Abs. 9 G v. 19.6.2001 I 1149",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Änderung des Zweiten Wohnungsbaugesetzes, anderer wohnungsbaurechtlicher Vorschriften und über die Rückerstattung von Baukostenzuschüssen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

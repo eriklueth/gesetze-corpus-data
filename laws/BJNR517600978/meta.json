@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-09-07",
+  "bjnr": "BJNR517600978",
+  "eli": null,
+  "gii_slug": "jubvano",
+  "ingested_at": "2026-04-17T15:23:15Z",
+  "jurabk": "JubVAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "85fdcbdec33d68eb24d2ea1ab827760404c4be31188d62ea0f8f56f93905fe70"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/jubvano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/jubvano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Ausführungsanordnung zur Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und Richter des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

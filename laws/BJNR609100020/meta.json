@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-03-30",
+  "bjnr": "BJNR609100020",
+  "eli": null,
+  "gii_slug": "epi_appro2002abwv",
+  "ingested_at": "2026-04-17T15:20:43Z",
+  "jurabk": "EpiÄApprO2002AbwV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c3a4420360f66a1809f58a49c8b1a159292d92ad5bc575e844a6a2e4fee53c45"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/epi_appro2002abwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/epi_appro2002abwv/xml.zip"
+  },
+  "stand_datum": "2021-11-22",
+  "standangabe": [
+    {
+      "kommentar": "V aufgeh. durch § 5 Abs. 4 Satz 1 nach Maßgabe d. § 5 Abs. 4 Satz 2 Nummer 1 IfSG idF d. G v. 22.11.2021 I 4906 iVm § 5 Abs. 1 Satz 3 iVm Satz 2 IfSG idF d. G v. 22.11.2021 I 4906 mWv 26.11.2021, dadurch gilt § 13 über den 25.11.2021 hinaus fort",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zur Abweichung von der Approbationsordnung für Ärzte bei einer epidemischen Lage von nationaler Tragweite",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

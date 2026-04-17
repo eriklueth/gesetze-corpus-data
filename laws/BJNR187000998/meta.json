@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-07-10",
+  "bjnr": "BJNR187000998",
+  "eli": null,
+  "gii_slug": "markeng_8bek_98-07",
+  "ingested_at": "2026-04-17T15:24:43Z",
+  "jurabk": "MarkenG§8Bek 98-07",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4b64a896a50f36bf180e9df5a09e1257b068225f1d04cc0ed9ab09ba436da88"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/markeng_8bek_98-07/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/markeng_8bek_98-07/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 8 des Markengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

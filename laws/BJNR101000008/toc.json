@@ -1,0 +1,634 @@
+{
+  "bjnr": "BJNR101000008",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Geltungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Dienstherrnfähigkeit",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Beamtenverhältnis",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Arten des Beamtenverhältnisses",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Ehrenbeamtinnen und Ehrenbeamte",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Beamtenverhältnis auf Zeit",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Voraussetzungen des Beamtenverhältnisses",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Ernennung",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Kriterien der Ernennung",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Voraussetzung der Ernennung auf Lebenszeit",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Nichtigkeit der Ernennung",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Rücknahme der Ernennung",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Länderübergreifender Wechsel und Wechsel in die Bundesverwaltung"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Grundsatz",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Länderübergreifender Wechsel und Wechsel in die Bundesverwaltung"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Abordnung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Länderübergreifender Wechsel und Wechsel in die Bundesverwaltung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Versetzung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Länderübergreifender Wechsel und Wechsel in die Bundesverwaltung"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Umbildung einer Körperschaft",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Länderübergreifender Wechsel und Wechsel in die Bundesverwaltung"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Rechtsfolgen der Umbildung",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Länderübergreifender Wechsel und Wechsel in die Bundesverwaltung"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Rechtsstellung der Beamtinnen und Beamten",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Länderübergreifender Wechsel und Wechsel in die Bundesverwaltung"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Rechtsstellung der Versorgungsempfängerinnen und Versorgungsempfänger",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Zuweisung einer Tätigkeit bei anderen Einrichtungen"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Zuweisung",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Beendigungsgründe",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Entlassung kraft Gesetzes",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Entlassung durch Verwaltungsakt",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Verlust der Beamtenrechte",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Ruhestand wegen Erreichens der Altersgrenze",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Dienstunfähigkeit",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Begrenzte Dienstfähigkeit",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Ruhestand bei Beamtenverhältnis auf Probe",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Wiederherstellung der Dienstfähigkeit",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Einstweiliger Ruhestand",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Einstweiliger Ruhestand bei Umbildung und Auflösung von Behörden",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Beendigung des Beamtenverhältnisses"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Wartezeit",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Grundpflichten",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Wahrnehmung der Aufgaben, Verhalten und Erscheinungsbild",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Folgepflicht",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Verantwortung für die Rechtmäßigkeit",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Verschwiegenheitspflicht",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Diensteid",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Verbot der Führung der Dienstgeschäfte",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Nebentätigkeit",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Tätigkeit nach Beendigung des Beamtenverhältnisses",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Teilzeitbeschäftigung",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Erholungsurlaub",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Fürsorge",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Mutterschutz und Elternzeit",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Nichterfüllung von Pflichten",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Pflicht zum Schadensersatz",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Übermittlungen bei Strafverfahren",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Personalakte",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Personalvertretung",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Mitgliedschaft in Gewerkschaften und Berufsverbänden",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Rechtliche Stellung im Beamtenverhältnis"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Beteiligung der Spitzenorganisationen",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Rechtsweg"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Verwaltungsrechtsweg",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Spannungs- und Verteidigungsfall"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Spannungs- und Verteidigungsfall"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Dienstleistung im Verteidigungsfall",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Spannungs- und Verteidigungsfall"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Aufschub der Entlassung und des Ruhestands",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Spannungs- und Verteidigungsfall"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Erneute Berufung von Ruhestandsbeamtinnen und Ruhestandsbeamten",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Spannungs- und Verteidigungsfall"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Verpflichtung zur Gemeinschaftsunterkunft und Mehrarbeit",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 9 Sonderregelungen für Verwendungen im Ausland"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Verwendungen im Ausland",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Sonderregelungen für wissenschaftliches Hochschulpersonal"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Hochschullehrerinnen und Hochschullehrer",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 11 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 11 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Inkrafttreten, Außerkrafttreten",
+      "number": "§ 63",
+      "type": "paragraph"
+    }
+  ]
+}

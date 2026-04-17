@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-09-10",
+  "bjnr": "DDNR016110990",
+  "eli": null,
+  "gii_slug": "garbbano",
+  "ingested_at": "2026-04-17T15:21:52Z",
+  "jurabk": "GarBBAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9eb53d001f0e8cf5ad245c9d4403d9114299dec7bbdf31dea1b1bf00d88d17a9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/garbbano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/garbbano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über den Bau und Betrieb von Garagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

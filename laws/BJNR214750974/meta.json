@@ -1,0 +1,21 @@
+{
+  "amtabk": "AETR",
+  "ausfertigung_datum": "1970-07-01",
+  "bjnr": "BJNR214750974",
+  "eli": null,
+  "gii_slug": "aetr",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "AETR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cb198b2236e03ca1720c6c44cca5468da31984e3022b06b607c3dad907141640"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aetr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aetr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Europäisches Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

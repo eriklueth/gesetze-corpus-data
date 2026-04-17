@@ -1,0 +1,26 @@
+{
+  "amtabk": "PNUPZV",
+  "ausfertigung_datum": "2013-09-30",
+  "bjnr": "BJNR373710013",
+  "eli": null,
+  "gii_slug": "pnupzv",
+  "ingested_at": "2026-04-17T15:26:51Z",
+  "jurabk": "PNUPZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "44fb5eec3ae39a45a1d3dd1043e4ccdb1242aaff6f46ea3b31cd9322623fdf25"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pnupzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pnupzv/xml.zip"
+  },
+  "stand_datum": "2020-10-15",
+  "standangabe": [
+    {
+      "kommentar": "Berichtigung v. 15.10.2020 I 2180 ist berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über Leistungsprämien und -zulagen für Beamtinnen und Beamte der Postnachfolgeunternehmen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

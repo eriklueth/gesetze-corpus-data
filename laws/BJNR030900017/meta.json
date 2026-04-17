@@ -1,0 +1,26 @@
+{
+  "amtabk": "SchuhfAusbV",
+  "ausfertigung_datum": "2017-02-28",
+  "bjnr": "BJNR030900017",
+  "eli": null,
+  "gii_slug": "schuhfausbv_2017",
+  "ingested_at": "2026-04-17T15:27:53Z",
+  "jurabk": "SchuhfAusbV 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "196c0511d4cdd74eb72793b46e48ddf72ce5d84009da1401a8049ec52de3724d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schuhfausbv_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schuhfausbv_2017/xml.zip"
+  },
+  "stand_datum": "1998-05-11",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-1-257 v. 11.5.1998 I 909 (SchuhfAusbV 1998)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Schuhfertiger und zur Schuhfertigerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

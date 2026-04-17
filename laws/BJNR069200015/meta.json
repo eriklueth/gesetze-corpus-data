@@ -1,0 +1,38 @@
+{
+  "amtabk": "14. ProdSV",
+  "ausfertigung_datum": "2015-05-13",
+  "bjnr": "BJNR069200015",
+  "eli": null,
+  "gii_slug": "gsgv_14_2016",
+  "ingested_at": "2026-04-17T15:16:30Z",
+  "jurabk": "GSGV 14 2016",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "80e45e95947d386a83281a192cb42d3732965afb6e41c69fc37d6439c15ea38c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gsgv_14_2016/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gsgv_14_2016/xml.zip"
+  },
+  "stand_datum": "2021-07-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 28 G v. 27.7.2021 I 3146",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 6 V v. 2.3.2026 I Nr. 54 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "§ 12 ist gem. § 24 Abs. 1 dieser V am 1.6.2015 in Kraft getreten",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Ersetzt V 8053-4-17 v. 27.9.2002 I 3777, 3806 (GSGV 14)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Vierzehnte Verordnung zum Produktsicherheitsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

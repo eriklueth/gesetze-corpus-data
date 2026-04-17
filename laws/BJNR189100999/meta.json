@@ -1,0 +1,30 @@
+{
+  "amtabk": "EdWBeitrV",
+  "ausfertigung_datum": "1999-08-19",
+  "bjnr": "BJNR189100999",
+  "eli": null,
+  "gii_slug": "kredanstwiawphev",
+  "ingested_at": "2026-04-17T15:20:27Z",
+  "jurabk": "KredAnstWiAWPHEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8c7e23887d316c39ebdf7974d53edcf2e17d7b228f62c94331fe13f688cd4e0f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kredanstwiawphev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kredanstwiawphev/xml.zip"
+  },
+  "stand_datum": "2024-06-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 17.6.2024 I Nr. 202",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 10 G v. 9.4.2026 I Nr. 97 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über die Beiträge zu der Entschädigungseinrichtung der Wertpapierhandelsunternehmen bei der Kreditanstalt für Wiederaufbau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

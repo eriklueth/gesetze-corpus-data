@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-03-11",
+  "bjnr": "BJNR607500015",
+  "eli": null,
+  "gii_slug": "sojbosaatv_2015",
+  "ingested_at": "2026-04-17T15:28:17Z",
+  "jurabk": "SojBoSaatV 2015",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ed8948fe5b43d109db1b2820d84e4bf4f4e5be0c2d82036bd52fe290c2f0704e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sojbosaatv_2015/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sojbosaatv_2015/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über besondere Anforderungen an Saatgut von Sojabohne im Rahmen der Saatgutanerkennung 2015",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

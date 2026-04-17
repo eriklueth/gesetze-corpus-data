@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2016-04-04",
+  "bjnr": "BJNR075200016",
+  "eli": null,
+  "gii_slug": "m_nz2eurobek_2016-04-04_2",
+  "ingested_at": "2026-04-17T15:25:37Z",
+  "jurabk": "Münz2EuroBek 2016-04-04/2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "75f87ee2ada5b5153b183ae9662d9ecb95fe5d4faaef112575680df1707bbbbe"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz2eurobek_2016-04-04_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz2eurobek_2016-04-04_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Sachsen“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

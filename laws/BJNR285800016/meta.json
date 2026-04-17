@@ -1,0 +1,26 @@
+{
+  "amtabk": "LwErzgSchulproG",
+  "ausfertigung_datum": "2016-12-13",
+  "bjnr": "BJNR285800016",
+  "eli": null,
+  "gii_slug": "lwerzgschulprog",
+  "ingested_at": "2026-04-17T15:24:39Z",
+  "jurabk": "LwErzgSchulproG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4a414ce2f6bd751886360aafbefc2127af7c8b7323b401b3452cf1b56a3d4839"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lwerzgschulprog/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lwerzgschulprog/xml.zip"
+  },
+  "stand_datum": "2022-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 29 G v. 20.12.2022 I 2752",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Durchführung unionsrechtlicher Vorschriften über das Schulprogramm für Obst, Gemüse und Milch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

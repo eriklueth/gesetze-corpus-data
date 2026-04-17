@@ -1,0 +1,26 @@
+{
+  "amtabk": "VermBDV",
+  "ausfertigung_datum": "1994-12-20",
+  "bjnr": "BJNR390400994",
+  "eli": null,
+  "gii_slug": "vermbdv_1994",
+  "ingested_at": "2026-04-17T15:30:05Z",
+  "jurabk": "VermBDV 1994",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f0826e793c08fe87801440ef9832be5d85a36019d461ab2f05cc6a374058d929"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vermbdv_1994/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vermbdv_1994/xml.zip"
+  },
+  "stand_datum": "2017-07-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 10 V v. 12.7.2017 I 2360",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Fünften Vermögensbildungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

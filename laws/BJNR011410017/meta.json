@@ -1,0 +1,30 @@
+{
+  "amtabk": "EntsorgFondsG",
+  "ausfertigung_datum": "2017-01-27",
+  "bjnr": "BJNR011410017",
+  "eli": null,
+  "gii_slug": "entsorgfondsg",
+  "ingested_at": "2026-04-17T15:20:41Z",
+  "jurabk": "EntsorgFondsG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "844ffbf1cb489acf3ce33e807b8dd28df6f1d6a5d8917ee0fc1c6b7dcec6169a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/entsorgfondsg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/entsorgfondsg/xml.zip"
+  },
+  "stand_datum": "2021-06-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 25.6.2021 I 2137",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Das G ist gem. Bek. v. 16.6.2017 I 1676 am 16.6.2017 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zur Errichtung eines Fonds zur Finanzierung der kerntechnischen Entsorgung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

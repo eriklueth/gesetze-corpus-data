@@ -1,0 +1,26 @@
+{
+  "amtabk": "HStruktG",
+  "ausfertigung_datum": "1975-12-18",
+  "bjnr": "BJNR030919975",
+  "eli": null,
+  "gii_slug": "hstruktg",
+  "ingested_at": "2026-04-17T15:22:48Z",
+  "jurabk": "HStruktG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5fc8f197e5f6133295d33717131f213e934000640338d737a93301d565612f31"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hstruktg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hstruktg/xml.zip"
+  },
+  "stand_datum": "2009-02-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 15 Abs. 81 G v. 5.2.2009 I 160",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Verbesserung der Haushaltsstruktur",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

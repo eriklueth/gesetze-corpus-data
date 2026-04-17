@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1984-07-27",
+  "bjnr": "BJNR203670986",
+  "eli": null,
+  "gii_slug": "postnachnabk_1984",
+  "ingested_at": "2026-04-17T15:26:56Z",
+  "jurabk": "PostnachnAbk 1984",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d776947ea2c86a5c35f825123d9d5be64f47ec6d302020f72e0897438945b937"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postnachnabk_1984/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postnachnabk_1984/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Postnachnahmeabkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

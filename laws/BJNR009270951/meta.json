@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-09-25",
+  "bjnr": "BJNR009270951",
+  "eli": null,
+  "gii_slug": "amtsscherl",
+  "ingested_at": "2026-04-17T15:17:01Z",
+  "jurabk": "AmtsschErl",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aadf228763a1c6b80eaeb9da61b2e3a1cfcda68ec3ff83cfb5529844bca0de6f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/amtsscherl/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/amtsscherl/xml.zip"
+  },
+  "stand_datum": "2021-06-08",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Erlass v. 8.6.2021 BAnz AT 17.06.2021 B2",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Erlaß über die Amtsschilder der Bundesbehörden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

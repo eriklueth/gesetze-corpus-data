@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-04-01",
+  "bjnr": "BJNR041720015",
+  "eli": null,
+  "gii_slug": "sozsichabkg_phl",
+  "ingested_at": "2026-04-17T15:28:34Z",
+  "jurabk": "SozSichAbkG PHL",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "15e1c1563c7bb5dd1dbad1ebbe7fdbc73af7dd70c0277ab2280c53fa65b716dd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkg_phl/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkg_phl/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 19. September 2014 zwischen der Bundesrepublik Deutschland und der Republik der Philippinen über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

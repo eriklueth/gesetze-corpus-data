@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-09-15",
+  "bjnr": "BJNR151420002",
+  "eli": null,
+  "gii_slug": "postzahl_bk",
+  "ingested_at": "2026-04-17T15:26:56Z",
+  "jurabk": "PostZahlÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "12ef598adc44a077f43e45be0ad3dcaf1c6753fe1628979f180c73705a762e87"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postzahl_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postzahl_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Postzahlungsdienste-Übereinkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-10-27",
+  "bjnr": "BJNR328800998",
+  "eli": null,
+  "gii_slug": "bkorgerl1998bek",
+  "ingested_at": "2026-04-17T15:18:32Z",
+  "jurabk": "BKOrgErl1998Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9157ee7ed9916341aca6a0b9e828e6e56b33482ac8106c1bb0a1b66f5a7233c7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bkorgerl1998bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bkorgerl1998bek/xml.zip"
+  },
+  "stand_datum": "2005-11-22",
+  "standangabe": [
+    {
+      "kommentar": "Organisationserlass teilweise aufgeh. durch Ziff. II Nr. 1 Eingangssatz d. Organisationserlasses v. 22.11.2005 I 3197",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Bekanntmachung des Organisationserlasses des Bundeskanzlers",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

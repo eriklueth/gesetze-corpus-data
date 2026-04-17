@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1954-07-09",
+  "bjnr": "BJNR001750954",
+  "eli": null,
+  "gii_slug": "wistrg_1954",
+  "ingested_at": "2026-04-17T15:30:35Z",
+  "jurabk": "WiStrG 1954",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b71190acdda8cda3e92fe56aec99ddba7e982f6caffb371c74b401fd7fc89d67"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wistrg_1954/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wistrg_1954/xml.zip"
+  },
+  "stand_datum": "1975-06-03",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 3.6.1975 I 1313;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 76 G v. 10.8.2021 I 3436",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

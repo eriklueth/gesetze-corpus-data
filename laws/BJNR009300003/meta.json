@@ -1,0 +1,21 @@
+{
+  "amtabk": "FGNV",
+  "ausfertigung_datum": "2003-01-21",
+  "bjnr": "BJNR009300003",
+  "eli": null,
+  "gii_slug": "fgnv",
+  "ingested_at": "2026-04-17T15:21:19Z",
+  "jurabk": "FGNV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d4e1e486c01524d73b017ba6e8835e8eea9c8ccddc06b1b0a961c20f3e345671"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fgnv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fgnv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Neubestimmung von Arzneimittel-Festbetragsgruppen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

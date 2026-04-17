@@ -1,0 +1,30 @@
+{
+  "amtabk": "BMVgBeamtVZustAnO",
+  "ausfertigung_datum": "2021-10-04",
+  "bjnr": "BJNR462610021",
+  "eli": null,
+  "gii_slug": "bmvgbeamtvzustano_2021",
+  "ingested_at": "2026-04-17T15:18:47Z",
+  "jurabk": "BMVgBeamtVZustAnO 2021",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "30ea56b2b56ad90350ffac1e84c7267f5073bc120f63c471a7edcc5e8c13b988"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmvgbeamtvzustano_2021/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmvgbeamtvzustano_2021/xml.zip"
+  },
+  "stand_datum": "2021-10-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 AnO v. 4.10.2021 I 4626",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt AnO 2030-14-193 v. 30.9.2013 I 3739 (BMVgBeamtVZustAnO)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Beamtenversorgung im Geschäftsbereich des Bundesministeriums der Verteidigung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "MinÖlBewV",
+  "ausfertigung_datum": "1988-04-19",
+  "bjnr": "BJNR005300988",
+  "eli": null,
+  "gii_slug": "min_lbewv_1988",
+  "ingested_at": "2026-04-17T15:24:52Z",
+  "jurabk": "MinÖlBewV 1988",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6c54c93c6641dd13e671fc667f91ce06bd811dce2c1790af60c2daa427beee49"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/min_lbewv_1988/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/min_lbewv_1988/xml.zip"
+  },
+  "stand_datum": "2024-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 27 G v. 15.7.2024 I Nr. 236",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Mineralölbewirtschaftungs-Verordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "BetrInASG",
+  "ausfertigung_datum": "2023-12-20",
+  "bjnr": "BJNR1870B0023",
+  "eli": null,
+  "gii_slug": "betrinasg",
+  "ingested_at": "2026-04-17T15:18:21Z",
+  "jurabk": "BetrInASG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "24b82bf3fb7287250848c8e8cdf2b9d905bcf988cf27c774ea1826e835973c2d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/betrinasg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/betrinasg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Regelung einer Inflationsausgleichs-Sonderzahlung für berufliche Betreuer, Betreuungsvereine und ehrenamtliche Betreuer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

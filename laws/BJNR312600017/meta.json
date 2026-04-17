@@ -1,0 +1,26 @@
+{
+  "amtabk": "SanG",
+  "ausfertigung_datum": "2017-08-14",
+  "bjnr": "BJNR312600017",
+  "eli": null,
+  "gii_slug": "sang_2017",
+  "ingested_at": "2026-04-17T15:27:38Z",
+  "jurabk": "SanG 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4f55a7c709846696a74dab3963f156077e2ca2cc342e6c44c5b66a6aa5fe98c1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sang_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sang_2017/xml.zip"
+  },
+  "stand_datum": "2025-10-20",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 G v. 20.10.2025 I Nr. 248",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Sanierungshilfengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

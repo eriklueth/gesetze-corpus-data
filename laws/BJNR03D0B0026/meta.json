@@ -1,0 +1,21 @@
+{
+  "amtabk": "TierSeuchMeldV",
+  "ausfertigung_datum": "2026-03-10",
+  "bjnr": "BJNR03D0B0026",
+  "eli": null,
+  "gii_slug": "tierseuchmeldv",
+  "ingested_at": "2026-04-17T15:29:29Z",
+  "jurabk": "TierSeuchMeldV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b4f48be41b57e69b9d4aa48b7bfc6b70b28fc0189dc5a37ac7610e5bae484511"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tierseuchmeldv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tierseuchmeldv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Meldung von Seuchen bei Tieren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

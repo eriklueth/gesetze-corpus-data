@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-07-30",
+  "bjnr": "BJNR514400975",
+  "eli": null,
+  "gii_slug": "fischbeihv",
+  "ingested_at": "2026-04-17T15:21:22Z",
+  "jurabk": "FischBeihV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "daed7aadd540d250d5948d6825f2e0c555b2fa9af437fd5ee5757089fbe024b5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fischbeihv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fischbeihv/xml.zip"
+  },
+  "stand_datum": "1994-08-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 43 G v. 2.8.1994 I 2018",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung bestimmter Fischereierzeugnisse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

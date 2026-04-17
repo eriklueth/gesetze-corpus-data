@@ -1,0 +1,26 @@
+{
+  "amtabk": "BMeldDigiV",
+  "ausfertigung_datum": "2022-04-20",
+  "bjnr": "BJNR068310022",
+  "eli": null,
+  "gii_slug": "bmelddigiv",
+  "ingested_at": "2026-04-17T15:18:39Z",
+  "jurabk": "BMeldDigiV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3ab158a9bbdafdd317d6dcb2279f40dc58d75da07f8ce39c5069dca610c27630"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmelddigiv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmelddigiv/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 16 G v. 22.12.2025 I Nr. 370",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Bestimmung von Inhalt, Form und Verfahren von Datenübermittlungen zwischen Meldebehörden und einem Verwaltungsportal zur Erbringung von digitalen Verwaltungsleistungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-07-26",
+  "bjnr": "BJNR215320997",
+  "eli": null,
+  "gii_slug": "europol_bk",
+  "ingested_at": "2026-04-17T15:21:02Z",
+  "jurabk": "EuropolÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e8714cfa40314316abad889c6688890ea8db35843f71ded656d4db72c7eefc74"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/europol_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/europol_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen auf Grund von Artikel K.3 des Vertrags über die Europäische Union über die Errichtung eines Europäischen Polizeiamts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

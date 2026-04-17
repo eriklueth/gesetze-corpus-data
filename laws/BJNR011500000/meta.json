@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2000-02-09",
+  "bjnr": "BJNR011500000",
+  "eli": null,
+  "gii_slug": "lmtausbv_2000",
+  "ingested_at": "2026-04-17T15:24:08Z",
+  "jurabk": "LMTAusbV 2000",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "961478e08b860d13b02b6d7313b3592bf7145289d3ce145fc232ce2d6f6aac64"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lmtausbv_2000/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lmtausbv_2000/xml.zip"
+  },
+  "stand_datum": "2013-10-28",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 28.10.2013 I 3902",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zur Fachkraft für Lebensmitteltechnik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

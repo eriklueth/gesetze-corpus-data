@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1963-05-13",
+  "bjnr": "BJNR205090964",
+  "eli": null,
+  "gii_slug": "assoziierungsabkewg_turg",
+  "ingested_at": "2026-04-17T15:17:07Z",
+  "jurabk": "AssoziierungsAbkEWG/TURG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e29e9cce19b0f615f4f8127c56b8659277cac36abff699534e4d02f29832a047"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/assoziierungsabkewg_turg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/assoziierungsabkewg_turg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Assoziierungsabkommen vom 12. September 1963 zwischen der Europäischen Wirtschaftsgemeinschaft und der Türkei sowie zu den mit diesem Abkommen in Zusammenhang stehenden Abkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

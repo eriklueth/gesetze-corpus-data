@@ -1,0 +1,26 @@
+{
+  "amtabk": "RegG",
+  "ausfertigung_datum": "1993-12-27",
+  "bjnr": "BJNR239500993",
+  "eli": null,
+  "gii_slug": "regg",
+  "ingested_at": "2026-04-17T15:27:14Z",
+  "jurabk": "RegG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "da628517fd300636a45f437934cf218b5144891568a5a585484141c8e902cee1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/regg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/regg/xml.zip"
+  },
+  "stand_datum": "2025-11-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 25.11.2025 I Nr. 287",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regionalisierung des öffentlichen Personennahverkehrs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

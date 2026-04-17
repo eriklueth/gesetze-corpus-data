@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-02-02",
+  "bjnr": "BJNR098320012",
+  "eli": null,
+  "gii_slug": "esmvtr",
+  "ingested_at": "2026-04-17T15:20:49Z",
+  "jurabk": "ESMVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5ae01d7fa053e982cb51858b141d326b026becc83bed981a49187b778562e644"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/esmvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/esmvtr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zur Einrichtung des Europäischen Stabilitätsmechanismus zwischen dem Königreich Belgien, der Bundesrepublik Deutschland, der Republik Estland, Irland, der Hellenischen Republik, dem Königreich Spanien, der Französischen Republik, der Italienischen Republik, der Republik Zypern, dem Großherzogtum Luxemburg, Malta, dem Königreich der Niederlande, der Republik Österreich, der Portugiesischen Republik, der Republik Slowenien, der Slowakischen Republik und der Republik Finnland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

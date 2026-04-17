@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-06-23",
+  "bjnr": "BJNR110900015",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2015-06-23_2",
+  "ingested_at": "2026-04-17T15:25:26Z",
+  "jurabk": "Münz20EuroBek 2015-06-23/2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f74a43c733a288de13c7195ddd261b8c0d058e43c07053643200430f77bca029"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2015-06-23_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2015-06-23_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Linde“ der Serie „Deutscher Wald“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

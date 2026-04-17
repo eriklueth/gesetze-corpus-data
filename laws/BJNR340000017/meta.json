@@ -1,0 +1,21 @@
+{
+  "amtabk": "NSGDgbV",
+  "ausfertigung_datum": "2017-09-22",
+  "bjnr": "BJNR340000017",
+  "eli": null,
+  "gii_slug": "nsgdgbv",
+  "ingested_at": "2026-04-17T15:26:05Z",
+  "jurabk": "NSGDgbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "96739e3fdba91795cfd02a136463b078441efafbe3324f983ff6346e1914ad3f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nsgdgbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nsgdgbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Festsetzung des Naturschutzgebietes „Doggerbank“",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

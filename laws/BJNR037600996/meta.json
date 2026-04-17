@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-03-06",
+  "bjnr": "BJNR037600996",
+  "eli": null,
+  "gii_slug": "g_rtnausbv",
+  "ingested_at": "2026-04-17T15:21:48Z",
+  "jurabk": "GärtnAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4adfd608025ebac390709f362beff0bf88aee8833905bc8a0960f30e3448067a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/g_rtnausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/g_rtnausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Gärtner/zur Gärtnerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

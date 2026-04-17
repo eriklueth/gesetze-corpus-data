@@ -1,0 +1,26 @@
+{
+  "amtabk": "TreuhLÜV",
+  "ausfertigung_datum": "1994-12-20",
+  "bjnr": "BJNR390800994",
+  "eli": null,
+  "gii_slug": "treuhl_v",
+  "ingested_at": "2026-04-17T15:29:34Z",
+  "jurabk": "TreuhLÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9d9e59a88e641af1f68066d7884fff606e125c2d29e7d5e92629fc48b1508af5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/treuhl_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/treuhl_v/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 591 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Übertragung von liegenschaftsbezogenen Aufgaben und Liegenschaftsgesellschaften der Treuhandanstalt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

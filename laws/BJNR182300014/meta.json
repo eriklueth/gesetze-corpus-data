@@ -1,0 +1,26 @@
+{
+  "amtabk": "MiLoGMeldStellV",
+  "ausfertigung_datum": "2014-11-24",
+  "bjnr": "BJNR182300014",
+  "eli": null,
+  "gii_slug": "milogmeldstellv",
+  "ingested_at": "2026-04-17T15:24:51Z",
+  "jurabk": "MiLoGMeldStellV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a1c737f552c116355c4cdd27183fc0467337c10b434f6e720bb793fd7126cd35"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/milogmeldstellv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/milogmeldstellv/xml.zip"
+  },
+  "stand_datum": "2023-06-28",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 28.6.2023 I Nr. 172",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Bestimmung der zuständigen Behörde nach § 16 Absatz 6 des Mindestlohngesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

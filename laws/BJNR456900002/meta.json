@@ -1,0 +1,26 @@
+{
+  "amtabk": "BinSchSprFunkV",
+  "ausfertigung_datum": "2002-12-18",
+  "bjnr": "BJNR456900002",
+  "eli": null,
+  "gii_slug": "binschsprfunkv_2003",
+  "ingested_at": "2026-04-17T15:18:25Z",
+  "jurabk": "BinSchSprFunkV 2003",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f8c9a62e89541f474fd0905c92f2389bacf417d2340b1760f57bd6070ab19c49"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschsprfunkv_2003/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschsprfunkv_2003/xml.zip"
+  },
+  "stand_datum": "2022-01-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 V v. 5.1.2022 I 2",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Betrieb von Sprechfunkanlagen auf Ultrakurzwellen in der Binnenschifffahrt und den Erwerb des UKW-Sprechfunkzeugnisses für den Binnenschifffahrtsfunk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

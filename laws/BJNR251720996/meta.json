@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-10-10",
+  "bjnr": "BJNR251720996",
+  "eli": null,
+  "gii_slug": "seegervorrv",
+  "ingested_at": "2026-04-17T15:27:58Z",
+  "jurabk": "SeegerVorRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "79976d8455bba1f1e68ea74b39175d7d1f8bb273d25c5ec1372b96865e4473f1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seegervorrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seegervorrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [
+    {
+      "kommentar": "Die Verordnung tritt gem. Art. 2 Abs. 2 dieser V an dem Tage außer Kraft, an dem ein Abkommen zwischen dem Internationalen Seegerichtshof und der Bundesrepublik Deutschland über Vorrechte und Immunitäten in Kraft tritt",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung über Vorrechte und Immunitäten des Internationalen Seegerichtshofs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

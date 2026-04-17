@@ -1,0 +1,633 @@
+{
+  "bjnr": "BJNR127010018",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Grundlegende Anforderungen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Anwendung der Technischen Spezifikationen für die Interoperabilität, der notifizierten technischen Vorschriften und der technischen Vorschriften",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Ausnahmen von der Anwendung der Technischen Spezifikationen für die Interoperabilität",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005a.md",
+      "heading": "Ausnahmeverfahren betreffend die Anwendung der Technischen Spezifikationen für die Interoperabilität",
+      "number": "§ 5a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Zur Erfüllung der grundlegenden Anforderungen anzuwendende Vorschriften",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Notifizierung von technischen Vorschriften",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Nebenbestimmungen",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 1 Erteilung einer Genehmigung"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Erfordernis der Genehmigung für das Inverkehrbringen oder der Inbetriebnahmegenehmigung",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 1 Erteilung einer Genehmigung"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Genehmigungsstelle",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 1 Erteilung einer Genehmigung"
+      ],
+      "file": "paragraphs/0010a.md",
+      "heading": "Bestandteile der Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie der übrigen Eisenbahninfrastruktur auf Grenzbetriebsstrecken und Durchgangsstrecken",
+      "number": "§ 10a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 2 Erteilung von Genehmigungen für das Inverkehrbringen von Fahrzeugen und von Fahrzeugtypgenehmigungen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Voraussetzungen und Verfahren",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 2 Erteilung von Genehmigungen für das Inverkehrbringen von Fahrzeugen und von Fahrzeugtypgenehmigungen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Konformität von Fahrzeugen mit genehmigtem Fahrzeugtyp",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 2 Erteilung von Genehmigungen für das Inverkehrbringen von Fahrzeugen und von Fahrzeugtypgenehmigungen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Fahrzeuge oder Fahrzeugtypen, die die grundlegenden Anforderungen nicht erfüllen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 2 Erteilung von Genehmigungen für das Inverkehrbringen von Fahrzeugen und von Fahrzeugtypgenehmigungen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Vorgehen im Fall eines Widerrufs einer Genehmigung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 3 Probefahrten"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Probefahrten",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 4 Erteilung einer erstmaligen Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung, sofern Technische Spezifikationen für die Interoperabilität anzuwenden sind",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 4 Erteilung einer erstmaligen Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Voraussetzungen für die Erteilung einer Inbetriebnahmegenehmigung, sofern Technische Spezifikationen für die Interoperabilität nicht anzuwenden sind",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 4 Erteilung einer erstmaligen Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Antrag auf Erteilung einer Inbetriebnahmegenehmigung und Pflichten des Antragstellers",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 4 Erteilung einer erstmaligen Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Verfahren für die Erteilung einer Inbetriebnahmegenehmigung",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 5 Erteilung einer Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur nach Aufrüstung oder Erneuerung"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Aufrüstung und Erneuerung",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 5 Erteilung einer Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur nach Aufrüstung oder Erneuerung"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Anzeige bei Aufrüstung und Erneuerung",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 5 Erteilung einer Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur nach Aufrüstung oder Erneuerung"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Verfahren bei Aufrüstung und Erneuerung",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Genehmigung für das Inverkehrbringen, Fahrzeugtypgenehmigung und Inbetriebnahmegenehmigung",
+        "Kapitel 5 Erteilung einer Inbetriebnahmegenehmigung für die Teilsysteme Infrastruktur, Energie, streckenseitige Zugsteuerung, Zugsicherung und Signalgebung sowie für die übrige Eisenbahninfrastruktur nach Aufrüstung oder Erneuerung"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Zwischenzustände und zwischenzeitliche Betriebsaufnahme",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Interoperabilitätskomponenten, Bauprodukte und Systeme"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Inverkehrbringen und Verwenden von Interoperabilitätskomponenten",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Interoperabilitätskomponenten, Bauprodukte und Systeme"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Interoperabilitätskomponenten, die die grundlegenden Anforderungen nicht erfüllen",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Interoperabilitätskomponenten, Bauprodukte und Systeme"
+      ],
+      "file": "paragraphs/0025a.md",
+      "heading": "Maßnahmen gegenüber dem Hersteller, wenn Interoperabilitätskomponenten die grundlegenden Anforderungen nicht erfüllen",
+      "number": "§ 25a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Interoperabilitätskomponenten, Bauprodukte und Systeme"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Verwendung von Bauprodukten und Anwendung von Bauarten",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Interoperabilitätskomponenten, Bauprodukte und Systeme"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Genehmigung zum Inverkehrbringen und Verwenden von sicherungstechnischen oder elektrotechnischen Systemen und deren Bestandteilen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Interoperabilitätskomponenten, Bauprodukte und Systeme"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Marktaufsicht",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen"
+      ],
+      "file": "paragraphs/0029a.md",
+      "heading": "Prüfungen vor der Nutzung eines genehmigten Fahrzeugs",
+      "number": "§ 29a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Pflichten bei Maßnahmen zur Aufrüstung oder Erneuerung",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Weitere Unterrichtungspflichten",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Pflichten der Eisenbahnen, der Halter und Hersteller von Eisenbahnfahrzeugen sowie der für die Instandhaltung zuständigen Stellen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Aufbewahrungs-, Weitergabe- und Aufzeichnungspflichten",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Aufgaben der benannten Stellen",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Aufgaben der bestimmten Stellen",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Anerkennungsvoraussetzungen",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0035a.md",
+      "heading": "Anerkennung der benannten Stellen",
+      "number": "§ 35a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0035b.md",
+      "heading": "Unterrichtungspflichten des Eisenbahn-Bundesamtes zur Anerkennung von benannten Stellen",
+      "number": "§ 35b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0035c.md",
+      "heading": "Anerkennung der bestimmten Stellen",
+      "number": "§ 35c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Rücknahme und Widerruf; Einstellung der Tätigkeit",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Unterauftragsvergabe",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0037a.md",
+      "heading": "Vorgehen der Konformitätsbewertungsstelle bei Nichterfüllung der Anforderungen durch den Hersteller",
+      "number": "§ 37a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0037b.md",
+      "heading": "Meldepflichten der Konformitätsbewertungsstellen",
+      "number": "§ 37b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0037c.md",
+      "heading": "Weitere Pflichten der Konformitätsbewertungsstellen",
+      "number": "§ 37c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Konformitätsbewertungsstellen"
+      ],
+      "file": "paragraphs/0037d.md",
+      "heading": "Mitarbeit in Koordinierungsgruppen",
+      "number": "§ 37d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Register für Fahrzeuge und Fahrzeugkennzeichnung"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "(weggefallen)",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Register für Fahrzeuge und Fahrzeugkennzeichnung"
+      ],
+      "file": "paragraphs/0038a.md",
+      "heading": "Europäisches Fahrzeugeinstellungsregister",
+      "number": "§ 38a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Register für Fahrzeuge und Fahrzeugkennzeichnung"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Fahrzeugkennzeichnung",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Register für Fahrzeuge und Fahrzeugkennzeichnung"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Europäisches Register genehmigter Fahrzeugtypen",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Übergangsvorschriften",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Befristung",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Schlussbestimmungen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 4 Absatz 1)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Schlussbestimmungen"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 6 Absatz 2)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Schlussbestimmungen"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(weggefallen)",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Schlussbestimmungen"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "(zu § 9 Absatz 3 und 4 sowie § 21 Absatz 2)",
+      "number": "Anlage 4",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Schlussbestimmungen"
+      ],
+      "file": "annexes/0005.md",
+      "heading": "(zu § 9 Absatz 4)",
+      "number": "Anlage 5",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Schlussbestimmungen"
+      ],
+      "file": "annexes/0006.md",
+      "heading": "(zu § 18 Absatz 1 und § 21)",
+      "number": "Anlage 6",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Schlussbestimmungen"
+      ],
+      "file": "annexes/0007.md",
+      "heading": "(zu § 27 Absatz 1 und 4)",
+      "number": "Anlage 7",
+      "type": "annex"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "ForstWiMeistPrV",
+  "ausfertigung_datum": "2004-10-06",
+  "bjnr": "BJNR259100004",
+  "eli": null,
+  "gii_slug": "forstwimeistprv_2004",
+  "ingested_at": "2026-04-17T15:21:38Z",
+  "jurabk": "ForstWiMeistPrV 2004",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "531d1180079499fbeaa9735b63960c980c5247c4054043fa2ffa9c91afc28948"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/forstwimeistprv_2004/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/forstwimeistprv_2004/xml.zip"
+  },
+  "stand_datum": "2014-05-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 21.5.2014 I 548",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Forstwirt/Forstwirtin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

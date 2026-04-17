@@ -1,0 +1,30 @@
+{
+  "amtabk": "APMAG",
+  "ausfertigung_datum": "1998-07-06",
+  "bjnr": "BJNR177810998",
+  "eli": null,
+  "gii_slug": "apmag",
+  "ingested_at": "2026-04-17T15:17:02Z",
+  "jurabk": "APMAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2759e824496d4692dd99ed4ac5f15b8f625663f45df3d49c853ae2aa85f41b53"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/apmag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/apmag/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 27 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "G in Kraft gem. Art. 3 Abs. 1 Satz 2 dieses G iVm Bek. v. 20.11.1998 II 3004 mWv 1.3.1999",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Ausführungsgesetz zum Verbotsübereinkommen für Antipersonenminen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

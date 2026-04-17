@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-04-15",
+  "bjnr": "BJNR060200996",
+  "eli": null,
+  "gii_slug": "bodschvereinhg",
+  "ingested_at": "2026-04-17T15:18:53Z",
+  "jurabk": "BodSchVereinhG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b241b17fa85f5a5f1374297c6f483e3e2b165e1ba29e60dcff04feedcd58547f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bodschvereinhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bodschvereinhg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Vereinheitlichung der Rechtsverhältnisse bei Bodenschätzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

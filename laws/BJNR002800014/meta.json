@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-01-06",
+  "bjnr": "BJNR002800014",
+  "eli": null,
+  "gii_slug": "tomatkennzv",
+  "ingested_at": "2026-04-17T15:29:32Z",
+  "jurabk": "TomatKennzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5a49ecbf64844529650937e3d464f1b598f3241665df8badf86b2940ca910123"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tomatkennzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tomatkennzv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die vorübergehende saatgutrechtliche Kennzeichnung und Verpackung für Saatgut von Tomaten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

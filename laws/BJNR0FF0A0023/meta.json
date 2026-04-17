@@ -1,0 +1,26 @@
+{
+  "amtabk": "FremdSprKFPrV",
+  "ausfertigung_datum": "2023-09-21",
+  "bjnr": "BJNR0FF0A0023",
+  "eli": null,
+  "gii_slug": "fremdsprkfprv",
+  "ingested_at": "2026-04-17T15:21:41Z",
+  "jurabk": "FremdSprKFPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "be1ca7a50ec03caa20e9d6e567dfba70a60730ff510f12c117685872b594d188"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fremdsprkfprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fremdsprkfprv/xml.zip"
+  },
+  "stand_datum": "1999-12-23",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-7-57 v. 23.12.1999, 2000 I 10 (FremdSprPrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für fremdsprachige Kommunikation oder Geprüfte Berufsspezialistin für fremdsprachige Kommunikation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "HkRNDV",
+  "ausfertigung_datum": "2018-11-08",
+  "bjnr": "BJNR185310018",
+  "eli": null,
+  "gii_slug": "hkrndv",
+  "ingested_at": "2026-04-17T15:22:41Z",
+  "jurabk": "HkRNDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "535badd79b96cbf6e6514d5501a1a114a7b7b4d5f5c105ba7f690544715e22a4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hkrndv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hkrndv/xml.zip"
+  },
+  "stand_datum": "2025-08-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 6.8.2025 I Nr. 186",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Durchführungsverordnung über Herkunfts- und Regionalnachweise für Strom aus erneuerbaren Energien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

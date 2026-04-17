@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-04-03",
+  "bjnr": "BJNR202670959",
+  "eli": null,
+  "gii_slug": "vermabk_prt",
+  "ingested_at": "2026-04-17T15:30:05Z",
+  "jurabk": "VermAbk PRT",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "631330cff4678fb6f1d2826bd725e6f9dff742ceae6d49c567b1d5fc79ddd2e0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vermabk_prt/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vermabk_prt/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen über deutsche Vermögenswerte in Portugal",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

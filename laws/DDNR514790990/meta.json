@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-09-12",
+  "bjnr": "DDNR514790990",
+  "eli": null,
+  "gii_slug": "natpmschweizv",
+  "ingested_at": "2026-04-17T15:25:55Z",
+  "jurabk": "NatPMSchweizV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e6c9049e2ba31e906b655bca58649b7e7b79694e9853d42d008024e0b9679eb9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/natpmschweizv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/natpmschweizv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung als Naturpark \"Märkische Schweiz\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

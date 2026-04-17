@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-07-05",
+  "bjnr": "BJNR207330980",
+  "eli": null,
+  "gii_slug": "cmrprot",
+  "ingested_at": "2026-04-17T15:19:39Z",
+  "jurabk": "CMRProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f6337aca547cfd98675e9374bcfcd444018ea41fc3079c951e46ba5afd7c7176"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/cmrprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/cmrprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll zum Übereinkommen über den Beförderungsvertrag im internationalen Straßengüterverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

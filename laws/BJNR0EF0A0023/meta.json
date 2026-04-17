@@ -1,0 +1,26 @@
+{
+  "amtabk": "RaumausMstrV",
+  "ausfertigung_datum": "2023-09-04",
+  "bjnr": "BJNR0EF0A0023",
+  "eli": null,
+  "gii_slug": "raumausmstrv_2024",
+  "ingested_at": "2026-04-17T15:27:06Z",
+  "jurabk": "RaumausMstrV 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ec03b1726f74e56bda893ebb52146f4e1370e34c7ceb689cb1af72a140c8dbe6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/raumausmstrv_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/raumausmstrv_2024/xml.zip"
+  },
+  "stand_datum": "2008-06-18",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 7110-3-178 v. 18.6.2008 I 1087 (RaumausMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Raumausstatter-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "EHV 2020",
+  "ausfertigung_datum": "2013-08-20",
+  "bjnr": "BJNR329500013",
+  "eli": null,
+  "gii_slug": "ehv_2020",
+  "ingested_at": "2026-04-17T15:20:32Z",
+  "jurabk": "EHV 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0404a7c83e64aa32b8489c67628f1b4aabdf78441e3cbd1d8996bac30e322c8b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ehv_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ehv_2020/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 136 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Treibhausgas-Emissionshandelsgesetzes in der Handelsperiode 2013 bis 2020",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

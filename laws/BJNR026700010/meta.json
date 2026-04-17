@@ -1,0 +1,26 @@
+{
+  "amtabk": "DL-InfoV",
+  "ausfertigung_datum": "2010-03-12",
+  "bjnr": "BJNR026700010",
+  "eli": null,
+  "gii_slug": "dlinfov",
+  "ingested_at": "2026-04-17T15:20:00Z",
+  "jurabk": "DLInfoV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c6e58cd4ca3b47ad0d4e20559fb73486a3f5429f7a68d8dc8020dd370326c42e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dlinfov/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dlinfov/xml.zip"
+  },
+  "stand_datum": "2021-11-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 2 V v. 12.11.2021 I 4921",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über Informationspflichten für Dienstleistungserbringer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

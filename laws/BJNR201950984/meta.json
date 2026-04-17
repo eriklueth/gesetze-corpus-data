@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1983-02-17",
+  "bjnr": "BJNR201950984",
+  "eli": null,
+  "gii_slug": "dba_ndprot_jpn_2",
+  "ingested_at": "2026-04-17T15:19:46Z",
+  "jurabk": "DBAÄndProt JPN 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3bbecfee2149409c78074a53f0ba686d77d66c3e4b8b5b1a1d78369a8f5ce053"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dba_ndprot_jpn_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dba_ndprot_jpn_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweites Protokoll zur Änderung und Ergänzung des Abkommens zwischen der Bundesrepublik Deutschland und Japan zur Vermeidung der Doppelbesteuerung bei den Steuern von Einkommen und bei einigen anderen Steuern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

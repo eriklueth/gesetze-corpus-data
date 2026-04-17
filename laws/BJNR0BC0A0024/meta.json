@@ -1,0 +1,26 @@
+{
+  "amtabk": "PPBV",
+  "ausfertigung_datum": "2024-06-12",
+  "bjnr": "BJNR0BC0A0024",
+  "eli": null,
+  "gii_slug": "ppbv",
+  "ingested_at": "2026-04-17T15:26:56Z",
+  "jurabk": "PPBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "96dc789e56ab0ee41dcb164435f278326a73d3105888c40e8d293fb725000f4a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ppbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ppbv/xml.zip"
+  },
+  "stand_datum": "2024-12-05",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 5b G v. 5.12.2024 I Nr. 400",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Grundsätze der Personalbedarfsbemessung in der stationären Krankenpflege",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

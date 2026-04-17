@@ -1,0 +1,26 @@
+{
+  "amtabk": "SeeVersNachwV",
+  "ausfertigung_datum": "2013-06-27",
+  "bjnr": "BJNR192700013",
+  "eli": null,
+  "gii_slug": "seeversnachwv",
+  "ingested_at": "2026-04-17T15:28:04Z",
+  "jurabk": "SeeVersNachwV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2d479da5629d7f62b10bda5eba0d230831b454db43057c6b01fd7878596a4868"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seeversnachwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seeversnachwv/xml.zip"
+  },
+  "stand_datum": "2017-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 68 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Ausstellung von Haftungsbescheinigungen nach dem Seeversicherungsnachweisgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

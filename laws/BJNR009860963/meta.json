@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1963-12-20",
+  "bjnr": "BJNR009860963",
+  "eli": null,
+  "gii_slug": "gbma_ng",
+  "ingested_at": "2026-04-17T15:22:01Z",
+  "jurabk": "GBMaßnG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4d78cc5b06005c0c72e1abdd15737207a7ba0185c45e45b53262cfd48aa601b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gbma_ng/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gbma_ng/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 154 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Maßnahmen auf dem Gebiete des Grundbuchwesens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

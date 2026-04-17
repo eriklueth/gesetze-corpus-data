@@ -1,0 +1,26 @@
+{
+  "amtabk": "GSA Fleisch",
+  "ausfertigung_datum": "2017-07-17",
+  "bjnr": "BJNR257200017",
+  "eli": null,
+  "gii_slug": "safleischwig",
+  "ingested_at": "2026-04-17T15:22:30Z",
+  "jurabk": "SAFleischWiG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "447c4dd5ec3137810669ce3ea5054957fa01598e91af9f4bf10216d7caf29c64"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/safleischwig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/safleischwig/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 G v. 22.12.2025 I Nr. 369",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-02-27",
+  "bjnr": "BJNR505420997",
+  "eli": null,
+  "gii_slug": "luftvodv_178",
+  "ingested_at": "2026-04-17T15:24:23Z",
+  "jurabk": "LuftVODV 178",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1ae3215ba84ba128be39b73e86d39621da67d63b06a7beb78155ca7b6bff3eae"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_178/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_178/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hundertachtundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Sonderflughafen Oberpfaffenhofen)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

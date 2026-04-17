@@ -1,0 +1,21 @@
+{
+  "amtabk": "GFDV",
+  "ausfertigung_datum": "2023-02-15",
+  "bjnr": "BJNR02E0A0023",
+  "eli": null,
+  "gii_slug": "grfdv",
+  "ingested_at": "2026-04-17T15:22:09Z",
+  "jurabk": "GrFDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "940934525613edaeaf17ff7a98031a34847da37c24467aa0d189f2ea43f32b84"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grfdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grfdv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Art der Daten, die nach § 30 Absatz 1 Satz 1 und § 31 Absatz 1 Satz 1 des Bundespolizeigesetzes zur Grenzfahndung und zur grenzpolizeilichen Beobachtung gespeichert werden dürfen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

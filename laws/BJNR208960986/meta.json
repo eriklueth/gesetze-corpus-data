@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-09-24",
+  "bjnr": "BJNR208960986",
+  "eli": null,
+  "gii_slug": "ztv_1986",
+  "ingested_at": "2026-04-17T15:31:28Z",
+  "jurabk": "ZTV 1986",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4dd038796064b6afaeb2e0860eb792617312cdf9a6fc7a336814124b1c4e2140"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ztv_1986/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ztv_1986/xml.zip"
+  },
+  "stand_datum": "2000-09-03",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 3.9.2000 II 1138",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zolltarifverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

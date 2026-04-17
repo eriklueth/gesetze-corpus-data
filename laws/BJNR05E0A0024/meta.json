@@ -1,0 +1,26 @@
+{
+  "amtabk": "IndKflAusbV",
+  "ausfertigung_datum": "2024-03-12",
+  "bjnr": "BJNR05E0A0024",
+  "eli": null,
+  "gii_slug": "indkflausbv",
+  "ingested_at": "2026-04-17T15:22:57Z",
+  "jurabk": "IndKflAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "318d0ab17b1ff77f734c0b822d7a2f11e70958a01496938dc40db92fa11c9437"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/indkflausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/indkflausbv/xml.zip"
+  },
+  "stand_datum": "2002-07-23",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-1-296 v. 23.7.2002 I 2764 (IndKfmAusbV 2002)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Industriekaufmann und zur Industriekauffrau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

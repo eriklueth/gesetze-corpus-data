@@ -1,0 +1,26 @@
+{
+  "amtabk": "StAbwV",
+  "ausfertigung_datum": "2021-12-20",
+  "bjnr": "BJNR523600021",
+  "eli": null,
+  "gii_slug": "stabwv",
+  "ingested_at": "2026-04-17T15:28:47Z",
+  "jurabk": "StAbwV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b542c537bd147f9554abc44338d6e00534e8fe2ccbdec4febdd7bdaa802d582a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stabwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stabwv/xml.zip"
+  },
+  "stand_datum": "2024-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 20.12.2024 I Nr. 444",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des § 3 des Steueroasen-Abwehrgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

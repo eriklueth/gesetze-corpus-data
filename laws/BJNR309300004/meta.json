@@ -1,0 +1,26 @@
+{
+  "amtabk": "FSAV",
+  "ausfertigung_datum": "2004-11-26",
+  "bjnr": "BJNR309300004",
+  "eli": null,
+  "gii_slug": "fsav_2004",
+  "ingested_at": "2026-04-17T15:21:44Z",
+  "jurabk": "FSAV 2004",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "af8602111c648f21d76b5ba2276172b3a0504d2245ff5129b9fcd8e31f3de37f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fsav_2004/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fsav_2004/xml.zip"
+  },
+  "stand_datum": "2018-12-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 13 G v. 17.12.2018 I 2549",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Flugsicherungsausrüstung der Luftfahrzeuge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

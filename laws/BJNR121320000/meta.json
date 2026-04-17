@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2000-08-28",
+  "bjnr": "BJNR121320000",
+  "eli": null,
+  "gii_slug": "binschfudvbg2000bek",
+  "ingested_at": "2026-04-17T15:18:23Z",
+  "jurabk": "BinSchFuDVbg2000Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "04d97539fd3729b0a3ff946d097eec0e9861a275ae98614a7b8a86d73495fe0d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschfudvbg2000bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschfudvbg2000bek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Regionalen Vereinbarung über den Binnenschifffahrtsfunk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

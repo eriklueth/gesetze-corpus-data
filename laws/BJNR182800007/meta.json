@@ -1,0 +1,30 @@
+{
+  "amtabk": "Tier-LMHV",
+  "ausfertigung_datum": "2007-08-08",
+  "bjnr": "BJNR182800007",
+  "eli": null,
+  "gii_slug": "tier-lmhv",
+  "ingested_at": "2026-04-17T15:29:26Z",
+  "jurabk": "Tier-LMHV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "97ead9217b2486b605a6b53ab732b6255a5605c845165e9d09bf838273155109"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tier-lmhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tier-lmhv/xml.zip"
+  },
+  "stand_datum": "2018-04-18",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 18.4.2018 I 480, 619, 1844",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 11.4.2024 I Nr. 129",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inverkehrbringen von bestimmten Lebensmitteln tierischen Ursprungs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

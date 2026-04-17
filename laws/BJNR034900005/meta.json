@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-02-23",
+  "bjnr": "BJNR034900005",
+  "eli": null,
+  "gii_slug": "wassermeistprv",
+  "ingested_at": "2026-04-17T15:30:27Z",
+  "jurabk": "WasserMeistPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ea68dffd0fe546541b5b3777ff5a9b229aee16a757ff2bf18972cff6c67677ea"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wassermeistprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wassermeistprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 31 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wassermeister/Geprüfte Wassermeisterin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

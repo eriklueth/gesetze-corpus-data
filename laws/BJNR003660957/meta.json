@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1957-03-30",
+  "bjnr": "BJNR003660957",
+  "eli": null,
+  "gii_slug": "bpr_skldgdbpano",
+  "ingested_at": "2026-04-17T15:19:01Z",
+  "jurabk": "BPräsKldgDBPAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f62f5ecd564ca68a453cc20288dbab0a3494ce8de17e02e8235a35d95e3f8d39"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_skldgdbpano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_skldgdbpano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung von Beamten der Deutschen Bundespost",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

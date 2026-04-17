@@ -1,0 +1,26 @@
+{
+  "amtabk": "GAPInVeKoSV",
+  "ausfertigung_datum": "2022-12-19",
+  "bjnr": "BJNR635300022",
+  "eli": null,
+  "gii_slug": "gapinvekosv",
+  "ingested_at": "2026-04-17T15:21:52Z",
+  "jurabk": "GAPInVeKoSV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2376ced3a43cce584180612496318ee471e3cd230ea60b735b2012720bc68876"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gapinvekosv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gapinvekosv/xml.zip"
+  },
+  "stand_datum": "2025-04-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 30.4.2025 I Nr. 128",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

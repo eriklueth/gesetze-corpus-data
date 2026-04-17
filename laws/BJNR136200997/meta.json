@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-06-17",
+  "bjnr": "BJNR136200997",
+  "eli": null,
+  "gii_slug": "elekanlausbv",
+  "ingested_at": "2026-04-17T15:20:37Z",
+  "jurabk": "ElekAnlAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9a5e4f685c26e93c504c6e3e8824992c9054f4b2c96b6fd09871918cdebfa96b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/elekanlausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/elekanlausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Elektroanlagenmonteur/zur Elektroanlagenmonteurin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

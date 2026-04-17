@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-02-02",
+  "bjnr": "BJNR025820994",
+  "eli": null,
+  "gii_slug": "binschukrabkg",
+  "ingested_at": "2026-04-17T15:18:26Z",
+  "jurabk": "BinSchUkrAbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "44954aa91960143b7d6ff0cade5e832ee9d7281a0e2f40f8e03d8b9003deefe0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschukrabkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschukrabkg/xml.zip"
+  },
+  "stand_datum": "2016-05-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 24.5.2016 I 1217",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Abkommen vom 14. Juli 1992 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Ukraine über die Binnenschiffahrt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

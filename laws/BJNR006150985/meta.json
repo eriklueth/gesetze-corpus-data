@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1985-03-27",
+  "bjnr": "BJNR006150985",
+  "eli": null,
+  "gii_slug": "kraftstchev",
+  "ingested_at": "2026-04-17T15:23:49Z",
+  "jurabk": "KraftStCHEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4edf4bf5a96fa06382aa43309ecd471d67fc13d56ed21c6a3e851ff2fd546e3d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kraftstchev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kraftstchev/xml.zip"
+  },
+  "stand_datum": "1994-05-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 18.5.1994 I 1076",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die kraftfahrzeugsteuerliche Behandlung von schweizerischen Straßenfahrzeugen im grenzüberschreitenden Verkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

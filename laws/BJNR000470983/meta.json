@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1983-01-19",
+  "bjnr": "BJNR000470983",
+  "eli": null,
+  "gii_slug": "wzg_4beluabek",
+  "ingested_at": "2026-04-17T15:31:06Z",
+  "jurabk": "WZG§4BELuaBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e9368a6ccf61b52098ae390bf474e36effd3714ece1582c2ed168d39d4a2ee0f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4beluabek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4beluabek/xml.zip"
+  },
+  "stand_datum": "1992-01-14",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Bek. vom 14.1.1992 I 224",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "SVRV",
+  "ausfertigung_datum": "1999-07-15",
+  "bjnr": "BJNR162700999",
+  "eli": null,
+  "gii_slug": "svrv_1999",
+  "ingested_at": "2026-04-17T15:29:14Z",
+  "jurabk": "SVRV 1999",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d59a2a2d37621d6fcf989a20992bd70ae1b57702d2bea3f1254f60b6eed915d3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svrv_1999/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svrv_1999/xml.zip"
+  },
+  "stand_datum": "2026-04-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 14.4.2026 I Nr. 99",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Zahlungsverkehr, die Buchführung und die Rechnungslegung in der Sozialversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

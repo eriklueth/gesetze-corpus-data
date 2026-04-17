@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-04-20",
+  "bjnr": "BJNR210980961",
+  "eli": null,
+  "gii_slug": "eusvk_bk",
+  "ingested_at": "2026-04-17T15:21:04Z",
+  "jurabk": "EuSVkÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a6012fbd1b1c575efc2529943852ed2375ed6b9cae3c28a8ecea616e85ac5eee"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eusvk_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eusvk_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Europäisches Übereinkommen über die Aufhebung des Sichtvermerkszwangs für Flüchtlinge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

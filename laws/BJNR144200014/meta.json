@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-08-14",
+  "bjnr": "BJNR144200014",
+  "eli": null,
+  "gii_slug": "grenzav_2014",
+  "ingested_at": "2026-04-17T15:22:28Z",
+  "jurabk": "GrenzAV 2014",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5bdd988a4775e2f93dac355eb9d460d680bd20a3e2634bfe7ea652db4c4318db"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grenzav_2014/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grenzav_2014/xml.zip"
+  },
+  "stand_datum": "1993-07-01",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 613-7-1 v. 1.7.1993 I 1132 (GrenzAV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Ausdehnung des grenznahen Raums und die der Grenzaufsicht unterworfenen Gebiete",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

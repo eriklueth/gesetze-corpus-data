@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-06-28",
+  "bjnr": "BJNR220110013",
+  "eli": null,
+  "gii_slug": "flugelekausbv_2013",
+  "ingested_at": "2026-04-17T15:21:30Z",
+  "jurabk": "FlugElekAusbV 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "98eef34294c6808edfebe85c5a3af94f3adab4551112df921ac6c5afab84ef08"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flugelekausbv_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flugelekausbv_2013/xml.zip"
+  },
+  "stand_datum": "2024-06-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 11.6.2024 I Nr. 186",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

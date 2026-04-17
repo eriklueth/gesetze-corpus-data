@@ -1,0 +1,26 @@
+{
+  "amtabk": "SVWO",
+  "ausfertigung_datum": "1997-07-28",
+  "bjnr": "BJNR194600997",
+  "eli": null,
+  "gii_slug": "svwo_1997",
+  "ingested_at": "2026-04-17T15:29:15Z",
+  "jurabk": "SVWO 1997",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7613ecd44b4a327e8e0091f6130a351a91a4ee728196952f781081b928081f60"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svwo_1997/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svwo_1997/xml.zip"
+  },
+  "stand_datum": "2022-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 32 G v. 20.12.2022 I 2759",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Wahlordnung für die Sozialversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

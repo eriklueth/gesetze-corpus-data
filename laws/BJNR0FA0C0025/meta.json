@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-10-17",
+  "bjnr": "BJNR0FA0C0025",
+  "eli": null,
+  "gii_slug": "btgo2025anl_1",
+  "ingested_at": "2026-04-17T15:19:22Z",
+  "jurabk": "BTGO2025Anl 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a75cbfd2e50695b0a00edce1ba92efe05d174efb8efead6c513c59ee88c58b8c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/btgo2025anl_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/btgo2025anl_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Geheimschutzordnung des Deutschen Bundestages (Anlage 1 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

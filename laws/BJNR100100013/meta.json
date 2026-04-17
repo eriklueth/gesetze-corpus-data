@@ -1,0 +1,26 @@
+{
+  "amtabk": "41. BImSchV",
+  "ausfertigung_datum": "2013-05-02",
+  "bjnr": "BJNR100100013",
+  "eli": null,
+  "gii_slug": "bimschv_41",
+  "ingested_at": "2026-04-17T15:16:38Z",
+  "jurabk": "BImSchV 41",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "939b0bd87df3ef2828e6d67d9c39669a767a24f670a015cf1e24be0e4d679b96"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_41/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_41/xml.zip"
+  },
+  "stand_datum": "2025-04-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 30.4.2025 I Nr. 126",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Einundvierzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

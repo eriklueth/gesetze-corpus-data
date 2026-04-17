@@ -1,0 +1,26 @@
+{
+  "amtabk": "JAktAV",
+  "ausfertigung_datum": "2021-11-08",
+  "bjnr": "BJNR483400021",
+  "eli": null,
+  "gii_slug": "jaktav",
+  "ingested_at": "2026-04-17T15:23:13Z",
+  "jurabk": "JAktAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cd308a8715fd08aa8999027b9793a9aeaf24d804c7ca5492d643ed23c6caea80"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/jaktav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/jaktav/xml.zip"
+  },
+  "stand_datum": "2026-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 29.3.2026 I Nr. 83",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Aufbewahrung und Speicherung von Justizakten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

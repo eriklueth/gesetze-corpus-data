@@ -1,0 +1,554 @@
+{
+  "bjnr": "BJNR076800020",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Antragsberechtigung",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Antragsinhalt",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Datenschutz und -sicherheit sowie Qualität digitaler Gesundheitsanwendungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Anforderungen an Sicherheit und Funktionstauglichkeit",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Datenschutz und -sicherheit sowie Qualität digitaler Gesundheitsanwendungen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Anforderungen an Datenschutz und Datensicherheit",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Datenschutz und -sicherheit sowie Qualität digitaler Gesundheitsanwendungen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Anforderungen an Qualität",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Datenschutz und -sicherheit sowie Qualität digitaler Gesundheitsanwendungen"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Qualitätsanforderungen nach § 5 Absatz 1; Festlegungen zur Interoperabilität",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Datenschutz und -sicherheit sowie Qualität digitaler Gesundheitsanwendungen"
+      ],
+      "file": "paragraphs/0006a.md",
+      "heading": "Interoperabilität von digitalen Gesundheitsanwendungen mit der elektronischen Patientenakte",
+      "number": "§ 6a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Datenschutz und -sicherheit sowie Qualität digitaler Gesundheitsanwendungen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Nachweis durch Zertifikate",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Begriff der positiven Versorgungseffekte",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Darlegung positiver Versorgungseffekte",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Studien zum Nachweis positiver Versorgungseffekte",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Studien zum Nachweis positiver Versorgungseffekte in besonderen Fällen",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte"
+      ],
+      "file": "paragraphs/0011a.md",
+      "heading": "Studien zum Nachweis des medizinischen Nutzens bei digitalen Gesundheitsanwendungen höherer Risikoklasse",
+      "number": "§ 11a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte"
+      ],
+      "file": "paragraphs/0011b.md",
+      "heading": "Studien zum Nachweis des Erhalts der Erwerbsfähigkeit",
+      "number": "§ 11b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Nachweis für diagnostische Instrumente",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Bewertungsentscheidung über das Vorliegen eines hinreichenden Nachweises",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Begründung der Versorgungsverbesserung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 3 Anforderungen an den Nachweis positiver Versorgungseffekte"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Wissenschaftliches Evaluationskonzept",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 4 Ergänzende Vorschriften für das Verwaltungsverfahren"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Allgemeine Vorschriften",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 4 Ergänzende Vorschriften für das Verwaltungsverfahren"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Verfahren bei Aufnahme zur Erprobung",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 4 Ergänzende Vorschriften für das Verwaltungsverfahren"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Wesentliche Veränderungen",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 4 Ergänzende Vorschriften für das Verwaltungsverfahren"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Verfahren bei wesentlichen Veränderungen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 5 Inhalte und Veröffentlichung des Verzeichnisses für digitale Gesundheitsanwendungen nach § 139e Absatz 1 des Fünften Buches Sozialgesetzbuch"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Inhalte des elektronischen Verzeichnisses",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 5 Inhalte und Veröffentlichung des Verzeichnisses für digitale Gesundheitsanwendungen nach § 139e Absatz 1 des Fünften Buches Sozialgesetzbuch"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Weitere Ausgestaltung des elektronischen Verzeichnisses",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 5 Inhalte und Veröffentlichung des Verzeichnisses für digitale Gesundheitsanwendungen nach § 139e Absatz 1 des Fünften Buches Sozialgesetzbuch"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Bekanntmachung des Verzeichnisses für digitale Gesundheitsanwendungen im Bundesanzeiger",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 6 Beratung durch das Bundesinstitut für Arzneimittel und Medizinprodukte"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Beratung",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 6a Anwendungsbegleitende Erfolgsmessung"
+      ],
+      "file": "paragraphs/0023a.md",
+      "heading": "Grundsätze der Datenerhebung und Übermittlung",
+      "number": "§ 23a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 6a Anwendungsbegleitende Erfolgsmessung"
+      ],
+      "file": "paragraphs/0023b.md",
+      "heading": "Allgemeine Inhalte der erstmaligen Meldung und von Folgemeldungen",
+      "number": "§ 23b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 6a Anwendungsbegleitende Erfolgsmessung"
+      ],
+      "file": "paragraphs/0023c.md",
+      "heading": "Dauer und Häufigkeit der Nutzung",
+      "number": "§ 23c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 6a Anwendungsbegleitende Erfolgsmessung"
+      ],
+      "file": "paragraphs/0023d.md",
+      "heading": "Patientenberichteter Gesundheitszustand während der Nutzung und Patientenzufriedenheit in Bezug auf die Qualität der digitalen Gesundheitsanwendung",
+      "number": "§ 23d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 6a Anwendungsbegleitende Erfolgsmessung"
+      ],
+      "file": "paragraphs/0023e.md",
+      "heading": "Zusätzliche Ergebnisse der anwendungsbegleitenden Erfolgsmessung zum patientenberichteten Gesundheitszustand während der Nutzung der digitalen Gesundheitsanwendung",
+      "number": "§ 23e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 7 Gebühren und Auslagen"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Grundsätze",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 7 Gebühren und Auslagen"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Gebühren für die Entscheidungen über die Aufnahme digitaler Gesundheitsanwendungen in das Verzeichnis",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 7 Gebühren und Auslagen"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Gebühren für Änderungsanzeigen und die Streichung",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 7 Gebühren und Auslagen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Gebühr für Beratungen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 7 Gebühren und Auslagen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Gebühren in besonderen Fällen",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 7 Gebühren und Auslagen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Sonstige Gebühren",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 7 Gebühren und Auslagen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Gebührenermäßigung und Gebührenbefreiung auf Antrag",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 7 Gebühren und Auslagen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Auslagen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 7 Gebühren und Auslagen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Entstehung der Gebühren- und Auslagenschuld",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 7 Gebühren und Auslagen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Gebühren- und Auslagenschuldner",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 8 Schiedsverfahren"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Zusammensetzung der Schiedsstelle und Bestellung der Mitglieder der Schiedsstelle",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 8 Schiedsverfahren"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Amtsperiode",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 8 Schiedsverfahren"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Abberufung und Amtsniederlegung",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 8 Schiedsverfahren"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Teilnahme an Sitzungen",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 8 Schiedsverfahren"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Geschäftsstelle",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 8 Schiedsverfahren"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Einleitung des Schiedsverfahrens und Fristen",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 8 Schiedsverfahren"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Vorlagepflicht",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 8 Schiedsverfahren"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Beratung und Beschlussfassung",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 8 Schiedsverfahren"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Entschädigung und Kosten",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 9 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 9 Schlussbestimmungen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "Fragebogen gemäß § 4 Absatz 6",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 9 Schlussbestimmungen"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "Fragebogen gemäß den §§ 5 und 6",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 9 Schlussbestimmungen"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "Fragebogen nach § 23d Absatz 1",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
+        "Abschnitt 9 Schlussbestimmungen"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "Datensätze nach § 23c Absatz 5, § 23d Absatz 4 und 5 sowie § 23e Absatz 5",
+      "number": "Anlage 4",
+      "type": "annex"
+    }
+  ]
+}

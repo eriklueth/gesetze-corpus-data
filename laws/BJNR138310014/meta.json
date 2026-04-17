@@ -1,0 +1,26 @@
+{
+  "amtabk": "MariMedV",
+  "ausfertigung_datum": "2014-08-14",
+  "bjnr": "BJNR138310014",
+  "eli": null,
+  "gii_slug": "marimedv",
+  "ingested_at": "2026-04-17T15:24:40Z",
+  "jurabk": "MariMedV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a9a4355ec513c81ba7a2e73ce1912177f4b4be0b4a2a7938f9e5d1149f96f80d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/marimedv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/marimedv/xml.zip"
+  },
+  "stand_datum": "2026-02-03",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 G v. 3.2.2026 I Nr. 28",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über maritime medizinische Anforderungen auf Kauffahrteischiffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

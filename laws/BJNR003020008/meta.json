@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-01-07",
+  "bjnr": "BJNR003020008",
+  "eli": null,
+  "gii_slug": "grenzgabknldv_2",
+  "ingested_at": "2026-04-17T15:22:28Z",
+  "jurabk": "GrenzgAbkNLDV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0eb445efb5b48e65f4c83b23c07d5a907682f2e82b7925d7656a423eb4744133"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grenzgabknldv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grenzgabknldv_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweite Verordnung zur Bestimmung eines Gebietes als grenzüberschreitendes Gewerbegebiet im Sinne des Artikels 2 Abs. 1 Nr. 6 des Abkommens vom 16. Juni 1959 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

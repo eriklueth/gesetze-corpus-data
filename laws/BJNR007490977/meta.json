@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-05-09",
+  "bjnr": "BJNR007490977",
+  "eli": null,
+  "gii_slug": "ofdsaarbraufgv",
+  "ingested_at": "2026-04-17T15:26:12Z",
+  "jurabk": "OFDSaarbrAufgV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ba2484d4118580c1f01749fe631b95b6e1ed44c8a144ae2ba40b64717f85dd7e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ofdsaarbraufgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ofdsaarbraufgv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Saarbrücken",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

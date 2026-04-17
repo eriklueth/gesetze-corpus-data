@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1946-02-13",
+  "bjnr": "BJNR209430980",
+  "eli": null,
+  "gii_slug": "unoimm_bk",
+  "ingested_at": "2026-04-17T15:29:59Z",
+  "jurabk": "UNOImmÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "580d98ba05c2af02f94eacc060f800157dcd26b407ba528c5e3a2db20983c5a4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unoimm_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unoimm_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Vorrechte und Immunitäten der Vereinten Nationen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

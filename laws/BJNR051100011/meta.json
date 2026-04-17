@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-03-13",
+  "bjnr": "BJNR051100011",
+  "eli": null,
+  "gii_slug": "betrwhwoprv",
+  "ingested_at": "2026-04-17T15:18:13Z",
+  "jurabk": "BetrWHwOPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "72bc93b87b2e84de20a3591dee5e3c624720f6d462d27f55f09c3234f68de031"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/betrwhwoprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/betrwhwoprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung und Geprüfte Betriebswirtin nach der Handwerksordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

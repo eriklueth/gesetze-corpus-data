@@ -1,0 +1,26 @@
+{
+  "amtabk": "ESGV",
+  "ausfertigung_datum": "2009-07-29",
+  "bjnr": "BJNR234200009",
+  "eli": null,
+  "gii_slug": "esgv",
+  "ingested_at": "2026-04-17T15:20:48Z",
+  "jurabk": "ESGV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d8ae30894c3b44893fdddc6a060faeee0dbbad9b1798a063b5037351af3b6ef5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/esgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/esgv/xml.zip"
+  },
+  "stand_datum": "2011-03-24",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 8 G v. 24.3.2011 I 453",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Bemessung von Einstiegsgeld",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

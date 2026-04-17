@@ -1,0 +1,30 @@
+{
+  "amtabk": "GüKGrKabotageV",
+  "ausfertigung_datum": "2011-12-28",
+  "bjnr": "BJNR004200012",
+  "eli": null,
+  "gii_slug": "g_kgrkabotagev_2012",
+  "ingested_at": "2026-04-17T15:22:31Z",
+  "jurabk": "GüKGrKabotageV 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3e7aec0f42b06b7e4cb48b61a8d7fb648f7b6fb31dc3c53ab6d4543cd5488b5a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/g_kgrkabotagev_2012/xml.zip"
+  },
+  "stand_datum": "2023-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 29 G v. 2.3.2023 I Nr. 56",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 3 Abs. 3 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über den grenzüberschreitenden Güterkraftverkehr und den Kabotageverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

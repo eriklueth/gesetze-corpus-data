@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-08-10",
+  "bjnr": "BJNR159700003",
+  "eli": null,
+  "gii_slug": "zjdvtrg",
+  "ingested_at": "2026-04-17T15:31:21Z",
+  "jurabk": "ZJDVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5e698d843955917380c71ccdb5e26a16180ae1277ece0ccf695360f959e68da1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zjdvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zjdvtrg/xml.zip"
+  },
+  "stand_datum": "2018-07-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 Vertrag v. 6.7.2018 I 2236 iVm Art. 1 G v. 29.11.2018 I 2235",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Vertrag vom 27. Januar 2003 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland - Körperschaft des öffentlichen Rechts -",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

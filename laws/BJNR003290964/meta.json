@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1964-05-25",
+  "bjnr": "BJNR003290964",
+  "eli": null,
+  "gii_slug": "versansprreglg_ndg_2",
+  "ingested_at": "2026-04-17T15:30:07Z",
+  "jurabk": "VersAnsprReglGÄndG 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "74fc0a3e720650dc4a027adef42a2eeb4aec582284310c40ddfda7956d77be9e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/versansprreglg_ndg_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/versansprreglg_ndg_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweites Gesetz zur Änderung und Ergänzung des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "RBDL",
+  "ausfertigung_datum": "1949-01-31",
+  "bjnr": "BJNR700100949",
+  "eli": null,
+  "gii_slug": "bdlr",
+  "ingested_at": "2026-04-17T15:27:09Z",
+  "jurabk": "BDLR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "09fdc3f3a29560b28063bf7112b554e9e4ffa7a5cd86c30c45afd5ba0627cca8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bdlr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bdlr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Richtlinien der Bank deutscher Länder zur Erstellung der Reichsmark-Schlußbilanz und der Umstellungsrechnung der Geldinstitute",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

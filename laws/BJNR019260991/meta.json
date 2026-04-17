@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1991-08-23",
+  "bjnr": "BJNR019260991",
+  "eli": null,
+  "gii_slug": "bmlernano_1991",
+  "ingested_at": "2026-04-17T15:18:43Z",
+  "jurabk": "BMLErnAnO 1991",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3ff0d47641f6cffe3d251c4532ee1cfab085cfd8386f41e645bf21b49a70db89"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmlernano_1991/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmlernano_1991/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

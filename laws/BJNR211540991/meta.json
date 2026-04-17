@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1991-12-12",
+  "bjnr": "BJNR211540991",
+  "eli": null,
+  "gii_slug": "ksevtrg",
+  "ingested_at": "2026-04-17T15:23:57Z",
+  "jurabk": "KSEVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3e8b6d7676ee67276de9838649d621afa3e462d0251245907eb0e622f2f60ae6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ksevtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ksevtrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 19. November 1990 über konventionelle Streitkräfte in Europa",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

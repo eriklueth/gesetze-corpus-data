@@ -1,0 +1,21 @@
+{
+  "amtabk": "1. SGB XI-ÄndG",
+  "ausfertigung_datum": "1996-06-14",
+  "bjnr": "BJNR083000996",
+  "eli": null,
+  "gii_slug": "sgb11_ndg_1",
+  "ingested_at": "2026-04-17T15:16:27Z",
+  "jurabk": "SGB11ÄndG 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "64f6a034539f698fec4c80c3087398a7b789f061db3a19f330c7f89aa4337973"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgb11_ndg_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgb11_ndg_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erstes Gesetz zur Änderung des Elften Buches Sozialgesetzbuch und anderer Gesetze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

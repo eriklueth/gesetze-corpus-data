@@ -1,0 +1,30 @@
+{
+  "amtabk": "ErwSÜAG",
+  "ausfertigung_datum": "2007-03-17",
+  "bjnr": "BJNR031410007",
+  "eli": null,
+  "gii_slug": "erws_ag",
+  "ingested_at": "2026-04-17T15:20:48Z",
+  "jurabk": "ErwSÜAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a372d64f276fd8d2afcf4ea909c40751fea502fa384f18fa903faab0cfe51b9e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/erws_ag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/erws_ag/xml.zip"
+  },
+  "stand_datum": "2021-05-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 15 Abs. 8 G v. 4.5.2021 I 882",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Das G ist gem. Bek. v. 12.12.2008; 2009 II 39 mWv 1.1.2009 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zur Ausführung des Haager Übereinkommens vom 13. Januar 2000 über den internationalen Schutz von Erwachsenen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

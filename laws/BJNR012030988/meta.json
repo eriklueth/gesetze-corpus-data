@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-07-27",
+  "bjnr": "BJNR012030988",
+  "eli": null,
+  "gii_slug": "reblv",
+  "ingested_at": "2026-04-17T15:27:13Z",
+  "jurabk": "ReblV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "200e2c39d4dfa7adc1de10a9cb06909c1d59f9e5e69193a9a5f02a7231dfd0fb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/reblv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/reblv/xml.zip"
+  },
+  "stand_datum": "2012-10-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 V v. 10.10.2012 I 2113",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Bekämpfung der Reblaus",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

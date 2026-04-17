@@ -1,0 +1,26 @@
+{
+  "amtabk": "BVLAÜV",
+  "ausfertigung_datum": "2008-06-04",
+  "bjnr": "BJNR097200008",
+  "eli": null,
+  "gii_slug": "bvla_v",
+  "ingested_at": "2026-04-17T15:19:30Z",
+  "jurabk": "BVLAÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8e55b17f138eb45db3656a24616a7fe61e0980d5dc7c7d73c2452d05e74afc22"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bvla_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bvla_v/xml.zip"
+  },
+  "stand_datum": "2019-11-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 19.11.2019 I 1862",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Übertragung von Aufgaben an das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

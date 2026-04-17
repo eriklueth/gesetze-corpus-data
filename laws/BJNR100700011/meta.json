@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-05-23",
+  "bjnr": "BJNR100700011",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2011-05-23_2",
+  "ingested_at": "2026-04-17T15:25:19Z",
+  "jurabk": "Münz10EuroBek 2011-05-23/2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fe2d9eb4170fb30360249d18e9f7a6ce9e3348711b7de04cd109b4b55b925054"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2011-05-23_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2011-05-23_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „FRAUENFUSSBALL-WM in DEUTSCHLAND“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

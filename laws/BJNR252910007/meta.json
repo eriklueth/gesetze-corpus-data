@@ -1,0 +1,34 @@
+{
+  "amtabk": "ARegV",
+  "ausfertigung_datum": "2007-10-29",
+  "bjnr": "BJNR252910007",
+  "eli": null,
+  "gii_slug": "aregv",
+  "ingested_at": "2026-04-17T15:17:04Z",
+  "jurabk": "ARegV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "425de688e2ddd37900e4e881ea952d03f23263324c0051d59f7afc365925cb84"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aregv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aregv/xml.zip"
+  },
+  "stand_datum": "2023-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. Art. 15 Abs. 5 G v. 22.12.2023 I Nr. 405 mit Ablauf des 31.12.2028 außer Kraft",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 22.12.2023 I Nr. 405",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V ist gem. Art. 4 V v. 29.10.2007 I 2529 am 6.11.2007 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Anreizregulierung der Energieversorgungsnetze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

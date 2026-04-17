@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-06-20",
+  "bjnr": "BJNR278220996",
+  "eli": null,
+  "gii_slug": "unsekrsitzabk",
+  "ingested_at": "2026-04-17T15:29:52Z",
+  "jurabk": "UNSekrSitzAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "af056c26e8a5f631d6121ce994ed27456d97a4b6db31291286a6372cd9022b4b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unsekrsitzabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unsekrsitzabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

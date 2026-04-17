@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-03-18",
+  "bjnr": "BJNR263520994",
+  "eli": null,
+  "gii_slug": "natotrstatzabk_ndabkd",
+  "ingested_at": "2026-04-17T15:25:54Z",
+  "jurabk": "NATOTrStatZAbkÄndAbkD",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "140a5b06325f8bfba182e3f4d8ef341ead4e9f91d8f733568099f2215fb631b5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/natotrstatzabk_ndabkd/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/natotrstatzabk_ndabkd/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zur Durchführung des Artikels 45 Absatz 1 des Zusatzabkommens vom 3. August 1959 in der durch das Abkommen vom 21. Oktober 1971, die Vereinbarung vom 18. Mai 1981 und das Abkommen vom 18. März 1993 geänderten Fassung zu dem Abkommen zwischen den Parteien des Nordatlantikvertrages über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

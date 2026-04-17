@@ -1,0 +1,26 @@
+{
+  "amtabk": "A/KAE",
+  "ausfertigung_datum": "1943-02-27",
+  "bjnr": "BJNR507500943",
+  "eli": null,
+  "gii_slug": "kaeaano",
+  "ingested_at": "2026-04-17T15:16:42Z",
+  "jurabk": "KAEAAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a016e782fc465d86b1e548866025b5f1d01387228c2b87f86b4c1047b297d610"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kaeaano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kaeaano/xml.zip"
+  },
+  "stand_datum": "1992-01-09",
+  "standangabe": [
+    {
+      "kommentar": "AnO für Strom u. Gas aufgeh. durch § 9 Satz 2 V v. 9.1.1992 I 12 mWv 1.1.1992",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Ausführungsanordnung zur Konzessionsabgabenanordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

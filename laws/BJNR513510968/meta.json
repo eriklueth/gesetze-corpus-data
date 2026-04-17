@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1968-07-18",
+  "bjnr": "BJNR513510968",
+  "eli": null,
+  "gii_slug": "kfzversbehstatano",
+  "ingested_at": "2026-04-17T15:23:30Z",
+  "jurabk": "KfzVersBehStatAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "96335889aebf3524da8c42a06af939cc1d3585d2b8f38e938bb533a0a39fcdba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfzversbehstatano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfzversbehstatano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die statistische Erfassung der Tarifgruppe B (Behörden) in der Kraftfahrtversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

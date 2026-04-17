@@ -1,0 +1,26 @@
+{
+  "amtabk": "BGSPersG",
+  "ausfertigung_datum": "1976-06-03",
+  "bjnr": "BJNR013579976",
+  "eli": null,
+  "gii_slug": "bgspersg",
+  "ingested_at": "2026-04-17T15:18:40Z",
+  "jurabk": "BGSPersG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9fc38e8defb9ee6ae1c09afc0317103950164f53736364c51dbed8a38108bf53"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgspersg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgspersg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 25 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Personalstruktur des Bundesgrenzschutzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

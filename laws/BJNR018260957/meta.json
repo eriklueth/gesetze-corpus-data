@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1957-11-15",
+  "bjnr": "BJNR018260957",
+  "eli": null,
+  "gii_slug": "wzg_35mexbek",
+  "ingested_at": "2026-04-17T15:31:03Z",
+  "jurabk": "WZG§35MEXBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "15fcd63747465213ee7d0d82bb03dd021d9b21ca82b30a07dc0ef4c11ca154b8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35mexbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35mexbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-03-04",
+  "bjnr": "BJNR002320988",
+  "eli": null,
+  "gii_slug": "wzg_4irq_cypbek",
+  "ingested_at": "2026-04-17T15:31:13Z",
+  "jurabk": "WZG§4IRQ/CYPBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a7a430a53a168e0332bf4a0714927143ed0706b1d46e5c3af485374716de8cce"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4irq_cypbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4irq_cypbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

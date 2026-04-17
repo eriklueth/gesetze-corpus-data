@@ -1,0 +1,26 @@
+{
+  "amtabk": "SchauHV",
+  "ausfertigung_datum": "1984-12-17",
+  "bjnr": "BJNR015980984",
+  "eli": null,
+  "gii_slug": "schauhv",
+  "ingested_at": "2026-04-17T15:27:42Z",
+  "jurabk": "SchauHV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "04df020176e0f5ee18d0803cfa0f9c4997ed9f59e5b090448fb7d9e14b54686d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schauhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schauhv/xml.zip"
+  },
+  "stand_datum": "2010-03-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 9.3.2010 I 264",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Haftpflichtversicherung für Schausteller",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

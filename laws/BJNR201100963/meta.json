@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-11-04",
+  "bjnr": "BJNR201100963",
+  "eli": null,
+  "gii_slug": "vollstrvtr_grc",
+  "ingested_at": "2026-04-17T15:30:14Z",
+  "jurabk": "VollstrVtr GRC",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d3a10bc8efedb921a4f97279e07de7b2bd72b60fe088ee8593e83ec9b30c14e2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vollstrvtr_grc/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vollstrvtr_grc/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Griechenland über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

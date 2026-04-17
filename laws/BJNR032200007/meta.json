@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-03-13",
+  "bjnr": "BJNR032200007",
+  "eli": null,
+  "gii_slug": "schwsalmov",
+  "ingested_at": "2026-04-17T15:27:57Z",
+  "jurabk": "SchwSalmoV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "041a962665d98e10e967b07bd421da1ed4c28478e307645ecb04418b9dc0b550"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schwsalmov/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schwsalmov/xml.zip"
+  },
+  "stand_datum": "2017-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 137 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Verminderung der Salmonellenverbreitung durch Schlachtschweine",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

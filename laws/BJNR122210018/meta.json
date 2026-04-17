@@ -1,0 +1,26 @@
+{
+  "amtabk": "43. BImSchV",
+  "ausfertigung_datum": "2018-07-18",
+  "bjnr": "BJNR122210018",
+  "eli": null,
+  "gii_slug": "bimschv_43",
+  "ingested_at": "2026-04-17T15:16:39Z",
+  "jurabk": "BImSchV 43",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fd36d1821176a8047b4d6a27a23f6cc8b3c2245ac7013f6de01e6c66ac58f94f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_43/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_43/xml.zip"
+  },
+  "stand_datum": "2025-02-25",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 25.02.2025 I Nr. 61",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Dreiundvierzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

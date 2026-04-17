@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1952-11-29",
+  "bjnr": "BJNR007800952",
+  "eli": null,
+  "gii_slug": "bjagdg",
+  "ingested_at": "2026-04-17T15:18:27Z",
+  "jurabk": "BJagdG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2c1554399a120eed34e770c848ee55c96de414afe301852c6872f033a6f129b3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bjagdg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bjagdg/xml.zip"
+  },
+  "stand_datum": "1976-09-29",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 29.9.1976 I 2849;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 G v. 29.3.2026 I Nr. 87",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundesjagdgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

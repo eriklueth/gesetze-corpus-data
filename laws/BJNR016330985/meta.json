@@ -1,0 +1,30 @@
+{
+  "amtabk": "SaatG",
+  "ausfertigung_datum": "1985-08-20",
+  "bjnr": "BJNR016330985",
+  "eli": null,
+  "gii_slug": "saatverkg_1985",
+  "ingested_at": "2026-04-17T15:27:38Z",
+  "jurabk": "SaatVerkG 1985",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "94a4ab419f548da262c4c47d2cd44bc5924d06ba82c5ac115ee416bec5109e58"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/saatverkg_1985/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/saatverkg_1985/xml.zip"
+  },
+  "stand_datum": "2004-07-16",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 16.7.2004 I 1673;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 Abs. 14 G v. 20.12.2022 I 2752",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Saatgutverkehrsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

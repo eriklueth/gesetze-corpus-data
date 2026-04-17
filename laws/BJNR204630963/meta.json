@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1960-04-08",
+  "bjnr": "BJNR204630963",
+  "eli": null,
+  "gii_slug": "grenzvtr_nld",
+  "ingested_at": "2026-04-17T15:22:29Z",
+  "jurabk": "GrenzVtr NLD",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "67c4d58dc53ecfe1c4fa0e6768a0c22bfbfd0310fbf2d1c6065a15546f671d42"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grenzvtr_nld/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grenzvtr_nld/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über den Verlauf der gemeinsamen Landesgrenze, die Grenzgewässer, den grenznahen Grundbesitz, den grenzüberschreitenden Binnenverkehr und andere Grenzfragen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "KBV",
+  "ausfertigung_datum": "2000-12-19",
+  "bjnr": "BJNR180500000",
+  "eli": null,
+  "gii_slug": "kbv_2002",
+  "ingested_at": "2026-04-17T15:23:24Z",
+  "jurabk": "KBV 2002",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e04fba0760ba511a9da6cc7f5da4291bdef593ad753879bb325e182204fcff96"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kbv_2002/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kbv_2002/xml.zip"
+  },
+  "stand_datum": "2016-07-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 G v. 18.7.2016 I 1679",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Kleinbetragsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

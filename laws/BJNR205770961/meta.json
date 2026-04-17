@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-06-09",
+  "bjnr": "BJNR205770961",
+  "eli": null,
+  "gii_slug": "erpentwhig",
+  "ingested_at": "2026-04-17T15:20:45Z",
+  "jurabk": "ERPEntwHiG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f9899e6bb44121dd3cc280da6053ed824daec57250d81392a3c10f998936a47"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/erpentwhig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/erpentwhig/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 247 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Finanzierungshilfe für Entwicklungsländer aus Mitteln des ERP-Sondervermögens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "SGBBeglV",
+  "ausfertigung_datum": "2003-04-11",
+  "bjnr": "BJNR052800003",
+  "eli": null,
+  "gii_slug": "sgbbeglv",
+  "ingested_at": "2026-04-17T15:28:14Z",
+  "jurabk": "SGBBeglV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0ac1f4e05e25eb335d566d7ba78e758487a00de7eef5346280284a6cd301217d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgbbeglv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgbbeglv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die zu Beglaubigungen befugten Behörden nach dem Sozialgesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

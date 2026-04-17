@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-04-10",
+  "bjnr": "BJNR053400995",
+  "eli": null,
+  "gii_slug": "patg_41abs2bek_95-04",
+  "ingested_at": "2026-04-17T15:26:30Z",
+  "jurabk": "PatG§41Abs2Bek 95-04",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "88c395744a2cce8f5620853e308cc18037bcd44d4e132928c0ebdf16ac3ec17a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/patg_41abs2bek_95-04/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/patg_41abs2bek_95-04/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 41 Abs. 2 des Patentgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

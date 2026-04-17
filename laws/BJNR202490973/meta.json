@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-05-03",
+  "bjnr": "BJNR202490973",
+  "eli": null,
+  "gii_slug": "intelsat_bkg",
+  "ingested_at": "2026-04-17T15:23:01Z",
+  "jurabk": "INTELSATÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2d31217c2535744bb67b9c7e6da6080fde012c19dc22601bc46892805c2d53d8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intelsat_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intelsat_bkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Übereinkommen vom 20. August 1971 über die Internationale Fernmeldesatellitenorganisation \"INTELSAT\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

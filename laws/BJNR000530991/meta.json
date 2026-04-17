@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZDVG",
+  "ausfertigung_datum": "1991-01-16",
+  "bjnr": "BJNR000530991",
+  "eli": null,
+  "gii_slug": "zdvg",
+  "ingested_at": "2026-04-17T15:31:15Z",
+  "jurabk": "ZDVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "580f3a424a57d0e48dbc72a491b1839af4ba498bd39bba431b4391ec7fe34b34"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zdvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zdvg/xml.zip"
+  },
+  "stand_datum": "2009-06-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 14.6.2009 I 1229",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Vertrauensmann der Zivildienstleistenden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

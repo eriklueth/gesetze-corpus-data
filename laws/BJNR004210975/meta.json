@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-01-29",
+  "bjnr": "BJNR004210975",
+  "eli": null,
+  "gii_slug": "krwaffgenv_2",
+  "ingested_at": "2026-04-17T15:23:54Z",
+  "jurabk": "KrWaffGenV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c93173d48b6dfad86d3f50b1993467841d295b5168233330f56813122694ff8e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/krwaffgenv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/krwaffgenv_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweite Verordnung über eine Allgemeine Genehmigung nach dem Gesetz über die Kontrolle von Kriegswaffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

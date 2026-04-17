@@ -1,0 +1,26 @@
+{
+  "amtabk": "MBPlG",
+  "ausfertigung_datum": "1994-11-23",
+  "bjnr": "BJNR348610994",
+  "eli": null,
+  "gii_slug": "mbplg",
+  "ingested_at": "2026-04-17T15:24:47Z",
+  "jurabk": "MBPlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d7bf7f86c1f602c55745de943a1dfb03a28991ceea7492e3e726d5b15901daa3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mbplg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mbplg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 330 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung des Planungsverfahrens für Magnetschwebebahnen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

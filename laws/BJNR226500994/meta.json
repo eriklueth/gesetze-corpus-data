@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-09-02",
+  "bjnr": "BJNR226500994",
+  "eli": null,
+  "gii_slug": "azrg",
+  "ingested_at": "2026-04-17T15:17:32Z",
+  "jurabk": "AZRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "607490f727c7937ca137ca74250e088caad7b2c40332b694ade4c677ea3b19ac"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/azrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/azrg/xml.zip"
+  },
+  "stand_datum": "2024-05-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 8.5.2024 I Nr. 152",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über das Ausländerzentralregister",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

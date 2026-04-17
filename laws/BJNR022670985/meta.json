@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1985-12-13",
+  "bjnr": "BJNR022670985",
+  "eli": null,
+  "gii_slug": "min_lav",
+  "ingested_at": "2026-04-17T15:24:52Z",
+  "jurabk": "MinÖlAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7ea32182b5b4342475300f8b351c844a8bae8be53dbbfa982106c4696b6e845c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/min_lav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/min_lav/xml.zip"
+  },
+  "stand_datum": "2017-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 124 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über einen Mineralölausgleich in einer Versorgungskrise",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

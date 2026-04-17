@@ -1,0 +1,566 @@
+{
+  "bjnr": "BJNR514300021",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Nachhaltigkeitsanforderungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Anerkennung von Biokraftstoffen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Nachhaltigkeitsanforderungen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Anforderungen an landwirtschaftliche Biomasse",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Nachhaltigkeitsanforderungen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Anforderungen an forstwirtschaftliche Biomasse",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Nachhaltigkeitsanforderungen"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Treibhausgaseinsparung",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Nachweis über die Erfüllung der Anforderungen",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 2 Nachhaltigkeitsnachweise"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Anerkannte Nachweise",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 2 Nachhaltigkeitsnachweise"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Ausstellung von Nachhaltigkeitsnachweisen",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 2 Nachhaltigkeitsnachweise"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Ausstellung auf Grund von Massenbilanzsystemen",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 2 Nachhaltigkeitsnachweise"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Lieferung auf Grund von Massenbilanzsystemen",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 2 Nachhaltigkeitsnachweise"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Inhalt und Form der Nachhaltigkeitsnachweise",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 2 Nachhaltigkeitsnachweise"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Folgen fehlender oder nicht ausreichender Angaben",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 2 Nachhaltigkeitsnachweise"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Anerkannte Nachhaltigkeitsnachweise auf Grund der Biomassestrom-Nachhaltigkeitsverordnung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 2 Nachhaltigkeitsnachweise"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Weitere anerkannte Nachhaltigkeitsnachweise",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 2 Nachhaltigkeitsnachweise"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Nachhaltigkeits-Teilnachweise",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 2 Nachhaltigkeitsnachweise"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Unwirksamkeit von Nachhaltigkeitsnachweisen",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 3 Zertifikate für Schnittstellen und Lieferanten"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Anerkannte Zertifikate",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 3 Zertifikate für Schnittstellen und Lieferanten"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Ausstellung von Zertifikaten",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 3 Zertifikate für Schnittstellen und Lieferanten"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Inhalt der Zertifikate",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 3 Zertifikate für Schnittstellen und Lieferanten"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Folgen fehlender Angaben",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 3 Zertifikate für Schnittstellen und Lieferanten"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Gültigkeit der Zertifikate",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 3 Zertifikate für Schnittstellen und Lieferanten"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Anerkannte Zertifikate auf Grund der Biomassestrom-Nachhaltigkeitsverordnung",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 3 Zertifikate für Schnittstellen und Lieferanten"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Weitere anerkannte Zertifikate",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 1 Anerkennung von Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Anerkannte Zertifizierungsstellen",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 1 Anerkennung von Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Anerkennung von Zertifizierungsstellen",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 1 Anerkennung von Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Verfahren zur Anerkennung von Zertifizierungsstellen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 1 Anerkennung von Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Inhalt der Anerkennung",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 1 Anerkennung von Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Erlöschen der Anerkennung",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 1 Anerkennung von Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Widerruf der Anerkennung",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 2 Aufgaben der Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Führen von Verzeichnissen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 2 Aufgaben der Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Kontrolle der Schnittstellen und Lieferanten",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 2 Aufgaben der Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Kontrolle des Anbaus",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 2 Aufgaben der Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Kontrolle der Entstehungsbetriebe von Abfällen und Reststoffen",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 2 Aufgaben der Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Mitteilungen und Berichte über Kontrollen",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 2 Aufgaben der Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Weitere Berichte und Mitteilungen",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 2 Aufgaben der Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Aufbewahrung, Umgang mit Informationen",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 3 Überwachung von Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Kontrollen und Maßnahmen",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 4 Weitere anerkannte Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Anerkannte Zertifizierungsstellen auf Grund der Biomassestrom-Nachhaltigkeitsverordnung",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 4 Weitere anerkannte Zertifizierungsstellen"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Weitere anerkannte Zertifizierungsstellen",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Nachweis",
+        "Abschnitt 4 Zertifizierungsstellen",
+        "Unterabschnitt 5 Vorläufige Anerkennung"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Vorläufige Anerkennung von Zertifizierungsstellen",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Zentrales Register"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Register Biokraftstoffe",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Zentrales Register"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Datenabgleich",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Auskunftsrecht der zuständigen Behörde",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Berichtspflicht der zuständigen Behörde",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Datenübermittlung",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Zuständigkeit",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Verfahren vor der zuständigen Behörde",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Muster und Vordrucke",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Informationsaustausch",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 6 Ordnungswidrigkeiten"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 51",
+      "type": "paragraph"
+    }
+  ]
+}

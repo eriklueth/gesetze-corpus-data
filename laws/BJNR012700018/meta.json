@@ -1,0 +1,30 @@
+{
+  "amtabk": "BAZustAnO",
+  "ausfertigung_datum": "2017-12-28",
+  "bjnr": "BJNR012700018",
+  "eli": null,
+  "gii_slug": "bazustano",
+  "ingested_at": "2026-04-17T15:17:43Z",
+  "jurabk": "BAZustAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "da1cbc75cf43776cabf5425899547b7f079df6d0c898f803a085203e478c4661"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bazustano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bazustano/xml.zip"
+  },
+  "stand_datum": "2024-06-28",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 AnO v. 28.6.2024 I Nr. 232",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt AnO 860-3-31 v. 22.7.2008 I 1405 (BAVorstBeamtRuaAnO 2008)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Anordnung des Vorstands der Bundesagentur für Arbeit über die Übertragung von Befugnissen auf dem Gebiet des Beamten-, Versorgungs- und Disziplinarrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

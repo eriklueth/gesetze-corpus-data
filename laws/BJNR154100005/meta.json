@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-06-03",
+  "bjnr": "BJNR154100005",
+  "eli": null,
+  "gii_slug": "kerindausbv",
+  "ingested_at": "2026-04-17T15:23:26Z",
+  "jurabk": "KerIndAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f6d687db0c364b3bc88eb044278874442575d17f2172a5fea81f297c96da809b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kerindausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kerindausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung in der keramischen Industrie",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

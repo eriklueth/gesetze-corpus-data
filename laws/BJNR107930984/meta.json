@@ -1,0 +1,21 @@
+{
+  "amtabk": "RAG 1984",
+  "ausfertigung_datum": "1984-06-27",
+  "bjnr": "BJNR107930984",
+  "eli": null,
+  "gii_slug": "rag_1984",
+  "ingested_at": "2026-04-17T15:27:06Z",
+  "jurabk": "RAG 1984",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2fc6ce54896d908fa3985fe5ff599d07925c47d7b1adae678601d6eb44210ed8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rag_1984/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rag_1984/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Rentenanpassungsgesetz 1984 (Artikel 1 des Gesetzes über die Anpassung der Renten der gesetzlichen Rentenversicherung und der Geldleistungen der gesetzlichen Unfallversicherung im Jahre 1984)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BRüG-Saar",
+  "ausfertigung_datum": "1967-01-12",
+  "bjnr": "BJNR001330967",
+  "eli": null,
+  "gii_slug": "br_gsaarg",
+  "ingested_at": "2026-04-17T15:19:11Z",
+  "jurabk": "BRÜGSaarG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2202212d24a1ed1b3d8fd92e552d852e49d1d12cef597b58eb6d5e92e59e0f96"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/br_gsaarg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/br_gsaarg/xml.zip"
+  },
+  "stand_datum": "2003-12-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 Abs. 3 G v. 10.12.2003 I 2471",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundesgesetz zur Einführung des Bundesgesetzes zur Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten des Deutschen Reichs und gleichgestellter Rechtsträger (Bundesrückerstattungsgesetz - BRüG) im Saarland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

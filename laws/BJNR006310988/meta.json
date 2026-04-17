@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-05-17",
+  "bjnr": "BJNR006310988",
+  "eli": null,
+  "gii_slug": "m_nz2dmbek_1988",
+  "ingested_at": "2026-04-17T15:25:35Z",
+  "jurabk": "Münz2DMBek 1988",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d64f99fc6c53619338b085b0a2162a66c64a8f173e0026b8cadad593ad3003d1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz2dmbek_1988/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz2dmbek_1988/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

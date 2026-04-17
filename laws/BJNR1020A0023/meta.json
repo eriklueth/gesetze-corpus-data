@@ -1,0 +1,26 @@
+{
+  "amtabk": "VertrFPrV",
+  "ausfertigung_datum": "2023-09-21",
+  "bjnr": "BJNR1020A0023",
+  "eli": null,
+  "gii_slug": "vertrfprv",
+  "ingested_at": "2026-04-17T15:30:11Z",
+  "jurabk": "VertrFPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f358f46404bc14c3445947b5c5403fdb92778f15db07264500c22cec50a49e39"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vertrfprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vertrfprv/xml.zip"
+  },
+  "stand_datum": "2001-10-31",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-7-64 v. 31.10.2001 I 2882 (FachbPrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Vertrieb oder Geprüfte Berufsspezialistin für Vertrieb",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

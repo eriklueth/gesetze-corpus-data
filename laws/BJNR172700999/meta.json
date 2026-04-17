@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-06-30",
+  "bjnr": "BJNR172700999",
+  "eli": null,
+  "gii_slug": "bdo_35deutschepostagano_1999",
+  "ingested_at": "2026-04-17T15:17:54Z",
+  "jurabk": "BDO§35DeutschePostAGAnO 1999",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f5c0b026259d7fbe30600babfd79bfaf25d2e6de7741ab8c467db903c8d21d14"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bdo_35deutschepostagano_1999/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bdo_35deutschepostagano_1999/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung der Befugnisse der Einleitungsbehörde im Sinne des § 35 der Bundesdisziplinarordnung im Bereich der Deutschen Post AG",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

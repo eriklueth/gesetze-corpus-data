@@ -1,0 +1,828 @@
+{
+  "bjnr": "BJNR423800013",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Angemessenheit des Eigenkapitals",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Anrechnungspflichtige Positionen, Schuldnergesamtheit",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Auf fremde Währung lautende Positionen",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Meldungen zur Eigenkapitalausstattung",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Anzeigen bei Nichteinhaltung der Eigenkapitalanforderungen",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 1 Risikopositionen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Adressenausfallrisikopositionen",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 1 Risikopositionen"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Bilanzielle Adressenausfallrisikopositionen",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 1 Risikopositionen"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Derivative Adressenausfallrisikopositionen",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 1 Risikopositionen"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Außerbilanzielle Adressenausfallrisikopositionen",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 1 Risikopositionen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Vorleistungsrisikopositionen",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 1 Risikopositionen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Abwicklungsrisikopositionen",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 2 Gesamtanrechnungsbetrag für Adressrisiken"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Ermittlung des Gesamtanrechnungsbetrags für Adressrisiken",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 2 Gesamtanrechnungsbetrag für Adressrisiken"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Ermittlung der risikogewichteten KSA-Positionswerte für Adressenausfallrisikopositionen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 2 Gesamtanrechnungsbetrag für Adressrisiken"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Gesamtanrechnungsbetrag für Abwicklungsrisiken",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 1 KSA-Forderungsklassen"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Zuordnung von KSA-Positionen zu KSA-Forderungsklassen",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "KSA-Risikogewicht für Zentralregierungen",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "KSA-Risikogewicht für Regionalregierungen und örtliche Gebietskörperschaften",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "KSA-Risikogewicht für sonstige öffentliche Stellen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "KSA-Risikogewicht für multilaterale Entwicklungsbanken",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "KSA-Risikogewicht für internationale Organisationen",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "KSA-Risikogewicht für Institute",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "KSA-Risikogewicht für von Kreditinstituten emittierte gedeckte Schuldverschreibungen",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "KSA-Risikogewicht für Unternehmen",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "KSA-Risikogewicht für das Mengengeschäft",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "KSA-Risikogewicht für Investmentanteile",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "KSA-Risikogewicht für Beteiligungen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "KSA-Risikogewicht für sonstige Positionen",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "KSA-Risikogewicht für überfällige Positionen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Benennung von Exportversicherungsagenturen",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Verwendung von Länderklassifizierungen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Maßgebliche Länderklassifizierungen",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Maßgebliche Länderklassifizierung einer beurteilten KSA-Position",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 2 KSA-Risikogewicht"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Verwendungsfähige Länderklassifizierungen von Exportversicherungsagenturen",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 3 KSA-Positionswert"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "KSA-Positionswert",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 3 KSA-Positionswert"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "KSA-Bemessungsgrundlage",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 3 KSA-Positionswert"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Bemessungsgrundlage für derivative Adressenausfallrisikopositionen",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 3 KSA-Positionswert"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Marktbewerteter Wiedereindeckungsaufwand",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 3 KSA-Positionswert"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Gegenwärtiger potenzieller Wiedereindeckungsaufwand",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 3 KSA-Positionswert"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Künftig zu erwartende Erhöhung des gegenwärtigen potenziellen Wiedereindeckungsaufwands",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 3 KSA-Positionswert"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Marktbewerteter Anspruch aus einem Derivat",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 3 KSA-Positionswert"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Für den Wiedereindeckungsaufwand maßgebliche Laufzeit",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 3 KSA-Positionswert"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Laufzeitbewerteter Wiedereindeckungsaufwand",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 3 KSA-Positionswert"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "KSA-Konversionsfaktor",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 1 Anrechnung von Verbriefungspositionen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Anrechnung der risikogewichteten KSA-Positionswerte für Verbriefungspositionen",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 1 Anrechnung von Verbriefungspositionen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Verbriefungstransaktion",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 1 Anrechnung von Verbriefungspositionen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Verbriefungspositionen, Verbriefungstranchen",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 1 Anrechnung von Verbriefungspositionen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Verbrieftes Portfolio",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 1 Anrechnung von Verbriefungspositionen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Originator, Sponsor, Investor",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 1 Anrechnung von Verbriefungspositionen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Sonstige Begriffsbestimmungen für Verbriefungen",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 2 Anforderungen an Wohnungsunternehmen mit Spareinrichtung, die als Originator oder Sponsor von Verbriefungstransaktionen gelten"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Mindestanforderungen an einen wesentlichen und wirksamen Risikotransfer",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 2 Anforderungen an Wohnungsunternehmen mit Spareinrichtung, die als Originator oder Sponsor von Verbriefungstransaktionen gelten"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Verbot der impliziten Unterstützung von Verbriefungstransaktionen",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 3 Anrechnung von Verbriefungstransaktionen"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "KSA-Bemessungsgrundlage einer Verbriefungsposition",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 3 Anrechnung von Verbriefungstransaktionen"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "KSA-Positionswert einer Verbriefungsposition",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 3 Anrechnung von Verbriefungstransaktionen"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Risikogewichteter KSA-Positionswert einer Verbriefungsposition",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 3 Anrechnung von Verbriefungstransaktionen"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "KSA-Verbriefungsrisikogewicht für Verbriefungspositionen",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 3 Anrechnung von Verbriefungstransaktionen"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Maximaler risikogewichteter KSA-Positionswert einer KSA-Verbriefungstransaktion",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Adressrisiken",
+        "Kapitel 3 Kreditrisiko-Standardansatz",
+        "Abschnitt 4 Verbriefungen",
+        "Unterabschnitt 4 Abzugsbeträge für Verbriefungspositionen"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Abzugsbetrag von Verbriefungspositionen",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Operationelle Risiken",
+        "Kapitel 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Begriffsbestimmung",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Operationelle Risiken",
+        "Kapitel 2 Basisindikatoransatz"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Berechnung des Anrechnungsbetrags",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Operationelle Risiken",
+        "Kapitel 2 Basisindikatoransatz"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Definition des relevanten Indikators",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Marktrisiken",
+        "Kapitel 1 Währungsgesamtposition"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Ermittlung und Anrechnung der Währungsgesamtposition",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Marktrisiken",
+        "Kapitel 1 Währungsgesamtposition"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Aktiv- und Passivpositionen",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Marktrisiken",
+        "Kapitel 1 Währungsgesamtposition"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Berücksichtigung von Optionsgeschäften",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Marktrisiken",
+        "Kapitel 2 Rohwarenposition"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Ermittlung und Anrechnung der Rohwarenposition",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Marktrisiken",
+        "Kapitel 2 Rohwarenposition"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Zeitfächermethode",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Marktrisiken",
+        "Kapitel 3 Andere Marktrisikopositionen"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Ermittlung und Anrechnung der anderen Marktrisikopositionen",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Übergangsbestimmungen für die Eigenkapitalausstattung und -berechnung",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 5 Absatz 1)",
+      "number": "Anlage 2",
+      "type": "annex"
+    }
+  ]
+}

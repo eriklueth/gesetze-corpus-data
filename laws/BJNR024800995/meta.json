@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-02-06",
+  "bjnr": "BJNR024800995",
+  "eli": null,
+  "gii_slug": "btgo1980anl6bek_1995",
+  "ingested_at": "2026-04-17T15:19:19Z",
+  "jurabk": "BTGO1980Anl6Bek 1995",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b35b5961de73db1f70b17837360947790890c3a671110701969cdd0fa37d2c26"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/btgo1980anl6bek_1995/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/btgo1980anl6bek_1995/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Übernahme der Grundsätze in Immunitätsangelegenheiten von Mitgliedern des Deutschen Bundestages",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

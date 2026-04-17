@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-12-09",
+  "bjnr": "BJNR038200004",
+  "eli": null,
+  "gii_slug": "bukdiszano",
+  "ingested_at": "2026-04-17T15:19:26Z",
+  "jurabk": "BUKDiszAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dea9b0046882f799b8ad77b8982695875695833a833726914dbd0130535b0757"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bukdiszano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bukdiszano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Unfallkasse des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

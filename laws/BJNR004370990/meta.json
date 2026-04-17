@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-02-28",
+  "bjnr": "BJNR004370990",
+  "eli": null,
+  "gii_slug": "telekomernano",
+  "ingested_at": "2026-04-17T15:29:21Z",
+  "jurabk": "TELEKOMErnAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3ffb7e4d613377cd7196ff87ef4ac38238e3fc2c5349d5c46ea78bc2d8932960"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/telekomernano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/telekomernano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich der Deutschen Bundespost TELEKOM",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

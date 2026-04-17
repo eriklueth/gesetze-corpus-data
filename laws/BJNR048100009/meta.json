@@ -1,0 +1,26 @@
+{
+  "amtabk": "NotrufV",
+  "ausfertigung_datum": "2009-03-06",
+  "bjnr": "BJNR048100009",
+  "eli": null,
+  "gii_slug": "notrufv",
+  "ingested_at": "2026-04-17T15:26:02Z",
+  "jurabk": "NotrufV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c1d6246c6a621699e4b31faeccbd56992fa1ee534de2d857e39c7daba30dbe43"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/notrufv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/notrufv/xml.zip"
+  },
+  "stand_datum": "2024-05-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 34 G v. 6.5.2024 I Nr. 149",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Notrufverbindungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

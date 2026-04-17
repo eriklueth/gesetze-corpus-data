@@ -1,0 +1,30 @@
+{
+  "amtabk": "GewStG",
+  "ausfertigung_datum": "1936-12-01",
+  "bjnr": "BJNR009790936",
+  "eli": null,
+  "gii_slug": "gewstg",
+  "ingested_at": "2026-04-17T15:22:09Z",
+  "jurabk": "GewStG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d95191687cccbc94baaa5e90f994693e04931c89555d8f40e9a2c78633061d09"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gewstg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gewstg/xml.zip"
+  },
+  "stand_datum": "2002-10-15",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 15.10.2002 I 4167;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 4 G v. 28.2.2025 I Nr. 69",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gewerbesteuergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

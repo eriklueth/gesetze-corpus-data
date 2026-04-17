@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-05-09",
+  "bjnr": "BJNR129210005",
+  "eli": null,
+  "gii_slug": "_ndschnausbv",
+  "ingested_at": "2026-04-17T15:16:48Z",
+  "jurabk": "ÄndSchnAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8916660b850d06a7a9510b42ed220209495d28f86379e9431842ea878e60e315"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/_ndschnausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/_ndschnausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Änderungsschneider/zur Änderungsschneiderin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

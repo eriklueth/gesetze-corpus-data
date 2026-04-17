@@ -1,0 +1,26 @@
+{
+  "amtabk": "13. ProdSV",
+  "ausfertigung_datum": "2002-09-27",
+  "bjnr": "BJNR380500002",
+  "eli": null,
+  "gii_slug": "gsgv_13",
+  "ingested_at": "2026-04-17T15:16:30Z",
+  "jurabk": "GSGV 13",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "556dfa7affe17edef3060259650030df1cb78fa6c9ef6131b0b67c5b9f701fa1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gsgv_13/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gsgv_13/xml.zip"
+  },
+  "stand_datum": "2021-07-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 27 G v. 27.7.2021 I 3146",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Dreizehnte Verordnung zum Produktsicherheitsgesetz (Aerosolpackungsverordnung)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1987-06-13",
+  "bjnr": "BJNR015580987",
+  "eli": null,
+  "gii_slug": "bpr_samtsbezano_1987",
+  "ingested_at": "2026-04-17T15:19:00Z",
+  "jurabk": "BPräsAmtsbezAnO 1987",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4d6d27287ed855ee35c493c5b781c0b7503ea35503ce0f3b223ae8dd32e63463"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_samtsbezano_1987/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_samtsbezano_1987/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

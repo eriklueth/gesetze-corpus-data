@@ -1,0 +1,26 @@
+{
+  "amtabk": "KosmetikerMstrV",
+  "ausfertigung_datum": "2015-01-16",
+  "bjnr": "BJNR001700015",
+  "eli": null,
+  "gii_slug": "kosmetikermstrv",
+  "ingested_at": "2026-04-17T15:23:47Z",
+  "jurabk": "KosmetikerMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "113bb4ba0cd19f7e220b054b83108d4ad08e620077ee69396acbd891811cee1a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kosmetikermstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kosmetikermstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 83 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Kosmetiker-Gewerbe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

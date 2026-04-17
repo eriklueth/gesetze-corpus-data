@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-09-29",
+  "bjnr": "BJNR205000020",
+  "eli": null,
+  "gii_slug": "zensg2021aussv",
+  "ingested_at": "2026-04-17T15:31:30Z",
+  "jurabk": "ZensG2021AussV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f42e3cb8f27eb7b8f83d32c7a64d715e636cec28c5746bcb5461c3f54943e31f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zensg2021aussv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zensg2021aussv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Aussetzung der Datenübermittlungen nach § 5 Absatz 2 Nummer 2 des Zensusgesetzes 2021",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2019-12-05",
+  "bjnr": "BJNR635100019",
+  "eli": null,
+  "gii_slug": "luftvodv_252_2020",
+  "ingested_at": "2026-04-17T15:24:32Z",
+  "jurabk": "LuftVODV 252 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "80df886e96750e0de1e6746c7f34f541ccf762dea7f8f6463a14e50ac428ee50"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_252_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_252_2020/xml.zip"
+  },
+  "stand_datum": "2013-06-26",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 96-1-2-252 v. 26.6.2013 BAnz AT 05.07.2013 V2 (LuftVODV 252)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Zweihundertzweiundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Haßfurt-Schweinfurt)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

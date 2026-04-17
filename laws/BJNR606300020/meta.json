@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-02-12",
+  "bjnr": "BJNR606300020",
+  "eli": null,
+  "gii_slug": "vkfv_ndbek_2020",
+  "ingested_at": "2026-04-17T15:30:13Z",
+  "jurabk": "VKFVÄndBek 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "977c1aff41114619653f584ff5603b7c7f8a8a0b19993d5c136a9b9962bbc91f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vkfv_ndbek_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vkfv_ndbek_2020/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

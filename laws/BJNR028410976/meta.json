@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-09-28",
+  "bjnr": "BJNR028410976",
+  "eli": null,
+  "gii_slug": "bjagdg_ndg_2",
+  "ingested_at": "2026-04-17T15:18:27Z",
+  "jurabk": "BJagdGÄndG 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dffa2ac7984e2a607cb27723199b30efb2eb57f25527509209d00b86743e2230"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bjagdg_ndg_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bjagdg_ndg_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweites Gesetz zur Änderung des Bundesjagdgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

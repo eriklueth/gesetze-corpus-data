@@ -1,0 +1,26 @@
+{
+  "amtabk": "GRG",
+  "ausfertigung_datum": "1988-12-20",
+  "bjnr": "BJNR024770988",
+  "eli": null,
+  "gii_slug": "grg",
+  "ingested_at": "2026-04-17T15:22:29Z",
+  "jurabk": "GRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8670fe0f360ac53f9094b9abdd0b01582a31443fa703e3f74a170d2fd72f9d88"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grg/xml.zip"
+  },
+  "stand_datum": "1993-04-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 105 G v. 27.4.1993 I 512",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Strukturreform im Gesundheitswesen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

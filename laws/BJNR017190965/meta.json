@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-10-15",
+  "bjnr": "BJNR017190965",
+  "eli": null,
+  "gii_slug": "brinv",
+  "ingested_at": "2026-04-17T15:19:08Z",
+  "jurabk": "BRiNV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7292c966a2acfe0539edf33caca0e70ba31121cc90c9816fb95af7eabb55abbb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/brinv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/brinv/xml.zip"
+  },
+  "stand_datum": "2006-04-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 209 Abs. 3 G v. 19.4.2006 I 866",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Nebentätigkeit der Richter im Bundesdienst",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

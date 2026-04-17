@@ -1,0 +1,21 @@
+{
+  "amtabk": "EU-EnergieKBG",
+  "ausfertigung_datum": "2022-12-16",
+  "bjnr": "BJNR232500022",
+  "eli": null,
+  "gii_slug": "eu-energiekbg",
+  "ingested_at": "2026-04-17T15:20:49Z",
+  "jurabk": "EU-EnergieKBG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bc7bbfba7a208a416c5033dc74e9de70a91e30f4baf7ff1f1fe3d5ae929d58c7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eu-energiekbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eu-energiekbg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Einführung eines EU-Energiekrisenbeitrags nach der Verordnung (EU) 2022/1854",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

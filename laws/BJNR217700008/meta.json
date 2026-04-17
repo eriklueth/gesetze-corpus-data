@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-11-07",
+  "bjnr": "BJNR217700008",
+  "eli": null,
+  "gii_slug": "tav",
+  "ingested_at": "2026-04-17T15:29:18Z",
+  "jurabk": "TAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9c24b58b4f463b2d5ecb2c6373f722e0cb65b2fc5206cae6e5f1dd35bf23a07c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tav/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Ausdehnung der Vorschriften über die Zulassung der Arzneimittel auf Therapieallergene, die für einzelne Personen auf Grund einer Rezeptur hergestellt werden, sowie über Verfahrensregelungen der staatlichen Chargenprüfung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

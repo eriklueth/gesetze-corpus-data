@@ -1,0 +1,21 @@
+{
+  "amtabk": "WIdV",
+  "ausfertigung_datum": "2024-09-30",
+  "bjnr": "BJNR1250A0024",
+  "eli": null,
+  "gii_slug": "widv",
+  "ingested_at": "2026-04-17T15:30:40Z",
+  "jurabk": "WIdV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cac1290c782bd9772bc8ada93ed253f185b644b8fe4e0e53de990368e9d987bb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/widv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/widv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Vergabe steuerlicher Wirtschafts-Identifikationsnummern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

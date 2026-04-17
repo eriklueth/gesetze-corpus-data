@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1939-02-18",
+  "bjnr": "BJNR002590939",
+  "eli": null,
+  "gii_slug": "heilprgdv_1",
+  "ingested_at": "2026-04-17T15:22:36Z",
+  "jurabk": "HeilprGDV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a2be5da9d630017234c9dbe61b276dbe65e9e34fa6c297a5736c7c332bb6a813"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/heilprgdv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/heilprgdv_1/xml.zip"
+  },
+  "stand_datum": "2016-12-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 17f iVm Art. 18 Abs. 4 G v. 23.12.2016 I 3191",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Bek. v. 9.1.2018 I 126 mWv 22.3.2018 (Nr. 3) ist berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Erste Durchführungsverordnung zum Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung (Heilpraktikergesetz)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-06-04",
+  "bjnr": "BJNR208710981",
+  "eli": null,
+  "gii_slug": "lmeersch_bk",
+  "ingested_at": "2026-04-17T15:24:07Z",
+  "jurabk": "LMeerSchÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "97f01488185aee6c8be434c630a62fa7196b53da72a218bd6277796884f39cad"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lmeersch_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lmeersch_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen zur Verhütung der Meeresverschmutzung vom Lande aus",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

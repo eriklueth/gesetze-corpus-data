@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-04-09",
+  "bjnr": "BJNR052020996",
+  "eli": null,
+  "gii_slug": "dba_verarabem",
+  "ingested_at": "2026-04-17T15:19:43Z",
+  "jurabk": "DBA VerArabEm",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2942219d708b0bd1cdc4fe60a324a7e92df0916f403928ac9af8a2b51278dccb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dba_verarabem/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dba_verarabem/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Belebung der wirtschaftlichen Beziehungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

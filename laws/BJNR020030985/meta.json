@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1985-10-11",
+  "bjnr": "BJNR020030985",
+  "eli": null,
+  "gii_slug": "m_nz5dmbek_1985-10",
+  "ingested_at": "2026-04-17T15:25:48Z",
+  "jurabk": "Münz5DMBek 1985-10",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d6e3416776650669984c9c8124bb3aae0c6eb6593a0e262580292b3da2cb618a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz5dmbek_1985-10/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz5dmbek_1985-10/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze 150 Jahre Eisenbahn in Deutschland)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

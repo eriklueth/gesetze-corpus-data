@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1967-06-08",
+  "bjnr": "BJNR005820967",
+  "eli": null,
+  "gii_slug": "stabg",
+  "ingested_at": "2026-04-17T15:28:47Z",
+  "jurabk": "StabG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "27892240f397bd9fca792584845685bf0ec63c10c6388e7736aff8c83babd01a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stabg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stabg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 267 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

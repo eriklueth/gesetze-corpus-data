@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-03-22",
+  "bjnr": "BJNR208230956",
+  "eli": null,
+  "gii_slug": "laabk_swe",
+  "ingested_at": "2026-04-17T15:24:01Z",
+  "jurabk": "LAAbk SWE",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e8888d152018dd897edeeb43754637a63e717ffb94e859eded0ea23db30d6b55"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/laabk_swe/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/laabk_swe/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden zum deutschen Lastenausgleich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

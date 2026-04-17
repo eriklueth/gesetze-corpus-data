@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2016-07-19",
+  "bjnr": "BJNR175700016",
+  "eli": null,
+  "gii_slug": "bgrwg",
+  "ingested_at": "2026-04-17T15:18:19Z",
+  "jurabk": "BGRWG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "856bcb5a9a3221543d95b6faa39e7b80016905f710d90882b8a356823aa9492c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgrwg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgrwg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Weiterentwicklung des Behindertengleichstellungsrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

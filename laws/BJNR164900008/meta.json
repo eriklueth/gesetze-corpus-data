@@ -1,0 +1,26 @@
+{
+  "amtabk": "EinbTestV",
+  "ausfertigung_datum": "2008-08-05",
+  "bjnr": "BJNR164900008",
+  "eli": null,
+  "gii_slug": "einbtestv",
+  "ingested_at": "2026-04-17T15:20:37Z",
+  "jurabk": "EinbTestV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9443ad930b1063dca7071781732c9ced9dd1b40c837b89e613b66ab4f9422dd4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/einbtestv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/einbtestv/xml.zip"
+  },
+  "stand_datum": "2024-06-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 21.6.2024 I Nr. 211",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zu Einbürgerungstest und Einbürgerungskurs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

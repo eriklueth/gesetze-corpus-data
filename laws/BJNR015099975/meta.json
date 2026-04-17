@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-06-24",
+  "bjnr": "BJNR015099975",
+  "eli": null,
+  "gii_slug": "stberg_ndg_3",
+  "ingested_at": "2026-04-17T15:28:52Z",
+  "jurabk": "StBerGÄndG 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b7d5ae0aedc018e44b813145496a98742935d9888c39857120573459d2670abc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stberg_ndg_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stberg_ndg_3/xml.zip"
+  },
+  "stand_datum": "2010-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 62 G v. 8.12.2010 I 1864",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Drittes Gesetz zur Änderung des Steuerberatungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

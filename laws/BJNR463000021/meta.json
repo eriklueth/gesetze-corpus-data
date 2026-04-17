@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2021-09-15",
+  "bjnr": "BJNR463000021",
+  "eli": null,
+  "gii_slug": "m_nz25eurobek_2021-09-15",
+  "ingested_at": "2026-04-17T15:25:34Z",
+  "jurabk": "Münz25EuroBek 2021-09-15",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2a305c4aabf27c3b0782dd0eb066208a99b5bc48ff91d3f4e7d436d08b1fdee4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz25eurobek_2021-09-15/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz25eurobek_2021-09-15/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Weihnachten – Geburt Christi“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

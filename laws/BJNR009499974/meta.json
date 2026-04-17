@@ -1,0 +1,21 @@
+{
+  "amtabk": "VStRG",
+  "ausfertigung_datum": "1974-04-17",
+  "bjnr": "BJNR009499974",
+  "eli": null,
+  "gii_slug": "vstrg",
+  "ingested_at": "2026-04-17T15:30:17Z",
+  "jurabk": "VStRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "522c5470a324cb62f99772ed1963b627b26d5e91507c805b7a3d583751ab0948"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vstrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vstrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Reform des Vermögensteuerrechts und zur Änderung anderer Steuergesetze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

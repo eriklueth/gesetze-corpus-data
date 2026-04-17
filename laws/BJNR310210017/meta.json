@@ -1,0 +1,30 @@
+{
+  "amtabk": "GEEV",
+  "ausfertigung_datum": "2017-08-10",
+  "bjnr": "BJNR310210017",
+  "eli": null,
+  "gii_slug": "geev_2017",
+  "ingested_at": "2026-04-17T15:22:00Z",
+  "jurabk": "GEEV 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c64fcf700129da10a10c3e743e30fab7e16cd0c44ed94b84690499621c9097c4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/geev_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/geev_2017/xml.zip"
+  },
+  "stand_datum": "2016-07-11",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt 754-27-6 V v. 11.07.2016 I 1629",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 21.12.2020 I 3138",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur grenzüberschreitenden Ausschreibung für Strom aus erneuerbaren Energien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

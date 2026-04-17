@@ -1,0 +1,30 @@
+{
+  "amtabk": "Lkw-MautV",
+  "ausfertigung_datum": "2018-06-25",
+  "bjnr": "BJNR115600018",
+  "eli": null,
+  "gii_slug": "lkw-mautv_2018",
+  "ingested_at": "2026-04-17T15:24:05Z",
+  "jurabk": "Lkw-MautV 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "16ed62491cfd6910ecb099b530827657b6513715c4f4fd85bff28fd4e6022160"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lkw-mautv_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lkw-mautv_2018/xml.zip"
+  },
+  "stand_datum": "2025-12-03",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 3.12.2025 I Nr. 306",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 9290-13-2 v. 24.6.2003 I 1003 (LKW-MautV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Erhebung, zur Nachweisführung über die für die Maut maßgeblichen Tatsachen und zur Erstattung der Maut",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

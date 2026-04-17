@@ -1,0 +1,26 @@
+{
+  "amtabk": "GenTBetV",
+  "ausfertigung_datum": "1995-05-17",
+  "bjnr": "BJNR073400995",
+  "eli": null,
+  "gii_slug": "gentbetv",
+  "ingested_at": "2026-04-17T15:22:08Z",
+  "jurabk": "GenTBetV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2741fbfbdac0ae9cfd2f4484993c6f6ef061d084e41dce16b509d1415878996c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gentbetv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gentbetv/xml.zip"
+  },
+  "stand_datum": "2006-03-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 23.3.2006 I 65",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Beteiligung des Rates, der Kommission und der Behörden der Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum im Verfahren zur Genehmigung von Freisetzungen und Inverkehrbringen sowie im Verfahren bei nachträglichen Maßnahmen nach dem Gentechnikgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

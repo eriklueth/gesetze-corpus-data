@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-07-13",
+  "bjnr": "BJNR266320996",
+  "eli": null,
+  "gii_slug": "grbr_ckabk_ces",
+  "ingested_at": "2026-04-17T15:22:27Z",
+  "jurabk": "GrBrückAbk CES",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0c3ed1453c7129b4e926747c58f947e72d75c01a6d7c1527770170cdcfdea890"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grbr_ckabk_ces/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grbr_ckabk_ces/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Bau einer Grenzbrücke an der gemeinsamen Staatsgrenze im Zuge der Europastraße E 49",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

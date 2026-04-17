@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2022-07-06",
+  "bjnr": "BJNR110400022",
+  "eli": null,
+  "gii_slug": "bwtamabgv",
+  "ingested_at": "2026-04-17T15:19:36Z",
+  "jurabk": "BwTAMAbgV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "58c7899d4edc46e6425c7b296a18aad9c0e9b8f0e4781b02855ffbcdbf523de3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bwtamabgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bwtamabgv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Abgabe von Tierarzneimitteln im Bereich der Bundeswehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

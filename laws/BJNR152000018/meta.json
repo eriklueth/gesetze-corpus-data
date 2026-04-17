@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-09-21",
+  "bjnr": "BJNR152000018",
+  "eli": null,
+  "gii_slug": "binschuo2018anh_vii",
+  "ingested_at": "2026-04-17T15:18:26Z",
+  "jurabk": "BinSchUO2018Anh VII",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "43440ba4423e240062aa437d9d78622245b975337451437330051bcba2cd3e92"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschuo2018anh_vii/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschuo2018anh_vii/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gleichwertige Typgenehmigungen und Vorschriften zum Einbau und zur Funktionsprüfung sowie Konformitätserklärung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

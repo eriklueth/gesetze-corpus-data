@@ -1,0 +1,26 @@
+{
+  "amtabk": "OrthSchMstrV",
+  "ausfertigung_datum": "2008-06-24",
+  "bjnr": "BJNR109600008",
+  "eli": null,
+  "gii_slug": "orthschmstrv",
+  "ingested_at": "2026-04-17T15:26:23Z",
+  "jurabk": "OrthSchMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0ae466c98687c2de9c8387911a3f0ec75aade78eec9df0e11182238e943c5953"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/orthschmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/orthschmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 67 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Orthopädieschuhmacher-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

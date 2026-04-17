@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-09-05",
+  "bjnr": "BJNR108720997",
+  "eli": null,
+  "gii_slug": "ehefzeugn_bk",
+  "ingested_at": "2026-04-17T15:20:31Z",
+  "jurabk": "EhefZeugnÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d8d8da5146385936617c936cd40829093d89de34adea837857646d9ed64af160"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ehefzeugn_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ehefzeugn_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Ausstellung von Ehefähigkeitszeugnissen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

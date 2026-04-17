@@ -1,0 +1,1507 @@
+{
+  "bjnr": "BJNR258510009",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Zweck",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Gewässereigentum, Schranken des Grundeigentums",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Allgemeine Sorgfaltspflichten",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Allgemeine Grundsätze der Gewässerbewirtschaftung",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0006a.md",
+      "heading": "Grundsätze für die Kosten von Wasserdienstleistungen und Wassernutzungen",
+      "number": "§ 6a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Bewirtschaftung nach Flussgebietseinheiten",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Erlaubnis, Bewilligung",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Benutzungen",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Inhalt der Erlaubnis und der Bewilligung",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Erlaubnis-, Bewilligungsverfahren",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0011a.md",
+      "heading": "Verfahren bei Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen",
+      "number": "§ 11a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0011b.md",
+      "heading": "Projektmanager",
+      "number": "§ 11b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0011c.md",
+      "heading": "Verfahren bei Wasserstoffinfrastrukturvorhaben",
+      "number": "§ 11c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Voraussetzungen für die Erteilung der Erlaubnis und der Bewilligung, Bewirtschaftungsermessen",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Inhalts- und Nebenbestimmungen der Erlaubnis und der Bewilligung",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0013a.md",
+      "heading": "Versagung und Voraussetzungen für die Erteilung der Erlaubnis für bestimmte Gewässerbenutzungen; unabhängige Expertenkommission",
+      "number": "§ 13a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0013b.md",
+      "heading": "Antragsunterlagen und Überwachung bei bestimmten Gewässerbenutzungen; Stoffregister",
+      "number": "§ 13b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Besondere Vorschriften für die Erteilung der Bewilligung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Gehobene Erlaubnis",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Ausschluss privatrechtlicher Abwehransprüche",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Zulassung vorzeitigen Beginns",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Widerruf der Erlaubnis und der Bewilligung",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Planfeststellungen und bergrechtliche Betriebspläne",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Alte Rechte und alte Befugnisse",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Anmeldung alter Rechte und alter Befugnisse",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Ausgleich zwischen konkurrierenden Gewässerbenutzungen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Rechtsverordnungen zur Gewässerbewirtschaftung",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 1 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Erleichterungen für EMAS-Standorte",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Gemeingebrauch",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Eigentümer- und Anliegergebrauch",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Bewirtschaftungsziele für oberirdische Gewässer",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Einstufung künstlicher und erheblich veränderter Gewässer",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Fristen zur Erreichung der Bewirtschaftungsziele",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Abweichende Bewirtschaftungsziele",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Ausnahmen von den Bewirtschaftungszielen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Reinhaltung oberirdischer Gewässer",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Mindestwasserführung",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Durchgängigkeit oberirdischer Gewässer",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Wasserkraftnutzung",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Anlagen in, an, über und unter oberirdischen Gewässern",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Wasserabfluss",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Gewässerrandstreifen",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0038a.md",
+      "heading": "Landwirtschaftlich genutzte Flächen mit Hangneigung an Gewässern",
+      "number": "§ 38a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Gewässerunterhaltung",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Träger der Unterhaltungslast",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Besondere Pflichten bei der Gewässerunterhaltung",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 2 Bewirtschaftung oberirdischer Gewässer"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Behördliche Entscheidungen zur Gewässerunterhaltung",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3 Bewirtschaftung von Küstengewässern"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Erlaubnisfreie Benutzungen von Küstengewässern",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3 Bewirtschaftung von Küstengewässern"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Bewirtschaftungsziele für Küstengewässer",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3 Bewirtschaftung von Küstengewässern"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Reinhaltung von Küstengewässern",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045a.md",
+      "heading": "Bewirtschaftungsziele für Meeresgewässer",
+      "number": "§ 45a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045b.md",
+      "heading": "Zustand der Meeresgewässer",
+      "number": "§ 45b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045c.md",
+      "heading": "Anfangsbewertung",
+      "number": "§ 45c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045d.md",
+      "heading": "Beschreibung des guten Zustands der Meeresgewässer",
+      "number": "§ 45d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045e.md",
+      "heading": "Festlegung von Zielen",
+      "number": "§ 45e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045f.md",
+      "heading": "Überwachungsprogramme",
+      "number": "§ 45f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045g.md",
+      "heading": "Fristverlängerungen; Ausnahmen von den Bewirtschaftungszielen",
+      "number": "§ 45g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045h.md",
+      "heading": "Maßnahmenprogramme",
+      "number": "§ 45h",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045i.md",
+      "heading": "Beteiligung der Öffentlichkeit",
+      "number": "§ 45i",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045j.md",
+      "heading": "Überprüfung und Aktualisierung",
+      "number": "§ 45j",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045k.md",
+      "heading": "Koordinierung",
+      "number": "§ 45k",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 3a Bewirtschaftung von Meeresgewässern"
+      ],
+      "file": "paragraphs/0045l.md",
+      "heading": "Zuständigkeit im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels",
+      "number": "§ 45l",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 4 Bewirtschaftung des Grundwassers"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Erlaubnisfreie Benutzungen des Grundwassers",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 4 Bewirtschaftung des Grundwassers"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Bewirtschaftungsziele für das Grundwasser",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 4 Bewirtschaftung des Grundwassers"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Reinhaltung des Grundwassers",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Bewirtschaftung von Gewässern",
+        "Abschnitt 4 Bewirtschaftung des Grundwassers"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Erdaufschlüsse",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 1 Öffentliche Wasserversorgung, Wasserschutzgebiete, Heilquellenschutz"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Öffentliche Wasserversorgung; Ermächtigung zum Erlass von Rechtsverordnungen",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 1 Öffentliche Wasserversorgung, Wasserschutzgebiete, Heilquellenschutz"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Festsetzung von Wasserschutzgebieten",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 1 Öffentliche Wasserversorgung, Wasserschutzgebiete, Heilquellenschutz"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Besondere Anforderungen in Wasserschutzgebieten",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 1 Öffentliche Wasserversorgung, Wasserschutzgebiete, Heilquellenschutz"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Heilquellenschutz",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 2 Abwasserbeseitigung"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Begriffsbestimmungen für die Abwasserbeseitigung",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 2 Abwasserbeseitigung"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Grundsätze der Abwasserbeseitigung",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 2 Abwasserbeseitigung"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Pflicht zur Abwasserbeseitigung",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 2 Abwasserbeseitigung"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Einleiten von Abwasser in Gewässer",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 2 Abwasserbeseitigung"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Einleiten von Abwasser in öffentliche Abwasseranlagen",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 2 Abwasserbeseitigung"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Einleiten von Abwasser in private Abwasseranlagen",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 2 Abwasserbeseitigung"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Abwasseranlagen",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 2 Abwasserbeseitigung"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Selbstüberwachung bei Abwassereinleitungen und Abwasseranlagen",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 3 Umgang mit wassergefährdenden Stoffen"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Anforderungen an den Umgang mit wassergefährdenden Stoffen",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 3 Umgang mit wassergefährdenden Stoffen"
+      ],
+      "file": "paragraphs/0062a.md",
+      "heading": "Nationales Aktionsprogramm zum Schutz von Gewässern vor Nitrateinträgen aus Anlagen",
+      "number": "§ 62a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 3 Umgang mit wassergefährdenden Stoffen"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Eignungsfeststellung",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 4 Gewässerschutzbeauftragte"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Bestellung von Gewässerschutzbeauftragten",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 4 Gewässerschutzbeauftragte"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Aufgaben von Gewässerschutzbeauftragten",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 4 Gewässerschutzbeauftragte"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Weitere anwendbare Vorschriften",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 5 Gewässerausbau, Deich-, Damm- und Küstenschutzbauten"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Grundsatz, Begriffsbestimmung",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 5 Gewässerausbau, Deich-, Damm- und Küstenschutzbauten"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Planfeststellung, Plangenehmigung",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 5 Gewässerausbau, Deich-, Damm- und Küstenschutzbauten"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Abschnittsweise Zulassung, vorzeitiger Beginn",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 5 Gewässerausbau, Deich-, Damm- und Küstenschutzbauten"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Anwendbare Vorschriften, Verfahren",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 5 Gewässerausbau, Deich-, Damm- und Küstenschutzbauten"
+      ],
+      "file": "paragraphs/0070a.md",
+      "heading": "Planfeststellungsverfahren bei Häfen im transeuropäischen Verkehrsnetz",
+      "number": "§ 70a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 5 Gewässerausbau, Deich-, Damm- und Küstenschutzbauten"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Enteignungsrechtliche Regelungen",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 5 Gewässerausbau, Deich-, Damm- und Küstenschutzbauten"
+      ],
+      "file": "paragraphs/0071a.md",
+      "heading": "Vorzeitige Besitzeinweisung",
+      "number": "§ 71a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "Hochwasser",
+      "number": "§ 72",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0073.md",
+      "heading": "Bewertung von Hochwasserrisiken, Risikogebiete",
+      "number": "§ 73",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0074.md",
+      "heading": "Gefahrenkarten und Risikokarten",
+      "number": "§ 74",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0075.md",
+      "heading": "Risikomanagementpläne",
+      "number": "§ 75",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0076.md",
+      "heading": "Überschwemmungsgebiete an oberirdischen Gewässern",
+      "number": "§ 76",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0077.md",
+      "heading": "Rückhalteflächen, Bevorratung",
+      "number": "§ 77",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0078.md",
+      "heading": "Bauliche Schutzvorschriften für festgesetzte Überschwemmungsgebiete",
+      "number": "§ 78",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0078a.md",
+      "heading": "Sonstige Schutzvorschriften für festgesetzte Überschwemmungsgebiete",
+      "number": "§ 78a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0078b.md",
+      "heading": "Risikogebiete außerhalb von",
+      "number": "§ 78b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0078c.md",
+      "heading": "Heizölverbraucheranlagen in Überschwemmungsgebieten und in weiteren Risikogebieten",
+      "number": "§ 78c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0078d.md",
+      "heading": "Hochwasserentstehungsgebiete",
+      "number": "§ 78d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0079.md",
+      "heading": "Information und aktive Beteiligung",
+      "number": "§ 79",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0080.md",
+      "heading": "Koordinierung",
+      "number": "§ 80",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 6 Hochwasserschutz"
+      ],
+      "file": "paragraphs/0081.md",
+      "heading": "Vermittlung durch die Bundesregierung",
+      "number": "§ 81",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 7 Wasserwirtschaftliche Planung und Dokumentation"
+      ],
+      "file": "paragraphs/0082.md",
+      "heading": "Maßnahmenprogramm",
+      "number": "§ 82",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 7 Wasserwirtschaftliche Planung und Dokumentation"
+      ],
+      "file": "paragraphs/0083.md",
+      "heading": "Bewirtschaftungsplan",
+      "number": "§ 83",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 7 Wasserwirtschaftliche Planung und Dokumentation"
+      ],
+      "file": "paragraphs/0084.md",
+      "heading": "Fristen für Maßnahmenprogramme und Bewirtschaftungspläne",
+      "number": "§ 84",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 7 Wasserwirtschaftliche Planung und Dokumentation"
+      ],
+      "file": "paragraphs/0085.md",
+      "heading": "Aktive Beteiligung interessierter Stellen",
+      "number": "§ 85",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 7 Wasserwirtschaftliche Planung und Dokumentation"
+      ],
+      "file": "paragraphs/0086.md",
+      "heading": "Veränderungssperre zur Sicherung von Planungen",
+      "number": "§ 86",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 7 Wasserwirtschaftliche Planung und Dokumentation"
+      ],
+      "file": "paragraphs/0087.md",
+      "heading": "Wasserbuch",
+      "number": "§ 87",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 7 Wasserwirtschaftliche Planung und Dokumentation"
+      ],
+      "file": "paragraphs/0088.md",
+      "heading": "Informationsbeschaffung und -übermittlung",
+      "number": "§ 88",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 8 Haftung für Gewässerveränderungen"
+      ],
+      "file": "paragraphs/0089.md",
+      "heading": "Haftung für Änderungen der Wasserbeschaffenheit",
+      "number": "§ 89",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 8 Haftung für Gewässerveränderungen"
+      ],
+      "file": "paragraphs/0090.md",
+      "heading": "Sanierung von Gewässerschäden",
+      "number": "§ 90",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 9 Duldungs- und Gestattungsverpflichtungen"
+      ],
+      "file": "paragraphs/0091.md",
+      "heading": "Gewässerkundliche Maßnahmen",
+      "number": "§ 91",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 9 Duldungs- und Gestattungsverpflichtungen"
+      ],
+      "file": "paragraphs/0092.md",
+      "heading": "Veränderung oberirdischer Gewässer",
+      "number": "§ 92",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 9 Duldungs- und Gestattungsverpflichtungen"
+      ],
+      "file": "paragraphs/0093.md",
+      "heading": "Durchleitung von Wasser und Abwasser",
+      "number": "§ 93",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 9 Duldungs- und Gestattungsverpflichtungen"
+      ],
+      "file": "paragraphs/0094.md",
+      "heading": "Mitbenutzung von Anlagen",
+      "number": "§ 94",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen",
+        "Abschnitt 9 Duldungs- und Gestattungsverpflichtungen"
+      ],
+      "file": "paragraphs/0095.md",
+      "heading": "Entschädigung für Duldungs- und Gestattungsverpflichtungen",
+      "number": "§ 95",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 4 Entschädigung, Ausgleich, Vorkaufsrecht"
+      ],
+      "file": "paragraphs/0096.md",
+      "heading": "Art und Umfang von Entschädigungspflichten",
+      "number": "§ 96",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 4 Entschädigung, Ausgleich, Vorkaufsrecht"
+      ],
+      "file": "paragraphs/0097.md",
+      "heading": "Entschädigungspflichtige Person",
+      "number": "§ 97",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 4 Entschädigung, Ausgleich, Vorkaufsrecht"
+      ],
+      "file": "paragraphs/0098.md",
+      "heading": "Entschädigungsverfahren",
+      "number": "§ 98",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 4 Entschädigung, Ausgleich, Vorkaufsrecht"
+      ],
+      "file": "paragraphs/0099.md",
+      "heading": "Ausgleich",
+      "number": "§ 99",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 4 Entschädigung, Ausgleich, Vorkaufsrecht"
+      ],
+      "file": "paragraphs/0099a.md",
+      "heading": "Vorkaufsrecht",
+      "number": "§ 99a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Gewässeraufsicht"
+      ],
+      "file": "paragraphs/0100.md",
+      "heading": "Aufgaben der Gewässeraufsicht",
+      "number": "§ 100",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Gewässeraufsicht"
+      ],
+      "file": "paragraphs/0101.md",
+      "heading": "Befugnisse der Gewässeraufsicht",
+      "number": "§ 101",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Gewässeraufsicht"
+      ],
+      "file": "paragraphs/0102.md",
+      "heading": "Gewässeraufsicht bei Anlagen und Einrichtungen der Verteidigung",
+      "number": "§ 102",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Bußgeld- und Überleitungsbestimmungen"
+      ],
+      "file": "paragraphs/0103.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 103",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Bußgeld- und Überleitungsbestimmungen"
+      ],
+      "file": "paragraphs/0104.md",
+      "heading": "Überleitung bestehender Erlaubnisse und Bewilligungen",
+      "number": "§ 104",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Bußgeld- und Überleitungsbestimmungen"
+      ],
+      "file": "paragraphs/0104a.md",
+      "heading": "Ausnahmen von der Erlaubnispflicht bei bestehenden Anlagen zur untertägigen Ablagerung von Lagerstättenwasser",
+      "number": "§ 104a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Bußgeld- und Überleitungsbestimmungen"
+      ],
+      "file": "paragraphs/0105.md",
+      "heading": "Überleitung bestehender sonstiger Zulassungen",
+      "number": "§ 105",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Bußgeld- und Überleitungsbestimmungen"
+      ],
+      "file": "paragraphs/0106.md",
+      "heading": "Überleitung bestehender Schutzgebietsfestsetzungen",
+      "number": "§ 106",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Bußgeld- und Überleitungsbestimmungen"
+      ],
+      "file": "paragraphs/0107.md",
+      "heading": "Übergangsbestimmung für industrielle Abwasserbehandlungsanlagen und Abwassereinleitungen aus Industrieanlagen",
+      "number": "§ 107",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Bußgeld- und Überleitungsbestimmungen"
+      ],
+      "file": "paragraphs/0108.md",
+      "heading": "Übergangsbestimmung für Verfahren zur Zulassung von Vorhaben zur Erzeugung von Energie aus erneuerbaren Quellen",
+      "number": "§ 108",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Bußgeld- und Überleitungsbestimmungen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 3 Nummer 11)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Bußgeld- und Überleitungsbestimmungen"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 7 Absatz 1 Satz 3)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Bußgeld- und Überleitungsbestimmungen"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(zu § 70a Absatz 1 Satz 1 Nummer 1, Absatz 2 Satz 1 und Absatz 7)",
+      "number": "Anlage 3",
+      "type": "annex"
+    }
+  ]
+}

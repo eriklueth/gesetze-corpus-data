@@ -1,0 +1,30 @@
+{
+  "amtabk": "JAVollzO",
+  "ausfertigung_datum": "1966-08-12",
+  "bjnr": "BJNR005050966",
+  "eli": null,
+  "gii_slug": "javollzo",
+  "ingested_at": "2026-04-17T15:23:13Z",
+  "jurabk": "JAVollzO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d1d68dde8b039afaafac077a87f36a771f6c2b28a0ceedd9f761528b748e6d63"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/javollzo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/javollzo/xml.zip"
+  },
+  "stand_datum": "1976-11-30",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 30.11.1976 I 3270,",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 53 G v. 8.12.2010 I 1864",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Vollzug des Jugendarrestes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BüroMKfAusbV",
+  "ausfertigung_datum": "2025-02-25",
+  "bjnr": "BJNR03E0A0025",
+  "eli": null,
+  "gii_slug": "b_romkfausbv_2025",
+  "ingested_at": "2026-04-17T15:19:26Z",
+  "jurabk": "BüroMKfAusbV 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b346044e7db95bec77c60972f619a3b904cd9ecd26258b252d28133ba28f418c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/b_romkfausbv_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/b_romkfausbv_2025/xml.zip"
+  },
+  "stand_datum": "2013-12-11",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-22-1-90 v. 11.12.2013 I 4125 (BüroMKfAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Kaufmann für Büromanagement und zur Kauffrau für Büromanagement",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

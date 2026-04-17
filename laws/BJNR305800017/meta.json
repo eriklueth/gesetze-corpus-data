@@ -1,0 +1,26 @@
+{
+  "amtabk": "BMVgWidVertrAnO",
+  "ausfertigung_datum": "2017-07-20",
+  "bjnr": "BJNR305800017",
+  "eli": null,
+  "gii_slug": "bmvgwidvertrano_2017",
+  "ingested_at": "2026-04-17T15:18:47Z",
+  "jurabk": "BMVgWidVertrAnO 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7b8e9820a9fa0089d5a003ce2fde1d76c6db0cd2721524fc2e9bf42e1a8d6c5d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmvgwidvertrano_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmvgwidvertrano_2017/xml.zip"
+  },
+  "stand_datum": "2016-02-07",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt AnO 2030-14-212 v. 7.2.2016 I 245 (BMVgWidVertrAnO)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Anordnung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung der Bundesrepublik Deutschland bei Klagen in Angelegenheiten der Besoldung, der Versorgung, des Wehrsolds, der Beihilfe und der Unterhaltssicherung im Geschäftsbereich des Bundesministeriums der Verteidigung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

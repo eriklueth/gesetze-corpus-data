@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-06-20",
+  "bjnr": "BJNR207410002",
+  "eli": null,
+  "gii_slug": "zrbg",
+  "ingested_at": "2026-04-17T15:31:27Z",
+  "jurabk": "ZRBG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a951fd1ed20828789a39668fd395a9d1a4ba9965b5c9edc02e51ad9222fae57a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zrbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zrbg/xml.zip"
+  },
+  "stand_datum": "2014-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 G v. 15.7.2014 I 952",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Zahlbarmachung von Renten aus Beschäftigungen in einem Ghetto",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

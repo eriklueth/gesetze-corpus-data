@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1919-08-11",
+  "bjnr": "BJNR013830919",
+  "eli": null,
+  "gii_slug": "wrv",
+  "ingested_at": "2026-04-17T15:30:46Z",
+  "jurabk": "WRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c06097e1102b5bed4c036c25fd8ad87d90650a210bde84192fb5ba56cabf8e48"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Die Verfassung des Deutschen Reichs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

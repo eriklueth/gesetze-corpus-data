@@ -1,0 +1,26 @@
+{
+  "amtabk": "VergMstrV",
+  "ausfertigung_datum": "1990-02-12",
+  "bjnr": "BJNR002830990",
+  "eli": null,
+  "gii_slug": "vergmstrv",
+  "ingested_at": "2026-04-17T15:30:03Z",
+  "jurabk": "VergMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f543aa85a6e66e0f703df31426c7f517d5bc2672d42965ed2a701d3d89834b50"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vergmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vergmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 9 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Vergolder-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

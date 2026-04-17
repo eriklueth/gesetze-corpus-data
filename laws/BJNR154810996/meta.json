@@ -1,0 +1,30 @@
+{
+  "amtabk": "EBRG",
+  "ausfertigung_datum": "1996-10-28",
+  "bjnr": "BJNR154810996",
+  "eli": null,
+  "gii_slug": "ebrg",
+  "ingested_at": "2026-04-17T15:20:36Z",
+  "jurabk": "EBRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "987a61704e4b30b5eea93e54363c1423c222d9dfa9b1b46f673006e91baf42f5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ebrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ebrg/xml.zip"
+  },
+  "stand_datum": "2011-12-07",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 7.12.2011 I 2650",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6f G v. 16.9.2022 I 1454",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Europäische Betriebsräte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

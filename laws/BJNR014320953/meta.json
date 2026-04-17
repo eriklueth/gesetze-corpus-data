@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1953-09-17",
+  "bjnr": "BJNR014320953",
+  "eli": null,
+  "gii_slug": "hwwahlo",
+  "ingested_at": "2026-04-17T15:22:49Z",
+  "jurabk": "HwWahlO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "44fa7e9eaa7c64131cb828dabf55c4b19d479785637554a9af1bb36b90ee5259"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hwwahlo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hwwahlo/xml.zip"
+  },
+  "stand_datum": "1998-09-24",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 24.9.1998 I 3074;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 35b G v. 24.12.2003 I 2954",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Wahlordnung für die Wahlen der Mitglieder der Vollversammlung der Handwerkskammern (Anlage C zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung))",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

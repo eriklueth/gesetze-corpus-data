@@ -1,0 +1,21 @@
+{
+  "amtabk": "PKHB 2017",
+  "ausfertigung_datum": "2016-12-12",
+  "bjnr": "BJNR286900016",
+  "eli": null,
+  "gii_slug": "pkhb_2017",
+  "ingested_at": "2026-04-17T15:26:52Z",
+  "jurabk": "PKHB 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fae2016d24922377a137564a29262fcf68f6d97a523d38265e95ff7641f06949"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pkhb_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pkhb_2017/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 115 der Zivilprozessordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

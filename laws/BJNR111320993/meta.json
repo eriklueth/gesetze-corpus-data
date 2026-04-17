@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-07-21",
+  "bjnr": "BJNR111320993",
+  "eli": null,
+  "gii_slug": "klwalabkg",
+  "ingested_at": "2026-04-17T15:23:40Z",
+  "jurabk": "KlWalAbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1a2e9b8b50b9a2b5e4ee77b37cc33f26a32278962852dbc6a815291402c2e548"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/klwalabkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/klwalabkg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 288 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Abkommen vom 31. März 1992 zur Erhaltung der Kleinwale in der Nord- und Ostsee",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

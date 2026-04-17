@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1967-12-15",
+  "bjnr": "BJNR225810967",
+  "eli": null,
+  "gii_slug": "sozsichabkgbrdvbgv",
+  "ingested_at": "2026-04-17T15:28:34Z",
+  "jurabk": "SozSichAbkGBRDVbgV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "983161406e3f7a7f75257a3b662c81ce8a097253a021606f094219be5d66dd81"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkgbrdvbgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkgbrdvbgv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Durchführung der Vereinbarung vom 10. Dezember 1964 zur Durchführung des Abkommens vom 20. April 1960 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

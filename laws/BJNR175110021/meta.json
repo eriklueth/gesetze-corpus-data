@@ -1,0 +1,30 @@
+{
+  "amtabk": "AHStatG",
+  "ausfertigung_datum": "2021-06-14",
+  "bjnr": "BJNR175110021",
+  "eli": null,
+  "gii_slug": "ahstatg",
+  "ingested_at": "2026-04-17T15:16:54Z",
+  "jurabk": "AHStatG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c196b16666680c8e6989479a816002c9fa4a5ec2553a6a4915cde522c88ed2e3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ahstatg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ahstatg/xml.zip"
+  },
+  "stand_datum": "2025-02-27",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 G v. 27.2.2025 I Nr. 71",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Ersetzt G 7402-1 v. 1.5.1957 I 413 (AHStatGes)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über die Statistik des Warenverkehrs mit dem Ausland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

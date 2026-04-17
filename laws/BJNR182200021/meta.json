@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2021-06-17",
+  "bjnr": "BJNR182200021",
+  "eli": null,
+  "gii_slug": "zsdigrent_gremv",
+  "ingested_at": "2026-04-17T15:31:27Z",
+  "jurabk": "ZSDigRentÜGremV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "928dbadbd7b24f5e2e61623c0b4e5d7c100b958dc318f61e127db51cbae0931b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zsdigrent_gremv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zsdigrent_gremv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über das Steuerungsgremium bei der Zentralen Stelle für die Digitale Rentenübersicht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

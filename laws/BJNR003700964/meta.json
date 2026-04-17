@@ -1,0 +1,30 @@
+{
+  "amtabk": "LuftVZO",
+  "ausfertigung_datum": "1964-06-19",
+  "bjnr": "BJNR003700964",
+  "eli": null,
+  "gii_slug": "luftvzo",
+  "ingested_at": "2026-04-17T15:24:36Z",
+  "jurabk": "LuftVZO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "59a274d86c7ccbebaa8a97ff0f4891c864b21bf2ce75c11f39d98392ee603d6d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvzo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvzo/xml.zip"
+  },
+  "stand_datum": "2008-07-10",
+  "standangabe": [
+    {
+      "kommentar": "Neufassung durch Bek. v. 10.7.2008 I 1229;",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 28 V v. 11.12.2024 I Nr. 411",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Luftverkehrs-Zulassungs-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

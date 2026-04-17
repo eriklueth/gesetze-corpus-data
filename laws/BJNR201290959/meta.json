@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-02-26",
+  "bjnr": "BJNR201290959",
+  "eli": null,
+  "gii_slug": "luftfzgabkg",
+  "ingested_at": "2026-04-17T15:24:12Z",
+  "jurabk": "LuftFzgAbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "943f9da7e7c79469568c15442723717ddea2fec592ccaec49cae9839b9a99b2e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftfzgabkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftfzgabkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über den Beitritt der Bundesrepublik Deutschland zu dem Abkommen vom 19. Juni 1948 über die internationale Anerkennung von Rechten an Luftfahrzeugen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

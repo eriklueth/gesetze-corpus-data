@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-11-30",
+  "bjnr": "BJNR198200993",
+  "eli": null,
+  "gii_slug": "arznrav_1993-11",
+  "ingested_at": "2026-04-17T15:17:07Z",
+  "jurabk": "ArznRAV 1993-11",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3df697544884f92cc9d9771a1f50d3eca9bbd4d8aa939bb030e3511f83743d85"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/arznrav_1993-11/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/arznrav_1993-11/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Aussetzung der Rechnungsabschläge bei Arzneimitteln nach § 311a des Fünften Buches Sozialgesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

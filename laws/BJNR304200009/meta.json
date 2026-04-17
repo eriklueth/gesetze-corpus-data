@@ -1,0 +1,26 @@
+{
+  "amtabk": "KrimLV",
+  "ausfertigung_datum": "2009-09-18",
+  "bjnr": "BJNR304200009",
+  "eli": null,
+  "gii_slug": "krimlv_2009",
+  "ingested_at": "2026-04-17T15:23:54Z",
+  "jurabk": "KrimLV 2009",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "88a629b876cd332f27091dbff51efe65dac0220d2fe299d5643ed29e04f24842"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/krimlv_2009/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/krimlv_2009/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 4 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Laufbahnen im kriminalpolizeilichen Vollzugsdienst des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

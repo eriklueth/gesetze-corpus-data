@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-03-11",
+  "bjnr": "BJNR030210015",
+  "eli": null,
+  "gii_slug": "atdteilnv",
+  "ingested_at": "2026-04-17T15:17:10Z",
+  "jurabk": "ATDTeilnV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c2ee9ace5b38da1e93dc691f8b6c4f66768e675854d4745bfe34eafac3c03902"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/atdteilnv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/atdteilnv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Benennung weiterer zur Teilnahme an der Antiterrordatei berechtigter Polizeivollzugsbehörden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

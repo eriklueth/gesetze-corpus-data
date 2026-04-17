@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2010-11-18",
+  "bjnr": "BJNR135920010",
+  "eli": null,
+  "gii_slug": "dbaabksyrg",
+  "ingested_at": "2026-04-17T15:19:46Z",
+  "jurabk": "DBAAbkSYRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fc0b38e528ccaae42e0e7517c4c52f0ec6e8422c50a8251a708dfa04fac51b72"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbaabksyrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbaabksyrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 17. Februar 2010 zwischen der Bundesrepublik Deutschland und der Arabischen Republik Syrien zur Vermeidung der Doppelbesteuerung und Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

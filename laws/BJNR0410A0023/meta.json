@@ -1,0 +1,21 @@
+{
+  "amtabk": "NvWV",
+  "ausfertigung_datum": "2023-03-09",
+  "bjnr": "BJNR0410A0023",
+  "eli": null,
+  "gii_slug": "nvwv",
+  "ingested_at": "2026-04-17T15:26:09Z",
+  "jurabk": "NvWV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b692c1a47b502f82b24f50c451ac15c013e80d2b39c67b7672b11564efaaa193"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nvwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nvwv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über ergänzende Bestimmungen zur Nutzung nicht verfügbarer Werke nach dem Urheberrechtsgesetz und dem Verwertungsgesellschaftengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

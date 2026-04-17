@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-11-24",
+  "bjnr": "BJNR228600999",
+  "eli": null,
+  "gii_slug": "marktowmeldv",
+  "ingested_at": "2026-04-17T15:24:44Z",
+  "jurabk": "MarktOWMeldV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "74a91e362f7539d74f8ebcea1b1009b89af534594b6679dc9c2af218ee99c2a2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/marktowmeldv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/marktowmeldv/xml.zip"
+  },
+  "stand_datum": "2025-11-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 24.11.2025 I Nr. 280",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Meldepflichten über Marktordnungswaren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

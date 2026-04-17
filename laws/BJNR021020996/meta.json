@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-02-09",
+  "bjnr": "BJNR021020996",
+  "eli": null,
+  "gii_slug": "intzluftabkprotg",
+  "ingested_at": "2026-04-17T15:23:07Z",
+  "jurabk": "IntZLuftAbkProtG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5ea7661d4ac2b81e5f1ac69dc5d40740e706eb53d048598aa248c2ee61fd17c3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intzluftabkprotg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intzluftabkprotg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Protokoll vom 10. Mai 1984 zur Änderung des Abkommens vom 7. Dezember 1944 über die Internationale Zivilluftfahrt (9. Änderung des Abkommens über die Internationale Zivilluftfahrt)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

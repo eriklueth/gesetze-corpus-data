@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1985-06-10",
+  "bjnr": "BJNR204550986",
+  "eli": null,
+  "gii_slug": "dbaprot_chn",
+  "ingested_at": "2026-04-17T15:19:50Z",
+  "jurabk": "DBAProt CHN",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b6343bc6bce666d7b0f599a65b4a6c3ad01d410ccd84176f889d50a57cfa5d21"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbaprot_chn/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbaprot_chn/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Volksrepublik China zur Vermeidung der Doppelbesteuerung auf den Gebiet der Steuern vom Einkommen und vom Vermögen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

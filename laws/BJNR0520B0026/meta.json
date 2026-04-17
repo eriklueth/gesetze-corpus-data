@@ -1,0 +1,21 @@
+{
+  "amtabk": "KPAnG",
+  "ausfertigung_datum": "2026-03-27",
+  "bjnr": "BJNR0520B0026",
+  "eli": null,
+  "gii_slug": "kpang",
+  "ingested_at": "2026-04-17T15:23:48Z",
+  "jurabk": "KPAnG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "10667793409f88b9cfb5fd5c019b77c7d2485986feba0f4c22dae4072c30a45a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kpang/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kpang/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Anpassung von Kraftstoffpreisen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

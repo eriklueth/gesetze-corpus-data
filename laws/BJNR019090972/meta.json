@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-10-04",
+  "bjnr": "BJNR019090972",
+  "eli": null,
+  "gii_slug": "drucklv",
+  "ingested_at": "2026-04-17T15:20:04Z",
+  "jurabk": "DruckLV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cc8210816eb6f9a9a04e81c7d2d7682f6f8b2c36ca3e0cbadc76d267f81d2275"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/drucklv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/drucklv/xml.zip"
+  },
+  "stand_datum": "2017-03-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 103 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Arbeiten in Druckluft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "5. BinSchStrOAbweichV",
+  "ausfertigung_datum": "2024-03-15",
+  "bjnr": "BJNR0620A0024",
+  "eli": null,
+  "gii_slug": "binschstro2012abwv_5",
+  "ingested_at": "2026-04-17T15:16:39Z",
+  "jurabk": "BinSchStrO2012AbwV 5",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "32b426840d016eaf30db05e5f9bf22bd4c7b295b7b4be40783193a9240019e50"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschstro2012abwv_5/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschstro2012abwv_5/xml.zip"
+  },
+  "stand_datum": "2024-09-11",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 4 Abs. 2 dieser V iVm Bek. v. 11.9.2024 I Nr. 282 mit Ablauf d. 31.8.2027 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Fünfte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

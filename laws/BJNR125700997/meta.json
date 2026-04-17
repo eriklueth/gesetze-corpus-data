@@ -1,0 +1,26 @@
+{
+  "amtabk": "SeilMstrV",
+  "ausfertigung_datum": "1997-05-28",
+  "bjnr": "BJNR125700997",
+  "eli": null,
+  "gii_slug": "seilmstrv",
+  "ingested_at": "2026-04-17T15:28:05Z",
+  "jurabk": "SeilMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "18b56641d0bbb22bc80901d92f7524d74c74657255be2476b17408d4bbe9a75c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seilmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seilmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 24 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Seiler-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

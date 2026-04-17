@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1952-07-28",
+  "bjnr": "BJNR206370952",
+  "eli": null,
+  "gii_slug": "imf_ibrdbeitrabkg",
+  "ingested_at": "2026-04-17T15:22:56Z",
+  "jurabk": "IMF/IBRDBeitrAbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bb8e00161f5e71dc998326a71871d4549d7bc9006932177e548630dc39809c0b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/imf_ibrdbeitrabkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/imf_ibrdbeitrabkg/xml.zip"
+  },
+  "stand_datum": "1978-01-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 Abs. 1 G v. 9.1.1978 II 13",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Beitritt der Bundesrepublik Deutschland zu den Abkommen über den Internationalen Währungsfonds (International Monetary Fund) und über die Internationale Bank für Wiederaufbau und Entwicklung (International Bank for Reconstruction and Development)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

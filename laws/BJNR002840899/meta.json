@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1899-05-16",
+  "bjnr": "BJNR002840899",
+  "eli": null,
+  "gii_slug": "wzmexbek",
+  "ingested_at": "2026-04-17T15:31:13Z",
+  "jurabk": "WZMEXBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d90a2023ed72abddfa759dd3d934200d1efbfbf00f6ab92216e73cd1b9e243f9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzmexbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzmexbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Mexiko",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

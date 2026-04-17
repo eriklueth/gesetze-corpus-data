@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1955-05-25",
+  "bjnr": "BJNR207490956",
+  "eli": null,
+  "gii_slug": "ifcabk",
+  "ingested_at": "2026-04-17T15:22:53Z",
+  "jurabk": "IFCAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "639f57ca5455ceef0015c56986103b69a84dbc80aa49744c17a640c14c6c4beb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ifcabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ifcabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen über die Internationale Finanz-Corporation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

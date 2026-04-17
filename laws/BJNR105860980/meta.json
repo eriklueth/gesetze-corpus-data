@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-05-19",
+  "bjnr": "BJNR105860980",
+  "eli": null,
+  "gii_slug": "wzg_4esaripobek",
+  "ingested_at": "2026-04-17T15:31:09Z",
+  "jurabk": "WZG§4ESARIPOBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2c05c34d4f2c820e103e0bfb788fa7232cd0032b2be36ea14cc52fce970d2d02"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4esaripobek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4esaripobek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

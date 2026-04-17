@@ -1,0 +1,21 @@
+{
+  "amtabk": "PKHB 2015",
+  "ausfertigung_datum": "2014-12-09",
+  "bjnr": "BJNR200700014",
+  "eli": null,
+  "gii_slug": "pkhb_2015",
+  "ingested_at": "2026-04-17T15:26:52Z",
+  "jurabk": "PKHB 2015",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "61f7bd0be60e87cf419efe279bfaeeb21edaab8eec6b8271d469dd2912a6231b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pkhb_2015/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pkhb_2015/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 115 der Zivilprozessordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

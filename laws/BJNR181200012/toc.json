@@ -1,0 +1,55 @@
+{
+  "bjnr": "BJNR181200012",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zu § 2 des Gesetzes"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Ergänzende Begriffsbestimmungen zum Gesetz",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zu § 2 des Gesetzes",
+        "Abschnitt 2 Zu § 8 des Gesetzes"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Erteilung der Erlaubnis als steuerlicher Beauftragter",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zu § 2 des Gesetzes",
+        "Abschnitt 3 Zu § 9 des Gesetzes"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Anzeichen für eine Gefährdung der Steuer",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zu § 2 des Gesetzes",
+        "Abschnitt 5 Zu § 156 Absatz 1 der Abgabenordnung"
+      ],
+      "file": "paragraphs/0006a.md",
+      "heading": "Kleinbetragsregelung",
+      "number": "§ 6a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zu § 2 des Gesetzes",
+        "Abschnitt 6 Inkrafttreten"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 7",
+      "type": "paragraph"
+    }
+  ]
+}

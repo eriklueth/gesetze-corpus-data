@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-06-01",
+  "bjnr": "BJNR016160976",
+  "eli": null,
+  "gii_slug": "waffghzaowiv",
+  "ingested_at": "2026-04-17T15:30:20Z",
+  "jurabk": "WaffGHZAOWiV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d37e313f790406bb0c0d08c870020f8749d38ee76eefcbe2c21ed30f65a1747e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/waffghzaowiv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/waffghzaowiv/xml.zip"
+  },
+  "stand_datum": "2002-10-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 11.10.2002 I 3970; 2003, 1957",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Zuständigkeit der Hauptzollämter zur Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten nach dem Waffengesetz und dem Sprengstoffgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

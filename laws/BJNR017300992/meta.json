@@ -1,0 +1,30 @@
+{
+  "amtabk": "21. BImSchV",
+  "ausfertigung_datum": "1992-10-07",
+  "bjnr": "BJNR017300992",
+  "eli": null,
+  "gii_slug": "bimschv_21",
+  "ingested_at": "2026-04-17T15:16:33Z",
+  "jurabk": "BImSchV 21",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f311f8507a7ec208ad24f4450038fb2e87076792b6e67f879bea92e2a80e62ae"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_21/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_21/xml.zip"
+  },
+  "stand_datum": "2014-08-18",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 18.8.2014 I 1453;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert Art. 12 G v. 27.7.2021 I 3146",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Einundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

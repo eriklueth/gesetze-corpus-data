@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-10-05",
+  "bjnr": "BJNR208760965",
+  "eli": null,
+  "gii_slug": "urkbefr_bk_haag",
+  "ingested_at": "2026-04-17T15:29:55Z",
+  "jurabk": "UrkBefrÜbk Haag",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1844466d36365428ba70e9dedf572d652263493ff47b4011e8d84f768fecf87c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/urkbefr_bk_haag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/urkbefr_bk_haag/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

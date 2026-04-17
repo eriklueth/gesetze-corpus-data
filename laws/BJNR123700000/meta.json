@@ -1,0 +1,21 @@
+{
+  "amtabk": "PsychThV",
+  "ausfertigung_datum": "2000-07-27",
+  "bjnr": "BJNR123700000",
+  "eli": null,
+  "gii_slug": "psychthv",
+  "ingested_at": "2026-04-17T15:27:04Z",
+  "jurabk": "PsychThV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ca49398776d8b460441b23c593ee2736445e4dff5002d105d060e1dbd7a6a9ad"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/psychthv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/psychthv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für Psychotherapie und Kinder- und Jugendlichenpsychotherapie",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

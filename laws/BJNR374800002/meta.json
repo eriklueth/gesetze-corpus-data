@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-09-22",
+  "bjnr": "BJNR374800002",
+  "eli": null,
+  "gii_slug": "ordenerl_8",
+  "ingested_at": "2026-04-17T15:26:19Z",
+  "jurabk": "OrdenErl 8",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3e529733f744e4f8249a93744105feec20d84a80bac8746bc3475f5595e6b3d4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ordenerl_8/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ordenerl_8/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Achter Erlass über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

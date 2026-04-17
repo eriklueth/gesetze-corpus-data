@@ -1,0 +1,26 @@
+{
+  "amtabk": "ABBV",
+  "ausfertigung_datum": "2010-07-01",
+  "bjnr": "BJNR085600010",
+  "eli": null,
+  "gii_slug": "abbv",
+  "ingested_at": "2026-04-17T15:16:43Z",
+  "jurabk": "ABBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "782a6804cb584f6527d868975e757c47c7e9ca86dca3508c86187669f429203d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/abbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/abbv/xml.zip"
+  },
+  "stand_datum": "2021-05-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 V v. 18.5.2021 I 1181",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Berechnung von Ablösungsbeträgen nach dem Eisenbahnkreuzungsgesetz, dem Bundesfernstraßengesetz und dem Bundeswasserstraßengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

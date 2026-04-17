@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-07-11",
+  "bjnr": "BJNR136300011",
+  "eli": null,
+  "gii_slug": "glprzbknv",
+  "ingested_at": "2026-04-17T15:22:17Z",
+  "jurabk": "GlPrZBKnV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d65045484314af4861d50a93fbd5e14d1f04c53c1e780616817dee869661d539"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/glprzbknv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/glprzbknv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Gleichstellung der bei der Bundesknappschaft erworbenen Prüfungszeugnisse über das Bestehen der Prüfung nach dem Tarifvertrag über die Fortbildung von Angestellten mit Zeugnissen zur Sozialversicherungsfachwirtin oder zum Sozialversicherungsfachwirt – Fachrichtung knappschaftliche Sozialversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

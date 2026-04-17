@@ -1,0 +1,21 @@
+{
+  "amtabk": "BAfög-FachlehrerV",
+  "ausfertigung_datum": "1983-10-20",
+  "bjnr": "BJNR013100983",
+  "eli": null,
+  "gii_slug": "baf_gfachlehrerv",
+  "ingested_at": "2026-04-17T15:17:34Z",
+  "jurabk": "BAföGFachlehrerV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "de25cf12219072471fbe1a6f318c0eea4f499e355fdf59a734c24985503495b7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baf_gfachlehrerv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baf_gfachlehrerv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Ausbildungsförderung für den Besuch von Instituten zur Ausbildung von Fachlehrern und Sportlehrern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,34 @@
+{
+  "amtabk": "UmwStG",
+  "ausfertigung_datum": "1994-10-28",
+  "bjnr": "BJNR326710994",
+  "eli": null,
+  "gii_slug": "umwstg_1995",
+  "ingested_at": "2026-04-17T15:29:50Z",
+  "jurabk": "UmwStG 1995",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "eb71f73255543ea534769132dab01050f9dcd3f0c8e95ab9803cb89f3f3b81c0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/umwstg_1995/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/umwstg_1995/xml.zip"
+  },
+  "stand_datum": "2002-10-15",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 15.10.2002 I 4133; 2003 I 738;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "geändert durch Art. 3 G v. 16.5.2003 I 660",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Zur letztmaligen Anwendung dieses G vgl. § 27 Abs. 2 G 610-6-16 v. 7.12.2006 I 2782, 2791 (UmwStG 2006)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Umwandlungssteuergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

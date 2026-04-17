@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-07-25",
+  "bjnr": "BJNR208250986",
+  "eli": null,
+  "gii_slug": "uhentsch_uhpfl_bkhaagg",
+  "ingested_at": "2026-04-17T15:29:43Z",
+  "jurabk": "UhEntsch/UhPflÜbkHaagG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "01fbf8b58077bfb9a6f2340cdf2fd13d455a67505d89410ce8d24ca6e9f57263"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uhentsch_uhpfl_bkhaagg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uhentsch_uhpfl_bkhaagg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu den Haager übereinkommen vom 2. Oktober 1973 über die Anerkennung und Vollstreckung von Unterhaltsentscheidungen sowie über das auf Unterhaltspflichten anzuwendende Recht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

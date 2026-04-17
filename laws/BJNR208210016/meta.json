@@ -1,0 +1,26 @@
+{
+  "amtabk": "ERegG",
+  "ausfertigung_datum": "2016-08-29",
+  "bjnr": "BJNR208210016",
+  "eli": null,
+  "gii_slug": "eregg",
+  "ingested_at": "2026-04-17T15:20:44Z",
+  "jurabk": "ERegG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "17153c29f0ea77e4db15e5e01a6c4f943b1ad45bae426d4916394cb38fc0a02b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eregg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eregg/xml.zip"
+  },
+  "stand_datum": "2025-11-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 25.11.2025 I Nr. 285",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Eisenbahnregulierungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

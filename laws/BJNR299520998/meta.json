@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-12-19",
+  "bjnr": "BJNR299520998",
+  "eli": null,
+  "gii_slug": "ezbabkg",
+  "ingested_at": "2026-04-17T15:21:12Z",
+  "jurabk": "EZBAbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bc8737ebaecae8da479165d65834d6fcd39a1d17835c7363c64a9617270463e6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ezbabkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ezbabkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 18. September 1998 zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Zentralbank über den Sitz der Europäischen Zentralbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

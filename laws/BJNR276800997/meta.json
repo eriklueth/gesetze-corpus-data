@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-11-27",
+  "bjnr": "BJNR276800997",
+  "eli": null,
+  "gii_slug": "butt_k_seuaprv",
+  "ingested_at": "2026-04-17T15:19:29Z",
+  "jurabk": "Butt/KäseuaPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b8e83168a541682b49c82b8637ad76cda66ca00d3cefe03b38e3d45b895e5112"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/butt_k_seuaprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/butt_k_seuaprv/xml.zip"
+  },
+  "stand_datum": "2011-06-03",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 3.6.2011 I 1020;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 5 V v. 24.11.2025 I Nr. 280",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Preisnotierung, Preisermittlung und Preiserhebung für Milcherzeugnisse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

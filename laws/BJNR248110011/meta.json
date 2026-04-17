@@ -1,0 +1,26 @@
+{
+  "amtabk": "VermAnlG",
+  "ausfertigung_datum": "2011-12-06",
+  "bjnr": "BJNR248110011",
+  "eli": null,
+  "gii_slug": "vermanlg",
+  "ingested_at": "2026-04-17T15:30:05Z",
+  "jurabk": "VermAnlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aa497eb53ba0798b1cca23780b15593260312323fe3aa8fde52f98a106b5ab4b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vermanlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vermanlg/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 22 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Vermögensanlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

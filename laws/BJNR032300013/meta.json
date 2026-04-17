@@ -1,0 +1,26 @@
+{
+  "amtabk": "PIDV",
+  "ausfertigung_datum": "2013-02-21",
+  "bjnr": "BJNR032300013",
+  "eli": null,
+  "gii_slug": "pidv",
+  "ingested_at": "2026-04-17T15:26:49Z",
+  "jurabk": "PIDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f7ee2bc31f7a634555399926c0249539a94e087037e6242649424ec2a40fe3af"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pidv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pidv/xml.zip"
+  },
+  "stand_datum": "2018-07-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 V v. 2.7.2018 I 1078",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Regelung der Präimplantationsdiagnostik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

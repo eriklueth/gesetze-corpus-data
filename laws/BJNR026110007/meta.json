@@ -1,0 +1,26 @@
+{
+  "amtabk": "LärmVibrationsArbSchV",
+  "ausfertigung_datum": "2007-03-06",
+  "bjnr": "BJNR026110007",
+  "eli": null,
+  "gii_slug": "l_rmvibrationsarbschv",
+  "ingested_at": "2026-04-17T15:24:02Z",
+  "jurabk": "LärmVibrationsArbSchV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a466adbfc4e3044850b613ea422ff1e338b2f3d3de2c81ab98da0bc0e1fe70e6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/l_rmvibrationsarbschv/xml.zip"
+  },
+  "stand_datum": "2021-07-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 21.7.2021 I 3115",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

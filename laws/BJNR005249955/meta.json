@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1955-08-17",
+  "bjnr": "BJNR005249955",
+  "eli": null,
+  "gii_slug": "kkverbdg",
+  "ingested_at": "2026-04-17T15:23:40Z",
+  "jurabk": "KKVerbdG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aad61aa5247b0b0d1cd3033b8a824026021fe497d0a21b0d29054b77758af4db"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kkverbdg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kkverbdg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 437 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Verbände der gesetzlichen Krankenkassen und der Ersatzkassen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

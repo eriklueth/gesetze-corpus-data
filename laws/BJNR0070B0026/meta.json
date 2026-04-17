@@ -1,0 +1,26 @@
+{
+  "amtabk": "MADG",
+  "ausfertigung_datum": "2026-01-09",
+  "bjnr": "BJNR0070B0026",
+  "eli": null,
+  "gii_slug": "madg_2026",
+  "ingested_at": "2026-04-17T15:24:40Z",
+  "jurabk": "MADG 2026",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "77a6bc74b6beb03e9ec807ad685e2271efe07452d7fe28a09e9b22666a510718"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/madg_2026/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/madg_2026/xml.zip"
+  },
+  "stand_datum": "1990-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt G 12-5 v. 20.12.1990 I 2954, 2977 (MADG)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über den Militärischen Abschirmdienst",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

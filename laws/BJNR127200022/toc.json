@@ -1,0 +1,772 @@
+{
+  "bjnr": "BJNR127200022",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Zweck des Gesetzes",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Sorgfaltsmaßstab",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Ermittlung der Finanzierungsbedarfe"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Ermittlung und Mitteilung der Finanzierungsbedarfe",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 2 Ermittlung der Finanzierungsbedarfe"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Beweislast",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Ausgleich durch Zahlungen des Bundes"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Ausgleichsanspruch",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Ausgleich durch Zahlungen des Bundes"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Abschlagszahlungen",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Ausgleich durch Zahlungen des Bundes"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Ausgleich der Anschlussförderung der Güllekleinanlagen",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 3 Ausgleich durch Zahlungen des Bundes"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Öffentlich-rechtliche Verträge",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Ermittlung von Umlagen",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Veröffentlichung von Umlagen",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Erhebung von Umlagen",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Ausgleich von Finanzierungsbedarfen zwischen Verteilernetzbetreibern und Übertragungsnetzbetreibern",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Ausgleich zwischen Übertragungsnetzbetreibern und Verteilernetzbetreibern",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Ausgleich zwischen Übertragungsnetzbetreibern",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Abschlagszahlungen",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Forderungseinwände und Aufrechnung",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Rückforderung, Verzugszinsen",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Jahresendabrechnung",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 1 Ermittlung und Erhebung von Umlagen, Ausgleichsmechanismus"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Nachträgliche Korrekturen",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 2 Erhebung von Umlagen in Sonderfällen"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Umlageerhebung bei Stromspeichern und Verlustenergie",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 2 Erhebung von Umlagen in Sonderfällen"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Umlageerhebung bei elektrisch angetriebenen Wärmepumpen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 2 Erhebung von Umlagen in Sonderfällen"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Umlageerhebung bei Anlagen zur Verstromung von Kuppelgasen",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 2 Erhebung von Umlagen in Sonderfällen"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 3 Herstellung von Grünem Wasserstoff"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Umlagebefreiung bei der Herstellung von Grünem Wasserstoff",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 3 Herstellung von Grünem Wasserstoff"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Anforderungen an Grünen Wasserstoff",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 3 Herstellung von Grünem Wasserstoff"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "(weggefallen)",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Zweck des Abschnitts",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Antrag",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 2 Stromkostenintensive Unternehmen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Voraussetzungen der Begrenzung",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 2 Stromkostenintensive Unternehmen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Umfang der Begrenzung",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 2 Stromkostenintensive Unternehmen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Nachweisführung",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 2 Stromkostenintensive Unternehmen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Nachweisführung auf Basis eines gewillkürten Rumpfgeschäftsjahres",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 2 Stromkostenintensive Unternehmen"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Selbständige Teile eines Unternehmens",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 2 Stromkostenintensive Unternehmen"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Begriffsbestimmungen des Unterabschnitts, Branchenzuordnung",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 3 Herstellung von Wasserstoff"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Herstellung von Wasserstoff in stromkostenintensiven Unternehmen",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 4 Verkehr"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Schienenbahnen",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 4 Verkehr"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Verkehrsunternehmen mit elektrisch betriebenen Bussen im Linienverkehr",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 4 Verkehr"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Landstromanlagen",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 5 Verfahren"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Antragstellung und Entscheidungswirkung",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 5 Verfahren"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Übertragung von Begrenzungsbescheiden",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 5 Verfahren"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Rücknahme der Entscheidung",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 5 Verfahren"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Auskunfts- und Betretungsrecht, Datenabgleich",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 4 Besondere Ausgleichsregelung",
+        "Unterabschnitt 5 Verfahren"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Evaluierung, Weitergabe von Daten",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 5 Abgrenzung, Messung und Schätzung von Strommengen"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Geringfügige Stromverbräuche Dritter",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 4 Ausgleich durch Erhebung von Umlagen und weiterer Ausgleichsmechanismus",
+        "Abschnitt 5 Abgrenzung, Messung und Schätzung von Strommengen"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Messung und Schätzung",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 1 Kontoführung und gesonderte Buchführung"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Kontoführung und gesonderte Buchführung der Übertragungsnetzbetreiber",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 1 Kontoführung und gesonderte Buchführung"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Kontoführung und gesonderte Buchführung der Verteilernetzbetreiber",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Grundsatz",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Verteilernetzbetreiber",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Übertragungsnetzbetreiber",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Netznutzer",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Verstoß gegen Mitteilungspflichten",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Elektronische Übermittlung",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Testierung",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Beihilfetransparenzpflichten",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Behörden der Zollverwaltung",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Information der Bundesnetzagentur",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Vorausschau des EEG-Finanzierungsbedarfs",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 5 Kontoführungs-, Mitteilungs- und Veröffentlichungspflichten",
+        "Abschnitt 2 Mitteilungs- und Veröffentlichungspflichten"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Schätzungsbefugnis",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 6 Rechtsschutz und behördliches Verfahren"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Aufsicht durch die Bundesnetzagentur",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 6 Rechtsschutz und behördliches Verfahren"
+      ],
+      "file": "paragraphs/0062a.md",
+      "heading": "Benachrichtigung und Beteiligung der Bundesnetzagentur bei bürgerlichen Rechtsstreitigkeiten",
+      "number": "§ 62a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 6 Rechtsschutz und behördliches Verfahren"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Verordnungsermächtigungen, Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Verordnungsermächtigung zur Ermittlung des Finanzierungsbedarfs",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Verordnungsermächtigungen, Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Verordnungsermächtigung zur Besonderen Ausgleichsregelung",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Verordnungsermächtigungen, Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Allgemeine Übergangsbestimmungen",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Verordnungsermächtigungen, Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Übergangs- und Härtefallbestimmungen zur Besonderen Ausgleichsregelung",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Verordnungsermächtigungen, Schlussbestimmungen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 2)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Bestimmungen",
+        "Teil 7 Verordnungsermächtigungen, Schlussbestimmungen"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 31)",
+      "number": "Anlage 2",
+      "type": "annex"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "NotSanG",
+  "ausfertigung_datum": "2013-05-22",
+  "bjnr": "BJNR134810013",
+  "eli": null,
+  "gii_slug": "notsang",
+  "ingested_at": "2026-04-17T15:26:02Z",
+  "jurabk": "NotSanG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "be8b9d70143c45f32da5a5bd530bff23b817a091a11b9cf86d3a4db3a821b722"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/notsang/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/notsang/xml.zip"
+  },
+  "stand_datum": "2023-07-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert Art. 7c G v. 19.7.2023 I Nr. 197",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Beruf der Notfallsanitäterin und des Notfallsanitäters",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

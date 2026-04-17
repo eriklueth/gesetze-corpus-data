@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-05-29",
+  "bjnr": "BJNR009990992",
+  "eli": null,
+  "gii_slug": "aa_gerstv",
+  "ingested_at": "2026-04-17T15:16:43Z",
+  "jurabk": "AAÜGErstV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "07b61c62551076a05aa4205b384505e7bdb3c8b1f201b087acc3cbb0713bb38d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aa_gerstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aa_gerstv/xml.zip"
+  },
+  "stand_datum": "2025-02-26",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 26.2.2025 I Nr. 65",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Überführung von Ansprüchen und Anwartschaften aus Zusatz- und Sonderversorgungssystemen des Beitrittsgebiets durch den Bund",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

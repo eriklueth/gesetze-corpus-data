@@ -1,0 +1,656 @@
+{
+  "bjnr": "BJNR201100014",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich für Messgeräte und Teilgeräte",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Ausnahmen vom Anwendungsbereich für einzelne Messgeräte",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Anwendungsbereich für sonstige Messgeräte",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Vom Anwendungsbereich ausgenommene Zusatzeinrichtungen",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Vom Anwendungsbereich ausgenommene Verwendungen",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 1 Wesentliche Anforderungen an Messgeräte"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Allgemeine wesentliche Anforderungen und Feststellung der Einhaltung von Fehlergrenzen",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 1 Wesentliche Anforderungen an Messgeräte"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Gerätespezifische wesentliche Anforderungen",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 2 Regelungen im Zusammenhang mit der Konformitätsbewertung"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Konformitätsbewertungsverfahren",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 2 Regelungen im Zusammenhang mit der Konformitätsbewertung"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Technische Unterlagen",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 2 Regelungen im Zusammenhang mit der Konformitätsbewertung"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Konformitätserklärungen",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 2 Regelungen im Zusammenhang mit der Konformitätsbewertung"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Haftpflichtversicherung der Konformitätsbewertungsstelle",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 3 Kennzeichnung, Aufschriften und beizufügende Informationen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Gemeinsame Vorschriften für Kennzeichnungen und Aufschriften von Messgeräten und sonstigen Messgeräten",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 3 Kennzeichnung, Aufschriften und beizufügende Informationen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Kennzeichnung von Messgeräten beim Inverkehrbringen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 3 Kennzeichnung, Aufschriften und beizufügende Informationen"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Aufschriften auf Messgeräten",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 3 Kennzeichnung, Aufschriften und beizufügende Informationen"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Aufschriften auf sonstigen Messgeräten",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
+        "Unterabschnitt 3 Kennzeichnung, Aufschriften und beizufügende Informationen"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Beizufügende Informationen",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 1 Allgemeine Pflichten der Verwender"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Verkehrsfehlergrenzen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 1 Allgemeine Pflichten der Verwender"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Aufstellung, Gebrauch und Wartung von Messgeräten",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 1 Allgemeine Pflichten der Verwender"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Vermutungswirkung",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 1 Allgemeine Pflichten der Verwender"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Ausnahmen bei Werten für Messgrößen",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 1 Allgemeine Pflichten der Verwender"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Angabe von Gewichtswerten",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 2 Pflichten der Verwender bei besonderen Verwendungen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Verwenden von Ausschankmaßen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 2 Pflichten der Verwender bei besonderen Verwendungen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Abgabe von flüssigen Brennstoffen",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 2 Pflichten der Verwender bei besonderen Verwendungen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Besondere Vorschriften für das Verwenden von Messgeräten zur Bestimmung der Dosis ionisierender Strahlung",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 3 Öffentliche Waage"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Pflichten beim Verwenden einer öffentlichen Waage",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 3 Öffentliche Waage"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Pflichten bei der Durchführung öffentlicher Wägungen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 4 Pflichten der Verwender",
+        "Unterabschnitt 3 Öffentliche Waage"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Nachweis des Wägeergebnisses",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 5 Eichung und Befundprüfung"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Pflichten der antragstellenden Person bei der Eichung",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 5 Eichung und Befundprüfung"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Eichfrist",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 5 Eichung und Befundprüfung"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Verlängerung der Eichfrist auf Grund von Stichprobenverfahren",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 5 Eichung und Befundprüfung"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Durchführung der Eichung",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 5 Eichung und Befundprüfung"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Eichtechnische Prüfung",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 5 Eichung und Befundprüfung"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Kennzeichnung der Messgeräte",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 5 Eichung und Befundprüfung"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Durchführung der Befundprüfung",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 6 Softwareaktualisierung"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Genehmigungsverfahren zur Aktualisierung von Software in Messgeräten",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 6 Softwareaktualisierung"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Konformitätsbewertung der aktualisierten Software",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 1 Staatlich anerkannte Prüfstellen"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Antrag und Anerkennung",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 1 Staatlich anerkannte Prüfstellen"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Anforderungen an die Prüfstelle",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 1 Staatlich anerkannte Prüfstellen"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Haftpflichtversicherung der Prüfstelle",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 2 Prüfstellenleitung"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Leitung und stellvertretende Leitung",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 2 Prüfstellenleitung"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Antrag",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 2 Prüfstellenleitung"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Sachkunde",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 2 Prüfstellenleitung"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Öffentliche Bestellung",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 3 Betrieb der staatlich anerkannten Prüfstelle"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Bezeichnung und Anzeige der staatlich anerkannten Prüfstelle",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 3 Betrieb der staatlich anerkannten Prüfstelle"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Durchführung von Eichungen durch staatlich anerkannte Prüfstellen",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 3 Betrieb der staatlich anerkannten Prüfstelle"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Durchführung von Befundprüfungen durch staatlich anerkannte Prüfstellen",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 3 Betrieb der staatlich anerkannten Prüfstelle"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Prüfungsunterlagen",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 3 Betrieb der staatlich anerkannten Prüfstelle"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Verantwortung der Prüfstellenleitung",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 4 Instandsetzer"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Befugniserteilung an Instandsetzer",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
+        "Unterabschnitt 4 Instandsetzer"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Pflichten der Instandsetzer",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 8 Meldeverfahren der Behörden"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Meldeverfahren",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Übergangsvorschriften",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 2 Satz 2)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 7 Absatz 1 Satz 3)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(zu § 8, § 9 Absatz 1 Satz 2, § 9 Absatz 4)",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "(zu § 9 Absatz 1 Satz 1)",
+      "number": "Anlage 4",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0005.md",
+      "heading": "(zu § 11 Absatz 2)",
+      "number": "Anlage 5",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0006.md",
+      "heading": "(weggefallen)",
+      "number": "Anlage 6",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0007.md",
+      "heading": "(zu § 34 Absatz 1 Nummer 1)",
+      "number": "Anlage 7",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
+        "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0008.md",
+      "heading": "(zu § 38, § 50 Absatz 2 und 3, § 54 Absatz 3 Satz 2, § 55 Absatz 2 Satz 2)",
+      "number": "Anlage 8",
+      "type": "annex"
+    }
+  ]
+}

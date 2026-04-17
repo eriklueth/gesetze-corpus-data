@@ -1,0 +1,26 @@
+{
+  "amtabk": "StaRUG",
+  "ausfertigung_datum": "2020-12-22",
+  "bjnr": "BJNR325610020",
+  "eli": null,
+  "gii_slug": "starug",
+  "ingested_at": "2026-04-17T15:28:52Z",
+  "jurabk": "StaRUG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3e4ebfce500b6f0ddd957332737f02e4194c1c96ea4e58716907215bfff86ec0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/starug/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/starug/xml.zip"
+  },
+  "stand_datum": "2024-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 G v. 15.7.2024 I Nr. 236",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehmen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

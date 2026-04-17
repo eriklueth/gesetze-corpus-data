@@ -1,0 +1,695 @@
+{
+  "bjnr": "BJNR337800994",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 2 Bilanz und Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Formblätter",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 2 Bilanz und Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Zusammenfassung von Posten",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 2 Bilanz und Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Davon-Vermerke",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 2 Bilanz und Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Zusätze",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Immaterielle Vermögensgegenstände",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Aktien, Anteile oder Aktien an Investmentvermögen und andere nicht festverzinsliche Wertpapiere",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Inhaberschuldverschreibungen und andere festverzinsliche Wertpapiere",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Hypotheken-, Grundschuld- und Rentenschuldforderungen",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Sonstige Ausleihungen",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Einlagen bei Kreditinstituten",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Andere Kapitalanlagen",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Depotforderungen aus dem in Rückdeckung übernommenen Versicherungsgeschäft",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Kapitalanlagen für Rechnung und Risiko von Inhabern von Lebensversicherungspolicen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Forderungen aus dem selbst abgeschlossenen Versicherungsgeschäft",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Abrechnungsforderungen aus dem Rückversicherungsgeschäft",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Sonstige Forderungen",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Sachanlagen und Vorräte",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Andere Vermögensgegenstände",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Abgegrenzte Zinsen und Mieten",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 1 Posten der Aktivseite"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Ausgleichsbetrag",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Nachrangige Verbindlichkeiten",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Anteile für das in Rückdeckung gegebene Versicherungsgeschäft an den Bruttobeträgen der versicherungstechnischen Rückstellungen",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Beitragsüberträge",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Deckungsrückstellung",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Rückstellung für noch nicht abgewickelte Versicherungsfälle",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Näherungs- und Vereinfachungsverfahren",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Rückstellung für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattung",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Schwankungsrückstellung",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Der Schwankungsrückstellung ähnliche Rückstellungen",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Sonstige versicherungstechnische Rückstellungen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Versicherungstechnische Rückstellungen im Bereich der Lebensversicherung, wenn das Anlagerisiko von den Versicherungsnehmern getragen wird",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Depotverbindlichkeiten aus dem in Rückdeckung gegebenen Versicherungsgeschäft",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Abrechnungsverbindlichkeiten aus dem Rückversicherungsgeschäft",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
+        "Unterabschnitt 2 Posten der Passivseite"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Ausgleichsbetrag",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Gebuchte Bruttobeiträge",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Abgegebene Rückversicherungsbeiträge",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Technischer Zinsertrag für eigene Rechnung",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Nicht realisierte Gewinne aus Kapitalanlagen, nicht realisierte Verluste aus Kapitalanlagen",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Sonstige versicherungstechnische Erträge für eigene Rechnung",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Aufwendungen für Versicherungsfälle für eigene Rechnung",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Aufwendungen für erfolgsabhängige und erfolgsunabhängige Beitragsrückerstattungen für eigene Rechnung",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Aufwendungen für den Versicherungsbetrieb für eigene Rechnung",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Sonstige versicherungstechnische Aufwendungen für eigene Rechnung",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Erträge aus Kapitalanlagen",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Aufwendungen für Kapitalanlagen",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Sonstige Erträge",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Sonstige Aufwendungen",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Sonstige Steuern",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Ausgleichsposten",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 5 Anhang"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Zusätzliche Erläuterungen",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 5 Anhang"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Zusätzliche Pflichtangaben",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 5 Anhang"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Versicherungsunternehmen, die im selbst abgeschlossenen Versicherungsgeschäft mehrere Geschäftszweige betreiben",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 5 Anhang"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Zeitwert der Kapitalanlagen",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 5 Anhang"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Zeitwert der Grundstücke, grundstücksgleichen Rechte und Bauten einschließlich der Bauten auf fremden Grundstücken",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 5 Anhang"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Zeitwert der übrigen Kapitalanlagen",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 6 Lagebericht"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Lagebericht",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 7 Konzernrechnungslegung"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Konzernbilanz und Konzern-Gewinn- und Verlustrechnung",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 7 Konzernrechnungslegung"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Konzernanhang",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 7 Konzernrechnungslegung"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Konzernlagebericht",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 8 Befreiungen und Vereinfachungen für bestimmte Versicherungsunternehmen"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Befreiungen",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 8 Befreiungen und Vereinfachungen für bestimmte Versicherungsunternehmen"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Vereinfachungen",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 9 Ordnungswidrigkeiten"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 10 Schlußvorschriften"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Übergangsvorschriften",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 10 Schlußvorschriften"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Inkrafttreten, Außerkrafttreten",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Anwendungsbereich",
+        "Abschnitt 10 Schlußvorschriften"
+      ],
+      "file": "annexes/0000.md",
+      "heading": "(zu § 29)",
+      "number": "Anlage",
+      "type": "annex"
+    }
+  ]
+}

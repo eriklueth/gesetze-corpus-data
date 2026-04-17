@@ -1,0 +1,873 @@
+{
+  "bjnr": "BJNR002410961",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Sachlicher Geltungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001a.md",
+      "heading": "Klimaschutz und Nachhaltigkeit",
+      "number": "§ 1a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Genehmigungspflicht",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Unternehmer",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003a.md",
+      "heading": "Bereitstellung von Mobilitätsdaten",
+      "number": "§ 3a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003b.md",
+      "heading": "Datenverarbeitung",
+      "number": "§ 3b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003c.md",
+      "heading": "Datenlöschung",
+      "number": "§ 3c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Straßenbahnen, Obusse, Kraftfahrzeuge",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Dokumente",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Umgehungsverbot",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Beförderung von Personen auf Lastkraftwagen und auf Anhängern hinter Lastkraftwagen und Zugmaschinen",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Förderung der Verkehrsbedienung und Ausgleich der Verkehrsinteressen im öffentlichen Personennahverkehr",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0008a.md",
+      "heading": "Vergabe öffentlicher Dienstleistungsaufträge",
+      "number": "§ 8a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0008b.md",
+      "heading": "Wettbewerbliches Vergabeverfahren",
+      "number": "§ 8b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Umfang der Genehmigung",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Entscheidung in Zweifelsfällen",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Genehmigungsbehörden",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Antragstellung",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Voraussetzung der Genehmigung",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Anhörungsverfahren",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Erteilung und Versagung der Genehmigung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Geltungsdauer der Genehmigung",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Genehmigungsurkunde",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Informationspflicht der Genehmigungsbehörde",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Tod des Unternehmers",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Einstweilige Erlaubnis",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0020a.md",
+      "heading": "(weggefallen)",
+      "number": "§ 20a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Betriebspflicht",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Beförderungspflicht",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Haftung für Sachschäden",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "(weggefallen)",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Widerruf der Genehmigung",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0025a.md",
+      "heading": "Untersagung von Personenkraftverkehrsgeschäften",
+      "number": "§ 25a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Erlöschen der Genehmigung",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "II. Genehmigung"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Zwangsmaßnahmen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Planfeststellung und vorläufige Anordnung",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0028a.md",
+      "heading": "Veränderungssperre, Vorkaufsrecht",
+      "number": "§ 28a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0028b.md",
+      "heading": "Projektmanager",
+      "number": "§ 28b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0028c.md",
+      "heading": "Veröffentlichung im Internet",
+      "number": "§ 28c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Planfeststellungsbehörde",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0029a.md",
+      "heading": "Vorzeitige Besitzeinweisung",
+      "number": "§ 29a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Enteignung",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0030a.md",
+      "heading": "Entschädigungsverfahren",
+      "number": "§ 30a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Benutzung öffentlicher Straßen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Duldungspflichten Dritter",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Bau- und Unterhaltungspflicht",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0036a.md",
+      "heading": "Besondere Pflichten im Interesse der Unterhaltung",
+      "number": "§ 36a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Aufnahme des Betriebs",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "(weggefallen)",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Beförderungsentgelte und -bedingungen",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "A. Straßenbahnen"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Fahrpläne",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "B. Verkehr mit Obussen"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Entsprechend anwendbare Vorschriften",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "C. Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Begriffsbestimmung Linienverkehr",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "C. Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0042a.md",
+      "heading": "Personenfernverkehr",
+      "number": "§ 42a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "C. Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0042b.md",
+      "heading": "Technische Anforderungen",
+      "number": "§ 42b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "C. Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Sonderformen des Linienverkehrs",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "C. Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Linienbedarfsverkehr",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "C. Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Sonstige Vorschriften",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "D. Ausgleichszahlungen"
+      ],
+      "file": "paragraphs/0045a.md",
+      "heading": "Ausgleichspflicht",
+      "number": "§ 45a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "E. Gelegenheitsverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Formen des Gelegenheitsverkehrs",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "E. Gelegenheitsverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Verkehr mit Taxen",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "E. Gelegenheitsverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Ausflugsfahrten und Ferienziel-Reisen",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "E. Gelegenheitsverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Verkehr mit Mietomnibussen und mit Mietwagen",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "E. Gelegenheitsverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Gebündelter Bedarfsverkehr",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "E. Gelegenheitsverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Beförderungsentgelte und -bedingungen im Taxenverkehr",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "III. Sonderbestimmungen für die einzelnen Verkehrsarten",
+        "E. Gelegenheitsverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0051a.md",
+      "heading": "Beförderungsentgelte im Verkehr mit Mietwagen und im gebündelten Bedarfsverkehr",
+      "number": "§ 51a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "IV. Auslandsverkehr"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Grenzüberschreitender Verkehr",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "IV. Auslandsverkehr"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Transit-(Durchgangs-)Verkehr",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "V. Aufsicht, Prüfungsbefugnisse"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Aufsicht",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "V. Aufsicht, Prüfungsbefugnisse"
+      ],
+      "file": "paragraphs/0054a.md",
+      "heading": "Prüfungsbefugnisse der Genehmigungsbehörde",
+      "number": "§ 54a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "V. Aufsicht, Prüfungsbefugnisse"
+      ],
+      "file": "paragraphs/0054b.md",
+      "heading": "Risikoeinstufung",
+      "number": "§ 54b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "V. Aufsicht, Prüfungsbefugnisse"
+      ],
+      "file": "paragraphs/0054c.md",
+      "heading": "Verkehrsunternehmensdatei",
+      "number": "§ 54c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "VI. Rechtsbehelfsverfahren und Gebühren"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Vorverfahren bei der Anfechtung von Verwaltungsakten",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "VI. Rechtsbehelfsverfahren und Gebühren"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Gebühren",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "VII. Erlaß von Rechtsverordnungen und Allgemeinen Verwaltungsvorschriften"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Rechtsverordnungen",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "VII. Erlaß von Rechtsverordnungen und Allgemeinen Verwaltungsvorschriften"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Allgemeine Verwaltungsvorschriften",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "VIII. Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "IX. Übergangs- und Schlußbestimmungen"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Übergangsbestimmungen",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "IX. Übergangs- und Schlußbestimmungen"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Ausschluss abweichenden Landesrechts",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "IX. Übergangs- und Schlußbestimmungen"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Andere Gesetze",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "IX. Übergangs- und Schlußbestimmungen"
+      ],
+      "file": "paragraphs/0064a.md",
+      "heading": "Ersetzung bundesrechtlicher Vorschriften durch Landesrecht",
+      "number": "§ 64a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "IX. Übergangs- und Schlußbestimmungen"
+      ],
+      "file": "paragraphs/0064b.md",
+      "heading": "Landesrecht im Bereich des Gelegenheitsverkehrs",
+      "number": "§ 64b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "IX. Übergangs- und Schlußbestimmungen"
+      ],
+      "file": "paragraphs/0064c.md",
+      "heading": "Barrierefreiheit",
+      "number": "§ 64c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "IX. Übergangs- und Schlußbestimmungen"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Ausnahmen für Straßenbahnen",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "I. Allgemeine Vorschriften",
+        "IX. Übergangs- und Schlußbestimmungen"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Berichtspflichten",
+      "number": "§ 66",
+      "type": "paragraph"
+    }
+  ]
+}

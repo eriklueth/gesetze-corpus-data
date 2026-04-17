@@ -1,0 +1,82 @@
+{
+  "bjnr": "BJNR006070961",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Erster Abschnitt"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt",
+        "Zweiter Abschnitt"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt",
+        "Zweiter Abschnitt"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt",
+        "Dritter Abschnitt"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Erster Abschnitt",
+        "Dritter Abschnitt"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "",
+      "number": "§ 12",
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-04-02",
+  "bjnr": "BJNR004190979",
+  "eli": null,
+  "gii_slug": "baumeistervablv",
+  "ingested_at": "2026-04-17T15:17:40Z",
+  "jurabk": "BaumeisterVAblV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3dd497e959472099711b1a140a5518b0f708f3a51ac639f2fbc8c82c36fae63c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baumeistervablv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baumeistervablv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Ablösung der Baumeisterverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

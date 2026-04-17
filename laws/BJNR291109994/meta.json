@@ -1,0 +1,26 @@
+{
+  "amtabk": "EGInsO",
+  "ausfertigung_datum": "1994-10-05",
+  "bjnr": "BJNR291109994",
+  "eli": null,
+  "gii_slug": "eginso",
+  "ingested_at": "2026-04-17T15:20:29Z",
+  "jurabk": "EGInsO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7be81f6bb755d85d3788b50fa36381347384b1962c7a32c14b08cbee85b8aed1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eginso/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eginso/xml.zip"
+  },
+  "stand_datum": "2024-07-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 37 G v. 12.7.2024 I Nr. 234",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Einführungsgesetz zur Insolvenzordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "DiPAV",
+  "ausfertigung_datum": "2022-09-29",
+  "bjnr": "BJNR156800022",
+  "eli": null,
+  "gii_slug": "dipav",
+  "ingested_at": "2026-04-17T15:19:59Z",
+  "jurabk": "DiPAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "900f01b795ce8dd5e2f897f98c6a0226718a864482ebdbf55ad35b6288d85d6c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dipav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dipav/xml.zip"
+  },
+  "stand_datum": "2024-03-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 4a G v. 22.3.2024 I Nr. 101",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung zur Prüfung der Erstattungsfähigkeit digitaler Pflegeanwendungen nach dem Elften Buch Sozialgesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

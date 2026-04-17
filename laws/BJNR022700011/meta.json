@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-02-07",
+  "bjnr": "BJNR022700011",
+  "eli": null,
+  "gii_slug": "milchtausbsteignv",
+  "ingested_at": "2026-04-17T15:24:51Z",
+  "jurabk": "MilchtAusbStEignV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e3d20a1b63fe5bb68c6b45daa346508dba02a04854264c8eee954ab2b79721f7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/milchtausbsteignv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/milchtausbsteignv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Milchtechnologen und zur Milchtechnologin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

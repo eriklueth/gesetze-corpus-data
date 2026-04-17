@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-01-24",
+  "bjnr": "BJNR009800995",
+  "eli": null,
+  "gii_slug": "fkeramausbv",
+  "ingested_at": "2026-04-17T15:21:25Z",
+  "jurabk": "FKeramAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "46d2f60deb933342c351700c28c95ffbb4963b3d27a29750b3b76ee62d84526e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fkeramausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fkeramausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Figurenkeramformer/zur Figurenkeramformerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

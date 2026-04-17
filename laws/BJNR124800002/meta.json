@@ -1,0 +1,26 @@
+{
+  "amtabk": "HundVerbrEinfVO",
+  "ausfertigung_datum": "2002-04-03",
+  "bjnr": "BJNR124800002",
+  "eli": null,
+  "gii_slug": "hundverbreinfvo",
+  "ingested_at": "2026-04-17T15:22:48Z",
+  "jurabk": "HundVerbrEinfVO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c97e010e4d18cdabc4fd56fd8ebd8a3a4af63868f4243f84f894c61296c35172"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hundverbreinfvo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hundverbreinfvo/xml.zip"
+  },
+  "stand_datum": "2005-06-21",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 86 G v. 21.6.2005 I 1818",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Ausnahmen zum Verbringungs- und Einfuhrverbot von gefährlichen Hunden in das Inland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

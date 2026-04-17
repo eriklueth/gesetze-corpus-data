@@ -1,0 +1,26 @@
+{
+  "amtabk": "ESVG",
+  "ausfertigung_datum": "2017-04-04",
+  "bjnr": "BJNR077210017",
+  "eli": null,
+  "gii_slug": "esvg",
+  "ingested_at": "2026-04-17T15:20:49Z",
+  "jurabk": "ESVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "94222d71acff118bb0745964c2f4c79252250c8c256c24cb54c2cb28358b7cd0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/esvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/esvg/xml.zip"
+  },
+  "stand_datum": "2023-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 2.3.2023 I Nr. 56",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Sicherstellung der Grundversorgung mit Lebensmitteln in einer Versorgungskrise und Maßnahmen zur Vorsorge für eine Versorgungskrise",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

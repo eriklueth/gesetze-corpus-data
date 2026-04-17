@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-09-26",
+  "bjnr": "BJNR275009994",
+  "eli": null,
+  "gii_slug": "pflnv",
+  "ingested_at": "2026-04-17T15:26:45Z",
+  "jurabk": "PflNV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2e173b2cd3adf9a4df832d850772fa9846dd2d62b6574ee4076d082251e6dd3e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflnv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflnv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Neuordnung des Pflegesatzrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

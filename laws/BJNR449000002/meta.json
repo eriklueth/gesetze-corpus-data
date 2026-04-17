@@ -1,0 +1,26 @@
+{
+  "amtabk": "AdLDAV",
+  "ausfertigung_datum": "2002-12-02",
+  "bjnr": "BJNR449000002",
+  "eli": null,
+  "gii_slug": "adldav",
+  "ingested_at": "2026-04-17T15:16:45Z",
+  "jurabk": "AdLDAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4fa0a66034e6e64756722d6ef95fc37e6b11ba9e53f29ad8dff7e0fcc8240501"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/adldav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/adldav/xml.zip"
+  },
+  "stand_datum": "2020-06-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 23 G v. 12.6.2020 I 1248",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des § 61a des Gesetzes über die Alterssicherung der Landwirte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

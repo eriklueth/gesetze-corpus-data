@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1984-04-19",
+  "bjnr": "BJNR205710986",
+  "eli": null,
+  "gii_slug": "sozsichabkdvbg_mar",
+  "ingested_at": "2026-04-17T15:28:31Z",
+  "jurabk": "SozSichAbkDVbg MAR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bc78736cefd53d373e14a1eb44bf594babcaeb12a5e9b5c59a9bc94e4e36bfe3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkdvbg_mar/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkdvbg_mar/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vereinbarung zur Durchführung des Abkommens vom 25. März 1981 zwischen der Bundesrepublik Deutschland und dem Königreich Marokko über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

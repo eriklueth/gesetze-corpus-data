@@ -1,0 +1,26 @@
+{
+  "amtabk": "VSBInfoV",
+  "ausfertigung_datum": "2016-02-28",
+  "bjnr": "BJNR032600016",
+  "eli": null,
+  "gii_slug": "vsbinfov",
+  "ingested_at": "2026-04-17T15:30:17Z",
+  "jurabk": "VSBInfoV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "74dfbf19c331e36a88a656f31b27290e25f2b4cbbf4fafbe895ef9404ce8ca7e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vsbinfov/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vsbinfov/xml.zip"
+  },
+  "stand_datum": "2025-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 17 G v. 8.12.2025 I Nr. 318",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Informations- und Berichtspflichten nach dem Verbraucherstreitbeilegungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

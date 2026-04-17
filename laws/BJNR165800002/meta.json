@@ -1,0 +1,26 @@
+{
+  "amtabk": "FoVG",
+  "ausfertigung_datum": "2002-05-22",
+  "bjnr": "BJNR165800002",
+  "eli": null,
+  "gii_slug": "fovg",
+  "ingested_at": "2026-04-17T15:21:39Z",
+  "jurabk": "FoVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c9aac6d91fa0a34560506f1788cc4ca85985429645a6acb0956a57b5bf486527"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fovg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fovg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 414 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Forstvermehrungsgutgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

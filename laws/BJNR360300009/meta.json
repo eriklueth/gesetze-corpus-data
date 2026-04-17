@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZAGAnzV",
+  "ausfertigung_datum": "2009-10-15",
+  "bjnr": "BJNR360300009",
+  "eli": null,
+  "gii_slug": "zaganzv",
+  "ingested_at": "2026-04-17T15:31:15Z",
+  "jurabk": "ZAGAnzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "465a3e5873d92ad00e9a35b1ad9c3bb5ec5ca29686050425ce5759a84a242bea"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zaganzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zaganzv/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 41 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Zahlungsdiensteaufsichtsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

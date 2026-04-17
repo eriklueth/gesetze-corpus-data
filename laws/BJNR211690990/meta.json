@@ -1,0 +1,30 @@
+{
+  "amtabk": "DMBilG",
+  "ausfertigung_datum": "1990-09-23",
+  "bjnr": "BJNR211690990",
+  "eli": null,
+  "gii_slug": "dmbilg",
+  "ingested_at": "2026-04-17T15:20:00Z",
+  "jurabk": "DMBilG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c2979c733e961ed2b600fb755b22f4d6ffb140757ad2c5e220967c5e38fcfa82"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dmbilg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dmbilg/xml.zip"
+  },
+  "stand_datum": "1994-07-28",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 28.7.1994 I 1842;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 14 Abs. 1 G v. 10.5.2016 I 1142",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Eröffnungsbilanz in Deutscher Mark und die Kapitalneufestsetzung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

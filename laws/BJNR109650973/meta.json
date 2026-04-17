@@ -1,0 +1,26 @@
+{
+  "amtabk": "GrStG",
+  "ausfertigung_datum": "1973-08-07",
+  "bjnr": "BJNR109650973",
+  "eli": null,
+  "gii_slug": "grstg_1973",
+  "ingested_at": "2026-04-17T15:22:29Z",
+  "jurabk": "GrStG 1973",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9fd3a1f29a62e03d7478df6c1962a66658659a0ab4dd08f0042d2c99c6fec817"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grstg_1973/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grstg_1973/xml.zip"
+  },
+  "stand_datum": "2024-12-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 32 G v. 2.12.2024 I Nr. 387",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Grundsteuergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

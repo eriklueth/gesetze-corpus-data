@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-11-27",
+  "bjnr": "BJNR071230991",
+  "eli": null,
+  "gii_slug": "prfzabk_aut",
+  "ingested_at": "2026-04-17T15:26:59Z",
+  "jurabk": "PrfZAbk AUT",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5b524f0b811befafd1a194fc3b8c7d81b2f24f6811b76b34653a76a9a27bfc66"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/prfzabk_aut/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/prfzabk_aut/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Österreich über die Zusammenarbeit in der beruflichen Bildung und über die gegenseitige Anerkennung der Gleichwertigkeit von beruflichen Prüfungszeugnissen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

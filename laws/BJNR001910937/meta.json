@@ -1,0 +1,26 @@
+{
+  "amtabk": "BNotO",
+  "ausfertigung_datum": "1937-02-13",
+  "bjnr": "BJNR001910937",
+  "eli": null,
+  "gii_slug": "bnoto",
+  "ingested_at": "2026-04-17T15:18:54Z",
+  "jurabk": "BNotO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "36a417774178e0cbad3fa775f814008a61a4ff025dbbcc47e3f970fe45c3b1d0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bnoto/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bnoto/xml.zip"
+  },
+  "stand_datum": "2025-12-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 G v. 10.12.2025 I Nr. 320",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundesnotarordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

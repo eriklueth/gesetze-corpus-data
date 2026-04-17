@@ -1,0 +1,21 @@
+{
+  "amtabk": "TrinkwEGV",
+  "ausfertigung_datum": "2023-12-04",
+  "bjnr": "BJNR15A0A0023",
+  "eli": null,
+  "gii_slug": "trinkwegv",
+  "ingested_at": "2026-04-17T15:29:34Z",
+  "jurabk": "TrinkwEGV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ea95353cd7f0f49b92a5019e9147adb8edf4962391d1458557d10d5c10455661"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/trinkwegv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/trinkwegv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Einzugsgebiete von Entnahmestellen für die Trinkwassergewinnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

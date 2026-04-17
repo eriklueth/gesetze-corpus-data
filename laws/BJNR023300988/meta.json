@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-12-20",
+  "bjnr": "BJNR023300988",
+  "eli": null,
+  "gii_slug": "sgb4ergg",
+  "ingested_at": "2026-04-17T15:28:11Z",
+  "jurabk": "SGB4ErgG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6be7d8c25864385b13d94a9efa3033181dbebcdd5373bd2a07e3f16c307636e1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgb4ergg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgb4ergg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Einordnung der Vorschriften über die Meldepflichten des Arbeitgebers in der Kranken- und Rentenversicherung sowie im Arbeitsförderungsrecht und über den Einzug des Gesamtsozialversicherungsbeitrags in das Vierte Buch Sozialgesetzbuch - Gemeinsame Vorschriften für die Sozialversicherung -",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

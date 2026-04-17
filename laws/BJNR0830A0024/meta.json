@@ -1,0 +1,30 @@
+{
+  "amtabk": "37. BImSchV",
+  "ausfertigung_datum": "2024-04-17",
+  "bjnr": "BJNR0830A0024",
+  "eli": null,
+  "gii_slug": "bimschv_37_2024",
+  "ingested_at": "2026-04-17T15:16:35Z",
+  "jurabk": "BImSchV 37 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f5a8b438b3c23e11b3ccc825977243954f1c4c12e94c5c475fc06b74025eaa7b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_37_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_37_2024/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 G v. 22.12.2025 I Nr. 348",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2129-8-37 v. 15.5.2017 I 1195 (BImSchV 37)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Neufassung der Siebenunddreißigsten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

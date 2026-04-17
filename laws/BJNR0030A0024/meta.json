@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-12-29",
+  "bjnr": "BJNR0030A0024",
+  "eli": null,
+  "gii_slug": "bbesg_bes_gbek_2024",
+  "ingested_at": "2026-04-17T15:17:44Z",
+  "jurabk": "BBesG/BesÜGBek 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0889caa5b17499e0f79de69d3b78a9331c9603b530fa940ba12b5e40f4757a6b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbesg_bes_gbek_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbesg_bes_gbek_2024/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung nach § 77 Absatz 4, § 78 Absatz 2 und Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes sowie nach § 5a Absatz 2 und § 6 Absatz 3 des Besoldungsüberleitungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BzBlG",
+  "ausfertigung_datum": "1971-08-05",
+  "bjnr": "BJNR012340971",
+  "eli": null,
+  "gii_slug": "bzblg",
+  "ingested_at": "2026-04-17T15:19:36Z",
+  "jurabk": "BzBlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "047c0d4ab51abfea859b41ee127b109511b766869f9fe699305a120a1cef3385"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bzblg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bzblg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 102 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Verminderung von Luftverunreinigungen durch Bleiverbindungen in Ottokraftstoffen für Kraftfahrzeugmotore",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

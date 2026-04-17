@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-04-13",
+  "bjnr": "BJNR158720007",
+  "eli": null,
+  "gii_slug": "vnterror_bk",
+  "ingested_at": "2026-04-17T15:30:14Z",
+  "jurabk": "VNTerrorÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e3cab96bdf30d384b83f85016b59231bf05f039b8ebcb740741ce0eeeed13bd2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vnterror_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vnterror_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationales Übereinkommen zur Bekämpfung nuklearterroristischer Handlungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "AuswErlV",
+  "ausfertigung_datum": "2013-04-10",
+  "bjnr": "BJNR080500013",
+  "eli": null,
+  "gii_slug": "auswerlv",
+  "ingested_at": "2026-04-17T15:17:25Z",
+  "jurabk": "AuswErlV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "066fb5ef97d24ba797e0db44ee65c7e1e49a726ce616928b8a7466c77172c4b2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/auswerlv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/auswerlv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Erlaubnis zur Auswandererberatung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-12-19",
+  "bjnr": "BJNR270610018",
+  "eli": null,
+  "gii_slug": "stromstg_10abs3uabek_2019",
+  "ingested_at": "2026-04-17T15:29:00Z",
+  "jurabk": "StromStG§10Abs3uaBek 2019",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d1f8a7c185f73cdb9b3906567d71c13ddcf3372f0c7b55b1ba2f6e51003ade5c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stromstg_10abs3uabek_2019/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stromstg_10abs3uabek_2019/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

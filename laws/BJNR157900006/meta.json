@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-07-12",
+  "bjnr": "BJNR157900006",
+  "eli": null,
+  "gii_slug": "contrprv",
+  "ingested_at": "2026-04-17T15:19:39Z",
+  "jurabk": "ContrPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "259b51e89220742e5742740a297d158cd71f1a89a4b938d6542bd1c9c6f28a08"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/contrprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/contrprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 35 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte Controllerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

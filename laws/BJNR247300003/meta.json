@@ -1,0 +1,21 @@
+{
+  "amtabk": "DDR-EErfG",
+  "ausfertigung_datum": "2003-12-10",
+  "bjnr": "BJNR247300003",
+  "eli": null,
+  "gii_slug": "ddr-eerfg",
+  "ingested_at": "2026-04-17T15:19:56Z",
+  "jurabk": "DDR-EErfG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "330981b87eef1859596baf28286d04a227be6af9e7234ff1a9c5614808ca46c7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ddr-eerfg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ddr-eerfg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Regelung in der Deutschen Demokratischen Republik nicht erfüllter Entschädigungsansprüche aus Enteignung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

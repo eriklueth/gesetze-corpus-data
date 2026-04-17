@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1960-11-25",
+  "bjnr": "BJNR008690960",
+  "eli": null,
+  "gii_slug": "bpr_skldgkaplwdano",
+  "ingested_at": "2026-04-17T15:19:04Z",
+  "jurabk": "BPräsKldgKapLwDAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "49e39a287c95dc8d2d6c8d0a630de34abcd228443f16e54f838296bfa5685500"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_skldgkaplwdano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_skldgkaplwdano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der beamteten Kapitäne im nautischen Dienst der landwirtschaftlichen Verwaltung des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

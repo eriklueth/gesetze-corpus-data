@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-04-20",
+  "bjnr": "BJNR004440961",
+  "eli": null,
+  "gii_slug": "krwaffkontrg",
+  "ingested_at": "2026-04-17T15:23:54Z",
+  "jurabk": "KrWaffKontrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1404acf2c81e2dd72fcd490a3fca4013f86ee5729dd77873d0b48fc8680a9fc6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/krwaffkontrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/krwaffkontrg/xml.zip"
+  },
+  "stand_datum": "1990-11-22",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 22.11.1990 I 2506;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 V v. 19.2.2025 I Nr. 47",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Ausführungsgesetz zu Artikel 26 Abs. 2 des Grundgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

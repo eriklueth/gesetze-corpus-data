@@ -1,0 +1,21 @@
+{
+  "amtabk": "HeizölLBV",
+  "ausfertigung_datum": "1982-04-26",
+  "bjnr": "BJNR005360982",
+  "eli": null,
+  "gii_slug": "heiz_llbv",
+  "ingested_at": "2026-04-17T15:22:37Z",
+  "jurabk": "HeizölLBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d16d570421f75601d4743e0042e6e843f8b38e725e6b19fd01cfabaff3a1ac35"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/heiz_llbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/heiz_llbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Lieferbeschränkungen für leichtes Heizöl in einer Versorgungskrise",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

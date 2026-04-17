@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-04-30",
+  "bjnr": "BJNR208220959",
+  "eli": null,
+  "gii_slug": "luftvgewrabk",
+  "ingested_at": "2026-04-17T15:24:16Z",
+  "jurabk": "LuftVGewRAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e916645357b6a3b263a4e0ab2f7d6c41f2286918652eaa75c6e840b37c23adfe"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvgewrabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvgewrabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Mehrseitiges Abkommen über gewerbliche Rechte im nichtplanmäßigen Luftverkehr in Europa",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

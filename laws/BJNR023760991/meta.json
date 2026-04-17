@@ -1,0 +1,26 @@
+{
+  "amtabk": "PersStärkeG",
+  "ausfertigung_datum": "1991-12-20",
+  "bjnr": "BJNR023760991",
+  "eli": null,
+  "gii_slug": "persst_rkeg",
+  "ingested_at": "2026-04-17T15:26:37Z",
+  "jurabk": "PersStärkeG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b3b496ab8906d5cef97f92db39092b5a52446b3eed96e6d8c95c7f349c7ab9bc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/persst_rkeg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/persst_rkeg/xml.zip"
+  },
+  "stand_datum": "2021-08-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 20.8.2021 I 3932",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Verminderung der Personalstärke der Streitkräfte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

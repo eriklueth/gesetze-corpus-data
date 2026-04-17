@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1897-05-10",
+  "bjnr": "BJNR002190897",
+  "eli": null,
+  "gii_slug": "hgb",
+  "ingested_at": "2026-04-17T15:22:41Z",
+  "jurabk": "HGB",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7b46d843010ac3bc2b7416934302819d2759d5c0e0e59162cb10fdf5ad94df75"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hgb/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hgb/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Handelsgesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

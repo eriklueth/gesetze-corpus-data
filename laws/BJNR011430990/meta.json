@@ -1,0 +1,26 @@
+{
+  "amtabk": "DDR-IG",
+  "ausfertigung_datum": "1990-06-26",
+  "bjnr": "BJNR011430990",
+  "eli": null,
+  "gii_slug": "ddrig",
+  "ingested_at": "2026-04-17T15:19:56Z",
+  "jurabk": "DDRIG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d37dabeed192bf2e7ed57283aa746ba12412656422daaee0b7bc09dbfac71bab"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ddrig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ddrig/xml.zip"
+  },
+  "stand_datum": "1990-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Anlage I Kap IV B II Nr. 22 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 978",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zum Abbau von Hemmnissen bei Investitionen in der Deutschen Demokratischen Republik einschließlich Berlin (Ost)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

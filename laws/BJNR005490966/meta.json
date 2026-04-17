@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1966-08-31",
+  "bjnr": "BJNR005490966",
+  "eli": null,
+  "gii_slug": "bergarbwof_gdv",
+  "ingested_at": "2026-04-17T15:18:14Z",
+  "jurabk": "BergArbWoFöGDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9a906a681d383828de2a68bc0aca655b9cecd7a4b4857fd7e8daf95fd319121b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bergarbwof_gdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bergarbwof_gdv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Durchführung des Gesetzes zur Förderung des Bergarbeiterwohnungsbaues im Kohlenbergbau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

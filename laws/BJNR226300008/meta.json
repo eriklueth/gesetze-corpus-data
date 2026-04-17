@@ -1,0 +1,30 @@
+{
+  "amtabk": "PStV",
+  "ausfertigung_datum": "2008-11-22",
+  "bjnr": "BJNR226300008",
+  "eli": null,
+  "gii_slug": "pstv",
+  "ingested_at": "2026-04-17T15:27:03Z",
+  "jurabk": "PStV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8eee378b0322f178288802630fcad4f06bbc260a58d33c7b4019448596f0a951"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pstv/xml.zip"
+  },
+  "stand_datum": "2025-04-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 11.4.2025 I Nr. 112",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Ausführung des Personenstandsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

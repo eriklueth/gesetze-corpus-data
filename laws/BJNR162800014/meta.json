@@ -1,0 +1,21 @@
+{
+  "amtabk": "WeinASachV",
+  "ausfertigung_datum": "2014-10-16",
+  "bjnr": "BJNR162800014",
+  "eli": null,
+  "gii_slug": "weinasachv",
+  "ingested_at": "2026-04-17T15:30:28Z",
+  "jurabk": "WeinASachV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f3a97d59cf72219623fe7b99990fce58882be38decab8459c23a6fd420827340"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/weinasachv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/weinasachv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über den Sachverständigenausschuss bei der Bundesanstalt für Landwirtschaft und Ernährung zur Bewertung beabsichtigter Informationen über die Auswirkungen des Weinkonsums auf die Gesundheit und das Verhalten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "DPMAVwKostV",
+  "ausfertigung_datum": "2006-07-14",
+  "bjnr": "BJNR158600006",
+  "eli": null,
+  "gii_slug": "dpmavwkostv_2006",
+  "ingested_at": "2026-04-17T15:20:01Z",
+  "jurabk": "DPMAVwKostV 2006",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "078de9502118a455c2b33362d77ade2748925d8b72dcd0aa7497fb98154f631d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dpmavwkostv_2006/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dpmavwkostv_2006/xml.zip"
+  },
+  "stand_datum": "2022-02-07",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 7.2.2022 I 171",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Verwaltungskosten beim Deutschen Patent- und Markenamt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2021-10-12",
+  "bjnr": "BJNR467800021",
+  "eli": null,
+  "gii_slug": "asylblg_3aabs4bek_2022",
+  "ingested_at": "2026-04-17T15:17:07Z",
+  "jurabk": "AsylbLG§3aAbs4Bek 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c044d1f1a72376f43be71ca78a00ce24d52b7d58a9a4c0bc1f4eec28f82626cb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/asylblg_3aabs4bek_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/asylblg_3aabs4bek_2022/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2022",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

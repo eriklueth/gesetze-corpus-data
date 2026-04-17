@@ -1,0 +1,26 @@
+{
+  "amtabk": "2. FZVAusnV",
+  "ausfertigung_datum": "2025-02-07",
+  "bjnr": "BJNR0220A0025",
+  "eli": null,
+  "gii_slug": "fzausnv_2",
+  "ingested_at": "2026-04-17T15:16:32Z",
+  "jurabk": "FZAusnV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "933f1dd79bf3a8432b86dbcf9b83d64b1f91b39820ca7a161be7628e45856d74"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fzausnv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fzausnv_2/xml.zip"
+  },
+  "stand_datum": "2030-02-01",
+  "standangabe": [
+    {
+      "kommentar": "V aufgeh. durch § 6 Satz 2 dieser V mWv 1.2.2030",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Zweite Verordnung über Ausnahmen von den Vorschriften der Fahrzeug-Zulassungsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

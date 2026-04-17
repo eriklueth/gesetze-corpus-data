@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-02-28",
+  "bjnr": "BJNR002019972",
+  "eli": null,
+  "gii_slug": "verkfing_1971",
+  "ingested_at": "2026-04-17T15:30:06Z",
+  "jurabk": "VerkFinG 1971",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "33bba975746ba4f70042d2cfdfa52c903ed7adb6f08a237d76454267540a2b99"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verkfing_1971/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verkfing_1971/xml.zip"
+  },
+  "stand_datum": "2010-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 99 G v. 8.12.2010 I 1864",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die weitere Finanzierung von Maßnahmen zur Verbesserung der Verkehrsverhältnisse der Gemeinden und des Bundesfernstraßenbaus",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

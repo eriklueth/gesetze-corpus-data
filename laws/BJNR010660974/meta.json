@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-05-07",
+  "bjnr": "BJNR010660974",
+  "eli": null,
+  "gii_slug": "wzg_4wienbek",
+  "ingested_at": "2026-04-17T15:31:13Z",
+  "jurabk": "WZG§4WienBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2d37f6af5d0c10dd6cbbafc269ecf24b10099524acfdba6493976ee0113f47d7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4wienbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4wienbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

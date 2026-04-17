@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2010-12-17",
+  "bjnr": "BJNR229800010",
+  "eli": null,
+  "gii_slug": "morvaufhv",
+  "ingested_at": "2026-04-17T15:24:56Z",
+  "jurabk": "MORVAufhV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d34be69ed939551c0bb7e00109cb19176393158da5661f36e5d50460b6598108"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/morvaufhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/morvaufhv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Aufhebung marktordnungsrechtlicher Vorschriften im Bereich Zucker",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

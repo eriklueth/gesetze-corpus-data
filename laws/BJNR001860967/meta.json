@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1967-02-07",
+  "bjnr": "BJNR001860967",
+  "eli": null,
+  "gii_slug": "m_nz5dmbek_1967-02",
+  "ingested_at": "2026-04-17T15:25:50Z",
+  "jurabk": "Münz5DMBek 1967-02",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e624c86dd37b5b0f25a631f2b2947902dabb400647b6ef1ccd3b070a78ef3e9e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz5dmbek_1967-02/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz5dmbek_1967-02/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Leibniz-Gedenkmünze)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2021-11-30",
+  "bjnr": "BJNR504400021",
+  "eli": null,
+  "gii_slug": "svbezgrv_2022",
+  "ingested_at": "2026-04-17T15:29:10Z",
+  "jurabk": "SVBezGrV 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "56036bcec91d2ebaeef8852206461e50fd8044d5be73c22a11bb9b2dda9473ed"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svbezgrv_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svbezgrv_2022/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2022",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

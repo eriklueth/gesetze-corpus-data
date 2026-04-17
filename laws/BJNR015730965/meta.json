@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-10-05",
+  "bjnr": "BJNR015730965",
+  "eli": null,
+  "gii_slug": "gno",
+  "ingested_at": "2026-04-17T15:22:20Z",
+  "jurabk": "GnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ec67dfc1333bad6526516111f35b4570288a885a9bc9aa0f690c201f4aa524f3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gno/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gno/xml.zip"
+  },
+  "stand_datum": "1970-11-03",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch AnO v. 3.11.1970 I 1513",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Anordnung des Bundespräsidenten über die Ausübung des Begnadigungsrechts des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

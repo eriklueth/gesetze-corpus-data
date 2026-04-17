@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-06-04",
+  "bjnr": "BJNR010280992",
+  "eli": null,
+  "gii_slug": "m_nz10dmbek_1992",
+  "ingested_at": "2026-04-17T15:25:07Z",
+  "jurabk": "Münz10DMBek 1992",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b4053bb3420b47c8de206e55305df27dcf75ad2e31de6150a9c3dd176acc39a9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10dmbek_1992/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10dmbek_1992/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 125. Geburtstag von Käthe Kollwitz)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

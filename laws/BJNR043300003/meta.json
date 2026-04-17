@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-03-26",
+  "bjnr": "BJNR043300003",
+  "eli": null,
+  "gii_slug": "schsimeistprv",
+  "ingested_at": "2026-04-17T15:27:50Z",
+  "jurabk": "SchSiMeistPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "99690d99bfc24fddc4ead5447faa0026414129a16a70287fafbdfd1b0d515f4f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schsimeistprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schsimeistprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 23 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Meister/Geprüfte Meisterin für Schutz und Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

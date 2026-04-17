@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-01-23",
+  "bjnr": "BJNR0160B0025",
+  "eli": null,
+  "gii_slug": "tvmindestlohngeb_ude_2024",
+  "ingested_at": "2026-04-17T15:29:36Z",
+  "jurabk": "TVMindestlohnGebäude 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "32cf20cd517bda4bfd40f400883be9c5290ab2b913dd84a28423571c0da9e65c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tvmindestlohngeb_ude_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tvmindestlohngeb_ude_2024/xml.zip"
+  },
+  "stand_datum": "2025-01-23",
+  "standangabe": [
+    {
+      "kommentar": "Die zugehörige V v. 23.1.2025 I Nr. 22 (GebäudeArbbV 10) tritt gem. § 2 dieser V am 1.1.2027 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

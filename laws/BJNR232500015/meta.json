@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZollDKlZustAnO",
+  "ausfertigung_datum": "2015-12-17",
+  "bjnr": "BJNR232500015",
+  "eli": null,
+  "gii_slug": "zolldklzustano",
+  "ingested_at": "2026-04-17T15:31:24Z",
+  "jurabk": "ZollDKlZustAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "21d296c88f86f7e8332abe3e6f5d76bd2f620669a77fa1c28c1c15d6d5cebd09"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zolldklzustano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zolldklzustano/xml.zip"
+  },
+  "stand_datum": "1957-04-04",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 2030-12-5 v. 4.4.1957 I 369 (BPräsKldgZollVwAnO)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Anordnung des Bundespräsidenten über den Erlass von Bestimmungen für die Dienstkleidung von Beamtinnen und Beamten der Zollverwaltung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

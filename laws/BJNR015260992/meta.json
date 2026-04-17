@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-08-11",
+  "bjnr": "BJNR015260992",
+  "eli": null,
+  "gii_slug": "eustbv_1993",
+  "ingested_at": "2026-04-17T15:21:05Z",
+  "jurabk": "EUStBV 1993",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aa135e4062f9cae13b8ab99f111d1b13d998f71a907ced16a1ffdc3fa65362c3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eustbv_1993/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eustbv_1993/xml.zip"
+  },
+  "stand_datum": "2020-12-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 25 G v. 21.12.2020 I 3096",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Einfuhrumsatzsteuer-Befreiungsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

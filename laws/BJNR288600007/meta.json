@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-12-06",
+  "bjnr": "BJNR288600007",
+  "eli": null,
+  "gii_slug": "m_nz2eurobek_2007-12",
+  "ingested_at": "2026-04-17T15:25:35Z",
+  "jurabk": "Münz2EuroBek 2007-12",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bad5fd4941906cc30c3180b6b88fab936f55d314d5e58f1611a9bd668c568383"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz2eurobek_2007-12/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz2eurobek_2007-12/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Hamburg“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

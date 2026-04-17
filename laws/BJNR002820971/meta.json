@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1971-03-30",
+  "bjnr": "BJNR002820971",
+  "eli": null,
+  "gii_slug": "flul_rmg",
+  "ingested_at": "2026-04-17T15:21:32Z",
+  "jurabk": "FluLärmG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "128c8e0b3fb9eeda93bc0187c26841f09b9c838b8a1de9e66e70fe16f988926a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flul_rmg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flul_rmg/xml.zip"
+  },
+  "stand_datum": "2007-10-31",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 31.10.2007 I 2550",
+      "typ": "Neuf"
+    }
+  ],
+  "title": "Gesetz zum Schutz gegen Fluglärm",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

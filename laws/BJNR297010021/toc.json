@@ -1,0 +1,444 @@
+{
+  "bjnr": "BJNR297010021",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Zweck und Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 2 Anforderungen an die Barrierefreiheit"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Barrierefreiheit, Verordnungsermächtigung",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 2 Anforderungen an die Barrierefreiheit"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Konformitätsvermutung auf der Grundlage harmonisierter Normen",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 2 Anforderungen an die Barrierefreiheit"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Konformitätsvermutung auf der Grundlage technischer Spezifikationen",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 2 Anforderungen an die Barrierefreiheit"
+      ],
+      "file": "paragraphs/0005a.md",
+      "heading": "Barrierefreiheit gemäß anderen Rechtsakten der Europäischen Union",
+      "number": "§ 5a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 2 Anforderungen an die Barrierefreiheit"
+      ],
+      "file": "paragraphs/0005b.md",
+      "heading": "Harmonisierte Normen und technische Spezifikationen für andere Rechtsakte der Europäischen Union",
+      "number": "§ 5b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 3 Pflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Pflichten des Herstellers",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 3 Pflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Besondere Kennzeichnungs- und Informationspflichten des Herstellers",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 3 Pflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Bevollmächtigter des Herstellers",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 3 Pflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Allgemeine Pflichten des Einführers",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 3 Pflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Besondere Kennzeichnungs- und Informationspflichten des Einführers",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 3 Pflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Pflichten des Händlers",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 3 Pflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Einführer oder Händler als Hersteller",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 3 Pflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Angabe der Wirtschaftsakteure, Verordnungsermächtigung",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 3 Pflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Pflichten des Dienstleistungserbringers",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 3 Pflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Beratungsangebot der Bundesfachstelle für Barrierefreiheit",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 4 Grundlegende Veränderungen von Produkten oder Dienstleistungen und unverhältnismäßige Belastungen für die Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Grundlegende Veränderungen",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 4 Grundlegende Veränderungen von Produkten oder Dienstleistungen und unverhältnismäßige Belastungen für die Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Unverhältnismäßige Belastungen, Verordnungsermächtigung",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 5 CE-Kennzeichnung"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "EU-Konformitätserklärung für Produkte",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 5 CE-Kennzeichnung"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "CE-Kennzeichnung",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 6 Marktüberwachung von Produkten"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Aufgaben der Marktüberwachungsbehörden",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 6 Marktüberwachung von Produkten"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Marktüberwachungsmaßnahmen",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 6 Marktüberwachung von Produkten"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Maßnahmen der Marktüberwachung bei Produkten, die die Barrierefreiheitsanforderungen nicht erfüllen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 6 Marktüberwachung von Produkten"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Maßnahmen bei formaler Nichtkonformität von Produkten",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 6 Marktüberwachung von Produkten"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Pflichten der Marktüberwachungsbehörde und der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin bei Nichtkonformität von Produkten, die sich nicht auf das deutsche Hoheitsgebiet beschränken",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 6 Marktüberwachung von Produkten"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Unterstützungsverpflichtung",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 6 Marktüberwachung von Produkten"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Pflichten der Marktüberwachungsbehörde bei Maßnahmen anderer Mitgliedstaaten, bei Produkten, die gegen Barrierefreiheitsanforderungen verstoßen",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 6 Marktüberwachung von Produkten"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Aufgaben der zentralen Verbindungsstelle",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 7 Marktüberwachung von Dienstleistungen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Marktüberwachung von Dienstleistungen",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 7 Marktüberwachung von Dienstleistungen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Maßnahmen der Marktüberwachung bei Dienstleistungen, die die Barrierefreiheitsanforderungen nicht erfüllen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 7 Marktüberwachung von Dienstleistungen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Maßnahmen bei formaler Nichtkonformität von Dienstleistungen",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 7 Marktüberwachung von Dienstleistungen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Veröffentlichung von Informationen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 8 Verwaltungsverfahren, Rechtsbehelfe, Schlichtung"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Rechte von Verbrauchern, anerkannten Verbänden und qualifizierten Einrichtungen im Verwaltungsverfahren",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 8 Verwaltungsverfahren, Rechtsbehelfe, Schlichtung"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Rechtsbehelfe",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 8 Verwaltungsverfahren, Rechtsbehelfe, Schlichtung"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Schlichtung",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 9 Auskunftspflichten der Wirtschaftsakteure"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Auskunftspflichten der Wirtschaftsakteure",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Berichterstattung an die Europäische Kommission",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Übergangsbestimmungen",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 28)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu den §§ 6, 9, 18 und 19)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(zu den §§ 14 und 28)",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
+        "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "(zu den §§ 17, 21 und 28)",
+      "number": "Anlage 4",
+      "type": "annex"
+    }
+  ]
+}

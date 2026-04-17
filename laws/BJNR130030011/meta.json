@@ -1,0 +1,30 @@
+{
+  "amtabk": "RheinSchPersV",
+  "ausfertigung_datum": "2011-12-16",
+  "bjnr": "BJNR130030011",
+  "eli": null,
+  "gii_slug": "rheinschpersv",
+  "ingested_at": "2026-04-17T15:27:19Z",
+  "jurabk": "RheinSchPersV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5da5e421c3be7af9718f0b915cddb98d12da14bfd8a51cf9498dc677435d6d3f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rheinschpersv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rheinschpersv/xml.zip"
+  },
+  "stand_datum": "2021-05-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 Nr. 2 iVm Anlage 4 V v. 20.5.2021 II 442",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Diese V ist gem. Art. 1 § 13 V v. 5.4.2023 II Nr. 105 mWv 14.4.2023 nicht mehr anzuwenden",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über das Schiffspersonal auf dem Rhein",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

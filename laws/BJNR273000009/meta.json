@@ -1,0 +1,26 @@
+{
+  "amtabk": "KVBEVO",
+  "ausfertigung_datum": "2009-08-11",
+  "bjnr": "BJNR273000009",
+  "eli": null,
+  "gii_slug": "kvbevo",
+  "ingested_at": "2026-04-17T15:23:58Z",
+  "jurabk": "KVBEVO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3de36763a6042038f424029663855fa570fb3bb3c8ad9465e16487d59f43eeef"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kvbevo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kvbevo/xml.zip"
+  },
+  "stand_datum": "2015-04-01",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 9 G v. 1.4.2015 I 434",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur tarifbezogenen Ermittlung der steuerlich berücksichtigungsfähigen Beiträge zum Erwerb eines Krankenversicherungsschutzes im Sinne des § 10 Absatz 1 Nummer 3 Buchstabe a des Einkommensteuergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

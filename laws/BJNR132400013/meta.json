@@ -1,0 +1,38 @@
+{
+  "amtabk": "TierGesG",
+  "ausfertigung_datum": "2013-05-22",
+  "bjnr": "BJNR132400013",
+  "eli": null,
+  "gii_slug": "tiergesg",
+  "ingested_at": "2026-04-17T15:29:27Z",
+  "jurabk": "TierGesG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "63c6d4359ba979c46a4b9c1ea6e75902e05c7a44499c73f951e919b2ff59597a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tiergesg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tiergesg/xml.zip"
+  },
+  "stand_datum": "2018-11-21",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 21.11.2018 I 1938;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 G v. 21.12.2022 I 2852",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 1 G v. 4.3.2026 I Nr. 60 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Neufassung gem. Bekanntmachung v. 27.3.2026 I Nr. 93 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Gesetz zur Vorbeugung vor und Bekämpfung von Tierseuchen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

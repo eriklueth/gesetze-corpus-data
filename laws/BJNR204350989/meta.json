@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-09-26",
+  "bjnr": "BJNR204350989",
+  "eli": null,
+  "gii_slug": "iaeoben_bk",
+  "ingested_at": "2026-04-17T15:22:52Z",
+  "jurabk": "IAEOBenÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a7073c944a8e7077772543fed8dc230f53685b028b291b14b3a063f63f97364d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/iaeoben_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/iaeoben_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die frühzeitige Benachrichtigung bei nuklearen Unfällen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

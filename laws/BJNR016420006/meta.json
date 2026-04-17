@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-04-08",
+  "bjnr": "BJNR016420006",
+  "eli": null,
+  "gii_slug": "sozsichabk_rom",
+  "ingested_at": "2026-04-17T15:28:27Z",
+  "jurabk": "SozSichAbk ROM",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6b8be69f62372d9e32c879daf3b3e0fe62d1c9a2c0b80ddb0385ee007a6e4414"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabk_rom/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabk_rom/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und Rumänien über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "DrechslAusbV",
+  "ausfertigung_datum": "1987-12-07",
+  "bjnr": "BJNR025210987",
+  "eli": null,
+  "gii_slug": "drechslausbv",
+  "ingested_at": "2026-04-17T15:20:10Z",
+  "jurabk": "DrechslAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2da9eb4493b97fdba8e9adc50b51a90216b701d82fa326e50df8619982712d54"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/drechslausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/drechslausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Drechsler (Elfenbeinschnitzer)/zur Drechslerin (Elfenbeinschnitzerin)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

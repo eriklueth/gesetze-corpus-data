@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-05-23",
+  "bjnr": "BJNR122800006",
+  "eli": null,
+  "gii_slug": "dialogmkfausbv",
+  "ingested_at": "2026-04-17T15:19:58Z",
+  "jurabk": "DialogmKfAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cddc0a8f84c0f9f86ef87ca2457617282f8631a93a8316162f082a8266084309"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dialogmkfausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dialogmkfausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2001-07-30",
+  "bjnr": "BJNR204600001",
+  "eli": null,
+  "gii_slug": "t_prkosto1992gebvanpv",
+  "ingested_at": "2026-04-17T15:29:35Z",
+  "jurabk": "TÜPrKostO1992GebVAnpV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cd75e7dc46258a0f94941d2b1c98bcafc03eb43d23d4b91a02d6c2766cea8e5c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/t_prkosto1992gebvanpv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenverordnung für die Prüfung überwachungsbedürftiger Anlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

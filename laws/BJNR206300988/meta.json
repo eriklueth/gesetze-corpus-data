@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-07-20",
+  "bjnr": "BJNR206300988",
+  "eli": null,
+  "gii_slug": "atpanl1_3_ndg",
+  "ingested_at": "2026-04-17T15:17:11Z",
+  "jurabk": "ATPAnl1/3ÄndG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "94f139b5a36c8e2f355ba166aa24fd570f9c693b4a557d105e2da0da1cf44907"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/atpanl1_3_ndg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/atpanl1_3_ndg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 17 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu den Änderungen vom 22. November 1980, 13. August 1982, 15. Juli 1983, 20. Oktober 1985 und 19. April 1986 der Anlage 1 und vom 28. Oktober 1980 und 20. Januar 1985 der Anlage 3 des Übereinkommens vom 1. September 1970 über internationale Beförderungen leicht verderblicher Lebensmittel und über die besonderen Beförderungsmittel, die für diese Beförderungen zu verwenden sind",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

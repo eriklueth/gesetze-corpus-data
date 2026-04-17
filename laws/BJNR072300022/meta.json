@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2022-04-06",
+  "bjnr": "BJNR072300022",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2022-04-06_1",
+  "ingested_at": "2026-04-17T15:25:33Z",
+  "jurabk": "Münz20EuroBek 2022-04-06/1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2bf87ee8afb5ed21e493c1daa35e5dae69698597dfecf9904362ac7961ae148d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2022-04-06_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2022-04-06_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „50 Jahre Deutsches Kinderhilfswerk“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

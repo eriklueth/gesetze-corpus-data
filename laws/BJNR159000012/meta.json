@@ -1,0 +1,21 @@
+{
+  "amtabk": "WVwAÜG",
+  "ausfertigung_datum": "2012-07-21",
+  "bjnr": "BJNR159000012",
+  "eli": null,
+  "gii_slug": "wvwa_g",
+  "ingested_at": "2026-04-17T15:30:52Z",
+  "jurabk": "WVwAÜG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "819b1eb76f2e15950be5e9934f61b5f9abdbdee8341ea8772aba4cabf3fe3bd9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wvwa_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wvwa_g/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Übertragung von Aufgaben der Bundeswehrverwaltung auf neue Behörden der Personalmanagementorganisation der Bundeswehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

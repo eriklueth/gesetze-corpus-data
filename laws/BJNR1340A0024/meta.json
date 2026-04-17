@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2024-10-15",
+  "bjnr": "BJNR1340A0024",
+  "eli": null,
+  "gii_slug": "bdgrvbundano",
+  "ingested_at": "2026-04-17T15:17:54Z",
+  "jurabk": "BDGRVBundAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b61468d32fa7aa4f939473082916cae36322946429b5d4d0438fc42d144e0853"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bdgrvbundano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bdgrvbundano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Vorstands der Deutschen Rentenversicherung Bund zur Durchführung des Bundesdisziplinargesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

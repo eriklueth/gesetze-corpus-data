@@ -1,0 +1,26 @@
+{
+  "amtabk": "EBABGebV",
+  "ausfertigung_datum": "2021-07-21",
+  "bjnr": "BJNR318210021",
+  "eli": null,
+  "gii_slug": "ebabgebv",
+  "ingested_at": "2026-04-17T15:20:10Z",
+  "jurabk": "EBABGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b3de236db4c5f9f8848d2e94361a1769398df603fca900e1ead1a30530a2ce03"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ebabgebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ebabgebv/xml.zip"
+  },
+  "stand_datum": "2024-06-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 5.6.2024 I Nr. 189",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes, der benannten Stelle und der bestimmten Stelle",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

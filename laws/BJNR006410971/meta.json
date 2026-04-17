@@ -1,0 +1,30 @@
+{
+  "amtabk": "SeeSchStrO",
+  "ausfertigung_datum": "1971-05-03",
+  "bjnr": "BJNR006410971",
+  "eli": null,
+  "gii_slug": "seeschstro_1971",
+  "ingested_at": "2026-04-17T15:28:01Z",
+  "jurabk": "SeeSchStrO 1971",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "86514c9c5f1ca24e8f274351426aaf2b47b5983cc5495eec17d3f7f0f8eddc35"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seeschstro_1971/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seeschstro_1971/xml.zip"
+  },
+  "stand_datum": "1998-10-22",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 22.10.1998 I 3209; 1999 I 193;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 V v. 18.9.2024 I Nr. 286",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Seeschiffahrtsstraßen-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

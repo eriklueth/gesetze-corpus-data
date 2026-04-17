@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1983-05-02",
+  "bjnr": "BJNR006110983",
+  "eli": null,
+  "gii_slug": "m_nz5dmbek_1983-05",
+  "ingested_at": "2026-04-17T15:25:47Z",
+  "jurabk": "Münz5DMBek 1983-05",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d8d2a7482420b8dd214d19787e3684981063bd972da54093b88826103ec5b267"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz5dmbek_1983-05/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz5dmbek_1983-05/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Karl Marx)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

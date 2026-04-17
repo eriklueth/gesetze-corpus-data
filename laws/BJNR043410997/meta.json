@@ -1,0 +1,26 @@
+{
+  "amtabk": "ARG",
+  "ausfertigung_datum": "1997-03-06",
+  "bjnr": "BJNR043410997",
+  "eli": null,
+  "gii_slug": "arg",
+  "ingested_at": "2026-04-17T15:17:04Z",
+  "jurabk": "ARG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "67905b94022cab4ace6c1d37c76c4a3b463ca3ebf30e8de5f8bf04ff7dc4ade2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/arg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/arg/xml.zip"
+  },
+  "stand_datum": "2001-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 4 G v. 20.12.2001 I 3955",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

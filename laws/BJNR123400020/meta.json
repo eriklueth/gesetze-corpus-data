@@ -1,0 +1,26 @@
+{
+  "amtabk": "BBFestV 2020",
+  "ausfertigung_datum": "2020-06-15",
+  "bjnr": "BJNR123400020",
+  "eli": null,
+  "gii_slug": "bbfestv_2020",
+  "ingested_at": "2026-04-17T15:17:45Z",
+  "jurabk": "BBFestV 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "eafc5588a8d7032397f39bd8339c95dfc6c6500b26e7c0175c4e498db2d3d6f0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbfestv_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbfestv_2020/xml.zip"
+  },
+  "stand_datum": "2020-10-06",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 G v. 6.10.2020 I 2072",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2020",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

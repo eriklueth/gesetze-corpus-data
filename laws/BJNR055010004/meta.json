@@ -1,0 +1,26 @@
+{
+  "amtabk": "MontÜG",
+  "ausfertigung_datum": "2004-04-06",
+  "bjnr": "BJNR055010004",
+  "eli": null,
+  "gii_slug": "mont_g",
+  "ingested_at": "2026-04-17T15:24:56Z",
+  "jurabk": "MontÜG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ea69ad4b6eb545abf336458c7cb2ac437e6e63590f193c52c0de29ba75234d32"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mont_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mont_g/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 581 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Durchführung des Übereinkommens vom 28. Mai 1999 zur Vereinheitlichung bestimmter Vorschriften über die Beförderung im internationalen Luftverkehr und zur Durchführung der Versicherungspflicht zur Deckung der Haftung für Güterschäden nach der Verordnung (EG) Nr. 785/2004",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

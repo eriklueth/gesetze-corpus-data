@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-06-22",
+  "bjnr": "BJNR120210011",
+  "eli": null,
+  "gii_slug": "sozsicheug",
+  "ingested_at": "2026-04-17T15:28:41Z",
+  "jurabk": "SozSichEUG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "71992a8c152dfaba96c824e94ba813b496d085202b33b8dd0db95f82db54c502"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsicheug/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsicheug/xml.zip"
+  },
+  "stand_datum": "2021-02-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 15.2.2021 I 239",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Koordinierung der Systeme der sozialen Sicherheit in Europa",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

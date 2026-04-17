@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-08-13",
+  "bjnr": "BJNR211400998",
+  "eli": null,
+  "gii_slug": "dgbanksa",
+  "ingested_at": "2026-04-17T15:19:57Z",
+  "jurabk": "DGBankSa",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c427de495070db626685f80e5bc6ea2a2113d6c66d8779f0219603ee857eecf3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dgbanksa/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dgbanksa/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Satzung DG BANK AG",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

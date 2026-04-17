@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1940-11-15",
+  "bjnr": "BJNR014990940",
+  "eli": null,
+  "gii_slug": "schrg",
+  "ingested_at": "2026-04-17T15:27:50Z",
+  "jurabk": "SchRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c323db5e17724a0e4f981bfb3dd132efd49dd0a0298ccaaf7e39ab6852d2d437"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schrg/xml.zip"
+  },
+  "stand_datum": "2013-01-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 G v. 21.1.2013 I 91",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Rechte an eingetragenen Schiffen und Schiffsbauwerken",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

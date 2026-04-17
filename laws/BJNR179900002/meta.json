@@ -1,0 +1,21 @@
+{
+  "amtabk": "RAV 2002",
+  "ausfertigung_datum": "2002-06-07",
+  "bjnr": "BJNR179900002",
+  "eli": null,
+  "gii_slug": "rav_2002",
+  "ingested_at": "2026-04-17T15:27:10Z",
+  "jurabk": "RAV 2002",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0652acb1e6d2b1bb13d9b0d22961ad12132331becf37d5166dd0210148c3b621"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rav_2002/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rav_2002/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Anpassung der Renten im Jahre 2002",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

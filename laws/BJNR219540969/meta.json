@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1963-05-06",
+  "bjnr": "BJNR219540969",
+  "eli": null,
+  "gii_slug": "mstaat_bk",
+  "ingested_at": "2026-04-17T15:25:03Z",
+  "jurabk": "MStaatÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2b45984bd59266c86d320b02cbb1213a320983350eab26dc57be36a8c34b60ab"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mstaat_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mstaat_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Verringerung der Mehrstaatigkeit und über die Wehrpflicht von Mehrstaatern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

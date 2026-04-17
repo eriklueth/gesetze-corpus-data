@@ -1,0 +1,30 @@
+{
+  "amtabk": "BVFG",
+  "ausfertigung_datum": "1953-05-19",
+  "bjnr": "BJNR002010953",
+  "eli": null,
+  "gii_slug": "bvfg",
+  "ingested_at": "2026-04-17T15:19:30Z",
+  "jurabk": "BVFG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "db2459bda06c7fdae496f11b0f2362ecd5bced439e42af211eda7a5834c3634a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bvfg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bvfg/xml.zip"
+  },
+  "stand_datum": "2007-08-10",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 10.8.2007 I 1902;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert Art. 5 Abs. 1 G v. 11.6.2024 I Nr. 185",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Angelegenheiten der Vertriebenen und Flüchtlinge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

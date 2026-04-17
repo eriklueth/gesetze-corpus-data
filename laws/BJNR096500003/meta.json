@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-06-24",
+  "bjnr": "BJNR096500003",
+  "eli": null,
+  "gii_slug": "textilprodausbv_2003",
+  "ingested_at": "2026-04-17T15:29:31Z",
+  "jurabk": "TextilProdAusbV 2003",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e7e4128f1f9bc430bea516af16a6cc6f76aaee69b2924dfdbd0a481ffa6233bd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/textilprodausbv_2003/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/textilprodausbv_2003/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Produktgestalter-Textil/zur Produktgestalterin-Textil",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

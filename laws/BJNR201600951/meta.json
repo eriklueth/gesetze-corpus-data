@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1946-10-15",
+  "bjnr": "BJNR201600951",
+  "eli": null,
+  "gii_slug": "fl_rauswabk",
+  "ingested_at": "2026-04-17T15:21:32Z",
+  "jurabk": "FlüRAuswAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b09698858702626637f3cf24604e870252d4db7019fc08485adbf71e385f6c43"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fl_rauswabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fl_rauswabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen betreffend die Ausstellung eines Reiseausweises an Flüchtlinge, die unter die Zuständigkeit des zwischenstaatlichen Ausschusses für die Flüchtlinge fallen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

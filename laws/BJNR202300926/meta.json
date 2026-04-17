@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1926-04-14",
+  "bjnr": "BJNR202300926",
+  "eli": null,
+  "gii_slug": "alkoverfrg",
+  "ingested_at": "2026-04-17T15:16:56Z",
+  "jurabk": "AlkoVerfrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6ffceecea65e9a0f19952e6f6e661bc37541f0e0623c55cc4c83a7e30f9e86a0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/alkoverfrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/alkoverfrg/xml.zip"
+  },
+  "stand_datum": "1975-01-02",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 2.1.1975 I 289",
+      "typ": "Neuf"
+    }
+  ],
+  "title": "Gesetz über die Verfrachtung alkoholischer Waren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

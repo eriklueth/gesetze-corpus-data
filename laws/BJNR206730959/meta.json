@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-06-01",
+  "bjnr": "BJNR206730959",
+  "eli": null,
+  "gii_slug": "intbme_wvorrv",
+  "ingested_at": "2026-04-17T15:23:01Z",
+  "jurabk": "IntBMeßwVorRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "563558242951cf45e508faa062e1a76a975f6b16ab53e26823f1bb988d97c795"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intbme_wvorrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intbme_wvorrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an das internationale Büro für das gesetzliche Meßwesen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

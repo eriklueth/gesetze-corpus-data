@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-10-02",
+  "bjnr": "BJNR018600961",
+  "eli": null,
+  "gii_slug": "begdv2_ndv_4",
+  "ingested_at": "2026-04-17T15:18:01Z",
+  "jurabk": "BEGDV2ÄndV 4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "93e767d16f3fe55e401815c3227b6bd2102de0382aa60820416bf8f7ffb114dc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/begdv2_ndv_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/begdv2_ndv_4/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vierte Verordnung zur Änderung der Zweiten Verordnung zur Durchführung des Bundesentschädigungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

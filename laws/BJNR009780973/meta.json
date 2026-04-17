@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-08-02",
+  "bjnr": "BJNR009780973",
+  "eli": null,
+  "gii_slug": "bpr_samtsbezano_1973-08",
+  "ingested_at": "2026-04-17T15:18:56Z",
+  "jurabk": "BPräsAmtsbezAnO 1973-08",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e9b285f63d93185d44b09991c792b0791357bcaae185712ca4f1578053c42521"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_samtsbezano_1973-08/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_samtsbezano_1973-08/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

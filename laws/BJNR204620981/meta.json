@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-10-06",
+  "bjnr": "BJNR204620981",
+  "eli": null,
+  "gii_slug": "intnatkautsch_bk",
+  "ingested_at": "2026-04-17T15:23:04Z",
+  "jurabk": "IntNatKautschÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7f0e5f88bcfc76c4f425f14d1e3166348e5c7aa91a69521f8a551c9f5b0de78d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intnatkautsch_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intnatkautsch_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationales Naturkautschuk-Übereinkommen von 1979",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

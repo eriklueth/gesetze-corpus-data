@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-06-29",
+  "bjnr": "BJNR136320012",
+  "eli": null,
+  "gii_slug": "gtnsitzabk",
+  "ingested_at": "2026-04-17T15:22:31Z",
+  "jurabk": "GTNSitzAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cdb8331534eb4341ffbf6d8e5e39f4e0ddff4d1ec493f84933b20fe272273b29"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gtnsitzabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gtnsitzabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Globalen Treuhandfonds für Nutzpflanzenvielfalt über den Sitz des Globalen Treuhandfonds für Nutzpflanzenvielfalt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

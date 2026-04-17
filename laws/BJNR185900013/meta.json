@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-12-14",
+  "bjnr": "BJNR185900013",
+  "eli": null,
+  "gii_slug": "finvermstvtr",
+  "ingested_at": "2026-04-17T15:21:22Z",
+  "jurabk": "FinVermStVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b44d99f1938a2177692b9d0cc83fc38c7c059f52e66231b0c760e7dea75847c0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/finvermstvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/finvermstvtr/xml.zip"
+  },
+  "stand_datum": "2013-07-08",
+  "standangabe": [
+    {
+      "kommentar": "Der Staatsvertrag ist gem. Art. 9 Satz 2 iVm Bek. v. 8.7.2013 I 2236 am 4.7.2013 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Staatsvertrag über die abschließende Aufteilung des Finanzvermögens gemäß Artikel 22 des Einigungsvertrages zwischen dem Bund, den neuen Ländern und dem Land Berlin (Finanzvermögen-Staatsvertrag)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-03-17",
+  "bjnr": "BJNR000790965",
+  "eli": null,
+  "gii_slug": "nsverbg",
+  "ingested_at": "2026-04-17T15:26:06Z",
+  "jurabk": "NSVerbG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "543381c6d87e35692cc7e43abb3d52a87cdee675aea1c517d364f4d0e72bb04b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nsverbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nsverbg/xml.zip"
+  },
+  "stand_datum": "2005-08-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 17 G v. 12.8.2005 I 2354",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung der Verbindlichkeiten nationalsozialistischer Einrichtungen und der Rechtsverhältnisse an deren Vermögen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

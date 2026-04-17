@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-08-18",
+  "bjnr": "BJNR067620995",
+  "eli": null,
+  "gii_slug": "euschulauslvorrv",
+  "ingested_at": "2026-04-17T15:21:02Z",
+  "jurabk": "EuSchulAuslVorRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1c65e63c20696017f1be4624726fe049596496cfe0372e2c6f02bf117e7814e5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euschulauslvorrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euschulauslvorrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an die Direktoren und Lehrer bei den Europäischen Schulen im Ausland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

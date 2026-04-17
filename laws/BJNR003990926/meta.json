@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1926-07-09",
+  "bjnr": "BJNR003990926",
+  "eli": null,
+  "gii_slug": "pachtkredg",
+  "ingested_at": "2026-04-17T15:26:26Z",
+  "jurabk": "PachtkredG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "314a66afca8a293f94d445d6f5e71e572e275975d5e913a7ceece04dd3fb819c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pachtkredg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pachtkredg/xml.zip"
+  },
+  "stand_datum": "1985-11-08",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 4 Nr. 4 G v. 8.11.1985 I 2065",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Pachtkreditgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

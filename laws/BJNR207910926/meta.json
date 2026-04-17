@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1926-12-14",
+  "bjnr": "BJNR207910926",
+  "eli": null,
+  "gii_slug": "wzegybek",
+  "ingested_at": "2026-04-17T15:30:53Z",
+  "jurabk": "WZEGYBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6b39de253bf2560a811a63b1d198f9666ab61767b6e35844c36a9c4787cadc84"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzegybek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzegybek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Ägypten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

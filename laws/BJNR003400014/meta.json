@@ -1,0 +1,21 @@
+{
+  "amtabk": "PKHFV",
+  "ausfertigung_datum": "2014-01-06",
+  "bjnr": "BJNR003400014",
+  "eli": null,
+  "gii_slug": "pkhfv",
+  "ingested_at": "2026-04-17T15:26:50Z",
+  "jurabk": "PKHFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1192f9e2277f77bf4f90a9c3ff1d589c7a1ee32ec1d5672e508558c4c15455b1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pkhfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pkhfv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Verwendung eines Formulars für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- und Verfahrenskostenhilfe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

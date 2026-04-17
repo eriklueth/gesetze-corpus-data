@@ -1,0 +1,26 @@
+{
+  "amtabk": "DaTraGebV",
+  "ausfertigung_datum": "2014-04-30",
+  "bjnr": "BJNR045800014",
+  "eli": null,
+  "gii_slug": "datragebv",
+  "ingested_at": "2026-04-17T15:19:40Z",
+  "jurabk": "DaTraGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b4976f996178afa85d436327312b92d06d3407fafc662d37413042711407be27"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/datragebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/datragebv/xml.zip"
+  },
+  "stand_datum": "2025-01-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 29.1.2025 I Nr. 27",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von Daten nach den Regelungen der Datentransparenzverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

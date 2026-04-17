@@ -1,0 +1,26 @@
+{
+  "amtabk": "MilchSoPrG",
+  "ausfertigung_datum": "2010-04-14",
+  "bjnr": "BJNR041010010",
+  "eli": null,
+  "gii_slug": "milchsoprg",
+  "ingested_at": "2026-04-17T15:24:51Z",
+  "jurabk": "MilchSoPrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a393c2c0417dcbb8af07adbaa6034f4280274b719394122f8b2267b86e23e1c5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/milchsoprg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/milchsoprg/xml.zip"
+  },
+  "stand_datum": "2022-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 26 G v. 20.12.2022 I 2752",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über ein Sonderprogramm mit Maßnahmen für Milchviehhalter",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

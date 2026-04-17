@@ -1,0 +1,26 @@
+{
+  "amtabk": "OStrV",
+  "ausfertigung_datum": "2010-07-19",
+  "bjnr": "BJNR096010010",
+  "eli": null,
+  "gii_slug": "ostrv",
+  "ingested_at": "2026-04-17T15:26:23Z",
+  "jurabk": "OStrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "30c24457a3683750fdb49281c0a03e6d9cae2e48ad3c0b1164342cdc7d29bc5d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ostrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ostrv/xml.zip"
+  },
+  "stand_datum": "2017-10-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 Abs. 6 V v. 18.10.2017 I 3584",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch künstliche optische Strahlung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

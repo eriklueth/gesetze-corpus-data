@@ -1,0 +1,21 @@
+{
+  "amtabk": "VersAusgl-AnzV",
+  "ausfertigung_datum": "2022-11-23",
+  "bjnr": "BJNR209300022",
+  "eli": null,
+  "gii_slug": "versausgl-anzv",
+  "ingested_at": "2026-04-17T15:30:10Z",
+  "jurabk": "VersAusgl-AnzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "236f80297c5d23e8321f26fffdfefde1c718d1a62a4d1f11b54b9f7a79ad15aa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/versausgl-anzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/versausgl-anzv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Anzeigen von Versicherungsunternehmen und Pensionsfonds zur Ausgliederung von Funktionen und Versicherungstätigkeiten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

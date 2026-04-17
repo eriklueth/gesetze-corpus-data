@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-10-01",
+  "bjnr": "BJNR101120009",
+  "eli": null,
+  "gii_slug": "krimbekabk_usa",
+  "ingested_at": "2026-04-17T15:23:51Z",
+  "jurabk": "KrimBekAbk USA",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9e6efddb16d09f7707a8e4db885bbd3ea2f9041e9be0e7f8e7cc2fa367f3c66d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/krimbekabk_usa/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/krimbekabk_usa/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika über die Vertiefung der Zusammenarbeit bei der Verhinderung und Bekämpfung schwerwiegender Kriminalität",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

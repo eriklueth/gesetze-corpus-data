@@ -1,0 +1,21 @@
+{
+  "amtabk": "LuKrFrühErkV",
+  "ausfertigung_datum": "2024-05-15",
+  "bjnr": "BJNR0A20A0024",
+  "eli": null,
+  "gii_slug": "lukrfr_herkv",
+  "ingested_at": "2026-04-17T15:24:36Z",
+  "jurabk": "LuKrFrühErkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "108a74e00a9dd92a835e8a5c4be332ba30525ded7827b8a6625521e1aab158e5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lukrfr_herkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lukrfr_herkv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Zulässigkeit der Anwendung der Niedrigdosis-Computertomographie zur Früherkennung von Lungenkrebs bei rauchenden Personen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

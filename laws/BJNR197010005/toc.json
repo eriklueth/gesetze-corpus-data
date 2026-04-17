@@ -1,0 +1,3489 @@
+{
+  "bjnr": "BJNR197010005",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Zweck und Ziele des Gesetzes",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001a.md",
+      "heading": "Grundsätze des Strommarktes",
+      "number": "§ 1a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Aufgaben der Energieversorgungsunternehmen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003a.md",
+      "heading": "Verhältnis zum Eisenbahnrecht",
+      "number": "§ 3a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Genehmigung des Netzbetriebs",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004a.md",
+      "heading": "Zertifizierung und Benennung des Betreibers eines Transportnetzes",
+      "number": "§ 4a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004b.md",
+      "heading": "Zertifizierung in Bezug auf Drittstaaten",
+      "number": "§ 4b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004c.md",
+      "heading": "Pflichten der Transportnetzbetreiber",
+      "number": "§ 4c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004d.md",
+      "heading": "Widerruf der Zertifizierung nach § 4a, nachträgliche Versehung mit Auflagen",
+      "number": "§ 4d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004e.md",
+      "heading": "Zertifizierung des Betreibers einer Gasspeicheranlage",
+      "number": "§ 4e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Anzeige der Energiebelieferung von Haushaltskunden; Sicherstellung der wirtschaftlichen Leistungsfähigkeit",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005a.md",
+      "heading": "Speicherungspflichten, Veröffentlichung von Daten",
+      "number": "§ 5a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005b.md",
+      "heading": "Anzeige von Verdachtsfällen, Verschwiegenheitspflichten",
+      "number": "§ 5b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005c.md",
+      "heading": "IT-Sicherheit im Anlagen- und im Netzbetrieb, Festlegungskompetenz",
+      "number": "§ 5c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005d.md",
+      "heading": "Dokumentations-, Melde-, Registrierungspflicht",
+      "number": "§ 5d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005e.md",
+      "heading": "Umsetzungs-, Überwachungs- und Schulungspflicht für Geschäftsleitungen",
+      "number": "§ 5e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005f.md",
+      "heading": "Nachweise und behördliche Anordnungen zu Resilienzpflichten nach dem KRITIS-Dachgesetz; Festlegungskompetenz",
+      "number": "§ 5f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 1 Gemeinsame Vorschriften für Verteilernetzbetreiber und Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Anwendungsbereich und Ziel der Entflechtung",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 1 Gemeinsame Vorschriften für Verteilernetzbetreiber und Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0006a.md",
+      "heading": "Verwendung von Informationen",
+      "number": "§ 6a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 1 Gemeinsame Vorschriften für Verteilernetzbetreiber und Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0006b.md",
+      "heading": "Rechnungslegung und Buchführung",
+      "number": "§ 6b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 1 Gemeinsame Vorschriften für Verteilernetzbetreiber und Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0006c.md",
+      "heading": "Ordnungsgeldvorschriften",
+      "number": "§ 6c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 1 Gemeinsame Vorschriften für Verteilernetzbetreiber und Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0006d.md",
+      "heading": "Betrieb eines Kombinationsnetzbetreibers",
+      "number": "§ 6d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 2 Entflechtung von Verteilernetzbetreibern und Betreibern von Gasspeicheranlagen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Rechtliche Entflechtung von Verteilernetzbetreibern",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 2 Entflechtung von Verteilernetzbetreibern und Betreibern von Gasspeicheranlagen"
+      ],
+      "file": "paragraphs/0007a.md",
+      "heading": "Operationelle Entflechtung von Verteilernetzbetreibern",
+      "number": "§ 7a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 2 Entflechtung von Verteilernetzbetreibern und Betreibern von Gasspeicheranlagen"
+      ],
+      "file": "paragraphs/0007b.md",
+      "heading": "Entflechtung von Gasspeicheranlagenbetreibern und Transportnetzeigentümern",
+      "number": "§ 7b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 2 Entflechtung von Verteilernetzbetreibern und Betreibern von Gasspeicheranlagen"
+      ],
+      "file": "paragraphs/0007c.md",
+      "heading": "Ausnahme für Ladepunkte für Elektromobile; Verordnungsermächtigung",
+      "number": "§ 7c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 3 Besondere Entflechtungsvorgaben für Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Eigentumsrechtliche Entflechtung",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 3 Besondere Entflechtungsvorgaben für Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Unabhängiger Systembetreiber",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 3 Besondere Entflechtungsvorgaben für Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Unabhängiger Transportnetzbetreiber",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 3 Besondere Entflechtungsvorgaben für Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0010a.md",
+      "heading": "Vermögenswerte, Anlagen, Personalausstattung, Unternehmensidentität des Unabhängigen Transportnetzbetreibers",
+      "number": "§ 10a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 3 Besondere Entflechtungsvorgaben für Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0010b.md",
+      "heading": "Rechte und Pflichten im vertikal integrierten Unternehmen",
+      "number": "§ 10b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 3 Besondere Entflechtungsvorgaben für Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0010c.md",
+      "heading": "Unabhängigkeit des Personals und der Unternehmensleitung des Unabhängigen Transportnetzbetreibers",
+      "number": "§ 10c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 3 Besondere Entflechtungsvorgaben für Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0010d.md",
+      "heading": "Aufsichtsrat des Unabhängigen Transportnetzbetreibers",
+      "number": "§ 10d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Entflechtung",
+        "Abschnitt 3 Besondere Entflechtungsvorgaben für Transportnetzbetreiber"
+      ],
+      "file": "paragraphs/0010e.md",
+      "heading": "Gleichbehandlungsprogramm und Gleichbehandlungsbeauftragter des Unabhängigen Transportnetzbetreibers",
+      "number": "§ 10e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Betrieb von Energieversorgungsnetzen; Verordnungsermächtigung",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0011a.md",
+      "heading": "Ausschreibung von Energiespeicheranlagen, Festlegungskompetenz",
+      "number": "§ 11a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0011b.md",
+      "heading": "Ausnahme für Energiespeicheranlagen, Festlegungskompetenz",
+      "number": "§ 11b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0011c.md",
+      "heading": "Überragendes öffentliches Interesse für Energiespeicheranlagen",
+      "number": "§ 11c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Aufgaben der Betreiber von Elektrizitätsversorgungsnetzen, Verordnungsermächtigung",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012a.md",
+      "heading": "Szenariorahmen für die Netzentwicklungsplanung",
+      "number": "§ 12a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012b.md",
+      "heading": "Erstellung des Netzentwicklungsplans durch die Betreiber von Übertragungsnetzen",
+      "number": "§ 12b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012c.md",
+      "heading": "Prüfung und Bestätigung des Netzentwicklungsplans durch die Regulierungsbehörde",
+      "number": "§ 12c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012d.md",
+      "heading": "Monitoring und Controlling der Umsetzung des Netzentwicklungsplans",
+      "number": "§ 12d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012e.md",
+      "heading": "Bundesbedarfsplan",
+      "number": "§ 12e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012f.md",
+      "heading": "Herausgabe von Daten",
+      "number": "§ 12f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012g.md",
+      "heading": "(weggefallen)",
+      "number": "§ 12g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012h.md",
+      "heading": "Marktgestützte Beschaffung nicht frequenzgebundener Systemdienstleistungen",
+      "number": "§ 12h",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012i.md",
+      "heading": "Systemstabilitätsbericht, Monitoring der Systemstabilität",
+      "number": "§ 12i",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0012j.md",
+      "heading": "Infrastrukturgebieteplan im Übertragungsnetz",
+      "number": "§ 12j",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Systemverantwortung der Betreiber von Übertragungsnetzen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013a.md",
+      "heading": "Erzeugungsanpassung und ihr bilanzieller und finanzieller Ausgleich",
+      "number": "§ 13a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013b.md",
+      "heading": "Stilllegungen von Anlagen",
+      "number": "§ 13b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013c.md",
+      "heading": "Vergütung bei geplanten Stilllegungen von Anlagen",
+      "number": "§ 13c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013d.md",
+      "heading": "Netzreserve",
+      "number": "§ 13d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013e.md",
+      "heading": "Kapazitätsreserve",
+      "number": "§ 13e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013f.md",
+      "heading": "Systemrelevante Gaskraftwerke",
+      "number": "§ 13f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013g.md",
+      "heading": "Stilllegung von Braunkohlekraftwerken",
+      "number": "§ 13g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013h.md",
+      "heading": "Verordnungsermächtigung zur Kapazitätsreserve",
+      "number": "§ 13h",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013i.md",
+      "heading": "Weitere Verordnungsermächtigungen",
+      "number": "§ 13i",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013j.md",
+      "heading": "Festlegungskompetenzen",
+      "number": "§ 13j",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013k.md",
+      "heading": "Nutzen statt Abregeln",
+      "number": "§ 13k",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0013l.md",
+      "heading": "Umrüstung einer Erzeugungsanlage zu einem Betriebsmittel zur Bereitstellung von Blind- und Kurzschlussleistung sowie von Trägheit der lokalen Netzstabilität; Betrieb des Betriebsmittels",
+      "number": "§ 13l",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Aufgaben der Betreiber von Elektrizitätsverteilernetzen; Festlegungskompetenz, Evaluation",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0014a.md",
+      "heading": "Netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen; Festlegungskompetenzen",
+      "number": "§ 14a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0014b.md",
+      "heading": "Steuerung von vertraglichen Abschaltvereinbarungen, Verordnungsermächtigung",
+      "number": "§ 14b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0014c.md",
+      "heading": "Marktgestützte Beschaffung von Flexibilitätsdienstleistungen im Elektrizitätsverteilernetz; Festlegungskompetenz",
+      "number": "§ 14c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0014d.md",
+      "heading": "Planung und besondere Bedeutung des Verteilernetzausbaus; Festlegungskompetenz; Verordnungsermächtigung",
+      "number": "§ 14d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0014e.md",
+      "heading": "Gemeinsame Internetplattform; Festlegungskompetenz",
+      "number": "§ 14e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0014f.md",
+      "heading": "Infrastrukturgebieteplan im Elektrizitätsverteilernetz",
+      "number": "§ 14f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Aufgaben der Betreiber von Fernleitungsnetzen",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0015a.md",
+      "heading": "Netzentwicklungsplan Gas und Wasserstoff; Koordinierungsstelle; Verordnungsermächtigung; Festlegungskompetenz",
+      "number": "§ 15a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0015b.md",
+      "heading": "Szenariorahmen des Netzentwicklungsplans Gas und Wasserstoff; Festlegungskompetenz",
+      "number": "§ 15b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0015c.md",
+      "heading": "Erstellung des Netzentwicklungsplans Gas und Wasserstoff",
+      "number": "§ 15c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0015d.md",
+      "heading": "Prüfung und Bestätigung des Netzentwicklungsplans Gas und Wasserstoff durch die Regulierungsbehörde",
+      "number": "§ 15d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0015e.md",
+      "heading": "Herausgabe von Daten",
+      "number": "§ 15e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Systemverantwortung der Betreiber von Fernleitungsnetzen",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 1 Aufgaben der Netzbetreiber"
+      ],
+      "file": "paragraphs/0016a.md",
+      "heading": "Aufgaben der Betreiber von Gasverteilernetzen",
+      "number": "§ 16a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Netzanschluss, Verordnungsermächtigung; Festlegungskompetenz",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017a.md",
+      "heading": "(weggefallen)",
+      "number": "§ 17a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017b.md",
+      "heading": "(weggefallen)",
+      "number": "§ 17b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017c.md",
+      "heading": "(weggefallen)",
+      "number": "§ 17c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017d.md",
+      "heading": "Umsetzung der Netzentwicklungspläne und des Flächenentwicklungsplans",
+      "number": "§ 17d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017e.md",
+      "heading": "Entschädigung bei Störungen oder Verzögerung der Anbindung von Offshore-Anlagen",
+      "number": "§ 17e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017f.md",
+      "heading": "Belastungsausgleich",
+      "number": "§ 17f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017g.md",
+      "heading": "Haftung für Sachschäden an Windenergieanlagen auf See",
+      "number": "§ 17g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017h.md",
+      "heading": "Abschluss von Versicherungen",
+      "number": "§ 17h",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017i.md",
+      "heading": "Ermittlung der umlagefähigen Netzkosten von Offshore-Anbindungsleitungen",
+      "number": "§ 17i",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017j.md",
+      "heading": "Verordnungsermächtigung",
+      "number": "§ 17j",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0017k.md",
+      "heading": "Erstattung von Entschädigungszahlungen bei Störungen oder Verzögerungen der Errichtung internationaler Offshore-Anbindungsleitungen",
+      "number": "§ 17k",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Allgemeine Anschlusspflicht",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Technische Vorschriften",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 2 Netzanschluss"
+      ],
+      "file": "paragraphs/0019a.md",
+      "heading": "Umstellung der Gasqualität; Verordnungsermächtigung und Subdelegation",
+      "number": "§ 19a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Zugang zu den Energieversorgungsnetzen; Festlegungskompetenz",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0020a.md",
+      "heading": "Lieferantenwechsel",
+      "number": "§ 20a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0020b.md",
+      "heading": "Gemeinsame Internetplattform für die Abwicklung des Netzzugangs; Festlegungskompetenz",
+      "number": "§ 20b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Bedingungen und Entgelte für den Netzzugang; Festlegungskompetenz",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0021a.md",
+      "heading": "Regulierungsvorgaben für Anreize für eine effiziente Leistungserbringung; Festlegungskompetenz",
+      "number": "§ 21a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0021b.md",
+      "heading": "Sondervorschriften für regulatorische Ansprüche und Verpflichtungen der Transportnetzbetreiber; Festlegungskompetenz",
+      "number": "§ 21b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0021c.md",
+      "heading": "(weggefallen)",
+      "number": "§ 21c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0021d.md",
+      "heading": "(weggefallen)",
+      "number": "§ 21d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0021e.md",
+      "heading": "(weggefallen)",
+      "number": "§ 21e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0021f.md",
+      "heading": "(weggefallen)",
+      "number": "§ 21f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0021g.md",
+      "heading": "(weggefallen)",
+      "number": "§ 21g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0021h.md",
+      "heading": "(weggefallen)",
+      "number": "§ 21h",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0021i.md",
+      "heading": "(weggefallen)",
+      "number": "§ 21i",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Beschaffung der Energie zur Erbringung von Ausgleichsleistungen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Erbringung von Ausgleichsleistungen",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0023a.md",
+      "heading": "Genehmigung der Entgelte für den Netzzugang",
+      "number": "§ 23a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0023b.md",
+      "heading": "Veröffentlichungen der Regulierungsbehörde; Festlegungskompetenz",
+      "number": "§ 23b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0023c.md",
+      "heading": "Veröffentlichungspflichten der Netzbetreiber",
+      "number": "§ 23c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0023d.md",
+      "heading": "Verordnungsermächtigung zur Transparenz der Kosten und Entgelte für den Zugang zu Energieversorgungsnetzen",
+      "number": "§ 23d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Bundeseinheitliche Übertragungsnetzentgelte",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0024a.md",
+      "heading": "Bundeszuschüsse; Festlegungskompetenz",
+      "number": "§ 24a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0024b.md",
+      "heading": "Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten",
+      "number": "§ 24b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0024c.md",
+      "heading": "Weiterer Zuschuss zur anteiligen Finanzierung der Übertragungsnetzkosten; Zahlungsmodalitäten; Festlegungskompetenz",
+      "number": "§ 24c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Ausnahmen vom Zugang zu den Gasversorgungsnetzen im Zusammenhang mit unbedingten Zahlungsverpflichtungen; Verordnungsermächtigung",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Zugang zu LNG-Anlagen, vorgelagerten Rohrleitungsnetzen und Gasspeicheranlagen im Bereich der leitungsgebundenen Versorgung mit Erdgas",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Zugang zu den vorgelagerten Rohrleitungsnetzen; Verordnungsermächtigung",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Zugang zu Gasspeicheranlagen; Verordnungsermächtigung",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0028a.md",
+      "heading": "Neue Infrastrukturen",
+      "number": "§ 28a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0028b.md",
+      "heading": "Bestandsleitungen zwischen Deutschland und einem Drittstaat",
+      "number": "§ 28b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3 Netzzugang"
+      ],
+      "file": "paragraphs/0028c.md",
+      "heading": "Technische Vereinbarungen über den Betrieb von Gasverbindungsleitungen mit Drittstaaten",
+      "number": "§ 28c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3a Sondervorschriften für selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen"
+      ],
+      "file": "paragraphs/0028d.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 28d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3a Sondervorschriften für selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen"
+      ],
+      "file": "paragraphs/0028e.md",
+      "heading": "Grundsätze der Netzkostenermittlung",
+      "number": "§ 28e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3a Sondervorschriften für selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen"
+      ],
+      "file": "paragraphs/0028f.md",
+      "heading": "Feststellung der Netzkosten durch die Bundesnetzagentur",
+      "number": "§ 28f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3a Sondervorschriften für selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen"
+      ],
+      "file": "paragraphs/0028g.md",
+      "heading": "Zahlungsanspruch zur Deckung der Netzkosten",
+      "number": "§ 28g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3a Sondervorschriften für selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen"
+      ],
+      "file": "paragraphs/0028h.md",
+      "heading": "Anspruch auf Herausgabe von Engpasserlösen",
+      "number": "§ 28h",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3a Sondervorschriften für selbstständige Betreiber von grenzüberschreitenden Elektrizitätsverbindungsleitungen"
+      ],
+      "file": "paragraphs/0028i.md",
+      "heading": "(weggefallen)",
+      "number": "§ 28i",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3b Regulierung von Wasserstoffnetzen"
+      ],
+      "file": "paragraphs/0028j.md",
+      "heading": "Anwendungsbereich der Regulierung von Wasserstoffnetzen",
+      "number": "§ 28j",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3b Regulierung von Wasserstoffnetzen"
+      ],
+      "file": "paragraphs/0028k.md",
+      "heading": "Rechnungslegung und Buchführung",
+      "number": "§ 28k",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3b Regulierung von Wasserstoffnetzen"
+      ],
+      "file": "paragraphs/0028l.md",
+      "heading": "Ordnungsgeldvorschriften",
+      "number": "§ 28l",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3b Regulierung von Wasserstoffnetzen"
+      ],
+      "file": "paragraphs/0028m.md",
+      "heading": "Entflechtung",
+      "number": "§ 28m",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3b Regulierung von Wasserstoffnetzen"
+      ],
+      "file": "paragraphs/0028n.md",
+      "heading": "Anschluss und Zugang zu den Wasserstoffnetzen; Verordnungsermächtigung; Festlegungskompetenz",
+      "number": "§ 28n",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3b Regulierung von Wasserstoffnetzen"
+      ],
+      "file": "paragraphs/0028o.md",
+      "heading": "Bedingungen und Entgelte für den Netzzugang; Verordnungsermächtigung",
+      "number": "§ 28o",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3b Regulierung von Wasserstoffnetzen"
+      ],
+      "file": "paragraphs/0028p.md",
+      "heading": "Ad-hoc Prüfung der Bedarfsgerechtigkeit von Wasserstoffnetzinfrastrukturen",
+      "number": "§ 28p",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3c Regelungen zum Wasserstoff-Kernnetz"
+      ],
+      "file": "paragraphs/0028q.md",
+      "heading": "Wasserstoff-Kernnetz",
+      "number": "§ 28q",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3c Regelungen zum Wasserstoff-Kernnetz"
+      ],
+      "file": "paragraphs/0028r.md",
+      "heading": "Grundsätze der Finanzierung des Wasserstoff-Kernnetzes und der Entgeltbildung; Abweichungsbefugnis der Bundesnetzagentur und Kündigungsrecht; Festlegungskompetenz",
+      "number": "§ 28r",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 3c Regelungen zum Wasserstoff-Kernnetz"
+      ],
+      "file": "paragraphs/0028s.md",
+      "heading": "Ausgleich des Amortisationskontos durch die Bundesrepublik Deutschland und Selbstbehalt der Wasserstoff-Kernnetzbetreiber",
+      "number": "§ 28s",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Verfahren zur Festlegung und Genehmigung; Verordnungsermächtigung",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Missbräuchliches Verhalten eines Netzbetreibers",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Besondere Missbrauchsverfahren der Regulierungsbehörde",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Unterlassungsanspruch, Schadensersatzpflicht",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Vorteilsabschöpfung durch die Regulierungsbehörde",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "(aufgehoben)",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Regulierung des Netzbetriebs",
+        "Abschnitt 4 Befugnisse der Regulierungsbehörde, Sanktionen"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Monitoring und ergänzende Informationen",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit"
+      ],
+      "file": "paragraphs/0035a.md",
+      "heading": "Allgemeines",
+      "number": "§ 35a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit"
+      ],
+      "file": "paragraphs/0035b.md",
+      "heading": "Füllstandsvorgaben; Bereitstellung ungenutzter Speicherkapazitäten; Verordnungsermächtigung",
+      "number": "§ 35b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit"
+      ],
+      "file": "paragraphs/0035c.md",
+      "heading": "Kontrahierung von Befüllungsinstrumenten; ergänzende Maßnahmen zur Gewährleistung der Versorgungssicherheit",
+      "number": "§ 35c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit"
+      ],
+      "file": "paragraphs/0035d.md",
+      "heading": "Freigabeentscheidung",
+      "number": "§ 35d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit"
+      ],
+      "file": "paragraphs/0035e.md",
+      "heading": "Umlage der Kosten des Marktgebietsverantwortlichen bis zum Ablauf des 31. Dezember 2025; Finanzierung",
+      "number": "§ 35e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit"
+      ],
+      "file": "paragraphs/0035f.md",
+      "heading": "Erstattung der Kosten des Marktgebietsverantwortlichen ab dem 1. Januar 2026 durch Zahlungen der Bundesrepublik Deutschland",
+      "number": "§ 35f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit"
+      ],
+      "file": "paragraphs/0035g.md",
+      "heading": "Übergangsregelung für die Umstellung des Umlageverfahrens; Einmalzahlung der Bundesrepublik Deutschland; Pflicht zur Weitergabe der Entlastung",
+      "number": "§ 35g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit"
+      ],
+      "file": "paragraphs/0035h.md",
+      "heading": "Verordnungsermächtigung",
+      "number": "§ 35h",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit"
+      ],
+      "file": "paragraphs/0035i.md",
+      "heading": "Anwendungsbestimmung",
+      "number": "§ 35i",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3a Füllstandsvorgaben für Gasspeicheranlagen und Gewährleistung der Versorgungssicherheit"
+      ],
+      "file": "paragraphs/0035j.md",
+      "heading": "Außerbetriebnahme und Stilllegung von Gasspeichern",
+      "number": "§ 35j",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Grundversorgungspflicht",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Ausnahmen von der Grundversorgungspflicht; Verordnungsermächtigung",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Ersatzversorgung mit Energie",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0038a.md",
+      "heading": "Übergangsversorgung in Mittelspannung und Mitteldruck sowie in der Umspannung von Niederspannung zu Mittelspannung",
+      "number": "§ 38a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Allgemeine Preise und Versorgungsbedingungen; Verordnungsermächtigung",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Inhalt von Energierechnungen; Festlegungskompetenz",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0040a.md",
+      "heading": "Verbrauchsermittlung für Energierechnungen",
+      "number": "§ 40a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0040b.md",
+      "heading": "Rechnungs- und Informationszeiträume",
+      "number": "§ 40b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0040c.md",
+      "heading": "Zeitpunkt und Fälligkeit von Energierechnungen; Festlegungskompetenz",
+      "number": "§ 40c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Energielieferverträge mit Letztverbrauchern",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0041a.md",
+      "heading": "Lastvariable, tageszeitabhängige oder dynamische und sonstige Stromtarife sowie Festpreisverträge",
+      "number": "§ 41a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0041b.md",
+      "heading": "Energielieferverträge mit Haushaltskunden außerhalb der Grundversorgung; Verordnungsermächtigung",
+      "number": "§ 41b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0041c.md",
+      "heading": "Vergleichsinstrumente bei Stromlieferungen",
+      "number": "§ 41c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0041d.md",
+      "heading": "Erbringung von Dienstleistungen außerhalb bestehender Liefer- oder Bezugsverträge; Festlegungskompetenz",
+      "number": "§ 41d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0041e.md",
+      "heading": "Verträge zwischen Aggregatoren und Betreibern einer Erzeugungsanlage oder Letztverbrauchern",
+      "number": "§ 41e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0041f.md",
+      "heading": "Versorgungsunterbrechungen wegen Nichtzahlung bei Haushaltskunden",
+      "number": "§ 41f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0041g.md",
+      "heading": "Ergänzende Regelungen zu Versorgungsunterbrechungen wegen Nichtzahlung bei Haushaltskunden in der Grundversorgung mit Strom oder Gas",
+      "number": "§ 41g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Stromkennzeichnung, Transparenz der Stromrechnungen, Verordnungsermächtigung",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0042a.md",
+      "heading": "Mieterstromverträge",
+      "number": "§ 42a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0042b.md",
+      "heading": "Gemeinschaftliche Gebäudeversorgung",
+      "number": "§ 42b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Energielieferung an Letztverbraucher"
+      ],
+      "file": "paragraphs/0042c.md",
+      "heading": "Gemeinsame Nutzung elektrischer Energie aus Anlagen zur Erzeugung von Elektrizität aus erneuerbaren Energien",
+      "number": "§ 42c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Erfordernis der Planfeststellung",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043a.md",
+      "heading": "Anhörungsverfahren",
+      "number": "§ 43a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043b.md",
+      "heading": "Planfeststellungsbeschluss, Plangenehmigung",
+      "number": "§ 43b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043c.md",
+      "heading": "Rechtswirkungen der Planfeststellung und Plangenehmigung",
+      "number": "§ 43c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043d.md",
+      "heading": "Planänderung vor Fertigstellung des Vorhabens",
+      "number": "§ 43d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043e.md",
+      "heading": "Rechtsbehelfe",
+      "number": "§ 43e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043f.md",
+      "heading": "Änderungen im Anzeigeverfahren",
+      "number": "§ 43f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043g.md",
+      "heading": "Projektmanager",
+      "number": "§ 43g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043h.md",
+      "heading": "Ausbau des Hochspannungsnetzes",
+      "number": "§ 43h",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043i.md",
+      "heading": "Überwachung",
+      "number": "§ 43i",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043j.md",
+      "heading": "Leerrohre für Hochspannungsleitungen",
+      "number": "§ 43j",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043k.md",
+      "heading": "Zurverfügungstellung von Geodaten",
+      "number": "§ 43k",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043l.md",
+      "heading": "Regelungen zum Auf- und Ausbau von Wasserstoffnetzen",
+      "number": "§ 43l",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043m.md",
+      "heading": "Anwendbarkeit von Artikel 6 der Verordnung (EU) 2022/2577",
+      "number": "§ 43m",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043n.md",
+      "heading": "Vorhaben in Infrastrukturgebieten",
+      "number": "§ 43n",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0043o.md",
+      "heading": "Vergleich zur ursprünglichen Netzinfrastruktur",
+      "number": "§ 43o",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Vorarbeiten",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0044a.md",
+      "heading": "Veränderungssperre, Vorkaufsrecht",
+      "number": "§ 44a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0044b.md",
+      "heading": "Vorzeitige Besitzeinweisung",
+      "number": "§ 44b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0044c.md",
+      "heading": "Zulassung des vorzeitigen Baubeginns",
+      "number": "§ 44c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Enteignung",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0045a.md",
+      "heading": "Entschädigungsverfahren",
+      "number": "§ 45a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0045b.md",
+      "heading": "Parallelführung von Planfeststellungs- und Enteignungsverfahren",
+      "number": "§ 45b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Wegenutzungsverträge",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0046a.md",
+      "heading": "Auskunftsanspruch der Gemeinde",
+      "number": "§ 46a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Rügeobliegenheit, Präklusion",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Konzessionsabgaben",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Planfeststellung, Wegenutzung"
+      ],
+      "file": "paragraphs/0048a.md",
+      "heading": "Duldungspflicht bei Transporten",
+      "number": "§ 48a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Anforderungen an Energieanlagen; Verordnungsermächtigung; Festlegungskompetenz",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0049a.md",
+      "heading": "Elektromagnetische Beeinflussung",
+      "number": "§ 49a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0049b.md",
+      "heading": "Temporäre Höherauslastung",
+      "number": "§ 49b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0049c.md",
+      "heading": "Beschleunigte Umsetzung von Schutz- und Sicherungsmaßnahmen",
+      "number": "§ 49c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0049d.md",
+      "heading": "Register zur Erfassung und Überwachung von Energieanlagen sowie von Energieanlagenteilen; Verordnungsermächtigung",
+      "number": "§ 49d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Verordnungsermächtigung zur Vorratshaltung zur Sicherung der Energieversorgung",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050a.md",
+      "heading": "(weggefallen)",
+      "number": "§ 50a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050b.md",
+      "heading": "(weggefallen)",
+      "number": "§ 50b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050c.md",
+      "heading": "(weggefallen)",
+      "number": "§ 50c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050d.md",
+      "heading": "Maßnahmen zur Ausweitung des Stromerzeugungsangebots, befristete Versorgungsreserve Braunkohle; Verordnungsermächtigung",
+      "number": "§ 50d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050e.md",
+      "heading": "(weggefallen)",
+      "number": "§ 50e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050f.md",
+      "heading": "(weggefallen)",
+      "number": "§ 50f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050g.md",
+      "heading": "(weggefallen)",
+      "number": "§ 50g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050h.md",
+      "heading": "(weggefallen)",
+      "number": "§ 50h",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050i.md",
+      "heading": "(weggefallen)",
+      "number": "§ 50i",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0050j.md",
+      "heading": "(weggefallen)",
+      "number": "§ 50j",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Monitoring der Versorgungssicherheit",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0051a.md",
+      "heading": "Monitoring des Lastmanagements",
+      "number": "§ 51a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Meldepflichten bei Versorgungsstörungen",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Ausschreibung neuer Erzeugungskapazitäten im Elektrizitätsbereich",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0053a.md",
+      "heading": "Sicherstellung der Versorgung von Haushaltskunden mit Erdgas",
+      "number": "§ 53a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Sicherheit und Zuverlässigkeit der Energieversorgung"
+      ],
+      "file": "paragraphs/0053b.md",
+      "heading": "Transport von Großtransformatoren auf Schienenwegen; Verordnungsermächtigung",
+      "number": "§ 53b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Allgemeine Zuständigkeit",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0054a.md",
+      "heading": "Zuständigkeiten nach der Verordnung (EU) 2017/1938; Verordnungsermächtigung",
+      "number": "§ 54a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0054b.md",
+      "heading": "Zuständigkeiten gemäß der Verordnung (EU) 2019/941, Verordnungsermächtigung",
+      "number": "§ 54b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0054c.md",
+      "heading": "Zuständigkeiten gemäß der Delegierten Verordnung (EU) 2024/1366; Verordnungsermächtigung",
+      "number": "§ 54c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Bundesnetzagentur, Landesregulierungsbehörde und nach Landesrecht zuständige Behörde",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Tätigwerden der Bundesnetzagentur beim Vollzug des europäischen Rechts",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Zusammenarbeit mit Regulierungsbehörden anderer Mitgliedstaaten, der Agentur für die Zusammenarbeit der Energieregulierungsbehörden und der Europäischen Kommission",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0057a.md",
+      "heading": "Überprüfungsverfahren",
+      "number": "§ 57a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0057b.md",
+      "heading": "Zuständigkeit für regionale Koordinierungszentren; Festlegungskompetenz",
+      "number": "§ 57b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Zusammenarbeit mit den Kartellbehörden",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0058a.md",
+      "heading": "Zusammenarbeit zur Durchführung der Verordnung (EU) Nr. 1227/2011",
+      "number": "§ 58a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0058b.md",
+      "heading": "Beteiligung der Bundesnetzagentur und Mitteilungen in Strafsachen",
+      "number": "§ 58b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 2 Bundesbehörden"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Organisation",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 2 Bundesbehörden"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Aufgaben des Beirates",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 2 Bundesbehörden"
+      ],
+      "file": "paragraphs/0060a.md",
+      "heading": "Aufgaben des Länderausschusses",
+      "number": "§ 60a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 2 Bundesbehörden"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Veröffentlichung allgemeiner Weisungen des Bundesministeriums für Wirtschaft und Energie",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 2 Bundesbehörden"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Gutachten der Monopolkommission",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 2 Bundesbehörden"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Berichterstattung",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 2 Bundesbehörden"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Wissenschaftliche Beratung",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 7 Behörden",
+        "Abschnitt 2 Bundesbehörden"
+      ],
+      "file": "paragraphs/0064a.md",
+      "heading": "Zusammenarbeit zwischen den Regulierungsbehörden",
+      "number": "§ 64a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Aufsichtsmaßnahmen",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Einleitung des Verfahrens, Beteiligte",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0066a.md",
+      "heading": "Vorabentscheidung über Zuständigkeit",
+      "number": "§ 66a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Anhörung, Akteneinsicht, mündliche Verhandlung",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Ermittlungen",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0068a.md",
+      "heading": "Zusammenarbeit mit der Staatsanwaltschaft",
+      "number": "§ 68a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Auskunftsverlangen, Betretungsrecht",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Beschlagnahme",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Betriebs- oder Geschäftsgeheimnisse",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0071a.md",
+      "heading": "Netzentgelte vorgelagerter Netzebenen",
+      "number": "§ 71a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "Vorläufige Anordnungen",
+      "number": "§ 72",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0073.md",
+      "heading": "Verfahrensabschluss, Begründung der Entscheidung, Zustellung",
+      "number": "§ 73",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 1 Behördliches Verfahren"
+      ],
+      "file": "paragraphs/0074.md",
+      "heading": "Veröffentlichung von Verfahrenseinleitungen und Entscheidungen",
+      "number": "§ 74",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0075.md",
+      "heading": "Zulässigkeit, Zuständigkeit",
+      "number": "§ 75",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0076.md",
+      "heading": "Aufschiebende Wirkung",
+      "number": "§ 76",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0077.md",
+      "heading": "Anordnung der sofortigen Vollziehung und der aufschiebenden Wirkung",
+      "number": "§ 77",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0078.md",
+      "heading": "Frist und Form",
+      "number": "§ 78",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0078a.md",
+      "heading": "Musterverfahren",
+      "number": "§ 78a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0079.md",
+      "heading": "Beteiligte am Beschwerdeverfahren",
+      "number": "§ 79",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0080.md",
+      "heading": "Anwaltszwang",
+      "number": "§ 80",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0081.md",
+      "heading": "Mündliche Verhandlung",
+      "number": "§ 81",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0082.md",
+      "heading": "Untersuchungsgrundsatz",
+      "number": "§ 82",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0083.md",
+      "heading": "Beschwerdeentscheidung",
+      "number": "§ 83",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0083a.md",
+      "heading": "Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör",
+      "number": "§ 83a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0084.md",
+      "heading": "Akteneinsicht",
+      "number": "§ 84",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0085.md",
+      "heading": "Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung",
+      "number": "§ 85",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 2 Beschwerde"
+      ],
+      "file": "paragraphs/0085a.md",
+      "heading": "Entsprechende Anwendung auf fachlich qualifizierte Stellen",
+      "number": "§ 85a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 3 Rechtsbeschwerde"
+      ],
+      "file": "paragraphs/0086.md",
+      "heading": "Rechtsbeschwerdegründe",
+      "number": "§ 86",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 3 Rechtsbeschwerde"
+      ],
+      "file": "paragraphs/0087.md",
+      "heading": "Nichtzulassungsbeschwerde",
+      "number": "§ 87",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 3 Rechtsbeschwerde"
+      ],
+      "file": "paragraphs/0088.md",
+      "heading": "Beschwerdeberechtigte, Form und Frist",
+      "number": "§ 88",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 4 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0089.md",
+      "heading": "Beteiligtenfähigkeit",
+      "number": "§ 89",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 4 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0090.md",
+      "heading": "Kostentragung und -festsetzung",
+      "number": "§ 90",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 4 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0090a.md",
+      "heading": "(weggefallen)",
+      "number": "§ 90a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 4 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0091.md",
+      "heading": "Gebührenpflichtige Handlungen; Verordnungsermächtigung",
+      "number": "§ 91",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 4 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0092.md",
+      "heading": "(weggefallen)",
+      "number": "§ 92",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 4 Gemeinsame Bestimmungen"
+      ],
+      "file": "paragraphs/0093.md",
+      "heading": "Mitteilung der Bundesnetzagentur",
+      "number": "§ 93",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 5 Sanktionen, Bußgeldverfahren"
+      ],
+      "file": "paragraphs/0094.md",
+      "heading": "Zwangsgeld",
+      "number": "§ 94",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 5 Sanktionen, Bußgeldverfahren"
+      ],
+      "file": "paragraphs/0095.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 95",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 5 Sanktionen, Bußgeldverfahren"
+      ],
+      "file": "paragraphs/0095a.md",
+      "heading": "Strafvorschriften",
+      "number": "§ 95a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 5 Sanktionen, Bußgeldverfahren"
+      ],
+      "file": "paragraphs/0095b.md",
+      "heading": "Strafvorschriften",
+      "number": "§ 95b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 5 Sanktionen, Bußgeldverfahren"
+      ],
+      "file": "paragraphs/0096.md",
+      "heading": "Zuständigkeit für Verfahren wegen der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung",
+      "number": "§ 96",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 5 Sanktionen, Bußgeldverfahren"
+      ],
+      "file": "paragraphs/0097.md",
+      "heading": "Zuständigkeiten im gerichtlichen Bußgeldverfahren",
+      "number": "§ 97",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 5 Sanktionen, Bußgeldverfahren"
+      ],
+      "file": "paragraphs/0098.md",
+      "heading": "Zuständigkeit des Oberlandesgerichts im gerichtlichen Verfahren",
+      "number": "§ 98",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 5 Sanktionen, Bußgeldverfahren"
+      ],
+      "file": "paragraphs/0099.md",
+      "heading": "Rechtsbeschwerde zum Bundesgerichtshof",
+      "number": "§ 99",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 5 Sanktionen, Bußgeldverfahren"
+      ],
+      "file": "paragraphs/0100.md",
+      "heading": "Wiederaufnahmeverfahren gegen Bußgeldbescheid",
+      "number": "§ 100",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 5 Sanktionen, Bußgeldverfahren"
+      ],
+      "file": "paragraphs/0101.md",
+      "heading": "Gerichtliche Entscheidungen bei der Vollstreckung",
+      "number": "§ 101",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 6 Bürgerliche Rechtsstreitigkeiten"
+      ],
+      "file": "paragraphs/0102.md",
+      "heading": "Ausschließliche Zuständigkeit der Landgerichte",
+      "number": "§ 102",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 6 Bürgerliche Rechtsstreitigkeiten"
+      ],
+      "file": "paragraphs/0103.md",
+      "heading": "Zuständigkeit eines Landgerichts für mehrere Gerichtsbezirke",
+      "number": "§ 103",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 6 Bürgerliche Rechtsstreitigkeiten"
+      ],
+      "file": "paragraphs/0104.md",
+      "heading": "Benachrichtigung und Beteiligung der Regulierungsbehörde",
+      "number": "§ 104",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 6 Bürgerliche Rechtsstreitigkeiten"
+      ],
+      "file": "paragraphs/0105.md",
+      "heading": "Streitwertanpassung",
+      "number": "§ 105",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 7 Gemeinsame Bestimmungen für das gerichtliche Verfahren"
+      ],
+      "file": "paragraphs/0106.md",
+      "heading": "Zuständiger Senat beim Oberlandesgericht",
+      "number": "§ 106",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 7 Gemeinsame Bestimmungen für das gerichtliche Verfahren"
+      ],
+      "file": "paragraphs/0107.md",
+      "heading": "Zuständiger Senat beim Bundesgerichtshof",
+      "number": "§ 107",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 8 Verfahren und Rechtsschutz bei überlangen Gerichtsverfahren",
+        "Abschnitt 7 Gemeinsame Bestimmungen für das gerichtliche Verfahren"
+      ],
+      "file": "paragraphs/0108.md",
+      "heading": "Ausschließliche Zuständigkeit",
+      "number": "§ 108",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9 Sonstige Vorschriften"
+      ],
+      "file": "paragraphs/0109.md",
+      "heading": "Unternehmen der öffentlichen Hand, Geltungsbereich",
+      "number": "§ 109",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9 Sonstige Vorschriften"
+      ],
+      "file": "paragraphs/0110.md",
+      "heading": "Geschlossene Verteilernetze",
+      "number": "§ 110",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9 Sonstige Vorschriften"
+      ],
+      "file": "paragraphs/0110a.md",
+      "heading": "Ausnahmeregelung nach Artikel 6 der Verordnung (EU) 2024/1991",
+      "number": "§ 110a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9 Sonstige Vorschriften"
+      ],
+      "file": "paragraphs/0111.md",
+      "heading": "Verhältnis zum Gesetz gegen Wettbewerbsbeschränkungen",
+      "number": "§ 111",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9 Sonstige Vorschriften"
+      ],
+      "file": "paragraphs/0111a.md",
+      "heading": "Verbraucherbeschwerden",
+      "number": "§ 111a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9 Sonstige Vorschriften"
+      ],
+      "file": "paragraphs/0111b.md",
+      "heading": "Schlichtungsstelle, Verordnungsermächtigung",
+      "number": "§ 111b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9 Sonstige Vorschriften"
+      ],
+      "file": "paragraphs/0111c.md",
+      "heading": "Zusammentreffen von Schlichtungsverfahren und Missbrauchs- oder Aufsichtsverfahren",
+      "number": "§ 111c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9a Transparenz"
+      ],
+      "file": "paragraphs/0111d.md",
+      "heading": "Einrichtung einer nationalen Informationsplattform",
+      "number": "§ 111d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9a Transparenz"
+      ],
+      "file": "paragraphs/0111e.md",
+      "heading": "Marktstammdatenregister",
+      "number": "§ 111e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9a Transparenz"
+      ],
+      "file": "paragraphs/0111f.md",
+      "heading": "Verordnungsermächtigung zum Marktstammdatenregister",
+      "number": "§ 111f",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 9a Transparenz"
+      ],
+      "file": "paragraphs/0111g.md",
+      "heading": "Festlegungskompetenz, Datenerhebung und -verarbeitung; Einrichtung und Betrieb einer nationalen Transparenzplattform",
+      "number": "§ 111g",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0112.md",
+      "heading": "(weggefallen)",
+      "number": "§ 112",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0112a.md",
+      "heading": "(weggefallen)",
+      "number": "§ 112a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0112b.md",
+      "heading": "Berichte des Bundesministeriums für Wirtschaft und Energie sowie der Bundesnetzagentur zur Evaluierung der Wasserstoffnetzregulierung",
+      "number": "§ 112b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0113.md",
+      "heading": "Laufende Wegenutzungsverträge",
+      "number": "§ 113",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0113a.md",
+      "heading": "Überleitung von Wegenutzungsrechten auf Wasserstoffleitungen",
+      "number": "§ 113a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0113b.md",
+      "heading": "Umstellung von Erdgasleitungen im Netzentwicklungsplan Gas und Wasserstoff",
+      "number": "§ 113b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0113c.md",
+      "heading": "Übergangsregelungen zu Sicherheitsanforderungen; Anzeigepflicht und Verfahren zur Prüfung von Umstellungsvorhaben",
+      "number": "§ 113c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0114.md",
+      "heading": "(weggefallen)",
+      "number": "§ 114",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0115.md",
+      "heading": "(weggefallen)",
+      "number": "§ 115",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0116.md",
+      "heading": "(weggefallen)",
+      "number": "§ 116",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0117.md",
+      "heading": "Konzessionsabgaben für die Wasserversorgung",
+      "number": "§ 117",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0117a.md",
+      "heading": "Regelung bei Stromeinspeisung in geringem Umfang",
+      "number": "§ 117a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0117b.md",
+      "heading": "Verwaltungsvorschriften",
+      "number": "§ 117b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0117c.md",
+      "heading": "Umgang mit geheimhaltungsbedürftigen Informationen",
+      "number": "§ 117c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0118.md",
+      "heading": "Übergangsregelungen",
+      "number": "§ 118",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0118a.md",
+      "heading": "Regulatorische Rahmenbedingungen für LNG-Anlagen; Verordnungsermächtigung und Subdelegation",
+      "number": "§ 118a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0119.md",
+      "heading": "Verordnungsermächtigung für das Forschungs- und Entwicklungsprogramm „Schaufenster intelligente Energie – Digitale Agenda für die Energiewende“",
+      "number": "§ 119",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "paragraphs/0120.md",
+      "heading": "Schrittweiser Abbau der Entgelte für dezentrale Einspeisung; Übergangsregelung",
+      "number": "§ 120",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 10 Evaluierung, Schlussvorschriften"
+      ],
+      "file": "annexes/0000.md",
+      "heading": "Berechnung der Vergütung",
+      "number": "Anlage (zu § 13g)",
+      "type": "annex"
+    }
+  ]
+}

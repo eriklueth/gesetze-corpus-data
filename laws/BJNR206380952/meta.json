@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1944-07-22",
+  "bjnr": "BJNR206380952",
+  "eli": null,
+  "gii_slug": "imfabk",
+  "ingested_at": "2026-04-17T15:22:56Z",
+  "jurabk": "IMFAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "94d804bfee3b71aa397db9fa8a8f78548a046a11e9ce8b423acd3e9922e32287"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/imfabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/imfabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen über den internationalen Währungsfonds",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

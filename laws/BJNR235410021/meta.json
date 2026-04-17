@@ -1,0 +1,26 @@
+{
+  "amtabk": "PflGesG",
+  "ausfertigung_datum": "2021-07-05",
+  "bjnr": "BJNR235410021",
+  "eli": null,
+  "gii_slug": "pflgesg",
+  "ingested_at": "2026-04-17T15:26:45Z",
+  "jurabk": "PflGesG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ac92037a781452ec0605956088258144379b3186f2484d0da3520eb6cffa39a7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflgesg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflgesg/xml.zip"
+  },
+  "stand_datum": "2023-10-13",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 13.10.2023 I Nr. 277",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Durchführung der Verordnung (EU) 2016/2031 und der Verordnung (EU) 2017/625 im Bereich Pflanzengesundheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

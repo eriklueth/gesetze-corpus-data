@@ -1,0 +1,26 @@
+{
+  "amtabk": "FahrSiLehrgZulV",
+  "ausfertigung_datum": "2023-05-11",
+  "bjnr": "BJNR07D0A0023",
+  "eli": null,
+  "gii_slug": "fahrsilehrgzulv",
+  "ingested_at": "2026-04-17T15:21:16Z",
+  "jurabk": "FahrSiLehrgZulV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "efe920593b2e3b2d6bacc46cb44ac7e8dead86114e8bead49ae2f745afd0e85c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fahrsilehrgzulv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fahrsilehrgzulv/xml.zip"
+  },
+  "stand_datum": "2024-06-14",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 V v. 14.6.2024 I Nr. 193",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Zulassungsverfahren sowie die Prüfungsdurchführung für Lehrgänge für Sachkundige für die Fahrgastschifffahrt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

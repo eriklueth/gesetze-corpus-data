@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-12-18",
+  "bjnr": "BJNR028810990",
+  "eli": null,
+  "gii_slug": "razeignprv",
+  "ingested_at": "2026-04-17T15:27:09Z",
+  "jurabk": "RAZEignPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f0489fa2cde2a303a5eb4e09e051a3c033908835138d47cbce54982b37bf9f6e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/razeignprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/razeignprv/xml.zip"
+  },
+  "stand_datum": "2017-05-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 12.5.2017 I 1121",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Eignungsprüfung für die Zulassung zur Rechtsanwaltschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

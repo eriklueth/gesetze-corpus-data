@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-10-26",
+  "bjnr": "BJNR213570959",
+  "eli": null,
+  "gii_slug": "intatombehsa",
+  "ingested_at": "2026-04-17T15:23:00Z",
+  "jurabk": "IntAtomBehSa",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e2b52795fb49d4804ea93ab247e3013fbaf29c5b114cac44924ec19ef47a2fc2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intatombehsa/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intatombehsa/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Satzung der Internationalen Atomenergie-Behörde",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "HRG",
+  "ausfertigung_datum": "1976-01-26",
+  "bjnr": "BJNR001850976",
+  "eli": null,
+  "gii_slug": "hrg",
+  "ingested_at": "2026-04-17T15:22:45Z",
+  "jurabk": "HRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6b3b5d8e7c0399fd7204c4bd89a1f3b08bf1549b0d9ca5164372b2fe292ac493"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hrg/xml.zip"
+  },
+  "stand_datum": "1999-01-19",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 19.1.1999 I 18;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 G v. 15.11.2019 I 1622",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Hochschulrahmengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

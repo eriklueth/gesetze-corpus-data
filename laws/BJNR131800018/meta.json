@@ -1,0 +1,26 @@
+{
+  "amtabk": "KrWaffUnbrUmgV",
+  "ausfertigung_datum": "2018-08-10",
+  "bjnr": "BJNR131800018",
+  "eli": null,
+  "gii_slug": "krwaffunbrumgv",
+  "ingested_at": "2026-04-17T15:23:54Z",
+  "jurabk": "KrWaffUnbrUmgV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0ebebf8b815f640cefc4a35f493cffcce5f1db29009f63c09e71995860ac052a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/krwaffunbrumgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/krwaffunbrumgv/xml.zip"
+  },
+  "stand_datum": "2004-07-01",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 190-1-6 v. 1.7.2004 I 1448 (KrWaffUmgV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Unbrauchbarmachung von Kriegswaffen und über den Umgang mit unbrauchbar gemachten Kriegswaffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

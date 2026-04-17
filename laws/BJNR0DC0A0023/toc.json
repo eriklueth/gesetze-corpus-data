@@ -1,0 +1,574 @@
+{
+  "bjnr": "BJNR0DC0A0023",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Verpflichtende Kennzeichnung inländischer Lebensmittel",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Haltungsformen",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Bezeichnung der Haltungsformen",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Allgemeine Anforderungen an die Kennzeichnung",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Kennzeichnung bei vorverpackten Lebensmitteln",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Kennzeichnung in Farbe",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Kennzeichnung bei nicht vorverpackten Lebensmitteln",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Kennzeichnung im Fernabsatz",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Sonderfälle der Kennzeichnung",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungspflichten und Registrierung inländischer Haltungseinrichtungen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Mitteilung von Haltungseinrichtungen inländischer Betriebe",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungspflichten und Registrierung inländischer Haltungseinrichtungen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Änderungsmitteilung für inländische Betriebe",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungspflichten und Registrierung inländischer Haltungseinrichtungen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Festlegung einer unbefristet gültigen Kennnummer für Haltungseinrichtungen inländischer Betriebe",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungspflichten und Registrierung inländischer Haltungseinrichtungen"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "(weggefallen)",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungspflichten und Registrierung inländischer Haltungseinrichtungen"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Register für inländische Betriebe und Haltungseinrichtungen",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungspflichten und Registrierung inländischer Haltungseinrichtungen"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Verarbeitung von Daten inländischer Betriebe",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungspflichten und Registrierung inländischer Haltungseinrichtungen"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Löschung von Daten inländischer Betriebe",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 3 Aufzeichnungspflichten und Rückverfolgbarkeit inländischer Haltungseinrichtungen"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Aufzeichnungspflichten inländischer Betriebe",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 2 Verpflichtende Kennzeichnung inländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 3 Aufzeichnungspflichten und Rückverfolgbarkeit inländischer Haltungseinrichtungen"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Anforderungen an die Rückverfolgbarkeit für inländische Lebensmittelunternehmer",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Freiwillige Kennzeichnung",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Antrag auf Genehmigung zur Verwendung der Kennzeichnung",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Erteilung und Verlängerung der Genehmigung zur Verwendung der Kennzeichnung",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 1 Vorgaben zur Kennzeichnung"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Änderungsmitteilung der Genehmigungsinhaber und Aufhebung der Genehmigung",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungs- und Aufzeichnungspflichten ausländischer Betriebe; Registrierung"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Mitteilung von Haltungseinrichtungen ausländischer Betriebe",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungs- und Aufzeichnungspflichten ausländischer Betriebe; Registrierung"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Änderungsmitteilung für ausländische Betriebe",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungs- und Aufzeichnungspflichten ausländischer Betriebe; Registrierung"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Festlegung einer Kennnummer für ausländische Haltungseinrichtungen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungs- und Aufzeichnungspflichten ausländischer Betriebe; Registrierung"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Verwendung einer Kennnummer ausländischer Haltungseinrichtungen",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungs- und Aufzeichnungspflichten ausländischer Betriebe; Registrierung"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Register ausländischer Betriebe und Haltungseinrichtungen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungs- und Aufzeichnungspflichten ausländischer Betriebe; Registrierung"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Verarbeitung von Daten von Genehmigungsinhabern und ausländischen Betrieben",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungs- und Aufzeichnungspflichten ausländischer Betriebe; Registrierung"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Löschung von Daten von Genehmigungsinhabern und ausländischen Betrieben",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 3 Freiwillige Kennzeichnung ausländischer Lebensmittel tierischen Ursprungs",
+        "Unterabschnitt 2 Mitteilungs- und Aufzeichnungspflichten ausländischer Betriebe; Registrierung"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Aufzeichnungspflichten ausländischer Betriebe",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Maßnahmen der zuständigen Behörde",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Durchführung der Überwachung",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Mitwirkungspflichten",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Übertragung von Aufgaben der zuständigen Behörde auf Personen des Privatrechts",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Gegenseitige Information",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 5 Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 5 Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Einziehung",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Übergangsregelungen",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Verweisungen auf Vorschriften des Rechts der Europäischen Gemeinschaft oder der Europäischen Union",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Evaluierung",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "Lebensmittel tierischen Ursprungs im Anwendungsbereich dieses Gesetzes",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "Tierarten im Anwendungsbereich dieses Gesetzes",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(zu § 3 Absatz 2)",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "(zu § 4 Absatz 2 Nummer1)",
+      "number": "Anlage 4",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0005.md",
+      "heading": "(zu § 7 Absatz 2)",
+      "number": "Anlage 5",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0006.md",
+      "heading": "(zu § 7 Absatz 3 Satz 3)",
+      "number": "Anlage 6",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0007.md",
+      "heading": "(zu § 8)",
+      "number": "Anlage 7",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0008.md",
+      "heading": "(zu § 11)",
+      "number": "Anlage 8",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0009.md",
+      "heading": "(zu § 14 Absatz 5)",
+      "number": "Anlage 9",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0010.md",
+      "heading": "(zu § 27 Absatz 2)",
+      "number": "Anlage 10",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen",
+        "Abschnitt 6 Schlussbestimmungen"
+      ],
+      "file": "annexes/0011.md",
+      "heading": "(zu § 41)",
+      "number": "Anlage 11",
+      "type": "annex"
+    }
+  ]
+}

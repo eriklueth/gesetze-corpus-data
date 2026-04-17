@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-03-30",
+  "bjnr": "DDNR002510990",
+  "eli": null,
+  "gii_slug": "genbkbeano",
+  "ingested_at": "2026-04-17T15:22:05Z",
+  "jurabk": "GenBkBEAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a64375a3ef3a9809157e358ba17de68724ece4d7aee1af40ef3c397613f27674"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/genbkbeano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/genbkbeano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über das Statut der Genossenschaftsbank Berlin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

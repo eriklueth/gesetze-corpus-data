@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-10-18",
+  "bjnr": "BJNR247600007",
+  "eli": null,
+  "gii_slug": "wasbauprv",
+  "ingested_at": "2026-04-17T15:30:21Z",
+  "jurabk": "WasBauPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5861ccfd8a38bc72d561856e20c99bbaa6b00c5fed0b9c8b0ddc756e62ee0c7d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wasbauprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wasbauprv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 38 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Wasserbaumeister/Geprüfte Wasserbaumeisterin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

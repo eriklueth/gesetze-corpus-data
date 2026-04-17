@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-06-10",
+  "bjnr": "BJNR133300997",
+  "eli": null,
+  "gii_slug": "spielzherstausbv",
+  "ingested_at": "2026-04-17T15:28:45Z",
+  "jurabk": "SpielzHerstAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "717545df38ca968c0f467a9dc3bde432b973920362cef0d6728c93fd8f8e6a99"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/spielzherstausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/spielzherstausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Spielzeughersteller/zur Spielzeugherstellerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

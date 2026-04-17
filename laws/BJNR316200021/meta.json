@@ -1,0 +1,21 @@
+{
+  "amtabk": "ÜAnlG",
+  "ausfertigung_datum": "2021-07-27",
+  "bjnr": "BJNR316200021",
+  "eli": null,
+  "gii_slug": "_anlg",
+  "ingested_at": "2026-04-17T15:29:39Z",
+  "jurabk": "ÜAnlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4f15acf4aeac6507182513a5ed33ee8822b51cf3c5ec8372d2a05b6da50263bb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/_anlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/_anlg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über überwachungsbedürftige Anlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

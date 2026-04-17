@@ -1,0 +1,26 @@
+{
+  "amtabk": "29. BImSchV",
+  "ausfertigung_datum": "2000-05-22",
+  "bjnr": "BJNR073500000",
+  "eli": null,
+  "gii_slug": "bimschv_29",
+  "ingested_at": "2026-04-17T15:16:34Z",
+  "jurabk": "BImSchV 29",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "127f5f25624cd81393120eaf0285946d6f06bcad2c27511e5ef436d785ef3569"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_29/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_29/xml.zip"
+  },
+  "stand_datum": "2012-08-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 14.8.2012 I 1712",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Neunundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

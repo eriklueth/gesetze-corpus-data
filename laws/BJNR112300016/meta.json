@@ -1,0 +1,21 @@
+{
+  "amtabk": "RSMAusbV",
+  "ausfertigung_datum": "2016-05-03",
+  "bjnr": "BJNR112300016",
+  "eli": null,
+  "gii_slug": "rsmausbv",
+  "ingested_at": "2026-04-17T15:27:28Z",
+  "jurabk": "RSMAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1744dd76fc3ff20f9478ad1663a746a0cf4db32807ba6b2312ea7369635ec31a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rsmausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rsmausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Rollladen- und Sonnenschutzmechatroniker und zur Rollladen- und Sonnenschutzmechatronikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

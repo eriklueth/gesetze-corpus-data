@@ -1,0 +1,26 @@
+{
+  "amtabk": "BelWertV",
+  "ausfertigung_datum": "2006-05-12",
+  "bjnr": "BJNR117500006",
+  "eli": null,
+  "gii_slug": "belwertv",
+  "ingested_at": "2026-04-17T15:18:05Z",
+  "jurabk": "BelWertV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "caeea656d05b2fcc6372743f36c5b80de402fa24c7b672175971362c1781d0dd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/belwertv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/belwertv/xml.zip"
+  },
+  "stand_datum": "2022-10-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 V v. 4.10.2022 I 1614",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Ermittlung der Beleihungswerte von Grundstücken nach § 16 Abs. 1 und 2 des Pfandbriefgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

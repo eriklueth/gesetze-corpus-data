@@ -1,0 +1,26 @@
+{
+  "amtabk": "TierGesBußG",
+  "ausfertigung_datum": "2024-12-08",
+  "bjnr": "BJNR1950B0024",
+  "eli": null,
+  "gii_slug": "tiergesbu_g",
+  "ingested_at": "2026-04-17T15:29:27Z",
+  "jurabk": "TierGesBußG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1cbef6bad48793fa76dbc6d3db3f699cb3166ec4c2a933d2dc47a5f1079e3700"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tiergesbu_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tiergesbu_g/xml.zip"
+  },
+  "stand_datum": "2026-03-04",
+  "standangabe": [
+    {
+      "kommentar": "Änderung durch Art. 4 G v. 4.3.2026 I Nr. 60 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Gesetz zur Durchsetzung tiergesundheitsrechtlicher und bestimmter kontrollrechtlicher Vorschriften der Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

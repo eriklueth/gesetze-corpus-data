@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-05-18",
+  "bjnr": "BJNR103710020",
+  "eli": null,
+  "gii_slug": "luftvstg_19abs3u5bek_2020",
+  "ingested_at": "2026-04-17T15:24:36Z",
+  "jurabk": "LuftVStG§19Abs3u5Bek 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c01e26779677cd414911b0812485223d4cd62fbee18e0f98c15471eb2e29f605"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvstg_19abs3u5bek_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvstg_19abs3u5bek_2020/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung nach § 19 Absatz 3 Satz 2 und 3 sowie nach § 19 Absatz 5 Satz 2 und 3 des Luftverkehrsteuergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

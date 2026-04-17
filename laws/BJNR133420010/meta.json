@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2010-03-30",
+  "bjnr": "BJNR133420010",
+  "eli": null,
+  "gii_slug": "dbaabk_gbr",
+  "ingested_at": "2026-04-17T15:19:43Z",
+  "jurabk": "DBAAbk GBR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b0f12c2a869ac42edd1918e28fd78c57463897f53184fcff015ffeacaec815b6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbaabk_gbr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbaabk_gbr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

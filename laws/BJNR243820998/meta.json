@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-10-06",
+  "bjnr": "BJNR243820998",
+  "eli": null,
+  "gii_slug": "de_nlkorpsabk",
+  "ingested_at": "2026-04-17T15:19:53Z",
+  "jurabk": "DE/NLKorpsAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aab63e3807c85fea9a255c01a7b5f2b433e194e404d513771d38ec62a58f7432"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/de_nlkorpsabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/de_nlkorpsabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über die Rahmenbedingungen für das I. (Deutsch-Niederländische) Korps und dem Korps zugeordnete Truppenteile, Einrichtungen und Dienststellen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

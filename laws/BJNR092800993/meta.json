@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-04-13",
+  "bjnr": "BJNR092800993",
+  "eli": null,
+  "gii_slug": "aug_1abs2bek_16",
+  "ingested_at": "2026-04-17T15:17:18Z",
+  "jurabk": "AUG§1Abs2Bek 16",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "61824067a610e2a334e9f66657f2348af27699d4c1d78ce8f3956c6d0b415cd3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aug_1abs2bek_16/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aug_1abs2bek_16/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Sechzehnte Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

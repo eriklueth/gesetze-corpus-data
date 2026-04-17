@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-04-15",
+  "bjnr": "BJNR080110997",
+  "eli": null,
+  "gii_slug": "markeng_34abs2bek97",
+  "ingested_at": "2026-04-17T15:24:40Z",
+  "jurabk": "MarkenG§34Abs2Bek97",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "262591b4aed710472fecbd845e02999425a06eadb486c1f0f1f9ccf55b763e81"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/markeng_34abs2bek97/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/markeng_34abs2bek97/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 34 Abs. 2 des Markengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

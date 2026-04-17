@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1962-08-04",
+  "bjnr": "BJNR202580964",
+  "eli": null,
+  "gii_slug": "vermrglabk_col",
+  "ingested_at": "2026-04-17T15:30:05Z",
+  "jurabk": "VermRglAbk COL",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5d706eae0f56a5b55cad42f93c33217840735e75f9f4ea7a6f48092c24a71fde"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vermrglabk_col/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vermrglabk_col/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Kolumbien über deutsche Vermögenswerte in Kolumbien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

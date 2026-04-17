@@ -1,0 +1,26 @@
+{
+  "amtabk": "KlärEV",
+  "ausfertigung_datum": "1998-05-20",
+  "bjnr": "BJNR104800998",
+  "eli": null,
+  "gii_slug": "kl_rev",
+  "ingested_at": "2026-04-17T15:23:40Z",
+  "jurabk": "KlärEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d9dcab3e7b16a64a9ced71307d83f4e867282b754e31325ab2cbd35ed6f94af3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kl_rev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kl_rev/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 276 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Klärschlamm-Entschädigungsfonds",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

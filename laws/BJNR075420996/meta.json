@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-05-02",
+  "bjnr": "BJNR075420996",
+  "eli": null,
+  "gii_slug": "euhschul_eurocontrolbeschlg",
+  "ingested_at": "2026-04-17T15:20:54Z",
+  "jurabk": "EuHSchul/EUROCONTROLBeschlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0dd7af70b9126bd61ff5e0f83052c7bafc266168f5cbe2d4ba66193184563133"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euhschul_eurocontrolbeschlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euhschul_eurocontrolbeschlg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Beschluß des Obersten Rates des Europäischen Hochschulinstituts Nr. 8/93 vom 2. Dezember 1993 und zu dem Beschluß der Ständigen Kommission von Eurocontrol vom 28. Oktober 1994",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

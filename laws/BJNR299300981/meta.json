@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-03-20",
+  "bjnr": "BJNR299300981",
+  "eli": null,
+  "gii_slug": "fzgteil_bkrgl_47",
+  "ingested_at": "2026-04-17T15:21:46Z",
+  "jurabk": "FzgTeilÜbkRgl 47",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aad7442b12e901c18f05b3cfc3983c9f535f5373049e2e640a040ca9683cf436"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fzgteil_bkrgl_47/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fzgteil_bkrgl_47/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Regelung Nr. 47 - Einheitliche Vorschriften für die Genehmigung der Fahrräder mit Hilfsmotor (Motorfahrräder, Mopeds) hinsichtlich der Emission luftverunreinigender Gase aus Motoren mit Fremdzündung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

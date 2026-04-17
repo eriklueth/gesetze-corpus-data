@@ -1,0 +1,21 @@
+{
+  "amtabk": "BGL 2002",
+  "ausfertigung_datum": "2001-12-20",
+  "bjnr": "BJNR401100001",
+  "eli": null,
+  "gii_slug": "bgl_2002",
+  "ingested_at": "2026-04-17T15:18:18Z",
+  "jurabk": "BGL 2002",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ce02ca372381f3872947fc1435ea67823407db910f6f7b64294f5a3b92a4879c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgl_2002/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgl_2002/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2002",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

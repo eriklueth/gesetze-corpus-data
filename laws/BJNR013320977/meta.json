@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-07-20",
+  "bjnr": "BJNR013320977",
+  "eli": null,
+  "gii_slug": "zo-_rzte_ndv_1",
+  "ingested_at": "2026-04-17T15:31:21Z",
+  "jurabk": "ZO-ÄrzteÄndV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f7b435d15e2c8541de24cb96011842d72e9804cf0a96c30cfc6775e4959940e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zo-_rzte_ndv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zo-_rzte_ndv_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erste Verordnung zur Änderung der Zulassungsordnung für Kassenärzte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

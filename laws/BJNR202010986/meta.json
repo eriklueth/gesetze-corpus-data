@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-01-28",
+  "bjnr": "BJNR202010986",
+  "eli": null,
+  "gii_slug": "wpostvtr1984g",
+  "ingested_at": "2026-04-17T15:30:42Z",
+  "jurabk": "WPostVtr1984G",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d74419c3f7e91a967002e60cb34cdc4ceb1ac56f44d4ce43a8212eca00387ea9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpostvtr1984g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpostvtr1984g/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu den Verträgen vom 27. Juli 1984 des Weltpostvereins",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

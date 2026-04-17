@@ -1,0 +1,30 @@
+{
+  "amtabk": "DWG",
+  "ausfertigung_datum": "1997-12-16",
+  "bjnr": "BJNR309410997",
+  "eli": null,
+  "gii_slug": "dwg",
+  "ingested_at": "2026-04-17T15:20:08Z",
+  "jurabk": "DWG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b89f41069559a646a9ba212f7d0ed151964dc53748ec0bc194b8371ab91c5765"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dwg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dwg/xml.zip"
+  },
+  "stand_datum": "2005-01-11",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 11.1.2005 I 90",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 15 G v. 6.5.2024 I Nr. 149",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Rundfunkanstalt des Bundesrechts \"Deutsche Welle\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

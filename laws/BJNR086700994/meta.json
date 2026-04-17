@@ -1,0 +1,26 @@
+{
+  "amtabk": "SÜG",
+  "ausfertigung_datum": "1994-04-20",
+  "bjnr": "BJNR086700994",
+  "eli": null,
+  "gii_slug": "s_g",
+  "ingested_at": "2026-04-17T15:29:08Z",
+  "jurabk": "SÜG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d46ebe1732c5e1b425d5c4c22b0bf3ee9ab02d16210ad90c95a08dfd996f8b17"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/s_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/s_g/xml.zip"
+  },
+  "stand_datum": "2026-01-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 9.1.2026 I Nr. 7",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen des Bundes und den Schutz von Verschlusssachen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

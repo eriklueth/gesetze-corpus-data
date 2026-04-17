@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-04-08",
+  "bjnr": "BJNR049600014",
+  "eli": null,
+  "gii_slug": "btgo1980anl6bek_2014",
+  "ingested_at": "2026-04-17T15:19:19Z",
+  "jurabk": "BTGO1980Anl6Bek 2014",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7e7d5df91e0cd92fa851c5e6b8216a5ff419041f119602f46896f63022d94be6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/btgo1980anl6bek_2014/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/btgo1980anl6bek_2014/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

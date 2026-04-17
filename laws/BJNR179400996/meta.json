@@ -1,0 +1,30 @@
+{
+  "amtabk": "CWÜV",
+  "ausfertigung_datum": "1996-11-20",
+  "bjnr": "BJNR179400996",
+  "eli": null,
+  "gii_slug": "cw_v",
+  "ingested_at": "2026-04-17T15:19:40Z",
+  "jurabk": "CWÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ac9d9efc9b6bd48d08d22dc037abd7049cc1faa859f06ae3fda3cef485f58097"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/cw_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/cw_v/xml.zip"
+  },
+  "stand_datum": "2024-03-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 6.3.2024 I Nr. 74",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die §§ 1, 2 Abs. 1 Nr. 2 und 3, § 12 Nr. 3 und § 13 sind gem. § 15 dieser V und § 21 Abs. 2 des Ausführungsgesetzes zum Chemiewaffenübereinkommen (CWÜAG) iVm Abschn. I Bek. v. 4.11.1996 II 2618 mWv 29.4.1997 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Ausführungsverordnung zum Chemiewaffenübereinkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

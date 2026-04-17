@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2017-01-27",
+  "bjnr": "BJNR012700017",
+  "eli": null,
+  "gii_slug": "nachhg",
+  "ingested_at": "2026-04-17T15:25:52Z",
+  "jurabk": "NachhG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b247c8b3610b81b56187e96c3181c8b1172c3c59b2fe678f7addb1b5172f2973"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nachhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nachhg/xml.zip"
+  },
+  "stand_datum": "2017-05-05",
+  "standangabe": [
+    {
+      "kommentar": "Geändert nach Maßgabe des Art. 5 Abs. 2 durch Art. 4 Abs. 3 G v. 5.5.2017 I 1074",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Das G ist gem. Bek. v. 16.6.2017 I 1676 am 16.6.2017 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zur Nachhaftung für Abbau- und Entsorgungskosten im Kernenergiebereich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

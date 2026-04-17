@@ -1,0 +1,26 @@
+{
+  "amtabk": "SchSiHafV",
+  "ausfertigung_datum": "2017-01-06",
+  "bjnr": "BJNR601700017",
+  "eli": null,
+  "gii_slug": "schsihafv",
+  "ingested_at": "2026-04-17T15:27:50Z",
+  "jurabk": "SchSiHafV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "73ff84b46674661697e782a5f3e14535fe125c88fc3463f1b58e89ac8420f743"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schsihafv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schsihafv/xml.zip"
+  },
+  "stand_datum": "2019-09-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 30.9.2019 BAnz AT 16.10.2019 V1",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Schutz- und Sicherheitshäfen, die Häfen der Deutschen Marine und der Bundespolizei der Bundesrepublik Deutschland an Seeschifffahrtsstraßen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

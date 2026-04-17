@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1949-08-12",
+  "bjnr": "BJNR208130954",
+  "eli": null,
+  "gii_slug": "seestreitkrabk_genf",
+  "ingested_at": "2026-04-17T15:28:01Z",
+  "jurabk": "SeeStreitKrAbk Genf",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7b6225d9a96580be41d64cb729ea93d0c3452324aa076dfc640d4daa1cfbfe25"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seestreitkrabk_genf/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seestreitkrabk_genf/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "II. Genfer Abkommen vom 12. August 1949 zur Verbesserung des Loses der Verwundeten, Kranken und Schiffbrüchigen der Streitkräfte zur See",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

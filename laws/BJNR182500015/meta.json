@@ -1,0 +1,21 @@
+{
+  "amtabk": "PferdewMeistPrV",
+  "ausfertigung_datum": "2015-10-27",
+  "bjnr": "BJNR182500015",
+  "eli": null,
+  "gii_slug": "pferdewmeistprv",
+  "ingested_at": "2026-04-17T15:26:42Z",
+  "jurabk": "PferdewMeistPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e0d4be567a8219b8414a0011a35ea131e0eee20dc3ef567f527decb2b6db1d38"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pferdewmeistprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pferdewmeistprv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Pferdewirtschaftsmeister und Pferdewirtschaftsmeisterin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

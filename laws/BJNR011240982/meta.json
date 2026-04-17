@@ -1,0 +1,21 @@
+{
+  "amtabk": "FStatAusnV",
+  "ausfertigung_datum": "1982-07-30",
+  "bjnr": "BJNR011240982",
+  "eli": null,
+  "gii_slug": "fstatausnv",
+  "ingested_at": "2026-04-17T15:21:44Z",
+  "jurabk": "FStatAusnV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f6a73a84c51f94c7e7a9dcad5f34ef581e079f05e01951fd5a0f16bfa7a06fc8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fstatausnv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fstatausnv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Ausnahmen bei filmstatistischen Erhebungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

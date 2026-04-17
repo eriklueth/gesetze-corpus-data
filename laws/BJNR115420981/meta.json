@@ -1,0 +1,30 @@
+{
+  "amtabk": "AFWoG",
+  "ausfertigung_datum": "1981-12-22",
+  "bjnr": "BJNR115420981",
+  "eli": null,
+  "gii_slug": "afwog",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "AFWoG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "794a12261f51bae9820cb64d43b1764f35c025505274bc2df08b9df1232a6610"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/afwog/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/afwog/xml.zip"
+  },
+  "stand_datum": "2001-09-13",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 13.9.2001 I 2414;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 8 G v. 5.9.2006 I 2098",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

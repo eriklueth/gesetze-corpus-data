@@ -1,0 +1,21 @@
+{
+  "amtabk": "DECHWettbAbkV",
+  "ausfertigung_datum": "2024-12-06",
+  "bjnr": "BJNR1960A0024",
+  "eli": null,
+  "gii_slug": "dechwettbabkv",
+  "ingested_at": "2026-04-17T15:19:54Z",
+  "jurabk": "DECHWettbAbkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f0047e0ada531be6be8fa70b163e916024bbc8afae86db3b9ea47cd00180770"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dechwettbabkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dechwettbabkv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zum deutsch-schweizerischen Abkommen über Zusammenarbeit und Koordinierung der Wettbewerbsbehörden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

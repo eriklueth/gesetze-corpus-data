@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-11-04",
+  "bjnr": "BJNR366220994",
+  "eli": null,
+  "gii_slug": "abzuspolabkg",
+  "ingested_at": "2026-04-17T15:16:45Z",
+  "jurabk": "ABZusPolAbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ab09cd9d6d6bfc4f7df46b2eb90bf95d3bf34ddbf8ff37c6709e3e18582e701a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/abzuspolabkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/abzuspolabkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 23. April 1993 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß im Raum Frankfurt/Oder und Schwetig",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

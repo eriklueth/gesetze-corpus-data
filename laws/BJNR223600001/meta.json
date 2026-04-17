@@ -1,0 +1,26 @@
+{
+  "amtabk": "LKonV",
+  "ausfertigung_datum": "2001-08-17",
+  "bjnr": "BJNR223600001",
+  "eli": null,
+  "gii_slug": "lkonv",
+  "ingested_at": "2026-04-17T15:24:05Z",
+  "jurabk": "LKonV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a006346f47502e21aa90a2faf03c3f9b805b1a265ba6519660c9a5bee15f7b68"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lkonv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lkonv/xml.zip"
+  },
+  "stand_datum": "2016-04-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 27.4.2016 I 980",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2 Nr. 3 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung tätigen Lebensmittelkontrolleure",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

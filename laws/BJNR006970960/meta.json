@@ -1,0 +1,34 @@
+{
+  "amtabk": "ApoG",
+  "ausfertigung_datum": "1960-08-20",
+  "bjnr": "BJNR006970960",
+  "eli": null,
+  "gii_slug": "apog",
+  "ingested_at": "2026-04-17T15:17:02Z",
+  "jurabk": "ApoG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a99fe60428134a161421abfa5b5ddf118e2c2a018815243807eb8afba18d0e59"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/apog/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/apog/xml.zip"
+  },
+  "stand_datum": "1980-10-15",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 15.10.1980 I 1993;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 G v. 22.12.2025 I Nr. 356",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Art. 3 Nr. 2 G v. 18.4.2016 I 886 infolge unzureichender Bestimmtheit nicht ausführbar",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über das Apothekenwesen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

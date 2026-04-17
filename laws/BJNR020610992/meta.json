@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-12-17",
+  "bjnr": "BJNR020610992",
+  "eli": null,
+  "gii_slug": "sportseeschv",
+  "ingested_at": "2026-04-17T15:28:48Z",
+  "jurabk": "SportSeeSchV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3202d90590dec8fee71bb4819f37d5e93da3ce7f033e173fdedfca3a24c1b2b1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sportseeschv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sportseeschv/xml.zip"
+  },
+  "stand_datum": "1998-03-03",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 3.3.1998 I 394;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 V v. 3.3.2020 I 412",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Erwerb von Sportsee- und Sporthochseeschifferscheinen und die Besetzung von Traditionsschiffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

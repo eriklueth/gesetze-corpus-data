@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1983-01-31",
+  "bjnr": "BJNR208490984",
+  "eli": null,
+  "gii_slug": "grbr_ckabk_lux",
+  "ingested_at": "2026-04-17T15:22:27Z",
+  "jurabk": "GrBrückAbk LUX",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "338c706abeb8094b27eaeb68945e273a861357762d5c5e781281028102362d70"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grbr_ckabk_lux/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grbr_ckabk_lux/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über den Bau und die Unterhaltung einer Grenzbrücke über die Sauer zwischen den Gemeinden Langsur und Mertert",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

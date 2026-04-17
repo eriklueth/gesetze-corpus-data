@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1939-08-28",
+  "bjnr": "BJNR015850939",
+  "eli": null,
+  "gii_slug": "priseno",
+  "ingested_at": "2026-04-17T15:26:59Z",
+  "jurabk": "PrisenO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0a45e93c21e8489971268fc9db192a68d51870c56ab0345cca40799415777a62"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/priseno/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/priseno/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Prisenordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

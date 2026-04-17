@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-06-24",
+  "bjnr": "BJNR014960975",
+  "eli": null,
+  "gii_slug": "saateinfmeldv",
+  "ingested_at": "2026-04-17T15:27:38Z",
+  "jurabk": "SaatEinfMeldV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9268feb38c6fd25503b29f3c86b9b91e9a11e3204a4e0a09c31a4f6b1e008356"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/saateinfmeldv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/saateinfmeldv/xml.zip"
+  },
+  "stand_datum": "2005-06-28",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 28.6.2005 I 1934",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Meldung und Vorführung von Saatgut bei der Einfuhr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

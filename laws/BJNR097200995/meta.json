@@ -1,0 +1,26 @@
+{
+  "amtabk": "HIVHG",
+  "ausfertigung_datum": "1995-07-24",
+  "bjnr": "BJNR097200995",
+  "eli": null,
+  "gii_slug": "hivhg",
+  "ingested_at": "2026-04-17T15:22:41Z",
+  "jurabk": "HIVHG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "72324e183d687bdf58de04c2cc89344837ffc2061571f6c4cf4f806b1ab7eb07"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hivhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hivhg/xml.zip"
+  },
+  "stand_datum": "2017-07-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6a G v. 18.7.2017 I 2757",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die humanitäre Hilfe für durch Blutprodukte HIV-infizierte Personen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

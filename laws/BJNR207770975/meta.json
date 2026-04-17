@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-03-03",
+  "bjnr": "BJNR207770975",
+  "eli": null,
+  "gii_slug": "artschutz_bk",
+  "ingested_at": "2026-04-17T15:17:04Z",
+  "jurabk": "ArtSchutzÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "24a86c56e8a56d8b124f2fae56a50a4a69bea7a94d3a8f2df75dd24f49b84676"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/artschutz_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/artschutz_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

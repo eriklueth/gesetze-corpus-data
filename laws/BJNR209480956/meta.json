@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-12-06",
+  "bjnr": "BJNR209480956",
+  "eli": null,
+  "gii_slug": "pflschabk",
+  "ingested_at": "2026-04-17T15:26:45Z",
+  "jurabk": "PflSchAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6845564c4f2395c7853140fc7d611e3e646a882d17300c2b8fbb66bece4a8b94"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflschabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflschabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationales Pflanzenschutzabkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

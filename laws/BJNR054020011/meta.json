@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2010-07-01",
+  "bjnr": "BJNR054020011",
+  "eli": null,
+  "gii_slug": "dba_are",
+  "ingested_at": "2026-04-17T15:19:40Z",
+  "jurabk": "DBA ARE",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fe308a5c73ca3c7b9311b7a11a01f0a0a9e7ebede42ec514f696a03079c30be4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dba_are/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dba_are/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

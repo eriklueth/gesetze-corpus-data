@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1970-06-19",
+  "bjnr": "BJNR206640976",
+  "eli": null,
+  "gii_slug": "pct",
+  "ingested_at": "2026-04-17T15:26:33Z",
+  "jurabk": "PCT",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ba19f3742cb1dfce83b317fa6ca70c7dc1e10f26e3c847595156e5a81adc515b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pct/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pct/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "TierwMeistPrV",
+  "ausfertigung_datum": "2010-08-18",
+  "bjnr": "BJNR118600010",
+  "eli": null,
+  "gii_slug": "tierwmeistprv",
+  "ingested_at": "2026-04-17T15:29:38Z",
+  "jurabk": "TierwMeistPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "40269b25b62da43a4e08bb12591b0e3466ef042d0c5f7871e60440762a05fef6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tierwmeistprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tierwmeistprv/xml.zip"
+  },
+  "stand_datum": "2014-05-21",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 11 V v. 21.5.2014 I 548",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Tierwirtschaftsmeister und Tierwirtschaftsmeisterin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BetrKV",
+  "ausfertigung_datum": "2003-11-25",
+  "bjnr": "BJNR234700003",
+  "eli": null,
+  "gii_slug": "betrkv",
+  "ingested_at": "2026-04-17T15:18:12Z",
+  "jurabk": "BetrKV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "66a83d4faee336981581ec02ab8cccca3ab7342a8d425e3789510e75af63c460"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/betrkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/betrkv/xml.zip"
+  },
+  "stand_datum": "2023-10-16",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 16.10.2023 I Nr. 280",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Aufstellung von Betriebskosten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

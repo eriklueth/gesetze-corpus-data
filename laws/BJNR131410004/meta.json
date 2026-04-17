@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-06-22",
+  "bjnr": "BJNR131410004",
+  "eli": null,
+  "gii_slug": "hwo_16v",
+  "ingested_at": "2026-04-17T15:22:49Z",
+  "jurabk": "HwO§16V",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f15673fc0be640d704e63e313a1d657ba921737d9ff8b6c21215946495056704"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hwo_16v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hwo_16v/xml.zip"
+  },
+  "stand_datum": "2011-12-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 24 G v. 6.12.2011 I 2481",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Schlichtungsverfahren nach § 16 der Handwerksordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

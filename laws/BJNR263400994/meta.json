@@ -1,0 +1,21 @@
+{
+  "amtabk": "SchuldBBerG",
+  "ausfertigung_datum": "1994-09-27",
+  "bjnr": "BJNR263400994",
+  "eli": null,
+  "gii_slug": "schuldbberg",
+  "ingested_at": "2026-04-17T15:27:52Z",
+  "jurabk": "SchuldBBerG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "15141d242614cb56e2a81fee92ac11f3a1f1181732e11a29271afaef81b1442a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schuldbberg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schuldbberg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Behandlung von Schuldbuchforderungen gegen die ehemalige Deutsche Demokratische Republik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

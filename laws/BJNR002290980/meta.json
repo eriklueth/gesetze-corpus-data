@@ -1,0 +1,34 @@
+{
+  "amtabk": "VbF",
+  "ausfertigung_datum": "1980-02-27",
+  "bjnr": "BJNR002290980",
+  "eli": null,
+  "gii_slug": "bfv_1980",
+  "ingested_at": "2026-04-17T15:30:03Z",
+  "jurabk": "BFV 1980",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "075a24c2d79464c7bd015bdfa10e633cf99e27a90379a247be77912150d25935"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bfv_1980/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bfv_1980/xml.zip"
+  },
+  "stand_datum": "2002-09-27",
+  "standangabe": [
+    {
+      "kommentar": "V mit Ausnahme des § 7 Abs. 1 Satz 1 iVm den §§ 5 u. 6, des § 9 Abs. 5 Satz 1 Nr. 3 iVm Abs. 3 sowie des § 24 Satz 1 aufgeh. durch Art. 8 Abs. 3 Nr. 6 V v. 27.9.2002 I 3777 mWv 1.1.2003. § 7 Abs. 1 Satz 1 iVm §§ 5 u. 6, § 9 Abs. 5 Satz 1 Nr. 3 iVm Abs. 3 u. § 24 Satz 1 gelten gem. u. nach Maßgabe d. Art. 8 Abs. 3 Nr. 6 V v. 27.9.2002 I 3777 bis zum Inkrafttreten einer ablösenden gesetzlichen Regelung fort.",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Neugefasst durch Bek. v. 13.12.1996 I 1937; 1997, 447,",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 11 V v. 2.6.2016 I 1257",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer Flüssigkeiten zu Lande",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

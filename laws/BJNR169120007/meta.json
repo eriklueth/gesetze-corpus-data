@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-08-24",
+  "bjnr": "BJNR169120007",
+  "eli": null,
+  "gii_slug": "ezbpersabk",
+  "ingested_at": "2026-04-17T15:21:12Z",
+  "jurabk": "EZBPersAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3565be7720517a763526cfaf1aa1342eb13c5d60f5761c4d7d31cd9e32d9b4f7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ezbpersabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ezbpersabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Zentralbank über die Durchführung des Abschnitts 16 des Anhangs III der Beschäftigungsbedingungen für das Personal der Europäischen Zentralbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

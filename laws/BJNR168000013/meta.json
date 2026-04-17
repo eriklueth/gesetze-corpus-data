@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-06-24",
+  "bjnr": "BJNR168000013",
+  "eli": null,
+  "gii_slug": "fvg1971_5abs7s4stvv",
+  "ingested_at": "2026-04-17T15:21:51Z",
+  "jurabk": "FVG1971§5Abs7S4StVV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "569211e43261bf13986d1dca166996fda7be00528eb9a2eb97df66af03368b82"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fvg1971_5abs7s4stvv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fvg1971_5abs7s4stvv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Verteilung des Steueraufkommens aus dem Steuerabzugs- und Veranlagungsverfahren nach § 5 Absatz 7 Satz 4 des Finanzverwaltungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "AgrarOLkV",
+  "ausfertigung_datum": "2021-10-11",
+  "bjnr": "BJNR465500021",
+  "eli": null,
+  "gii_slug": "agrarolkv",
+  "ingested_at": "2026-04-17T15:16:53Z",
+  "jurabk": "AgrarOLkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a09bf9637b7417bc6677569c2af91c7e2ced14c59aa027fa1fc3a87bb2c0c72b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/agrarolkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/agrarolkv/xml.zip"
+  },
+  "stand_datum": "2025-04-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 15.4.2025 I Nr. 115",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Stärkung der Organisationen und Lieferketten im Agrarbereich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "StabiRatG",
+  "ausfertigung_datum": "2009-08-10",
+  "bjnr": "BJNR270210009",
+  "eli": null,
+  "gii_slug": "stabiratg",
+  "ingested_at": "2026-04-17T15:28:47Z",
+  "jurabk": "StabiRatG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "851af6ecb7e14d1e904816b285f78af72572b18860c98d715b90e17604828708"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stabiratg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stabiratg/xml.zip"
+  },
+  "stand_datum": "2025-10-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 20.10.2025 I Nr. 247",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Errichtung eines Stabilitätsrates und zur Vermeidung von Haushaltsnotlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

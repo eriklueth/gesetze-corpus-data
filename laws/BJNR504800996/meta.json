@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-02-19",
+  "bjnr": "BJNR504800996",
+  "eli": null,
+  "gii_slug": "luftvodv_165",
+  "ingested_at": "2026-04-17T15:24:22Z",
+  "jurabk": "LuftVODV 165",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c4eebff92a5f9fb68eeb162245d151f17753b240939097d4ac03be2dd3976561"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_165/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_165/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hundertfünfundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Mönchengladbach)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

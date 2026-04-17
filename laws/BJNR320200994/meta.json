@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-10-26",
+  "bjnr": "BJNR320200994",
+  "eli": null,
+  "gii_slug": "ewgrl371_91dv_1994",
+  "ingested_at": "2026-04-17T15:21:10Z",
+  "jurabk": "EWGRL371/91DV 1994",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d7a94e72b01e404a51561e8b9b93e72e1dff431117ec9b989b01c88b46a3c26a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ewgrl371_91dv_1994/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ewgrl371_91dv_1994/xml.zip"
+  },
+  "stand_datum": "2015-04-01",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 45 G v. 1.4.2015 I 434",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der Richtlinie des Rates vom 20. Juni 1991 über die Anwendung des Abkommens zwischen der Europäischen Wirtschaftsgemeinschaft und der Schweizerischen Eidgenossenschaft betreffend die Direktversicherung mit Ausnahme der Lebensversicherung (91/371/EWG)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

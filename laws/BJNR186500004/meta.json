@@ -1,0 +1,26 @@
+{
+  "amtabk": "VerkLG",
+  "ausfertigung_datum": "2004-07-23",
+  "bjnr": "BJNR186500004",
+  "eli": null,
+  "gii_slug": "verklg",
+  "ingested_at": "2026-04-17T15:30:06Z",
+  "jurabk": "VerkLG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "878d855111620433fe0b8087ac1d7847103ab6693abd38deb3190e9d971fe88d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verklg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verklg/xml.zip"
+  },
+  "stand_datum": "2024-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 42 G v. 15.7.2024 I Nr. 236",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Sicherung von Verkehrsleistungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

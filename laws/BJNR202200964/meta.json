@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1964-03-10",
+  "bjnr": "BJNR202200964",
+  "eli": null,
+  "gii_slug": "kovautvtrg",
+  "ingested_at": "2026-04-17T15:23:50Z",
+  "jurabk": "KOVAUTVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "226385f05983fc96014e09a2aa3d0d6df80247db5c30708df7f00f56f3d7286d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kovautvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kovautvtrg/xml.zip"
+  },
+  "stand_datum": "1970-04-27",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 G v. 27.4.1970 II 197",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Vertrag vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

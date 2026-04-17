@@ -1,0 +1,21 @@
+{
+  "amtabk": "LegRegV",
+  "ausfertigung_datum": "2003-10-06",
+  "bjnr": "BJNR196900003",
+  "eli": null,
+  "gii_slug": "legregv",
+  "ingested_at": "2026-04-17T15:24:04Z",
+  "jurabk": "LegRegV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d6890ce8762ee5f5eb8f24e7d7d0ce7b6e93bbd0f20084988c4d2e79796943a8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/legregv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/legregv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Durchführung des Legehennenbetriebsregistergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

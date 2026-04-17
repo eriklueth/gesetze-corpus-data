@@ -1,0 +1,26 @@
+{
+  "amtabk": "24. BImSchV",
+  "ausfertigung_datum": "1997-02-04",
+  "bjnr": "BJNR017200997",
+  "eli": null,
+  "gii_slug": "bimschv_24",
+  "ingested_at": "2026-04-17T15:16:34Z",
+  "jurabk": "BImSchV 24",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5cf84dea6467fef3732e33b557b78a3782016b9781c47935e5aa3307fdc0d5a5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_24/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_24/xml.zip"
+  },
+  "stand_datum": "1997-09-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 V v. 23.9.1997 I 2329",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Vierundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "GOP",
+  "ausfertigung_datum": "2000-06-08",
+  "bjnr": "BJNR081800000",
+  "eli": null,
+  "gii_slug": "gop",
+  "ingested_at": "2026-04-17T15:22:21Z",
+  "jurabk": "GOP",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a42c6d3596c08289ddfa0766027ac4e9bdafe7a36c3b678c0fecf9876bd03c29"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gop/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gop/xml.zip"
+  },
+  "stand_datum": "2001-10-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 5 Satz 3 V v. 18.10.2001 I 2721",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gebührenordnung für Psychologische Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

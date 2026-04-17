@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-08-25",
+  "bjnr": "BJNR201120998",
+  "eli": null,
+  "gii_slug": "sozsichabkbgrg",
+  "ingested_at": "2026-04-17T15:28:31Z",
+  "jurabk": "SozSichAbkBGRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b73c2ac982b81197eef18edf6306ff80c80bd12699dc30292bbd8db99822c553"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkbgrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkbgrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 17. Dezember 1997 zwischen der Bundesrepublik Deutschland und der Republik Bulgarien über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "MTBG",
+  "ausfertigung_datum": "2021-02-24",
+  "bjnr": "BJNR027410021",
+  "eli": null,
+  "gii_slug": "mtbg",
+  "ingested_at": "2026-04-17T15:25:04Z",
+  "jurabk": "MTBG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "762c0451d76fb4ce5d68a1f285473463a6a7c6aedd43bb04040c0b519dd3fe09"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mtbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mtbg/xml.zip"
+  },
+  "stand_datum": "2023-12-12",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 7 G v. 12.12.2023 I Nr. 359",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt G 2124-18 v. 2.8.1993 I 1402 (MTAG 1993)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über die Berufe in der medizinischen Technologie",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BMELBGebV",
+  "ausfertigung_datum": "2021-07-13",
+  "bjnr": "BJNR287400021",
+  "eli": null,
+  "gii_slug": "bmelbgebv",
+  "ingested_at": "2026-04-17T15:18:39Z",
+  "jurabk": "BMELBGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4fd12d6ee5350e19ea35ec191d1a7fedc7de5056959a065ab4b38d5f2ddb24be"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmelbgebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmelbgebv/xml.zip"
+  },
+  "stand_datum": "2024-06-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 V v. 24.6.2024 I Nr. 215, Nr. 350",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

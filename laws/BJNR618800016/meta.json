@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZIdPrüfV",
+  "ausfertigung_datum": "2016-07-05",
+  "bjnr": "BJNR618800016",
+  "eli": null,
+  "gii_slug": "zidpr_fv",
+  "ingested_at": "2026-04-17T15:31:18Z",
+  "jurabk": "ZIdPrüfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8f6db4bc484bb84286becd9f71c5cdc4f722570e8b4e06e6f021baee4ad380fc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zidpr_fv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zidpr_fv/xml.zip"
+  },
+  "stand_datum": "2017-07-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 14 Abs. 6 G v. 17.7.2017 I 2446 bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über die Bestimmung von Dokumenten, die zur Überprüfung der Identität einer nach dem Geldwäschegesetz zu identifizierenden Person zum Zwecke des Abschlusses eines Zahlungskontovertrags zugelassen werden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

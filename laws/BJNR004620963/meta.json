@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1963-07-08",
+  "bjnr": "BJNR004620963",
+  "eli": null,
+  "gii_slug": "schatzanwbek",
+  "ingested_at": "2026-04-17T15:27:42Z",
+  "jurabk": "SchatzAnwBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1f09749614f98ab6b1b1564157ceb224fca9030a129729cdbcd5dad62e0fba81"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schatzanwbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schatzanwbek/xml.zip"
+  },
+  "stand_datum": "1993-12-27",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 Abs. 62 G v. 27.12.1993 I 2378",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen der Bundesrepublik Deutschland in das Bundesschuldbuch sowie von verzinslichen Schatzanweisungen des Bundeseisenbahnvermögens in das Bundesbahnschuldbuch und von verzinslichen Schatzanweisungen der Deutschen Bundespost in das Schuldbuch der Deutschen Bundespost",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

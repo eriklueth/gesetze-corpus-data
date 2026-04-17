@@ -1,0 +1,21 @@
+{
+  "amtabk": "BMVg-ArbSchGAnwV",
+  "ausfertigung_datum": "2002-06-03",
+  "bjnr": "BJNR185000002",
+  "eli": null,
+  "gii_slug": "bmvg-arbschganwv",
+  "ingested_at": "2026-04-17T15:18:46Z",
+  "jurabk": "BMVg-ArbSchGAnwV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f5049563573b90aeaa6e4fdf1ec041d055b6677cc558ab8779e671c7fbe03465"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmvg-arbschganwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmvg-arbschganwv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die modifizierte Anwendung von Vorschriften des Arbeitsschutzgesetzes für bestimmte Tätigkeiten im öffentlichen Dienst des Bundes im Geschäftsbereich des Bundesministeriums der Verteidigung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

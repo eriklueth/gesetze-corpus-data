@@ -1,0 +1,26 @@
+{
+  "amtabk": "Europol-AbfrageV",
+  "ausfertigung_datum": "2007-05-22",
+  "bjnr": "BJNR094000007",
+  "eli": null,
+  "gii_slug": "europol-abfragev",
+  "ingested_at": "2026-04-17T15:21:02Z",
+  "jurabk": "Europol-AbfrageV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6fece7ea12433022b7767407bcf17a7cd0c373e9d6431433370bb4b4b62a7b60"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/europol-abfragev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/europol-abfragev/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [
+    {
+      "kommentar": "Die Verordnung tritt gem. § 2 Abs. 2 dieser V an dem Tag außer Kraft, an dem das Gesetz zu dem Protokoll vom 27. November 2003 zur Änderung des Europol-Übereinkommens und zur Änderung des Europol-Gesetzes außer Kraft tritt",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zur innerstaatlichen Bestimmung der zuständigen Behörden für die Abfrage des Europol-Informationssystems",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

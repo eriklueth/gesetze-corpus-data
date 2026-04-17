@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-08-30",
+  "bjnr": "BJNR205980977",
+  "eli": null,
+  "gii_slug": "staatenlmind_bk",
+  "ingested_at": "2026-04-17T15:28:46Z",
+  "jurabk": "StaatenlMindÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f17f9ce6009dd7b2397f5a2b105799e2e42483bfc78118a05741ea6cf81f0d0b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/staatenlmind_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/staatenlmind_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen zur Verminderung der Staatenlosigkeit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "ESMFinG",
+  "ausfertigung_datum": "2012-09-13",
+  "bjnr": "BJNR191800012",
+  "eli": null,
+  "gii_slug": "esmfing",
+  "ingested_at": "2026-04-17T15:20:49Z",
+  "jurabk": "ESMFinG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "da77aae7de8ef5e199236561f3f9047611fc371c1429b3010e6129d83882ae9e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/esmfing/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/esmfing/xml.zip"
+  },
+  "stand_datum": "2023-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 11 G v. 22.12.2023 I Nr. 412",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur finanziellen Beteiligung am Europäischen Stabilitätsmechanismus",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

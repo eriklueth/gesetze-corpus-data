@@ -1,0 +1,38 @@
+{
+  "amtabk": "InvZulG 2007",
+  "ausfertigung_datum": "2006-07-15",
+  "bjnr": "BJNR161400006",
+  "eli": null,
+  "gii_slug": "invzulg_2007",
+  "ingested_at": "2026-04-17T15:23:11Z",
+  "jurabk": "InvZulG 2007",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "40b2ce0889ead6e8c3d21e3b208b3e6e43080ad338cce26034d16be87a8cf948"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/invzulg_2007/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/invzulg_2007/xml.zip"
+  },
+  "stand_datum": "2007-02-23",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 23.2.2007 I 282",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 G v. 7.12.2008 I 2350",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Dieses G tritt nach seinem § 16 Abs. 1 mit Ausnahme des § 3 Abs. 1 Satz 1 Nr. 2 an dem Tag in Kraft, an dem die Kommission eine Entscheidung nach Art. 4 Abs. 2, 3, 6 oder nach Art. 7 Abs. 2, 3 oder 4 der Verordnung (EG) Nr. 659/1999 des Rates vom 22. März 1999 über besondere Vorschriften für die Anwendung von Art. 93 des EG-Vertrags (Abl. EG Nr. L 83 S. 1, Nr. L 129 S. 43) trifft, frühestens am Tag nach der Verkündung. § 3 Abs. 1 Satz 1 Nr. 2 tritt nach § 16 Abs. 2 frühestens am 1.1.2007 in Kraft.",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Das G ist gem. § 16 Abs. 1 iVm Satz 1 Bek. v. 22.12.2006 I 3404 mWv 6.12.2006 u. § 3 Abs. 1 Satz 1 Nr. 2 ist gem. § 16 Abs. 2 iVm Satz 2 Bek. v. 22.12.2006 I 3404 mWv 1.1.2007 in Kraft getreten.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Investitionszulagengesetz 2007",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

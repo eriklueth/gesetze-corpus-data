@@ -1,0 +1,26 @@
+{
+  "amtabk": "SoldGG",
+  "ausfertigung_datum": "2006-08-14",
+  "bjnr": "BJNR190400006",
+  "eli": null,
+  "gii_slug": "soldgg",
+  "ingested_at": "2026-04-17T15:28:23Z",
+  "jurabk": "SoldGG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c8b333c0b9388ba0f935dfa382d3ef7d89d5f2e3e170277ff46c79c7629b747b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/soldgg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/soldgg/xml.zip"
+  },
+  "stand_datum": "2008-07-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 31.7.2008 I 1629",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Gleichbehandlung der Soldatinnen und Soldaten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

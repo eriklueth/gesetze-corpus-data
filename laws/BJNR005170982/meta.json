@@ -1,0 +1,26 @@
+{
+  "amtabk": "GasSV",
+  "ausfertigung_datum": "1982-04-26",
+  "bjnr": "BJNR005170982",
+  "eli": null,
+  "gii_slug": "gassv",
+  "ingested_at": "2026-04-17T15:21:53Z",
+  "jurabk": "GasSV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "89eef5da2e4203971033efea9bf758e3a4f97e5989df5bbb112058c1fbe8cbe7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gassv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gassv/xml.zip"
+  },
+  "stand_datum": "2025-12-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 22 G v. 18.12.2025 I Nr. 347",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

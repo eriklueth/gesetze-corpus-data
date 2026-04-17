@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1966-02-15",
+  "bjnr": "BJNR214190973",
+  "eli": null,
+  "gii_slug": "binsche_bk",
+  "ingested_at": "2026-04-17T15:18:23Z",
+  "jurabk": "BinSchEÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f46954ac83061f33cb72845e194ad07ce62adf05654b455c55404a0190b74b9d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binsche_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binsche_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Eichung von Binnenschiffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

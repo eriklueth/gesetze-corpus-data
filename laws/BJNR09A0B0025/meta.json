@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-06-27",
+  "bjnr": "BJNR09A0B0025",
+  "eli": null,
+  "gii_slug": "luftvodv_145_2025",
+  "ingested_at": "2026-04-17T15:24:19Z",
+  "jurabk": "LuftVODV 145 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "78392b08d140aaea0fb0fe5dff7ba50f358692e4088d8657347bff64aaf99af0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_145_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_145_2025/xml.zip"
+  },
+  "stand_datum": "1994-04-25",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 96-1-2-145 v. 25.4.1994 BAnz 1994, Nr 91, 5121 (LuftVODV 145)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Hundertfünfundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Frankfurt-Hahn)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

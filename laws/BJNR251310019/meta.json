@@ -1,0 +1,26 @@
+{
+  "amtabk": "KSG",
+  "ausfertigung_datum": "2019-12-12",
+  "bjnr": "BJNR251310019",
+  "eli": null,
+  "gii_slug": "ksg",
+  "ingested_at": "2026-04-17T15:23:54Z",
+  "jurabk": "KSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4f3b0fc7b07e74429f0852b1840e1ca33a2292df538bdf23dde0bad9085de9a0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ksg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ksg/xml.zip"
+  },
+  "stand_datum": "2024-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 15.7.2024 I Nr. 235",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundes-Klimaschutzgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

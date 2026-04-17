@@ -1,0 +1,26 @@
+{
+  "amtabk": "FAnpG",
+  "ausfertigung_datum": "1971-08-30",
+  "bjnr": "BJNR014260971",
+  "eli": null,
+  "gii_slug": "fanpg",
+  "ingested_at": "2026-04-17T15:21:19Z",
+  "jurabk": "FAnpG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "72548c557a13f79b407b09af76726273ba81b83ab8904c4d0c1c436379e88b41"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fanpg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fanpg/xml.zip"
+  },
+  "stand_datum": "1975-05-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. V § 6 G v. 23.5.1975 I 1173",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Anpassung verschiedener Vorschriften über die Finanzbeziehungen zwischen dem Bund und den Ländern an die Neuregelung der Finanzverfassung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

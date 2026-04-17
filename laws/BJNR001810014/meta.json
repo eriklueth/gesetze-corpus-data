@@ -1,0 +1,26 @@
+{
+  "amtabk": "DesignV",
+  "ausfertigung_datum": "2014-01-02",
+  "bjnr": "BJNR001810014",
+  "eli": null,
+  "gii_slug": "designv",
+  "ingested_at": "2026-04-17T15:20:04Z",
+  "jurabk": "DesignV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "124d2b21f53803f12bc630d0a8b2a1ee94affed73d8ba2d9b2380640ef7a16a4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/designv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/designv/xml.zip"
+  },
+  "stand_datum": "2021-08-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 11 Abs. 2 G v. 10.8.2021 I 3490",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Ausführung des Designgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

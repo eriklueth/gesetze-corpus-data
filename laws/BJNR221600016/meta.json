@@ -1,0 +1,26 @@
+{
+  "amtabk": "SVLFGGÜbV",
+  "ausfertigung_datum": "2016-10-06",
+  "bjnr": "BJNR221600016",
+  "eli": null,
+  "gii_slug": "svlfgg_bv",
+  "ingested_at": "2026-04-17T15:29:14Z",
+  "jurabk": "SVLFGGÜbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dd1622d24b3c2334a8dafb921e9a91b151bbf879ea6d4f802db4567efbc42030"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svlfgg_bv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svlfgg_bv/xml.zip"
+  },
+  "stand_datum": "2019-12-12",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 57 Abs. 34 G v. 12.12.2019 I 2652",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung zur Übertragung der Ermächtigung zum Erlass einer Rechtsverordnung nach dem Gesetz zur Errichtung der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

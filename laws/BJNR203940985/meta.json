@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1985-02-20",
+  "bjnr": "BJNR203940985",
+  "eli": null,
+  "gii_slug": "drag_isr_1980",
+  "ingested_at": "2026-04-17T15:20:04Z",
+  "jurabk": "DRAG ISR 1980",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6c89ac6bbfc6cc3f34c99ce43ef4b22d113b91c835b281a2872fcf28eec0622f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/drag_isr_1980/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/drag_isr_1980/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 29. Mai 1980 zwischen der Bundesrepublik Deutschland und dem Staat Israel zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Nachlaß- und Erbschaftssteuern in der Fassung des Änderungsprotokolls vom 20. Januar 1984",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "BImADiszV",
+  "ausfertigung_datum": "2010-08-13",
+  "bjnr": "BJNR117600010",
+  "eli": null,
+  "gii_slug": "bimadiszv",
+  "ingested_at": "2026-04-17T15:18:22Z",
+  "jurabk": "BImADiszV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "441f083ff8bc97e1852f92b55ffcf44566eee4e74ed37d2edbda91afbe11065a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimadiszv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimadiszv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Übertragung von Disziplinarbefugnissen auf die Bundesanstalt für Immobilienaufgaben",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

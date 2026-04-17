@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-06-25",
+  "bjnr": "BJNR063420009",
+  "eli": null,
+  "gii_slug": "irenasag",
+  "ingested_at": "2026-04-17T15:23:11Z",
+  "jurabk": "IRENASaG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5a790e80c68f29b00987a5af99253687f91af700f964a65ffc4d3e1511c9d426"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/irenasag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/irenasag/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu der Satzung vom 26. Januar 2009 der Internationalen Organisation für erneuerbare Energien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

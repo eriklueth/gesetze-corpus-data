@@ -1,0 +1,26 @@
+{
+  "amtabk": "VergWerkeRegV",
+  "ausfertigung_datum": "2014-04-10",
+  "bjnr": "BJNR034600014",
+  "eli": null,
+  "gii_slug": "vergwerkeregv",
+  "ingested_at": "2026-04-17T15:30:03Z",
+  "jurabk": "VergWerkeRegV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "82e8fa239ea8961d7340c4cdfd05df276b1f3e5b44b9c84bf3526fa4b4c3a965"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vergwerkeregv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vergwerkeregv/xml.zip"
+  },
+  "stand_datum": "2016-05-24",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 G v. 24.5.2016 I 1190",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Register vergriffener Werke",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "EUStAG",
+  "ausfertigung_datum": "2020-07-10",
+  "bjnr": "BJNR164810020",
+  "eli": null,
+  "gii_slug": "eustag",
+  "ingested_at": "2026-04-17T15:21:05Z",
+  "jurabk": "EUStAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0c691e9b3914500ed0e50ffa54c4ecab44527d8127400131ef42cc5815793be3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eustag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eustag/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Ausführung der EU-Verordnung zur Errichtung der Europäischen Staatsanwaltschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2017-07-17",
+  "bjnr": "BJNR110620017",
+  "eli": null,
+  "gii_slug": "sozsichabkg_mda",
+  "ingested_at": "2026-04-17T15:28:34Z",
+  "jurabk": "SozSichAbkG MDA",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fcd65110b17604e1248d6eff6ed918e1811928f6fe526347ad09c1b729949a50"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkg_mda/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkg_mda/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 12. Januar 2017 zwischen der Bundesrepublik Deutschland und der Republik Moldau über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

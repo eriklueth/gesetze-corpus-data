@@ -1,0 +1,21 @@
+{
+  "amtabk": "MPVerfV",
+  "ausfertigung_datum": "2022-01-18",
+  "bjnr": "BJNR003910022",
+  "eli": null,
+  "gii_slug": "mpverfv",
+  "ingested_at": "2026-04-17T15:25:00Z",
+  "jurabk": "MPVerfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b61331515fd95c89fe7e61e1f2b109188b4464a848916549721c70c6e5be3400"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mpverfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mpverfv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über das Zulassungs- und allgemeine Prüfungsverfahren für die Meisterprüfung im Handwerk und in handwerksähnlichen Gewerben",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

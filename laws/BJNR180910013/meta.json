@@ -1,0 +1,26 @@
+{
+  "amtabk": "EUAHiG",
+  "ausfertigung_datum": "2013-06-26",
+  "bjnr": "BJNR180910013",
+  "eli": null,
+  "gii_slug": "euahig",
+  "ingested_at": "2026-04-17T15:20:52Z",
+  "jurabk": "EUAHiG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8d8a79a86f4a4e3229f847883d3371a2fa9f74a57f1a053195c79689e82f8b71"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euahig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euahig/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 22.12.2025 I Nr. 353",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Durchführung der gegenseitigen Amtshilfe in Steuersachen zwischen den Mitgliedstaaten der Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

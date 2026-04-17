@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-02-13",
+  "bjnr": "BJNR0310O0023",
+  "eli": null,
+  "gii_slug": "bizihecabkv",
+  "ingested_at": "2026-04-17T15:18:27Z",
+  "jurabk": "BIZIHECAbkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7436f11d005d549fe04ee1d898bad8a6e76f0e4a7a4ae4ec05f377d2413ad5eb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bizihecabkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bizihecabkv/xml.zip"
+  },
+  "stand_datum": "2023-03-27",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. Art. 2 Abs. 2 an dem Tag außer Kraft, an dem das Abkommen außer Kraft tritt",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Die V ist gem. Art. 2 Abs. 1 iVm Bek. v. 27.3.2023 II Nr. 89 am 20.2.2023 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zu dem Abkommen vom 9. Dezember 2022 zwischen der Regierung der Bundesrepublik Deutschland und der Bank für Internationalen Zahlungsausgleich über das BIZ Innovation Hub Eurosystem Centre in Frankfurt am Main",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

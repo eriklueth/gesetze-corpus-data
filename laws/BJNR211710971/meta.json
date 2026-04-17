@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1964-07-08",
+  "bjnr": "BJNR211710971",
+  "eli": null,
+  "gii_slug": "iao_bk_121",
+  "ingested_at": "2026-04-17T15:22:52Z",
+  "jurabk": "IAOÜbk 121",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c34f88e0d3854a2070a4d7b026cd146059d0583b43786a1c61ef7b17dbf434ad"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/iao_bk_121/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/iao_bk_121/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen Nr. 121 (der internationalen Arbeitsorganisation) über Leistungen bei Arbeitsunfällen und Berufskrankheiten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

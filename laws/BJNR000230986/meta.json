@@ -1,0 +1,30 @@
+{
+  "amtabk": "BSAVfV",
+  "ausfertigung_datum": "1985-12-30",
+  "bjnr": "BJNR000230986",
+  "eli": null,
+  "gii_slug": "bsavfv",
+  "ingested_at": "2026-04-17T15:19:11Z",
+  "jurabk": "BSAVfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b3b047b107dfd049eac3710e1a8dac3656200aca7f1ff9e667c06d4708019e18"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bsavfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bsavfv/xml.zip"
+  },
+  "stand_datum": "2004-09-28",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 28.9.2004 I 2552;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 V v. 9.10.2019 I 1441",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Verfahren vor dem Bundessortenamt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "PflSchadORZV",
+  "ausfertigung_datum": "2019-04-10",
+  "bjnr": "BJNR048500019",
+  "eli": null,
+  "gii_slug": "pflschadorzv",
+  "ingested_at": "2026-04-17T15:26:45Z",
+  "jurabk": "PflSchadORZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "876592517b59c4e517cdf5da7e5f9ee6863fbf0927454e1704d3071078a7bc51"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflschadorzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflschadorzv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums für Schadorganismen der Pflanzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

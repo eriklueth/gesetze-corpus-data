@@ -1,0 +1,26 @@
+{
+  "amtabk": "MaSanV",
+  "ausfertigung_datum": "2020-03-12",
+  "bjnr": "BJNR064400020",
+  "eli": null,
+  "gii_slug": "masanv",
+  "ingested_at": "2026-04-17T15:24:44Z",
+  "jurabk": "MaSanV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "61d0d5c2d5e9b88a43e745bd20732436f1904b4cef630ddc2e969be0bda54165"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/masanv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/masanv/xml.zip"
+  },
+  "stand_datum": "2024-12-03",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 3.12.2024 I Nr. 392",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zu den Mindestanforderungen an Sanierungspläne für Institute",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-05-02",
+  "bjnr": "BJNR090220999",
+  "eli": null,
+  "gii_slug": "sozsichabk_hun",
+  "ingested_at": "2026-04-17T15:28:27Z",
+  "jurabk": "SozSichAbk HUN",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1476073726f7f2a406ab659d797b0d3de82e2e1b2599f010224c48c9b52031a0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabk_hun/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabk_hun/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Ungarn über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

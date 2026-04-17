@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-05-06",
+  "bjnr": "BJNR002470959",
+  "eli": null,
+  "gii_slug": "ordennachwv",
+  "ingested_at": "2026-04-17T15:26:19Z",
+  "jurabk": "OrdenNachwV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "636b6541a37e8d4e13ae63a0cb75b09accc57f57d5704d5f56bfdedced8abed4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ordennachwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ordennachwv/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 15 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Besitznachweis für Orden und Ehrenzeichen und den Nachweis von Verwundungen und Beschädigungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

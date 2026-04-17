@@ -1,0 +1,26 @@
+{
+  "amtabk": "StVZO",
+  "ausfertigung_datum": "2012-04-26",
+  "bjnr": "BJNR067910012",
+  "eli": null,
+  "gii_slug": "stvzo_2012",
+  "ingested_at": "2026-04-17T15:29:08Z",
+  "jurabk": "StVZO 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "42ddb095fa16ca88ffc659be52b50e1d89fb7308adf9e97f945c3f927840d4f0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvzo_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvzo_2012/xml.zip"
+  },
+  "stand_datum": "2024-06-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 10.6.2024 I Nr. 191",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Straßenverkehrs-Zulassungs-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-09-02",
+  "bjnr": "BJNR021519974",
+  "eli": null,
+  "gii_slug": "di_teng_ndg_2",
+  "ingested_at": "2026-04-17T15:20:00Z",
+  "jurabk": "DiätenGÄndG 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c4b73f3526a2bdb784d83737e1d72c16aea7962da827e785cfcd82833663d0d5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/di_teng_ndg_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/di_teng_ndg_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweites Gesetz zur Änderung des Diätengesetzes 1968",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

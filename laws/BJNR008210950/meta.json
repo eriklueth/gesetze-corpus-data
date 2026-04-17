@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1950-12-28",
+  "bjnr": "BJNR008210950",
+  "eli": null,
+  "gii_slug": "krfrhemmg",
+  "ingested_at": "2026-04-17T15:23:51Z",
+  "jurabk": "KrFrHemmG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7a1ef9165c68050e188c8bbc4cb6261fa5f5dad8e3914c52e5669860755e6465"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/krfrhemmg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/krfrhemmg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über den Ablauf der durch Kriegs- oder Nachkriegsvorschriften gehemmten Fristen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

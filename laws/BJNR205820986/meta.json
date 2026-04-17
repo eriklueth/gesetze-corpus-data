@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-04-10",
+  "bjnr": "BJNR205820986",
+  "eli": null,
+  "gii_slug": "sozsichabktung",
+  "ingested_at": "2026-04-17T15:28:38Z",
+  "jurabk": "SozSichAbkTUNG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dfa810df1430bb9a6a44f69a13f5ab7c2d13d385acb4afe64f694c915d0503aa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabktung/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabktung/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Nr. 9 G v. 27. 4.2002 I 1464",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Abkommen vom 16. April 1984 zwischen der Bundesrepublik Deutschland und der Tunesischen Republik über Soziale Sicherheit, dem Zusatzprotokoll zu diesem Abkommen und der Vereinbarung zur Durchführung des Abkommens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

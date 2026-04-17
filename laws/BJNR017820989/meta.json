@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-09-19",
+  "bjnr": "BJNR017820989",
+  "eli": null,
+  "gii_slug": "bmptamtsbezano",
+  "ingested_at": "2026-04-17T15:18:46Z",
+  "jurabk": "BMPTAmtsbezAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "518c9202a1ecb4dac523102dec3d0fc0fa729ea7ae4020d0da1741d6b2881c89"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmptamtsbezano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmptamtsbezano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundesministers für Post und Telekommunikation über die Festsetzung von Amtsbezeichnungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "WpÜG",
+  "ausfertigung_datum": "2001-12-20",
+  "bjnr": "BJNR382210001",
+  "eli": null,
+  "gii_slug": "wp_g",
+  "ingested_at": "2026-04-17T15:30:46Z",
+  "jurabk": "WpÜG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aff8bf4b0776c19e1c8d74084f4690ed0235af748411106e11ff8cf4292b549e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wp_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wp_g/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 13 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Wertpapiererwerbs- und Übernahmegesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

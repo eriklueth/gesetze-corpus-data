@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-04-05",
+  "bjnr": "BJNR009810992",
+  "eli": null,
+  "gii_slug": "telekomernanoergano",
+  "ingested_at": "2026-04-17T15:29:21Z",
+  "jurabk": "TELEKOMErnAnOErgAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "26cd250027b6a32622b0fdc8bde484f4c90bd8c750fbe60d9b8cea3d0a1a5f6d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/telekomernanoergano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/telekomernanoergano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Ergänzung der Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich der Deutschen Bundespost Telekom",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

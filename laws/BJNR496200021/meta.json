@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2021-11-23",
+  "bjnr": "BJNR496200021",
+  "eli": null,
+  "gii_slug": "rsgabsentgv",
+  "ingested_at": "2026-04-17T15:27:28Z",
+  "jurabk": "RSGAbsEntgV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7275cf445e3b563642e74078eacd61e1a9da0802f6572db842f7028b2e1a6f19"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rsgabsentgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rsgabsentgv/xml.zip"
+  },
+  "stand_datum": "2027-11-01",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 4 mWv 1.11.2027 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung über die Erhebung eines Entgelts für die staatliche Absicherung nach dem Reisesicherungsfondsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

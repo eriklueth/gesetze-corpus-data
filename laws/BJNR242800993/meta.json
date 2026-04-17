@@ -1,0 +1,26 @@
+{
+  "amtabk": "LSpV",
+  "ausfertigung_datum": "1993-12-21",
+  "bjnr": "BJNR242800993",
+  "eli": null,
+  "gii_slug": "lspv",
+  "ingested_at": "2026-04-17T15:24:09Z",
+  "jurabk": "LSpV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a017ce4d68f43aa0991cd79a13d9382375ee5f84e7643f74ce25124594adcf37"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lspv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lspv/xml.zip"
+  },
+  "stand_datum": "2024-06-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 V v. 24.6.2024 I Nr. 215",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Lebensmittelspezialitätengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

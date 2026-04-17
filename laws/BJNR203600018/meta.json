@@ -1,0 +1,30 @@
+{
+  "amtabk": "StrlSchV",
+  "ausfertigung_datum": "2018-11-29",
+  "bjnr": "BJNR203600018",
+  "eli": null,
+  "gii_slug": "strlschv_2018",
+  "ingested_at": "2026-04-17T15:29:00Z",
+  "jurabk": "StrlSchV 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2fd93655e5f3083784a0c43679044e6b5643c54eac1652f5148f38ad775a16e7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/strlschv_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/strlschv_2018/xml.zip"
+  },
+  "stand_datum": "2024-10-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 10 G v. 23.10.2024 I Nr. 324",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 751-1-8 v. 20.7.2001 I 1714; 2002 I 1459 (StrlSchV 2001)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zum Schutz vor der schädlichen Wirkung ionisierender Strahlung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

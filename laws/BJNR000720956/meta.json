@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-02-11",
+  "bjnr": "BJNR000720956",
+  "eli": null,
+  "gii_slug": "auslwbgdv_11",
+  "ingested_at": "2026-04-17T15:17:22Z",
+  "jurabk": "AuslWBGDV 11",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9a9caaf9f526e6d9e5e33167d816c63423f04b421015538f1364032063a5e58f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/auslwbgdv_11/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/auslwbgdv_11/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Elfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Dritte Verlängerung der Anmeldefrist)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

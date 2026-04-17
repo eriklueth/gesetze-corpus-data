@@ -1,0 +1,26 @@
+{
+  "amtabk": "MinÖlDatG",
+  "ausfertigung_datum": "1988-12-20",
+  "bjnr": "BJNR023530988",
+  "eli": null,
+  "gii_slug": "min_ldatg",
+  "ingested_at": "2026-04-17T15:24:52Z",
+  "jurabk": "MinÖlDatG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9b81c3d729d609bc299d7b7ecd6f847e138bc05c7ea827e1387c3631cd15d4b4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/min_ldatg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/min_ldatg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 258 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

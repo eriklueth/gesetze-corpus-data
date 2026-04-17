@@ -1,0 +1,26 @@
+{
+  "amtabk": "NachwV",
+  "ausfertigung_datum": "2006-10-20",
+  "bjnr": "BJNR229810006",
+  "eli": null,
+  "gii_slug": "nachwv_2007",
+  "ingested_at": "2026-04-17T15:25:52Z",
+  "jurabk": "NachwV 2007",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e6e64f9851ce73951b066eef8e0cb9c3985e36b029d01e38e42b93ccd9d833e3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nachwv_2007/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nachwv_2007/xml.zip"
+  },
+  "stand_datum": "2022-04-28",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 V v. 28.4.2022 I 700",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Nachweisführung bei der Entsorgung von Abfällen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

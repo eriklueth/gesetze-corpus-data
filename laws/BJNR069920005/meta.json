@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-08-03",
+  "bjnr": "BJNR069920005",
+  "eli": null,
+  "gii_slug": "gii050699",
+  "ingested_at": "2026-04-17T15:22:13Z",
+  "jurabk": "GII050699",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f020371973c1e5f3281f6ef4dd64c1e92cd4cfa8c6f1df35224b2530d9af8a5f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gii050699/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gii050699/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 28. August 1997 zwischen der Bundesrepublik Deutschland und der Kirgisischen Republik über die Förderung und den gegenseitigen Schutz von Kapitalanlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

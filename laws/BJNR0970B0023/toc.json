@@ -1,0 +1,806 @@
+{
+  "bjnr": "BJNR0970B0023",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Staatliche Anerkennung des Ausbildungsberufes",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Dauer der Berufsausbildung",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Gegenstand der Berufsausbildung und Ausbildungsrahmenplan",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Struktur der Ausbildung und Ausbildungsberufsbild",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Ausbildungsplan",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 1 Aufteilung der Abschlussprüfung, Teil 1 der Abschlussprüfung"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Aufteilung in zwei Teile und Zeitpunkt",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 1 Aufteilung der Abschlussprüfung, Teil 1 der Abschlussprüfung"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Inhalt des Teiles 1",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 1 Aufteilung der Abschlussprüfung, Teil 1 der Abschlussprüfung"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Prüfungsbereich des Teiles 1",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 2 Teil 2 der Abschlussprüfung in der Fachrichtung Formteile"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Inhalt des Teiles 2",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 2 Teil 2 der Abschlussprüfung in der Fachrichtung Formteile"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Prüfungsbereiche des Teiles 2",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 2 Teil 2 der Abschlussprüfung in der Fachrichtung Formteile"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Prüfungsbereich „Herstellen von Formteilen“",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 2 Teil 2 der Abschlussprüfung in der Fachrichtung Formteile"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Prüfungsbereich „Verfahrenstechnische Systeme“",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 2 Teil 2 der Abschlussprüfung in der Fachrichtung Formteile"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Prüfungsbereich „Produktionsplanung und -analyse“",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 2 Teil 2 der Abschlussprüfung in der Fachrichtung Formteile"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Prüfungsbereich „Wirtschafts- und Sozialkunde“",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 2 Teil 2 der Abschlussprüfung in der Fachrichtung Formteile"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 2 Teil 2 der Abschlussprüfung in der Fachrichtung Formteile"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Mündliche Ergänzungsprüfung",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 3 Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Inhalt des Teiles 2",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 3 Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Prüfungsbereiche des Teiles 2",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 3 Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Prüfungsbereich „Herstellen von Halbzeugen“",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 3 Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Prüfungsbereich „Verfahrenstechnische Systeme“",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 3 Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Prüfungsbereich „Produktionsplanung und -analyse“",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 3 Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Prüfungsbereich „Wirtschafts- und Sozialkunde“",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 3 Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 3 Teil 2 der Abschlussprüfung in der Fachrichtung Halbzeuge"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Mündliche Ergänzungsprüfung",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 4 Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Inhalt des Teiles 2",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 4 Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Prüfungsbereiche des Teiles 2",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 4 Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Prüfungsbereich „Herstellen von Mehrschichtkautschukteilen“",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 4 Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Prüfungsbereich „Verfahrenstechnische Systeme“",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 4 Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Prüfungsbereich „Produktionsplanung und -analyse“",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 4 Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Prüfungsbereich „Wirtschafts- und Sozialkunde“",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 4 Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 4 Teil 2 der Abschlussprüfung in der Fachrichtung Mehrschichtkautschukteile"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Mündliche Ergänzungsprüfung",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 5 Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Inhalt des Teiles 2",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 5 Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Prüfungsbereiche des Teiles 2",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 5 Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Prüfungsbereich „Herstellen von Compounds und Masterbatches“",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 5 Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Prüfungsbereich „Verfahrenstechnische Systeme“",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 5 Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Prüfungsbereich „Kunststoffprüfung und Qualitätsmanagement“",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 5 Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Prüfungsbereich „Wirtschafts- und Sozialkunde“",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 5 Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 5 Teil 2 der Abschlussprüfung in der Fachrichtung Compound- und Masterbatchherstellung"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Mündliche Ergänzungsprüfung",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 6 Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Inhalt des Teiles 2",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 6 Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Prüfungsbereiche des Teiles 2",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 6 Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Prüfungsbereich „Fertigungsauftrag“",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 6 Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Prüfungsbereich „Reparieren und Instandsetzen“",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 6 Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Prüfungsbereich „Fertigungstechnik und technische Kommunikation“",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 6 Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Prüfungsbereich „Wirtschafts- und Sozialkunde“",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 6 Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 6 Teil 2 der Abschlussprüfung in der Fachrichtung Bauteile"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Mündliche Ergänzungsprüfung",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 7 Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Inhalt des Teiles 2",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 7 Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Prüfungsbereiche des Teiles 2",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 7 Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Prüfungsbereich „Herstellen von Faserverbundbauteilen“",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 7 Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Prüfungsbereich „Verfahrenstechnische Systeme“",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 7 Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Prüfungsbereich „Produktionsplanung und -analyse“",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 7 Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Prüfungsbereich „Wirtschafts- und Sozialkunde“",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 7 Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 7 Teil 2 der Abschlussprüfung in der Fachrichtung Faserverbundtechnologie"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Mündliche Ergänzungsprüfung",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 8 Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Inhalt des Teiles 2",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 8 Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Prüfungsbereiche des Teiles 2",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 8 Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Prüfungsbereich „Herstellen von Fenster-, Tür- oder Fassadenelementen“",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 8 Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Prüfungsbereich „Fertigungstechnik“",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 8 Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Prüfungsbereich „Produktionsplanung und -analyse“",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 8 Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Prüfungsbereich „Wirtschafts- und Sozialkunde“",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 8 Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 2 Abschlussprüfung",
+        "Unterabschnitt 8 Teil 2 der Abschlussprüfung in der Fachrichtung Kunststofffenster"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Mündliche Ergänzungsprüfung",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 3 Zusatzqualifikationen",
+        "Unterabschnitt 1 Zusatzqualifikation „Additive Fertigungsverfahren“"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Inhalt der Zusatzqualifikation",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 3 Zusatzqualifikationen",
+        "Unterabschnitt 1 Zusatzqualifikation „Additive Fertigungsverfahren“"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Prüfung der Zusatzqualifikation",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 3 Zusatzqualifikationen",
+        "Unterabschnitt 1 Zusatzqualifikation „Additive Fertigungsverfahren“"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Durchführung und Bestehen der Prüfung der Zusatzqualifikation",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 3 Zusatzqualifikationen",
+        "Unterabschnitt 2 Zusatzqualifikation „Prozessintegration“"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Inhalt der Zusatzqualifikation",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 3 Zusatzqualifikationen",
+        "Unterabschnitt 2 Zusatzqualifikation „Prozessintegration“"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Prüfung der Zusatzqualifikation",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 3 Zusatzqualifikationen",
+        "Unterabschnitt 2 Zusatzqualifikation „Prozessintegration“"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Durchführung und Bestehen der Prüfung der Zusatzqualifikation",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 4 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 4 Schlussvorschriften"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 3 Absatz 1)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 4 Schlussvorschriften"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 65 Absatz 2)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Gegenstand, Dauer und Gliederung der Berufsausbildung",
+        "Abschnitt 4 Schlussvorschriften"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(zu § 68 Absatz 2)",
+      "number": "Anlage 3",
+      "type": "annex"
+    }
+  ]
+}

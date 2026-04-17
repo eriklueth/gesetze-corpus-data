@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1949-09-05",
+  "bjnr": "RPNR004380949",
+  "eli": null,
+  "gii_slug": "rentbkgrschg_rp",
+  "ingested_at": "2026-04-17T15:27:17Z",
+  "jurabk": "RentBkGrSchG RP",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "982386e5f77de6375b47002e678921a94cc49eca58187111e626d3608e8dee43"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rentbkgrschg_rp/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rentbkgrschg_rp/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Landesgesetz über die Rentenbankgrundschuld im Lande Rheinland-Pfalz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

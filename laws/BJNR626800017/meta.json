@@ -1,0 +1,21 @@
+{
+  "amtabk": "SeilbDGGebV",
+  "ausfertigung_datum": "2017-09-18",
+  "bjnr": "BJNR626800017",
+  "eli": null,
+  "gii_slug": "seilbdggebv",
+  "ingested_at": "2026-04-17T15:28:05Z",
+  "jurabk": "SeilbDGGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a42bf4c6d5003e13e02b2bfe9c46f19db36b6c62d9f5bf325eb904c578218b87"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seilbdggebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seilbdggebv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Seilbahndurchführungsgesetzgebührenverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

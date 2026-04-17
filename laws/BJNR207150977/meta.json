@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-12-04",
+  "bjnr": "BJNR207150977",
+  "eli": null,
+  "gii_slug": "sozsichabk2zvbg_esp",
+  "ingested_at": "2026-04-17T15:28:27Z",
+  "jurabk": "SozSichAbk2Zvbg ESP",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "63c17cb84a49d7dd3c63c3a75c9387a9b063d4915ad6649456f583d13a9ac0da"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabk2zvbg_esp/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabk2zvbg_esp/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzvereinbarung zu dem Abkommen vom 4. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

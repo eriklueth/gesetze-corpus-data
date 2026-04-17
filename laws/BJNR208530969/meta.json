@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-04-15",
+  "bjnr": "BJNR208530969",
+  "eli": null,
+  "gii_slug": "wastrgpolvermv",
+  "ingested_at": "2026-04-17T15:30:23Z",
+  "jurabk": "WaStrGPolVErmV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6ad47dde4d08c7d656d9fb60b92350aca444db5aeb9a7a9471c7cbdf5b1ec0b9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wastrgpolvermv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wastrgpolvermv/xml.zip"
+  },
+  "stand_datum": "2016-06-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 21 V v. 2.6.2016 I 1257",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Übertragung der Ermächtigung zum Erlaß von Strompolizeiverordnungen nach dem Bundeswasserstraßengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "HRV",
+  "ausfertigung_datum": "1937-08-12",
+  "bjnr": "BJNR705150937",
+  "eli": null,
+  "gii_slug": "hdlregvfg",
+  "ingested_at": "2026-04-17T15:22:45Z",
+  "jurabk": "HdlRegVfg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "14d61d4d493b6c98bc445d301172bcf70be5fc23a8e09492744d82fbc392395b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hdlregvfg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hdlregvfg/xml.zip"
+  },
+  "stand_datum": "2025-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 36 G v. 8.12.2025 I Nr. 319",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Einrichtung und Führung des Handelsregisters",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

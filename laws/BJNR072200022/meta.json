@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2022-04-06",
+  "bjnr": "BJNR072200022",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2022-04-06",
+  "ingested_at": "2026-04-17T15:25:25Z",
+  "jurabk": "Münz10EuroBek 2022-04-06",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d5b8256134e09ae1d44c075346473c3962e8dd7d02c68da2dfedaeab0adffc96"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2022-04-06/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2022-04-06/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Pflege“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-09-28",
+  "bjnr": "DDNR003650978",
+  "eli": null,
+  "gii_slug": "eurlv_ddr",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "EUrlV DDR",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f21d07840be58651949679f844e8b30c436555c36a8faec8c166e915302cbb71"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurlv_ddr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurlv_ddr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über den Erholungsurlaub",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

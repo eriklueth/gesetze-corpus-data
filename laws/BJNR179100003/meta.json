@@ -1,0 +1,26 @@
+{
+  "amtabk": "DVO-JuSchG",
+  "ausfertigung_datum": "2003-09-09",
+  "bjnr": "BJNR179100003",
+  "eli": null,
+  "gii_slug": "juschgdv",
+  "ingested_at": "2026-04-17T15:20:08Z",
+  "jurabk": "JuSchGDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3e11d0f654090e89f760835d0aa91d2ab9ca4a251a7f6ffc1b4714bbcca5120b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/juschgdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/juschgdv/xml.zip"
+  },
+  "stand_datum": "2024-05-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 13 G v. 6.5.2024 I Nr. 149",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Jugendschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

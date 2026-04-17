@@ -1,0 +1,26 @@
+{
+  "amtabk": "MinStG",
+  "ausfertigung_datum": "2023-12-21",
+  "bjnr": "BJNR18D0B0023",
+  "eli": null,
+  "gii_slug": "minstg",
+  "ingested_at": "2026-04-17T15:24:53Z",
+  "jurabk": "MinStG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2039aa4ee666f29449d0918075fe536448c067dd3c082888ff604ecf2f3d1245"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/minstg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/minstg/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 22.12.2025 I Nr. 353",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Gewährleistung einer globalen Mindestbesteuerung für Unternehmensgruppen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

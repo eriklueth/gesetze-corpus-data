@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZSKG",
+  "ausfertigung_datum": "1997-03-25",
+  "bjnr": "BJNR072610997",
+  "eli": null,
+  "gii_slug": "zsg",
+  "ingested_at": "2026-04-17T15:31:28Z",
+  "jurabk": "ZSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1866d983c0c5e284f273df3827ad0e1d78700af82f86ab2589f61f2d80987294"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zsg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zsg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 144 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Zivilschutz und die Katastrophenhilfe des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

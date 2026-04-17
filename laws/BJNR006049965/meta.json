@@ -1,0 +1,30 @@
+{
+  "amtabk": "HWG",
+  "ausfertigung_datum": "1965-07-11",
+  "bjnr": "BJNR006049965",
+  "eli": null,
+  "gii_slug": "heilmwerbg",
+  "ingested_at": "2026-04-17T15:22:48Z",
+  "jurabk": "HeilMWerbG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6f7e7634262acad38fbdec55faddc71ec1dbc5d2eb1c3d1b7ab3475df6a92e78"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/heilmwerbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/heilmwerbg/xml.zip"
+  },
+  "stand_datum": "1994-10-19",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 19.10.1994 I 3068;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 7 G v. 19.7.2023 I Nr. 197",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Werbung auf dem Gebiete des Heilwesens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

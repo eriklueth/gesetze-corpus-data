@@ -1,0 +1,26 @@
+{
+  "amtabk": "BodSchätzG",
+  "ausfertigung_datum": "2007-12-20",
+  "bjnr": "BJNR317600007",
+  "eli": null,
+  "gii_slug": "bodsch_tzg_2008",
+  "ingested_at": "2026-04-17T15:18:53Z",
+  "jurabk": "BodSchätzG 2008",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6d1f6c47c47b9e6a651c4a0cf63f9a9a92a965cefa46154a643f64a1f2b55680"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bodsch_tzg_2008/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bodsch_tzg_2008/xml.zip"
+  },
+  "stand_datum": "2023-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 33 G v. 22.12.2023 I Nr. 411",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Schätzung des landwirtschaftlichen Kulturbodens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

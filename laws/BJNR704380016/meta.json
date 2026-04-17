@@ -1,0 +1,26 @@
+{
+  "amtabk": "StrandschutzwerkSicherungsV",
+  "ausfertigung_datum": "2016-06-06",
+  "bjnr": "BJNR704380016",
+  "eli": null,
+  "gii_slug": "strandschutzwerksicherungsv",
+  "ingested_at": "2026-04-17T15:28:59Z",
+  "jurabk": "StrandschutzwerkSicherungsV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c3c72b6654669241b0586547dba38c08216f607053853b2a054f96a7598ff7f4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/strandschutzwerksicherungsv/xml.zip"
+  },
+  "stand_datum": "2019-09-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 2.9.2019 VkBl. 628",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bekanntmachung der Verordnung über die Sicherung von Strandschutzwerken auf der Nordseeinsel Borkum",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

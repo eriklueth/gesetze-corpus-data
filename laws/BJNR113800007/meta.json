@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-06-14",
+  "bjnr": "BJNR113800007",
+  "eli": null,
+  "gii_slug": "versorgausglanglfaktorbek_2007",
+  "ingested_at": "2026-04-17T15:30:09Z",
+  "jurabk": "VersorgAusglAnglFaktorBek 2007",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2d8af2dcdbc77a044ac19d1d3553d2e93cc816ac5623be54e267250890d38957"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/versorgausglanglfaktorbek_2007/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/versorgausglanglfaktorbek_2007/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

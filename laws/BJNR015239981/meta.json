@@ -1,0 +1,26 @@
+{
+  "amtabk": "2. HStruktG",
+  "ausfertigung_datum": "1981-12-22",
+  "bjnr": "BJNR015239981",
+  "eli": null,
+  "gii_slug": "hstruktg_2",
+  "ingested_at": "2026-04-17T15:16:32Z",
+  "jurabk": "HStruktG 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0ecd9cd415d3e65ed3b79dbdcaf2b1f3b9f1df2123d9e283ed052591c9c847e2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hstruktg_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hstruktg_2/xml.zip"
+  },
+  "stand_datum": "1998-06-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 14. G v. 29.6.1998 I 1666, 3128",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweites Gesetz zur Verbesserung der Haushaltsstruktur",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

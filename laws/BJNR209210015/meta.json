@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2015-11-25",
+  "bjnr": "BJNR209210015",
+  "eli": null,
+  "gii_slug": "nagprotumsg_euv511_2014dg",
+  "ingested_at": "2026-04-17T15:25:53Z",
+  "jurabk": "NagProtUmsG/EUV511/2014DG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4d6692f44ad59acc4c60946584b402526aa1b7c53b68006223c2574ed89efecb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nagprotumsg_euv511_2014dg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nagprotumsg_euv511_2014dg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 35 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Umsetzung der Verpflichtungen nach dem Nagoya-Protokoll und zur Durchführung der Verordnung (EU) Nr. 511/2014",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1968-05-03",
+  "bjnr": "BJNR003340968",
+  "eli": null,
+  "gii_slug": "di_teng",
+  "ingested_at": "2026-04-17T15:20:00Z",
+  "jurabk": "DiätenG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a49715a98eaaf7b45d0c55fdecce7333b726c1ed6578e61f8e5447a30982acc0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/di_teng/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/di_teng/xml.zip"
+  },
+  "stand_datum": "1977-02-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. VIII G v. 18.2.1977 I 297",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Dieses Gesetz wurde mit Einschränkung aufgeh. durch Art. I § 46 Abs. 1 Satz 2 G v. 18.2.1977 I 297",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Gesetz über die Entschädigung der Mitglieder des Bundestages",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

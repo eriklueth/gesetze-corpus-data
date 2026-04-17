@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-12-09",
+  "bjnr": "BJNR058820013",
+  "eli": null,
+  "gii_slug": "eubeitrvtr_hrv",
+  "ingested_at": "2026-04-17T15:20:54Z",
+  "jurabk": "EUBeitrVtr HRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ef799cac85f94ce2aced5f6ec77b7faedc644b1fb9c4a88b5005e53869c354df"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eubeitrvtr_hrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eubeitrvtr_hrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen dem Königreich Belgien, der Republik Bulgarien, der Tschechischen Republik, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Republik Estland, Irland, der Hellenischen Republik, dem Königreich Spanien, der Französischen Republik, der Italienischen Republik, der Republik Zypern, der Republik Lettland, der Republik Litauen, dem Großherzogtum Luxemburg, der Republik Ungarn, der Republik Malta, dem Königreich der Niederlande, der Republik Österreich, der Republik Polen, der Portugiesischen Republik, Rumänien, der Republik Slowenien, der Slowakischen Republik, der Republik Finnland, dem Königreich Schweden, dem Vereinigten Königreich Großbritannien und Nordirland (Mitgliedstaaten der Europäischen Union) und der Republik Kroatien über den Beitritt der Republik Kroatien zur Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

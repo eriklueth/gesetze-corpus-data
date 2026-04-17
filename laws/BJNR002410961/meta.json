@@ -1,0 +1,34 @@
+{
+  "amtabk": "PBefG",
+  "ausfertigung_datum": "1961-03-21",
+  "bjnr": "BJNR002410961",
+  "eli": null,
+  "gii_slug": "pbefg",
+  "ingested_at": "2026-04-17T15:26:34Z",
+  "jurabk": "PBefG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c32714007ade47a752cb9ffb9ee814b51a8f56011add38fdac718f9e98a7ce3b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pbefg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pbefg/xml.zip"
+  },
+  "stand_datum": "1990-08-08",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 8.8.1990 I 1690;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 7 Abs. 4 G v. 11.4.2024 I Nr. 119",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 G v. 23.2.2026 I Nr. 47 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Personenbeförderungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

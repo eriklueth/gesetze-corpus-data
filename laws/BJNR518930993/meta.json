@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-09-20",
+  "bjnr": "BJNR518930993",
+  "eli": null,
+  "gii_slug": "luftvodv_131",
+  "ingested_at": "2026-04-17T15:24:19Z",
+  "jurabk": "LuftVODV 131",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "26ce7ce5776e8e6ba226f65f8836ed1b4e0283b0f12e255e826c3b8e2a413804"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_131/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_131/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hunderteinunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Dortmund-Wickede)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

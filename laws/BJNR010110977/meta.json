@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-06-24",
+  "bjnr": "BJNR010110977",
+  "eli": null,
+  "gii_slug": "beamtvg_43abs3v",
+  "ingested_at": "2026-04-17T15:17:58Z",
+  "jurabk": "BeamtVG§43Abs3V",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "566b04918a12ad3f75692bc15f226b6897867f6d2e9a7011110c4714b5e6862b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/beamtvg_43abs3v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/beamtvg_43abs3v/xml.zip"
+  },
+  "stand_datum": "2005-06-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 65 G v. 21.6.2005 I 1818",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die einmalige Unfallentschädigung nach § 43 Abs. 3 des Beamtenversorgungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1955-12-08",
+  "bjnr": "BJNR107490955",
+  "eli": null,
+  "gii_slug": "verdordenstat",
+  "ingested_at": "2026-04-17T15:30:01Z",
+  "jurabk": "VerdOrdenStat",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6371358e3146f892e72c986c72247fab18f8a2992469ef76afa8681be4dfa031"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verdordenstat/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verdordenstat/xml.zip"
+  },
+  "stand_datum": "1979-01-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 Erlass v. 29.1.1979 I 142",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Statut des \"Verdienstordens der Bundesrepublik Deutschland\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

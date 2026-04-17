@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1949-04-04",
+  "bjnr": "BJNR202890955",
+  "eli": null,
+  "gii_slug": "natovtr",
+  "ingested_at": "2026-04-17T15:25:54Z",
+  "jurabk": "NATOVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4ce47fc46a061ad0dd82bc135e32b36ebf6aa24e494799ff2ac4599136df6f55"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/natovtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/natovtr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Nordatlantikvertrag",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

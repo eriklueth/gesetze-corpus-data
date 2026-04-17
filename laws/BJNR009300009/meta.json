@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-01-22",
+  "bjnr": "BJNR009300009",
+  "eli": null,
+  "gii_slug": "ausbberaufhv_3",
+  "ingested_at": "2026-04-17T15:17:19Z",
+  "jurabk": "AusbBerAufhV 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "497e5c7ad7841b91c3f3f34ec62bb89d518424d268333f838f6956edeb863a18"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ausbberaufhv_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ausbberaufhv_3/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Dritte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

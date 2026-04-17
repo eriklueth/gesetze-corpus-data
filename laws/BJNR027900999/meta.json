@@ -1,0 +1,26 @@
+{
+  "amtabk": "LuftRegV",
+  "ausfertigung_datum": "1999-03-02",
+  "bjnr": "BJNR027900999",
+  "eli": null,
+  "gii_slug": "luftregv",
+  "ingested_at": "2026-04-17T15:24:15Z",
+  "jurabk": "LuftRegV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e0af18ed3a47bca46958d7c15e4611cc3d06607722e507e8a22e25009bfcaeb2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftregv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftregv/xml.zip"
+  },
+  "stand_datum": "2019-11-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 25 G v. 20.11.2019 I 1724",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Einrichtung und die Führung des Registers für Pfandrechte an Luftfahrzeugen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "BWO",
+  "ausfertigung_datum": "1985-08-28",
+  "bjnr": "BJNR017690985",
+  "eli": null,
+  "gii_slug": "bwo_1985",
+  "ingested_at": "2026-04-17T15:19:38Z",
+  "jurabk": "BWO 1985",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "11dedb83ca8ba1e400479ab215f246471f171b0f984778e5a7140c34493eec90"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bwo_1985/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bwo_1985/xml.zip"
+  },
+  "stand_datum": "2002-04-19",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 19.4.2002 I 1376;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 V v. 12.9.2024 I Nr. 283",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundeswahlordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

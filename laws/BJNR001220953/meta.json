@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1953-03-31",
+  "bjnr": "BJNR001220953",
+  "eli": null,
+  "gii_slug": "bpr_skldgbdigano",
+  "ingested_at": "2026-04-17T15:19:00Z",
+  "jurabk": "BPräsKldgBDiGAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e74716370bf6805bd7e2f595bd3edb2bc9e4b7c0ef9fadc2c9fb2f79584bed30"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_skldgbdigano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_skldgbdigano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Amtstracht bei den Bundesdisziplinargerichten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

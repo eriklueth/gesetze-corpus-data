@@ -1,0 +1,21 @@
+{
+  "amtabk": "KlempnerAusbV",
+  "ausfertigung_datum": "2013-06-21",
+  "bjnr": "BJNR161400013",
+  "eli": null,
+  "gii_slug": "klempnerausbv_2013",
+  "ingested_at": "2026-04-17T15:23:40Z",
+  "jurabk": "KlempnerAusbV 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6983c463a925f69e9ad7d0af9b26b8570a508a53605a699e9843d57182e3a4b3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/klempnerausbv_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/klempnerausbv_2013/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Klempner und zur Klempnerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

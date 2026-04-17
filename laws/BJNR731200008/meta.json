@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-01-30",
+  "bjnr": "BJNR731200008",
+  "eli": null,
+  "gii_slug": "wastrschlbetrzv_2008",
+  "ingested_at": "2026-04-17T15:30:23Z",
+  "jurabk": "WaStrSchlBetrZV 2008",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "76ece62b6389975045f79db8b4f0520a2ab3de699c4bb7493ca124a313656cc5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wastrschlbetrzv_2008/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wastrschlbetrzv_2008/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Schleusenbetriebszeiten an den Bundeswasserstraßen Main, Main-Donau-Kanal und Donau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

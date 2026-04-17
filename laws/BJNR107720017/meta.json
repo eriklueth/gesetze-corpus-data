@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2017-07-17",
+  "bjnr": "BJNR107720017",
+  "eli": null,
+  "gii_slug": "dbabkg_arm",
+  "ingested_at": "2026-04-17T15:19:46Z",
+  "jurabk": "DBAbkG ARM",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "25da27091839fb989e4205d17b81c3def4ebaecdeedd8de91e80fc8db4e025a0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbabkg_arm/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbabkg_arm/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 29. Juni 2016 zwischen der Bundesrepublik Deutschland und der Republik Armenien zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

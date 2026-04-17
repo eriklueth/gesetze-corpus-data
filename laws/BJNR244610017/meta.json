@@ -1,0 +1,34 @@
+{
+  "amtabk": "ZAG",
+  "ausfertigung_datum": "2017-07-17",
+  "bjnr": "BJNR244610017",
+  "eli": null,
+  "gii_slug": "zag_2018",
+  "ingested_at": "2026-04-17T15:31:14Z",
+  "jurabk": "ZAG 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6800d505c6d7ced54dcb15dc1b2f6ad0e2235f0e87ee190cf6091a37ccfa388d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zag_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zag_2018/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 43 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 17 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitett",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Ersetzt G 7610-16 v. 25.6.2009 I 1506 (ZAG)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über die Beaufsichtigung von Zahlungsdiensten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

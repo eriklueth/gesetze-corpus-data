@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2018-11-13",
+  "bjnr": "BJNR190500018",
+  "eli": null,
+  "gii_slug": "bbesg_bes_gbek_2018",
+  "ingested_at": "2026-04-17T15:17:53Z",
+  "jurabk": "BBesG/BesÜGBek 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "66f5542f84cd456823891a059da6060fef5dba0d76bd67a9465efcc0508cdbf5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbesg_bes_gbek_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbesg_bes_gbek_2018/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldungsgesetzes sowie nach § 5a Absatz 2 und § 6 Absatz 3 des Besoldungsüberleitungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

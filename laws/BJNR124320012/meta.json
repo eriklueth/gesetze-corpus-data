@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-10-23",
+  "bjnr": "BJNR124320012",
+  "eli": null,
+  "gii_slug": "grbr_ckvbgfrav",
+  "ingested_at": "2026-04-17T15:22:28Z",
+  "jurabk": "GrBrückVbgFRAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4390934c5fe753dbff6deeeed7d79d3f7bcb922d0e75268a80fa591da945e51c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grbr_ckvbgfrav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grbr_ckvbgfrav/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zu der Vereinbarung vom 20. März/25. April 2012 zwischen der Bundesrepublik Deutschland und der Französischen Republik über die Errichtung einer Grenzbrücke über den Rhein zwischen Kehl und Straßburg",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

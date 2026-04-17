@@ -1,0 +1,21 @@
+{
+  "amtabk": "ChirurgMAusbV",
+  "ausfertigung_datum": "1989-03-23",
+  "bjnr": "BJNR005720989",
+  "eli": null,
+  "gii_slug": "chirurgmausbv",
+  "ingested_at": "2026-04-17T15:19:39Z",
+  "jurabk": "ChirurgMAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cb1f866455932e4d57de5c553b10e8c7bb1d07b44c9e7b56f4eefa10f47499cf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/chirurgmausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/chirurgmausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Chirurgiemechaniker/zur Chirurgiemechanikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

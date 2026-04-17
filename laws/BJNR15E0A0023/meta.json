@@ -1,0 +1,21 @@
+{
+  "amtabk": "WpIPrüfbV",
+  "ausfertigung_datum": "2023-12-07",
+  "bjnr": "BJNR15E0A0023",
+  "eli": null,
+  "gii_slug": "wpipr_fbv",
+  "ingested_at": "2026-04-17T15:30:42Z",
+  "jurabk": "WpIPrüfbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b28c88b4c94e725c3a15934a79407d33fb4559860a9f4a56f94e977b026039e5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpipr_fbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpipr_fbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Prüfung der Jahresabschlüsse der Wertpapierinstitute sowie über die zu erstellenden Berichte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

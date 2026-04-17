@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-10-09",
+  "bjnr": "BJNR204010976",
+  "eli": null,
+  "gii_slug": "rv_uvabkvbg_pol",
+  "ingested_at": "2026-04-17T15:27:31Z",
+  "jurabk": "RV/UVAbkVbg POL",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "be98e1aaf5609b44a9e2f702dd52edf4e2fbe79c24cc4d8ca37e64a2c277e003"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rv_uvabkvbg_pol/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rv_uvabkvbg_pol/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vereinbarung (zu dem Abkommen zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über Renten- und Unfallversicherung)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

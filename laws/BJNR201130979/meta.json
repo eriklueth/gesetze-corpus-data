@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-02-14",
+  "bjnr": "BJNR201130979",
+  "eli": null,
+  "gii_slug": "satellit_bkg",
+  "ingested_at": "2026-04-17T15:27:39Z",
+  "jurabk": "SatellitÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "149e5a80fbb5ace79bbd3958cec91f67bd0d28fa391c721b2ea85eca73740472"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/satellit_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/satellit_bkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Übereinkommen vom 21. Mai 1974 über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

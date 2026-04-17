@@ -1,0 +1,26 @@
+{
+  "amtabk": "RRG",
+  "ausfertigung_datum": "1972-10-16",
+  "bjnr": "BJNR019659972",
+  "eli": null,
+  "gii_slug": "rrg",
+  "ingested_at": "2026-04-17T15:27:27Z",
+  "jurabk": "RRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "217ca88f3b82f832d58d7e38db517c129c54ac8e87d0020fa609d3f0908916e5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rrg/xml.zip"
+  },
+  "stand_datum": "2010-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 93 G v. 8.12.2010 I 1864",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur weiteren Reform der gesetzlichen Rentenversicherungen und über die Fünfzehnte Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

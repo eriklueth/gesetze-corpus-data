@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-04-16",
+  "bjnr": "BJNR104480980",
+  "eli": null,
+  "gii_slug": "wzg_4eg_egkombek",
+  "ingested_at": "2026-04-17T15:31:09Z",
+  "jurabk": "WZG§4EG/EGKomBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "46873e227c8825e03164236ed1082e828bbe668889fb4ddb7b71660028b38e9a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4eg_egkombek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4eg_egkombek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "VerklV",
+  "ausfertigung_datum": "2007-05-28",
+  "bjnr": "BJNR100500007",
+  "eli": null,
+  "gii_slug": "verklv",
+  "ingested_at": "2026-04-17T15:30:04Z",
+  "jurabk": "VerklV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e0b7ede4eb2675c315fe54dad0bf00df1bc281104a14e24a4c6d5cc81385cc0a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verklv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verklv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Bestimmung der zur Aufnahme von Verklarungen berechtigten Auslandsvertretungen der Bundesrepublik Deutschland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

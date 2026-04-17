@@ -1,0 +1,26 @@
+{
+  "amtabk": "DPAGÜbertrAnO",
+  "ausfertigung_datum": "2015-12-03",
+  "bjnr": "BJNR218900015",
+  "eli": null,
+  "gii_slug": "dpag_bertrano_2016",
+  "ingested_at": "2026-04-17T15:20:01Z",
+  "jurabk": "DPAGÜbertrAnO 2016",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bc6af1b80377269e3fe037a86fd52b9a730eb307430be0a1027103d8172d25db"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dpag_bertrano_2016/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dpag_bertrano_2016/xml.zip"
+  },
+  "stand_datum": "2025-09-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 AnO v. 18.9.2025 I Nr. 217",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Anordnung zur Übertragung beamtenrechtlicher Befugnisse und Zuständigkeiten im Bereich der Deutschen Post AG",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

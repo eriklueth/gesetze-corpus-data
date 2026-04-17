@@ -1,0 +1,26 @@
+{
+  "amtabk": "AsylZBV",
+  "ausfertigung_datum": "2008-04-02",
+  "bjnr": "BJNR064500008",
+  "eli": null,
+  "gii_slug": "asylzbv_2008",
+  "ingested_at": "2026-04-17T15:17:08Z",
+  "jurabk": "AsylZBV 2008",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e86b52ec450bb432f3b1ba62c3bfcd8839fe9368b21f6a6e05296e959208deb9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/asylzbv_2008/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/asylzbv_2008/xml.zip"
+  },
+  "stand_datum": "1993-11-26",
+  "standangabe": [
+    {
+      "kommentar": "Die V ersetzt die V 26-7-1 v. 26.11.1993 I 1914 mWv 11.4.2008",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Neufassung der Asylzuständigkeitsbestimmungsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

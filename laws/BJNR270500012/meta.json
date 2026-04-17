@@ -1,0 +1,21 @@
+{
+  "amtabk": "BargeldPrüfV",
+  "ausfertigung_datum": "2012-12-18",
+  "bjnr": "BJNR270500012",
+  "eli": null,
+  "gii_slug": "bargeldpr_fv",
+  "ingested_at": "2026-04-17T15:17:39Z",
+  "jurabk": "BargeldPrüfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f087a73506a5a2555f1a23d227608ccd9e2acb4ba264e336bb12beff7fbe2221"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bargeldpr_fv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bargeldpr_fv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Prüfung von Bargeld",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

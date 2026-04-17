@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1983-03-15",
+  "bjnr": "BJNR506210983",
+  "eli": null,
+  "gii_slug": "nordbinschhfv",
+  "ingested_at": "2026-04-17T15:26:02Z",
+  "jurabk": "NordBinSchHfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4a4fb6e76e5e7c284a27f793abf759842f01a9129de39ed7f61426344039f82d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nordbinschhfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nordbinschhfv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Schutz- und Sicherheitshäfen der Bundesrepublik Deutschland an Binnenschiffahrtsstraßen im Bereich der Wasser- und Schiffahrtsdirektion Nord",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

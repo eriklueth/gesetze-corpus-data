@@ -1,0 +1,21 @@
+{
+  "amtabk": "GPEV",
+  "ausfertigung_datum": "2020-10-15",
+  "bjnr": "BJNR217800020",
+  "eli": null,
+  "gii_slug": "gpev",
+  "ingested_at": "2026-04-17T15:22:24Z",
+  "jurabk": "GPEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9c2c01d4d2403b035dc196a22e5126716f5fc033395e6890ad27f1b684ff5990"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gpev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gpev/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Erhebung von Garantieprämien für die ergänzende staatliche Absicherung von Reisegutscheinen wegen der COVID-19-Pandemie",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

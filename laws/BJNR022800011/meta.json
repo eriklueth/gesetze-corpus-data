@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-02-07",
+  "bjnr": "BJNR022800011",
+  "eli": null,
+  "gii_slug": "pfwirtausbsteignv_2011",
+  "ingested_at": "2026-04-17T15:26:46Z",
+  "jurabk": "PfWirtAusbStEignV 2011",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8d2994a265a2ec21a63fe0492d1f797594b1b9630d381161533e61fc94fb33b4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pfwirtausbsteignv_2011/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pfwirtausbsteignv_2011/xml.zip"
+  },
+  "stand_datum": "2017-05-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 Abs. 25 G v. 23.5.2017 I 1228",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Pferdewirt und zur Pferdewirtin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

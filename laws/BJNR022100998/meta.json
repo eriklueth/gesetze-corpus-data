@@ -1,0 +1,26 @@
+{
+  "amtabk": "BogMstrV",
+  "ausfertigung_datum": "1998-01-26",
+  "bjnr": "BJNR022100998",
+  "eli": null,
+  "gii_slug": "bogmstrv",
+  "ingested_at": "2026-04-17T15:18:51Z",
+  "jurabk": "BogMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "26b07294166fabd709a58616fad37ffebf7809154fb587cfd631c1f4e791c654"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bogmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bogmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 29 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Bogenmacher-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

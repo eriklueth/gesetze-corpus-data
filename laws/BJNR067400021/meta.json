@@ -1,0 +1,21 @@
+{
+  "amtabk": "InfoElekAusbV",
+  "ausfertigung_datum": "2021-03-30",
+  "bjnr": "BJNR067400021",
+  "eli": null,
+  "gii_slug": "infoelekausbv",
+  "ingested_at": "2026-04-17T15:22:59Z",
+  "jurabk": "InfoElekAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6ac394e9cc903de59d81896ce0e718f630e27ae8c7180a811525f4837fc45613"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/infoelekausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/infoelekausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Informationselektroniker und zur Informationselektronikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

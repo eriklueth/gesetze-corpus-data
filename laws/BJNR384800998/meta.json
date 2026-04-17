@@ -1,0 +1,21 @@
+{
+  "amtabk": "BSG 1999",
+  "ausfertigung_datum": "1998-12-19",
+  "bjnr": "BJNR384800998",
+  "eli": null,
+  "gii_slug": "bsg_1999",
+  "ingested_at": "2026-04-17T15:19:11Z",
+  "jurabk": "BSG 1999",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5650ff3119c57ab833d0943f9d4c91b9b9b7295dd047dfd28c5a72bcb88d7d82"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bsg_1999/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bsg_1999/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Bestimmung der Beitragssätze in der gesetzlichen Rentenversicherung für 1999 und zur Bestimmung weiterer Rechengrößen der Sozialversicherung für 1999",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

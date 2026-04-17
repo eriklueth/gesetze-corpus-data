@@ -1,0 +1,30 @@
+{
+  "amtabk": "InvZulG 1999",
+  "ausfertigung_datum": "1997-08-18",
+  "bjnr": "BJNR207010997",
+  "eli": null,
+  "gii_slug": "invzulg_1999",
+  "ingested_at": "2026-04-17T15:23:08Z",
+  "jurabk": "InvZulG 1999",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d283782835e03b5e67e2b5dabf648014e8a416c96424584d929aeeaf684d7b15"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/invzulg_1999/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/invzulg_1999/xml.zip"
+  },
+  "stand_datum": "2002-10-11",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 11.10.2002 I 4034;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 6 G v. 21.12.2004 I 3603",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Investitionszulagengesetz 1999",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

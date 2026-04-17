@@ -1,0 +1,26 @@
+{
+  "amtabk": "KerAusbV",
+  "ausfertigung_datum": "2009-05-27",
+  "bjnr": "BJNR117700009",
+  "eli": null,
+  "gii_slug": "kerausbv_2009",
+  "ingested_at": "2026-04-17T15:23:25Z",
+  "jurabk": "KerAusbV 2009",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8b6ba066a0d3c95d43b7d3314cf604bbcf4f52d6253c1b7b7e012ee9c1b5d636"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kerausbv_2009/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kerausbv_2009/xml.zip"
+  },
+  "stand_datum": "2010-11-15",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 15.11.2010 I 1540, 2011 I 363",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Keramiker und zur Keramikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

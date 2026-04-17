@@ -1,0 +1,26 @@
+{
+  "amtabk": "OlympSchG",
+  "ausfertigung_datum": "2004-03-31",
+  "bjnr": "BJNR047900004",
+  "eli": null,
+  "gii_slug": "olympschg",
+  "ingested_at": "2026-04-17T15:26:16Z",
+  "jurabk": "OlympSchG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3bee47461ee9398226d24bd600253c022dcdb7d529fd43b126536270c05e2c47"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/olympschg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/olympschg/xml.zip"
+  },
+  "stand_datum": "2013-10-10",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 5 Abs. 8 G v. 10.10.2013 I 3799",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zum Schutz des olympischen Emblems und der olympischen Bezeichnungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

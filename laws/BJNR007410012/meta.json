@@ -1,0 +1,26 @@
+{
+  "amtabk": "ErdölBevG",
+  "ausfertigung_datum": "2012-01-16",
+  "bjnr": "BJNR007410012",
+  "eli": null,
+  "gii_slug": "erd_lbevg_2012",
+  "ingested_at": "2026-04-17T15:20:44Z",
+  "jurabk": "ErdölBevG 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "70e23f95032b0e29cabe94c253fd69ca87c3865c4d86a9b906f13e3e93f19177"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/erd_lbevg_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/erd_lbevg_2012/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 9.12.2019 I 2101",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Bevorratung mit Erdöl und Erdölerzeugnissen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1960-05-09",
+  "bjnr": "BJNR003010960",
+  "eli": null,
+  "gii_slug": "vwgmbhg",
+  "ingested_at": "2026-04-17T15:30:18Z",
+  "jurabk": "VWGmbHG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "527eef51191e1b2316e1df7be8619241a50cf0827202dc83d03d08cc4ad69a26"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vwgmbhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vwgmbhg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die Regelung der Rechtsverhältnisse bei der Volkswagenwerk Gesellschaft mit beschränkter Haftung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

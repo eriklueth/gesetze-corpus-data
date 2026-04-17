@@ -1,0 +1,26 @@
+{
+  "amtabk": "See-DatenÜbermittDV",
+  "ausfertigung_datum": "2016-03-01",
+  "bjnr": "BJNR032910016",
+  "eli": null,
+  "gii_slug": "see-daten_bermittdv",
+  "ingested_at": "2026-04-17T15:27:57Z",
+  "jurabk": "See-DatenÜbermittDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5d2d5e20d31010060eba8676a750ba9a81db5b10f1238b9d8fb89c8541713c88"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/see-daten_bermittdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/see-daten_bermittdv/xml.zip"
+  },
+  "stand_datum": "2024-09-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 V v. 18.9.2024 I Nr. 286",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der Datenübermittlung an nichtöffentliche Stellen im Seeverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

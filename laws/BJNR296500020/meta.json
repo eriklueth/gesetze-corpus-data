@@ -1,0 +1,26 @@
+{
+  "amtabk": "MFBAProMediaFPrV",
+  "ausfertigung_datum": "2020-12-17",
+  "bjnr": "BJNR296500020",
+  "eli": null,
+  "gii_slug": "mfbapromediafprv",
+  "ingested_at": "2026-04-17T15:24:52Z",
+  "jurabk": "MFBAProMediaFPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ba4e9a8125bedf85ac080f44d47737c4ef162936843328722578c0a46c61d57a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mfbapromediafprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mfbapromediafprv/xml.zip"
+  },
+  "stand_datum": "2019-11-27",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-22-6-63 v. 27.11.2019 I 1963 (MFFPrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Medienfachwirt und Geprüfte Medienfachwirtin-Bachelor Professional in Media",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

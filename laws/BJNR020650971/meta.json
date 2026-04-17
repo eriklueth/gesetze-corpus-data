@@ -1,0 +1,30 @@
+{
+  "amtabk": "WoGV",
+  "ausfertigung_datum": "1971-12-21",
+  "bjnr": "BJNR020650971",
+  "eli": null,
+  "gii_slug": "wogv",
+  "ingested_at": "2026-04-17T15:30:39Z",
+  "jurabk": "WoGV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "30235d9e032d78dc04a087120c8226aff269bc8c7f919c033672596ab4d51986"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wogv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wogv/xml.zip"
+  },
+  "stand_datum": "2001-10-19",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 19.10.2001 I 2722;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 V v. 21.10.2024 I Nr. 314",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Wohngeldverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

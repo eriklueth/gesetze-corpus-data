@@ -1,0 +1,30 @@
+{
+  "amtabk": "GtDBahnVDV",
+  "ausfertigung_datum": "2014-09-12",
+  "bjnr": "BJNR152600014",
+  "eli": null,
+  "gii_slug": "gtdbahnvdv",
+  "ingested_at": "2026-04-17T15:22:30Z",
+  "jurabk": "GtDBahnVDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7c3ba27253ffc1a89d3cc5b91cfc52de3a28d16a3ffa123ec397caaa41354ace"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gtdbahnvdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gtdbahnvdv/xml.zip"
+  },
+  "stand_datum": "2021-08-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 66 G v. 20.8.2021 I 3932",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2030-7-23-1 v. 21.11.2002 I 4438 (LAP-gtDBahnwesenV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den gehobenen technischen Dienst – Fachrichtung Bahnwesen –",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

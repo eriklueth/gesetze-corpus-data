@@ -1,0 +1,995 @@
+{
+  "bjnr": "BJNR015130969",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Geltungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Überschreiten des Amtsbezirks",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Verbot der Mitwirkung als Notar",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Ablehnung der Beurkundung",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Urkundensprache",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 1 Ausschließung des Notars"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Ausschließungsgründe",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 1 Ausschließung des Notars"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Beurkundungen zugunsten des Notars oder seiner Angehörigen",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Grundsatz",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Inhalt der Niederschrift",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Feststellung der Beteiligten",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Feststellungen über die Geschäftsfähigkeit",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Nachweise für die Vertretungsberechtigung",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Vorlesen, Genehmigen, Unterschreiben",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0013a.md",
+      "heading": "Signieren einer elektronischen Niederschrift",
+      "number": "§ 13a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0013b.md",
+      "heading": "Technische Rahmenbedingungen für elektronische Niederschriften",
+      "number": "§ 13b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0013c.md",
+      "heading": "Eingeschränkte Beifügungs- und Vorlesungspflicht",
+      "number": "§ 13c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Eingeschränkte Vorlesungspflicht",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Versteigerungen",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 2 Niederschrift"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Übersetzung der Niederschrift",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 3 Beurkundung mittels Videokommunikation"
+      ],
+      "file": "paragraphs/0016a.md",
+      "heading": "Zulässigkeit",
+      "number": "§ 16a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 3 Beurkundung mittels Videokommunikation"
+      ],
+      "file": "paragraphs/0016b.md",
+      "heading": "Aufnahme einer elektronischen Niederschrift",
+      "number": "§ 16b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 3 Beurkundung mittels Videokommunikation"
+      ],
+      "file": "paragraphs/0016c.md",
+      "heading": "Feststellung der Beteiligten mittels Videokommunikation",
+      "number": "§ 16c",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 3 Beurkundung mittels Videokommunikation"
+      ],
+      "file": "paragraphs/0016d.md",
+      "heading": "(weggefallen)",
+      "number": "§ 16d",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 3 Beurkundung mittels Videokommunikation"
+      ],
+      "file": "paragraphs/0016e.md",
+      "heading": "Gemischte Beurkundung",
+      "number": "§ 16e",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 4 Prüfungs- und Belehrungspflichten"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Grundsatz",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 4 Prüfungs- und Belehrungspflichten"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Genehmigungserfordernisse",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 4 Prüfungs- und Belehrungspflichten"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Unbedenklichkeitsbescheinigung",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 4 Prüfungs- und Belehrungspflichten"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Gesetzliches Vorkaufsrecht",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 4 Prüfungs- und Belehrungspflichten"
+      ],
+      "file": "paragraphs/0020a.md",
+      "heading": "Vorsorgevollmacht",
+      "number": "§ 20a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 4 Prüfungs- und Belehrungspflichten"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Grundbucheinsicht, Briefvorlage",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 5 Beteiligung behinderter Personen"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Hörbehinderte, sprachbehinderte und sehbehinderte Beteiligte",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 5 Beteiligung behinderter Personen"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Besonderheiten bei hörbehinderten Beteiligten",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 5 Beteiligung behinderter Personen"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Besonderheiten bei hör- und sprachbehinderten Beteiligten, mit denen eine schriftliche Verständigung nicht möglich ist",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 5 Beteiligung behinderter Personen"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Schreibunfähige",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 5 Beteiligung behinderter Personen"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Verbot der Mitwirkung als Zeuge oder zweiter Notar",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 6 Besonderheiten für Verfügungen von Todes wegen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Begünstigte Personen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 6 Besonderheiten für Verfügungen von Todes wegen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Feststellungen über die Geschäftsfähigkeit",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 6 Besonderheiten für Verfügungen von Todes wegen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Zeugen, zweiter Notar",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 6 Besonderheiten für Verfügungen von Todes wegen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Übergabe einer Schrift",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 6 Besonderheiten für Verfügungen von Todes wegen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Ausschluss der elektronischen Niederschrift",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 6 Besonderheiten für Verfügungen von Todes wegen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Sprachunkundige",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 6 Besonderheiten für Verfügungen von Todes wegen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Besonderheiten beim Erbvertrag",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 6 Besonderheiten für Verfügungen von Todes wegen"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Verschließung, Verwahrung",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 6 Besonderheiten für Verfügungen von Todes wegen"
+      ],
+      "file": "paragraphs/0034a.md",
+      "heading": "Mitteilungs- und Ablieferungspflichten",
+      "number": "§ 34a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beurkundung von Willenserklärungen",
+        "Unterabschnitt 6 Besonderheiten für Verfügungen von Todes wegen"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Niederschrift ohne Unterschrift des Notars",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 1 Niederschriften"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Grundsatz",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 1 Niederschriften"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Inhalt der Niederschrift",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 1 Niederschriften"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Eide, eidesstattliche Versicherungen",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 2 Vermerke"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Einfache Zeugnisse",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 2 Vermerke"
+      ],
+      "file": "paragraphs/0039a.md",
+      "heading": "Einfache elektronische Zeugnisse",
+      "number": "§ 39a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 2 Vermerke"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Beglaubigung einer Unterschrift",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 2 Vermerke"
+      ],
+      "file": "paragraphs/0040a.md",
+      "heading": "Beglaubigung einer qualifizierten elektronischen Signatur",
+      "number": "§ 40a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 2 Vermerke"
+      ],
+      "file": "paragraphs/0040b.md",
+      "heading": "Beglaubigung einer elektronischen Unterschrift",
+      "number": "§ 40b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 2 Vermerke"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Beglaubigung der Zeichnung einer Namensunterschrift",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 2 Vermerke"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Beglaubigung einer Abschrift",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sonstige Beurkundungen",
+        "Unterabschnitt 2 Vermerke"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Feststellung des Zeitpunktes der Vorlegung einer privaten Urkunde",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Verbindung mit Schnur und Prägesiegel",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0044a.md",
+      "heading": "Änderungen in den Urkunden",
+      "number": "§ 44a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0044b.md",
+      "heading": "Nachtragsbeurkundung",
+      "number": "§ 44b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Urschrift",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0045a.md",
+      "heading": "Aushändigung der Urschrift",
+      "number": "§ 45a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0045b.md",
+      "heading": "Verwahrung und Aushändigung elektronischer Urkunden",
+      "number": "§ 45b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Ersetzung der Urschrift",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Ausfertigung",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Zuständigkeit für die Erteilung der Ausfertigung",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Form der Ausfertigung",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Übersetzungen",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Recht auf Ausfertigungen, Abschriften und Einsicht",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Vollstreckbare Ausfertigungen",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Einreichung beim Grundbuchamt oder Registergericht",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Behandlung der Urkunden"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Rechtsmittel",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Verwahrung der Urkunden"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Verzeichnis und Verwahrung der Urkunden",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Verwahrung der Urkunden"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Übertragung der Papierdokumente in die elektronische Form; Einstellung der elektronischen Dokumente in die elektronische Urkundensammlung",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Verwahrung"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Antrag auf Verwahrung",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Verwahrung"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Durchführung der Verwahrung",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Verwahrung"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Verordnungsermächtigung",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Verwahrung"
+      ],
+      "file": "paragraphs/0059a.md",
+      "heading": "Verwahrungsverzeichnis",
+      "number": "§ 59a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Verwahrung"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Widerruf",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Verwahrung"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Absehen von Auszahlung",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Verwahrung"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Verwahrung von Wertpapieren und Kostbarkeiten",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Beseitigung von Doppelzuständigkeiten",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Beurkundungen nach dem Personenstandsgesetz",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Unberührt bleibendes Bundesrecht",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Unberührt bleibendes Landesrecht",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Zuständigkeit der Amtsgerichte; Zustellung",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Übertragung auf andere Stellen",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "(weggefallen)",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Amtliche Beglaubigungen",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Eidesstattliche Versicherungen in Verwaltungsverfahren",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "Erklärungen juristischer Personen des öffentlichen Rechts",
+      "number": "§ 72",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0073.md",
+      "heading": "Bereits errichtete Urkunden",
+      "number": "§ 73",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 1 Verhältnis zu anderen Gesetzen"
+      ],
+      "file": "paragraphs/0074.md",
+      "heading": "Verweisungen",
+      "number": "§ 74",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschriften",
+        "Unterabschnitt 2 Übergangsvorschrift"
+      ],
+      "file": "paragraphs/0075.md",
+      "heading": "Übergangsvorschrift zur Einführung des Elektronischen Urkundenarchivs",
+      "number": "§ 75",
+      "type": "paragraph"
+    }
+  ]
+}

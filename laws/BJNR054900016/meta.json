@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2016-03-31",
+  "bjnr": "BJNR054900016",
+  "eli": null,
+  "gii_slug": "apasterg",
+  "ingested_at": "2026-04-17T15:17:01Z",
+  "jurabk": "APAstErG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "593fe08aa91ed674db1c5ac3e01cbd9ff77859e8241314d7196acd792e211e96"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/apasterg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/apasterg/xml.zip"
+  },
+  "stand_datum": "2021-06-03",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 22 G v. 3.6.2021 I 1534",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Einrichtung einer Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und Ausfuhrkontrolle",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

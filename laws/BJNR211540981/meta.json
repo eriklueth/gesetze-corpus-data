@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1979-08-30",
+  "bjnr": "BJNR211540981",
+  "eli": null,
+  "gii_slug": "euauslf_bkergvtr_nld",
+  "ingested_at": "2026-04-17T15:20:52Z",
+  "jurabk": "EuAuslfÜbkErgVtr NLD",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c29bf072ae1d089f1bd8d3fa14bf937708c519057b586f2081191b6761900ea1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euauslf_bkergvtr_nld/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euauslf_bkergvtr_nld/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Ergänzung des Europäischen Auslieferungsübereinkommens vom 13. Dezember 1957 und die Erleichterung seiner Anwendung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

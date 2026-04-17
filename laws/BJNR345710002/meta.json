@@ -1,0 +1,26 @@
+{
+  "amtabk": "SeeSpbootV",
+  "ausfertigung_datum": "2002-08-29",
+  "bjnr": "BJNR345710002",
+  "eli": null,
+  "gii_slug": "seespbootv",
+  "ingested_at": "2026-04-17T15:28:01Z",
+  "jurabk": "SeeSpbootV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e9c654db6294ff040838207471a104d9ebf24ca6d31d875b3d769af32a7dc8d4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seespbootv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seespbootv/xml.zip"
+  },
+  "stand_datum": "2025-03-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 25.3.2025 I Nr. 100",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Inbetriebnahme von Sportbooten und Wassermotorrädern sowie deren Vermietung und gewerbsmäßige Nutzung im Küstenbereich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

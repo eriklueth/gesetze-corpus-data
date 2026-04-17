@@ -1,0 +1,30 @@
+{
+  "amtabk": "FSStrKV",
+  "ausfertigung_datum": "1984-04-14",
+  "bjnr": "BJNR006290984",
+  "eli": null,
+  "gii_slug": "fsstreckengv",
+  "ingested_at": "2026-04-17T15:21:44Z",
+  "jurabk": "FSStreckenGV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f479e98e4eae6e5b764b7ab9ecd564b01ebee1b6a42709a73ff4ab780276b23a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fsstreckengv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fsstreckengv/xml.zip"
+  },
+  "stand_datum": "2024-08-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 21.8.2024 I Nr. 268",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "In Kraft gem. § 3 Abs. 1 iVm Bek. v. 7.1.1986 II 409 mWv 1.1.1986",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

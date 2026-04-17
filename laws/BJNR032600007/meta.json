@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-03-14",
+  "bjnr": "BJNR032600007",
+  "eli": null,
+  "gii_slug": "softwareentwausbv",
+  "ingested_at": "2026-04-17T15:28:16Z",
+  "jurabk": "SoftwareentwAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c565c11221f32da33a264fbaf42df2b0ed35aebf8972e14043b68fe9d5c03e2f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/softwareentwausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/softwareentwausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

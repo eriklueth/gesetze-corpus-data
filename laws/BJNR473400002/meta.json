@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-12-13",
+  "bjnr": "BJNR473400002",
+  "eli": null,
+  "gii_slug": "btgo1980anl6bek_2002",
+  "ingested_at": "2026-04-17T15:19:19Z",
+  "jurabk": "BTGO1980Anl6Bek 2002",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4040d644752322421c57e3bc48cc24b3abb843c02a963a48345b194ea0ea39c5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/btgo1980anl6bek_2002/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/btgo1980anl6bek_2002/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

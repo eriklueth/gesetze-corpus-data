@@ -1,0 +1,26 @@
+{
+  "amtabk": "VBD",
+  "ausfertigung_datum": "2002-07-17",
+  "bjnr": "BJNR265200002",
+  "eli": null,
+  "gii_slug": "vbd",
+  "ingested_at": "2026-04-17T15:30:03Z",
+  "jurabk": "VBD",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cea8cdff2b6ef994597c4cdc3e19a289e9ef9411087f6708e8d282434c47ac13"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vbd/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vbd/xml.zip"
+  },
+  "stand_datum": "2016-11-25",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 V v. 25.11.2016 I 2659",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Zugänglichmachung von Dokumenten für blinde und sehbehinderte Menschen im Verwaltungsverfahren nach dem Behindertengleichstellungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-12-28",
+  "bjnr": "BJNR008290959",
+  "eli": null,
+  "gii_slug": "bvwag",
+  "ingested_at": "2026-04-17T15:19:31Z",
+  "jurabk": "BVwAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b02d54da3ca2748c7f2149d5cca96aec50b4dce27bceb3a0c42c9209f6a9a6f0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bvwag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bvwag/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 39 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Errichtung des Bundesverwaltungsamtes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

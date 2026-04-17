@@ -1,0 +1,30 @@
+{
+  "amtabk": "InvZulG 2005",
+  "ausfertigung_datum": "2004-03-17",
+  "bjnr": "BJNR043800004",
+  "eli": null,
+  "gii_slug": "invzulg_2005",
+  "ingested_at": "2026-04-17T15:23:11Z",
+  "jurabk": "InvZulG 2005",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8d1039d6adcd2a219a3e8f2599fb5b2c7ac97cf5c265fbdcd3c14f87ce21de3d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/invzulg_2005/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/invzulg_2005/xml.zip"
+  },
+  "stand_datum": "2005-09-30",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 30.9.2005 I 2961",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Das G ist gem. § 10 iVm Bek. v. 6.4.2005 I 1059 u. v. 19.8.2005 I 2514 mWv 24.1.2005 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Investitionszulagengesetz 2005",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1948-06-20",
+  "bjnr": "BJNR700050948",
+  "eli": null,
+  "gii_slug": "umstg",
+  "ingested_at": "2026-04-17T15:29:46Z",
+  "jurabk": "UmstG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d64d64860ef4040818ee1cc843578132cbce822dfee5333d01d0a1fa541ab3a9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/umstg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/umstg/xml.zip"
+  },
+  "stand_datum": "1982-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 Nr. 1 G v. 20.12.1982 I 1857",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Drittes Gesetz zur Neuordnung des Geldwesens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

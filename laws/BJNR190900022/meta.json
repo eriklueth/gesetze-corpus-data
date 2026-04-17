@@ -1,0 +1,26 @@
+{
+  "amtabk": "StBAPO",
+  "ausfertigung_datum": "2022-10-26",
+  "bjnr": "BJNR190900022",
+  "eli": null,
+  "gii_slug": "stbapo_2022",
+  "ingested_at": "2026-04-17T15:28:52Z",
+  "jurabk": "StBAPO 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d067c9da46c9569ce2d34075f7e94766ddf2595670b49ece396f0121d14f70e2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stbapo_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stbapo_2022/xml.zip"
+  },
+  "stand_datum": "1977-07-21",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 2030-21-2 v. 21.7.1977 I 1353 (StBAPO 1977)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Ausbildungs- und Prüfungsordnung für die Steuerbeamtinnen und Steuerbeamten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

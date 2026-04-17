@@ -1,0 +1,26 @@
+{
+  "amtabk": "WoFÜG",
+  "ausfertigung_datum": "2006-09-05",
+  "bjnr": "BJNR210000006",
+  "eli": null,
+  "gii_slug": "wof_g",
+  "ingested_at": "2026-04-17T15:30:38Z",
+  "jurabk": "WoFÜG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b89b85abef50b0d391815640f7d076b3ca300914dcace103af011825c7956f94"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wof_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wof_g/xml.zip"
+  },
+  "stand_datum": "2012-11-09",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 G v. 9.11.2012 I 2291",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Überleitung der sozialen Wohnraumförderung auf die Länder",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "PBeaKK-VerwAufwVO",
+  "ausfertigung_datum": "2016-01-05",
+  "bjnr": "BJNR003700016",
+  "eli": null,
+  "gii_slug": "pbeakk-verwaufwvo",
+  "ingested_at": "2026-04-17T15:26:34Z",
+  "jurabk": "PBeaKK-VerwAufwVO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7a34d14ce665b1de3442d64062a02d5f0428246d9e7a4519a628bd258b663701"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pbeakk-verwaufwvo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pbeakk-verwaufwvo/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Abrechnung und Verteilung des Verwaltungsaufwands der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost aus der Weiterführung der Postbeamtenkrankenkasse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

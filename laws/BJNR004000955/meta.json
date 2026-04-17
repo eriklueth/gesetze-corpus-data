@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1955-07-01",
+  "bjnr": "BJNR004000955",
+  "eli": null,
+  "gii_slug": "anlgblnv",
+  "ingested_at": "2026-04-17T15:17:00Z",
+  "jurabk": "AnlGBlnV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4959cfff9822d1c4a55d47006153ea4f65498079e25bfa95a21e0094dcbcca21"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/anlgblnv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/anlgblnv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Erstreckung des Anleihe-Gesetzes von 1950 auf das Land Berlin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

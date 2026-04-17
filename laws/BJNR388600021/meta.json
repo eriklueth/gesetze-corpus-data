@@ -1,0 +1,26 @@
+{
+  "amtabk": "AWZROV",
+  "ausfertigung_datum": "2021-08-19",
+  "bjnr": "BJNR388600021",
+  "eli": null,
+  "gii_slug": "awzrov",
+  "ingested_at": "2026-04-17T15:17:32Z",
+  "jurabk": "AWZROV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "400db8f0897976e5d08e4343f2ad7fd3ec1e90eeeb00293a8e2856017b1c88ea"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/awzrov/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/awzrov/xml.zip"
+  },
+  "stand_datum": "2009-09-21",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 2301-2-1 v. 21.9.2009 I 3107 (AWZ Nordsee-ROV) u. V 2301-2-2 v. 10.12.2009 I 3861 (AWZ Ostsee-ROV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Raumordnung in der deutschen ausschließlichen Wirtschaftszone in der Nordsee und in der Ostsee",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

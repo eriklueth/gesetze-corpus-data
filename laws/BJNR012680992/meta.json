@@ -1,0 +1,34 @@
+{
+  "amtabk": "InVorG",
+  "ausfertigung_datum": "1992-07-14",
+  "bjnr": "BJNR012680992",
+  "eli": null,
+  "gii_slug": "invorg",
+  "ingested_at": "2026-04-17T15:23:08Z",
+  "jurabk": "InVorG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "44c6eb27ca7b3d817c5f5ed07dacabe8795515e7eacdbd71a95c8814dfb4826d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/invorg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/invorg/xml.zip"
+  },
+  "stand_datum": "1997-08-04",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 4.8.1997 I 1996;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 588 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Das G ist gem. Art. 15 G III-19-2 v. 14.7.1992 I 1257 am 22.7.1992 in Kraft getreten.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über den Vorrang für Investitionen bei Rückübertragungsansprüchen nach dem Vermögensgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

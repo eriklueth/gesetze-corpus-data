@@ -1,0 +1,393 @@
+{
+  "bjnr": "BJNR273000002",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Prüfungs- und Nachweispflicht",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Bekanntmachung der Vorschriften",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 2 Jugendschutz in der Öffentlichkeit"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Gaststätten",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 2 Jugendschutz in der Öffentlichkeit"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Tanzveranstaltungen",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 2 Jugendschutz in der Öffentlichkeit"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Spielhallen, Glücksspiele",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 2 Jugendschutz in der Öffentlichkeit"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Jugendgefährdende Veranstaltungen und Betriebe",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 2 Jugendschutz in der Öffentlichkeit"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Jugendgefährdende Orte",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 2 Jugendschutz in der Öffentlichkeit"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Alkoholische Getränke",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 2 Jugendschutz in der Öffentlichkeit"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Rauchen in der Öffentlichkeit, Tabakwaren",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 3 Jugendschutz im Bereich der Medien"
+      ],
+      "file": "paragraphs/0010a.md",
+      "heading": "Schutzziele des Kinder- und Jugendmedienschutzes",
+      "number": "§ 10a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 3 Jugendschutz im Bereich der Medien"
+      ],
+      "file": "paragraphs/0010b.md",
+      "heading": "Entwicklungsbeeinträchtigende Medien",
+      "number": "§ 10b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 3 Jugendschutz im Bereich der Medien"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Filmveranstaltungen",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 3 Jugendschutz im Bereich der Medien"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Bildträger mit Filmen oder Spielen",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 3 Jugendschutz im Bereich der Medien"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Bildschirmspielgeräte",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 3 Jugendschutz im Bereich der Medien"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Kennzeichnung von Filmen und Spielprogrammen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 3 Jugendschutz im Bereich der Medien"
+      ],
+      "file": "paragraphs/0014a.md",
+      "heading": "Kennzeichnung bei Film- und Spielplattformen",
+      "number": "§ 14a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 3 Jugendschutz im Bereich der Medien"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Jugendgefährdende Medien",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 3 Jugendschutz im Bereich der Medien"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Landesrecht",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Zuständige Bundesbehörde und Leitung",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0017a.md",
+      "heading": "Aufgaben",
+      "number": "§ 17a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0017b.md",
+      "heading": "Beirat",
+      "number": "§ 17b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Liste jugendgefährdender Medien",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Personelle Besetzung der Prüfstelle für jugendgefährdende Medien",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Vorschlagsberechtigte Verbände",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Verfahren der Prüfstelle für jugendgefährdende Medien",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Aufnahme periodisch erscheinender Medien in die Liste jugendgefährdender Medien",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Vereinfachtes Verfahren",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Führung der Liste jugendgefährdender Medien",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0024a.md",
+      "heading": "Vorsorgemaßnahmen",
+      "number": "§ 24a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0024b.md",
+      "heading": "Befugnisse und Verfahren",
+      "number": "§ 24b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 4 Bundeszentrale für Kinder- und Jugendmedienschutz"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Rechtsweg",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 5 Verordnungsermächtigung"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Verordnungsermächtigung",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 6 Ahndung von Verstößen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Strafvorschriften",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 6 Ahndung von Verstößen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Übergangsvorschriften",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0029a.md",
+      "heading": "Weitere Übergangsregelung",
+      "number": "§ 29a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0029b.md",
+      "heading": "Bericht und Evaluierung",
+      "number": "§ 29b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeines",
+        "Abschnitt 7 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Inkrafttreten, Außerkrafttreten",
+      "number": "§ 30",
+      "type": "paragraph"
+    }
+  ]
+}

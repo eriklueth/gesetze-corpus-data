@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-01-09",
+  "bjnr": "BJNR200130974",
+  "eli": null,
+  "gii_slug": "fluhfsalzbvtrautg",
+  "ingested_at": "2026-04-17T15:21:32Z",
+  "jurabk": "FluHfSalzbVtrAUTG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f5c30bf5f1d03290836de0f88a2f42b273ef560dc8896bbb43be1028b132067"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fluhfsalzbvtrautg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fluhfsalzbvtrautg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 19. Dezember 1967 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Auswirkungen der Anlage und des Betriebes des Flughafens Salzburg auf das Hoheitsgebiet der Bundesrepublik Deutschland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-06-07",
+  "bjnr": "BJNR005300973",
+  "eli": null,
+  "gii_slug": "konjv_3",
+  "ingested_at": "2026-04-17T15:23:44Z",
+  "jurabk": "KonjV 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "17d62f203a2211db4959f27f35a9e2889f4cebed74556a62328de3c02ceec430"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/konjv_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/konjv_3/xml.zip"
+  },
+  "stand_datum": "1977-07-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 11.7.1977 I 1213",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Dritte Verordnung über steuerliche Konjunkturmaßnahmen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

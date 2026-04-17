@@ -1,0 +1,30 @@
+{
+  "amtabk": "BürstPiMstrV",
+  "ausfertigung_datum": "2020-11-17",
+  "bjnr": "BJNR244300020",
+  "eli": null,
+  "gii_slug": "b_rstpimstrv_2021",
+  "ingested_at": "2026-04-17T15:19:26Z",
+  "jurabk": "BürstPiMstrV 2021",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f09edae515f2a1b434d470e45b344fdb947d3dd8b592cdccce6554faf792b44f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/b_rstpimstrv_2021/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/b_rstpimstrv_2021/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 94 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7110-3-108 v. 27.7.1993 I 1414 (BürstPiMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Bürsten- und Pinselmacher-Gewerbe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

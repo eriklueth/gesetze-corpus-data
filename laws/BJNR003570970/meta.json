@@ -1,0 +1,21 @@
+{
+  "amtabk": "1. WasSV",
+  "ausfertigung_datum": "1970-03-31",
+  "bjnr": "BJNR003570970",
+  "eli": null,
+  "gii_slug": "wassv_1",
+  "ingested_at": "2026-04-17T15:16:28Z",
+  "jurabk": "WasSV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ab068d94e8c46782ff8684358cad2d8a2037d614cc0284d2665b586eadc4325d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wassv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wassv_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erste Wassersicherstellungsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

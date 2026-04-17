@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-04-20",
+  "bjnr": "BJNR202820965",
+  "eli": null,
+  "gii_slug": "kfzhpfl_bk_stra_burg",
+  "ingested_at": "2026-04-17T15:23:29Z",
+  "jurabk": "KfzHPflÜbk Straßburg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3230e084f8542abebcc13d8f4304dc6d5c2a57cf926f972470f4231345511d83"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfzhpfl_bk_stra_burg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfzhpfl_bk_stra_burg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Europäisches Übereinkommen über die obligatorische Haftpflichtversicherung für Kraftfahrzeuge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

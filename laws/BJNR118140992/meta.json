@@ -1,0 +1,30 @@
+{
+  "amtabk": "StrRehaG",
+  "ausfertigung_datum": "1992-10-29",
+  "bjnr": "BJNR118140992",
+  "eli": null,
+  "gii_slug": "strrehag",
+  "ingested_at": "2026-04-17T15:29:03Z",
+  "jurabk": "StrRehaG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "477a271a66c51bd9f151af1ea594252518ecf0822b033a0744099e10f61cf506"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/strrehag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/strrehag/xml.zip"
+  },
+  "stand_datum": "1999-12-17",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 17.12.1999 I 2664;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 G v. 25.2.2025 I Nr. 63",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Rehabilitierung und Entschädigung von Opfern rechtsstaatswidriger Strafverfolgungsmaßnahmen im Beitrittsgebiet",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

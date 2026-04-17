@@ -1,0 +1,30 @@
+{
+  "amtabk": "ZVFV",
+  "ausfertigung_datum": "2022-12-16",
+  "bjnr": "BJNR236810022",
+  "eli": null,
+  "gii_slug": "zvfv_2022",
+  "ingested_at": "2026-04-17T15:31:30Z",
+  "jurabk": "ZVFV 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4a8e5aa34b3e30359329b8f02a4157368760ddaba0907b52a655e75ada975d0b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zvfv_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zvfv_2022/xml.zip"
+  },
+  "stand_datum": "2024-06-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 17.6.2024 I Nr. 203",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 310-4-16 v. 23.8.2012 I 1822 (ZVFV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über Formulare für die Zwangsvollstreckung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

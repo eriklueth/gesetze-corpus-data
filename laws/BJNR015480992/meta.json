@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-08-25",
+  "bjnr": "BJNR015480992",
+  "eli": null,
+  "gii_slug": "ustbmg",
+  "ingested_at": "2026-04-17T15:29:56Z",
+  "jurabk": "UStBMG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c48992585dd3d864d97cad6988f40a163ffdf3b1c735766dfac5ef43f8f2d2cc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ustbmg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ustbmg/xml.zip"
+  },
+  "stand_datum": "1992-12-21",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 § 22 G v. 21.12.1992 I 2150, 2199",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Anpassung des Umsatzsteuergesetzes und anderer Rechtsvorschriften an den EG-Binnenmarkt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

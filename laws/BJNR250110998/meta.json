@@ -1,0 +1,26 @@
+{
+  "amtabk": "NS-AufhG",
+  "ausfertigung_datum": "1998-08-25",
+  "bjnr": "BJNR250110998",
+  "eli": null,
+  "gii_slug": "ns-aufhg",
+  "ingested_at": "2026-04-17T15:26:04Z",
+  "jurabk": "NS-AufhG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d90f69942030de448969bd39ec103bbe8a56343f2c4e82caf967eb09c79706ac"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ns-aufhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ns-aufhg/xml.zip"
+  },
+  "stand_datum": "2009-09-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 24.9.2009 I 3150",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

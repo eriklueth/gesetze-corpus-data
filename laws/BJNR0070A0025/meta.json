@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-01-08",
+  "bjnr": "BJNR0070A0025",
+  "eli": null,
+  "gii_slug": "bevbdgzustano",
+  "ingested_at": "2026-04-17T15:18:13Z",
+  "jurabk": "BEVBDGZustAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "665a8c301a1b180ff0ce4ba52bbb19c1010c169944dc146ddf0cb532b6f8d01c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bevbdgzustano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bevbdgzustano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Präsidenten des Bundeseisenbahnvermögens über die Übertragung von Zuständigkeiten nach dem Bundesdisziplinargesetz im Geschäftsbereich des Bundeseisenbahnvermögens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

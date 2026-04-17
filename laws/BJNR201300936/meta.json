@@ -1,0 +1,30 @@
+{
+  "amtabk": "GebrMG",
+  "ausfertigung_datum": "1936-05-05",
+  "bjnr": "BJNR201300936",
+  "eli": null,
+  "gii_slug": "gebrmg",
+  "ingested_at": "2026-04-17T15:21:59Z",
+  "jurabk": "GebrMG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7a4024fff85908eb764d0ffbed88edb60c8c17d6a88a7ffb8c09509ddd2c383c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gebrmg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gebrmg/xml.zip"
+  },
+  "stand_datum": "1986-08-28",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 28.8.1986 I 1455;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 17 G v. 15.7.2024 I Nr. 237",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gebrauchsmustergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

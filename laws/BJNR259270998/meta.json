@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-02-16",
+  "bjnr": "BJNR259270998",
+  "eli": null,
+  "gii_slug": "postanw_bkvollzo",
+  "ingested_at": "2026-04-17T15:26:52Z",
+  "jurabk": "PostAnwÜbkVollzO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8e299820eff8418264bc0b7cf892e0f5ad5b7aa9799d098b0c38c83ef05fc8ec"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postanw_bkvollzo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postanw_bkvollzo/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vollzugsordnung zum Postanweisungsübereinkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

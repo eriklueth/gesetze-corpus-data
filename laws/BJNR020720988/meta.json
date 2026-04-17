@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-10-10",
+  "bjnr": "BJNR020720988",
+  "eli": null,
+  "gii_slug": "m_nz10dmbek_1988-10",
+  "ingested_at": "2026-04-17T15:25:07Z",
+  "jurabk": "Münz10DMBek 1988-10",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b2251df7caf1b29d0e7323211f4076fac8873ee494cbe2dc7821c8b0288264e9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10dmbek_1988-10/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10dmbek_1988-10/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Carl Zeiss)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

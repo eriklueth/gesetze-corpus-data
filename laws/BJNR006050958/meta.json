@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-08-09",
+  "bjnr": "BJNR006050958",
+  "eli": null,
+  "gii_slug": "preisstatg",
+  "ingested_at": "2026-04-17T15:26:59Z",
+  "jurabk": "PreisStatG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1a462fa31258df18f7d9a1a82f7d451aaa8821c4994f541658009fdb4c8bb551"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/preisstatg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/preisstatg/xml.zip"
+  },
+  "stand_datum": "2025-02-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 27.2.2025 I Nr. 71",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Preisstatistik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

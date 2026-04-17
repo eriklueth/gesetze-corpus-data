@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-03-31",
+  "bjnr": "BJNR202730965",
+  "eli": null,
+  "gii_slug": "kovvtrespg",
+  "ingested_at": "2026-04-17T15:23:48Z",
+  "jurabk": "KOVVtrESPG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "52f12b8600a9b31dba02ad111e6a9a328b250d9fe6a2cdfd4264ccad7f9d4301"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kovvtrespg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kovvtrespg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Vertrag vom 29. Mai 1962 zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Kriegsopferversorgung und zu dem Notenwechsel vom 16. Mai 1963",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

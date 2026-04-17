@@ -1,0 +1,30 @@
+{
+  "amtabk": "VerkEHKflAusbV",
+  "ausfertigung_datum": "2017-03-13",
+  "bjnr": "BJNR045800017",
+  "eli": null,
+  "gii_slug": "verkehkflausbv",
+  "ingested_at": "2026-04-17T15:30:06Z",
+  "jurabk": "VerkEHKflAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cf0a15b3acf92706e7d5c4a559a6f099ca1eefe729f35e8d44f5ffaf0a9e8521"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verkehkflausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verkehkflausbv/xml.zip"
+  },
+  "stand_datum": "2017-06-01",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 1.6.2017 I 1503",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 806-21-1-329 v. 16.7.2004 I 1806; 2007 I 2203 (EzHdlAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildungen zum Verkäufer und zur Verkäuferin sowie zum Kaufmann im Einzelhandel und zur Kauffrau im Einzelhandel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

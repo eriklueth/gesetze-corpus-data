@@ -1,0 +1,30 @@
+{
+  "amtabk": "FStrAbG",
+  "ausfertigung_datum": "1971-06-30",
+  "bjnr": "BJNR008730971",
+  "eli": null,
+  "gii_slug": "fstrausbaug",
+  "ingested_at": "2026-04-17T15:21:45Z",
+  "jurabk": "FStrAusbauG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "126cf07b12ac4715951bf26209a92acc93ca80579227eafcfb6811aff8d330a2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fstrausbaug/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fstrausbaug/xml.zip"
+  },
+  "stand_datum": "2005-01-20",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 20.1.2005 I 201;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 G v. 22.12.2023 I Nr. 409",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Ausbau der Bundesfernstraßen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

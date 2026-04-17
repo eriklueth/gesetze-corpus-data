@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-12-09",
+  "bjnr": "BJNR276400020",
+  "eli": null,
+  "gii_slug": "rvbeitrsbek_2021",
+  "ingested_at": "2026-04-17T15:27:31Z",
+  "jurabk": "RVBeitrSBek 2021",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a513bc20040d97998a6f8a52c4e7ca18a8d9d26933320b871df97b8a67d71872"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rvbeitrsbek_2021/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rvbeitrsbek_2021/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2021",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

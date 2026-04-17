@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-11-08",
+  "bjnr": "BJNR343500994",
+  "eli": null,
+  "gii_slug": "ebarbschv",
+  "ingested_at": "2026-04-17T15:20:11Z",
+  "jurabk": "EBArbSchV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3eed798654cd05dae164f0bcf8603e3d8e211940f12fc8fff48b5945a7864074"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ebarbschv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ebarbschv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Übertragung von Zuständigkeiten im Bereich des technischen Arbeitsschutzes bei Eisenbahnen des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

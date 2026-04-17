@@ -1,0 +1,30 @@
+{
+  "amtabk": "TBelV",
+  "ausfertigung_datum": "2017-06-27",
+  "bjnr": "BJNR193800017",
+  "eli": null,
+  "gii_slug": "tbelv",
+  "ingested_at": "2026-04-17T15:29:18Z",
+  "jurabk": "TBelV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8d8552906235274206fb1a5b59f36d2ad86e5f62e5a7eb36494b83c4509e09ee"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tbelv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tbelv/xml.zip"
+  },
+  "stand_datum": "2023-12-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 15.12.2023 I Nr. 377",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V tritt gem. § 5 Satz 2 dieser V am 31.12.2024 außer Kraft; die Geltung dieser V ist gem. § 5 Satz 2 idF d. Art. 1 Nr. 2 V v. 15.12.2023 I Nr. 377 über den 31.12.2024 hinaus bis zum 31.12.2031 verlängert worden",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung über die Übertragung der Führung des Transparenzregisters",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

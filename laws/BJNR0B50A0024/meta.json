@@ -1,0 +1,30 @@
+{
+  "amtabk": "BTV-3-ImpfgestattungsV",
+  "ausfertigung_datum": "2024-06-06",
+  "bjnr": "BJNR0B50A0024",
+  "eli": null,
+  "gii_slug": "btv-3-impfgestattungsv",
+  "ingested_at": "2026-04-17T15:19:25Z",
+  "jurabk": "BTV-3-ImpfgestattungsV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e30b365d4d7b671574d8ce8afe80b0e080cdd6e8a8d0c1d9124ba93acc744551"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/btv-3-impfgestattungsv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/btv-3-impfgestattungsv/xml.zip"
+  },
+  "stand_datum": "2025-03-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 5.3.2025 I Nr. 76",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V tritt gem. § 2 Satz 2 mWv 7.12.2024 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird; gem. § 2 idF d. Art. 1 V v. 25.11.2024 I Nr. 366 ist die Geltung dieser V über den 6.12.2024 hinaus verlängert worden",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Zweite Verordnung über bestimmte Impfstoffe zum Schutz vor der Blauzungenkrankheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

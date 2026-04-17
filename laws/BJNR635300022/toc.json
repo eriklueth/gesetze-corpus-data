@@ -1,0 +1,534 @@
+{
+  "bjnr": "BJNR635300022",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Zuständigkeit",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Landwirtschaftliche Parzelle",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Gewährung von Zahlungen bei Übertragung des Betriebs",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 System zur Identifizierung landwirtschaftlicher Parzellen; Flächenüberwachungssystem"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "System zur Identifizierung landwirtschaftlicher Parzellen",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 System zur Identifizierung landwirtschaftlicher Parzellen; Flächenüberwachungssystem"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Flächenüberwachungssystem",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Sammelantrag; Ermächtigung zur Abfrage weiterer Angaben",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Geodatenbasiertes und tierbezogenes Antragssystem",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Betriebsbezogene Angaben",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Angaben zum aktiven Betriebsinhaber",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Flächenbezogene Angaben",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Besondere Angaben zu Agroforstsystemen",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Besondere Angaben bei einem Antrag auf Zahlungen für Öko-Regelungen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Besondere Angaben bei einem Antrag auf gekoppelte Einkommensstützungen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Besondere Angaben und Unterlagen bei Anbau von Nutzhanf",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Besondere Angaben bei Anbau von Hopfen",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Besondere Angaben bei Niederwald mit Kurzumtrieb",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Erklärung bei Beantragung der Umverteilungseinkommensstützung",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Angaben bei einem Antrag auf Junglandwirte-Einkommensstützung außer im Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Angaben bei einem Antrag auf Junglandwirte-Einkommensstützung im Fall des § 16 Absatz 4 Satz 1 des GAP-Direktzahlungen-Gesetzes",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Besondere Angaben hinsichtlich der Einhaltung der Konditionalität",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Änderung des Sammelantrags",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Sammelantrag"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Berichtigung offensichtlicher Irrtümer",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Meldungen über Hopfen; Vorgaben zu Hanf"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Meldungen über Hopfenflächen",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Meldungen über Hopfen; Vorgaben zu Hanf"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Erntetermin und Kontrollen beim Anbau von Hanf",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Meldungen über Hopfen; Vorgaben zu Hanf"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Nicht förderfähige Hanfsorten; Bekanntmachung",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Meldungen über Hopfen; Vorgaben zu Hanf"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Mitteilungspflichten der Länder und der Bundesstellen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Verwaltungskontrollen",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Ermittlung der Flächengröße",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Unterrichtungspflichten der Behörde",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Kontrollbericht",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 2 Ergänzende Kontrollen durch das Flächenüberwachungssystem"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Kontrollen durch das Flächenüberwachungssystem",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 2 Ergänzende Kontrollen durch das Flächenüberwachungssystem"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Vor-Ort-Kontrollen bei dem Flächenüberwachungssystem",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 3 Ergänzende Kontrollen für die gekoppelten Einkommensstützungen"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Kontrollen bei gekoppelten Einkommensstützungen",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 3 Ergänzende Kontrollen für die gekoppelten Einkommensstützungen"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Gegenstand der Vor-Ort-Kontrollen bei gekoppelten Einkommensstützungen",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 4 Ergänzende Kontrollen von flächenbezogenen Direktzahlungen, die nicht durch das Flächenüberwachungssystem kontrolliert werden"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Ergänzende Kontrollen von flächenbezogenen Direktzahlungen, die nicht durch das Flächenüberwachungssystem kontrolliert werden",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 4 Ergänzende Kontrollen von flächenbezogenen Direktzahlungen, die nicht durch das Flächenüberwachungssystem kontrolliert werden"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Kontrollen durch Fernerkundung",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 4 Ergänzende Kontrollen von flächenbezogenen Direktzahlungen, die nicht durch das Flächenüberwachungssystem kontrolliert werden"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Mindestkontrollsatz",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kontrollverfahren",
+        "Unterabschnitt 4 Ergänzende Kontrollen von flächenbezogenen Direktzahlungen, die nicht durch das Flächenüberwachungssystem kontrolliert werden"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Auswahl der Kontrollstichproben",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Mitwirkungspflichten des Betriebsinhabers"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Vorhalten von Nachweisen durch den Betriebsinhaber",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Mitwirkungspflichten des Betriebsinhabers"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Informations-, Mitwirkungs- und Aufbewahrungspflichten",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Berechnung der Direktzahlungen, Kürzungen und Sanktionen"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Allgemeine Vorschriften",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Berechnung der Direktzahlungen, Kürzungen und Sanktionen"
+      ],
+      "file": "paragraphs/0042a.md",
+      "heading": "Verstöße gegen die Vorschriften des Systems zur Kennzeichnung und Registrierung von Rindern, Mutterschafen und Mutterziegen",
+      "number": "§ 42a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Berechnung der Direktzahlungen, Kürzungen und Sanktionen"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Sanktion bei der Nichtanmeldung aller Flächen",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Berechnung der Direktzahlungen, Kürzungen und Sanktionen"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Sanktionen bei Übererklärungen bei flächenbezogenen Direktzahlungen",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Berechnung der Direktzahlungen, Kürzungen und Sanktionen"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Sanktionen bei gekoppelten Einkommensstützungen",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Berechnung der Direktzahlungen, Kürzungen und Sanktionen"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Verspätete Einreichung des Sammelantrags",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Berechnung der Direktzahlungen, Kürzungen und Sanktionen"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Reihenfolge der Abzüge",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Berechnung der Direktzahlungen, Kürzungen und Sanktionen"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Grenzwerte und Ausnahmen",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Berechnung der Direktzahlungen, Kürzungen und Sanktionen"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Aufrechnung",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Inkrafttreten",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Schlussbestimmungen"
+      ],
+      "file": "annexes/0000.md",
+      "heading": "(zu § 5 Absatz 2)",
+      "number": "Anlage",
+      "type": "annex"
+    }
+  ]
+}

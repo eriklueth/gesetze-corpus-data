@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1960-03-10",
+  "bjnr": "BJNR001770960",
+  "eli": null,
+  "gii_slug": "auslwbentschg",
+  "ingested_at": "2026-04-17T15:17:22Z",
+  "jurabk": "AuslWBEntschG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fd0e32c9da64f2a53ebcd80bbb313ddcc61136640aa180d72c40844470a7b896"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/auslwbentschg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/auslwbentschg/xml.zip"
+  },
+  "stand_datum": "2006-07-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 Abs. 10 G v. 12.7.2006 I 1466",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur näheren Regelung der Entschädigungsansprüche für Auslandsbonds",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

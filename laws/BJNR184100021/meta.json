@@ -1,0 +1,26 @@
+{
+  "amtabk": "EAG-BehandV",
+  "ausfertigung_datum": "2021-06-21",
+  "bjnr": "BJNR184100021",
+  "eli": null,
+  "gii_slug": "eag-behandv",
+  "ingested_at": "2026-04-17T15:21:08Z",
+  "jurabk": "EAG-BehandV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9afd4641e0f553ee78c7a40756a042904f711b7b3793e06f539df6f6534dcb7c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eag-behandv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eag-behandv/xml.zip"
+  },
+  "stand_datum": "2025-09-30",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 9 Abs. 6 G v. 30.9.2025 I Nr. 233",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Anforderungen an die Behandlung von Elektro- und Elektronik-Altgeräten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

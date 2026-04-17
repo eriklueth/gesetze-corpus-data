@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-03-22",
+  "bjnr": "BJNR124100002",
+  "eli": null,
+  "gii_slug": "blauzungenv",
+  "ingested_at": "2026-04-17T15:18:33Z",
+  "jurabk": "BlauzungenV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "23ab72b1ffee0652b9bf9edca0bc1ccc89389fba541863a92d34e549c383e573"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/blauzungenv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/blauzungenv/xml.zip"
+  },
+  "stand_datum": "2015-06-30",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 30.6.2015 I 1095",
+      "typ": "Neuf"
+    }
+  ],
+  "title": "Verordnung zum Schutz gegen die Blauzungenkrankheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

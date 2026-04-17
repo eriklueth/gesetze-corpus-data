@@ -1,0 +1,30 @@
+{
+  "amtabk": "RPflG",
+  "ausfertigung_datum": "1969-11-05",
+  "bjnr": "BJNR020650969",
+  "eli": null,
+  "gii_slug": "rpflg_1969",
+  "ingested_at": "2026-04-17T15:27:28Z",
+  "jurabk": "RPflG 1969",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8a026fb2a35fb7c2163b93cd86a951ad475d94135c2ede4cb4be91a106a39404"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rpflg_1969/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rpflg_1969/xml.zip"
+  },
+  "stand_datum": "2013-04-14",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 14.4.2013 I 778, 2014 I 46;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 6 G v. 19.6.2024 I Nr. 206",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Rechtspflegergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

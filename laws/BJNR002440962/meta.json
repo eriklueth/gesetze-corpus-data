@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1962-04-19",
+  "bjnr": "BJNR002440962",
+  "eli": null,
+  "gii_slug": "wzg_35belbek",
+  "ingested_at": "2026-04-17T15:30:56Z",
+  "jurabk": "WZG§35BELBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "74f2d59fe46235accf963324223d43a182d03bca9582a42fa235cdc3c082a6bb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35belbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35belbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

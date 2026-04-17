@@ -1,0 +1,26 @@
+{
+  "amtabk": "ESO 1959",
+  "ausfertigung_datum": "1959-10-07",
+  "bjnr": "BJNR210220959",
+  "eli": null,
+  "gii_slug": "eso_1959",
+  "ingested_at": "2026-04-17T15:20:49Z",
+  "jurabk": "ESO 1959",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "748a956227d01998bf09864a5b56413894d3a31f590ed3b2d1190fd8f062a575"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eso_1959/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eso_1959/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 517 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Eisenbahn-Signalordnung 1959",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

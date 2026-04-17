@@ -1,0 +1,21 @@
+{
+  "amtabk": "BSNotFPrV",
+  "ausfertigung_datum": "2025-09-03",
+  "bjnr": "BJNR0CE0A0025",
+  "eli": null,
+  "gii_slug": "bsnotfprv",
+  "ingested_at": "2026-04-17T15:19:15Z",
+  "jurabk": "BSNotFPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0974b2c8ac0d3a198fffaf4a8bf575b5942471be949ad9b80f8d8a6836f717da"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bsnotfprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bsnotfprv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für das Notariat oder Geprüfte Berufsspezialistin für das Notariat",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

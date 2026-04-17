@@ -1,0 +1,30 @@
+{
+  "amtabk": "MntDBwVVDV",
+  "ausfertigung_datum": "2022-07-06",
+  "bjnr": "BJNR108400022",
+  "eli": null,
+  "gii_slug": "mntdbwvvdv",
+  "ingested_at": "2026-04-17T15:25:02Z",
+  "jurabk": "MntDBwVVDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2c5d89682f7c8f0d486495b34eef99f19c3623c0afe78ab9af23ca320103c204"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mntdbwvvdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mntdbwvvdv/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 29 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2030-7-12-2 v. 28.11.2001 I 3327 (LAP-mntDBWVV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Verwaltungsdienst in der Bundeswehrverwaltung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

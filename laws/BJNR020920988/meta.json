@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-10-24",
+  "bjnr": "BJNR020920988",
+  "eli": null,
+  "gii_slug": "ewgsichv",
+  "ingested_at": "2026-04-17T15:21:10Z",
+  "jurabk": "EWGSichV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f5d8bd3b3de535cb8e7a50e50747fd584c794d5696b491fa0d071f3752112d42"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ewgsichv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ewgsichv/xml.zip"
+  },
+  "stand_datum": "2022-03-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 V v. 10.3.2022 I 428",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Sicherheiten für landwirtschaftliche Erzeugnisse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

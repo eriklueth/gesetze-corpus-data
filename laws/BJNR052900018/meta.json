@@ -1,0 +1,21 @@
+{
+  "amtabk": "ImmoKWPLV",
+  "ausfertigung_datum": "2018-04-24",
+  "bjnr": "BJNR052900018",
+  "eli": null,
+  "gii_slug": "immokwplv",
+  "ingested_at": "2026-04-17T15:22:56Z",
+  "jurabk": "ImmoKWPLV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "753f4466444e23f3e6493d3ae1ab7448d8e5f9880ceb6f487348aaeac084d764"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/immokwplv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/immokwplv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Festlegung von Leitlinien zu den Kriterien und Methoden der Kreditwürdigkeitsprüfung bei Immobiliar-Verbraucherdarlehensverträgen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

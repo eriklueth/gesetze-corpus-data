@@ -1,0 +1,734 @@
+{
+  "bjnr": "BJNR266600008",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Geltungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Kostenfreiheit",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Höhe der Kosten",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Umgangspflegschaft",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Lebenspartnerschaftssachen",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Verweisung, Abgabe, Fortführung einer Folgesache als selbständige Familiensache",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Verjährung, Verzinsung",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Elektronische Akte, elektronisches Dokument",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0008a.md",
+      "heading": "Rechtsbehelfsbelehrung",
+      "number": "§ 8a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Fälligkeit"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Fälligkeit der Gebühren in Ehesachen und selbständigen Familienstreitsachen",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Fälligkeit"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Fälligkeit bei Vormundschaften und Dauerpflegschaften",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Fälligkeit"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Fälligkeit der Gebühren in sonstigen Fällen, Fälligkeit der Auslagen",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Vorschuss und Vorauszahlung"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Grundsatz",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Vorschuss und Vorauszahlung"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Verfahren nach dem Internationalen Familienrechtsverfahrensgesetz",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Vorschuss und Vorauszahlung"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Abhängigmachung in bestimmten Verfahren",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Vorschuss und Vorauszahlung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Ausnahmen von der Abhängigmachung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Vorschuss und Vorauszahlung"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Auslagen",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Vorschuss und Vorauszahlung"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Fortdauer der Vorschusspflicht",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Kostenansatz"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Kostenansatz",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Kostenansatz"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Nachforderung",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Kostenansatz"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Nichterhebung von Kosten",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kostenhaftung"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Kostenschuldner in Antragsverfahren, Vergleich",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kostenhaftung"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Kosten bei Vormundschaft und Dauerpflegschaft",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kostenhaftung"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Bestimmte sonstige Auslagen",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kostenhaftung"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Weitere Fälle der Kostenhaftung",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kostenhaftung"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Erlöschen der Zahlungspflicht",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kostenhaftung"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Mehrere Kostenschuldner",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Kostenhaftung"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Haftung von Streitgenossen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Gebührenvorschriften"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Wertgebühren",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Gebührenvorschriften"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Einmalige Erhebung der Gebühren",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Gebührenvorschriften"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Teile des Verfahrensgegenstands",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Gebührenvorschriften"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Zurückverweisung, Abänderung oder Aufhebung einer Entscheidung",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Gebührenvorschriften"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Verzögerung des Verfahrens",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 1 Allgemeine Wertvorschriften"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Grundsatz",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 1 Allgemeine Wertvorschriften"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Zeitpunkt der Wertberechnung",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 1 Allgemeine Wertvorschriften"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Geldforderung",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 1 Allgemeine Wertvorschriften"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Genehmigung einer Erklärung oder deren Ersetzung",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 1 Allgemeine Wertvorschriften"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Früchte, Nutzungen, Zinsen und Kosten",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 1 Allgemeine Wertvorschriften"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Stufenantrag",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 1 Allgemeine Wertvorschriften"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Antrag und Widerantrag, Hilfsanspruch, wechselseitige Rechtsmittel, Aufrechnung",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 1 Allgemeine Wertvorschriften"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Rechtsmittelverfahren",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 1 Allgemeine Wertvorschriften"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Einstweilige Anordnung",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 1 Allgemeine Wertvorschriften"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Auffangwert",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 2 Besondere Wertvorschriften"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Ehesachen",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 2 Besondere Wertvorschriften"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Verbund",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 2 Besondere Wertvorschriften"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Bestimmte Kindschaftssachen",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 2 Besondere Wertvorschriften"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Übrige Kindschaftssachen",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 2 Besondere Wertvorschriften"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Abstammungssachen",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 2 Besondere Wertvorschriften"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Ehewohnungs- und Haushaltssachen",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 2 Besondere Wertvorschriften"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Gewaltschutzsachen",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 2 Besondere Wertvorschriften"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Versorgungsausgleichssachen",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 2 Besondere Wertvorschriften"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Unterhaltssachen und sonstige den Unterhalt betreffende Familiensachen",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 2 Besondere Wertvorschriften"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Güterrechtssachen",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 3 Wertfestsetzung"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Angabe des Werts",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 3 Wertfestsetzung"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Wertfestsetzung für die Zulässigkeit der Beschwerde",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 3 Wertfestsetzung"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Wertfestsetzung für die Gerichtsgebühren",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Unterabschnitt 3 Wertfestsetzung"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Schätzung des Werts",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 8 Erinnerung und Beschwerde"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Erinnerung gegen den Kostenansatz, Beschwerde",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 8 Erinnerung und Beschwerde"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Beschwerde gegen die Anordnung einer Vorauszahlung",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 8 Erinnerung und Beschwerde"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Beschwerde gegen die Festsetzung des Verfahrenswerts",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 8 Erinnerung und Beschwerde"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Beschwerde gegen die Auferlegung einer Verzögerungsgebühr",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 8 Erinnerung und Beschwerde"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 9 Schluss- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0061a.md",
+      "heading": "Verordnungsermächtigung",
+      "number": "§ 61a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 9 Schluss- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "(weggefallen)",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 9 Schluss- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0062a.md",
+      "heading": "Bekanntmachung von Neufassungen",
+      "number": "§ 62a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 9 Schluss- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Übergangsvorschrift",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 9 Schluss- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Übergangsvorschrift für die Erhebung von Haftkosten",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 9 Schluss- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 9 Schluss- und Übergangsvorschriften"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 3 Abs. 2)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Wertvorschriften",
+        "Abschnitt 9 Schluss- und Übergangsvorschriften"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 28 Absatz 1 Satz 3)",
+      "number": "Anlage 2",
+      "type": "annex"
+    }
+  ]
+}

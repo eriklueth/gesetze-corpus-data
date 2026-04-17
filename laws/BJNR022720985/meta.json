@@ -1,0 +1,26 @@
+{
+  "amtabk": "EinhV",
+  "ausfertigung_datum": "1985-12-13",
+  "bjnr": "BJNR022720985",
+  "eli": null,
+  "gii_slug": "einhv",
+  "ingested_at": "2026-04-17T15:20:36Z",
+  "jurabk": "EinhV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d5d895784ba63c85e4993ea861d388b4b6124b80f041a26c6589c3e72bdd2d54"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/einhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/einhv/xml.zip"
+  },
+  "stand_datum": "2009-09-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 25.9.2009 I 3169",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Ausführungsverordnung zum Gesetz über die Einheiten im Messwesen und die Zeitbestimmung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

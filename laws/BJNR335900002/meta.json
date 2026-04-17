@@ -1,0 +1,26 @@
+{
+  "amtabk": "EMVBeitrV",
+  "ausfertigung_datum": "2002-08-12",
+  "bjnr": "BJNR335900002",
+  "eli": null,
+  "gii_slug": "emvbeitrv_2002",
+  "ingested_at": "2026-04-17T15:20:39Z",
+  "jurabk": "EMVBeitrV 2002",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2492dfa36ace00c8809616016db53843e7b0a27bcf65d8898d6369c23bf90bb4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/emvbeitrv_2002/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/emvbeitrv_2002/xml.zip"
+  },
+  "stand_datum": "2005-07-07",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 Abs. 19 G v. 7.7.2005 I 1970",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Beiträge nach dem Gesetz über die elektromagnetische Verträglichkeit von Geräten für die Jahre 1999, 2000, 2001 und 2002",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

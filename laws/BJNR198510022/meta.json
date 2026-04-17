@@ -1,0 +1,21 @@
+{
+  "amtabk": "RentEPPG",
+  "ausfertigung_datum": "2022-11-07",
+  "bjnr": "BJNR198510022",
+  "eli": null,
+  "gii_slug": "renteppg",
+  "ingested_at": "2026-04-17T15:27:17Z",
+  "jurabk": "RentEPPG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aaf891d13f848e569f1f1c03106b4d79c4a9656920319ef52f4be4301143c8f4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/renteppg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/renteppg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Zahlung einer Energiepreispauschale für Rentnerinnen und Rentner",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1908-05-30",
+  "bjnr": "BJNR003050908",
+  "eli": null,
+  "gii_slug": "vvgeg",
+  "ingested_at": "2026-04-17T15:30:18Z",
+  "jurabk": "VVGEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "39a65fe22af24d19345aac57f7b7d746d98624c2161baf9d944916e95ddd13af"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vvgeg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vvgeg/xml.zip"
+  },
+  "stand_datum": "2026-01-16",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 16.1.2026 I Nr. 14",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Einführungsgesetz zum Versicherungsvertragsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

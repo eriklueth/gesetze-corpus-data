@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1984-02-02",
+  "bjnr": "BJNR200690984",
+  "eli": null,
+  "gii_slug": "eurocontrol_bk_ndprotg",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "EUROCONTROLÜbkÄndProtG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "286953ec884dd3e074a2c5cc6a6e10aa4a1b38a699c5099c25f2c756bb56968e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurocontrol_bk_ndprotg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurocontrol_bk_ndprotg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 580 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Protokoll vom 12. Februar 1981 zur Änderung des Internationalen Übereinkommens über Zusammenarbeit zur Sicherung der Luftfahrt \"EUROCONTROL\" vom 13. Dezember 1960 und zu der Mehrseitigen Vereinbarung vom 12. Februar 1981 über Flugsicherungs-Streckengebühren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

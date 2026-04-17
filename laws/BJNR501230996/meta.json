@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-12-29",
+  "bjnr": "BJNR501230996",
+  "eli": null,
+  "gii_slug": "luftvodv_162",
+  "ingested_at": "2026-04-17T15:24:22Z",
+  "jurabk": "LuftVODV 162",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "590fded77f3a5aeb565151c666aea18dd8997b46817c5b0e8d2a0660284cadfa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_162/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_162/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hundertzweiundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Hof-Plauen)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

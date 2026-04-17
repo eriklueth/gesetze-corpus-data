@@ -1,0 +1,30 @@
+{
+  "amtabk": "GenTVfV",
+  "ausfertigung_datum": "1990-10-24",
+  "bjnr": "BJNR023780990",
+  "eli": null,
+  "gii_slug": "gentvfv",
+  "ingested_at": "2026-04-17T15:22:09Z",
+  "jurabk": "GenTVfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "46964ab71823d2eeba3d6cd2f825ea8ddeb08d67c14928a86e8ea4a78998435c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gentvfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gentvfv/xml.zip"
+  },
+  "stand_datum": "1996-11-04",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 4.11.1996 I 1657;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 V v. 12.8.2019 I 1235",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Antrags- und Anmeldeunterlagen und über Genehmigungs- und Anmeldeverfahren nach dem Gentechnikgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-01-30",
+  "bjnr": "BJNR031700998",
+  "eli": null,
+  "gii_slug": "rebflv",
+  "ingested_at": "2026-04-17T15:27:13Z",
+  "jurabk": "RebflV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d07b2a506283b9f30540e936b5240e23577dc191bfbeef7b93b5672f04a00859"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rebflv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rebflv/xml.zip"
+  },
+  "stand_datum": "2000-03-01",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 1.3.2000 I 178",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V tritt gem. § 3 Satz 2 am 5.8.1998 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird. § 3 Satz 2 aufgeh. durch Art. 1 V v. 16.6.1998 I 1354; dadurch ist die Geltung der V über den 5.8.1998 hinaus verlängert.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Gewährung von Prämien zur endgültigen Aufgabe von Rebflächen in den Weinwirtschaftsjahren 1997/98 bis 1999/2000",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-02-02",
+  "bjnr": "BJNR201060951",
+  "eli": null,
+  "gii_slug": "gewrschpriofrabk_swe",
+  "ingested_at": "2026-04-17T15:22:08Z",
+  "jurabk": "GewRSchPrioFrAbk SWE",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bb60df7f159c5fd1dcc9912df914476187b795cc41c86357e10f367f56075e3c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gewrschpriofrabk_swe/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gewrschpriofrabk_swe/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über die Verlängerung von Prioritätsfristen auf dem Gebiet des gewerblichen Rechtsschutzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BsGaV",
+  "ausfertigung_datum": "2014-10-13",
+  "bjnr": "BJNR160300014",
+  "eli": null,
+  "gii_slug": "bsgav",
+  "ingested_at": "2026-04-17T15:19:14Z",
+  "jurabk": "BsGaV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "13fe9921d3d108da0cda44edb31b59e936b9ce4c632f7d7f5f2382a67cc1f5d6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bsgav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bsgav/xml.zip"
+  },
+  "stand_datum": "2025-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 V v. 19.12.2025 I Nr. 372",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Anwendung des Fremdvergleichsgrundsatzes auf Betriebsstätten nach § 1 Absatz 5 des Außensteuergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

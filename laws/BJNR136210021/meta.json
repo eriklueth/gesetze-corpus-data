@@ -1,0 +1,26 @@
+{
+  "amtabk": "LMZDV",
+  "ausfertigung_datum": "2021-06-02",
+  "bjnr": "BJNR136210021",
+  "eli": null,
+  "gii_slug": "lmzdv",
+  "ingested_at": "2026-04-17T15:24:08Z",
+  "jurabk": "LMZDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e1547f9c038df47e74f466e115058d9ec21c2bffae32ee305101a41c3606bbb5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lmzdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lmzdv/xml.zip"
+  },
+  "stand_datum": "2024-12-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 11.12.2024 I Nr. 411",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung unionsrechtlicher Vorschriften über Lebensmittelzusatzstoffe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

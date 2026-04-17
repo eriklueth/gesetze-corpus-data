@@ -1,0 +1,26 @@
+{
+  "amtabk": "EURHGAusnahmV",
+  "ausfertigung_datum": "2010-04-14",
+  "bjnr": "BJNR604100010",
+  "eli": null,
+  "gii_slug": "eurhgausnahmv",
+  "ingested_at": "2026-04-17T15:20:58Z",
+  "jurabk": "EURHGAusnahmV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "052b6b1e39645382772d3041a25673c7eba9cc461f624792aba3cf942569671f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurhgausnahmv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurhgausnahmv/xml.zip"
+  },
+  "stand_datum": "2026-04-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 14.4.2026 I Nr. 102",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Ausnahmen hinsichtlich des Inverkehrbringens und der Verfütterung von bestimmten Erzeugnissen mit Pestizidrückständen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

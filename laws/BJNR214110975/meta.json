@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-06-01",
+  "bjnr": "BJNR214110975",
+  "eli": null,
+  "gii_slug": "bodseesch_bkzprot",
+  "ingested_at": "2026-04-17T15:18:50Z",
+  "jurabk": "BodSeeSchÜbkZProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "89a43d09e2b72d6b0f7bb8e9fe468527ff8288cbe2e1a36d691261a3f80f8772"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bodseesch_bkzprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bodseesch_bkzprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzprotokoll zu dem Übereinkommen über die Schiffahrt auf dem Bodensee vom 1. Juni 1973",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

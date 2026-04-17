@@ -1,0 +1,26 @@
+{
+  "amtabk": "SchuldRAnpG",
+  "ausfertigung_datum": "1994-09-21",
+  "bjnr": "BJNR253810994",
+  "eli": null,
+  "gii_slug": "schuldranpg",
+  "ingested_at": "2026-04-17T15:27:52Z",
+  "jurabk": "SchuldRAnpG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "412a99386b5ed8012131fc6bcab05a3ea88c3bfb36905cbc7902ad43f2912f05"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schuldranpg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schuldranpg/xml.zip"
+  },
+  "stand_datum": "2015-11-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 20 G v. 20.11.2015 I 2010",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Anpassung schuldrechtlicher Nutzungsverhältnisse an Grundstücken im Beitrittsgebiet",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

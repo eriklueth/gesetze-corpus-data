@@ -1,0 +1,30 @@
+{
+  "amtabk": "TabStG",
+  "ausfertigung_datum": "2009-07-15",
+  "bjnr": "BJNR187010009",
+  "eli": null,
+  "gii_slug": "tabstg_2009",
+  "ingested_at": "2026-04-17T15:29:15Z",
+  "jurabk": "TabStG 2009",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a7d195df53de8840523c4fa2810e2d8b926953439d745d026ecc95cf6cb4bd1b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tabstg_2009/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tabstg_2009/xml.zip"
+  },
+  "stand_datum": "2022-10-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 24.10.2022 I 1838",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 15 G v. 24.10.2022 I 1838 ist berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Tabaksteuergesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

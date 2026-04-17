@@ -1,0 +1,34 @@
+{
+  "amtabk": "KHG",
+  "ausfertigung_datum": "1972-06-29",
+  "bjnr": "BJNR010090972",
+  "eli": null,
+  "gii_slug": "khg",
+  "ingested_at": "2026-04-17T15:23:33Z",
+  "jurabk": "KHG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "94b119b67c86ebe9379f0edeb72f242b2f82ca047305a3bba45d0a25984f5316"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/khg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/khg/xml.zip"
+  },
+  "stand_datum": "1991-04-10",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 10.4.1991 I 886;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 11 G v. 22.12.2025 I Nr. 371",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 G v. 9.4.2026 I Nr. 98 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Gesetz zur wirtschaftlichen Sicherung der Krankenhäuser und zur Regelung der Krankenhauspflegesätze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

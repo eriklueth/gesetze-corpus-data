@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-01-29",
+  "bjnr": "BJNR01B0C0025",
+  "eli": null,
+  "gii_slug": "sgb5_303fe_v",
+  "ingested_at": "2026-04-17T15:28:11Z",
+  "jurabk": "SGB5§303fEÜV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8e7907129d200a48ea3eab963a996d44aa4d212e325db10d025ee080403c6e87"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgb5_303fe_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgb5_303fe_v/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Übertragung der Ermächtigung zum Erlass einer Rechtsverordnung nach § 303f des Fünften Buch Sozialgesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

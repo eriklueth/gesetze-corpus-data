@@ -1,0 +1,26 @@
+{
+  "amtabk": "BNichtrSchG",
+  "ausfertigung_datum": "2007-07-20",
+  "bjnr": "BJNR159510007",
+  "eli": null,
+  "gii_slug": "bnichtrschg",
+  "ingested_at": "2026-04-17T15:18:53Z",
+  "jurabk": "BNichtrSchG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6918063a055711329a27934ab2d309aae06c69c808de56936b3f663f982bf381"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bnichtrschg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bnichtrschg/xml.zip"
+  },
+  "stand_datum": "2024-03-27",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 8 G v. 27.3.2024 I Nr. 109",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Einführung eines Rauchverbotes in Einrichtungen des Bundes und öffentlichen Verkehrsmitteln",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

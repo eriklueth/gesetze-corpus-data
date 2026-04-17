@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-06-16",
+  "bjnr": "BJNR008570977",
+  "eli": null,
+  "gii_slug": "prfgzfrankrv",
+  "ingested_at": "2026-04-17T15:26:59Z",
+  "jurabk": "PrfgZFrankrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "17c674dfa3f2b310ee321e4bf9c3e22523cdf06a75728f69a795c91f700c119d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/prfgzfrankrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/prfgzfrankrv/xml.zip"
+  },
+  "stand_datum": "1991-09-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 25.9.1991 I 1956",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Gleichstellung französischer Prüfungszeugnisse mit Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

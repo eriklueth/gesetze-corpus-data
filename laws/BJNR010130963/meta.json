@@ -1,0 +1,30 @@
+{
+  "amtabk": "EntwLStG",
+  "ausfertigung_datum": "1963-12-23",
+  "bjnr": "BJNR010130963",
+  "eli": null,
+  "gii_slug": "entwhstg",
+  "ingested_at": "2026-04-17T15:20:43Z",
+  "jurabk": "EntwHStG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d73e609c9188ec9d6e7ca906492c36bbd2a69c942d036b3f6b607b0466151505"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/entwhstg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/entwhstg/xml.zip"
+  },
+  "stand_datum": "1979-05-21",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 21.5.1979 I 564,",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 81 V v. 25.11.2003 I 2304",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über steuerliche Maßnahmen zur Förderung von privaten Kapitalanlagen in Entwicklungsländern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

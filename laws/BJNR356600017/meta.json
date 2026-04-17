@@ -1,0 +1,30 @@
+{
+  "amtabk": "WpDVerOV",
+  "ausfertigung_datum": "2017-10-17",
+  "bjnr": "BJNR356600017",
+  "eli": null,
+  "gii_slug": "wpdverov_2018",
+  "ingested_at": "2026-04-17T15:30:41Z",
+  "jurabk": "WpDVerOV 2018",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "55604752a4d482760e91a3fe6a7f52b6fa123bdb31195a5bbfcc9ebe597de00d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpdverov_2018/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpdverov_2018/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 11 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 4110-4-13 v. 20.7.2007 I 1432 (WpDVerOV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsanforderungen für Wertpapierdienstleistungsunternehmen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1931-08-26",
+  "bjnr": "BJNR205370931",
+  "eli": null,
+  "gii_slug": "rverkabkturav",
+  "ingested_at": "2026-04-17T15:27:32Z",
+  "jurabk": "RVerkAbkTURAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d175e99ef2c126bd4a166ac98cbe75c6ceaa7c739ba21d75b59e90a6643336eb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rverkabkturav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rverkabkturav/xml.zip"
+  },
+  "stand_datum": "2006-04-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 101 G v. 19.4.2006 I 866",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Ausführung des deutsch-türkischen Abkommens über den Rechtsverkehr in Zivil- und Handelssachen vom 28. Mai 1929 (Reichsgesetzbl. 1930 II S. 6)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

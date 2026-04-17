@@ -1,0 +1,26 @@
+{
+  "amtabk": "ErbStDV",
+  "ausfertigung_datum": "1998-09-08",
+  "bjnr": "BJNR265800998",
+  "eli": null,
+  "gii_slug": "erbstdv_1998",
+  "ingested_at": "2026-04-17T15:20:44Z",
+  "jurabk": "ErbStDV 1998",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "184a4a11066f94bad93bbdd1f801c3aa39f3ba045657faf25e7ffde6eb9cddcc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/erbstdv_1998/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/erbstdv_1998/xml.zip"
+  },
+  "stand_datum": "2025-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 V v. 19.12.2025 I Nr. 372",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Erbschaftsteuer-Durchführungsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

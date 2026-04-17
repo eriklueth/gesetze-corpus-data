@@ -1,0 +1,26 @@
+{
+  "amtabk": "BPolZollV",
+  "ausfertigung_datum": "2005-06-24",
+  "bjnr": "BJNR186700005",
+  "eli": null,
+  "gii_slug": "bpolzollv",
+  "ingested_at": "2026-04-17T15:18:53Z",
+  "jurabk": "BPolZollV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "934cee995c2d9c5f0089a5f586f0ce9f3491547747c4b043cd3e7582d5cfee2e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpolzollv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpolzollv/xml.zip"
+  },
+  "stand_datum": "2024-10-21",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 21.10.2024 I Nr. 319",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Übertragung von Bundespolizeiaufgaben auf die Zollverwaltung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

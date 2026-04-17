@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1957-07-26",
+  "bjnr": "BJNR207010957",
+  "eli": null,
+  "gii_slug": "milseelsg",
+  "ingested_at": "2026-04-17T15:24:54Z",
+  "jurabk": "MilSeelsG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a8512d78b9adcb0b7ec75b976e33ad78ea7f9bf104c7999fd46e46014be2460b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/milseelsg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/milseelsg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die Militärseelsorge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

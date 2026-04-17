@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1971-10-12",
+  "bjnr": "BJNR016250971",
+  "eli": null,
+  "gii_slug": "wertausglg",
+  "ingested_at": "2026-04-17T15:30:31Z",
+  "jurabk": "WertAusglG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "36d6664ec301324ba5df3384aaf25623510eca87e592302190a12f75e4212379"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wertausglg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wertausglg/xml.zip"
+  },
+  "stand_datum": "2001-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 Abs. 32 G v. 19.6.2001 I 1149",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Regelung der Rechtsverhältnisse bei baulichen Maßnahmen auf ehemals in Anspruch genommenen Grundstücken",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

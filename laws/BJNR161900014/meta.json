@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-10-10",
+  "bjnr": "BJNR161900014",
+  "eli": null,
+  "gii_slug": "ehrzanerkerl",
+  "ingested_at": "2026-04-17T15:20:32Z",
+  "jurabk": "EhrZAnerkErl",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0ad54ffee6bb128ca3b4c97de763c4e2bdab7eeb778055959c7b3dcae5077726"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ehrzanerkerl/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ehrzanerkerl/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erlass über die Anerkennung als Ehrenzeichen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

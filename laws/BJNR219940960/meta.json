@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-07-01",
+  "bjnr": "BJNR219940960",
+  "eli": null,
+  "gii_slug": "intatomorgvorrvbg",
+  "ingested_at": "2026-04-17T15:23:01Z",
+  "jurabk": "IntAtomOrgVorRVbg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e2033e6b542651d5f9da34b75392df7f3b27842e991e03089fd208c350bbbd83"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intatomorgvorrvbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intatomorgvorrvbg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vereinbarung über die Vorrechte und Befreiungen der Internationalen Atomenergie-Organisation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

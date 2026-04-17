@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-08-15",
+  "bjnr": "BJNR011430969",
+  "eli": null,
+  "gii_slug": "kastrg",
+  "ingested_at": "2026-04-17T15:23:22Z",
+  "jurabk": "KastrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0568f1c7795ea8417c4b25a6379c297a3f48a02005f0e8cc3544b780e9cfe687"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kastrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kastrg/xml.zip"
+  },
+  "stand_datum": "2016-11-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 8 G v. 4.11.2016 I 2460",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die freiwillige Kastration und andere Behandlungsmethoden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

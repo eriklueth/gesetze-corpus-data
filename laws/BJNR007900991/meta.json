@@ -1,0 +1,21 @@
+{
+  "amtabk": "BeitrS. RV/BA ÄndG",
+  "ausfertigung_datum": "1991-03-22",
+  "bjnr": "BJNR007900991",
+  "eli": null,
+  "gii_slug": "beitrsrv_ba_ndg",
+  "ingested_at": "2026-04-17T15:18:05Z",
+  "jurabk": "BeitrSRV/BAÄndG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "003213aa06d3727b181f0f52a2a7ddcf462f81d1df3a6ec3383a8dd5737879fc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/beitrsrv_ba_ndg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/beitrsrv_ba_ndg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Änderung der Beitragssätze in der gesetzlichen Rentenversicherung und bei der Bundesanstalt für Arbeit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

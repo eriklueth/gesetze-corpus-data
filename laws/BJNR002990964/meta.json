@@ -1,0 +1,30 @@
+{
+  "amtabk": "BNV",
+  "ausfertigung_datum": "1964-04-22",
+  "bjnr": "BJNR002990964",
+  "eli": null,
+  "gii_slug": "bnv",
+  "ingested_at": "2026-04-17T15:18:50Z",
+  "jurabk": "BNV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a9808a4bcb573a4db3e0eb89883fa87a19ef738f1d9e0d881df34ef17f2402ab"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bnv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bnv/xml.zip"
+  },
+  "stand_datum": "1987-11-12",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 12.11.1987 I 2376;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 7 G v. 29.3.2017 I 626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Nebentätigkeit der Bundesbeamten, Berufssoldaten und Soldaten auf Zeit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

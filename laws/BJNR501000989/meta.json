@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-01-09",
+  "bjnr": "BJNR501000989",
+  "eli": null,
+  "gii_slug": "gzktgrindflv_1989",
+  "ingested_at": "2026-04-17T15:22:33Z",
+  "jurabk": "GZKtgRindFlV 1989",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "06738f6ca4ea388c88020b5974e88cfe6079466ad6368fe1fc579c951ac0c704"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gzktgrindflv_1989/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gzktgrindflv_1989/xml.zip"
+  },
+  "stand_datum": "1994-08-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 26 G v. 2.8.1994 I 2018",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Grundsätze für die Verteilung der deutschen Quote des Gemeinschaftszollkontingents 1989 für gefrorenes Rindfleisch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

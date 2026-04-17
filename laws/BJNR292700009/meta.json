@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-08-21",
+  "bjnr": "BJNR292700009",
+  "eli": null,
+  "gii_slug": "bp_dfortbv",
+  "ingested_at": "2026-04-17T15:19:00Z",
+  "jurabk": "BPädFortbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5da7e0860160abf480ea6ad77909fa81ddfffaf5d4dd4626cb15c403676aa5ca"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bp_dfortbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bp_dfortbv/xml.zip"
+  },
+  "stand_datum": "2019-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 48 V v. 9.12.2019 I 2153",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Berufspädagoge/Geprüfte Berufspädagogin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

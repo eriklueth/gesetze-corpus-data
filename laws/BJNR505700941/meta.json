@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1941-03-04",
+  "bjnr": "BJNR505700941",
+  "eli": null,
+  "gii_slug": "kaeano",
+  "ingested_at": "2026-04-17T15:23:18Z",
+  "jurabk": "KAEAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ee036e9cc12fff86ccbaf17a11e85bf707f8ff58b83229a33346d631ae750d0b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kaeano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kaeano/xml.zip"
+  },
+  "stand_datum": "1992-01-09",
+  "standangabe": [
+    {
+      "kommentar": "AnO für Strom u. Gas aufgeh. durch § 9 Satz 2 V v. 9.1.1992 I 12 mWv 1.1.1992",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Anordnung über die Zulässigkeit von Konzessionsabgaben der Unternehmen und Betriebe zur Versorgung mit Elektrizität, Gas und Wasser an Gemeinden und Gemeindeverbände",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

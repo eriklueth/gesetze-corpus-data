@@ -1,0 +1,30 @@
+{
+  "amtabk": "WSG",
+  "ausfertigung_datum": "2019-08-04",
+  "bjnr": "BJNR115800019",
+  "eli": null,
+  "gii_slug": "wsg_2020",
+  "ingested_at": "2026-04-17T15:30:49Z",
+  "jurabk": "WSG 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "843e5be9a336991cd590f09361d2658aa850fe4bdffdcac5308ba3308dc01756"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wsg_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wsg_2020/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 22.12.2025 I Nr. 370",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt G 53-1 v. 30.3.1957 I 308 (WSG)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Wehrsoldgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

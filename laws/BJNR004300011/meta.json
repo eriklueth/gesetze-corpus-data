@@ -1,0 +1,26 @@
+{
+  "amtabk": "HKrimDAPrV",
+  "ausfertigung_datum": "2011-01-15",
+  "bjnr": "BJNR004300011",
+  "eli": null,
+  "gii_slug": "hkrimdaprv",
+  "ingested_at": "2026-04-17T15:22:41Z",
+  "jurabk": "HKrimDAPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4274804eda526d0526c7e3dfb2131ff393cc117058fd3e0abae3ffeafd981742"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hkrimdaprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hkrimdaprv/xml.zip"
+  },
+  "stand_datum": "2020-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 V v. 9.12.2020 I 2883",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Ausbildung und Prüfung für den höheren Kriminaldienst des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

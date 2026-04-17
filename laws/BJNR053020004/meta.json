@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-04-29",
+  "bjnr": "BJNR053020004",
+  "eli": null,
+  "gii_slug": "eurhi_bkergvtrpolg",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "EuRHiÜbkErgVtrPOLG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c8e4f2b43caf1cb07dd70085dc7fb8d98b3ca3def8c2b9083f38a7e5d8e34180"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurhi_bkergvtrpolg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurhi_bkergvtrpolg/xml.zip"
+  },
+  "stand_datum": "2004-08-18",
+  "standangabe": [
+    {
+      "kommentar": "Art. 2 tritt gem. Art. 3 Abs. 1 Satz 2 iVm Bek. v. 18.8.2004 II 1339 mWv 4.9.2004 in Kraft",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zu dem Vertrag vom 17. Juli 2003 zwischen der Bundesrepublik Deutschland und der Republik Polen über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

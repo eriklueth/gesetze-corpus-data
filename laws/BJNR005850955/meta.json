@@ -1,0 +1,30 @@
+{
+  "amtabk": "WoPDV 1982",
+  "ausfertigung_datum": "1955-09-08",
+  "bjnr": "BJNR005850955",
+  "eli": null,
+  "gii_slug": "wopdv",
+  "ingested_at": "2026-04-17T15:30:39Z",
+  "jurabk": "WoPDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e0696db41c8d0c0a53d44547810c661ccb7aff3c4eaf6e3658d98031ac69af01"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wopdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wopdv/xml.zip"
+  },
+  "stand_datum": "1997-10-30",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 30.10.1997 I 2684;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 9 V v. 25.6.2020 I 1495",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Wohnungsbau-Prämiengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

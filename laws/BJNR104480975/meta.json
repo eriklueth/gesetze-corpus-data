@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-01-31",
+  "bjnr": "BJNR104480975",
+  "eli": null,
+  "gii_slug": "beamthaftespbek",
+  "ingested_at": "2026-04-17T15:17:57Z",
+  "jurabk": "BeamtHaftESPBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f5020a439ac81f64adf1a2d3afba2bd09d6cf230af45501aff68054d22268ecf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/beamthaftespbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/beamthaftespbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten gegenüber den Angehörigen des Spanischen Staates",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

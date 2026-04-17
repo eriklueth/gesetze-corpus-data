@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-12-08",
+  "bjnr": "BJNR000800006",
+  "eli": null,
+  "gii_slug": "m_nz2eurobek_2006",
+  "ingested_at": "2026-04-17T15:25:35Z",
+  "jurabk": "Münz2EuroBek 2006",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "710bbac53740713034a982836c118e5d4242344ba0ca25dbdaf0c19ebb9acec4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz2eurobek_2006/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz2eurobek_2006/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze \"Schleswig-Holstein\")",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

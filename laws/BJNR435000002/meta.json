@@ -1,0 +1,30 @@
+{
+  "amtabk": "GGAV 2002",
+  "ausfertigung_datum": "2002-11-06",
+  "bjnr": "BJNR435000002",
+  "eli": null,
+  "gii_slug": "ggav_2002",
+  "ingested_at": "2026-04-17T15:22:12Z",
+  "jurabk": "GGAV 2002",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0698cb338791a0d83a5a2d50e6a4d7fae063d6b646975785bb7aeb9df5910d7b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ggav_2002/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ggav_2002/xml.zip"
+  },
+  "stand_datum": "2019-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 11.3.2019 I 229;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 V v. 19.6.2025 I Nr. 147",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Ausnahmen von den Vorschriften über die Beförderung gefährlicher Güter",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

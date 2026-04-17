@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1986-06-05",
+  "bjnr": "BJNR108640986",
+  "eli": null,
+  "gii_slug": "bkorgerl_1986",
+  "ingested_at": "2026-04-17T15:18:29Z",
+  "jurabk": "BKOrgErl 1986",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dcac977edb0e3b0fc35509f62d7793f8163902ddad56f946234009fb2f03eb33"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bkorgerl_1986/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bkorgerl_1986/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Organisationserlaß des Bundeskanzlers",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

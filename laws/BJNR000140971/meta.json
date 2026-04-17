@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1970-12-17",
+  "bjnr": "BJNR000140971",
+  "eli": null,
+  "gii_slug": "bverfgbes_1970-12-17",
+  "ingested_at": "2026-04-17T15:19:29Z",
+  "jurabk": "BVerfGBes 1970-12-17",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6bae4f983bea02797fd14605355045b18f3951a01dc79828cbbce2b24c507f33"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bverfgbes_1970-12-17/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bverfgbes_1970-12-17/xml.zip"
+  },
+  "stand_datum": "1977-11-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Beschluss des Plenums d. Bundesverfassungsgerichts v. 23.11.1977 I 2622",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Beschluß des Bundesverfassungsgerichts vom 17. Dezember 1970 gemäß § 14 Abs. 4 des Gesetzes über das Bundesverfassungsgericht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

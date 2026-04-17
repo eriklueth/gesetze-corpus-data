@@ -1,0 +1,30 @@
+{
+  "amtabk": "DeckRegV",
+  "ausfertigung_datum": "2006-08-25",
+  "bjnr": "BJNR207400006",
+  "eli": null,
+  "gii_slug": "deckregv",
+  "ingested_at": "2026-04-17T15:19:54Z",
+  "jurabk": "DeckRegV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9122c21e6412e546c9c8480ffd4f60529fb08ac62e9e393a66d88f90c769e973"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/deckregv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/deckregv/xml.zip"
+  },
+  "stand_datum": "2022-10-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 4.10.2022 I 1614",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 24 G v. 25.3.2026 I Nr. 81 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über die Form und den Inhalt der Deckungsregister nach dem Pfandbriefgesetz und die Aufzeichnung der Eintragungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

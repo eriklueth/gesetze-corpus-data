@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1985-08-12",
+  "bjnr": "BJNR209990985",
+  "eli": null,
+  "gii_slug": "euschulvorrv_1985",
+  "ingested_at": "2026-04-17T15:21:05Z",
+  "jurabk": "EuSchulVorRV 1985",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "19e22259d94ecbd7103733285d7560c045377b44cb5ec3bb6bc5201331a1fbe1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euschulvorrv_1985/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euschulvorrv_1985/xml.zip"
+  },
+  "stand_datum": "2005-09-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 4 Abs. 3 G v. 22.9.2005 I 2809",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäischen Schulen in Karlsruhe und München",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,42 @@
+{
+  "amtabk": "RheinSchPEV",
+  "ausfertigung_datum": "1994-12-19",
+  "bjnr": "BJNR238160994",
+  "eli": null,
+  "gii_slug": "rheinschpev_1994",
+  "ingested_at": "2026-04-17T15:27:18Z",
+  "jurabk": "RheinSchPEV 1994",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "56bea8ee23732fb5b4a640620068b93b28267b7356b622e3b90ea65ab51bc3b1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rheinschpev_1994/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rheinschpev_1994/xml.zip"
+  },
+  "stand_datum": "2023-04-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 5.4.2023 II Nr. 105",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 V v. 16.5.2023 II Nr. 141 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 V v. 11.3.2024 II Nr. 97 mWv 21.3.2024 u. 1.6.2024 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 3 V v. 17.12.2024 II Nr. 508 mWv 1.1.2025 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Berichtigung v. 5.9.2023 II Nr. 271 ist berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

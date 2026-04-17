@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-09-22",
+  "bjnr": "BJNR087420999",
+  "eli": null,
+  "gii_slug": "sozsichabkjpng",
+  "ingested_at": "2026-04-17T15:28:34Z",
+  "jurabk": "SozSichAbkJPNG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e08cc1ddec3e851ac40f358dfc5e1f53b6dee4d01a832ae848bd294d9ffafb22"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkjpng/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkjpng/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 20. April 1998 zwischen der Bundesrepublik Deutschland und Japan über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "WUFG",
+  "ausfertigung_datum": "1993-08-24",
+  "bjnr": "BJNR152210993",
+  "eli": null,
+  "gii_slug": "wufg",
+  "ingested_at": "2026-04-17T15:30:49Z",
+  "jurabk": "WUFG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "89bbeb3bf28934143b19eda2c9b9cfc681d5248e7be3fce41e2a8622a7e0c4a1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wufg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wufg/xml.zip"
+  },
+  "stand_datum": "2005-09-22",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 4 Abs. 46 G v. 22.9.2005 I 2809",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung der Folgen rechtswidriger Handlungen bei der Währungsumstellung von Mark der Deutschen Demokratischen Republik in Deutsche Mark",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

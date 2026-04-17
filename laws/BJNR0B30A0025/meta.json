@@ -1,0 +1,26 @@
+{
+  "amtabk": "12. MalerArbbV",
+  "ausfertigung_datum": "2025-07-24",
+  "bjnr": "BJNR0B30A0025",
+  "eli": null,
+  "gii_slug": "malerarbbv_12",
+  "ingested_at": "2026-04-17T15:16:31Z",
+  "jurabk": "MalerArbbV 12",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e65bc4f0453a85bae16272f83199b9f26dd3a6f9f2dbeda3e4bf9d585364ecea"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/malerarbbv_12/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/malerarbbv_12/xml.zip"
+  },
+  "stand_datum": "2027-06-30",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 2 dieser V mit Ablauf des 30.6.2027 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Zwölfte Verordnung über zwingende Arbeitsbedingungen für das Maler- und Lackiererhandwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

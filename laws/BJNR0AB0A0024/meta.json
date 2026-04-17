@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2024-05-28",
+  "bjnr": "BJNR0AB0A0024",
+  "eli": null,
+  "gii_slug": "saubfahrzeugbeschg_10bek",
+  "ingested_at": "2026-04-17T15:27:39Z",
+  "jurabk": "SaubFahrzeugBeschG§10Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c8a3c9c899941d5ee55ede2bae9178b130b12306ab59fa243a9c47869124378f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/saubfahrzeugbeschg_10bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/saubfahrzeugbeschg_10bek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung nach § 10 des Saubere-Fahrzeuge-Beschaffungs-Gesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

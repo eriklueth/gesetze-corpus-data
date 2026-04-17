@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2014-03-26",
+  "bjnr": "BJNR026000014",
+  "eli": null,
+  "gii_slug": "bsg_2014",
+  "ingested_at": "2026-04-17T15:19:11Z",
+  "jurabk": "BSG 2014",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "43ed6b1344b4ba17391daaf2c77458262032226a8402f59346f7e4dfda242620"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bsg_2014/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bsg_2014/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Festsetzung der Beitragssätze in der gesetzlichen Rentenversicherung für das Jahr 2014",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

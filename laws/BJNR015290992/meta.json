@@ -1,0 +1,26 @@
+{
+  "amtabk": "VSGZustV",
+  "ausfertigung_datum": "1992-08-12",
+  "bjnr": "BJNR015290992",
+  "eli": null,
+  "gii_slug": "vsgzustv",
+  "ingested_at": "2026-04-17T15:30:17Z",
+  "jurabk": "VSGZustV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b32401ad1ccb2d4239e351a4db7b79352e7890e5cc61a86a31c484e9cf15d407"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vsgzustv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vsgzustv/xml.zip"
+  },
+  "stand_datum": "2023-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 39 G v. 2.3.2023 I Nr. 56",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Zuständigkeiten nach dem Verkehrssicherstellungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

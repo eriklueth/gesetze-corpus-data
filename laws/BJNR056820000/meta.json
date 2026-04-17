@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2000-03-27",
+  "bjnr": "BJNR056820000",
+  "eli": null,
+  "gii_slug": "rheinpatv_ndinkrv_1",
+  "ingested_at": "2026-04-17T15:27:18Z",
+  "jurabk": "RheinPatVÄndInkrV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "560901cc0c64d44fa70f0aaeb0f3347a30293c8c9f65f9c13245410eaabb138c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rheinpatv_ndinkrv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rheinpatv_ndinkrv_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erste Verordnung über die Inkraftsetzung von Änderungen der Rheinpatentverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

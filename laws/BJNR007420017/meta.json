@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2017-02-06",
+  "bjnr": "BJNR007420017",
+  "eli": null,
+  "gii_slug": "eurocontrol_bknfprotg",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "EUROCONTROLÜbkNFProtG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4ab590c8cecaf2c143c4aef3bf5c925098aefa5e71e2e63450e7869933f2af37"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurocontrol_bknfprotg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurocontrol_bknfprotg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Protokoll vom 27. Juni 1997 zur Neufassung des Internationalen Übereinkommens vom 13. Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL“",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

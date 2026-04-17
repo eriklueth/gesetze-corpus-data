@@ -1,0 +1,21 @@
+{
+  "amtabk": "10. RAG",
+  "ausfertigung_datum": "1967-12-22",
+  "bjnr": "BJNR013430967",
+  "eli": null,
+  "gii_slug": "rag_10",
+  "ingested_at": "2026-04-17T15:16:31Z",
+  "jurabk": "RAG 10",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "16de8eca3279a2a7c1b1688b859c9696914b338ccc188d3f9fd1f0d770b18920"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rag_10/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rag_10/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

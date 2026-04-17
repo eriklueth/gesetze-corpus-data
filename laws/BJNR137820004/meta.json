@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-09-20",
+  "bjnr": "BJNR137820004",
+  "eli": null,
+  "gii_slug": "vii041378",
+  "ingested_at": "2026-04-17T15:30:13Z",
+  "jurabk": "VII041378",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "701ac6cbff80474464e434887f1a533b0cc532cac5473821fad14d11993fd1bf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vii041378/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vii041378/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Durchführung der Vereinbarung vom 17. September 2004 zwischen dem Bundesministerium des Innern der Bundesrepublik Deutschland und dem Ministerium des Innern der Tschechischen Republik über die Errichtung vorgeschobener Grenzabfertigungsstellen und die Bestimmung von Strecken für die Grenzabfertigung während der Fahrt in Zügen und auf Schiffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-05-19",
+  "bjnr": "BJNR207060980",
+  "eli": null,
+  "gii_slug": "intelsatvorrprot",
+  "ingested_at": "2026-04-17T15:23:01Z",
+  "jurabk": "INTELSATVorRProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "62a063d7af940f8488b76b9d2f0d5e6a232eb7fb38433f47988a4e9abe51dbf8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/intelsatvorrprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/intelsatvorrprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll über Vorrechte, Befreiungen und Immunitäten der Internationalen Fernmeldesatellitenorganisationen INTELSAT",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

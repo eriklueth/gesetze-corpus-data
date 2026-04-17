@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1983-01-13",
+  "bjnr": "BJNR000260983",
+  "eli": null,
+  "gii_slug": "fischverg_nstv",
+  "ingested_at": "2026-04-17T15:21:25Z",
+  "jurabk": "FischVergünstV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a38ec657fb4e370f0515c0d692e8f5f7bbe1f617229264ae281bef8b29f1a81c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fischverg_nstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fischverg_nstv/xml.zip"
+  },
+  "stand_datum": "1994-08-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 55 G v. 2.8.1994 I 2018",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Gewährung von Vergünstigungen im Rahmen der gemeinsamen Marktorganisation für Fischereierzeugnisse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

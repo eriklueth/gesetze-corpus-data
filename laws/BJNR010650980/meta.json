@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-07-21",
+  "bjnr": "BJNR010650980",
+  "eli": null,
+  "gii_slug": "przbrgleichstv",
+  "ingested_at": "2026-04-17T15:27:03Z",
+  "jurabk": "PrZBrGleichstV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2e20be8a09cb2290cc16b4b103790debb19e7d04809f345aeb7c6e1d4e2cd978"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/przbrgleichstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/przbrgleichstv/xml.zip"
+  },
+  "stand_datum": "1986-12-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 2.12.1986 I 2111",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschulen für Bürokaufleute, Bürogehilfinnen und Teilezurichter in Bremen mit den Zeugnissen über das Bestehen der Abschlußprüfung in Ausbildungsberufen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

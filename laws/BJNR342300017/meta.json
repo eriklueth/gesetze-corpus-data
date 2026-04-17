@@ -1,0 +1,30 @@
+{
+  "amtabk": "NSGSylV",
+  "ausfertigung_datum": "2017-09-22",
+  "bjnr": "BJNR342300017",
+  "eli": null,
+  "gii_slug": "nsgsylv",
+  "ingested_at": "2026-04-17T15:26:06Z",
+  "jurabk": "NSGSylV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f4b01b2ded40630201f8b98aa16fdfec5281ec0bb1d0be55a689be6051c083b6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nsgsylv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nsgsylv/xml.zip"
+  },
+  "stand_datum": "2024-12-04",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 4.12.2024 I Nr. 397",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 791-8-3 v, 15.9.2005 I 2782 (NatSGÖDeuBuchtV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Festsetzung des Naturschutzgebietes „Sylter Außenriff – Östliche Deutsche Bucht“",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

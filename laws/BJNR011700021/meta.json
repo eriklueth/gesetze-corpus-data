@@ -1,0 +1,30 @@
+{
+  "amtabk": "ZwrMechMstrV",
+  "ausfertigung_datum": "2021-01-28",
+  "bjnr": "BJNR011700021",
+  "eli": null,
+  "gii_slug": "zwrmechmstrv_2022",
+  "ingested_at": "2026-04-17T15:31:31Z",
+  "jurabk": "ZwrMechMstrV 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1b7183dc7d671177f9c36e41cd566a1543c9385f27249f229def5666ceeba37f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zwrmechmstrv_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zwrmechmstrv_2022/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 95 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7110-3-158 v. 29.8.2005 I 2562 (ZwrMechMstrV 2005)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Zweiradmechaniker-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

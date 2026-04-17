@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-05-18",
+  "bjnr": "BJNR308670978",
+  "eli": null,
+  "gii_slug": "ostsfischzprok",
+  "ingested_at": "2026-04-17T15:26:23Z",
+  "jurabk": "OstSFischZProk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "caf5574d4ff380253428f082068bef9bb0e2ca6f40e917d99c07eee3dba69ab4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ostsfischzprok/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ostsfischzprok/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Ostsee",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

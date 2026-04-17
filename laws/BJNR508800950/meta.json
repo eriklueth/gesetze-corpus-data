@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1950-05-06",
+  "bjnr": "BJNR508800950",
+  "eli": null,
+  "gii_slug": "m_nzumschriftbek",
+  "ingested_at": "2026-04-17T15:25:51Z",
+  "jurabk": "MünzUmschriftBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7fdafd9eb4d76a8e854245cada21b9fb0c8e7ad98fa31e5d90e4590d02f76b51"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nzumschriftbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nzumschriftbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausgabe von Münzen im Nennwert von 1, 5, 10 und 50 Pfennig, die an Stelle der Schrift \"Bank deutscher Länder\" die Umschrift \"Bundesrepublik Deutschland\" tragen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

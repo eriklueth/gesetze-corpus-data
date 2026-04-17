@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-07-18",
+  "bjnr": "BJNR274000002",
+  "eli": null,
+  "gii_slug": "brillverfmausbv",
+  "ingested_at": "2026-04-17T15:19:08Z",
+  "jurabk": "BrillVerfMAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8c7fa942ed979805f85030d15ee91691e636c9f384a1681843a5d2173e4596a1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/brillverfmausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/brillverfmausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Verfahrensmechaniker für Brillenoptik/zur Verfahrensmechanikerin für Brillenoptik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

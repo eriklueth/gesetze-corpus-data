@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-07-01",
+  "bjnr": "BJNR159600020",
+  "eli": null,
+  "gii_slug": "fzulganwbek",
+  "ingested_at": "2026-04-17T15:21:46Z",
+  "jurabk": "FZulGAnwBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1e3c461350033954c10b33734cc55ed1aebdfcc12f0b6b0b19cace4762e35452"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fzulganwbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fzulganwbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Anwendbarkeit des Forschungszulagengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

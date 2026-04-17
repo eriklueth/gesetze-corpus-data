@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-10-20",
+  "bjnr": "BJNR521210993",
+  "eli": null,
+  "gii_slug": "luftvodv_134",
+  "ingested_at": "2026-04-17T15:24:19Z",
+  "jurabk": "LuftVODV 134",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3da4ee8bce25a3e3183f2a4190c5456ee96515c78f593f4b21dfff64f3461479"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_134/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_134/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hundertvierunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Sonderlandeplatz Hamburg-Finkenwerder)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

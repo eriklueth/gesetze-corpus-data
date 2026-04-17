@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-08-10",
+  "bjnr": "BJNR248400005",
+  "eli": null,
+  "gii_slug": "invzulg2005dv",
+  "ingested_at": "2026-04-17T15:23:17Z",
+  "jurabk": "InvZulG2005DV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d2dd35ac05de059a98b08aae19df3aa45f80c1b1aef54b03b06d98a3a984cad9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/invzulg2005dv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/invzulg2005dv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Durchführung von § 5 Abs. 2 Satz 4 des Investitionszulagengesetzes 2005",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

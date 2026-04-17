@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-04-26",
+  "bjnr": "BJNR114900005",
+  "eli": null,
+  "gii_slug": "oberflbeschausbv",
+  "ingested_at": "2026-04-17T15:26:09Z",
+  "jurabk": "OberflbeschAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b40656278bcb808e5e10042fd37abba98586b6025b7d07f089fc4917df8fb58a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/oberflbeschausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/oberflbeschausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Oberflächenbeschichter/zur Oberflächenbeschichterin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

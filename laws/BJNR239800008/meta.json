@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-03-03",
+  "bjnr": "BJNR239800008",
+  "eli": null,
+  "gii_slug": "zjdvtr_ndvtr",
+  "ingested_at": "2026-04-17T15:31:19Z",
+  "jurabk": "ZJDVtrÄndVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a02ff2d390290bd01d4dd1108c2d37f4d88c19fda277e63505e1d8cf2038925e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zjdvtr_ndvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zjdvtr_ndvtr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundesminister des Innern, und dem Zentralrat der Juden in Deutschland — Körperschaft des öffentlichen Rechts —, vertreten durch die Präsidentin und die Vizepräsidenten, zur Änderung des Vertrages vom 27. Januar 2003 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland — Körperschaft des öffentlichen Rechts —",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

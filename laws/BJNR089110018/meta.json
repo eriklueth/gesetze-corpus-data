@@ -1,0 +1,26 @@
+{
+  "amtabk": "ATGV",
+  "ausfertigung_datum": "2018-06-27",
+  "bjnr": "BJNR089110018",
+  "eli": null,
+  "gii_slug": "atgv_2019",
+  "ingested_at": "2026-04-17T15:17:10Z",
+  "jurabk": "ATGV 2019",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "832b93eb25a0c8cbe2e117b493b2c3e33468015694cfd565672feff158ce87cf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/atgv_2019/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/atgv_2019/xml.zip"
+  },
+  "stand_datum": "2025-03-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 6.3.2025 I Nr. 78",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Auslandstrennungsgeldverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

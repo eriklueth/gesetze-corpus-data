@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-06-27",
+  "bjnr": "BJNR196200013",
+  "eli": null,
+  "gii_slug": "pflschger_tv",
+  "ingested_at": "2026-04-17T15:26:45Z",
+  "jurabk": "PflSchGerätV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "da5a97a130372a13caf200eef73587844936fb389a685f103a0c07003eeffc7e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pflschger_tv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pflschger_tv/xml.zip"
+  },
+  "stand_datum": "2019-04-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 18.4.2019 I 507 mWv 30.4.2019",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung von Pflanzenschutzgeräten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

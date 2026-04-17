@@ -1,0 +1,21 @@
+{
+  "amtabk": "15. RAG",
+  "ausfertigung_datum": "1972-10-16",
+  "bjnr": "BJNR019920972",
+  "eli": null,
+  "gii_slug": "rag_15",
+  "ingested_at": "2026-04-17T15:16:31Z",
+  "jurabk": "RAG 15",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b0f1beffde43bbf3c68f8ebd6fa3277e58d5a91ccf175c148a163c5072e3e4ed"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rag_15/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rag_15/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Fünfzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

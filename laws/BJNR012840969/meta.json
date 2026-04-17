@@ -1,0 +1,26 @@
+{
+  "amtabk": "BHO",
+  "ausfertigung_datum": "1969-08-19",
+  "bjnr": "BJNR012840969",
+  "eli": null,
+  "gii_slug": "bho",
+  "ingested_at": "2026-04-17T15:18:21Z",
+  "jurabk": "BHO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b5e8448cdde9d51e03ada0e15ad5378fa9950590aa8d2111f7e9e03523e0a558"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bho/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bho/xml.zip"
+  },
+  "stand_datum": "2025-09-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 G v. 30.9.2025 I Nr. 231",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundeshaushaltsordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

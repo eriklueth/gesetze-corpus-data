@@ -1,0 +1,26 @@
+{
+  "amtabk": "AVV",
+  "ausfertigung_datum": "2001-12-10",
+  "bjnr": "BJNR337910001",
+  "eli": null,
+  "gii_slug": "avv",
+  "ingested_at": "2026-04-17T15:17:29Z",
+  "jurabk": "AVV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3d9ea41fe3a9da4362b9ed64b7b9eafde674800746023cded4cd6ac1758b466b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/avv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/avv/xml.zip"
+  },
+  "stand_datum": "2020-06-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 30.6.2020 I 1533",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Europäische Abfallverzeichnis",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

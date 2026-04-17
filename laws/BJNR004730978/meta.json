@@ -1,0 +1,30 @@
+{
+  "amtabk": "KHBV",
+  "ausfertigung_datum": "1978-04-10",
+  "bjnr": "BJNR004730978",
+  "eli": null,
+  "gii_slug": "khbv",
+  "ingested_at": "2026-04-17T15:23:33Z",
+  "jurabk": "KHBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "217d40284b9bde01667baad3166346df7154138765943d218ef738206b479a56"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/khbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/khbv/xml.zip"
+  },
+  "stand_datum": "1987-03-24",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 24.3.1987 I 1045;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 25 Abs. 2 G v. 7.8.2021 I 3311",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Rechnungs- und Buchführungspflichten von Krankenhäusern",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

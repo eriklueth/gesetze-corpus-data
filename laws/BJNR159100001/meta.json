@@ -1,0 +1,26 @@
+{
+  "amtabk": "SoZV",
+  "ausfertigung_datum": "2001-07-12",
+  "bjnr": "BJNR159100001",
+  "eli": null,
+  "gii_slug": "sozv",
+  "ingested_at": "2026-04-17T15:28:44Z",
+  "jurabk": "SoZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a1dc1cdfd7cbd152df848d87f248e9821de82590a589fd95829762f57c7265f3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozv/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 292 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Einführung der mitteleuropäischen Sommerzeit ab dem Jahr 2002",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

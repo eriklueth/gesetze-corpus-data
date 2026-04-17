@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1957-12-21",
+  "bjnr": "BJNR018810957",
+  "eli": null,
+  "gii_slug": "sonntverkv",
+  "ingested_at": "2026-04-17T15:28:23Z",
+  "jurabk": "SonntVerkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6c6a55d753d078b693450db768f2c0fdb98a3eb8102a70ed942c9789673eaa08"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sonntverkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sonntverkv/xml.zip"
+  },
+  "stand_datum": "1996-07-30",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 G v. 30.7.1996 I 1186",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Verkauf bestimmter Waren an Sonn- und Feiertagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

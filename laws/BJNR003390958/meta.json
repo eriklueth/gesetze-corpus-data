@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-05-06",
+  "bjnr": "BJNR003390958",
+  "eli": null,
+  "gii_slug": "beamthaftnldbek",
+  "ingested_at": "2026-04-17T15:17:57Z",
+  "jurabk": "BeamtHaftNLDBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "59d7f22be81f12d5644fc8680633053565976507daa8e970c0554719df477c16"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/beamthaftnldbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/beamthaftnldbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten und Soldaten gegenüber Angehörigen der Niederlande",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

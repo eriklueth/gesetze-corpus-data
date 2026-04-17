@@ -1,0 +1,26 @@
+{
+  "amtabk": "AÜGMeldstellV",
+  "ausfertigung_datum": "2011-09-26",
+  "bjnr": "BJNR199500011",
+  "eli": null,
+  "gii_slug": "a_gmeldstellv",
+  "ingested_at": "2026-04-17T15:17:14Z",
+  "jurabk": "AÜGMeldstellV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ba9898c01134ab96990b9162642d3eb56af86fd0803777e919c0fb50cf1a35f0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/a_gmeldstellv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/a_gmeldstellv/xml.zip"
+  },
+  "stand_datum": "2015-12-03",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 9 Abs. 17 G v. 3.12.2015 I 2178",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Bestimmung der zuständigen Behörde nach § 17b Absatz 4 des Arbeitnehmerüberlassungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

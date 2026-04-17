@@ -1,0 +1,26 @@
+{
+  "amtabk": "BLEG",
+  "ausfertigung_datum": "1994-08-02",
+  "bjnr": "BJNR201900994",
+  "eli": null,
+  "gii_slug": "bleg",
+  "ingested_at": "2026-04-17T15:18:33Z",
+  "jurabk": "BLEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "eda4e8c18970c24ebe70425b94816160ebff25324ce498b8773982ec5f31e7b0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bleg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bleg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 364 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

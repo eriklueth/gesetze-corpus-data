@@ -1,0 +1,21 @@
+{
+  "amtabk": "AMPV",
+  "ausfertigung_datum": "2016-01-08",
+  "bjnr": "BJNR004700016",
+  "eli": null,
+  "gii_slug": "ampv",
+  "ingested_at": "2026-04-17T15:16:59Z",
+  "jurabk": "AMPV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6d653d0916aae509df0a5bafef443c04417384f49f4b010826d5f5b0201da769"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ampv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ampv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Anwendung der Arzneimittelprüfrichtlinien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

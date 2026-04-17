@@ -1,0 +1,30 @@
+{
+  "amtabk": "OGewV",
+  "ausfertigung_datum": "2016-06-20",
+  "bjnr": "BJNR137310016",
+  "eli": null,
+  "gii_slug": "ogewv_2016",
+  "ingested_at": "2026-04-17T15:26:16Z",
+  "jurabk": "OGewV 2016",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "da272b1a7510e5375aae0b0fd0f64ace7fbeb60791c6d9310cc4126413147d7c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ogewv_2016/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ogewv_2016/xml.zip"
+  },
+  "stand_datum": "2020-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 4 G v. 9.12.2020 I 2873",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 753-13-3 v. 20.7.2011 I 1429 (OGewV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zum Schutz der Oberflächengewässer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

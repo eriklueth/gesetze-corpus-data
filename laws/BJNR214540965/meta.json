@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-04-08",
+  "bjnr": "BJNR214540965",
+  "eli": null,
+  "gii_slug": "egfusionsvtr",
+  "ingested_at": "2026-04-17T15:20:28Z",
+  "jurabk": "EGFusionsVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8e485bf3a9ff2c8e06547e88c3f64b266255385ffc2795b3a75e20e176c12fe8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/egfusionsvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/egfusionsvtr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zur Einsetzung eines gemeinsamen Rates und einer gemeinsamen Kommission der Europäischen Gemeinschaften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

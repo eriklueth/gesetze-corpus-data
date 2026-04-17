@@ -1,0 +1,26 @@
+{
+  "amtabk": "KfzPflVV",
+  "ausfertigung_datum": "1994-07-29",
+  "bjnr": "BJNR183700994",
+  "eli": null,
+  "gii_slug": "kfzpflvv",
+  "ingested_at": "2026-04-17T15:23:30Z",
+  "jurabk": "KfzPflVV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fdafd9c2bf7e39d79752f511aab8357588ba8be40ae1140468488fe04bbfad57"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfzpflvv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfzpflvv/xml.zip"
+  },
+  "stand_datum": "2024-04-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 11.4.2024 I Nr. 119",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Versicherungsschutz in der Kraftfahrzeug-Haftpflichtversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "BPersVG",
+  "ausfertigung_datum": "2021-06-09",
+  "bjnr": "BJNR161410021",
+  "eli": null,
+  "gii_slug": "bpersvg_2021",
+  "ingested_at": "2026-04-17T15:18:52Z",
+  "jurabk": "BPersVG 2021",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5a80c0609595503b82a2977ce320df07fbe82d69674c899da3672b395f0a5c4f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpersvg_2021/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpersvg_2021/xml.zip"
+  },
+  "stand_datum": "2026-01-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 13 G v. 9.1.2026 I Nr. 7",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt G 2035-4 v. 15.3.1974 I 693 (BPersVG)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Bundespersonalvertretungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

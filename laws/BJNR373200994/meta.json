@@ -1,0 +1,30 @@
+{
+  "amtabk": "UIGGebV",
+  "ausfertigung_datum": "1994-12-07",
+  "bjnr": "BJNR373200994",
+  "eli": null,
+  "gii_slug": "uiggebv",
+  "ingested_at": "2026-04-17T15:29:45Z",
+  "jurabk": "UIGGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "400da428fa12745f5a3f428e5fdabf042dbde7f885ee1cda11a86335189141c6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uiggebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uiggebv/xml.zip"
+  },
+  "stand_datum": "2001-08-23",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 23.8.2001 I 2247;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 40 G v. 7.8.2013 I 3154",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen der informationspflichtigen Stellen beim Vollzug des Umweltinformationsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

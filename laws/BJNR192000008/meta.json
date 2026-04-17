@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-09-18",
+  "bjnr": "BJNR192000008",
+  "eli": null,
+  "gii_slug": "bwehrzerlneuferl",
+  "ingested_at": "2026-04-17T15:19:33Z",
+  "jurabk": "BwEhrZErlNeufErl",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "600a2a887d02ebfccc6aeabe02c1ad4494ec3ccefe11d331eb5f3c7dfb796f0e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bwehrzerlneuferl/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bwehrzerlneuferl/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erlass über die Genehmigung einer Neufassung des Erlasses über die Stiftung des Ehrenzeichens der Bundeswehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

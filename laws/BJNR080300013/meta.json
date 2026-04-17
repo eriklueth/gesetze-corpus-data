@@ -1,0 +1,21 @@
+{
+  "amtabk": "SeeAZV",
+  "ausfertigung_datum": "2013-04-09",
+  "bjnr": "BJNR080300013",
+  "eli": null,
+  "gii_slug": "seeazv",
+  "ingested_at": "2026-04-17T15:27:57Z",
+  "jurabk": "SeeAZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8c898b3447989486b0760169eedf18bb95430069fee7cf20ca7c0ed797b3a031"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seeazv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seeazv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Arbeitszeit der Arbeitnehmerinnen und Arbeitnehmer als Besatzungen von Schiffen und Booten im Geschäftsbereich des Bundesministeriums der Verteidigung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

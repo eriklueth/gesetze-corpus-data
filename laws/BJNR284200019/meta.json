@@ -1,0 +1,30 @@
+{
+  "amtabk": "KlaCbMstrV",
+  "ausfertigung_datum": "2019-12-17",
+  "bjnr": "BJNR284200019",
+  "eli": null,
+  "gii_slug": "klacbmstrv_2020",
+  "ingested_at": "2026-04-17T15:23:40Z",
+  "jurabk": "KlaCbMstrV 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "326e1f18a7ede2eff4111ff2f1ff1bc60122c25cea09ac8854aaa6efad2bb823"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/klacbmstrv_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/klacbmstrv_2020/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 90 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7110-3-131 v. 23.7.1997 I 1912 (KlaCbMstrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Klavier- und Cembalobauer-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

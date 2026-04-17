@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2006-04-06",
+  "bjnr": "BJNR082800006",
+  "eli": null,
+  "gii_slug": "marktfofangausbv",
+  "ingested_at": "2026-04-17T15:24:44Z",
+  "jurabk": "MarktFoFAngAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3d45bce91effa49f12b6aa71c3a9d3dbfcdef5c468d10188852603a02814bd90"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/marktfofangausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/marktfofangausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Fachangestellten für Markt- und Sozialforschung/zur Fachangestellten für Markt- und Sozialforschung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "EBeV 2030",
+  "ausfertigung_datum": "2022-12-21",
+  "bjnr": "BJNR286800022",
+  "eli": null,
+  "gii_slug": "ebev_2030",
+  "ingested_at": "2026-04-17T15:20:11Z",
+  "jurabk": "EBeV 2030",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a11944fd416fe27982f1852ad2964dcd41ba2d6d608f403960c1c4baf7211c1e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ebev_2030/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ebev_2030/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Emissionsberichterstattung nach dem Brennstoffemissionshandelsgesetz für die Jahre 2023 bis 2030",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

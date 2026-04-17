@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-12-27",
+  "bjnr": "BJNR385700004",
+  "eli": null,
+  "gii_slug": "mkseuchv_2005",
+  "ingested_at": "2026-04-17T15:24:56Z",
+  "jurabk": "MKSeuchV 2005",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3ec79b4e22de9effd98e8dcad4d951c644d975133e8ae50d2353c2b52eba6d17"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mkseuchv_2005/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mkseuchv_2005/xml.zip"
+  },
+  "stand_datum": "2017-07-18",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 18.7.2017 I 2666, 3245, 3526;",
+      "typ": "Neuf"
+    }
+  ],
+  "title": "Verordnung zum Schutz gegen die Maul- und Klauenseuche",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

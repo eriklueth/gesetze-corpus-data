@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-02-03",
+  "bjnr": "BJNR200500961",
+  "eli": null,
+  "gii_slug": "vollstrklzustewgbek",
+  "ingested_at": "2026-04-17T15:30:14Z",
+  "jurabk": "VollstrKlZustEWGBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6063bd59ce860b3547927de18d796c633a3a8f12ff4369ce117ee69d2955f737"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vollstrklzustewgbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vollstrklzustewgbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Zuständigkeit für die Erteilung der Vollstreckungsklausel zu Entscheidungen von Organen der Europäischen Wirtschaftsgemeinschaft und der Europäischen Atomgemeinschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

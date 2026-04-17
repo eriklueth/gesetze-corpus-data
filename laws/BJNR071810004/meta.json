@@ -1,0 +1,38 @@
+{
+  "amtabk": "GKG",
+  "ausfertigung_datum": "2004-05-05",
+  "bjnr": "BJNR071810004",
+  "eli": null,
+  "gii_slug": "gkg_2004",
+  "ingested_at": "2026-04-17T15:22:16Z",
+  "jurabk": "GKG 2004",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bfc1e488e3d42736527af4c7c49f7dff5620b7a603ce0127d79508c581ea71e8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gkg_2004/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gkg_2004/xml.zip"
+  },
+  "stand_datum": "2014-02-27",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 27.2.2014 I 154;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 11 G v. 8.12.2025 I Nr. 318",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 24 G v. 22.12.2025 I Nr. 349 ist berücksichtigt",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 25 G v. 22.12.2025 I Nr. 349 ist berücksichtigt",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Gerichtskostengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

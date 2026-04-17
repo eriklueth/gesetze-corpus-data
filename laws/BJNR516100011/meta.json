@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-10-11",
+  "bjnr": "BJNR516100011",
+  "eli": null,
+  "gii_slug": "luftvodv_246",
+  "ingested_at": "2026-04-17T15:24:32Z",
+  "jurabk": "LuftVODV 246",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e435a4e4c7d93ee55f15b8d075677883df06b81843d1adea5b106e4dbc4c57cc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_246/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_246/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweihundertsechsundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Giebelstadt)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

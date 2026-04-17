@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2024-10-08",
+  "bjnr": "BJNR1310A0024",
+  "eli": null,
+  "gii_slug": "bbimindvergfbek_2025",
+  "ingested_at": "2026-04-17T15:17:50Z",
+  "jurabk": "BBiMindVergFBek 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cb1a0a839cd05324de97a809a4f705a5808ae7c9a2b62aeecbf61ec401b4e638"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbimindvergfbek_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbimindvergfbek_2025/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zur Fortschreibung der Höhe der Mindestvergütung für Berufsausbildungen nach dem Berufsbildungsgesetz (2025)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

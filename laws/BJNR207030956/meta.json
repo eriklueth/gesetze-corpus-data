@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-06-15",
+  "bjnr": "BJNR207030956",
+  "eli": null,
+  "gii_slug": "orheinlotsoev",
+  "ingested_at": "2026-04-17T15:26:23Z",
+  "jurabk": "ORheinLotsOEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "050c45202959beda4e5d3a9d6ef7e2f0dfcf72062f526d89295bd44259503f2a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/orheinlotsoev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/orheinlotsoev/xml.zip"
+  },
+  "stand_datum": "2016-06-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 47 V v. 2.6.2016 I 1257",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Einführung der Lotsenordnung für den Oberrhein",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

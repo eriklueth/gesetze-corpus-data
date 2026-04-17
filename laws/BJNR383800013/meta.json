@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-10-19",
+  "bjnr": "BJNR383800013",
+  "eli": null,
+  "gii_slug": "bgvplterg",
+  "ingested_at": "2026-04-17T15:18:20Z",
+  "jurabk": "BGVPLTErG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "29ada7fad7862e8f02649b674d3350aa9348d95078f067f4db1fd0ddd84c1c90"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgvplterg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgvplterg/xml.zip"
+  },
+  "stand_datum": "2020-06-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 16 G v. 12.6.2020 I 1248",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Gesetz zur Errichtung der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

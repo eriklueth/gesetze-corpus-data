@@ -1,0 +1,26 @@
+{
+  "amtabk": "HKWAbfV",
+  "ausfertigung_datum": "1989-10-23",
+  "bjnr": "BJNR019180989",
+  "eli": null,
+  "gii_slug": "hkwabfv",
+  "ingested_at": "2026-04-17T15:22:44Z",
+  "jurabk": "HKWAbfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a4a14212345ddec99c93c5594fe4e15b35f99c6aefebfbc4f6998c6418688d9c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hkwabfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hkwabfv/xml.zip"
+  },
+  "stand_datum": "2006-10-20",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 7b V v. 20.10.2006 I 2298",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Entsorgung gebrauchter halogenierter Lösemittel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-10-05",
+  "bjnr": "BJNR202190971",
+  "eli": null,
+  "gii_slug": "msa",
+  "ingested_at": "2026-04-17T15:25:00Z",
+  "jurabk": "MSA",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f3895c3b809be4ed0172b959ab95d1524287e6af622676f7ae776cc7aa016c11"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/msa/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/msa/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Zuständigkeit der Behörden und das anzuwendende Recht auf dem Gebiet des Schutzes von Minderjährigen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

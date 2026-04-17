@@ -1,0 +1,26 @@
+{
+  "amtabk": "DHMG",
+  "ausfertigung_datum": "2008-12-21",
+  "bjnr": "BJNR289110008",
+  "eli": null,
+  "gii_slug": "dhmg",
+  "ingested_at": "2026-04-17T15:19:57Z",
+  "jurabk": "DHMG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "47af8d21e41a4ed77d1b4b27045601cc31584545e629ab289f25671db2abe81f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dhmg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dhmg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 158 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Errichtung einer Stiftung „Deutsches Historisches Museum“",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

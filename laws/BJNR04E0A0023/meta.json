@@ -1,0 +1,21 @@
+{
+  "amtabk": "EU-Typ-BV",
+  "ausfertigung_datum": "2023-03-15",
+  "bjnr": "BJNR04E0A0023",
+  "eli": null,
+  "gii_slug": "eu-typ-bv",
+  "ingested_at": "2026-04-17T15:20:51Z",
+  "jurabk": "EU-Typ-BV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "465823bfea120cf09e4e3c60f42de513de56423a2b47e2458b9242406ebeffd0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eu-typ-bv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eu-typ-bv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Ahndung von Zuwiderhandlungen gegen EU-Typgenehmigungsvorschriften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

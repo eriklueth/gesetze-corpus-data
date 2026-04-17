@@ -1,0 +1,21 @@
+{
+  "amtabk": "RAG 1991",
+  "ausfertigung_datum": "1991-05-06",
+  "bjnr": "BJNR110650991",
+  "eli": null,
+  "gii_slug": "rag_1991",
+  "ingested_at": "2026-04-17T15:27:06Z",
+  "jurabk": "RAG 1991",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "79aa21abefa4100eb9b610cdb0c0c7c372f2b7aa3d9addfadb1314d3b47cff9c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rag_1991/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rag_1991/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Rentenanpassungsgesetz 1991",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

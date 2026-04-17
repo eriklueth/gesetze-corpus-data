@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-10-17",
+  "bjnr": "BJNR217400012",
+  "eli": null,
+  "gii_slug": "m_nz100eurobek_2012",
+  "ingested_at": "2026-04-17T15:25:04Z",
+  "jurabk": "Münz100EuroBek 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7ae9d958d7ce83a80b4adb77783e9f884b19b1319329fb2846f6d48d1884ea6c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz100eurobek_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz100eurobek_2012/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe - Dom zu Aachen“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

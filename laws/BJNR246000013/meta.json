@@ -1,0 +1,26 @@
+{
+  "amtabk": "KAVerOV",
+  "ausfertigung_datum": "2013-07-16",
+  "bjnr": "BJNR246000013",
+  "eli": null,
+  "gii_slug": "kaverov",
+  "ingested_at": "2026-04-17T15:23:26Z",
+  "jurabk": "KAVerOV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "678dbd3a58b30d75509f6db2b73d55d1d36bd1722dc206612b545a65120d7143"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kaverov/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kaverov/xml.zip"
+  },
+  "stand_datum": "2022-07-28",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 28.7.2022 BAnz AT 29.07.2022 V2",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Konkretisierung der Verhaltensregeln und Organisationsregeln nach dem Kapitalanlagegesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

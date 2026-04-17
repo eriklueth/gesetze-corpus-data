@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZustAnpG",
+  "ausfertigung_datum": "2002-08-16",
+  "bjnr": "BJNR316510002",
+  "eli": null,
+  "gii_slug": "zustanpg_2002",
+  "ingested_at": "2026-04-17T15:31:31Z",
+  "jurabk": "ZustAnpG 2002",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3edc19d15ec9df42c9367d9bf50d5638d524870983278fca858e8d0f40389cdc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zustanpg_2002/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zustanpg_2002/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 7 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Anpassung von Rechtsvorschriften an veränderte Zuständigkeiten oder Behördenbezeichnungen innerhalb der Bundesregierung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

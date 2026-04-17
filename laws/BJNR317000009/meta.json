@@ -1,0 +1,26 @@
+{
+  "amtabk": "UV-AltRückV",
+  "ausfertigung_datum": "2009-09-28",
+  "bjnr": "BJNR317000009",
+  "eli": null,
+  "gii_slug": "uv-altr_ckv",
+  "ingested_at": "2026-04-17T15:29:57Z",
+  "jurabk": "UV-AltRückV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1a4e2aa45c2d8e4dbcb3d041b9bb9e53a19c3be0775ad0b5167458be22b3e3d5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uv-altr_ckv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uv-altr_ckv/xml.zip"
+  },
+  "stand_datum": "2021-06-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 4.6.2021 I 1493",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Bildung von Altersrückstellungen durch die gesetzlichen Unfallversicherungsträger",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-01-14",
+  "bjnr": "BJNR008900994",
+  "eli": null,
+  "gii_slug": "gr_ndstvtrbb_stinkrbek",
+  "ingested_at": "2026-04-17T15:22:26Z",
+  "jurabk": "GrÄndStVtrBB/STInkrBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b5cb03e18a6806cb782f2e962a639030bce64174d9405e488e07ec6d5ddabf8f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gr_ndstvtrbb_stinkrbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gr_ndstvtrbb_stinkrbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertrages zwischen dem Land Brandenburg und dem Land Sachsen-Anhalt über die Änderung der gemeinsamen Landesgrenze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

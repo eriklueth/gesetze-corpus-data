@@ -1,0 +1,26 @@
+{
+  "amtabk": "BLV",
+  "ausfertigung_datum": "2026-03-11",
+  "bjnr": "BJNR0430B0026",
+  "eli": null,
+  "gii_slug": "blv_2026",
+  "ingested_at": "2026-04-17T15:18:36Z",
+  "jurabk": "BLV 2026",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e532d998935acf46a023fe7a7b91f8d3f8ff531b8500813a912fa773825cae3d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/blv_2026/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/blv_2026/xml.zip"
+  },
+  "stand_datum": "2009-02-12",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 2030-7-3-1 v. 12.2.2009 I 284 (BLV 2009)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Laufbahnen der Bundesbeamtinnen und Bundesbeamten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

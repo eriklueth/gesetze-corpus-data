@@ -1,0 +1,30 @@
+{
+  "amtabk": "DerivateV",
+  "ausfertigung_datum": "2013-07-16",
+  "bjnr": "BJNR246300013",
+  "eli": null,
+  "gii_slug": "derivatev_2013",
+  "ingested_at": "2026-04-17T15:19:54Z",
+  "jurabk": "DerivateV 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "49cc7290f3c48e8314c55d9624455b3573ebca3e86fb924a46a5cf14ffed53f1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/derivatev_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/derivatev_2013/xml.zip"
+  },
+  "stand_datum": "2021-06-03",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 18 Abs. 1 G v. 3.6.2021 I 1498",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 11 G v. 9.4.2026 I Nr. 97 mWv 25.6.2026 noch nicht berücksichtigt",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Verordnung über Risikomanagement und Risikomessung beim Einsatz von Derivaten, Wertpapier-Darlehen und Pensionsgeschäften in Investmentvermögen nach dem Kapitalanlagegesetzbuch",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

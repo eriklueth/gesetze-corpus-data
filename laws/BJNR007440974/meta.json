@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-03-13",
+  "bjnr": "BJNR007440974",
+  "eli": null,
+  "gii_slug": "stvzoausnv_23",
+  "ingested_at": "2026-04-17T15:29:07Z",
+  "jurabk": "StVZOAusnV 23",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fcfa8de9c1aa240c5720bb8a69534b554229f6f3ce8413834336f996d8e6fd02"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvzoausnv_23/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvzoausnv_23/xml.zip"
+  },
+  "stand_datum": "2006-09-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 24 G v. 19.9.2006 I 2146",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Dreiundzwanzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

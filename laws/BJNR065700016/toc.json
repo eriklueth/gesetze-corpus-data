@@ -1,0 +1,736 @@
+{
+  "bjnr": "BJNR065700016",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Schätzung des Auftragswerts",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Antragsverfahren für Tätigkeiten, die unmittelbar dem Wettbewerb ausgesetzt sind",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Gelegentliche gemeinsame Auftragsvergabe",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Wahrung der Vertraulichkeit",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Vermeidung von Interessenkonflikten",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Mitwirkung an der Vorbereitung des Vergabeverfahrens",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Dokumentation",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen",
+        "Unterabschnitt 2 Kommunikation; Bekanntmachungen"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Grundsätze der Kommunikation",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen",
+        "Unterabschnitt 2 Kommunikation; Bekanntmachungen"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Anforderungen an die verwendeten elektronischen Mittel",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen",
+        "Unterabschnitt 2 Kommunikation; Bekanntmachungen"
+      ],
+      "file": "paragraphs/0010a.md",
+      "heading": "Erstellung und Übermittlung von Bekanntmachungen; Datenaustauschstandard eForms",
+      "number": "§ 10a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen",
+        "Unterabschnitt 2 Kommunikation; Bekanntmachungen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Anforderungen an den Einsatz elektronischer Mittel im Vergabeverfahren",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Unterabschnitt 1 Allgemeine Bestimmungen",
+        "Unterabschnitt 2 Kommunikation; Bekanntmachungen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Einsatz alternativer elektronischer Mittel bei der Kommunikation",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 1 Verfahrensarten, Fristen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Wahl der Verfahrensart",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 1 Verfahrensarten, Fristen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Offenes Verfahren; Fristen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 1 Verfahrensarten, Fristen"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Nicht offenes Verfahren und Verhandlungsverfahren mit vorherigem Teilnahmewettbewerb; Fristen",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 1 Verfahrensarten, Fristen"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Fristsetzung; Pflicht zur Fristverlängerung",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 1 Verfahrensarten, Fristen"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Wettbewerblicher Dialog",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 1 Verfahrensarten, Fristen"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Innovationspartnerschaft",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 2 Besondere Methoden und Instrumente im Vergabeverfahren"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Rahmenvereinbarungen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 2 Besondere Methoden und Instrumente im Vergabeverfahren"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Grundsätze für den Betrieb dynamischer Beschaffungssysteme",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 2 Besondere Methoden und Instrumente im Vergabeverfahren"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Betrieb eines dynamischen Beschaffungssystems",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 2 Besondere Methoden und Instrumente im Vergabeverfahren"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Fristen beim Betrieb eines dynamischen Beschaffungssystems",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 2 Besondere Methoden und Instrumente im Vergabeverfahren"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Grundsätze für die Durchführung elektronischer Auktionen",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 2 Besondere Methoden und Instrumente im Vergabeverfahren"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Durchführung elektronischer Auktionen",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 2 Besondere Methoden und Instrumente im Vergabeverfahren"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Elektronische Kataloge",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 3 Vorbereitung des Vergabeverfahrens"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Markterkundung",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 3 Vorbereitung des Vergabeverfahrens"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Aufteilung nach Losen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 3 Vorbereitung des Vergabeverfahrens"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Leistungsbeschreibung",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 3 Vorbereitung des Vergabeverfahrens"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Technische Anforderungen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 3 Vorbereitung des Vergabeverfahrens"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Bekanntmachung technischer Anforderungen",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 3 Vorbereitung des Vergabeverfahrens"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Nachweisführung durch Bescheinigungen von Konformitätsbewertungsstellen",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 3 Vorbereitung des Vergabeverfahrens"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Nachweisführung durch Gütezeichen",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 3 Vorbereitung des Vergabeverfahrens"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Nebenangebote",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 3 Vorbereitung des Vergabeverfahrens"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Unteraufträge",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 4 Veröffentlichung, Transparenz"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Auftragsbekanntmachungen; Beschafferprofil; Ex-ante-Transparenz",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 4 Veröffentlichung, Transparenz"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Regelmäßige nicht verbindliche Bekanntmachung",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 4 Veröffentlichung, Transparenz"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Bekanntmachung über das Bestehen eines Qualifizierungssystems",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 4 Veröffentlichung, Transparenz"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Vergabebekanntmachungen; Bekanntmachung über Auftragsänderungen",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 4 Veröffentlichung, Transparenz"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Bekanntmachungen über die Vergabe sozialer und anderer besonderer Dienstleistungen",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 4 Veröffentlichung, Transparenz"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Veröffentlichung von Bekanntmachungen",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 4 Veröffentlichung, Transparenz"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Bereitstellung der Vergabeunterlagen",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 4 Veröffentlichung, Transparenz"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Aufforderung zur Interessensbestätigung, zur Angebotsabgabe, zur Verhandlung oder zur Teilnahme am Dialog",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 4 Veröffentlichung, Transparenz"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Form und Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 4 Veröffentlichung, Transparenz"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Erhöhte Sicherheitsanforderungen bei der Übermittlung der Angebote, Teilnahmeanträge, Interessensbekundungen und Interessensbestätigungen",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 5 Anforderungen an die Unternehmen"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Grundsätze",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 5 Anforderungen an die Unternehmen"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Objektive und nichtdiskriminierende Kriterien",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 5 Anforderungen an die Unternehmen"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Eignungsleihe",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 5 Anforderungen an die Unternehmen"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Qualifizierungssysteme",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 5 Anforderungen an die Unternehmen"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Beleg der Einhaltung von Normen der Qualitätssicherung und des Umweltmanagements",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 5 Anforderungen an die Unternehmen"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Rechtsform von Unternehmen und Bietergemeinschaften",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 6 Prüfung und Wertung der Angebote"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Prüfung und Wertung der Angebote; Nachforderung von Unterlagen",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 6 Prüfung und Wertung der Angebote"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Zuschlag und Zuschlagskriterien",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 6 Prüfung und Wertung der Angebote"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Berechnung von Lebenszykluskosten",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 6 Prüfung und Wertung der Angebote"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Ungewöhnlich niedrige Angebote",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 6 Prüfung und Wertung der Angebote"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Angebote, die Erzeugnisse aus Drittländern umfassen",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 6 Prüfung und Wertung der Angebote"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Unterrichtung der Bewerber oder Bieter",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 2 Vergabeverfahren",
+        "Unterabschnitt 6 Prüfung und Wertung der Angebote"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Aufhebung und Einstellung des Verfahrens",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 3 Besondere Vorschriften für die Beschaffung energieverbrauchsrelevanter Leistungen"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Beschaffung energieverbrauchsrelevanter Leistungen",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 3 Besondere Vorschriften für die Beschaffung energieverbrauchsrelevanter Leistungen"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "(weggefallen)",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 4 Planungswettbewerbe"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 4 Planungswettbewerbe"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Veröffentlichung, Transparenz",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 4 Planungswettbewerbe"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Ausrichtung",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 4 Planungswettbewerbe"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Preisgericht",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 5 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Übergangsbestimmungen",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 5 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Fristenberechnung",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 5 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Anwendungsbestimmungen aus Anlass der Einführung von eForms",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Bestimmungen und Kommunikation",
+        "Abschnitt 5 Übergangs- und Schlussbestimmungen"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 28 Absatz 2)",
+      "number": "Anlage 1",
+      "type": "annex"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "EnStatG",
+  "ausfertigung_datum": "2017-03-06",
+  "bjnr": "BJNR039200017",
+  "eli": null,
+  "gii_slug": "enstatg_2017",
+  "ingested_at": "2026-04-17T15:20:40Z",
+  "jurabk": "EnStatG 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dfd2f9415c0536487fe2e5b00ea57797ec25e98cd2095ea2867b9edc03d0e57a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/enstatg_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/enstatg_2017/xml.zip"
+  },
+  "stand_datum": "2019-11-20",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 80 G v. 20.11.2019 I 1626",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Energiestatistikgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

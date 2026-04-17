@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-12-19",
+  "bjnr": "BJNR295320002",
+  "eli": null,
+  "gii_slug": "ostseeschutz_ndv_1",
+  "ingested_at": "2026-04-17T15:26:23Z",
+  "jurabk": "OstseeschutzÄndV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "51ef4e1c2ab98a920ed39724081867dbdf041fec47fecfb12d9912b0596f9334"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ostseeschutz_ndv_1/xml.zip"
+  },
+  "stand_datum": "2014-01-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 V v. 23.1.2014 I 78",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Erste Verordnung zu Änderungen der Anlagen III und IV zum Übereinkommen von 1992 über den Schutz der Meeresumwelt des Ostseegebiets",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

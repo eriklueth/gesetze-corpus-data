@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1966-08-15",
+  "bjnr": "BJNR005160966",
+  "eli": null,
+  "gii_slug": "wzg_35liebek",
+  "ingested_at": "2026-04-17T15:31:03Z",
+  "jurabk": "WZG§35LIEBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "60308340a1e5d346a52f6a9eee3316222d0bc7f79854ff8d07e6841f5e29c9c1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35liebek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35liebek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

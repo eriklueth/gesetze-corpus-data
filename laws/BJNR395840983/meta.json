@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1958-03-20",
+  "bjnr": "BJNR395840983",
+  "eli": null,
+  "gii_slug": "fzgteil_bkrgl_40",
+  "ingested_at": "2026-04-17T15:21:46Z",
+  "jurabk": "FzgTeilÜbkRgl 40",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bbe4d124d3d9250aa2c45a7e4d9a1cdde9e5fd50d360fa00ef7912ae041a926a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fzgteil_bkrgl_40/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fzgteil_bkrgl_40/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Regelung Nr. 40 - Einheitliche Vorschriften für die Genehmigung der Krafträder (Motorräder) hinsichtlich der Emission luftverunreinigender Gase aus Motoren mit Fremdzündung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-09-18",
+  "bjnr": "BJNR184900008",
+  "eli": null,
+  "gii_slug": "egrebflroddv",
+  "ingested_at": "2026-04-17T15:20:29Z",
+  "jurabk": "EGRebflRodDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9bb0ca3ffa43ffcd124bbc8975b5a91dd6e861768c7512c313410ff56540036b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/egrebflroddv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/egrebflroddv/xml.zip"
+  },
+  "stand_datum": "2009-03-10",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 V v. 10.3.2009 I 491",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V tritt gem. § 6 Satz 2 mit Ablauf des 23.3.2009 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird. § 6 Satz 2 mit Zustimmung des Bundesrates aufgeh. durch Art. 6 V v. 10.3.2009 I 491; dadurch ist die Geltung der V über den 23.3.2009 hinaus verlängert worden.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des EG-Rebflächenrodungsprogramms",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

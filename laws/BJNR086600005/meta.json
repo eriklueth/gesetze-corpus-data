@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-03-18",
+  "bjnr": "BJNR086600005",
+  "eli": null,
+  "gii_slug": "stvoausnv_12",
+  "ingested_at": "2026-04-17T15:29:03Z",
+  "jurabk": "StVOAusnV 12",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "17b1c0d07ba8bb69b5e01fa2995b7d4d202d7f0b7bb67916d491217e85a6f1cc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvoausnv_12/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvoausnv_12/xml.zip"
+  },
+  "stand_datum": "2009-10-26",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 26.10.2009 I 3678",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V tritt gem. § 3 Satz 2 mit Ablauf des 31. Dezember 2009 außer Kraft. § 3 Satz 2 aufgeh. durch Art. 1 V v. 26.10.2009 I 3678 mWv 5.11.2009; dadurch wurde die Geltung der V über den 31.12.2009 hinaus verlängert",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Zwölfte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

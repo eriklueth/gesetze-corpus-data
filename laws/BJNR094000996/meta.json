@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-07-08",
+  "bjnr": "BJNR094000996",
+  "eli": null,
+  "gii_slug": "holzspielzmausbv_1996",
+  "ingested_at": "2026-04-17T15:22:44Z",
+  "jurabk": "HolzSpielzMAusbV 1996",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a4ff9548c21d60569c4b3c5224b1d632a7dbf70037f91d1288baf81c442de43c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/holzspielzmausbv_1996/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/holzspielzmausbv_1996/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Holzspielzeugmacher/zur Holzspielzeugmacherin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

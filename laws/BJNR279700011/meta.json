@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-12-13",
+  "bjnr": "BJNR279700011",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2011-12-13",
+  "ingested_at": "2026-04-17T15:25:19Z",
+  "jurabk": "Münz10EuroBek 2011-12-13",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9c4ae5e940c73a2aa85d70071ff8efddcea7547d9710c5dfcb4a73acb864bfae"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2011-12-13/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2011-12-13/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „300. Geburtstag Friedrich II.“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

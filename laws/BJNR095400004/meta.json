@@ -1,0 +1,21 @@
+{
+  "amtabk": "KontrGerätBeglG",
+  "ausfertigung_datum": "2004-05-15",
+  "bjnr": "BJNR095400004",
+  "eli": null,
+  "gii_slug": "kontrger_tbeglg",
+  "ingested_at": "2026-04-17T15:23:47Z",
+  "jurabk": "KontrGerätBeglG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "303a8c86694c97fce27ccfff9c0c7ef63252842841711f2f233b842acd66b150"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kontrger_tbeglg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kontrger_tbeglg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über Begleitregelungen zur Einführung des digitalen Kontrollgeräts zur Kontrolle der Lenk- und Ruhezeiten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "FlurbG",
+  "ausfertigung_datum": "1953-07-14",
+  "bjnr": "BJNR005910953",
+  "eli": null,
+  "gii_slug": "flurbg",
+  "ingested_at": "2026-04-17T15:21:34Z",
+  "jurabk": "FlurbG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "047f21bc62b8dece16782dc1b09144840a9587743a510da24b8862b009454208"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flurbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flurbg/xml.zip"
+  },
+  "stand_datum": "1976-03-16",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 16.3.1976 I 546;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 17 G v. 19.12.2008 I 2794",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Flurbereinigungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

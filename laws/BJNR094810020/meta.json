@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-05-15",
+  "bjnr": "BJNR094810020",
+  "eli": null,
+  "gii_slug": "seuscevvorschlg",
+  "ingested_at": "2026-04-17T15:28:05Z",
+  "jurabk": "SEuSCEVVorschlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "857b9e612d8a796fbfb1e60cc7af94bbfab665c62b03c616bfa3b60a725465db"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seuscevvorschlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seuscevvorschlg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zum Vorschlag für eine Verordnung des Rates über befristete Maßnahmen in Bezug auf die Hauptversammlungen Europäischer Gesellschaften (SE) und die Generalversammlungen Europäischer Genossenschaften (SCE)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

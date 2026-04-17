@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-09-12",
+  "bjnr": "DDNR514770990",
+  "eli": null,
+  "gii_slug": "natpschaalseev",
+  "ingested_at": "2026-04-17T15:25:55Z",
+  "jurabk": "NatPSchaalseeV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5a824a3575cb8ff5cf42dd657bde3212dab849a941440c26f8333e7f2e274896"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/natpschaalseev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/natpschaalseev/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung \"Naturpark Schaalsee\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

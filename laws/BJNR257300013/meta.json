@@ -1,0 +1,26 @@
+{
+  "amtabk": "PflZV",
+  "ausfertigung_datum": "2013-07-18",
+  "bjnr": "BJNR257300013",
+  "eli": null,
+  "gii_slug": "bpflzv",
+  "ingested_at": "2026-04-17T15:26:46Z",
+  "jurabk": "BPflZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9476a79cebbbdc48ea3758a5cbccebf6e18c7f56de02ce1f5ea1aa9c757f2a25"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpflzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpflzv/xml.zip"
+  },
+  "stand_datum": "2016-10-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 19.10.2016 I 2362",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über einen Vorschuss bei der Inanspruchnahme von Familienpflegezeit oder Pflegezeit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-09-12",
+  "bjnr": "BJNR070720007",
+  "eli": null,
+  "gii_slug": "doping_bkzprot",
+  "ingested_at": "2026-04-17T15:20:01Z",
+  "jurabk": "DopingÜbkZProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "491c35d76e41a7e3aa6cd9c6b8ff07007e770e4691ca353bd7dc78d38d8fba63"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/doping_bkzprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/doping_bkzprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzprotokoll zum Übereinkommen gegen Doping",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

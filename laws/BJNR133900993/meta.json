@@ -1,0 +1,26 @@
+{
+  "amtabk": "NutzEV",
+  "ausfertigung_datum": "1993-07-22",
+  "bjnr": "BJNR133900993",
+  "eli": null,
+  "gii_slug": "nutzev",
+  "ingested_at": "2026-04-17T15:26:09Z",
+  "jurabk": "NutzEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "886f6634b2fa39c31e6d00c16134b0b9256e37ca39fe341c9c28ec33feec5d36"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nutzev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nutzev/xml.zip"
+  },
+  "stand_datum": "2002-06-24",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 24.6.2002 I 2562",
+      "typ": "Neuf"
+    }
+  ],
+  "title": "Verordnung über eine angemessene Gestaltung von Nutzungsentgelten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

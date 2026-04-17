@@ -1,0 +1,26 @@
+{
+  "amtabk": "FANG",
+  "ausfertigung_datum": "1960-02-25",
+  "bjnr": "BJNR000939960",
+  "eli": null,
+  "gii_slug": "fang",
+  "ingested_at": "2026-04-17T15:21:19Z",
+  "jurabk": "FANG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cbf6a2c93c2d7b8175c8116bc5093ffe86a7e27adc4339e113773b180092b7de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fang/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fang/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 16 G v. 22.12.2025 I Nr. 355",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Neuregelung des Fremdrenten- und Auslandsrentenrechts und zur Anpassung der Berliner Rentenversicherung an die Vorschriften des Arbeiterrentenversicherungs-Neuregelungsgesetzes und des Angestelltenversicherungs-Neuregelungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

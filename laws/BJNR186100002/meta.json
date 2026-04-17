@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-06-17",
+  "bjnr": "BJNR186100002",
+  "eli": null,
+  "gii_slug": "bodenlausbv",
+  "ingested_at": "2026-04-17T15:18:50Z",
+  "jurabk": "BodenlAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "46a43335f8b2db07d7402b463bbafe026570aa3a7894a95df669b5328f476d92"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bodenlausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bodenlausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Bodenleger/zur Bodenlegerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2001-01-09",
+  "bjnr": "BJNR011700001",
+  "eli": null,
+  "gii_slug": "winzausbsteignv",
+  "ingested_at": "2026-04-17T15:30:34Z",
+  "jurabk": "WinzAusbStEignV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "689d7ee273ca2627b2d075740e26b864f5ddcd63b46263e72c5da4af0522afbe"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/winzausbsteignv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/winzausbsteignv/xml.zip"
+  },
+  "stand_datum": "2017-05-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 Abs. 30 G v. 23.5.2017 I 1228",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Winzer/zur Winzerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

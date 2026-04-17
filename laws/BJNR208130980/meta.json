@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-06-25",
+  "bjnr": "BJNR208130980",
+  "eli": null,
+  "gii_slug": "urkbefrbelg",
+  "ingested_at": "2026-04-17T15:29:54Z",
+  "jurabk": "UrkBefrBELG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6faf295d15d8d0e22aa9c52a8917bc056da256f17cf4aa5171dc200e65bc59ba"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/urkbefrbelg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/urkbefrbelg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 13. Mai 1975 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die Befreiung öffentlicher Urkunden von der Legalisation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

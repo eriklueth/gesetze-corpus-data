@@ -1,0 +1,21 @@
+{
+  "amtabk": "BGHWidVertrAnO",
+  "ausfertigung_datum": "2022-11-03",
+  "bjnr": "BJNR197600022",
+  "eli": null,
+  "gii_slug": "bghwidvertrano",
+  "ingested_at": "2026-04-17T15:18:18Z",
+  "jurabk": "BGHWidVertrAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4304d3e977af5cf34d467cfe6cb8f398a514124bd2d49e12d2f387d42ae4cdb1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bghwidvertrano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bghwidvertrano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden sowie der Vertretung bei Klagen von Richterinnen und Richtern sowie Beamtinnen und Beamten des Bundesgerichtshofs in Angelegenheiten der Besoldung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

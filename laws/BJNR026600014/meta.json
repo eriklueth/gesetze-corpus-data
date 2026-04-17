@@ -1,0 +1,26 @@
+{
+  "amtabk": "GPrüfbV",
+  "ausfertigung_datum": "2014-03-19",
+  "bjnr": "BJNR026600014",
+  "eli": null,
+  "gii_slug": "gpr_fbv",
+  "ingested_at": "2026-04-17T15:22:22Z",
+  "jurabk": "GPrüfbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6fd6eb2496798696ffaec63c38f073ba9987ba7db66689aedc867c1422fcf7e9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gpr_fbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gpr_fbv/xml.zip"
+  },
+  "stand_datum": "2020-03-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 G v. 19.3.2020 I 529",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung und Bescheinigung der Einhaltung bestimmter Pflichten durch prüfpflichtige nichtfinanzielle Gegenparteien auf Grund der Verordnungen (EU) Nr. 648/2012 und (EU) Nr. 600/2014",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

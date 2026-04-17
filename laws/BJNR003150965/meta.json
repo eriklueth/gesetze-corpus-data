@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-04-13",
+  "bjnr": "BJNR003150965",
+  "eli": null,
+  "gii_slug": "strverjfrg",
+  "ingested_at": "2026-04-17T15:29:00Z",
+  "jurabk": "StrVerjFrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4f7b009c5ec725e58550c1655603cc3bfd6b1481a096bdf459872e489b779002"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/strverjfrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/strverjfrg/xml.zip"
+  },
+  "stand_datum": "1969-06-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 57 G v. 25.6.1969 I 645",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Berechnung strafrechtlicher Verjährungsfristen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

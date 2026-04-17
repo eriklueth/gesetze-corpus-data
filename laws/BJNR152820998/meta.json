@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-03-17",
+  "bjnr": "BJNR152820998",
+  "eli": null,
+  "gii_slug": "indunf_bk",
+  "ingested_at": "2026-04-17T15:22:58Z",
+  "jurabk": "IndUnfÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bc5000c62b5d9cc8390414fb53cabfbf7f5dadb1a46563f0f138465378fc5502"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/indunf_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/indunf_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die grenzüberschreitenden Auswirkungen von Industrieunfällen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

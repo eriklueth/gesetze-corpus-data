@@ -1,0 +1,34 @@
+{
+  "amtabk": "FStrPrivFinG",
+  "ausfertigung_datum": "1994-08-30",
+  "bjnr": "BJNR224300994",
+  "eli": null,
+  "gii_slug": "fstrprivfing",
+  "ingested_at": "2026-04-17T15:21:45Z",
+  "jurabk": "FStrPrivFinG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cc2c5d99e6c016402f73fccc7b14f1ecd62057dc222cb7e18c933ab46dcebc85"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fstrprivfing/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fstrprivfing/xml.zip"
+  },
+  "stand_datum": "2006-01-06",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 6.1.2006 I 49;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 142 G v. 20.11.2019 I 1626",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 8 Nr. 2 G v. 29.11.2018 I 2237 berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über den Bau und die Finanzierung von Bundesfernstraßen durch Private",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

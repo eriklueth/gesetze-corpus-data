@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-04-29",
+  "bjnr": "BJNR150000002",
+  "eli": null,
+  "gii_slug": "findasa",
+  "ingested_at": "2026-04-17T15:21:21Z",
+  "jurabk": "FinDASa",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0ef320a745d2873890bbae0a50eef48723d7ddd4c234d77dd42b2cae369f42ed"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/findasa/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/findasa/xml.zip"
+  },
+  "stand_datum": "2026-04-10",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 10.4.2026 I Nr. 96",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Satzung der Bundesanstalt für Finanzdienstleistungsaufsicht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

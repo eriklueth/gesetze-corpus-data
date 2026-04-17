@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-07-14",
+  "bjnr": "BJNR172200999",
+  "eli": null,
+  "gii_slug": "m_nz10dmbek_1999-07-14",
+  "ingested_at": "2026-04-17T15:25:11Z",
+  "jurabk": "Münz10DMBek 1999-07-14",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e6709960a9d7e20167693c4a8f9afaf6c7eeb8795d3659658c44193f717cdec4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10dmbek_1999-07-14/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10dmbek_1999-07-14/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze \"Weimar - Kulturstadt Europas/250. Geburtstag Goethes\")",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

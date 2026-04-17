@@ -1,0 +1,38 @@
+{
+  "amtabk": "TestV",
+  "ausfertigung_datum": "2021-09-21",
+  "bjnr": "BJNR626400021",
+  "eli": null,
+  "gii_slug": "coronatestv_2021-10",
+  "ingested_at": "2026-04-17T15:29:22Z",
+  "jurabk": "CoronaTestV 2021-10",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "90dab1e94f8853756401f1ee068c8e6190ac81a6b0e0b69bfcc15ff5d76b6e24"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/coronatestv_2021-10/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/coronatestv_2021-10/xml.zip"
+  },
+  "stand_datum": "2024-11-29",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 19 idF d. Art. 2 Nr. 7 V v. 29.11.2024 I Nr. 380 mit Ablauf des 31.12.2028 außer Kraft",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 29.11.2024 I Nr. 380",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die Geltung dieser V ist durch § 19 Abs. 1 idF d. Art. 1 Nr. 8 V v. 12.11.2021 BAnz AT 12.11.2021 V1, d. Art. 2 Nr. 9 V v. 16.12.2021 BAnz AT 17.12.2021 V1, d. Art. 1 Nr. 9 V v. 29.3.2022 BAnz AT 30.03.2022 V1 u. d. Art. 1 Nr. 9 V v. 29.06.2022 BAnz AT 29.06.2022 V1 über den 31.12.2021 hinaus bis zum Ablauf des 25.11.2022 verlängert worden; die Geltung der V ist durch § 19 idF d. Art. 1 Nr. 11 V v. 24.11.2022 BAnz AT 24.11.2022 V2 u. d. Art. 2 Nr. 7 V v. 29.11.2024 I Nr. 380 über den 25.11.2022 hinaus bis zum Ablauf des 31.12.2028 verlängert worden",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Ersetzt V 860-5-75 v. 24.6.2021 BAnz AT 25.06.2021 V1 (CoronaTestV 2021-07)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zum Anspruch auf Testung in Bezug auf einen direkten Erregernachweis des Coronavirus SARS-CoV-2",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

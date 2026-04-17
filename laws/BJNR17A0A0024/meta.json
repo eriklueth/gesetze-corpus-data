@@ -1,0 +1,21 @@
+{
+  "amtabk": "BAProVFFPrV",
+  "ausfertigung_datum": "2024-11-26",
+  "bjnr": "BJNR17A0A0024",
+  "eli": null,
+  "gii_slug": "baprovffprv",
+  "ingested_at": "2026-04-17T15:17:36Z",
+  "jurabk": "BAProVFFPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d4ae4fea015e2ac729114bb288357be73580d1cf2f988aa93561ccc7127be8d3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baprovffprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baprovffprv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional in Versicherungen und Finanzanlagen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2019-12-20",
+  "bjnr": "BJNR166500020",
+  "eli": null,
+  "gii_slug": "j_dmilseelsvtr",
+  "ingested_at": "2026-04-17T15:23:15Z",
+  "jurabk": "JüdMilSeelsVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a2fbf1eee0c884a719bb103f6422089e9b01a479fa07452b5e0e1c1ea4f73a19"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/j_dmilseelsvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/j_dmilseelsvtr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland - Körperschaft des Öffentlichen Rechts - zur Regelung der jüdischen Militärseelsorge",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

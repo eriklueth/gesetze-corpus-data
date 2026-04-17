@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-09-08",
+  "bjnr": "BJNR117130972",
+  "eli": null,
+  "gii_slug": "astg",
+  "ingested_at": "2026-04-17T15:17:08Z",
+  "jurabk": "AStG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b700ed7bb1f35ad72597ead17298ea9094e39f7ccee559a95dcff6fd529f1d1f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/astg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/astg/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 22.12.2025 I Nr. 353",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Besteuerung bei Auslandsbeziehungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

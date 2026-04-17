@@ -1,0 +1,21 @@
+{
+  "amtabk": "MBergBGebV",
+  "ausfertigung_datum": "2021-08-19",
+  "bjnr": "BJNR371300021",
+  "eli": null,
+  "gii_slug": "mbergbgebv",
+  "ingested_at": "2026-04-17T15:24:46Z",
+  "jurabk": "MBergBGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f66b01261a7d447fd0ba0c293f8fc0f05e7a153f276f56db96812dab72530d64"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mbergbgebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mbergbgebv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für den Zuständigkeitsbereich Meeresbodenbergbau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "MBergG",
+  "ausfertigung_datum": "1995-06-06",
+  "bjnr": "BJNR078200995",
+  "eli": null,
+  "gii_slug": "mbergg",
+  "ingested_at": "2026-04-17T15:24:46Z",
+  "jurabk": "MBergG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "de06f0d30bce46958e34752bf386e43cb20982ac160ef8acd62eab804f12fab3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mbergg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mbergg/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 238 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung des Meeresbodenbergbaus",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

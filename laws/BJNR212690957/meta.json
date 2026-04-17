@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1957-07-26",
+  "bjnr": "BJNR212690957",
+  "eli": null,
+  "gii_slug": "spitzsignalv",
+  "ingested_at": "2026-04-17T15:28:45Z",
+  "jurabk": "SpitzSignalV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9f74ebd95ce9252f03e5af0b40300db56b2ea3a7ea1da01e2af1c6032242eb97"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/spitzsignalv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/spitzsignalv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Einführung eines einheitlichen Spitzensignals für Eisenbahnen des nichtöffentlichen Verkehrs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

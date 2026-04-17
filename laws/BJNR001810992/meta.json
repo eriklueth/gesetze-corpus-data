@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-01-24",
+  "bjnr": "BJNR001810992",
+  "eli": null,
+  "gii_slug": "ksevtrag",
+  "ingested_at": "2026-04-17T15:23:57Z",
+  "jurabk": "KSEVtrAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f65dfa6babfd104b1b00d602322be35674f91dc242177eedabc9c07aefcf8a9d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ksevtrag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ksevtrag/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Ausführungsgesetz zu dem Vertrag vom 19. November 1990 über konventionelle Streitkräfte in Europa (KSE-Vertrag)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

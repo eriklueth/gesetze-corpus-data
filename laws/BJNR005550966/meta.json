@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1966-09-02",
+  "bjnr": "BJNR005550966",
+  "eli": null,
+  "gii_slug": "bewg_122abs3dv",
+  "ingested_at": "2026-04-17T15:18:15Z",
+  "jurabk": "BewG§122Abs3DV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f7914a0a0a68e02e5428fc470fd4269e8d324ed5e4b7ca82f15c79db74d7facf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bewg_122abs3dv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bewg_122abs3dv/xml.zip"
+  },
+  "stand_datum": "1993-12-21",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 15 G v. 21.12.1993 I 2310",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des § 122 Abs. 3 des Bewertungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

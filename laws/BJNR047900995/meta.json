@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-03-20",
+  "bjnr": "BJNR047900995",
+  "eli": null,
+  "gii_slug": "m_nz10dmbek_1995",
+  "ingested_at": "2026-04-17T15:25:08Z",
+  "jurabk": "Münz10DMBek 1995",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "92fdf30aff840048a93971151c89659e565a2d0b9c4211d8288360a9522c1445"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10dmbek_1995/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10dmbek_1995/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze Wiederaufbau der Frauenkirche Dresden)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

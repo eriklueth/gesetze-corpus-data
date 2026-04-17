@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1953-04-21",
+  "bjnr": "BJNR001270953",
+  "eli": null,
+  "gii_slug": "geldwnog",
+  "ingested_at": "2026-04-17T15:22:02Z",
+  "jurabk": "GeldWNOG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f035944507b776b1c298613b544e401d0cd1c0a10bc924672c774e470fd44bfd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/geldwnog/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/geldwnog/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über den Erlaß von Rechtsverordnungen auf dem Gebiet der Neuordnung des Geldwesens und über die Neufestsetzung des Nennkapitals von Geldinstituten in der Rechtsform von Kapitalgesellschaften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

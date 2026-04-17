@@ -1,0 +1,26 @@
+{
+  "amtabk": "BwFinSVermG",
+  "ausfertigung_datum": "2022-07-01",
+  "bjnr": "BJNR103010022",
+  "eli": null,
+  "gii_slug": "bwfinsvermg",
+  "ingested_at": "2026-04-17T15:19:33Z",
+  "jurabk": "BwFinSVermG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7f5c0f37601fc5b06f21dd696b225fcb4722dfd58d71812cad6417dc509ae438"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bwfinsvermg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bwfinsvermg/xml.zip"
+  },
+  "stand_datum": "2025-09-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 30.9.2025 I Nr. 231",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Finanzierung der Bundeswehr und zur Errichtung eines „Sondervermögens Bundeswehr“",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

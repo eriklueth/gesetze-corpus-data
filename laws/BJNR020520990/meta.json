@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-06-11",
+  "bjnr": "BJNR020520990",
+  "eli": null,
+  "gii_slug": "dbpdirwid_bvtrano",
+  "ingested_at": "2026-04-17T15:19:53Z",
+  "jurabk": "DBPDirWid/BVtrAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a81524d3fc99549ab4db8a92a56fe5a6a8758865aa3fa41db8f59e77a6706e23"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbpdirwid_bvtrano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbpdirwid_bvtrano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Direktoriums der Deutschen Bundespost",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

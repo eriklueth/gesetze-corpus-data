@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1934-12-13",
+  "bjnr": "BJNR213950934",
+  "eli": null,
+  "gii_slug": "urhrschfrverlg",
+  "ingested_at": "2026-04-17T15:29:54Z",
+  "jurabk": "UrhRSchFrVerlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7599191ef7e6b96bdd4ea0147b79bb374f22184bc57d12cdae9e58bcd259a636"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/urhrschfrverlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/urhrschfrverlg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Verlängerung der Schutzfristen im Urheberrecht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

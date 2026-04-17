@@ -1,0 +1,26 @@
+{
+  "amtabk": "HärteV",
+  "ausfertigung_datum": "1974-07-15",
+  "bjnr": "BJNR014490974",
+  "eli": null,
+  "gii_slug": "h_rtev",
+  "ingested_at": "2026-04-17T15:22:33Z",
+  "jurabk": "HärteV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f35a734d04a8b25fd133e733c49936e53dc0095ed76341444323f6a12fcbe20"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/h_rtev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/h_rtev/xml.zip"
+  },
+  "stand_datum": "2022-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 15.7.2022 I 1162",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Zusatzleistungen in Härtefällen nach dem Bundesausbildungsförderungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

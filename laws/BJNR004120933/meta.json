@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1933-06-28",
+  "bjnr": "BJNR004120933",
+  "eli": null,
+  "gii_slug": "gewbezg",
+  "ingested_at": "2026-04-17T15:22:08Z",
+  "jurabk": "GewBezG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "82e3269414121cdb71ccc2cc52aea48bfe7d6309948a78da37adb9fff6f92694"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gewbezg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gewbezg/xml.zip"
+  },
+  "stand_datum": "1974-03-02",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 285 G v. 2.3.1974 I 469",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Gewichtsbezeichnung an schweren, auf Schiffen beförderten Frachtstücken",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

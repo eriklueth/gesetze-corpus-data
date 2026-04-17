@@ -1,0 +1,21 @@
+{
+  "amtabk": "AbrStV",
+  "ausfertigung_datum": "2005-10-05",
+  "bjnr": "BJNR292600005",
+  "eli": null,
+  "gii_slug": "abrstv",
+  "ingested_at": "2026-04-17T15:16:44Z",
+  "jurabk": "AbrStV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ff3d8a4ae564b81fedccd95dcdfd0b4f13a684fa13430ccb6a9e3095f1e55881"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/abrstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/abrstv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Abrechnungsstellen im Scheckverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

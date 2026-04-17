@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1938-07-31",
+  "bjnr": "BJNR009730938",
+  "eli": null,
+  "gii_slug": "testg",
+  "ingested_at": "2026-04-17T15:29:22Z",
+  "jurabk": "TestG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7dd4ae1c9e58a8bac490b41112ebcc823ce9c3e6bce421f8716a04776d02c9d2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/testg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/testg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die Errichtung von Testamenten und Erbverträgen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1967-06-26",
+  "bjnr": "BJNR501230967",
+  "eli": null,
+  "gii_slug": "bvwakdverwano",
+  "ingested_at": "2026-04-17T15:19:31Z",
+  "jurabk": "BVwAKDVerwAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2c52399650f9ccfe5712c329ebaba5bc1331030db0a33b17e20bc8fd363788a6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bvwakdverwano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bvwakdverwano/xml.zip"
+  },
+  "stand_datum": "1973-06-25",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 Nr. 2 Buchst. a, f u. i u. Art. 5 G v. 25.6.1973 I 669",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Anordnung über die Wahrnehmung von Aufgaben durch das Bundesamt bei der Ermittlung anerkannter Kriegsdienstverweigerer, die sich der Zivildienstüberwachung entziehen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

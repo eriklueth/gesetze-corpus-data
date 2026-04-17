@@ -1,0 +1,915 @@
+{
+  "bjnr": "BJNR136800018",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Studium",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Ziele des Studiums",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Dienstbehörden",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Ausbildungsbehörden",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Dienstaufsicht",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Erholungsurlaub",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Nachteilsausgleich",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Bewertung der Leistungen im Studium und in den Prüfungen",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Prüfende",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Abweichende Bewertungen",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Auswahlverfahren und Zulassung zum Auswahlverfahren",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Auswahlkommission",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Teile des Auswahlverfahrens",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Festlegungen der Dienstbehörde",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Schriftlicher Teil",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Bestehen des schriftlichen Teils und Rangfolge",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Zulassung zum mündlichen Teil",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Mündlicher Teil",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Bestehen des mündlichen Teils",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Gesamtergebnis und Rangfolge",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 2 Auswahlverfahren"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Täuschung",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Dauer und Gliederung des Studiums",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Studienplan",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Leistungstests",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Fernbleiben und Rücktritt von Leistungstests",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Täuschung und Ordnungsverstoß bei Leistungstests",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 2 Fachstudien"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Studiengebiete des Grundstudiums",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 2 Fachstudien"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Studiengebiete des Hauptstudiums",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 2 Fachstudien"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Leistungstests im Hauptstudium",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 2 Fachstudien"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Zeugnis über die Leistungstests im Hauptstudium, Rangpunktzahl der Leistungstests im Hauptstudium",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 3 Berufspraktische Studienzeiten"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Gliederung, Organisation und Durchführung",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 3 Berufspraktische Studienzeiten"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Ausbildungsleitung",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 3 Berufspraktische Studienzeiten"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Ausbildende",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 3 Berufspraktische Studienzeiten"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Praktikumsordnungen",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 3 Berufspraktische Studienzeiten"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Leistungstests in den praxisbezogenen Lehrveranstaltungen",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 3 Berufspraktische Studienzeiten"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Zeugnis über die Leistungstests in den praxisbezogenen Lehrveranstaltungen, Rangpunktzahl der Leistungstests in den praxisbezogenen Lehrveranstaltungen",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 3 Berufspraktische Studienzeiten"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Ausbildungsplan für die Praktika",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 3 Berufspraktische Studienzeiten"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Bewertung der Praktika",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 3 Studium",
+        "Abschnitt 3 Berufspraktische Studienzeiten"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Zeugnis über die Praktika, Rangpunktzahl der Praktika",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Zeitpunkt und Zweck",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Prüfungsamt für die Zwischenprüfung",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Gegenstand und Durchführung der Zwischenprüfung",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Prüfende für die Zwischenprüfung",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Rangpunktzahl der Zwischenprüfung",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Bestehen der Zwischenprüfung",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Zwischenprüfungszeugnis",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Bescheid über die nichtbestandene Zwischenprüfung",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Wiederholung der Zwischenprüfung",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Diplomprüfung",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Prüfungsamt für die Laufbahnprüfung",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Bestandteile der Laufbahnprüfung",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 2 Diplomarbeit und Diplomkolloquium"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Zweck und Zeitpunkt der Diplomarbeit",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 2 Diplomarbeit und Diplomkolloquium"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Thema und Bearbeitungszeit der Diplomarbeit",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 2 Diplomarbeit und Diplomkolloquium"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Diplomarbeitsordnung",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 2 Diplomarbeit und Diplomkolloquium"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Prüfende für die Diplomarbeit",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 2 Diplomarbeit und Diplomkolloquium"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Betreuung und Freistellung bei der Anfertigung der Diplomarbeit",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 2 Diplomarbeit und Diplomkolloquium"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Verhinderung bei der Diplomarbeit",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 2 Diplomarbeit und Diplomkolloquium"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Abgabe der Diplomarbeit",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 2 Diplomarbeit und Diplomkolloquium"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Bestehen der Diplomarbeit",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 2 Diplomarbeit und Diplomkolloquium"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Diplomkolloquium",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 2 Diplomarbeit und Diplomkolloquium"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Wiederholung der Diplomarbeit und des Diplomkolloquiums",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 3 Schriftliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Gegenstand und Durchführung der schriftlichen Abschlussprüfung",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 3 Schriftliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Prüfende für die schriftliche Abschlussprüfung",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 3 Schriftliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Rangpunktzahl der schriftlichen Abschlussprüfung",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 3 Schriftliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Bestehen der schriftlichen Abschlussprüfung",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 4 Mündliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Zulassung zur mündlichen Abschlussprüfung",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 4 Mündliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Bekanntgabe der bisherigen Ergebnisse der Laufbahnprüfung",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 4 Mündliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Prüfungskommissionen der mündlichen Abschlussprüfung",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 4 Mündliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Gegenstand und Durchführung der mündlichen Abschlussprüfung",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 4 Mündliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Zuhörerinnen und Zuhörer bei der mündlichen Abschlussprüfung",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 4 Mündliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Bewertung und Rangpunktzahl der mündlichen Abschlussprüfung",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 4 Mündliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "Protokoll zur mündlichen Abschlussprüfung",
+      "number": "§ 72",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 4 Mündliche Abschlussprüfung"
+      ],
+      "file": "paragraphs/0073.md",
+      "heading": "Bestehen der mündlichen Abschlussprüfung",
+      "number": "§ 73",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 5 Bestehen der Laufbahnprüfung, Wiederholung der schriftlichen und der mündlichen Abschlussprüfung, Abschlusszeugnis, Bescheid über die nichtbestandene Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0074.md",
+      "heading": "Bestehen der Laufbahnprüfung und Abschlussnote",
+      "number": "§ 74",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 5 Bestehen der Laufbahnprüfung, Wiederholung der schriftlichen und der mündlichen Abschlussprüfung, Abschlusszeugnis, Bescheid über die nichtbestandene Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0075.md",
+      "heading": "Wiederholung der schriftlichen und der mündlichen Abschlussprüfung",
+      "number": "§ 75",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 5 Bestehen der Laufbahnprüfung, Wiederholung der schriftlichen und der mündlichen Abschlussprüfung, Abschlusszeugnis, Bescheid über die nichtbestandene Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0076.md",
+      "heading": "Abschlusszeugnis und Diplomurkunde",
+      "number": "§ 76",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 2 Laufbahnprüfung",
+        "Unterabschnitt 5 Bestehen der Laufbahnprüfung, Wiederholung der schriftlichen und der mündlichen Abschlussprüfung, Abschlusszeugnis, Bescheid über die nichtbestandene Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0077.md",
+      "heading": "Bescheid über die nichtbestandene Laufbahnprüfung",
+      "number": "§ 77",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 3 Weitere Prüfungsvorschriften"
+      ],
+      "file": "paragraphs/0078.md",
+      "heading": "Fernbleiben und Rücktritt von einer Prüfung oder einem Prüfungsteil",
+      "number": "§ 78",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 3 Weitere Prüfungsvorschriften"
+      ],
+      "file": "paragraphs/0079.md",
+      "heading": "Täuschung und Ordnungsverstoß bei Prüfungen",
+      "number": "§ 79",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 3 Weitere Prüfungsvorschriften"
+      ],
+      "file": "paragraphs/0080.md",
+      "heading": "Prüfungsakte und Einsichtnahme",
+      "number": "§ 80",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 4 Prüfungen",
+        "Abschnitt 3 Weitere Prüfungsvorschriften"
+      ],
+      "file": "paragraphs/0080a.md",
+      "heading": "Entscheidung über Widersprüche",
+      "number": "§ 80a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 5 Anerkennung anderer Studienleistungen"
+      ],
+      "file": "paragraphs/0081.md",
+      "heading": "Anerkennung von Studienleistungen und Prüfungsleistungen",
+      "number": "§ 81",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeine Vorschriften",
+        "Teil 6 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0082.md",
+      "heading": "Qualitätsmanagement, Evaluation und Evaluationsordnung",
+      "number": "§ 82",
+      "type": "paragraph"
+    }
+  ]
+}

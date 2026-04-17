@@ -1,0 +1,21 @@
+{
+  "amtabk": "FinStabDEV",
+  "ausfertigung_datum": "2021-01-28",
+  "bjnr": "BJNR011000021",
+  "eli": null,
+  "gii_slug": "finstabdev",
+  "ingested_at": "2026-04-17T15:21:22Z",
+  "jurabk": "FinStabDEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4dc38b519e7264a69bfc91c8c5832b90df7f8d35950b68468c65510f2099e960"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/finstabdev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/finstabdev/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Durchführung von Datenerhebungen durch die Deutsche Bundesbank zur Erfüllung der Aufgaben nach dem Finanzstabilitätsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

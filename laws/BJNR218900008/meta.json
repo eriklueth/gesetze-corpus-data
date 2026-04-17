@@ -1,0 +1,26 @@
+{
+  "amtabk": "2. FlGDV",
+  "ausfertigung_datum": "2008-11-12",
+  "bjnr": "BJNR218900008",
+  "eli": null,
+  "gii_slug": "flgdv_2",
+  "ingested_at": "2026-04-17T15:16:32Z",
+  "jurabk": "FlGDV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "17fb266854f6f185cf87f143d08c64d25a240691c98266f26234ed343e420dfc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flgdv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flgdv_2/xml.zip"
+  },
+  "stand_datum": "2026-01-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 V v. 30.1.2026 I Nr. 31",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Anforderungen an die Zulassung von Klassifizierungsunternehmen und Klassifizierern für Schlachtkörper von Rindern, Schweinen und Schafen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

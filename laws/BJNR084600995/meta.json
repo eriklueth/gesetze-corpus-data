@@ -1,0 +1,26 @@
+{
+  "amtabk": "SchuV",
+  "ausfertigung_datum": "1995-06-21",
+  "bjnr": "BJNR084600995",
+  "eli": null,
+  "gii_slug": "schuv",
+  "ingested_at": "2026-04-17T15:27:53Z",
+  "jurabk": "SchuV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2c5d86bdf433649529d36d262bc55954ed8ca1a661a0dcd9ffc2cbeab98090ce"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schuv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schuv/xml.zip"
+  },
+  "stand_datum": "2006-07-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 Abs. 15 G v. 12.7.2006 I 1466",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

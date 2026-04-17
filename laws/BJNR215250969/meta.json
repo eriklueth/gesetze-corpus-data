@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-08-14",
+  "bjnr": "BJNR215250969",
+  "eli": null,
+  "gii_slug": "iicvorrv",
+  "ingested_at": "2026-04-17T15:22:55Z",
+  "jurabk": "IICVorRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "79b08edd1bd9add101ef7d8be681cba925e2ea410bfcd4cc352ffcb798b9d667"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/iicvorrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/iicvorrv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an das Internationale Baumwoll-Institut (International Institute for Cotton)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

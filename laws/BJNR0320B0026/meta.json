@@ -1,0 +1,26 @@
+{
+  "amtabk": "ERVDPMAV",
+  "ausfertigung_datum": "2026-02-25",
+  "bjnr": "BJNR0320B0026",
+  "eli": null,
+  "gii_slug": "ervdpmav_2026",
+  "ingested_at": "2026-04-17T15:20:47Z",
+  "jurabk": "ERVDPMAV 2026",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0dea3be8cc98d043b6078a720c29d329d91f6f2bf534b90109032220ce0aacc8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ervdpmav_2026/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ervdpmav_2026/xml.zip"
+  },
+  "stand_datum": "2013-11-01",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 424-1-13 v. 1.11.2013 I 3906 (ERVDPMAV 2013)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

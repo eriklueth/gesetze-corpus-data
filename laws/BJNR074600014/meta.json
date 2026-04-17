@@ -1,0 +1,21 @@
+{
+  "amtabk": "RWBestV 2014",
+  "ausfertigung_datum": "2014-06-16",
+  "bjnr": "BJNR074600014",
+  "eli": null,
+  "gii_slug": "rwbestv_2014",
+  "ingested_at": "2026-04-17T15:27:34Z",
+  "jurabk": "RWBestV 2014",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ac8897d81efe0f04d2d14326be83ff074dd84496ab0f8c8a2030f63c0b89f6f4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rwbestv_2014/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rwbestv_2014/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2014",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

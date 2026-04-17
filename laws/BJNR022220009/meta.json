@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-03-17",
+  "bjnr": "BJNR022220009",
+  "eli": null,
+  "gii_slug": "genfrkabkzprotiiig",
+  "ingested_at": "2026-04-17T15:22:05Z",
+  "jurabk": "GenfRKAbkZProtIIIG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "67bc7d67772ec0cd9498d43523a1def2335286c53a5e070aa96422f318645c21"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/genfrkabkzprotiiig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/genfrkabkzprotiiig/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Zusatzprotokoll vom 8. Dezember 2005 zu den Genfer Abkommen vom 12. August 1949 über die Annahme eines zusätzlichen Schutzzeichens (Protokoll III)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

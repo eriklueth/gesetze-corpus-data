@@ -1,0 +1,26 @@
+{
+  "amtabk": "BinSchSiV",
+  "ausfertigung_datum": "1981-01-20",
+  "bjnr": "BJNR001010981",
+  "eli": null,
+  "gii_slug": "binschsiv",
+  "ingested_at": "2026-04-17T15:18:25Z",
+  "jurabk": "BinSchSiV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b6d559f86d84d519e749ac4865387a311282e1560e0d5063dead7e28dda331eb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/binschsiv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/binschsiv/xml.zip"
+  },
+  "stand_datum": "2016-06-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 19 V v. 2.6.2016 I 1257",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Sicherstellung des Binnenschiffsverkehrs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

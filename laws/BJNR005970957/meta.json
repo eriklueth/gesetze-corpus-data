@@ -1,0 +1,30 @@
+{
+  "amtabk": "NTSG",
+  "ausfertigung_datum": "1957-06-11",
+  "bjnr": "BJNR005970957",
+  "eli": null,
+  "gii_slug": "str_ndg_4",
+  "ingested_at": "2026-04-17T15:26:06Z",
+  "jurabk": "StrÄndG 4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1d0f80c36b703fa0a43f5a94b64fa6470d7f2a265031f627ffae12c204bc5841"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/str_ndg_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/str_ndg_4/xml.zip"
+  },
+  "stand_datum": "2008-03-27",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 27.3.2008 I 490;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 Abs. 1 G v. 23.5.2017 I 1226",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Schutz der Truppen des Nordatlantikpaktes durch das Straf- und Ordnungswidrigkeitenrecht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

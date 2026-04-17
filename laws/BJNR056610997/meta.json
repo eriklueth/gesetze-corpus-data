@@ -1,0 +1,30 @@
+{
+  "amtabk": "AbwV",
+  "ausfertigung_datum": "1997-03-21",
+  "bjnr": "BJNR056610997",
+  "eli": null,
+  "gii_slug": "abwv",
+  "ingested_at": "2026-04-17T15:16:44Z",
+  "jurabk": "AbwV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b83004bf28f111cb61ce6acda1cca1b71c524b5f11f7669c12ef8d6f909cf919"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/abwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/abwv/xml.zip"
+  },
+  "stand_datum": "2004-06-17",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 17.6.2004 I 1108, 2625;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 17.4.2024 I Nr. 132",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Anforderungen an das Einleiten von Abwasser in Gewässer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

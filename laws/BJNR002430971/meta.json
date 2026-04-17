@@ -1,0 +1,34 @@
+{
+  "amtabk": "BZRG",
+  "ausfertigung_datum": "1971-03-18",
+  "bjnr": "BJNR002430971",
+  "eli": null,
+  "gii_slug": "bzrg",
+  "ingested_at": "2026-04-17T15:19:40Z",
+  "jurabk": "BZRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c5db1e565ad805d168cb592138532a4e3a370d8f86938d797383b2c468759fc7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bzrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bzrg/xml.zip"
+  },
+  "stand_datum": "1984-09-21",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 21.9.1984 I 1229, 1985 I 195;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 5 G v. 19.7.2024 I Nr. 245",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über das Zentralregister und das Erziehungsregister",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

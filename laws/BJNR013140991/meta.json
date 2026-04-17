@@ -1,0 +1,21 @@
+{
+  "amtabk": "HBeglG 1991",
+  "ausfertigung_datum": "1991-06-24",
+  "bjnr": "BJNR013140991",
+  "eli": null,
+  "gii_slug": "hbeglg_1991",
+  "ingested_at": "2026-04-17T15:22:40Z",
+  "jurabk": "HBeglG 1991",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d9f13cb5d484e08cd3996e121aba0996f65868492dd50b395bcc48646402e43d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hbeglg_1991/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hbeglg_1991/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte sowie über strukturelle Anpassungen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

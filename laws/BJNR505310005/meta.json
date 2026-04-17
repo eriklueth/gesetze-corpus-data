@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-03-10",
+  "bjnr": "BJNR505310005",
+  "eli": null,
+  "gii_slug": "luftvodv_220",
+  "ingested_at": "2026-04-17T15:24:26Z",
+  "jurabk": "LuftVODV 220",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1d2594cabcc620e74f59e8c9b9f3c65a719daaabaae30642b8bb2069752a5320"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_220/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_220/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweihundertzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Zürich)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

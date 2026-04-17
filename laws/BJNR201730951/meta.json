@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-08-10",
+  "bjnr": "BJNR201730951",
+  "eli": null,
+  "gii_slug": "gattg",
+  "ingested_at": "2026-04-17T15:21:54Z",
+  "jurabk": "GATTG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "527675158f93be6623ce7fc16ac2bd5f2f0a4a3c51c53b6fcd549ed530fc122c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gattg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gattg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über das Protokoll von Torquay vom 21. April 1951 und über den Beitritt der Bundesrepublik Deutschland zum Allgemeinen Zoll- und Handelsabkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

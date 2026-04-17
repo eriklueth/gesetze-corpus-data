@@ -1,0 +1,26 @@
+{
+  "amtabk": "WahlkostenV",
+  "ausfertigung_datum": "2016-11-08",
+  "bjnr": "BJNR251700016",
+  "eli": null,
+  "gii_slug": "wahlkostenv",
+  "ingested_at": "2026-04-17T15:30:21Z",
+  "jurabk": "WahlkostenV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "609c3698b2a65115604e07fcffd62df1b774083012efa679da0fefaba318ad30"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wahlkostenv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wahlkostenv/xml.zip"
+  },
+  "stand_datum": "2009-09-29",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 111-1-7 v. 29.9.2009 I 3220 (WahlKErstV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Anpassung der festen Beträge im Rahmen der Wahlkostenerstattung durch den Bund",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

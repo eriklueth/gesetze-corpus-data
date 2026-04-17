@@ -1,0 +1,26 @@
+{
+  "amtabk": "StAuskV",
+  "ausfertigung_datum": "2007-11-30",
+  "bjnr": "BJNR278300007",
+  "eli": null,
+  "gii_slug": "stauskv",
+  "ingested_at": "2026-04-17T15:28:51Z",
+  "jurabk": "StAuskV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d00daa831405759862fd85a37c1073c2802951db3096d779da6582cf9d990597"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stauskv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stauskv/xml.zip"
+  },
+  "stand_datum": "2022-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 V v. 19.12.2022 I 2432",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung von § 89 Abs. 2 der Abgabenordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

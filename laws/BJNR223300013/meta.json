@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-07-02",
+  "bjnr": "BJNR223300013",
+  "eli": null,
+  "gii_slug": "fluthilfemederl_2013",
+  "ingested_at": "2026-04-17T15:21:38Z",
+  "jurabk": "FluthilfeMedErl 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9fb06ab989891c95ce82b77655d06df5607f3f5d89007b07168f988948f1e42a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fluthilfemederl_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fluthilfemederl_2013/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille „Fluthilfe 2013“",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

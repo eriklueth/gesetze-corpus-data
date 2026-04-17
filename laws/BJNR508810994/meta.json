@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-04-12",
+  "bjnr": "BJNR508810994",
+  "eli": null,
+  "gii_slug": "luftvodv_144",
+  "ingested_at": "2026-04-17T15:24:19Z",
+  "jurabk": "LuftVODV 144",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5f836eeff0900a3f71ebd67ae3a0a8224d5f95d8b4f237711d597dc3ec975801"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_144/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_144/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Einhundertvierundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Anwendung von Sekundärradar in der Bundesrepublik Deutschland)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

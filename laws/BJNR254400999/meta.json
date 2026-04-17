@@ -1,0 +1,21 @@
+{
+  "amtabk": "BLG 2000",
+  "ausfertigung_datum": "1999-12-22",
+  "bjnr": "BJNR254400999",
+  "eli": null,
+  "gii_slug": "blg_2000",
+  "ingested_at": "2026-04-17T15:18:36Z",
+  "jurabk": "BLG 2000",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ce6ba151e035d13c510bfeeaf457e35bf46de5a260db4a6003715bf4869b9dcb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/blg_2000/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/blg_2000/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Bestimmung der Beträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2000",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

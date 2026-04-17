@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-09-20",
+  "bjnr": "BJNR201180958",
+  "eli": null,
+  "gii_slug": "natostat_bk",
+  "ingested_at": "2026-04-17T15:25:54Z",
+  "jurabk": "NATOStatÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "83b920eb95dadf73d79aca6a0189e33dba5e3f3a2b29db6fa7703fb08a897c15"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/natostat_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/natostat_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über den Status der Nordatlantikvertrags-Organisation, der nationalen Vertreter und des internationalen Personals",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "PackungsV",
+  "ausfertigung_datum": "2004-06-22",
+  "bjnr": "BJNR131800004",
+  "eli": null,
+  "gii_slug": "packungsv",
+  "ingested_at": "2026-04-17T15:26:26Z",
+  "jurabk": "PackungsV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "531f489c8a5f3753c223b9e418743d7009320de835cc6a4b571ac0d7f014541c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/packungsv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/packungsv/xml.zip"
+  },
+  "stand_datum": "2022-07-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 V v. 6.7.2022 I 1102",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Bestimmung und Kennzeichnung von Packungsgrößen für Arzneimittel in der vertragsärztlichen Versorgung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

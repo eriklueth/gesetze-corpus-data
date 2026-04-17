@@ -1,0 +1,26 @@
+{
+  "amtabk": "AMPreisV",
+  "ausfertigung_datum": "1980-11-14",
+  "bjnr": "BJNR021470980",
+  "eli": null,
+  "gii_slug": "ampreisv",
+  "ingested_at": "2026-04-17T15:16:59Z",
+  "jurabk": "AMPreisV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "57deb5a7cb43f251d9092f70f3301411acb6d65c50ba6b756523efbabcff50b6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ampreisv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ampreisv/xml.zip"
+  },
+  "stand_datum": "2023-07-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 19.7.2023 I Nr. 197",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Arzneimittelpreisverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

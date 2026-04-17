@@ -1,0 +1,26 @@
+{
+  "amtabk": "REITG",
+  "ausfertigung_datum": "2007-05-28",
+  "bjnr": "BJNR091410007",
+  "eli": null,
+  "gii_slug": "reitg",
+  "ingested_at": "2026-04-17T15:27:14Z",
+  "jurabk": "REITG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1c536f53805e587fe1037d1ae109d661136b2f044a113345d316f1651835e64e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/reitg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/reitg/xml.zip"
+  },
+  "stand_datum": "2026-02-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 25 G v. 4.2.2026 I Nr. 33",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über deutsche Immobilien-Aktiengesellschaften mit börsennotierten Anteilen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

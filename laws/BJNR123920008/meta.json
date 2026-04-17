@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-12-07",
+  "bjnr": "BJNR123920008",
+  "eli": null,
+  "gii_slug": "lsvaabk_b_s",
+  "ingested_at": "2026-04-17T15:24:09Z",
+  "jurabk": "LSVAAbk Büs",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a8c2e00d30a2ec7b4a52a8ffdf7351732312555c638706e9ab1d4646baba0f94"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lsvaabk_b_s/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lsvaabk_b_s/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat zum Vertrag vom 23. November 1964 über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

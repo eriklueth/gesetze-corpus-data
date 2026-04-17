@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-06-02",
+  "bjnr": "BJNR078700993",
+  "eli": null,
+  "gii_slug": "bes_v2bek_1993-06-02",
+  "ingested_at": "2026-04-17T15:18:12Z",
+  "jurabk": "BesÜV2Bek 1993-06-02",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7e3b367293dbdc461e6d5742192e35062fb600afd61f5ac1ed0c07ae3b8c298e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bes_v2bek_1993-06-02/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Dienstbezüge und Anwärterbezüge nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

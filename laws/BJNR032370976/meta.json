@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-11-23",
+  "bjnr": "BJNR032370976",
+  "eli": null,
+  "gii_slug": "flul_rmlechfv",
+  "ingested_at": "2026-04-17T15:21:33Z",
+  "jurabk": "FluLärmLechfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6eafc89d38d11796d537d27b71f10d76145913fb154d346bb718692e1ee7467c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flul_rmlechfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flul_rmlechfv/xml.zip"
+  },
+  "stand_datum": "1992-03-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 6.3.1992 I 479",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Lechfeld",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

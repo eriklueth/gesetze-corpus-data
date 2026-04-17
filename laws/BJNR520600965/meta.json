@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-10-18",
+  "bjnr": "BJNR520600965",
+  "eli": null,
+  "gii_slug": "bmfnvano",
+  "ingested_at": "2026-04-17T15:18:39Z",
+  "jurabk": "BMFNVAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8fe37d27171f1c9be8553eb6e7352296036f74c99f3fb05f96400a2b09aadda4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmfnvano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmfnvano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Übertragung der Befugnis zur Genehmigung von Nebentätigkeiten im Geschäftsbereich des Bundesministers der Finanzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

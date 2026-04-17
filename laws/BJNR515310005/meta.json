@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-07-22",
+  "bjnr": "BJNR515310005",
+  "eli": null,
+  "gii_slug": "luftvodv_224",
+  "ingested_at": "2026-04-17T15:24:26Z",
+  "jurabk": "LuftVODV 224",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f6628f7b63fac0ce3887d4f3caa4d5b5c1314cd5b2c925f8997325c4dcf349d9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_224/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_224/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweihundertvierundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Dortmund)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

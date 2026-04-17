@@ -1,0 +1,26 @@
+{
+  "amtabk": "BDG",
+  "ausfertigung_datum": "2001-07-09",
+  "bjnr": "BJNR151010001",
+  "eli": null,
+  "gii_slug": "bdg",
+  "ingested_at": "2026-04-17T15:17:53Z",
+  "jurabk": "BDG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "624949be32526e17298a269abe200eb12d5c71df292f7bc99eead4e92102be4a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bdg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bdg/xml.zip"
+  },
+  "stand_datum": "2024-07-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 19.7.2024 I Nr. 247",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundesdisziplinargesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

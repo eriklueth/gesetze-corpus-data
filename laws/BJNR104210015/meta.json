@@ -1,0 +1,26 @@
+{
+  "amtabk": "IntErbRVG",
+  "ausfertigung_datum": "2015-06-29",
+  "bjnr": "BJNR104210015",
+  "eli": null,
+  "gii_slug": "interbrvg",
+  "ingested_at": "2026-04-17T15:23:01Z",
+  "jurabk": "IntErbRVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0563aa003bcd0845e761f4f5c69b8d83909d2ed134c5ee626878337700f74001"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/interbrvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/interbrvg/xml.zip"
+  },
+  "stand_datum": "2025-12-10",
+  "standangabe": [
+    {
+      "kommentar": "Änderung durch Art. 9 G v. 10.12.2025 I Nr. 320 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Internationales Erbrechtsverfahrensgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "MDV",
+  "ausfertigung_datum": "2021-10-20",
+  "bjnr": "BJNR472800021",
+  "eli": null,
+  "gii_slug": "mdv",
+  "ingested_at": "2026-04-17T15:24:47Z",
+  "jurabk": "MDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7cb06cd0515481195e62d0420fb1eea1d79bdeb91fac94d9cfc0e8743210c149"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mdv/xml.zip"
+  },
+  "stand_datum": "2022-07-01",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 1.7.2022 I 1039",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Mobilitätsdatenverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1884-07-16",
+  "bjnr": "BJNR001200884",
+  "eli": null,
+  "gii_slug": "feingehg",
+  "ingested_at": "2026-04-17T15:21:17Z",
+  "jurabk": "FeinGehG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1170e7b48ea66823f9210629eb3c33eecb37229509a751f01942f30c2bbe16e9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/feingehg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/feingehg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 294 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Feingehalt der Gold- und Silberwaren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

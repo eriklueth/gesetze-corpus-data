@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-07-20",
+  "bjnr": "BJNR006650981",
+  "eli": null,
+  "gii_slug": "euauslvwz_ausk_bkag",
+  "ingested_at": "2026-04-17T15:20:52Z",
+  "jurabk": "EuAuslVwZ/AuskÜbkAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fb0089b2409ab17bbc981e41cb8a84a523311eff0aa06310f3129158a1e9ca13"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euauslvwz_ausk_bkag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euauslvwz_ausk_bkag/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Ausführung des Europäischen Übereinkommens vom 24. November 1977 über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland und des Europäischen Übereinkommens vom 15. März 1978 über die Erlangung von Auskünften und Beweisen in Verwaltungssachen im Ausland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

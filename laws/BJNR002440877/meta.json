@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1877-01-30",
+  "bjnr": "BJNR002440877",
+  "eli": null,
+  "gii_slug": "zpoeg",
+  "ingested_at": "2026-04-17T15:31:24Z",
+  "jurabk": "ZPOEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "630a12c71bbe90e47cc017163591ea3decb05799c6a56aa69a50e0da3531af06"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zpoeg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zpoeg/xml.zip"
+  },
+  "stand_datum": "2025-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 17 G v. 8.12.2025 I Nr. 319",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 38 G v. 8.12.2025 I Nr. 319 ist berücksichtigt",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Gesetz, betreffend die Einführung der Zivilprozeßordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

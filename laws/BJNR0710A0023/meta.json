@@ -1,0 +1,30 @@
+{
+  "amtabk": "NordSBefV",
+  "ausfertigung_datum": "2023-04-25",
+  "bjnr": "BJNR0710A0023",
+  "eli": null,
+  "gii_slug": "nordsbefv",
+  "ingested_at": "2026-04-17T15:26:04Z",
+  "jurabk": "NordSBefV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "07cf741e2c0eab4666553567d0c69a39683d497b14a2ddcb2b97045a9bdae6ef"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nordsbefv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nordsbefv/xml.zip"
+  },
+  "stand_datum": "1992-02-12",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 940-9-16 v. 12.2.1992 I 242 (NPNordSBefV)",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Geändert durch Art. 3 V v. 18.3.2024 I Nr. 100",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

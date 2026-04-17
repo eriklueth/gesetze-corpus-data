@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-04-21",
+  "bjnr": "BJNR213060965",
+  "eli": null,
+  "gii_slug": "vermrglvtr_isr_aus",
+  "ingested_at": "2026-04-17T15:30:08Z",
+  "jurabk": "VermRglVtr ISR/AUS",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "52e62ed827868def0917eb32f08ab233c4f6e937a51c19faccd7892a13f5229f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vermrglvtr_isr_aus/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vermrglvtr_isr_aus/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Australischen Bund über die Aufteilung der von der Regierung des Staates Israel für das deutsche weltliche Vermögen in Israel gezahlten Entschädigung auf Deutschland und Australien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

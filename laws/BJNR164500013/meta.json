@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2013-06-18",
+  "bjnr": "BJNR164500013",
+  "eli": null,
+  "gii_slug": "btgo1980anl1abestbek_2013",
+  "ingested_at": "2026-04-17T15:19:18Z",
+  "jurabk": "BTGO1980Anl1ABestBek 2013",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9503a211d88461aca575d9dc1b3a13e6e2ac81e4e551d4667846233cb0c4e2cd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/btgo1980anl1abestbek_2013/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/btgo1980anl1abestbek_2013/xml.zip"
+  },
+  "stand_datum": "2013-10-22",
+  "standangabe": [
+    {
+      "kommentar": "Diese Ausführungsbestimmungen treten gem. Nr. 13 Satz 1 dieser Bek. mWv 22.10.2013 in Kraft (Tag der ersten Sitzung des 18. Deutschen Bundestages)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Bekanntmachung der Ausführungsbestimmungen zu den Verhaltensregeln für Mitglieder des Deutschen Bundestages",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

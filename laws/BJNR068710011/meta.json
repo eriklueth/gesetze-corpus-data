@@ -1,0 +1,30 @@
+{
+  "amtabk": "BFDG",
+  "ausfertigung_datum": "2011-04-28",
+  "bjnr": "BJNR068710011",
+  "eli": null,
+  "gii_slug": "bfdg",
+  "ingested_at": "2026-04-17T15:18:16Z",
+  "jurabk": "BFDG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2ccc1a54ff1c4967e6d6f36e584dcbb3957e77316515f6e8f9f6f6c2f0613310"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bfdg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bfdg/xml.zip"
+  },
+  "stand_datum": "2024-05-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 23.5.2024 I Nr. 170",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung der Inhaltsübersicht durch Art. 50 Nr. 1 G v. 12.12.2019 I 2652 ist nicht ausführbar, da dieses G keine amtliche Inhaltsübersicht hat",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über den Bundesfreiwilligendienst",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

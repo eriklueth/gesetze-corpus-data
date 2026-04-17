@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-10-15",
+  "bjnr": "BJNR317100998",
+  "eli": null,
+  "gii_slug": "stvoausnv_9",
+  "ingested_at": "2026-04-17T15:29:04Z",
+  "jurabk": "StVOAusnV 9",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "abb136cf87ec3fd89f318237e1235e06f6b83ca21a069ef4fc4dbaf3a9c39f0d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvoausnv_9/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvoausnv_9/xml.zip"
+  },
+  "stand_datum": "2025-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 19.12.2025 I Nr. 382",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die Geltung der V ist durch § 8 idF d. V v. 11.11.2010 I 1624 über den 31.12.2010 hinaus verlängert worden",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Neunte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

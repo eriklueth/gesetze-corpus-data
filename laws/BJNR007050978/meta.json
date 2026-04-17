@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-06-06",
+  "bjnr": "BJNR007050978",
+  "eli": null,
+  "gii_slug": "maschmahnvordrv",
+  "ingested_at": "2026-04-17T15:24:44Z",
+  "jurabk": "MaschMahnVordrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "069d6f8a499291ae9db6c1c2806a3617a9de22c2663422d998bb306d34c892cd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/maschmahnvordrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/maschmahnvordrv/xml.zip"
+  },
+  "stand_datum": "2001-07-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 G v. 27.7.2001 I 1887",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Einführung von Vordrucken für das Mahnverfahren bei Gerichten, die das Verfahren maschinell bearbeiten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

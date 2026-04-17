@@ -1,0 +1,26 @@
+{
+  "amtabk": "WOSprAuG",
+  "ausfertigung_datum": "1989-09-28",
+  "bjnr": "BJNR017980989",
+  "eli": null,
+  "gii_slug": "wospraug",
+  "ingested_at": "2026-04-17T15:30:39Z",
+  "jurabk": "WOSprAuG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "251eb01305c3148f7fdac7a8b8afed47ce6c73e5f75e5786607c8209614e87de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wospraug/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wospraug/xml.zip"
+  },
+  "stand_datum": "2022-01-20",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 20.1.2022 I 69",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Erste Verordnung zur Durchführung des Sprecherausschußgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

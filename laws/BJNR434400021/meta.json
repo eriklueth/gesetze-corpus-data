@@ -1,0 +1,26 @@
+{
+  "amtabk": "IRegBV",
+  "ausfertigung_datum": "2021-09-22",
+  "bjnr": "BJNR434400021",
+  "eli": null,
+  "gii_slug": "iregbv",
+  "ingested_at": "2026-04-17T15:23:10Z",
+  "jurabk": "IRegBV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e68a44847934d23924cbffc3b99f1ad2f52cf7c7352e5360204a047944407ea8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/iregbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/iregbv/xml.zip"
+  },
+  "stand_datum": "2026-04-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7c G v. 9.4.2026 I Nr. 98",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Betrieb des Implantateregisters Deutschland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

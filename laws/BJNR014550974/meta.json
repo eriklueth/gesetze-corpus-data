@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-07-16",
+  "bjnr": "BJNR014550974",
+  "eli": null,
+  "gii_slug": "begschlgart5v_1",
+  "ingested_at": "2026-04-17T15:18:01Z",
+  "jurabk": "BEGSchlGArt5V 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9f332225b0de16d4ec17c75da21d756d43aa888d8e7bf34f46f057afd0023944"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/begschlgart5v_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/begschlgart5v_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erste Verordnung zu Artikel V des Zweiten Gesetzes zur Änderung des Bundesentschädigungsgesetzes (BEG-Schlußgesetz)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

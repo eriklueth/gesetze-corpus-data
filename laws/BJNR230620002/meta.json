@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-08-28",
+  "bjnr": "BJNR230620002",
+  "eli": null,
+  "gii_slug": "sozsichabkausg",
+  "ingested_at": "2026-04-17T15:28:31Z",
+  "jurabk": "SozSichAbkAUSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "23e8d06e9b3f0f17e9edd16380eba538a810fc92a812f7214a9cb5802943861d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkausg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkausg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 13. Dezember 2000 zwischen der Bundesrepublik Deutschland und Australien über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

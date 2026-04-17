@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-12-24",
+  "bjnr": "BJNR010730956",
+  "eli": null,
+  "gii_slug": "kredinstndlaufhg",
+  "ingested_at": "2026-04-17T15:23:50Z",
+  "jurabk": "KredInstNdlAufhG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9c67527bf9568b01bf5fe999515ab0ecf2f71690eb1e7cf691ddaa98e3818998"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kredinstndlaufhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kredinstndlaufhg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Aufhebung der Beschränkung des Niederlassungsbereichs von Kreditinstituten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "IVD-AMG-V",
+  "ausfertigung_datum": "2000-05-24",
+  "bjnr": "BJNR074600000",
+  "eli": null,
+  "gii_slug": "ivd-amg-v",
+  "ingested_at": "2026-04-17T15:23:12Z",
+  "jurabk": "IVD-AMG-V",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c772057bb711c75bc4e8a66cebcb7a76476076df621aed1edeba1d3eb3168a01"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ivd-amg-v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ivd-amg-v/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Ausdehnung der Vorschriften über die Zulassung und staatliche Chargenprüfung auf Tests zur In-vitro-Diagnostik nach dem Arzneimittelgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

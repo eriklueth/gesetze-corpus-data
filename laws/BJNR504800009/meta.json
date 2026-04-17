@@ -1,0 +1,26 @@
+{
+  "amtabk": "3. DV LuftBO",
+  "ausfertigung_datum": "2009-03-19",
+  "bjnr": "BJNR504800009",
+  "eli": null,
+  "gii_slug": "luftbodv_3_2009",
+  "ingested_at": "2026-04-17T15:16:34Z",
+  "jurabk": "LuftBODV 3 2009",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8260e303c7abf4607eaba1dc4bdb104ac763b7eb6abb63458702dee57e0e51bc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftbodv_3_2009/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftbodv_3_2009/xml.zip"
+  },
+  "stand_datum": "2010-04-08",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 8.4.2010 BAnz. Nr. 58, 1351",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Dritte Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Ausrüstung und Betrieb des Luftfahrtgerätes außerhalb von Luftfahrtunternehmen)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

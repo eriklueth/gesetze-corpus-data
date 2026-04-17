@@ -1,0 +1,26 @@
+{
+  "amtabk": "LasthandhabV",
+  "ausfertigung_datum": "1996-12-04",
+  "bjnr": "BJNR184200996",
+  "eli": null,
+  "gii_slug": "lasthandhabv",
+  "ingested_at": "2026-04-17T15:24:11Z",
+  "jurabk": "LasthandhabV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cf3e4a02b557970136362793a64e9383ac45415004a9c06bc1a1a5e0d45fd9fa"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/lasthandhabv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/lasthandhabv/xml.zip"
+  },
+  "stand_datum": "2020-06-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 294 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Sicherheit und Gesundheitsschutz bei der manuellen Handhabung von Lasten bei der Arbeit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

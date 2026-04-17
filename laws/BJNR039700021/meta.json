@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2021-03-26",
+  "bjnr": "BJNR039700021",
+  "eli": null,
+  "gii_slug": "btepifortbestbek",
+  "ingested_at": "2026-04-17T15:19:18Z",
+  "jurabk": "BTEpiFortbestBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a38c67aec1845057d77d87aa277e99873c593f516f676928bf7e16f9ac2af014"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/btepifortbestbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/btepifortbestbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

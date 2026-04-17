@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2024-02-06",
+  "bjnr": "BJNR0240A0024",
+  "eli": null,
+  "gii_slug": "gapdzv_8nr7bek",
+  "ingested_at": "2026-04-17T15:21:51Z",
+  "jurabk": "GAPDZV§8Nr7Bek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9fa16e5d99688ac5969013b9eb30d2ce6915256e57139fc1951d0fe70c3bf677"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gapdzv_8nr7bek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gapdzv_8nr7bek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 8 Nummer 7 der GAP-Direktzahlungen-Verordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

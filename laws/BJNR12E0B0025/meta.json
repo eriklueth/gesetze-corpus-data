@@ -1,0 +1,21 @@
+{
+  "amtabk": "MaschinenDG",
+  "ausfertigung_datum": "2025-12-02",
+  "bjnr": "BJNR12E0B0025",
+  "eli": null,
+  "gii_slug": "maschinendg",
+  "ingested_at": "2026-04-17T15:24:44Z",
+  "jurabk": "MaschinenDG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "39f656b5b8dbd59884817b75d2853e02201c1e3c0d1582cd16889002565197e6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/maschinendg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/maschinendg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Durchführung der Verordnung (EU) 2023/1230",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

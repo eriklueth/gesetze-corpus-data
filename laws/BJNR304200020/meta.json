@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-12-18",
+  "bjnr": "BJNR304200020",
+  "eli": null,
+  "gii_slug": "umwstg2006_27abs15v",
+  "ingested_at": "2026-04-17T15:29:50Z",
+  "jurabk": "UmwStG2006§27Abs15V",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f12ebb1b528ca2010d685a3388d68c4dc2e5131c2246410ddd5c15a0ae69bb3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/umwstg2006_27abs15v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/umwstg2006_27abs15v/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zu § 27 Absatz 15 des Umwandlungssteuergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

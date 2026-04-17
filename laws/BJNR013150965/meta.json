@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-09-14",
+  "bjnr": "BJNR013150965",
+  "eli": null,
+  "gii_slug": "begschlg",
+  "ingested_at": "2026-04-17T15:18:01Z",
+  "jurabk": "BEGSchlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b1790d34039ae37a4c910b26affb25aa86ff92e7e6ff12f3b5530a6f342525f1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/begschlg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/begschlg/xml.zip"
+  },
+  "stand_datum": "1971-08-30",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 4 G v. 30.8.1971 I 1426",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweites Gesetz zur Änderung des Bundesentschädigungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

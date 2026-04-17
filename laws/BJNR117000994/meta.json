@@ -1,0 +1,21 @@
+{
+  "amtabk": "ArbZRG",
+  "ausfertigung_datum": "1994-06-06",
+  "bjnr": "BJNR117000994",
+  "eli": null,
+  "gii_slug": "arbzrg",
+  "ingested_at": "2026-04-17T15:17:03Z",
+  "jurabk": "ArbZRG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ec9dbd7458b020e781bd5a907c32c11c83c69a850a47dff389f5e4dbfbb57498"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/arbzrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/arbzrg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Vereinheitlichung und Flexibilisierung des Arbeitszeitrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

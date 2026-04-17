@@ -1,0 +1,30 @@
+{
+  "amtabk": "EnLAG",
+  "ausfertigung_datum": "2009-08-21",
+  "bjnr": "BJNR287010009",
+  "eli": null,
+  "gii_slug": "enlag",
+  "ingested_at": "2026-04-17T15:20:40Z",
+  "jurabk": "EnLAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "aa56319686d3c1e085656e666fa302fe1ef6cd5b8143875d8baffa3572c69f68"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/enlag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/enlag/xml.zip"
+  },
+  "stand_datum": "2024-05-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 G v. 8.5.2024 I Nr. 151",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Das G ist gem. Art. 7 G v. 21.8.2009 I 2870 am 26.8.2009 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zum Ausbau von Energieleitungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

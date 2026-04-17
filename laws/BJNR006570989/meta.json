@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-03-17",
+  "bjnr": "BJNR006570989",
+  "eli": null,
+  "gii_slug": "wzg_4shapebek",
+  "ingested_at": "2026-04-17T15:31:12Z",
+  "jurabk": "WZG§4SHAPEBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c635cdfb11d88d532c20122d3878cb03f0a76cd65ab997e352227cd10c51a6c2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4shapebek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4shapebek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

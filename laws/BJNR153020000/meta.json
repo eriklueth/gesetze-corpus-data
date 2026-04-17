@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2000-12-19",
+  "bjnr": "BJNR153020000",
+  "eli": null,
+  "gii_slug": "strbn_bk_ndprotg",
+  "ingested_at": "2026-04-17T15:28:57Z",
+  "jurabk": "StrBNÜbkÄndProtG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bc73dac6771fd34ddf0b9ab3c7baa7d5719296f76ef126e47206fc7f03dce521"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/strbn_bk_ndprotg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/strbn_bk_ndprotg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Protokoll vom 22. März 2000 zur Änderung des Übereinkommens vom 9. Februar 1994 über die Erhebung von Gebühren für die Benutzung bestimmter Straßen mit schweren Nutzfahrzeugen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

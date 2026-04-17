@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-02-11",
+  "bjnr": "BJNR502300009",
+  "eli": null,
+  "gii_slug": "maispflschmv",
+  "ingested_at": "2026-04-17T15:24:40Z",
+  "jurabk": "MaisPflSchMV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e54bd15179ccee191a6d86014506f9ca5abd1978a6dc6366eaa6125ed214e7de"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/maispflschmv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/maispflschmv/xml.zip"
+  },
+  "stand_datum": "2013-06-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 V v. 27.6.2013 I 1953",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Diese V tritt gem. § 7 Abs. 2 am 12.8.2009 außer Kraft, sofern nicht mit Zustimmung des Bundesrates etwas anderes verordnet wird. § 7 Abs. 2 aufgeh. durch Art. 1 Nr. 3 V v. 29.7.2009 I 2341; dadurch ist die Geltung dieser V über den 12.8.2009 hinaus verlängert worden.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über das Inverkehrbringen und die Aussaat von mit bestimmten Pflanzenschutzmitteln behandeltem Maissaatgut",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "VAErstV",
+  "ausfertigung_datum": "2001-10-09",
+  "bjnr": "BJNR262800001",
+  "eli": null,
+  "gii_slug": "vaerstv",
+  "ingested_at": "2026-04-17T15:30:00Z",
+  "jurabk": "VAErstV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "da2af5fdc0a06372470a2a1667c9b849bfc4f6654586faf30f5eaf89afbb0fdb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vaerstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vaerstv/xml.zip"
+  },
+  "stand_datum": "2020-06-12",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 21 G v. 12.6.2020 I 1248",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Erstattung von Aufwendungen der Träger der Rentenversicherung im Rahmen des Versorgungsausgleichs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

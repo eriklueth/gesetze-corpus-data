@@ -1,0 +1,30 @@
+{
+  "amtabk": "EfbV",
+  "ausfertigung_datum": "2016-12-02",
+  "bjnr": "BJNR277010016",
+  "eli": null,
+  "gii_slug": "efbv_2017",
+  "ingested_at": "2026-04-17T15:20:28Z",
+  "jurabk": "EfbV 2017",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "edda9ad46f4826f6a4c4b9b48bb1e60a724cf20d682dbade180eeb322835be99"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/efbv_2017/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/efbv_2017/xml.zip"
+  },
+  "stand_datum": "2025-09-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 Abs. 1 G v. 30.9.2025 I Nr. 233",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2129-27-2-5 v. 10.9.1996 I 1421 (EfbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

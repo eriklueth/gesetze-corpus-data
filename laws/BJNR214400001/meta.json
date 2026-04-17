@@ -1,0 +1,26 @@
+{
+  "amtabk": "6. SGGÄndG",
+  "ausfertigung_datum": "2001-08-17",
+  "bjnr": "BJNR214400001",
+  "eli": null,
+  "gii_slug": "sgg_ndg_6",
+  "ingested_at": "2026-04-17T15:16:41Z",
+  "jurabk": "SGGÄndG 6",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b1f3d6f53499dd81fed22ebfdb7ece547efa60651c13336c90fcf5c4b11c27d4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sgg_ndg_6/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sgg_ndg_6/xml.zip"
+  },
+  "stand_datum": "2001-12-10",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 9 Abs. 8 G v. 10.12.2001 I 3422",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Sechstes Gesetz zur Änderung des Sozialgerichtsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

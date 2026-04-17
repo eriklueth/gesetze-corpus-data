@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-10-01",
+  "bjnr": "BJNR007880956",
+  "eli": null,
+  "gii_slug": "bpr_skennzano",
+  "ingested_at": "2026-04-17T15:19:00Z",
+  "jurabk": "BPräsKennzAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4d31c203cb86147dee1fe407ed36e60da4272256f13ddd9fe585f042eec019d6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_skennzano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_skennzano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung des Bundespräsidenten über die Kennzeichnung der Luftfahrzeuge und Kampffahrzeuge der Bundeswehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

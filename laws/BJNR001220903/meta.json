@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1903-03-27",
+  "bjnr": "BJNR001220903",
+  "eli": null,
+  "gii_slug": "wzecubek",
+  "ingested_at": "2026-04-17T15:30:53Z",
+  "jurabk": "WZECUBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8087198f45305fdc2bf9880117bc4dd19f466a4dca30ce8160ed0a6c3626a511"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzecubek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzecubek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Ecuador",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

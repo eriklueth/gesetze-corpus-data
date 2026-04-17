@@ -1,0 +1,30 @@
+{
+  "amtabk": "12. BImSchV",
+  "ausfertigung_datum": "2000-04-26",
+  "bjnr": "BJNR060310000",
+  "eli": null,
+  "gii_slug": "bimschv_12_2000",
+  "ingested_at": "2026-04-17T15:16:31Z",
+  "jurabk": "BImSchV 12 2000",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "554806fdcae621dae5f7c9af5bad0a0642610fab8bd18daedea0b7cc896b35c6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_12_2000/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_12_2000/xml.zip"
+  },
+  "stand_datum": "2017-03-15",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 15.3.2017 I 483;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 7 G v. 3.7.2024 I Nr. 225",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zwölfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

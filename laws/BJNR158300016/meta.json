@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2016-06-16",
+  "bjnr": "BJNR158300016",
+  "eli": null,
+  "gii_slug": "m_nz20eurobek_2016-07-11",
+  "ingested_at": "2026-04-17T15:25:29Z",
+  "jurabk": "Münz20EuroBek 2016-07-11",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "23a2901d9a052d3f9ae2a0145beb81bb73a384aec6d84fe941aefa58ba13bb2c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz20eurobek_2016-07-11/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz20eurobek_2016-07-11/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Nachtigall“ der Serie „Heimische Vögel“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

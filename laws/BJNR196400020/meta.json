@@ -1,0 +1,30 @@
+{
+  "amtabk": "WDOBezV",
+  "ausfertigung_datum": "2020-08-17",
+  "bjnr": "BJNR196400020",
+  "eli": null,
+  "gii_slug": "wdobezv_2020",
+  "ingested_at": "2026-04-17T15:30:26Z",
+  "jurabk": "WDOBezV 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "440b9544203a8b45af8970ada94d3b6b852ed68a8fb2d17c455a69fa765ff8f3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wdobezv_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wdobezv_2020/xml.zip"
+  },
+  "stand_datum": "2024-12-17",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 4 Abs. 2 G v. 17.12.2024 I Nr. 424",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 52-5-4 v. 7.2.2016 I 178 (WDOBezV 2016)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Bestimmung der Bezüge im Sinne der Wehrdisziplinarordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2011-05-23",
+  "bjnr": "BJNR100600011",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2011-05-23",
+  "ingested_at": "2026-04-17T15:25:19Z",
+  "jurabk": "Münz10EuroBek 2011-05-23",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f10d8b931468fd31da709750f48a1c0c5cac0e8c5f063b44a10cacae72a80a5a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2011-05-23/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2011-05-23/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „125 Jahre Automobil“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "KomtrZV",
+  "ausfertigung_datum": "2004-09-24",
+  "bjnr": "BJNR234900004",
+  "eli": null,
+  "gii_slug": "komtrzv",
+  "ingested_at": "2026-04-17T15:23:43Z",
+  "jurabk": "KomtrZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "617e779c1476010dde39110d2e2c835f5e1b1d3cdff7bb50cef155d018087d0c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/komtrzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/komtrzv/xml.zip"
+  },
+  "stand_datum": "2017-05-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 29.5.2017 I 1349",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Geltung der V durch § 2 idF Art. 1 Nr. 2 V v. 1.12.2010 I 1758 über den 31.12.2010 hinaus verlängert",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Zulassung von kommunalen Trägern als Träger der Grundsicherung für Arbeitsuchende",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

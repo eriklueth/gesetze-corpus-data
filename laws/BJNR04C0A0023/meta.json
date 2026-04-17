@@ -1,0 +1,21 @@
+{
+  "amtabk": "ESVGDüV",
+  "ausfertigung_datum": "2023-03-09",
+  "bjnr": "BJNR04C0A0023",
+  "eli": null,
+  "gii_slug": "esvgd_v",
+  "ingested_at": "2026-04-17T15:20:49Z",
+  "jurabk": "ESVGDüV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5203f541ea54e2676b7c4fb86a15eec380fa6cf97ca04f9690a706625fa9535d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/esvgd_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/esvgd_v/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Datenübermittlung zum Zweck der Ausführung der Vollzugsvorkehrungen nach § 12 Absatz 1 des Ernährungssicherstellungs- und -vorsorgegesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

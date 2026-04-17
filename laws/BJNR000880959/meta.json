@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-02-27",
+  "bjnr": "BJNR000880959",
+  "eli": null,
+  "gii_slug": "beamthaftbelbek",
+  "ingested_at": "2026-04-17T15:17:57Z",
+  "jurabk": "BeamtHaftBELBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0e86d5e41834c6250053c49b0766500c693f28ca61f5a508374c3d568dbf3ac6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/beamthaftbelbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/beamthaftbelbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten gegenüber den Angehörigen des Königreichs Belgien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "VDuG",
+  "ausfertigung_datum": "2023-10-08",
+  "bjnr": "BJNR1100B0023",
+  "eli": null,
+  "gii_slug": "vdug",
+  "ingested_at": "2026-04-17T15:30:01Z",
+  "jurabk": "VDuG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f3997c51e264b69335359ef46574d7a282368e0b12f1001bc17a7421949e1dc4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vdug/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vdug/xml.zip"
+  },
+  "stand_datum": "2024-07-16",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 5 G v. 16.7.2024 I Nr. 240",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur gebündelten Durchsetzung von Verbraucherrechten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

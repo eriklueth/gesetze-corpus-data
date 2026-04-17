@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-05-26",
+  "bjnr": "BJNR115100994",
+  "eli": null,
+  "gii_slug": "konstprv",
+  "ingested_at": "2026-04-17T15:23:44Z",
+  "jurabk": "KonstPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2dd383f2e3263765cbe491d449360cc23189c9ca635bdb8b48f75a96a19211f9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/konstprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/konstprv/xml.zip"
+  },
+  "stand_datum": "2020-08-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 G v. 8.8.2020 I 1728",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Konstrukteur/Geprüfte Konstrukteurin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

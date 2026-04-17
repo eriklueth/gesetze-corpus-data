@@ -1,0 +1,26 @@
+{
+  "amtabk": "KlFzKV-BinSch",
+  "ausfertigung_datum": "1995-02-21",
+  "bjnr": "BJNR022600995",
+  "eli": null,
+  "gii_slug": "klfzkv-binsch",
+  "ingested_at": "2026-04-17T15:23:40Z",
+  "jurabk": "KlFzKV-BinSch",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1ee46739d5c0b085fa19c01cb7b44a6dc07ff553b949e148d54b1c6357e7f6dd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/klfzkv-binsch/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/klfzkv-binsch/xml.zip"
+  },
+  "stand_datum": "2025-10-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 V v. 14.10.2025 I Nr. 242",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Kennzeichnung von auf Binnenschiffahrtsstraßen verkehrenden Kleinfahrzeugen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "KInvFG",
+  "ausfertigung_datum": "2015-06-24",
+  "bjnr": "BJNR097500015",
+  "eli": null,
+  "gii_slug": "kinvfg",
+  "ingested_at": "2026-04-17T15:23:36Z",
+  "jurabk": "KInvFG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c9d4895dc520520d8547228445e545eac7a0e158693fa2b4921972fc3c0d2bec"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kinvfg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kinvfg/xml.zip"
+  },
+  "stand_datum": "2022-12-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 4.12.2022 I 2142",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Förderung von Investitionen finanzschwacher Kommunen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-03-15",
+  "bjnr": "BJNR002820996",
+  "eli": null,
+  "gii_slug": "kathilabk_lit",
+  "ingested_at": "2026-04-17T15:23:22Z",
+  "jurabk": "KatHiLAbk LIT",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "eee0957ae15550d1d54a2b08223eca96a7dd196c86890b5f8159aed6d6522ab0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kathilabk_lit/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kathilabk_lit/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Litauen über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

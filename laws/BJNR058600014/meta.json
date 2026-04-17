@@ -1,0 +1,26 @@
+{
+  "amtabk": "BPolHfV",
+  "ausfertigung_datum": "2014-05-22",
+  "bjnr": "BJNR058600014",
+  "eli": null,
+  "gii_slug": "bpolhfv",
+  "ingested_at": "2026-04-17T15:18:53Z",
+  "jurabk": "BPolHfV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b925b7f6d88b30b2ff5ca755065b3d0451399d61df4133019a8145a7a164ff37"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpolhfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpolhfv/xml.zip"
+  },
+  "stand_datum": "2025-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 11.3.2025 I Nr. 80",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Gewährung von Heilfürsorge für Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte in der Bundespolizei und beim Deutschen Bundestag",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

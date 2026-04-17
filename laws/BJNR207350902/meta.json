@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2000-08-24",
+  "bjnr": "BJNR207350902",
+  "eli": null,
+  "gii_slug": "dba_aut_2002",
+  "ingested_at": "2026-04-17T15:19:50Z",
+  "jurabk": "DBA AUT 2002",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e81a2f3d81be38455427f816d56d880ae3f1a74f11bf5f8926e4af0b48616ac7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dba_aut_2002/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dba_aut_2002/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

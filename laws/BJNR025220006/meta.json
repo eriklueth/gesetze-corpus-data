@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-11-27",
+  "bjnr": "BJNR025220006",
+  "eli": null,
+  "gii_slug": "europol_bkprot",
+  "ingested_at": "2026-04-17T15:21:02Z",
+  "jurabk": "EuropolÜbkProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ca271d54cf49916850825867cca7054b9374bf519e730098d489408d1c12c9f6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/europol_bkprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/europol_bkprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll aufgrund von Artikel 43 Absatz 1 des Übereinkommens über die Errichtung eines Europäischen Polizeiamts (Europol-Übereinkommen) zur Änderung dieses Übereinkommens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-11-15",
+  "bjnr": "BJNR187400993",
+  "eli": null,
+  "gii_slug": "bswag",
+  "ingested_at": "2026-04-17T15:19:18Z",
+  "jurabk": "BSWAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5a90d493195b13737d21ca99e73d6bfe30f1d4499e25fec621261071993ec113"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bswag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bswag/xml.zip"
+  },
+  "stand_datum": "2024-07-03",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 3.7.2024 I Nr. 224",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Ausbau der Schienenwege des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

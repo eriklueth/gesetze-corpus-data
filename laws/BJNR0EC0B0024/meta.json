@@ -1,0 +1,21 @@
+{
+  "amtabk": "PostG",
+  "ausfertigung_datum": "2024-07-15",
+  "bjnr": "BJNR0EC0B0024",
+  "eli": null,
+  "gii_slug": "postg_2024",
+  "ingested_at": "2026-04-17T15:26:53Z",
+  "jurabk": "PostG 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9640e32094afd31f3353c4859a0dc1f23bde907a13e89425c7444a03734f7772"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postg_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postg_2024/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Postgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

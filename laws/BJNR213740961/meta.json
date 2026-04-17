@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-08-03",
+  "bjnr": "BJNR213740961",
+  "eli": null,
+  "gii_slug": "streitabk_fra",
+  "ingested_at": "2026-04-17T15:28:57Z",
+  "jurabk": "StreitAbk FRA",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8b23a5b37f88b62fa805b890f81ac367d10c7cf47ff7b6f18fe50d56f5cd3fdb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/streitabk_fra/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/streitabk_fra/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Französischen Republik über die Beilegung von Streitigkeiten bei Direktbeschaffungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

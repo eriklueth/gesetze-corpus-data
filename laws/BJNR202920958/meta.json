@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1955-09-28",
+  "bjnr": "BJNR202920958",
+  "eli": null,
+  "gii_slug": "luftrabk_ndprot",
+  "ingested_at": "2026-04-17T15:24:15Z",
+  "jurabk": "LuftRAbkÄndProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "197dc01f52d3e2e44e129b8a6076a040d32a859cc5bbbec388d67b4cc83a6403"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftrabk_ndprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftrabk_ndprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll zur Änderung des Abkommens zur Vereinheitlichung von Regeln über die Beförderung im internationalen Luftverkehr unterzeichnet in Warschau am 12. Oktober 1929",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

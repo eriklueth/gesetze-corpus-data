@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1957-11-21",
+  "bjnr": "BJNR118300957",
+  "eli": null,
+  "gii_slug": "wzg_35irabek",
+  "ingested_at": "2026-04-17T15:31:00Z",
+  "jurabk": "WZG§35IRABek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ba117eec957ac12d3972b21b8a21df5235a7f1b17933a856758b6e1ceb751918"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_35irabek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_35irabek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

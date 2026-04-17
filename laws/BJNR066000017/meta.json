@@ -1,0 +1,26 @@
+{
+  "amtabk": "ServKflLuftvAusbV",
+  "ausfertigung_datum": "2017-03-29",
+  "bjnr": "BJNR066000017",
+  "eli": null,
+  "gii_slug": "servkflluftvausbv",
+  "ingested_at": "2026-04-17T15:28:05Z",
+  "jurabk": "ServKflLuftvAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8b0bf38a2798fda45edb47a7f18902a2c85290de0b1e12864b7bcebda5ba8806"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/servkflluftvausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/servkflluftvausbv/xml.zip"
+  },
+  "stand_datum": "1998-03-23",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-1-256 v. 23.3.1998 I 611 (LuftServKfAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Servicekaufmann im Luftverkehr und zur Servicekauffrau im Luftverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "SysStabV",
+  "ausfertigung_datum": "2012-07-20",
+  "bjnr": "BJNR163510012",
+  "eli": null,
+  "gii_slug": "sysstabv",
+  "ingested_at": "2026-04-17T15:29:15Z",
+  "jurabk": "SysStabV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "777d9cfb415921f78f00838667d2807d3d8010dc1908313e517d15ce4de4cd5e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sysstabv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sysstabv/xml.zip"
+  },
+  "stand_datum": "2025-12-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 14 G v. 18.12.2025 I Nr. 347",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Die V ist gem. Art. 3 V v. 20.7.2012 I 1635 am 26.7.2012 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Gewährleistung der technischen Sicherheit und Systemstabilität des Elektrizitätsversorgungsnetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-08-19",
+  "bjnr": "BJNR012439969",
+  "eli": null,
+  "gii_slug": "nehelg",
+  "ingested_at": "2026-04-17T15:25:58Z",
+  "jurabk": "NEhelG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ed84bd37a96c45861ca3a1674c8fc2b9942d836c22183c1e28fdfdcf2274feb3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nehelg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nehelg/xml.zip"
+  },
+  "stand_datum": "2011-04-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 12.4.2011 I 615",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die rechtliche Stellung der nichtehelichen Kinder",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

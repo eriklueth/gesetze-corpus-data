@@ -1,0 +1,916 @@
+{
+  "bjnr": "BJNR012210007",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Personenstand, Aufgaben des Standesamts",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Standesbeamte",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Führung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Personenstandsregister",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Führung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Sicherungsregister",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Führung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Fortführung der Personenstandsregister",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Führung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Aktenführung",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Führung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Aufbewahrung",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Führung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Verlust eines Personenstandsregisters",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Führung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Beurkundungsgrundlagen",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 2 Führung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Auskunfts- und Nachweispflicht",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Eheschließung",
+        "Abschnitt 1 Zuständigkeit, Anmeldung und Eheschließung"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Zuständigkeit und Standesamtsvorbehalt",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Eheschließung",
+        "Abschnitt 1 Zuständigkeit, Anmeldung und Eheschließung"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Anmeldung der Eheschließung",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Eheschließung",
+        "Abschnitt 1 Zuständigkeit, Anmeldung und Eheschließung"
+      ],
+      "file": "paragraphs/0012a.md",
+      "heading": "Anmeldung der erneuten Eheschließung nach § 1305 Absatz 2 des Bürgerlichen Gesetzbuchs",
+      "number": "§ 12a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Eheschließung",
+        "Abschnitt 1 Zuständigkeit, Anmeldung und Eheschließung"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Prüfung der Ehevoraussetzungen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Eheschließung",
+        "Abschnitt 1 Zuständigkeit, Anmeldung und Eheschließung"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Eheschließung",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Eheschließung",
+        "Abschnitt 1 Zuständigkeit, Anmeldung und Eheschließung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Eintragung in das Eheregister",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 3 Eheschließung",
+        "Abschnitt 2 Fortführung des Eheregisters"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Fortführung",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 4 Lebenspartnerschaft"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Fortführung des Lebenspartnerschaftsregisters",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 4 Lebenspartnerschaft"
+      ],
+      "file": "paragraphs/0017a.md",
+      "heading": "Umwandlung einer Lebenspartnerschaft in eine Ehe und ihre Beurkundung",
+      "number": "§ 17a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Geburt",
+        "Abschnitt 1 Anzeige und Beurkundung"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Anzeige",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Geburt",
+        "Abschnitt 1 Anzeige und Beurkundung"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Anzeige durch Personen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Geburt",
+        "Abschnitt 1 Anzeige und Beurkundung"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Anzeige durch Einrichtungen",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Geburt",
+        "Abschnitt 1 Anzeige und Beurkundung"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Eintragung in das Geburtenregister",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Geburt",
+        "Abschnitt 2 Besonderheiten"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Fehlende Angaben",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Geburt",
+        "Abschnitt 2 Besonderheiten"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Zwillings- oder Mehrgeburten",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Geburt",
+        "Abschnitt 2 Besonderheiten"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Findelkind",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Geburt",
+        "Abschnitt 2 Besonderheiten"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Person mit ungewissem Personenstand",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Geburt",
+        "Abschnitt 2 Besonderheiten"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Nachträgliche Ermittlung des Personenstandes",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 5 Geburt",
+        "Abschnitt 3 Fortführung des Geburtenregisters"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Feststellung und Änderung des Personenstandes, sonstige Fortführung",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Sterbefall",
+        "Abschnitt 1 Anzeige und Beurkundung"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Anzeige",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Sterbefall",
+        "Abschnitt 1 Anzeige und Beurkundung"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Anzeige durch Personen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Sterbefall",
+        "Abschnitt 1 Anzeige und Beurkundung"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Anzeige durch Einrichtungen und Behörden",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Sterbefall",
+        "Abschnitt 1 Anzeige und Beurkundung"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Eintragung in das Sterberegister",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Sterbefall",
+        "Abschnitt 2 Fortführung des Sterberegisters; Todeserklärungen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Fortführung",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 6 Sterbefall",
+        "Abschnitt 2 Fortführung des Sterberegisters; Todeserklärungen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Todeserklärungen",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 1 Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Eheschließungen im Ausland oder vor ermächtigten Personen im Inland",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 1 Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Begründung von Lebenspartnerschaften im Ausland",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 1 Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Geburten und Sterbefälle im Ausland",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 1 Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Geburten und Sterbefälle auf Seeschiffen",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 1 Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Sterbefälle in ehemaligen Konzentrationslagern",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 1 Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Ehefähigkeitszeugnis",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 1 Beurkundungen mit Auslandsbezug; besondere Beurkundungsfälle"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Zweifel über örtliche Zuständigkeit für Beurkundung",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 2 Familienrechtliche Beurkundungen"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Erklärungen zur Namensführung von Ehegatten",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 2 Familienrechtliche Beurkundungen"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "(weggefallen)",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 2 Familienrechtliche Beurkundungen"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Erklärungen zur Namensangleichung",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 2 Familienrechtliche Beurkundungen"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Erklärungen zur Anerkennung der Vaterschaft und der Mutterschaft",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 2 Familienrechtliche Beurkundungen"
+      ],
+      "file": "paragraphs/0044a.md",
+      "heading": "Nachweise nach einer Anerkennung trotz bestehender Vaterschaft",
+      "number": "§ 44a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 2 Familienrechtliche Beurkundungen"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Erklärungen zur Namensführung des Kindes",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 2 Familienrechtliche Beurkundungen"
+      ],
+      "file": "paragraphs/0045a.md",
+      "heading": "Erklärung zur Reihenfolge der Vornamen",
+      "number": "§ 45a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 7 Besondere Beurkundungen",
+        "Abschnitt 2 Familienrechtliche Beurkundungen"
+      ],
+      "file": "paragraphs/0045b.md",
+      "heading": "Erklärungen nach dem Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag",
+      "number": "§ 45b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
+        "Abschnitt 1 Berichtigungen ohne Mitwirkung des Gerichts"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Änderung einer Anzeige",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
+        "Abschnitt 1 Berichtigungen ohne Mitwirkung des Gerichts"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Berichtigung nach Abschluss der Beurkundung",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
+        "Abschnitt 2 Gerichtliches Verfahren"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Berichtigung auf Anordnung des Gerichts",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
+        "Abschnitt 2 Gerichtliches Verfahren"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Anweisung durch das Gericht",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
+        "Abschnitt 2 Gerichtliches Verfahren"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Sachliche und örtliche Zuständigkeit der Gerichte",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
+        "Abschnitt 2 Gerichtliches Verfahren"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Gerichtliches Verfahren",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
+        "Abschnitt 2 Gerichtliches Verfahren"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Öffentliche Bekanntmachung der Entscheidung",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
+        "Abschnitt 2 Gerichtliches Verfahren"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Wirksamwerden gerichtlicher Entscheidungen; Beschwerde",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 1 Beweiskraft; Personenstandsurkunden"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Beweiskraft der Personenstandsregister und -urkunden",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 1 Beweiskraft; Personenstandsurkunden"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Personenstandsurkunden",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 1 Beweiskraft; Personenstandsurkunden"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Allgemeine Vorschriften für die Ausstellung von Personenstandsurkunden",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 1 Beweiskraft; Personenstandsurkunden"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Eheurkunde",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 1 Beweiskraft; Personenstandsurkunden"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Lebenspartnerschaftsurkunde",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 1 Beweiskraft; Personenstandsurkunden"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Geburtsurkunde",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 1 Beweiskraft; Personenstandsurkunden"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Sterbeurkunde",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 2 Benutzung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Allgemeine Vorschriften für die Benutzung",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 2 Benutzung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Urkundenerteilung, Auskunft, Einsicht",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 2 Benutzung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Benutzung in besonderen Fällen",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 2 Benutzung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Sperrvermerke",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 2 Benutzung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Benutzung durch Behörden und Gerichte",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 2 Benutzung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Benutzung für wissenschaftliche Zwecke",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 2 Benutzung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Zentrale Register",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 2 Benutzung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Datenaustausch zwischen Standesämtern, Behörden und Gerichten",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
+        "Abschnitt 2 Benutzung der Personenstandsregister"
+      ],
+      "file": "paragraphs/0068a.md",
+      "heading": "Rechte der betroffenen Person",
+      "number": "§ 68a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 10 Zwangsmittel, Bußgeldvorschriften, Besonderheiten"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Erzwingung von Anzeigen",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 10 Zwangsmittel, Bußgeldvorschriften, Besonderheiten"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Bußgeldvorschriften",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 10 Zwangsmittel, Bußgeldvorschriften, Besonderheiten"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Personenstandsbücher aus Grenzgebieten",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 10 Zwangsmittel, Bußgeldvorschriften, Besonderheiten"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "(weggefallen)",
+      "number": "§ 72",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 11 Verordnungsermächtigungen"
+      ],
+      "file": "paragraphs/0073.md",
+      "heading": "Ermächtigungen zum Erlass von Rechtsverordnungen",
+      "number": "§ 73",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 11 Verordnungsermächtigungen"
+      ],
+      "file": "paragraphs/0074.md",
+      "heading": "Rechtsverordnungen der Landesregierungen",
+      "number": "§ 74",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 12 Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0075.md",
+      "heading": "Übergangsbeurkundung",
+      "number": "§ 75",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 12 Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0076.md",
+      "heading": "Fortführung, Benutzung und Aufbewahrung der Altregister",
+      "number": "§ 76",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 12 Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0077.md",
+      "heading": "Fortführung, Aufbewahrung und Benutzung der Familienbücher",
+      "number": "§ 77",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 12 Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0078.md",
+      "heading": "Übergangsregelung",
+      "number": "§ 78",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Kapitel 1 Allgemeine Bestimmungen",
+        "Kapitel 12 Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0079.md",
+      "heading": "Altfallregelung",
+      "number": "§ 79",
+      "type": "paragraph"
+    }
+  ]
+}

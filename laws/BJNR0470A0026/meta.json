@@ -1,0 +1,26 @@
+{
+  "amtabk": "6. ErdölFrV",
+  "ausfertigung_datum": "2026-03-17",
+  "bjnr": "BJNR0470A0026",
+  "eli": null,
+  "gii_slug": "erd_lfrv_6",
+  "ingested_at": "2026-04-17T15:16:42Z",
+  "jurabk": "ErdölFrV 6",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8eedb307267f96e845deaa64e4cdb88d05e3c9804a09fc16b3ac15d430119424"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/erd_lfrv_6/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/erd_lfrv_6/xml.zip"
+  },
+  "stand_datum": "2026-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. § 2 dieser V mit Ablauf d. 31.8.2026 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Sechste Verordnung über die Freigabe von Vorräten des Erdölbevorratungsverbandes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

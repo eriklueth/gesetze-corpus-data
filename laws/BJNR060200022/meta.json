@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2022-03-17",
+  "bjnr": "BJNR060200022",
+  "eli": null,
+  "gii_slug": "mfs_prrlbek_2022",
+  "ingested_at": "2026-04-17T15:24:52Z",
+  "jurabk": "MfSÜPrRLBek 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d67a88f6f155d8946cc98e3ae24a81a33d46f532017d38a8213ad65cf18da3eb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mfs_prrlbek_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mfs_prrlbek_2022/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

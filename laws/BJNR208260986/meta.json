@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-10-02",
+  "bjnr": "BJNR208260986",
+  "eli": null,
+  "gii_slug": "uhentsch_bk_haag",
+  "ingested_at": "2026-04-17T15:29:52Z",
+  "jurabk": "UhEntschÜbk Haag",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "20953d299aa2ed40d3ea8364e488eb706b4db408b0d084bd4e8161526a91aa58"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uhentsch_bk_haag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uhentsch_bk_haag/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Anerkennung und Vollstreckung von Unterhaltsentscheidungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

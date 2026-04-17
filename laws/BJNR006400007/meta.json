@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-01-22",
+  "bjnr": "BJNR006400007",
+  "eli": null,
+  "gii_slug": "pf_ndfreigrbek_2007",
+  "ingested_at": "2026-04-17T15:26:37Z",
+  "jurabk": "PfändfreiGrBek 2007",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "263e6e9d1b7533ff74de6cc44838425ca7aa1330183b5a1f33b8239531f8ed14"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pf_ndfreigrbek_2007/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pf_ndfreigrbek_2007/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 850c der Zivilprozessordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

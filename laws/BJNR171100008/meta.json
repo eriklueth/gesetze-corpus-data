@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-08-12",
+  "bjnr": "BJNR171100008",
+  "eli": null,
+  "gii_slug": "bwbdsgowizustv",
+  "ingested_at": "2026-04-17T15:19:33Z",
+  "jurabk": "BwBDSGOWiZustV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a9b2df075e40f9f25d0529a99bcfa38cc0b91b6a40278d11466147bd1702344f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bwbdsgowizustv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bwbdsgowizustv/xml.zip"
+  },
+  "stand_datum": "2015-03-09",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 9.3.2015 I 299",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesdatenschutzgesetz im Bereich der Bundeswehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

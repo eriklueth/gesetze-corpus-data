@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-12-06",
+  "bjnr": "BJNR209490965",
+  "eli": null,
+  "gii_slug": "ata_bk",
+  "ingested_at": "2026-04-17T15:17:17Z",
+  "jurabk": "ATAÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "76731f4ba590c366baa1cb3ea4cd2ecf49216569947547a911480e9902633967"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ata_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ata_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zollübereinkommen über das Carnet A.T.A. für die vorübergehende Einfuhr von Waren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

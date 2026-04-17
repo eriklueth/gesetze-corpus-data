@@ -1,0 +1,26 @@
+{
+  "amtabk": "BMASErnAnO",
+  "ausfertigung_datum": "2025-01-06",
+  "bjnr": "BJNR0050A0025",
+  "eli": null,
+  "gii_slug": "bmasernano_2025",
+  "ingested_at": "2026-04-17T15:18:36Z",
+  "jurabk": "BMASErnAnO 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a37b5bfd8e774aee00e626cb8fe8fd82c9f79b26b6e4b494ff6c7d873ce81f32"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmasernano_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmasernano_2025/xml.zip"
+  },
+  "stand_datum": "2023-01-02",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt AnO 2030-11-48-19 v. 2.1.2023 I Nr. 12 (BMASErnAnO 2023)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Anordnung über die Befugnisse zur Ernennung und Entlassung der Beamtinnen und Beamten im Geschäftsbereich des Bundesministeriums für Arbeit und Soziales",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

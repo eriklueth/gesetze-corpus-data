@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1953-06-11",
+  "bjnr": "BJNR003829953",
+  "eli": null,
+  "gii_slug": "bpr_skldgbvgano",
+  "ingested_at": "2026-04-17T15:19:00Z",
+  "jurabk": "BPräsKldgBVGAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4eda3d9e92fa47e045b6a9469569d7671a678e6743864617a2ae37a111cec27b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bpr_skldgbvgano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bpr_skldgbvgano/xml.zip"
+  },
+  "stand_datum": "2001-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch AnO v. 19.12.2001 I 3777",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundesverwaltungsgericht",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

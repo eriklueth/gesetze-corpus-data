@@ -1,0 +1,21 @@
+{
+  "amtabk": "TAMWHV",
+  "ausfertigung_datum": "2023-03-09",
+  "bjnr": "BJNR0420C0023",
+  "eli": null,
+  "gii_slug": "tamwhv",
+  "ingested_at": "2026-04-17T15:29:17Z",
+  "jurabk": "TAMWHV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "33935de76b2a3b5e9a1a9cc2423c428043a5fcabd36792a3ebbc43477b695eea"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tamwhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tamwhv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Anwendung der Guten Herstellungspraxis bei der Herstellung von Tierarzneimitteln und Wirkstoffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

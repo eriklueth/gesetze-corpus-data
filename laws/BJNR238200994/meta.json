@@ -1,0 +1,26 @@
+{
+  "amtabk": "PTStiftG",
+  "ausfertigung_datum": "1994-09-14",
+  "bjnr": "BJNR238200994",
+  "eli": null,
+  "gii_slug": "ptstiftg",
+  "ingested_at": "2026-04-17T15:27:04Z",
+  "jurabk": "PTStiftG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bfac9f73d3acc442bd771cc094c0bc8eac87a0b62b04f9eb2c07a57f1f6fe58a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ptstiftg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ptstiftg/xml.zip"
+  },
+  "stand_datum": "2021-03-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 14 G v. 30.3.2021 I 402",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Errichtung einer Museumsstiftung Post und Telekommunikation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-07-01",
+  "bjnr": "BJNR164600009",
+  "eli": null,
+  "gii_slug": "bbesg_bes_gbek",
+  "ingested_at": "2026-04-17T15:17:44Z",
+  "jurabk": "BBesG/BesÜGBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "09ef3227906b6ed63739c639fc36b6d9d848ed7ba0f19c6eae6bbf0abf7a0c59"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbesg_bes_gbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbesg_bes_gbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung nach § 77 Absatz 1 und 2 sowie nach § 78 Absatz 1 des Bundesbesoldungsgesetzes und nach § 6 Absatz 2 des Besoldungsüberleitungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

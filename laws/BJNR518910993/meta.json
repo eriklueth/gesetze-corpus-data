@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-09-20",
+  "bjnr": "BJNR518910993",
+  "eli": null,
+  "gii_slug": "luftvodv_130",
+  "ingested_at": "2026-04-17T15:24:25Z",
+  "jurabk": "LuftVODV 130",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4376b276ed551b77fda382684963cdb09f586231842055bc4f52a48d144ae8c7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_130/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_130/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hundertdreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flugplatz Neubrandenburg)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

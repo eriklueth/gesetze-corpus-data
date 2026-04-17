@@ -1,0 +1,30 @@
+{
+  "amtabk": "GenRegV",
+  "ausfertigung_datum": "1889-07-11",
+  "bjnr": "BJNR001500889",
+  "eli": null,
+  "gii_slug": "genregv",
+  "ingested_at": "2026-04-17T15:22:05Z",
+  "jurabk": "GenRegV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e7f2693f7dde13fd2ca2b66f44a3eb9652a7757ac28de15f2a4b12fd8ec368ff"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/genregv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/genregv/xml.zip"
+  },
+  "stand_datum": "2006-10-16",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 16.10.2006 I 2268;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 6 G v. 5.7.2021 I 3338",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Genossenschaftsregister",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

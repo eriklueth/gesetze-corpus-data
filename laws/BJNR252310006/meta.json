@@ -1,0 +1,26 @@
+{
+  "amtabk": "AMWHV",
+  "ausfertigung_datum": "2006-11-03",
+  "bjnr": "BJNR252310006",
+  "eli": null,
+  "gii_slug": "amwhv",
+  "ingested_at": "2026-04-17T15:17:00Z",
+  "jurabk": "AMWHV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "db06ba28265446663fe668107ac560494d57b4c138691231f20bebbd52b39b24"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/amwhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/amwhv/xml.zip"
+  },
+  "stand_datum": "2024-10-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 G v. 23.10.2024 I Nr. 324",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Anwendung der Guten Herstellungspraxis bei der Herstellung von Arzneimitteln und Wirkstoffen und über die Anwendung der Guten fachlichen Praxis bei der Herstellung von Produkten menschlicher Herkunft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

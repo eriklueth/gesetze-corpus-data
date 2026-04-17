@@ -1,0 +1,26 @@
+{
+  "amtabk": "BRüG",
+  "ausfertigung_datum": "1957-07-19",
+  "bjnr": "BJNR007340957",
+  "eli": null,
+  "gii_slug": "br_g",
+  "ingested_at": "2026-04-17T15:19:11Z",
+  "jurabk": "BRüG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7a7ef2ee89041e7e384246ea8402cb5ba16a30ba960464e116400df1e467e817"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/br_g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/br_g/xml.zip"
+  },
+  "stand_datum": "2015-06-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 21 Abs. 1 G v. 29.6.2015 I 1042",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundesgesetz zur Regelung der rückerstattungsrechtlichen Geldverbindlichkeiten des Deutschen Reichs und gleichgestellter Rechtsträger",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

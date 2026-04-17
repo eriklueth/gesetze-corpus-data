@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1887-11-21",
+  "bjnr": "BJNR001690888",
+  "eli": null,
+  "gii_slug": "tkabelvtrag",
+  "ingested_at": "2026-04-17T15:29:30Z",
+  "jurabk": "TKabelVtrAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c02a4e845dab1c2bc0403b86629076c8d891468b603eb25179aeaee8c6f0dcf7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tkabelvtrag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tkabelvtrag/xml.zip"
+  },
+  "stand_datum": "2017-05-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 2 G v. 23.5.2017 I 1226",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Ausführung des internationalen Vertrages zum Schutze der unterseeischen Telegraphenkabel vom 14. März 1884",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

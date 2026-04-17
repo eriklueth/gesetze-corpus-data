@@ -1,0 +1,26 @@
+{
+  "amtabk": "HaWiAusbV",
+  "ausfertigung_datum": "2020-03-19",
+  "bjnr": "BJNR073000020",
+  "eli": null,
+  "gii_slug": "hawiausbv",
+  "ingested_at": "2026-04-17T15:22:34Z",
+  "jurabk": "HaWiAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b980fc2d947d3b1947775835140f4054256ea466f841ac6b2bb6c3c2c2a28c82"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hawiausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hawiausbv/xml.zip"
+  },
+  "stand_datum": "1999-06-30",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-1-273 v. 30.6.1999 I 1495 (HwirtAusbV 1999)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Hauswirtschafter und zur Hauswirtschafterin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-07-20",
+  "bjnr": "DDNR114730990",
+  "eli": null,
+  "gii_slug": "djstiftano",
+  "ingested_at": "2026-04-17T15:19:59Z",
+  "jurabk": "DJStiftAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "363cccd502b97db9d2164bad3fb362a4305c4c1e30561ed8e480b579e9cd9aa2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/djstiftano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/djstiftano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Errichtung der \"Stiftung Demokratische Jugend\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

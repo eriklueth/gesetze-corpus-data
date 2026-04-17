@@ -1,0 +1,26 @@
+{
+  "amtabk": "FlexMstrV",
+  "ausfertigung_datum": "1994-08-01",
+  "bjnr": "BJNR201400994",
+  "eli": null,
+  "gii_slug": "flexmstrv",
+  "ingested_at": "2026-04-17T15:21:29Z",
+  "jurabk": "FlexMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dab941dba9baf2922f2c9769cd4f3641a4b38fc53dcef9a420c50d0c03b41c71"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flexmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flexmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 16 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Flexografen-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

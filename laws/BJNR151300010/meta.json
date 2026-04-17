@@ -1,0 +1,26 @@
+{
+  "amtabk": "GrwV",
+  "ausfertigung_datum": "2010-11-09",
+  "bjnr": "BJNR151300010",
+  "eli": null,
+  "gii_slug": "grwv_2010",
+  "ingested_at": "2026-04-17T15:22:30Z",
+  "jurabk": "GrwV 2010",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "47aecf4edd3ef3ca61c975543b9ca4187812b2171c7156e3d188acdb4857bca6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/grwv_2010/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/grwv_2010/xml.zip"
+  },
+  "stand_datum": "2022-10-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 12.10.2022 I 1802",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Schutz des Grundwassers",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

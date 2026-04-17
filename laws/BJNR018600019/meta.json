@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2019-02-27",
+  "bjnr": "BJNR018600019",
+  "eli": null,
+  "gii_slug": "dbaturnv",
+  "ingested_at": "2026-04-17T15:19:53Z",
+  "jurabk": "DBATURNV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "25818aee352d2a6d12c90f2922971e728637d297eaf5a91002433a3448bb12d4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbaturnv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbaturnv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Umsetzung der Notifizierung zur Anwendung der Anrechnungsmethode bei bestimmten Einkünften nach dem deutsch-türkischen Doppelbesteuerungsabkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

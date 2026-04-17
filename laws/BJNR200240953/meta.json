@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1952-08-26",
+  "bjnr": "BJNR200240953",
+  "eli": null,
+  "gii_slug": "laabk_che",
+  "ingested_at": "2026-04-17T15:24:01Z",
+  "jurabk": "LAAbk CHE",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f229dcf5bad1291e7e40623ecdccb609e4a9a91906997319a3ba977b68574c40"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/laabk_che/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/laabk_che/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zum deutschen Lastenausgleich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

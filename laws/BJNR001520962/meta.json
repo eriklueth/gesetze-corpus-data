@@ -1,0 +1,30 @@
+{
+  "amtabk": "UnbBeschErtV",
+  "ausfertigung_datum": "1962-02-06",
+  "bjnr": "BJNR001520962",
+  "eli": null,
+  "gii_slug": "spielubeschv",
+  "ingested_at": "2026-04-17T15:29:50Z",
+  "jurabk": "SpielUBeschV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "965841d7b30179db8415d71cc9515900364da963ebd426c34a52d7d02e060033"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/spielubeschv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/spielubeschv/xml.zip"
+  },
+  "stand_datum": "1995-04-10",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 10.4.1995 I 510;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 225 V v. 19.6.2020 I 1328",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Verfahren bei der Erteilung von Unbedenklichkeitsbescheinigungen für andere Spiele im Sinne des § 33d Abs. 1 der Gewerbeordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

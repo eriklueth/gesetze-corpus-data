@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2001-12-27",
+  "bjnr": "BJNR426300001",
+  "eli": null,
+  "gii_slug": "wp_gangebv",
+  "ingested_at": "2026-04-17T15:30:45Z",
+  "jurabk": "WpÜGAngebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2479bcb499b1f8fcc06d3074dbdeefd282bb7adb96a9042982e8abd283471759"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wp_gangebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wp_gangebv/xml.zip"
+  },
+  "stand_datum": "2023-12-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 G v. 11.12.2023 I Nr. 354",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über den Inhalt der Angebotsunterlage, die Gegenleistung bei Übernahmeangeboten und Pflichtangeboten und die Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

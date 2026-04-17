@@ -1,0 +1,26 @@
+{
+  "amtabk": "BüchsMstrV",
+  "ausfertigung_datum": "1981-10-01",
+  "bjnr": "BJNR011170981",
+  "eli": null,
+  "gii_slug": "b_chsmstrv",
+  "ingested_at": "2026-04-17T15:19:26Z",
+  "jurabk": "BüchsMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4346244c99ef09705c0920908b3302ef4a30ac04b770d042e3689608fb7beacb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/b_chsmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/b_chsmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 1 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Büchsenmacher-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

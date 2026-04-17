@@ -1,0 +1,26 @@
+{
+  "amtabk": "KVAV",
+  "ausfertigung_datum": "2016-04-18",
+  "bjnr": "BJNR078000016",
+  "eli": null,
+  "gii_slug": "kvav",
+  "ingested_at": "2026-04-17T15:23:58Z",
+  "jurabk": "KVAV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e95db624b1d611d572f3bd78454858f74810a7d1260f560f96a024b3cd8741b6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kvav/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kvav/xml.zip"
+  },
+  "stand_datum": "2018-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 Abs. 9 G v. 19.12.2018 I 2672",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung betreffend die Aufsicht über die Geschäftstätigkeit in der privaten Krankenversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

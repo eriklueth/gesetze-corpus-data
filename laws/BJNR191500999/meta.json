@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-08-26",
+  "bjnr": "BJNR191500999",
+  "eli": null,
+  "gii_slug": "brhsitzbek",
+  "ingested_at": "2026-04-17T15:19:08Z",
+  "jurabk": "BRHSitzBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b5da6196910f8f4eef9d80c0783c4006804430c2408ba97ec0e08bc68b015519"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/brhsitzbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/brhsitzbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung des Organisationserlasses zur Sitzverlagerung des Bundesrechnungshofes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

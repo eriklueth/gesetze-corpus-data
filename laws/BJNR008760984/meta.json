@@ -1,0 +1,34 @@
+{
+  "amtabk": "SeeFischG",
+  "ausfertigung_datum": "1984-07-12",
+  "bjnr": "BJNR008760984",
+  "eli": null,
+  "gii_slug": "seefischg",
+  "ingested_at": "2026-04-17T15:27:58Z",
+  "jurabk": "SeeFischG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0b016fbf2b5640e11ce734b1131adecfac62e008e78166aa3eeb77e16c8a890a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seefischg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seefischg/xml.zip"
+  },
+  "stand_datum": "1998-07-06",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 6.7.1998 I 1791;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 Abs. 31 G v. 20.12.2022 I 2752",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausführbar, da das geänderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren Änderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zur Regelung der Seefischerei und zur Durchführung des Fischereirechts der Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

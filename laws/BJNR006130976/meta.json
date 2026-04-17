@@ -1,0 +1,34 @@
+{
+  "amtabk": "AO",
+  "ausfertigung_datum": "1976-03-16",
+  "bjnr": "BJNR006130976",
+  "eli": null,
+  "gii_slug": "ao_1977",
+  "ingested_at": "2026-04-17T15:17:01Z",
+  "jurabk": "AO 1977",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b3b07bd6b48d72160a2d8ef44a2654cfddede2aaeddd2c8fd26f4def2cdbfac1"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ao_1977/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ao_1977/xml.zip"
+  },
+  "stand_datum": "2025-01-23",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 23.1.2025 I Nr. 24;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 G v. 10.2.2026 I Nr. 39",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Mittelbare Änderung durch Art. 9 Abs. 2 G v. 10.2.2026 I Nr. 39 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    }
+  ],
+  "title": "Abgabenordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

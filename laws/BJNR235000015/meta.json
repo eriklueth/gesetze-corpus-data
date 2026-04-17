@@ -1,0 +1,26 @@
+{
+  "amtabk": "KHSFV",
+  "ausfertigung_datum": "2015-12-17",
+  "bjnr": "BJNR235000015",
+  "eli": null,
+  "gii_slug": "khsfv",
+  "ingested_at": "2026-04-17T15:23:33Z",
+  "jurabk": "KHSFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "663119059fb8b95972af08fd86251626752b99a0c69b6c25f73c62f1a3237311"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/khsfv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/khsfv/xml.zip"
+  },
+  "stand_datum": "2025-12-02",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 26 G v. 2.12.2025 I Nr. 301",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Verwaltung des Strukturfonds im Krankenhausbereich",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

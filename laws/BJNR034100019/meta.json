@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2019-03-18",
+  "bjnr": "BJNR034100019",
+  "eli": null,
+  "gii_slug": "finausglg2019dv_1",
+  "ingested_at": "2026-04-17T15:21:21Z",
+  "jurabk": "FinAusglG2019DV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "847271a20cd540432a94806f91ccda55b86313ed4affdb0ad2e90b13213e013f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/finausglg2019dv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/finausglg2019dv_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2019",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

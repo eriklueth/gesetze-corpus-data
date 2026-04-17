@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-04-30",
+  "bjnr": "BJNR508700997",
+  "eli": null,
+  "gii_slug": "luftvodv_181",
+  "ingested_at": "2026-04-17T15:24:23Z",
+  "jurabk": "LuftVODV 181",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1c1d4a13cfb1fd2be4dc31a99233b2ae0db6a855293eb3e26b7f230b3bf1555e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_181/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_181/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hunderteinundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Karlsruhe/Baden-Baden)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "HBankDVDV",
+  "ausfertigung_datum": "2017-08-30",
+  "bjnr": "BJNR333100017",
+  "eli": null,
+  "gii_slug": "hbankdvdv",
+  "ingested_at": "2026-04-17T15:22:34Z",
+  "jurabk": "HBankDVDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d4cd7675c21d2909f30071ebf84819c2ba3e5a924e9f3504db89b77baa12ae1d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hbankdvdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hbankdvdv/xml.zip"
+  },
+  "stand_datum": "2025-08-12",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 V vom 12.8.2025 I Nr. 199",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2030-8-3-3 v. 28.8.2012 I 1858 (HBankDAPrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den höheren Bankdienst der Deutschen Bundesbank",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

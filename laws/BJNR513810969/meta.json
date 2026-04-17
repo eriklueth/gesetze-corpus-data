@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-07-07",
+  "bjnr": "BJNR513810969",
+  "eli": null,
+  "gii_slug": "hfreqbetrgen",
+  "ingested_at": "2026-04-17T15:22:40Z",
+  "jurabk": "HfreqBetrGen",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0f3f1f5e20082f958f941bf7090ecb590a7bb5061a3827e2abaca56fbdeafea7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hfreqbetrgen/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hfreqbetrgen/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Allgemeine Genehmigung nach dem Gesetz über den Betrieb von Hochfrequenzgeräten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

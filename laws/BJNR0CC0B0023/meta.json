@@ -1,0 +1,21 @@
+{
+  "amtabk": "GAPFinISchG",
+  "ausfertigung_datum": "2023-07-26",
+  "bjnr": "BJNR0CC0B0023",
+  "eli": null,
+  "gii_slug": "gapfinischg",
+  "ingested_at": "2026-04-17T15:21:51Z",
+  "jurabk": "GAPFinISchG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "663cd3a8405f82c169378b682b7749d5302cea553a09d7ed7a19b9475a5a22d4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gapfinischg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gapfinischg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Regelung einzelner dem Schutz der finanziellen Interessen der Union dienender Bestimmungen im Rahmen der Gemeinsamen Agrarpolitik",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

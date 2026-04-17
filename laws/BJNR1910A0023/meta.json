@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-12-11",
+  "bjnr": "BJNR1910A0023",
+  "eli": null,
+  "gii_slug": "m_nz25eurobek_2023-12-11",
+  "ingested_at": "2026-04-17T15:25:34Z",
+  "jurabk": "Münz25EuroBek 2023-12-11",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2e6c066f0adf3d5f5ae0484ff9fb22000ae21c440aadb00c3ecde8f4efe2ea3a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz25eurobek_2023-12-11/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz25eurobek_2023-12-11/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Erzgebirgischer Schwibbogen“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

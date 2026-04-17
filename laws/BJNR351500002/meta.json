@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-08-21",
+  "bjnr": "BJNR351500002",
+  "eli": null,
+  "gii_slug": "bminuwidano_2002",
+  "ingested_at": "2026-04-17T15:18:41Z",
+  "jurabk": "BMinUWidAnO 2002",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "046309ec1cc70c3db426dc0c181d1e54c1892bd98eddfd9dfe632135b90ea80d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bminuwidano_2002/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bminuwidano_2002/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit in Angelegenheiten nach dem Bundesumzugskostengesetz und den hierzu ergangenen Verordnungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

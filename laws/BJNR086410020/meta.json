@@ -1,0 +1,21 @@
+{
+  "amtabk": "MinRohSorgG",
+  "ausfertigung_datum": "2020-04-29",
+  "bjnr": "BJNR086410020",
+  "eli": null,
+  "gii_slug": "minrohsorgg",
+  "ingested_at": "2026-04-17T15:24:52Z",
+  "jurabk": "MinRohSorgG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7f0905be310ae24d8fc8c0e0fff0271c54ed63f9a38b4d46d92ec214d47a775d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/minrohsorgg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/minrohsorgg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Durchführung der Verordnung (EU) 2017/821 des Europäischen Parlaments und des Rates vom 17. Mai 2017 zur Festlegung von Pflichten zur Erfüllung der Sorgfaltspflichten in der Lieferkette für Unionseinführer von Zinn, Tantal, Wolfram, deren Erzen und Gold aus Konflikt- und Hochrisikogebieten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

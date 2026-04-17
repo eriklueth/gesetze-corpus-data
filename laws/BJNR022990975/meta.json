@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-08-12",
+  "bjnr": "BJNR022990975",
+  "eli": null,
+  "gii_slug": "bmlernano_1975",
+  "ingested_at": "2026-04-17T15:18:43Z",
+  "jurabk": "BMLErnAnO 1975",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "71ff2a54bdbf8c427baa5d15543e7d5c52dabf84d1e0cfaaf19fe68b60868d47"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmlernano_1975/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmlernano_1975/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

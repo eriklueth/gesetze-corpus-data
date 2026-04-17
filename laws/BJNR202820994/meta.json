@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-06-24",
+  "bjnr": "BJNR202820994",
+  "eli": null,
+  "gii_slug": "eubeitrvtr",
+  "ingested_at": "2026-04-17T15:20:53Z",
+  "jurabk": "EUBeitrVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b5680f21c978aa01a2a62fb0aaaef21fc5f73c0177d33bc45e46eb8af854946a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eubeitrvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eubeitrvtr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen dem Königreich Belgien, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Griechischen Republik, dem Königreich Spanien, der Französischen Republik, Irland, der Italienischen Republik, dem Großherzogtum Luxemburg, dem Königreich der Niederlande, der Portugiesischen Republik, dem Vereinigten Königreich Großbritannien und Nordirland (Mitgliedstaaten der Europäischen Union) und dem Königreich Norwegen, der Republik Österreich, der Republik Finnland, dem Königreich Schweden über den Beitritt des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden zur Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

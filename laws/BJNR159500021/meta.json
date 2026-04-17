@@ -1,0 +1,21 @@
+{
+  "amtabk": "BFStrSonGebV",
+  "ausfertigung_datum": "2021-05-31",
+  "bjnr": "BJNR159500021",
+  "eli": null,
+  "gii_slug": "bfstrsongebv",
+  "ingested_at": "2026-04-17T15:18:17Z",
+  "jurabk": "BFStrSonGebV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "054f3c0e4ea2014907f2fbe15c133ac1fab984c1ba05eb70b8f186f9e9998076"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bfstrsongebv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bfstrsongebv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Erhebung von Gebühren für Sondernutzungen der Bundesfernstraßen in Verwaltung des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

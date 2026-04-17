@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-06-30",
+  "bjnr": "BJNR013220990",
+  "eli": null,
+  "gii_slug": "defbek",
+  "ingested_at": "2026-04-17T15:19:54Z",
+  "jurabk": "DEFBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9974684960d1ddaf56222d42396260161fb34f76a46e4560e0832ebf1cc03f96"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/defbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/defbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen des Fonds \"Deutsche Einheit\" in das Schuldbuch des Fonds \"Deutsche Einheit\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

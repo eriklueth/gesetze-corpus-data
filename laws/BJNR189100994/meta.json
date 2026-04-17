@@ -1,0 +1,26 @@
+{
+  "amtabk": "ALG",
+  "ausfertigung_datum": "1994-07-29",
+  "bjnr": "BJNR189100994",
+  "eli": null,
+  "gii_slug": "alg",
+  "ingested_at": "2026-04-17T15:16:58Z",
+  "jurabk": "ALG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c59ae92cc7e88f8af6f2bcb6208321866167f22c45e4fb3d96f2d36cad526938"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/alg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/alg/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 19 Abs. 8 G v. 22.12.2025 I Nr. 369",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Alterssicherung der Landwirte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

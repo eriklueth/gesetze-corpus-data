@@ -1,0 +1,26 @@
+{
+  "amtabk": "FleiMstrV",
+  "ausfertigung_datum": "2012-10-04",
+  "bjnr": "BJNR210900012",
+  "eli": null,
+  "gii_slug": "fleimstrv_2012",
+  "ingested_at": "2026-04-17T15:21:29Z",
+  "jurabk": "FleiMstrV 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7ce1e08e897667e27ecf59a1833e863d40cc6aab6c1d73db640635de9685926a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fleimstrv_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fleimstrv_2012/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 75 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Fleischer-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

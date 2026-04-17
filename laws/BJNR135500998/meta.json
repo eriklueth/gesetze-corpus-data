@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-06-16",
+  "bjnr": "BJNR135500998",
+  "eli": null,
+  "gii_slug": "fischrdv_1998",
+  "ingested_at": "2026-04-17T15:21:25Z",
+  "jurabk": "FischRDV 1998",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ba665a187b22a9ffdc1ee5a2dfef82f28bc37e69be5cf9710b74dffb571fbea9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fischrdv_1998/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fischrdv_1998/xml.zip"
+  },
+  "stand_datum": "2024-04-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 23.4.2024 I Nr. 136",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchsetzung des Fischereirechts der Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

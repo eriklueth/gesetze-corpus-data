@@ -1,0 +1,842 @@
+{
+  "bjnr": "BJNR050600020",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Vorbereitungsdienst",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines"
+      ],
+      "file": "paragraphs/0001a.md",
+      "heading": "Allgemeine Voraussetzung für die Zulässigkeit von Abweichungen aus Anlass der COVID-19-Pandemie",
+      "number": "§ 1a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Ziele des Vorbereitungsdienstes",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Einstellungsbehörde und Auswahlverfahren",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Auswahlkommission",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Bestandteile des Auswahlverfahrens",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Festlegungen des Bundespolizeipräsidiums",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Schriftlicher Teil",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Bewertung und Bestehen des schriftlichen Teils",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Prüfung der körperlichen Leistungsfähigkeit und Bestehen",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Zulassung zum mündlichen Teil",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Mündlicher Teil",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Bewertung und Bestehen des mündlichen Teils",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Gesamtergebnis des Auswahlverfahrens und Rangfolge der Bewerberinnen und Bewerber",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Ordnungsverstoß",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 2 Auswahlverfahren und Einstellung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Einstellung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 1 Allgemeines"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Bewertung",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 1 Organisatorisches und Ausbildungspersonal"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Dienstaufsicht, Organisation und Ausbildungsstellen",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 1 Organisatorisches und Ausbildungspersonal"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Ausbildungsleiterin oder Ausbildungsleiter",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 1 Organisatorisches und Ausbildungspersonal"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Ausbilderinnen und Ausbilder",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 1 Organisatorisches und Ausbildungspersonal"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Erholungsurlaub",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 2 Dauer, Inhalt und Leistungstests"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Dauer und Gliederung",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 2 Dauer, Inhalt und Leistungstests"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Grundausbildung",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 2 Dauer, Inhalt und Leistungstests"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Weitere Ausbildung",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 2 Dauer, Inhalt und Leistungstests"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Laufbahnlehrgang",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 2 Dauer, Inhalt und Leistungstests"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Durchführung der Leistungstests",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 2 Dauer, Inhalt und Leistungstests"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Bewertung der Leistungstests",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 2 Ausbildung",
+        "Unterabschnitt 2 Dauer, Inhalt und Leistungstests"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Fachrangpunktzahlen, Fachnoten und Ausbildungsabschnittsrangpunktzahlen",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Zeitpunkt",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Prüfungsamt",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Einrichtung der Prüfungskommission",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Mitglieder der Prüfungskommission",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Entscheidungen der Prüfungskommission",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Bestandteile der Zwischenprüfung",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Gegenstand und Durchführung der schriftlichen Prüfung",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Bewertung der Klausuren",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Bestehen der schriftlichen Prüfung",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Zulassung zur mündlichen und praktischen Prüfung; Folge der Nichtzulassung",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Gegenstand, Durchführung und Protokoll der praktischen Prüfung",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Bewertung und Rangpunktzahl der praktischen Prüfung",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Bestehen der praktischen Prüfung",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Gegenstand, Durchführung und Protokoll der mündlichen Prüfung",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Bewertung und Rangpunktzahl der mündlichen Prüfung",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Anwesenheit weiterer Personen bei der mündlichen Prüfung",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Bestehen der mündlichen Prüfung",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Bestehen, Rangpunktzahl und Note der Zwischenprüfung",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Wiederholung der Zwischenprüfung",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Zwischenprüfungszeugnis",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 1 Zwischenprüfung"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Bescheid über die nichtbestandene Zwischenprüfung",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Zeitpunkt",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Prüfungsamt",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Einrichtung der Prüfungskommission",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Mitglieder der Prüfungskommission",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Entscheidungen der Prüfungskommission",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Bestandteile der Laufbahnprüfung",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Gegenstand und Durchführung der schriftlichen Prüfung",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Bewertung der Klausuren",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Bestehen der schriftlichen Prüfung",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Zulassung zur mündlichen Prüfung; Folge der Nichtzulassung",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Gegenstand, Durchführung und Protokoll der mündlichen Prüfung",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Bewertung und Rangpunktzahl der mündlichen Prüfung",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Anwesenheit weiterer Personen bei der mündlichen Prüfung",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Bestehen der mündlichen Prüfung",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Bestehen und Rangpunktzahl der Laufbahnprüfung und Abschlussnote",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Wiederholung der Laufbahnprüfung",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Abschlusszeugnis",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 2 Laufbahnprüfung"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Bescheid über die nichtbestandene Laufbahnprüfung",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 3 Sonstiges"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Fernbleiben und Rücktritt",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 3 Sonstiges"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Ordnungsverstoß",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 3 Sonstiges"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Prüfungsakten und Einsichtnahme",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 3 Ausbildung und Prüfungen",
+        "Abschnitt 3 Prüfungen",
+        "Unterabschnitt 3 Sonstiges"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Zuständigkeit für die Entscheidung über Widersprüche",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Übergangsvorschriften",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Teil 1 Allgemeines",
+        "Teil 4 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "Inkrafttreten, Außerkrafttreten",
+      "number": "§ 72",
+      "type": "paragraph"
+    }
+  ]
+}

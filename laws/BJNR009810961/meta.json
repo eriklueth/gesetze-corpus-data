@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-07-13",
+  "bjnr": "BJNR009810961",
+  "eli": null,
+  "gii_slug": "st_ndg_1961",
+  "ingested_at": "2026-04-17T15:28:47Z",
+  "jurabk": "StÄndG 1961",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a0cb60b369a3ba7d66d7ca13fd39ecddb7581a686cffbba9a24d495c02268190"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/st_ndg_1961/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/st_ndg_1961/xml.zip"
+  },
+  "stand_datum": "1965-09-09",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. VI G v. 9.9.1965 I 1254",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Änderung des Einkommensteuergesetzes, des Körperschaftsteuergesetzes, des Gewerbesteuergesetzes, des Bewertungsgesetzes, des Vermögensteuergesetzes, des Steuersäumnisgesetzes, der Reichsabgabenordnung, des Steueranpassungsgesetzes, des Gesetzes zur Förderung der Wirtschaft von Berlin (West) und andere Gesetze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1957-03-25",
+  "bjnr": "BJNR207660957",
+  "eli": null,
+  "gii_slug": "ewgvtr",
+  "ingested_at": "2026-04-17T15:21:10Z",
+  "jurabk": "EWGVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dfc3373b785f441c100acdb231aee86868eb1cdf918f33144f8c04894ae27b56"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ewgvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ewgvtr/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zur Gründung der Europäischen Wirtschaftsgemeinschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

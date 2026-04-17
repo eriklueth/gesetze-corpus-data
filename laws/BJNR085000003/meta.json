@@ -1,0 +1,26 @@
+{
+  "amtabk": "KIV",
+  "ausfertigung_datum": "2003-06-05",
+  "bjnr": "BJNR085000003",
+  "eli": null,
+  "gii_slug": "kiv",
+  "ingested_at": "2026-04-17T15:23:37Z",
+  "jurabk": "KIV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c71ccbc7183818070086deadfe906accc76a95042992be59d378fef656c2375d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kiv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kiv/xml.zip"
+  },
+  "stand_datum": "2005-06-21",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 70 G v. 21.6.2005 I 1818",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Abgabe von kaliumiodidhaltigen Arzneimitteln zur Iodblockade der Schilddrüse bei radiologischen Ereignissen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

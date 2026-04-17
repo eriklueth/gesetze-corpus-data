@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2012-03-08",
+  "bjnr": "BJNR049100012",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2012-03-08",
+  "ingested_at": "2026-04-17T15:25:22Z",
+  "jurabk": "Münz10EuroBek 2012-03-08",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d1fd31a2d4d1f4254628ed5ddbe8045c89a307d3ca81055d7b502f290d944da9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2012-03-08/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2012-03-08/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „200 Jahre Grimms Märchen“)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

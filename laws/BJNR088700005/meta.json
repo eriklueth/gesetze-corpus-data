@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-03-22",
+  "bjnr": "BJNR088700005",
+  "eli": null,
+  "gii_slug": "servicefahrerausbv",
+  "ingested_at": "2026-04-17T15:28:05Z",
+  "jurabk": "ServicefahrerAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "149c1e28e854e268a706cc71ad1f489e4c11f1f787db19f8024166dd00c36272"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/servicefahrerausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/servicefahrerausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Servicefahrer/zur Servicefahrerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

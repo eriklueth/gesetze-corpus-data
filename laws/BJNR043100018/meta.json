@@ -1,0 +1,26 @@
+{
+  "amtabk": "FlGlasTechAusbV",
+  "ausfertigung_datum": "2018-04-03",
+  "bjnr": "BJNR043100018",
+  "eli": null,
+  "gii_slug": "flglastechausbv",
+  "ingested_at": "2026-04-17T15:21:29Z",
+  "jurabk": "FlGlasTechAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b157aba310effeca38cb3515b236c875e8c6b12e236bb7b1ee89dbb6f3d0b189"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/flglastechausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/flglastechausbv/xml.zip"
+  },
+  "stand_datum": "1991-01-07",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-1-161 v. 7.1.1991 I 38 (FlGlasMAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Flachglastechnologen und zur Flachglastechnologin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

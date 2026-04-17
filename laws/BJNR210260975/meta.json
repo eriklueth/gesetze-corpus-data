@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1971-12-17",
+  "bjnr": "BJNR210260975",
+  "eli": null,
+  "gii_slug": "seeathaft_bk",
+  "ingested_at": "2026-04-17T15:27:57Z",
+  "jurabk": "SeeAtHaftÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "72f1f38ff080286f33c62ab73a899bec5d4cde07bac44c4197b795abb2b8672f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seeathaft_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seeathaft_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die zivilrechtliche Haftung bei der Beförderung von Kernmaterial auf See",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

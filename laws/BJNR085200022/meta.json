@@ -1,0 +1,21 @@
+{
+  "amtabk": "SchwarmfdPV",
+  "ausfertigung_datum": "2022-05-17",
+  "bjnr": "BJNR085200022",
+  "eli": null,
+  "gii_slug": "schwarmfdpv",
+  "ingested_at": "2026-04-17T15:27:53Z",
+  "jurabk": "SchwarmfdPV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d05be731b705aa430abb1c5d976f1e2ab8672be74613ccb641ccd76e4bb4ddb0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/schwarmfdpv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/schwarmfdpv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Ausgestaltung der Prüfungen nach § 32f des Wertpapierhandelsgesetzes bei Schwarmfinanzierungsdienstleistern nach der Verordnung (EU) 2020/1503",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1981-12-01",
+  "bjnr": "BJNR205970984",
+  "eli": null,
+  "gii_slug": "inmarsatvorrprot",
+  "ingested_at": "2026-04-17T15:22:59Z",
+  "jurabk": "INMARSATVorRProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "98b9fb2c2455c0b6b0be635f85d9362760eaed04f1fab6213d617eff41654e0f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/inmarsatvorrprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/inmarsatvorrprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll über die Vorrechte und Immunitäten der Internationalen Seefunksatelliten-Organisation (INMARSAT)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

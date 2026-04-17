@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1950-09-08",
+  "bjnr": "BJNR006780950",
+  "eli": null,
+  "gii_slug": "wivwauflv",
+  "ingested_at": "2026-04-17T15:30:35Z",
+  "jurabk": "WiVwAuflV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "029369e7a5ee58cc68677df063947a07cf7cbcc2195064c72e3c2cdb2ec2359b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wivwauflv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wivwauflv/xml.zip"
+  },
+  "stand_datum": "2001-10-29",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 303 V v. 29.10.2001 I 2785",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

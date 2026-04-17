@@ -1,0 +1,21 @@
+{
+  "amtabk": "MighEV",
+  "ausfertigung_datum": "2010-09-29",
+  "bjnr": "BJNR137200010",
+  "eli": null,
+  "gii_slug": "mighev",
+  "ingested_at": "2026-04-17T15:24:50Z",
+  "jurabk": "MighEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "64b44021a5c6462e32d90fc09db68579b823a292bc7ffb2acd0bb570cb1bb10a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mighev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mighev/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Erhebung der Merkmale des Migrationshintergrundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

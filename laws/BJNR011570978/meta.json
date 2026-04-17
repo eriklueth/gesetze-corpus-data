@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1978-08-01",
+  "bjnr": "BJNR011570978",
+  "eli": null,
+  "gii_slug": "erd_lbevvbdstirv",
+  "ingested_at": "2026-04-17T15:20:44Z",
+  "jurabk": "ErdölBevVbdStiRV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c840d3b2a502e56259c2efc5f414e2d542a1aa368bf3626a5bb2f2e12fbf29b6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/erd_lbevvbdstirv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/erd_lbevvbdstirv/xml.zip"
+  },
+  "stand_datum": "2012-10-18",
+  "standangabe": [
+    {
+      "kommentar": "geändert durch Art. 1 V v. 18.10.2012 I 2172",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Stimmrecht der Mitglieder des Erdölbevorratungsverbandes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

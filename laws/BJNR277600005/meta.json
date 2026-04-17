@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-09-07",
+  "bjnr": "BJNR277600005",
+  "eli": null,
+  "gii_slug": "stberfangeignv",
+  "ingested_at": "2026-04-17T15:28:52Z",
+  "jurabk": "StBerFAngEignV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "422074a33f94e6cd490a649d5d30c618e90d50b9fb605e0f819cece1e7a04c41"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stberfangeignv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stberfangeignv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die fachliche Eignung für die Berufsausbildung der Fachangestellten im Bereich der Steuerberatung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

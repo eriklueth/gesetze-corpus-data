@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1896-08-18",
+  "bjnr": "BJNR006049896",
+  "eli": null,
+  "gii_slug": "bgbeg",
+  "ingested_at": "2026-04-17T15:18:19Z",
+  "jurabk": "BGBEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "068a1c9a177fb97cce9e2b932eb9332c0ece9e30fa112bf525198ed2440c802a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgbeg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgbeg/xml.zip"
+  },
+  "stand_datum": "1994-09-21",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 21.9.1994 I 2494; 1997, 1061;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 3 G v. 3.2.2026 I Nr. 28",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Einführungsgesetz zum Bürgerlichen Gesetzbuche",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

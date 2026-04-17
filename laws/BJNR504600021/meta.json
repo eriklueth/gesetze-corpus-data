@@ -1,0 +1,21 @@
+{
+  "amtabk": "MWV",
+  "ausfertigung_datum": "2021-12-01",
+  "bjnr": "BJNR504600021",
+  "eli": null,
+  "gii_slug": "mfwv",
+  "ingested_at": "2026-04-17T15:25:52Z",
+  "jurabk": "MfWV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "15365f330a9ba4091d2a2d6b3534a3e8f025de9707bf131b208b503f37a77e0b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/mfwv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/mfwv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung für die Aussendung öffentlicher Warnungen in Mobilfunknetzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

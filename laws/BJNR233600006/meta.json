@@ -1,0 +1,26 @@
+{
+  "amtabk": "BFöV",
+  "ausfertigung_datum": "2006-10-23",
+  "bjnr": "BJNR233600006",
+  "eli": null,
+  "gii_slug": "bf_v",
+  "ingested_at": "2026-04-17T15:18:16Z",
+  "jurabk": "BföV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "90023e933a04188191b1f3c68707b58002d76810f610d6bb27bf31770a661532"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bf_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bf_v/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 10 G v. 22.12.2025 I Nr. 370",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung der Berufsförderung von Soldatinnen und Soldaten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

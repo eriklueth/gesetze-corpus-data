@@ -1,0 +1,21 @@
+{
+  "amtabk": "RBSFV 2026",
+  "ausfertigung_datum": "2025-10-17",
+  "bjnr": "BJNR0F30B0025",
+  "eli": null,
+  "gii_slug": "rbsfv_2026",
+  "ingested_at": "2026-04-17T15:27:10Z",
+  "jurabk": "RBSFV 2026",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "82a7b4142938268e2d3bed571f99a7c2b0e4d58806b841247c98bada3b6adee2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rbsfv_2026/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rbsfv_2026/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Bestimmung der für die Fortschreibung der Regelbedarfsstufen nach § 28a und für die Fortschreibung des Teilbetrags nach § 34 Absatz 3a Satz 1 des Zwölften Buches Sozialgesetzbuch maßgeblichen Prozentsätze sowie zur Ergänzung der Anlage zu §§ 28 und 34 des Zwölften Buches Sozialgesetzbuch für das Jahr 2026",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

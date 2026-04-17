@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-08-29",
+  "bjnr": "BJNR090220008",
+  "eli": null,
+  "gii_slug": "athaftprotparis2004g",
+  "ingested_at": "2026-04-17T15:17:11Z",
+  "jurabk": "AtHaftProtParis2004G",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "04b0f65a6fd903afd8fc6b83d24a4989d3bf50c2b4b6f9f933971b5041f92e2c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/athaftprotparis2004g/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/athaftprotparis2004g/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu den Protokollen vom 12. Februar 2004 zur Änderung des Übereinkommens vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung des Zusatzprotokolls vom 28. Januar 1964 und des Protokolls vom 16. November 1982 und zur Änderung des Zusatzübereinkommens vom 31. Januar 1963 zum Pariser Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie in der Fassung des Zusatzprotokolls vom 28. Januar 1964 und des Protokolls vom 16. November 1982",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

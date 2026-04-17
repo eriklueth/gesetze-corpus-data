@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1959-07-11",
+  "bjnr": "BJNR220790960",
+  "eli": null,
+  "gii_slug": "vtr_lux",
+  "ingested_at": "2026-04-17T15:30:20Z",
+  "jurabk": "Vtr LUX",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "abdbcf427c39e9f68f81d97dcfc1df8a7d4bb01f0f63abd55d6e9819adf17bc8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vtr_lux/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vtr_lux/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

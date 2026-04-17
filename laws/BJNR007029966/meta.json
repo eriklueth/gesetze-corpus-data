@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1966-12-23",
+  "bjnr": "BJNR007029966",
+  "eli": null,
+  "gii_slug": "st_ndg_1966",
+  "ingested_at": "2026-04-17T15:28:47Z",
+  "jurabk": "StÄndG 1966",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a3977e7864d00573e12b19e22720eb075526dda0b158e1bd78df92e101130bbf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/st_ndg_1966/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/st_ndg_1966/xml.zip"
+  },
+  "stand_datum": "1971-03-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 17 Satz 2 G v. 18.3.1971 I 239",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweites Gesetz zur Überleitung der Haushaltswirtschaft des Bundes in eine mehrjährige Finanzplanung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

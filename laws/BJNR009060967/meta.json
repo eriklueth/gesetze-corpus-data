@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1967-08-11",
+  "bjnr": "BJNR009060967",
+  "eli": null,
+  "gii_slug": "bewg_55abs8dv",
+  "ingested_at": "2026-04-17T15:18:15Z",
+  "jurabk": "BewG§55Abs8DV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bb9e0386fb6903b4570a10f38030abd0170dd40759645adeac72312010108d2b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bewg_55abs8dv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bewg_55abs8dv/xml.zip"
+  },
+  "stand_datum": "2000-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 18 Nr. 2 G v. 19.12.2000 I 1790",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des § 55 Abs. 8 des Bewertungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

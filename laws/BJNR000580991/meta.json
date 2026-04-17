@@ -1,0 +1,26 @@
+{
+  "amtabk": "PlanZV",
+  "ausfertigung_datum": "1990-12-18",
+  "bjnr": "BJNR000580991",
+  "eli": null,
+  "gii_slug": "planzv_90",
+  "ingested_at": "2026-04-17T15:26:50Z",
+  "jurabk": "PlanzV 90",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "56bed31396a0f6d1b80e2e4167688f7cf97b6b1a1e4ceb129b8f3912d34f6dcd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/planzv_90/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/planzv_90/xml.zip"
+  },
+  "stand_datum": "2025-08-12",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert Art. 6 G v. 12.8.2025 I Nr. 189",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Ausarbeitung der Bauleitpläne und die Darstellung des Planinhalts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

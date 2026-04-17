@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1897-03-24",
+  "bjnr": "BJNR001350897",
+  "eli": null,
+  "gii_slug": "zvgeg",
+  "ingested_at": "2026-04-17T15:31:30Z",
+  "jurabk": "ZVGEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6f6bdc9cf6c00265e753b6b765cedd1779b6553c28759fb0373679ff6e704057"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zvgeg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zvgeg/xml.zip"
+  },
+  "stand_datum": "2024-10-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 G v. 24.10.2024 I Nr. 329",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Einführungsgesetz zu dem Gesetz über die Zwangsversteigerung und die Zwangsverwaltung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BKMZustAnO",
+  "ausfertigung_datum": "2022-01-05",
+  "bjnr": "BJNR002600022",
+  "eli": null,
+  "gii_slug": "bkmzustano",
+  "ingested_at": "2026-04-17T15:18:28Z",
+  "jurabk": "BKMZustAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "21ca522c3a9f0c8970968eae0e53487c5b506cf6c905712797de364dac6f1959"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bkmzustano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bkmzustano/xml.zip"
+  },
+  "stand_datum": "2005-02-18",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt AnO 2030-11-48-1 v. 18.2.2005 I 453 (BKMErnAnO), AnO 2030-14-164 v. 15.3.2009 I 598 (BKMWidAnO 2009) u. AnO 2031-4-22 v. 18.2.2005 I 454 (BKMBDGAnO 2005)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Anordnung zur Übertragung beamtenrechtlicher Zuständigkeiten der Beauftragten der Bundesregierung für Kultur und Medien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1933-06-21",
+  "bjnr": "BJNR003990933",
+  "eli": null,
+  "gii_slug": "wg",
+  "ingested_at": "2026-04-17T15:30:31Z",
+  "jurabk": "WG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1a776bad153d4bca54be98b4e0c38be59ebd37f5d0171824c475a2bf6a7a0507"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 201 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Wechselgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

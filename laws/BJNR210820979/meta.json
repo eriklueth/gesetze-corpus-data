@@ -1,0 +1,21 @@
+{
+  "amtabk": "INMARSAT",
+  "ausfertigung_datum": "1976-09-03",
+  "bjnr": "BJNR210820979",
+  "eli": null,
+  "gii_slug": "inmarsat_bk",
+  "ingested_at": "2026-04-17T15:22:59Z",
+  "jurabk": "INMARSATÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "359c5c102cd0d13db172629da17962844ff452e74b1e5886a8eee73935853755"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/inmarsat_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/inmarsat_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen über die Internationale Seefunksatelliten-Organisation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

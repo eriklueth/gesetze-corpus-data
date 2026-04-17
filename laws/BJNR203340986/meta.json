@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1984-07-27",
+  "bjnr": "BJNR203340986",
+  "eli": null,
+  "gii_slug": "postanwabk_1984",
+  "ingested_at": "2026-04-17T15:26:52Z",
+  "jurabk": "PostAnwAbk 1984",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "58c49fb06092da92ad62e5ca3abfd1d11d221469be885913d81f73dad0d065a6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/postanwabk_1984/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/postanwabk_1984/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Postanweisungs- und Postreisescheckabkommen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

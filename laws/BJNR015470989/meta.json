@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-07-25",
+  "bjnr": "BJNR015470989",
+  "eli": null,
+  "gii_slug": "pbefg_ndg_6",
+  "ingested_at": "2026-04-17T15:26:34Z",
+  "jurabk": "PBefGÄndG 6",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "06c4c5bd5eea93a1faab9cfa650aecc96ac4ba9de1703e4cb8e3bba6592f1408"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pbefg_ndg_6/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pbefg_ndg_6/xml.zip"
+  },
+  "stand_datum": "1998-06-16",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 3 Abs. 1 G v. 16.6.1998 I 1291",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Sechstes Gesetz zur Änderung des Personenbeförderungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

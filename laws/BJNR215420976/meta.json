@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-09-10",
+  "bjnr": "BJNR215420976",
+  "eli": null,
+  "gii_slug": "seefischvtrg_1976",
+  "ingested_at": "2026-04-17T15:27:58Z",
+  "jurabk": "SeeFischVtrG 1976",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "462a999af225acf3925eb8154b2e70ed41a494cb70c7ebd6258bd5043e52c49d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seefischvtrg_1976/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seefischvtrg_1976/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Übereinkommen vom 23. Oktober 1969 zur Erhaltung der lebenden Schätze des Südostatlantiks, zu dem Protokoll vom 21. Januar 1972 zur Änderung des Übereinkommens vom 20. Dezember 1962 über den Schutz des Lachsbestandes in der Ostsee, zur Konvention vom 13. September 1973 über die Fischerei und den Schutz der lebenden Ressourcen in der Ostsee und den Belten sowie zur Änderung des Seefischerei-Vertragsgesetzes 1971",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

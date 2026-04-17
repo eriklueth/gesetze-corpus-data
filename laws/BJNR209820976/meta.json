@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-10-05",
+  "bjnr": "BJNR209820976",
+  "eli": null,
+  "gii_slug": "eupatanerkprot",
+  "ingested_at": "2026-04-17T15:20:57Z",
+  "jurabk": "EuPatAnerkProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6ed4fc3672eee91849cd82411e69633740cee14f1cc787be3c99da4f66eb563d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eupatanerkprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eupatanerkprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll über die gerichtliche Zuständigkeit und die Anerkennung von Entscheidungen über den Anspruch auf Erteilung eines europäischen Patents",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

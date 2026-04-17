@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2020-06-12",
+  "bjnr": "BJNR128500020",
+  "eli": null,
+  "gii_slug": "konvbehschg",
+  "ingested_at": "2026-04-17T15:23:47Z",
+  "jurabk": "KonvBehSchG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b2bcf111af958eea56a5aaa3d21a71590ab64153ab0f98b2bc019d19658f9c26"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/konvbehschg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/konvbehschg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zum Schutz vor Konversionsbehandlungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

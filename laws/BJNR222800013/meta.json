@@ -1,0 +1,21 @@
+{
+  "amtabk": "Offshore-ArbZV",
+  "ausfertigung_datum": "2013-07-05",
+  "bjnr": "BJNR222800013",
+  "eli": null,
+  "gii_slug": "offshore-arbzv",
+  "ingested_at": "2026-04-17T15:26:13Z",
+  "jurabk": "Offshore-ArbZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1b5100ccae6fcd6e66a6e10f38469f5b46425faaf7e9b2ad8234322610e469d8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/offshore-arbzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/offshore-arbzv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Arbeitszeit bei Offshore-Tätigkeiten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

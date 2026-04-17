@@ -1,0 +1,21 @@
+{
+  "amtabk": "AbwUTechAusbV",
+  "ausfertigung_datum": "2023-12-20",
+  "bjnr": "BJNR18B0C0023",
+  "eli": null,
+  "gii_slug": "abwutechausbv",
+  "ingested_at": "2026-04-17T15:16:44Z",
+  "jurabk": "AbwUTechAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ce431ed367ffeb57deacd5ce1859f4c85f77f087b6b2c41af0299a91509f8f18"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/abwutechausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/abwutechausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Umwelttechnologen für Abwasserbewirtschaftung und zur Umwelttechnologin für Abwasserbewirtschaftung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

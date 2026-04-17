@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1964-09-18",
+  "bjnr": "BJNR008170964",
+  "eli": null,
+  "gii_slug": "bwfahnano",
+  "ingested_at": "2026-04-17T15:19:33Z",
+  "jurabk": "BwFahnAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b5d2c69f52b8cc7bb35090cf7e336ecaa9d5c3c3836808d1a16934585e1df468"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bwfahnano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bwfahnano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Stiftung der Truppenfahnen für die Bundeswehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

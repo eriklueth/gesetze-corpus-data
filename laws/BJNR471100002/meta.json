@@ -1,0 +1,21 @@
+{
+  "amtabk": "FoVDV",
+  "ausfertigung_datum": "2002-12-20",
+  "bjnr": "BJNR471100002",
+  "eli": null,
+  "gii_slug": "fovdv",
+  "ingested_at": "2026-04-17T15:21:38Z",
+  "jurabk": "FoVDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "913c156721a349b1abf5cf175ab29a5b56c1eca06030365093662340931909eb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fovdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fovdv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Forstvermehrungsgut-Durchführungsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

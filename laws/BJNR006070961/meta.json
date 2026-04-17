@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1961-05-24",
+  "bjnr": "BJNR006070961",
+  "eli": null,
+  "gii_slug": "verbrverbg",
+  "ingested_at": "2026-04-17T15:30:01Z",
+  "jurabk": "VerbrVerbG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "50bd2b811af6aad3cb5fb606c7a6c89c241d6904c31b59eb8fe4f133c5a33760"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verbrverbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verbrverbg/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 22.12.2025 I Nr. 345",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Überwachung strafrechtlicher und anderer Verbringungsverbote",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

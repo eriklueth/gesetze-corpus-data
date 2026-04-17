@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-06-23",
+  "bjnr": "BJNR016080976",
+  "eli": null,
+  "gii_slug": "marktonog",
+  "ingested_at": "2026-04-17T15:24:44Z",
+  "jurabk": "MarktONOG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "45beffea65d46a7fc2f2c40a2317e791791f8a9e4b75603ede430d33414acf09"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/marktonog/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/marktonog/xml.zip"
+  },
+  "stand_datum": "2008-11-26",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 26.11.2008 I 2260;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 G v. 9.12.2020 I 2863",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Meldungen über Marktordnungswaren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

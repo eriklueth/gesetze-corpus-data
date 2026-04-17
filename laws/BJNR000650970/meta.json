@@ -1,0 +1,21 @@
+{
+  "amtabk": "ErgVO - 6. DV-BEG",
+  "ausfertigung_datum": "1970-01-10",
+  "bjnr": "BJNR000650970",
+  "eli": null,
+  "gii_slug": "begdv6ergvo",
+  "ingested_at": "2026-04-17T15:20:47Z",
+  "jurabk": "BEGDV6ErgVO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b4868328a43d45db003ef8dee53c63f1c3dbe2a516c77610b8458d5908b4b90e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/begdv6ergvo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/begdv6ergvo/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Änderung und Ergänzung der Sechsten Verordnung zur Durchführung des Bundesentschädigungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

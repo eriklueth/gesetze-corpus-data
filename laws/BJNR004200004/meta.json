@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-01-06",
+  "bjnr": "BJNR004200004",
+  "eli": null,
+  "gii_slug": "baf_gzustv_2004",
+  "ingested_at": "2026-04-17T15:17:34Z",
+  "jurabk": "BAföGZustV 2004",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a4e0234e37574eac70ec4e4e3e4302a6b8f49b7615ff26bf90e29103c62d60df"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baf_gzustv_2004/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baf_gzustv_2004/xml.zip"
+  },
+  "stand_datum": "2011-10-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 19.10.2011 I 2098",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die örtliche Zuständigkeit für Ausbildungsförderung im Ausland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

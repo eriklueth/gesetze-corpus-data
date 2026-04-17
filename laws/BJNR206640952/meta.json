@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1944-07-22",
+  "bjnr": "BJNR206640952",
+  "eli": null,
+  "gii_slug": "ibrdabk",
+  "ingested_at": "2026-04-17T15:22:52Z",
+  "jurabk": "IBRDAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "939e3c6b694c923a74660f416e85f7f500ccb9932cb8c82a46a4651dc7aaa58a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ibrdabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ibrdabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen über die Internationale Bank für Wiederaufbau und Entwicklung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

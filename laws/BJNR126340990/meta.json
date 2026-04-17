@@ -1,0 +1,26 @@
+{
+  "amtabk": "UmweltHG",
+  "ausfertigung_datum": "1990-12-10",
+  "bjnr": "BJNR126340990",
+  "eli": null,
+  "gii_slug": "umwelthg",
+  "ingested_at": "2026-04-17T15:29:46Z",
+  "jurabk": "UmweltHG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a57d8a83b856bda08af35b88715e8ab2b3a94a5189e5d34c48f9a95ac596fb8f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/umwelthg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/umwelthg/xml.zip"
+  },
+  "stand_datum": "2017-07-17",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 G v. 17.7.2017 I 2421",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Umwelthaftungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

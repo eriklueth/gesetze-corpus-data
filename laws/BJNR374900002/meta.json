@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-09-20",
+  "bjnr": "BJNR374900002",
+  "eli": null,
+  "gii_slug": "fluthilfemederl",
+  "ingested_at": "2026-04-17T15:21:35Z",
+  "jurabk": "FluthilfeMedErl",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ee3f855ca7907120a3b08a2897cedce06a397e4269b73c23805f734075eeec02"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fluthilfemederl/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fluthilfemederl/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gemeinsamer Erlass des Bundesministers des Innern und des Bundesministers der Verteidigung über die Stiftung der Einsatzmedaille \"Fluthilfe 2002\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

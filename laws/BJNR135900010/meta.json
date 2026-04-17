@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2010-09-23",
+  "bjnr": "BJNR135900010",
+  "eli": null,
+  "gii_slug": "gr_ndstvtrbb_snbek",
+  "ingested_at": "2026-04-17T15:22:26Z",
+  "jurabk": "GrÄndStVtrBB/SNBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6c91e6472d336fa93e21242599eb3e1a47f9806eb8e1cbae30a6ffaa5d28ed2c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gr_ndstvtrbb_snbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gr_ndstvtrbb_snbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Brandenburg und dem Freistaat Sachsen über die Änderung der gemeinsamen Landesgrenze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

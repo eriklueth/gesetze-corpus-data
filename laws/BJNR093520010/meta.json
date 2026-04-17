@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2009-12-03",
+  "bjnr": "BJNR093520010",
+  "eli": null,
+  "gii_slug": "sozsichabkbradvbg",
+  "ingested_at": "2026-04-17T15:28:31Z",
+  "jurabk": "SozSichAbkBRADVbg",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "440c298b74b46d985615d8ca6facfc801a0a6e44f8326eb48a361f342cc21156"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkbradvbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkbradvbg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vereinbarung zur Durchführung des Abkommens vom 3. Dezember 2009 zwischen der Bundesrepublik Deutschland und der Föderativen Republik Brasilien über Soziale Sicherheit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

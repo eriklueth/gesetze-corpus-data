@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2024-10-23",
+  "bjnr": "BJNR1450A0024",
+  "eli": null,
+  "gii_slug": "asylblg_3aabs4bek_2025",
+  "ingested_at": "2026-04-17T15:17:08Z",
+  "jurabk": "AsylbLG§3aAbs4Bek 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9f4e63b632b1c348e026c599958f264d843ead6ad5c43049f95a3a13fe13ed31"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/asylblg_3aabs4bek_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/asylblg_3aabs4bek_2025/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2025",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

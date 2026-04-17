@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1993-03-26",
+  "bjnr": "BJNR039000993",
+  "eli": null,
+  "gii_slug": "nichtanpg",
+  "ingested_at": "2026-04-17T15:26:01Z",
+  "jurabk": "NichtAnpG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "77cab0f35f3ce158a7f1314973a3ee071ad5bdae4ccbed0f31f5e934db651ee2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/nichtanpg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/nichtanpg/xml.zip"
+  },
+  "stand_datum": "2011-11-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 G v. 14.11.2011 I 2219",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Nichtanpassung von Amtsgehalt und Ortszuschlag der Mitglieder der Bundesregierung und der Parlamentarischen Staatssekretäre",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

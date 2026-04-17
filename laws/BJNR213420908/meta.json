@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2008-12-05",
+  "bjnr": "BJNR213420908",
+  "eli": null,
+  "gii_slug": "gemausfoabkhaag",
+  "ingested_at": "2026-04-17T15:22:02Z",
+  "jurabk": "GemAusfOAbkHaag",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "82ad8119a2ea04e5c71fa57bff577fb882e37fb8f877f01e05049ef37daa3dae"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gemausfoabkhaag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gemausfoabkhaag/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gemeinsame Ausführungsordnung zu den Fassungen des Haager Abkommens von 1999, 1960 und 1934",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

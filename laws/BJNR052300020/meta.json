@@ -1,0 +1,30 @@
+{
+  "amtabk": "PBNUBestV",
+  "ausfertigung_datum": "2020-03-17",
+  "bjnr": "BJNR052300020",
+  "eli": null,
+  "gii_slug": "pbnubestv_2020",
+  "ingested_at": "2026-04-17T15:26:33Z",
+  "jurabk": "PBNUBestV 2020",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9f8224fe4bb37ab77120729b90ad3d06d48a44d4f939cfc60534da10d093fa84"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/pbnubestv_2020/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/pbnubestv_2020/xml.zip"
+  },
+  "stand_datum": "2018-05-18",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 900-10-4-55 v. 18.5.2018 I 618, 2020 I 135 (PBNUBestV)",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Die V ist gem. Bek. v. 27.5.2020 I 1208 am 15.5.2020 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Bestimmung der Deutschen Bank AG als Postnachfolgeunternehmen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-08-13",
+  "bjnr": "BJNR008490965",
+  "eli": null,
+  "gii_slug": "niederlfrhewgdg_1",
+  "ingested_at": "2026-04-17T15:26:01Z",
+  "jurabk": "NiederlFrhEWGDG 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "466ea23a0389efa780a603c5c545ef3681857117da6fa43e1cc1084c157bd7e7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/niederlfrhewgdg_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/niederlfrhewgdg_1/xml.zip"
+  },
+  "stand_datum": "1970-12-14",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 4 G v. 14.12.1970 I 1709",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

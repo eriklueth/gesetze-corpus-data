@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-07-21",
+  "bjnr": "BJNR177600004",
+  "eli": null,
+  "gii_slug": "b_oua_ndg_2004",
+  "ingested_at": "2026-04-17T15:17:33Z",
+  "jurabk": "BÄOuaÄndG 2004",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ff748944696b146eac5a9024b598fd7ba2f09073501035c48ba4d0ce67b9932a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/b_oua_ndg_2004/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/b_oua_ndg_2004/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Änderung der Bundesärzteordnung und anderer Gesetze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

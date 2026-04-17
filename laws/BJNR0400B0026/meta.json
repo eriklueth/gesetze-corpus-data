@@ -1,0 +1,21 @@
+{
+  "amtabk": "EBewMG",
+  "ausfertigung_datum": "2026-03-10",
+  "bjnr": "BJNR0400B0026",
+  "eli": null,
+  "gii_slug": "ebewmg",
+  "ingested_at": "2026-04-17T15:20:11Z",
+  "jurabk": "EBewMG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "08317f0794103b4c99aa5ea5e2edb54575336d81773d678fa9f8f3a2243f3caf"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ebewmg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ebewmg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über Europäische Herausgabe- und Sicherungsanordnungen zu elektronischen Beweismitteln",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

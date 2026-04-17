@@ -1,0 +1,21 @@
+{
+  "amtabk": "WpIVergV",
+  "ausfertigung_datum": "2024-01-09",
+  "bjnr": "BJNR0050A0024",
+  "eli": null,
+  "gii_slug": "wpivergv",
+  "ingested_at": "2026-04-17T15:30:42Z",
+  "jurabk": "WpIVergV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3d8a143e6eebb9f9ceb611d39df8e0b1b5d2a63a667f253d7027cb9385e71924"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wpivergv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wpivergv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die aufsichtsrechtlichen Vorgaben an Vergütungssysteme von Mittleren Wertpapierinstituten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

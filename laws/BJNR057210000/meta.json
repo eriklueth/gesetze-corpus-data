@@ -1,0 +1,26 @@
+{
+  "amtabk": "BinSch-SportbootVermV",
+  "ausfertigung_datum": "2000-04-18",
+  "bjnr": "BJNR057210000",
+  "eli": null,
+  "gii_slug": "sportbootvermv-bin2000",
+  "ingested_at": "2026-04-17T15:18:22Z",
+  "jurabk": "SportbootVermV-Bin2000",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c3b72e8b95642eb6500ea78e7599c589158d51378cb1126541c34e13e57493c7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sportbootvermv-bin2000/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sportbootvermv-bin2000/xml.zip"
+  },
+  "stand_datum": "2025-10-14",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 V v. 14.10.2025 I Nr. 242",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie deren Benutzung auf den Binnenschifffahrtsstraßen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

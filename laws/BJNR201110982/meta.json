@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1982-02-03",
+  "bjnr": "BJNR201110982",
+  "eli": null,
+  "gii_slug": "eurhi_bkvtritag",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "EuRHiÜbkVtrITAG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7b12b5818351a6c95aed976406a4eca078cac5ace35b3473f35d86b8fd205c07"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurhi_bkvtritag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurhi_bkvtritag/xml.zip"
+  },
+  "stand_datum": "1982-12-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 83 Abs. 2 Nr. 3 G v. 23.12.1982 I 2071",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Vertrag vom 24. Oktober 1979 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

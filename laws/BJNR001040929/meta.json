@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1929-05-17",
+  "bjnr": "BJNR001040929",
+  "eli": null,
+  "gii_slug": "uvtr_gerv",
+  "ingested_at": "2026-04-17T15:29:59Z",
+  "jurabk": "UVTrägerV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "22398a9092dc71822ee648a11d9e233113dea1e2df738da42e94bc4d4fd4ac5e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/uvtr_gerv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/uvtr_gerv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Träger der Unfallversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

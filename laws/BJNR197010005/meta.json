@@ -1,0 +1,42 @@
+{
+  "amtabk": "EnWG",
+  "ausfertigung_datum": "2005-07-07",
+  "bjnr": "BJNR197010005",
+  "eli": null,
+  "gii_slug": "enwg_2005",
+  "ingested_at": "2026-04-17T15:20:44Z",
+  "jurabk": "EnWG 2005",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "50f3e5ea3df794dd8378cfdcf84278408812ce5a07d978fc7041a559a0fde96d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/enwg_2005/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/enwg_2005/xml.zip"
+  },
+  "stand_datum": "2025-12-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 18.12.2025 I Nr. 347",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 G v. 22.12.2025 I Nr. 351 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 2 G v. 11.3.2026 I Nr. 66 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Änderung durch Art. 5 G v. 29.3.2026 I Nr. 84 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet",
+      "typ": "Hinweis"
+    },
+    {
+      "kommentar": "Das G ist gem. Art. 5 Abs. 1 G v. 7.7.2005 I 1970 am 13.7.2005 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über die Elektrizitäts- und Gasversorgung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

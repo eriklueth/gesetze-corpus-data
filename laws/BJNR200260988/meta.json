@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-01-12",
+  "bjnr": "BJNR200260988",
+  "eli": null,
+  "gii_slug": "sozsichabk1985rvbgdvbgcang",
+  "ingested_at": "2026-04-17T15:28:27Z",
+  "jurabk": "SozSichAbk1985RVbgDVbgCANG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "66e113d3f73370081871dd9c8277b324085a35697c1f5ec471da9770081d2def"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabk1985rvbgdvbgcang/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabk1985rvbgdvbgcang/xml.zip"
+  },
+  "stand_datum": "2010-04-20",
+  "standangabe": [
+    {
+      "kommentar": "Bzgl. der Vereinbarung vom 14. Mai 1987 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung von Quebec über Soziale Sicherheit und der Durchführungsvereinbarung hierzu ersetzt mit Inkrafttreten der Vereinbarung v. 20.4.2010 und der Durchführungsvereinbarung hierzu (2011 II 18, 19) am 1.4.2014 gem. Bek. v. 8.7.2015 II 1040",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zu dem Abkommen vom 14. November 1985 zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit und der Vereinbarung zur Durchführung des Abkommens sowie zu der Vereinbarung vom 14. Mai 1987 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung von Quebec über Soziale Sicherheit und der Durchführungsvereinbarung hierzu",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

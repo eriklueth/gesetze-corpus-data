@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-06-06",
+  "bjnr": "BJNR079800996",
+  "eli": null,
+  "gii_slug": "baupgp_zanerkv",
+  "ingested_at": "2026-04-17T15:17:43Z",
+  "jurabk": "BauPGPÜZAnerkV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2b010dc11aaa1f84394280f922d7f86fb34490cf30ab63a40b170a5008828b3a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baupgp_zanerkv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baupgp_zanerkv/xml.zip"
+  },
+  "stand_datum": "2012-12-05",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 G v. 5.12.2012 I 2449",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle nach dem Bauproduktengesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

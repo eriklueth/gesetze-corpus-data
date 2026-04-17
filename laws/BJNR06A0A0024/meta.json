@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2024-03-22",
+  "bjnr": "BJNR06A0A0024",
+  "eli": null,
+  "gii_slug": "finausglg2024dv_1",
+  "ingested_at": "2026-04-17T15:21:21Z",
+  "jurabk": "FinAusglG2024DV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "38e9eb3dc0db84ca2cab5b8e06784424852fa739162e1f5c136feb812795dffb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/finausglg2024dv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/finausglg2024dv_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2024",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

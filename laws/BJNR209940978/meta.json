@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1975-12-15",
+  "bjnr": "BJNR209940978",
+  "eli": null,
+  "gii_slug": "euschulgrdprotzprot",
+  "ingested_at": "2026-04-17T15:21:02Z",
+  "jurabk": "EuSchulGrdProtZProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1127f74774514321ec7f1df9361470a4495e2825271949793ddd36847357d493"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/euschulgrdprotzprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/euschulgrdprotzprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzprotokoll zum Protokoll vom 13. April 1962 über die Gründung Europäischer Schulen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

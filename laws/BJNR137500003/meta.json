@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-07-09",
+  "bjnr": "BJNR137500003",
+  "eli": null,
+  "gii_slug": "kfzmechaausberprobv",
+  "ingested_at": "2026-04-17T15:23:29Z",
+  "jurabk": "KfzMechaAusbErprobV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0838d9fde126b496cdef54c4d4fd444669a7b9ba281de4f32af6ee6cc0b43d0e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfzmechaausberprobv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfzmechaausberprobv/xml.zip"
+  },
+  "stand_datum": "2007-07-31",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt mit Ausnahme von § 3 Abs. 2 am 31.7.2007 außer Kraft",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung zum Kraftfahrzeugmechatroniker/zur Kraftfahrzeugmechatronikerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "KtgWV",
+  "ausfertigung_datum": "1963-08-08",
+  "bjnr": "BJNR006340963",
+  "eli": null,
+  "gii_slug": "ktgwv_1963",
+  "ingested_at": "2026-04-17T15:23:56Z",
+  "jurabk": "KtgWV 1963",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5cc45edebbbe90eda562286777ef7967c8e2e7cd79eff4e406c170651716cc9d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ktgwv_1963/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ktgwv_1963/xml.zip"
+  },
+  "stand_datum": "2010-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 59 G v. 8.12.2010 I 1864",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die zollfreie Einfuhr von Kontingentswaren aus Frankreich in das Saarland (KtgWV)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

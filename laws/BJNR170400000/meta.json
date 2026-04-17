@@ -1,0 +1,26 @@
+{
+  "amtabk": "FBeitrV",
+  "ausfertigung_datum": "2000-12-13",
+  "bjnr": "BJNR170400000",
+  "eli": null,
+  "gii_slug": "fbeitrv_2000",
+  "ingested_at": "2026-04-17T15:21:25Z",
+  "jurabk": "FBeitrV 2000",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b114132da4fce5cfa10271afdcd3d1f89ed27300d8b03a332d33419b2d9dd293"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fbeitrv_2000/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fbeitrv_2000/xml.zip"
+  },
+  "stand_datum": "2005-07-07",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 Abs. 16 G v. 7.7.2005 I 1970",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Frequenznutzungsbeitragsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

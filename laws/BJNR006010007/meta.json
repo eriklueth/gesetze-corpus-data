@@ -1,0 +1,26 @@
+{
+  "amtabk": "36. BImSchV",
+  "ausfertigung_datum": "2007-01-29",
+  "bjnr": "BJNR006010007",
+  "eli": null,
+  "gii_slug": "bimschv_36",
+  "ingested_at": "2026-04-17T15:16:35Z",
+  "jurabk": "BImSchV 36",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c35ad7906a9ebc96d549bd385605ad1254d696b01cf1b8a6233173d6b3100bfd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_36/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_36/xml.zip"
+  },
+  "stand_datum": "2024-06-04",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 4.6.2024 I Nr. 183",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Sechsunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Durchführung der Regelungen der Biokraftstoffquote)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

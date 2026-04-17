@@ -1,0 +1,26 @@
+{
+  "amtabk": "Aflatoxin VerbotsV",
+  "ausfertigung_datum": "2000-07-19",
+  "bjnr": "BJNR108100000",
+  "eli": null,
+  "gii_slug": "aflatoxinverbotsv",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "AflatoxinverbotsV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b9c4d5b5172731400cdf47608e0251535786b8efa62bc54be3092cfe973e785d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aflatoxinverbotsv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aflatoxinverbotsv/xml.zip"
+  },
+  "stand_datum": "2009-07-17",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 10 G v. 17.7.2009 I 1990",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Verbot der Verwendung von mit Aflatoxinen kontaminierten Stoffen bei der Herstellung von Arzneimitteln",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

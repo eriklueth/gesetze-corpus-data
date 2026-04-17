@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1974-06-28",
+  "bjnr": "BJNR209250974",
+  "eli": null,
+  "gii_slug": "svabkpolg",
+  "ingested_at": "2026-04-17T15:29:09Z",
+  "jurabk": "SVAbkPOLG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "77326a3b3e4c49993f3f9e94152af28600f904e6156cf8b5b9dcb1d2d79d8ae7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svabkpolg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svabkpolg/xml.zip"
+  },
+  "stand_datum": "1988-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 31 Abs. 2 Nr. 1 G v. 20.12.1988 I 2477",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Abkommen vom 25. April 1973 zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über die Sozialversicherung von Arbeitnehmern, die in das Gebiet des anderen Staates vorübergehend entsandt werden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

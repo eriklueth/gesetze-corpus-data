@@ -1,0 +1,21 @@
+{
+  "amtabk": "BOP",
+  "ausfertigung_datum": "1979-02-15",
+  "bjnr": "DDNR090190979",
+  "eli": null,
+  "gii_slug": "baubetrpeo",
+  "ingested_at": "2026-04-17T15:18:51Z",
+  "jurabk": "BauBetrPEO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "89378859eb368ad68179f59a363c0c7ff6e86b29d936fa859a7a16d030461c96"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baubetrpeo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baubetrpeo/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bau- und Betriebsordnung für Pioniereisenbahnen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "DBBATZV",
+  "ausfertigung_datum": "2020-12-01",
+  "bjnr": "BJNR276300020",
+  "eli": null,
+  "gii_slug": "dbbatzv",
+  "ingested_at": "2026-04-17T15:19:51Z",
+  "jurabk": "DBBATZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7d048d9027ffe3057b2b3bc4189aac4847e28c66c0f359968af787917ccd6f67"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dbbatzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dbbatzv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Bewilligung von Altersteilzeit und die Gewährung eines Altersteilzeitzuschlags für die Beamtinnen und Beamten der Deutschen Bank AG",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

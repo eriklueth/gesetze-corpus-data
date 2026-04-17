@@ -1,0 +1,26 @@
+{
+  "amtabk": "RZV",
+  "ausfertigung_datum": "2007-08-07",
+  "bjnr": "BJNR193910007",
+  "eli": null,
+  "gii_slug": "rzv",
+  "ingested_at": "2026-04-17T15:27:35Z",
+  "jurabk": "RZV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "32ad1149f43f986d08dd369577cca0e655ac3cc0047bf7b2a33acbc29ed4be79"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rzv/xml.zip"
+  },
+  "stand_datum": "2021-07-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 29.7.2021 I 3294",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

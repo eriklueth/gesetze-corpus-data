@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1951-09-07",
+  "bjnr": "BJNR008310951",
+  "eli": null,
+  "gii_slug": "verdordenerl",
+  "ingested_at": "2026-04-17T15:30:01Z",
+  "jurabk": "VerdOrdenErl",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ae81d0261aea48ecf8555477e174e33f459c56917843fd6deec22e6c6c159fff"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/verdordenerl/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/verdordenerl/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erlaß über die Stiftung des \"Verdienstordens der Bundesrepublik Deutschland\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

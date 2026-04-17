@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1991-10-04",
+  "bjnr": "BJNR019680991",
+  "eli": null,
+  "gii_slug": "ambtangv",
+  "ingested_at": "2026-04-17T15:17:00Z",
+  "jurabk": "AMBtAngV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ce1c156cdbed8492b5d1eb08954a1f0b0fac4309faef465b49c3b0c29d6eab3f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ambtangv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ambtangv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Angabe von Arzneimittelbestandteilen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

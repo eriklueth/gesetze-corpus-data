@@ -1,0 +1,26 @@
+{
+  "amtabk": "KondMstrV",
+  "ausfertigung_datum": "2006-10-12",
+  "bjnr": "BJNR227800006",
+  "eli": null,
+  "gii_slug": "kondmstrv_2006",
+  "ingested_at": "2026-04-17T15:23:44Z",
+  "jurabk": "KondMstrV 2006",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c85e631c9b7d6ef677308f92000151b1e4e63c4d85408c76c3ebe7e36dbb37c6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kondmstrv_2006/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kondmstrv_2006/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 59 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Konditoren- Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

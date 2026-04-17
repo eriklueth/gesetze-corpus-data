@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-07-04",
+  "bjnr": "BJNR124200007",
+  "eli": null,
+  "gii_slug": "sportfausbv",
+  "ingested_at": "2026-04-17T15:28:45Z",
+  "jurabk": "SportfAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c3d2f23299b03fdb1b320d14551f0fddd7d5742e9c3052bf20a7889373e3bd87"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sportfausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sportfausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Sportfachmann/zur Sportfachfrau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "amtabk": "StromNEV",
+  "ausfertigung_datum": "2005-07-25",
+  "bjnr": "BJNR222500005",
+  "eli": null,
+  "gii_slug": "stromnev",
+  "ingested_at": "2026-04-17T15:29:00Z",
+  "jurabk": "StromNEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "76a06ec81ea4bf2cdeaa45e03234b37017cc492998b3591acb35e90dda7f6e5b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stromnev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stromnev/xml.zip"
+  },
+  "stand_datum": "2023-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Die V tritt gem. Art. 15 Abs. 3 G v. 22.12.2023 I Nr. 405 mit Ablauf des 31.12.2028 außer Kraft",
+      "typ": "Aufh"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 22.12.2023 I Nr. 405",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Entgelte für den Zugang zu Elektrizitätsversorgungsnetzen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

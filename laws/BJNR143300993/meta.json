@@ -1,0 +1,26 @@
+{
+  "amtabk": "5. BImSchV",
+  "ausfertigung_datum": "1993-07-30",
+  "bjnr": "BJNR143300993",
+  "eli": null,
+  "gii_slug": "bimschv_5_1993",
+  "ingested_at": "2026-04-17T15:16:39Z",
+  "jurabk": "BImSchV 5 1993",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "44dd81bdd50699018aaad56d2369ece456a13769d2d438eb8c14d7d43f34071c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bimschv_5_1993/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bimschv_5_1993/xml.zip"
+  },
+  "stand_datum": "2015-04-28",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 4 V v. 28.4.2015 I 670",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Fünfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

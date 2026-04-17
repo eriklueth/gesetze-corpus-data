@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-11-30",
+  "bjnr": "BJNR338900005",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2005-11",
+  "ingested_at": "2026-04-17T15:25:15Z",
+  "jurabk": "Münz10EuroBek 2005-11",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a212dc9aae7a78aff79b0a41a22f7886210734fdf58495f35b3fc0b558f0c13e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2005-11/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2005-11/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"250. Geburtstag von Wolfgang Amadeus Mozart\")",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

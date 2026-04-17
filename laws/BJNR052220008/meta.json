@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2001-10-05",
+  "bjnr": "BJNR052220008",
+  "eli": null,
+  "gii_slug": "afs_bk",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "AFSÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b5568db8079e5c1e9cf936d94b487075f532b5b64bbf57de2276fc001d0e80a2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/afs_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/afs_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationales Übereinkommen von 2001 über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

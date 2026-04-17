@@ -1,0 +1,26 @@
+{
+  "amtabk": "StatRegG",
+  "ausfertigung_datum": "1998-06-16",
+  "bjnr": "BJNR130010998",
+  "eli": null,
+  "gii_slug": "statregg",
+  "ingested_at": "2026-04-17T15:28:51Z",
+  "jurabk": "StatRegG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "efc04447a62d44f249e41b34a983cb3d56a540e67fa9de477a3220f891ba8b95"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/statregg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/statregg/xml.zip"
+  },
+  "stand_datum": "2022-12-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 20.12.2022 I 2727",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Aufbau und die Führung eines Statistikregisters",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

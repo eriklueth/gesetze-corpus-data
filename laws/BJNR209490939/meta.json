@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1939-07-28",
+  "bjnr": "BJNR209490939",
+  "eli": null,
+  "gii_slug": "wzgbek_1939-07-28",
+  "ingested_at": "2026-04-17T15:30:53Z",
+  "jurabk": "WZGBek 1939-07-28",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d9fd0ca7c2c19ff36918f9fbc0bf515b7079622e99809dba9e1928b80bbcbb26"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzgbek_1939-07-28/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzgbek_1939-07-28/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zum Warenzeichengesetz über ein amtliches Gewährzeichen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

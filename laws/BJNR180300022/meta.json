@@ -1,0 +1,26 @@
+{
+  "amtabk": "FVerlV",
+  "ausfertigung_datum": "2022-10-18",
+  "bjnr": "BJNR180300022",
+  "eli": null,
+  "gii_slug": "fverlv_2022",
+  "ingested_at": "2026-04-17T15:21:45Z",
+  "jurabk": "FVerlV 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2c02343274bfd9e66cb80cb78ca2e424f7627e142a7f1f9d06e3fb5e6c1c5380"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fverlv_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fverlv_2022/xml.zip"
+  },
+  "stand_datum": "2008-08-12",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 610-6-8-1 v. 12.8.2008 I 1680 (FVerlV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung zur Anwendung des Fremdvergleichsgrundsatzes nach § 1 Absatz 1 des Außensteuergesetzes in Fällen grenzüberschreitender Funktionsverlagerungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

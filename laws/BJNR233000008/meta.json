@@ -1,0 +1,26 @@
+{
+  "amtabk": "AFIG",
+  "ausfertigung_datum": "2008-11-26",
+  "bjnr": "BJNR233000008",
+  "eli": null,
+  "gii_slug": "afig",
+  "ingested_at": "2026-04-17T15:16:49Z",
+  "jurabk": "AFIG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "91342ca5c16871b65a3d9a14f2a6b9c68b45ff467cf86bcdee44982e334b7113"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/afig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/afig/xml.zip"
+  },
+  "stand_datum": "2024-02-20",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 20.2.2024 I Nr. 53",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Agrar- und Fischereifonds der Europäischen Union",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1977-09-27",
+  "bjnr": "BJNR018800977",
+  "eli": null,
+  "gii_slug": "wzg_4ceptbek",
+  "ingested_at": "2026-04-17T15:31:07Z",
+  "jurabk": "WZG§4CEPTBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "805613fd2a69c2d8ad259f7b7d95f957531a1c147e337c30d7c1782525ef7a4f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wzg_4ceptbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wzg_4ceptbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

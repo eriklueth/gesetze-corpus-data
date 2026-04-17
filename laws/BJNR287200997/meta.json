@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-12-09",
+  "bjnr": "BJNR287200997",
+  "eli": null,
+  "gii_slug": "urkbefrv_1997_haag",
+  "ingested_at": "2026-04-17T15:29:55Z",
+  "jurabk": "UrkBefrV 1997 Haag",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b261820c9f9284d696eb792e28627ecf8ca5aafd97f0a39132e25724c5cd26ed"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/urkbefrv_1997_haag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/urkbefrv_1997_haag/xml.zip"
+  },
+  "stand_datum": "2022-12-01",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 1.12.2022 I 2131",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Ausstellung der Apostille nach Artikel 3 des Haager Übereinkommens vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Legalisation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-01-29",
+  "bjnr": "BJNR002410976",
+  "eli": null,
+  "gii_slug": "spurverkerprg",
+  "ingested_at": "2026-04-17T15:28:45Z",
+  "jurabk": "SpurVerkErprG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8b61603843168da80965d950e422c06532804901793ab7a96635ba7b5abc84cc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/spurverkerprg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/spurverkerprg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 507 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Bau und den Betrieb von Versuchsanlagen zur Erprobung von Techniken für den spurgeführten Verkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BGG",
+  "ausfertigung_datum": "2002-04-27",
+  "bjnr": "BJNR146800002",
+  "eli": null,
+  "gii_slug": "bgg",
+  "ingested_at": "2026-04-17T15:18:19Z",
+  "jurabk": "BGG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "653b6c710431455841b6619d4406e8fa33dbe008cc6b9bece86804e3f21b3029"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bgg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bgg/xml.zip"
+  },
+  "stand_datum": "2022-05-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 G v. 23.5.2022 I 760",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Gleichstellung von Menschen mit Behinderungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

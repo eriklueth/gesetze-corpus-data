@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-12-15",
+  "bjnr": "BJNR273800003",
+  "eli": null,
+  "gii_slug": "kakaov_2003",
+  "ingested_at": "2026-04-17T15:23:21Z",
+  "jurabk": "KakaoV 2003",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3cdf30b0549fb4517e2a83c454b7fe6bd5028a2f274d782a9157220b106040ca"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kakaov_2003/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kakaov_2003/xml.zip"
+  },
+  "stand_datum": "2017-07-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 V v. 5.7.2017 I 2272",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über Kakao- und Schokoladenerzeugnisse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1976-09-09",
+  "bjnr": "BJNR027300976",
+  "eli": null,
+  "gii_slug": "everksiv",
+  "ingested_at": "2026-04-17T15:21:09Z",
+  "jurabk": "EVerkSiV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "abeea4b3f2fe775c38d4c5884e9db465a9117dc6caef49497c67a0d35f006616"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/everksiv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/everksiv/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 501 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Sicherstellung des Eisenbahnverkehrs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

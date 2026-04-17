@@ -1,0 +1,21 @@
+{
+  "amtabk": "KStTG",
+  "ausfertigung_datum": "2025-12-22",
+  "bjnr": "BJNR1600B0025",
+  "eli": null,
+  "gii_slug": "ksttg",
+  "ingested_at": "2026-04-17T15:23:56Z",
+  "jurabk": "KStTG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "81a127235f1b1ce8245bb1180eec2bd069e9f47153b21ecbe206338f0fbb3519"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ksttg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ksttg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die Meldepflicht von Anbietern und den automatischen Austausch von Informationen in Steuersachen bei Kryptowerte-Dienstleistungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

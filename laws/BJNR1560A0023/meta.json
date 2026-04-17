@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-11-23",
+  "bjnr": "BJNR1560A0023",
+  "eli": null,
+  "gii_slug": "albeitrbek_2024",
+  "ingested_at": "2026-04-17T15:16:55Z",
+  "jurabk": "ALBeitrBek 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5b7f90e7bacabbc8ac4d1301179bdb83453365b1a706f3d808c47102841ab5bd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/albeitrbek_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/albeitrbek_2024/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2024",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

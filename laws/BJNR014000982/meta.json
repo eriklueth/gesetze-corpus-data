@@ -1,0 +1,21 @@
+{
+  "amtabk": "BergWoZErhV",
+  "ausfertigung_datum": "1982-10-11",
+  "bjnr": "BJNR014000982",
+  "eli": null,
+  "gii_slug": "bergwozerhv",
+  "ingested_at": "2026-04-17T15:18:08Z",
+  "jurabk": "BergWoZErhV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f91014a75efb2744846195e6663c34bd90903e2f8415471aa8b9d824f2fe4009"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bergwozerhv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bergwozerhv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Erhebung der Zinsen für Darlehen des Bundes zum Bergarbeiterwohnungsbau",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

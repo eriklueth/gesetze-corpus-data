@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-11-21",
+  "bjnr": "BJNR208900989",
+  "eli": null,
+  "gii_slug": "sozsichabkzabk2_zvbgcheg",
+  "ingested_at": "2026-04-17T15:28:38Z",
+  "jurabk": "SozSichAbkZAbk2/ZVbgCHEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "25d3b9bf200fdc803709aefcd94f829d0c5911206380bc5c92090cc1adaa4cc0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkzabk2_zvbgcheg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkzabk2_zvbgcheg/xml.zip"
+  },
+  "stand_datum": "2004-12-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 69 G v. 9.12.2004 I 3242",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Zweiten Zusatzabkommen vom 2. März 1989 zum Abkommen vom 25. Februar 1964 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über Soziale Sicherheit und der Zusatzvereinbarung vom 2. März 1989 zur Vereinbarung vom 25. August 1978 zur Durchführung des Abkommens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1953-07-10",
+  "bjnr": "BJNR513400953",
+  "eli": null,
+  "gii_slug": "auslwbgdv_3",
+  "ingested_at": "2026-04-17T15:17:25Z",
+  "jurabk": "AuslWBGDV 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "321aed6ca61468fdf90597ac6cc76188e9c1b77d83a74db26eafdc41418a91ce"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/auslwbgdv_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/auslwbgdv_3/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Dritte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Vereinigtes Königreich von Großbritannien und Nordirland)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "BZEV",
+  "ausfertigung_datum": "2020-06-29",
+  "bjnr": "BJNR160000020",
+  "eli": null,
+  "gii_slug": "bzev",
+  "ingested_at": "2026-04-17T15:19:36Z",
+  "jurabk": "BZEV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b836ebebe615a426dd4ff27fac522ae520a79bf75c5cf982fc74bee3e63f2b15"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bzev/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bzev/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über Erhebungen zum Zustand des Waldbodens",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

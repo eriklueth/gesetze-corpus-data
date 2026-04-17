@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-08-29",
+  "bjnr": "BJNR015330969",
+  "eli": null,
+  "gii_slug": "forstschausglg",
+  "ingested_at": "2026-04-17T15:21:38Z",
+  "jurabk": "ForstSchAusglG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2c6fce1721a6d39f75f231f794c25d352e5616c43c670b2d3020129a7c6d7829"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/forstschausglg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/forstschausglg/xml.zip"
+  },
+  "stand_datum": "1985-08-26",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 26.8.1985 I 1756;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 111 G v. 10.8.2021 I 3436",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zum Ausgleich von Auswirkungen besonderer Schadensereignisse in der Forstwirtschaft",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

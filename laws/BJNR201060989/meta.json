@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-01-24",
+  "bjnr": "BJNR201060989",
+  "eli": null,
+  "gii_slug": "natkautschorgvorrv_1989",
+  "ingested_at": "2026-04-17T15:25:53Z",
+  "jurabk": "NatKautschOrgVorRV 1989",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fe5a7aa3d1ef7c35f6479e17bbe7f1a65f717f029249bc9903e95064690ff6f9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/natkautschorgvorrv_1989/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/natkautschorgvorrv_1989/xml.zip"
+  },
+  "stand_datum": "1993-03-16",
+  "standangabe": [
+    {
+      "kommentar": "V in Kraft gem. Bek. v. 16.3.1993 II 742 mWv 30.10.1992",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale Naturkautschukorganisation",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

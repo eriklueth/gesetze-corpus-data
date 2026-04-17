@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2023-11-29",
+  "bjnr": "BJNR1510A0023",
+  "eli": null,
+  "gii_slug": "versorgausglumrfaktorbek_2024",
+  "ingested_at": "2026-04-17T15:30:10Z",
+  "jurabk": "VersorgAusglUmrFaktorBek 2024",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "6a834248de36e9c52b671c0f4c6d28bf56ec6e08d1830a8d148e447a7d313b30"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/versorgausglumrfaktorbek_2024/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/versorgausglumrfaktorbek_2024/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung im Jahr 2024",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "DAFPrV",
+  "ausfertigung_datum": "2024-09-24",
+  "bjnr": "BJNR1280B0024",
+  "eli": null,
+  "gii_slug": "dafprv",
+  "ingested_at": "2026-04-17T15:19:40Z",
+  "jurabk": "DAFPrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "69b17818d4f9f14df5b7a6ee0a20e7da0742108a4b5e148f11127caad21583fb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dafprv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dafprv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Datenanalyse oder Geprüfte Berufsspezialistin für Datenanalyse",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

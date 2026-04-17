@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1988-06-28",
+  "bjnr": "BJNR205980988",
+  "eli": null,
+  "gii_slug": "athaftabkcheg",
+  "ingested_at": "2026-04-17T15:17:10Z",
+  "jurabk": "AtHaftAbkCHEG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d97089db538ea854b1134a02b02ae70ea467b92141cdd95006f54d24b5585762"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/athaftabkcheg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/athaftabkcheg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Abkommen vom 22. Oktober 1986 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

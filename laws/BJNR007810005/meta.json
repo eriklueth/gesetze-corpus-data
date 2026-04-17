@@ -1,0 +1,26 @@
+{
+  "amtabk": "LuftSiG",
+  "ausfertigung_datum": "2005-01-11",
+  "bjnr": "BJNR007810005",
+  "eli": null,
+  "gii_slug": "luftsig",
+  "ingested_at": "2026-04-17T15:24:15Z",
+  "jurabk": "LuftSiG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b5308f1c93deede98258d24a5fa8d5d14f08bbe82d399a02e34b83fb16f381a5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftsig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftsig/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 11.3.2026 I Nr. 68",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Luftsicherheitsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

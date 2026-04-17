@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1970-12-18",
+  "bjnr": "BJNR201230971",
+  "eli": null,
+  "gii_slug": "e_lbabk_nld",
+  "ingested_at": "2026-04-17T15:20:43Z",
+  "jurabk": "EÖlBAbk NLD",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2d8130bbce709c8f48265dcaf569fbd6daab4def96838e8b0a98a3411d4dd5a0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/e_lbabk_nld/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/e_lbabk_nld/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen dem Bundesminister für Wirtschaft der Bundesrepublik Deutschland und dem Minister van Economische Zaken der Niederlande über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

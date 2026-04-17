@@ -1,0 +1,26 @@
+{
+  "amtabk": "FischEtikettV",
+  "ausfertigung_datum": "2002-08-15",
+  "bjnr": "BJNR336300002",
+  "eli": null,
+  "gii_slug": "fischetikettv",
+  "ingested_at": "2026-04-17T15:21:25Z",
+  "jurabk": "FischEtikettV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f3fd75e59e4c23fcf9c4240d1fe0ebc800c49f7bb2d3be3768737c114dd90d01"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fischetikettv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fischetikettv/xml.zip"
+  },
+  "stand_datum": "2015-11-05",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 5.11.2015 I 1926",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Fischetikettierungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

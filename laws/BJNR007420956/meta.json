@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-08-11",
+  "bjnr": "BJNR007420956",
+  "eli": null,
+  "gii_slug": "auslwbgdv_12",
+  "ingested_at": "2026-04-17T15:17:22Z",
+  "jurabk": "AuslWBGDV 12",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "63ac3c08dedd021a0377ac4f77200110fea4a1184f489e3869f35c95ad526d6b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/auslwbgdv_12/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/auslwbgdv_12/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zwölfte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Selbständige Anmeldung von Zinsscheinen)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-11-10",
+  "bjnr": "BJNR522220992",
+  "eli": null,
+  "gii_slug": "luftvodv_119",
+  "ingested_at": "2026-04-17T15:24:25Z",
+  "jurabk": "LuftVODV 119",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cd6bb1d8217a76769a87b8b1f446b16bbc85ee725c4c5e3e971f853387aa4b19"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_119/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_119/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Einhundertneunzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrsflughafen Lübeck-Blankensee)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

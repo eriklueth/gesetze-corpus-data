@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-11-25",
+  "bjnr": "BJNR275800997",
+  "eli": null,
+  "gii_slug": "bhv1v",
+  "ingested_at": "2026-04-17T15:18:21Z",
+  "jurabk": "BHV1V",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "adb6d93fccf60af89790bee72201a4b2e4942ad03aaf61f5c409031c4716c21c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bhv1v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bhv1v/xml.zip"
+  },
+  "stand_datum": "2015-05-19",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 19.5.2015 I 767;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "geändert durch Art. 1 V v. 3.5.2016 I 1057",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zum Schutz der Rinder vor einer Infektion mit dem Bovinen Herpesvirus Typ 1",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

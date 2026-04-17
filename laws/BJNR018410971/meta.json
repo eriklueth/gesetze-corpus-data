@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1971-11-15",
+  "bjnr": "BJNR018410971",
+  "eli": null,
+  "gii_slug": "bbig_84ano_1",
+  "ingested_at": "2026-04-17T15:17:47Z",
+  "jurabk": "BBiG§84AnO 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "65cf12944ef79522fdbe4c131c4aff8c767d3ab356fe9b19e7737d2334cc2351"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbig_84ano_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbig_84ano_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "GSIAusbV",
+  "ausfertigung_datum": "2021-03-30",
+  "bjnr": "BJNR068700021",
+  "eli": null,
+  "gii_slug": "gsiausbv",
+  "ingested_at": "2026-04-17T15:22:30Z",
+  "jurabk": "GSIAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1eb6bfb415b2ab9988bf17bd07eab511267eb7cdfd71d2cc0eb1113762a003e2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gsiausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gsiausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Elektroniker für Gebäudesystemintegration und zur Elektronikerin für Gebäudesystemintegration",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

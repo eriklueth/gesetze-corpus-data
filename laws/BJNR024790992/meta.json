@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-12-22",
+  "bjnr": "BJNR024790992",
+  "eli": null,
+  "gii_slug": "stvzoausnv_42",
+  "ingested_at": "2026-04-17T15:29:07Z",
+  "jurabk": "StVZOAusnV 42",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7001c307acae9400ff1c58a7065c82c81ac6bc8a2eb99011e3ba17914e8634b9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvzoausnv_42/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvzoausnv_42/xml.zip"
+  },
+  "stand_datum": "2006-04-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 V v. 25.4.2006 I 988",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Zweiundvierzigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

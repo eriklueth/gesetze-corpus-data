@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2026-03-27",
+  "bjnr": "BJNR05C0A0026",
+  "eli": null,
+  "gii_slug": "finausglg2026dv_1",
+  "ingested_at": "2026-04-17T15:21:21Z",
+  "jurabk": "FinAusglG2026DV 1",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "29a242435a97ef215ef5b9d2ccc1fd6dc0e3e03fd50f1767b4d800b718fdd1b3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/finausglg2026dv_1/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/finausglg2026dv_1/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2026",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

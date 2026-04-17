@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-08-10",
+  "bjnr": "BJNR282000005",
+  "eli": null,
+  "gii_slug": "kassneuov",
+  "ingested_at": "2026-04-17T15:23:22Z",
+  "jurabk": "KassNeuOV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "64715a1b02b042a2fb49abdc4721735ce4f90a335de3d56fecf5b0b853e440f8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kassneuov/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kassneuov/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Neuordnung der Kassenaufsicht über die Bundeskassen Halle/Saale, Kiel, Trier und Weiden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

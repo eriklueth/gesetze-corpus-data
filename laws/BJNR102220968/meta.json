@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1968-03-07",
+  "bjnr": "BJNR102220968",
+  "eli": null,
+  "gii_slug": "promusplrl",
+  "ingested_at": "2026-04-17T15:27:03Z",
+  "jurabk": "ProMusPlRL",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "88d77126f2f5f86cbbd6b17f8c6fa3e6defa6e15906ca386f207744b49a789d5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/promusplrl/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/promusplrl/xml.zip"
+  },
+  "stand_datum": "2026-01-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Erlass v. 11.1.2026 I Nr. 17",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Richtlinien für die Verleihung der PRO MUSICA-Plakette",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

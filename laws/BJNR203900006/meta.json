@@ -1,0 +1,26 @@
+{
+  "amtabk": "BDBOSG",
+  "ausfertigung_datum": "2006-08-28",
+  "bjnr": "BJNR203900006",
+  "eli": null,
+  "gii_slug": "bdbosg",
+  "ingested_at": "2026-04-17T15:17:53Z",
+  "jurabk": "BDBOSG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "05c403bd85d9c5e3b1d058cb381956979e3e5388ff9160205cb90d1d4b3af595"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bdbosg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bdbosg/xml.zip"
+  },
+  "stand_datum": "2022-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 9 G v. 19.12.2022 I 2632",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Errichtung einer Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

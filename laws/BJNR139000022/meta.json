@@ -1,0 +1,26 @@
+{
+  "amtabk": "StFachAngAusbV",
+  "ausfertigung_datum": "2022-08-03",
+  "bjnr": "BJNR139000022",
+  "eli": null,
+  "gii_slug": "stfachangausbv_2023",
+  "ingested_at": "2026-04-17T15:28:55Z",
+  "jurabk": "StFachAngAusbV 2023",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "bb82c8a76019fb46535b655f5671148ad699d037aa00ae142a6f6f77642e0d10"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stfachangausbv_2023/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stfachangausbv_2023/xml.zip"
+  },
+  "stand_datum": "1996-05-09",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-21-1-204 v. 9.5.1996 I 672 (StFachAngAusbV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zum Steuerfachangestellten und zur Steuerfachangestellten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "BauVorl-/BauPrüf-/ÜbAO",
+  "ausfertigung_datum": "1990-08-13",
+  "bjnr": "DDNR014000990",
+  "eli": null,
+  "gii_slug": "baup_ano",
+  "ingested_at": "2026-04-17T15:17:43Z",
+  "jurabk": "BauPÜAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8d65c02594c02c0b90b92b64ae1328cc650ec21bf23a1e47b2a4f8d4b50659bd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baup_ano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baup_ano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über Bauvorlagen, Bautechnische Prüfungen und Überwachung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1989-10-17",
+  "bjnr": "BJNR019240989",
+  "eli": null,
+  "gii_slug": "aug_1abs2bek_7",
+  "ingested_at": "2026-04-17T15:17:21Z",
+  "jurabk": "AUG§1Abs2Bek 7",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "459f76f4caab00776ae4dc5fd400f063620ac998680eb3105e662d168c79874a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/aug_1abs2bek_7/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/aug_1abs2bek_7/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Siebente Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

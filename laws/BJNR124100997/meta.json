@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-05-26",
+  "bjnr": "BJNR124100997",
+  "eli": null,
+  "gii_slug": "vergoldausbv",
+  "ingested_at": "2026-04-17T15:30:03Z",
+  "jurabk": "VergoldAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7972d0b309f770862ddf4860c9937d2b5869459c4fa03933748e89fd047e164c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/vergoldausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/vergoldausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Vergolder/zur Vergolderin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

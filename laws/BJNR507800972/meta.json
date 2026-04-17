@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1972-04-17",
+  "bjnr": "BJNR507800972",
+  "eli": null,
+  "gii_slug": "zinssatzv",
+  "ingested_at": "2026-04-17T15:31:19Z",
+  "jurabk": "ZinsSatzV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "57c4ad282a22250e11b4ad901edbffced36637254c0374982c8164867af778ca"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zinssatzv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zinssatzv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung PR Nr. 4/72 über die Bemessung des kalkulatorischen Zinssatzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1946-12-02",
+  "bjnr": "BJNR205590982",
+  "eli": null,
+  "gii_slug": "walf_bk",
+  "ingested_at": "2026-04-17T15:30:21Z",
+  "jurabk": "WalfÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9b70157e196cefde5bae8cec564c2640f996717356f5bddcfbc30b2c508f47f7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/walf_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/walf_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationales Übereinkommen zur Regelung des Walfangs",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

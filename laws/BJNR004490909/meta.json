@@ -1,0 +1,26 @@
+{
+  "amtabk": "BauFordSiG",
+  "ausfertigung_datum": "1909-06-01",
+  "bjnr": "BJNR004490909",
+  "eli": null,
+  "gii_slug": "baufordsig",
+  "ingested_at": "2026-04-17T15:17:40Z",
+  "jurabk": "BauFordSiG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "21f9cdc3998b8752387f18eee4e54c731e739a8d66cbfa454084b05fe7d3a5fd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/baufordsig/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/baufordsig/xml.zip"
+  },
+  "stand_datum": "2009-07-29",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 29.7.2009 I 2436",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Sicherung der Bauforderungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

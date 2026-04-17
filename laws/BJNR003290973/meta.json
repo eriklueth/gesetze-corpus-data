@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-04-24",
+  "bjnr": "BJNR003290973",
+  "eli": null,
+  "gii_slug": "finausglg1970dv_2",
+  "ingested_at": "2026-04-17T15:21:20Z",
+  "jurabk": "FinAusglG1970DV 2",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "622b27622a531d641f10fee20ea35fde9a4f6d3ff4ce15b30d26d2aa58852fe3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/finausglg1970dv_2/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/finausglg1970dv_2/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweite Verordnung zur Durchführung des Gesetzes über den Finanzausgleich zwischen Bund und Ländern im Ausgleichsjahr 1970",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

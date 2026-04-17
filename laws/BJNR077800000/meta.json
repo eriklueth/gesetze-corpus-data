@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2000-05-26",
+  "bjnr": "BJNR077800000",
+  "eli": null,
+  "gii_slug": "ger_stbausbv_2000",
+  "ingested_at": "2026-04-17T15:22:07Z",
+  "jurabk": "GerüstbAusbV 2000",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2a247a957c5a2f9f6050ba4cfbc5c2cfe64c2df1b198012b29acecd80d1b7fa0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ger_stbausbv_2000/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ger_stbausbv_2000/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Gerüstbauer/zur Gerüstbauerin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

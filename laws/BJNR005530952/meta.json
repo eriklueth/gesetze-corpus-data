@@ -1,0 +1,26 @@
+{
+  "amtabk": "AuslWBG",
+  "ausfertigung_datum": "1952-08-25",
+  "bjnr": "BJNR005530952",
+  "eli": null,
+  "gii_slug": "auslwbg",
+  "ingested_at": "2026-04-17T15:17:22Z",
+  "jurabk": "AuslWBG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "30eb57311250276be00397252e01e363b3a84d5383586198ff027dea7bd2aecc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/auslwbg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/auslwbg/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 203 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Bereinigung von deutschen Schuldverschreibungen, die auf ausländische Währung lauten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

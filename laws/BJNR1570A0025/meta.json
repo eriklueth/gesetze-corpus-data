@@ -1,0 +1,21 @@
+{
+  "amtabk": "HG 2026",
+  "ausfertigung_datum": "2025-12-22",
+  "bjnr": "BJNR1570A0025",
+  "eli": null,
+  "gii_slug": "hg_2026",
+  "ingested_at": "2026-04-17T15:22:41Z",
+  "jurabk": "HG 2026",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "4777a720c46c4dcc38bc6c781ebd97e860420d61d582d4c9b9aec8c9e2b11db8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hg_2026/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hg_2026/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2026",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

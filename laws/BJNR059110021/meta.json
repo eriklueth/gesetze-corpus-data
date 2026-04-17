@@ -1,0 +1,34 @@
+{
+  "amtabk": "IDNrG",
+  "ausfertigung_datum": "2021-03-28",
+  "bjnr": "BJNR059110021",
+  "eli": null,
+  "gii_slug": "idnrg",
+  "ingested_at": "2026-04-17T15:22:53Z",
+  "jurabk": "IDNrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3e8a2755aded725f799f5585f1bd409c840f792160801d5d11008dbd4cbff69f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/idnrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/idnrg/xml.zip"
+  },
+  "stand_datum": "2024-07-19",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8f G v. 19.7.2024 I Nr. 245",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Das G ist gem. Art. 22 Satz 2 iVm Bek. v. 24.8.2023 I Nr. 230 mWv 31.8.2023 in Kraft getreten",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "§ 12 ist gem. Art. 22 Satz 1 mWv 7.4.2021 in Kraft getreten",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zur Einführung und Verwendung einer Identifikationsnummer in der öffentlichen Verwaltung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

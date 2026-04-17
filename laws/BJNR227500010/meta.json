@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2010-12-22",
+  "bjnr": "BJNR227500010",
+  "eli": null,
+  "gii_slug": "amrabg",
+  "ingested_at": "2026-04-17T15:16:59Z",
+  "jurabk": "AMRabG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "1fd8e13fef64eeb1e5daa3a6265ad84d317e334ab05ad2913d8e623896db9c05"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/amrabg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/amrabg/xml.zip"
+  },
+  "stand_datum": "2024-10-23",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 5 G v. 23.10.2024 I Nr. 324",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Rabatte für Arzneimittel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

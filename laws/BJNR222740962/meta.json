@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1960-12-13",
+  "bjnr": "BJNR222740962",
+  "eli": null,
+  "gii_slug": "eurocontrol_bk",
+  "ingested_at": "2026-04-17T15:21:01Z",
+  "jurabk": "EUROCONTROLÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "545d9be51996e9223da5c8aa4bfd8579d156e3a4c57516ea6df8907d4edf156d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurocontrol_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurocontrol_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Internationales Übereinkommen über Zusammenarbeit zur Sicherung der Luftfahrt \"EUROCONTROL\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

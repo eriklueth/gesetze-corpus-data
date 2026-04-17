@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-01-10",
+  "bjnr": "BJNR0080A0025",
+  "eli": null,
+  "gii_slug": "luftvodv_135_2025",
+  "ingested_at": "2026-04-17T15:24:19Z",
+  "jurabk": "LuftVODV 135 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f98d1e6b3a7bffab14f2aff33d707e05c41c40c9d65f05c85ab3087d5ab878bc"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_135_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_135_2025/xml.zip"
+  },
+  "stand_datum": "1993-10-21",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 96-1-2-135 v. 21.10.1993 BAnz 1993, Nr. 212, 9967 (LuftVODV 135)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Hundertfünfunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Lübeck-Blankensee)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

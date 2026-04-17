@@ -1,0 +1,21 @@
+{
+  "amtabk": "GlasmAusbV",
+  "ausfertigung_datum": "1985-07-15",
+  "bjnr": "BJNR015240985",
+  "eli": null,
+  "gii_slug": "glasmausbv",
+  "ingested_at": "2026-04-17T15:22:17Z",
+  "jurabk": "GlasmAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "86e3902dc11fbba57c0680e06b90fbbccc714299425c7dba1be7fafd5f942751"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/glasmausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/glasmausbv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Berufsausbildung zum Glasmacher/zur Glasmacherin",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

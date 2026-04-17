@@ -1,0 +1,792 @@
+{
+  "bjnr": "BJNR09F0B0023",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Bezugnahmen auf technische Normen",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Vollzug",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beschaffenheit des Trinkwassers"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Allgemeine Anforderungen",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beschaffenheit des Trinkwassers"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Mikrobiologische Anforderungen",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beschaffenheit des Trinkwassers"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Chemische Anforderungen",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beschaffenheit des Trinkwassers"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Anforderungen in Bezug auf Indikatorparameter",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beschaffenheit des Trinkwassers"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Radiologische Anforderung",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Beschaffenheit des Trinkwassers"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Stelle der Einhaltung der Anforderungen",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Anzeigepflichten in Bezug auf Wasserversorgungsanlagen und Nichttrinkwasseranlagen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Anzeigepflichten in Bezug auf Wasserversorgungsanlagen",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Anzeigepflichten in Bezug auf Wasserversorgungsanlagen und Nichttrinkwasseranlagen"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Anzeigepflichten in Bezug auf Nichttrinkwasseranlagen",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Anforderungen an Wasserversorgungsanlagen"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Planung, Errichtung, Instandhaltung und Betrieb von Wasserversorgungsanlagen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Anforderungen an Wasserversorgungsanlagen"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Allgemeine Anforderungen an Werkstoffe und Materialien für die Errichtung oder Instandhaltung von Wasserversorgungsanlagen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Anforderungen an Wasserversorgungsanlagen"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Grundlagen für die Bewertung von Werkstoffen und Materialien im Kontakt mit Trinkwasser",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Anforderungen an Wasserversorgungsanlagen"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Konformitätsvermutung",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Anforderungen an Wasserversorgungsanlagen"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Trinkwasserleitungen aus Blei",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Aufbereitung"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Aufbereitungszwecke",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Aufbereitung"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Allgemeine Anforderungen an die Aufbereitung",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Aufbereitung"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Liste zulässiger Aufbereitungsstoffe und Desinfektionsverfahren",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Aufbereitung"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Ausnahmen",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Aufbereitung"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Abgabeverbot bei unzulässiger Aufbereitung",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Aufbereitung"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Pflicht zur Aufbereitung",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Aufbereitung"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Untersuchung auf den Betriebsparameter Trübung bei Filtration",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Aufbereitung"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Aufzeichnungspflichten des Betreibers",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Aufbereitung"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Information der Anschlussnehmer und Verbraucher über Aufbereitung",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Untersuchungspflichten des Betreibers"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Besichtigung von Schutzzonen, Untersuchung von Rohwasser",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Untersuchungspflichten des Betreibers"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Untersuchungspflichten in Bezug auf mikrobiologische Parameter, chemische Parameter, Indikatorparameter und Aufbereitungsstoffe bei zentralen und dezentralen Wasserversorgungsanlagen; Untersuchungsplan",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Untersuchungspflichten des Betreibers"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Untersuchungspflichten in Bezug auf mikrobiologische Parameter, chemische Parameter, Indikatorparameter und Aufbereitungsstoffe bei anderen Wasserversorgungsanlagen",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Untersuchungspflichten des Betreibers"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Programm für betriebliche Untersuchungen",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Untersuchungspflichten des Betreibers"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Untersuchungspflichten in Bezug auf Legionella spec.",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Untersuchungspflichten des Betreibers"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Untersuchungspflichten in Bezug auf radioaktive Stoffe",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Untersuchungspflichten des Betreibers"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Ausnahmen von den Untersuchungspflichten in Bezug auf radioaktive Stoffe",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Risikobasierter Ansatz"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Pflicht zum Risikomanagement für Wasserversorgungsanlagen",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Risikobasierter Ansatz"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Risikomanagement für Wasserversorgungsanlagen",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Risikobasierter Ansatz"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Indikatorparameter somatische Coliphagen",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Risikobasierter Ansatz"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Vorschlag für eine Anpassung oder Beibehaltung des Untersuchungsplans oder für die Bestimmung von Untersuchungspflichten",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Risikobasierter Ansatz"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Verfahren zur Entscheidung über eine Anpassung oder Beibehaltung des Untersuchungsplans oder für eine Bestimmung von Untersuchungspflichten",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Zugelassene Untersuchungsstellen"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Beauftragung einer zugelassenen Untersuchungsstelle",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 8 Zugelassene Untersuchungsstellen"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Zugelassene Untersuchungsstellen",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 9 Durchführung von Trinkwasseruntersuchungen"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Stelle der Probennahme",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 9 Durchführung von Trinkwasseruntersuchungen"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Probennahmeverfahren",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 9 Durchführung von Trinkwasseruntersuchungen"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Untersuchungsverfahren",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 9 Durchführung von Trinkwasseruntersuchungen"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Niederschrift über das Untersuchungsergebnis",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Regelmäßige Information der Anschlussnehmer und Verbraucher"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Regelmäßige Information der Anschlussnehmer und Verbraucher in Textform",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 10 Regelmäßige Information der Anschlussnehmer und Verbraucher"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Regelmäßige internetbasierte Information der Verbraucher",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 11 Pflichten des Betreibers bei der Nichteinhaltung von Grenzwerten oder Höchstwerten, bei der Nichterfüllung von Anforderungen und bei außergewöhnlichen Vorkommnissen; Verbote"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Anzeigepflichten",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 11 Pflichten des Betreibers bei der Nichteinhaltung von Grenzwerten oder Höchstwerten, bei der Nichterfüllung von Anforderungen und bei außergewöhnlichen Vorkommnissen; Verbote"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Klärung der Ursachen und Maßnahmen zur Abhilfe",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 11 Pflichten des Betreibers bei der Nichteinhaltung von Grenzwerten oder Höchstwerten, bei der Nichterfüllung von Anforderungen und bei außergewöhnlichen Vorkommnissen; Verbote"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Abgabeverbot",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 11 Pflichten des Betreibers bei der Nichteinhaltung von Grenzwerten oder Höchstwerten, bei der Nichterfüllung von Anforderungen und bei außergewöhnlichen Vorkommnissen; Verbote"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Maßnahmenplan des Betreibers",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 11 Pflichten des Betreibers bei der Nichteinhaltung von Grenzwerten oder Höchstwerten, bei der Nichterfüllung von Anforderungen und bei außergewöhnlichen Vorkommnissen; Verbote"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Handlungspflichten des Betreibers in Bezug auf Legionella spec.",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 11 Pflichten des Betreibers bei der Nichteinhaltung von Grenzwerten oder Höchstwerten, bei der Nichterfüllung von Anforderungen und bei außergewöhnlichen Vorkommnissen; Verbote"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Information der Verbraucher bei Überschreitungen von Grenzwerten, Höchstwerten, Anforderungen, Parameterwerten oder Erreichen des technischen Maßnahmenwerts",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 12 Pflichten der zugelassenen Untersuchungsstelle"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Anzeigepflicht und Meldepflicht der zugelassenen Untersuchungsstelle in Bezug auf Legionella spec.",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Überwachung"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Überwachung durch das Gesundheitsamt",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Überwachung"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "Umfang der Überwachung durch das Gesundheitsamt",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Überwachung"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Berichtsplan des Gesundheitsamts für ein Wasserversorgungsgebiet",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Überwachung"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Überwachung durch die zuständige Behörde im Hinblick auf radioaktive Stoffe",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Überwachung"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Mitwirkungs- und Duldungspflichten",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Überwachung"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Durchführung der Untersuchungen im Rahmen der Überwachung durch das Gesundheitsamt oder die zuständige Behörde",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 13 Überwachung"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Niederschrift über die Überwachung",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Gefahrenvorsorge und Gefahrenabwehr"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Anordnungen des Gesundheitsamts oder der zuständigen Behörde zur Gefahrenvorsorge",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Gefahrenvorsorge und Gefahrenabwehr"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Beurteilung von Gefährdungen und Risiken",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Gefahrenvorsorge und Gefahrenabwehr"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "Anordnungen von Maßnahmen des Gesundheitsamts oder der zuständigen Behörde zur Gefahrenabwehr bei Wasserversorgungsanlagen",
+      "number": "§ 63",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Gefahrenvorsorge und Gefahrenabwehr"
+      ],
+      "file": "paragraphs/0064.md",
+      "heading": "Anordnungen des Gesundheitsamts zur Gefahrenabwehr bei Trinkwasserinstallationen",
+      "number": "§ 64",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Gefahrenvorsorge und Gefahrenabwehr"
+      ],
+      "file": "paragraphs/0065.md",
+      "heading": "Klärung der Ursachen und Anordnung von Maßnahmen durch das Gesundheitsamt oder die zuständige Behörde",
+      "number": "§ 65",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Gefahrenvorsorge und Gefahrenabwehr"
+      ],
+      "file": "paragraphs/0066.md",
+      "heading": "Zulassung der Abweichung von Grenzwerten oder Höchstwerten für chemische Parameter",
+      "number": "§ 66",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Gefahrenvorsorge und Gefahrenabwehr"
+      ],
+      "file": "paragraphs/0067.md",
+      "heading": "Information der betroffenen Verbraucher",
+      "number": "§ 67",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 14 Gefahrenvorsorge und Gefahrenabwehr"
+      ],
+      "file": "paragraphs/0068.md",
+      "heading": "Besondere Maßnahmen des Gesundheitsamts in Bezug auf Legionella spec.",
+      "number": "§ 68",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 15 Berichtswesen"
+      ],
+      "file": "paragraphs/0069.md",
+      "heading": "Berichtspflichten der Behörden",
+      "number": "§ 69",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 15 Berichtswesen"
+      ],
+      "file": "paragraphs/0070.md",
+      "heading": "Bewertung von Trinkwasserinstallationen",
+      "number": "§ 70",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 16 Straftaten und Ordnungswidrigkeiten"
+      ],
+      "file": "paragraphs/0071.md",
+      "heading": "Straftaten",
+      "number": "§ 71",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 16 Straftaten und Ordnungswidrigkeiten"
+      ],
+      "file": "paragraphs/0072.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 72",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 16 Straftaten und Ordnungswidrigkeiten"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 6 Absatz 2 bis 4, § 28 Absatz 1 Satz 2 Nummer 1 Buchstabe a, § 29 Absatz 1 Satz 1 und Absatz 2 Satz 1 und 2 Nummer 2, § 47 Absatz 1 Nummer 3, § 56 Absatz 3 Satz 1 Nummer 1, § 61 Nummer 5 Buchstabe a und Nummer 6 Buchstabe a Doppelbuchstabe aa, § 62 Absatz 1 Satz 1 Nummer 1, § 69 Absatz 1 Satz 2 Nummer 3)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 16 Straftaten und Ordnungswidrigkeiten"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 7 Absatz 2 und 3, § 28 Absatz 1 Satz 2 Nummer 2 Buchstabe a, § 41 Absatz 3, § 47 Absatz 1 Nummer 5, § 48 Absatz 5, § 55 Absatz 5 Satz 3, § 61 Nummer 5 Buchstabe b und Nummer 6 Buchstabe a Doppelbuchstabe aa, § 62 Absatz 1 Satz 1 Nummer 1, § 65 Absatz 2 Satz 2 und Absatz 4 Satz 1, § 66 Absatz 1, § 69 Absatz 1 Satz 2 Nummer 3)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 16 Straftaten und Ordnungswidrigkeiten"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(Teil I zu § 8 Absatz 1 Satz 1 und Absatz 2, § 28 Absatz 1 Satz 2 Nummer 3, § 29 Absatz 1 Satz 1 und Absatz 2",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 16 Straftaten und Ordnungswidrigkeiten"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "(zu § 9 Satz 2, § 32 Absatz 1 Satz 1 bis 3, Absatz 4 Satz 4, Absatz 5 Satz 3, Absatz 6 Satz 1 und Absatz 8, den §§ 33, 39 Absatz 4 Nummer 3, § 43 Absatz 7 Satz 2, § 47 Absatz 1 Nummer 8, § 62 Absatz 3, § 69 Absatz 1 Satz 2 Nummer 3)",
+      "number": "Anlage 4",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 16 Straftaten und Ordnungswidrigkeiten"
+      ],
+      "file": "annexes/0005.md",
+      "heading": "(zu § 24 Absatz 1 und 3)",
+      "number": "Anlage 5",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 16 Straftaten und Ordnungswidrigkeiten"
+      ],
+      "file": "annexes/0006.md",
+      "heading": "(zu § 28 Absatz 1 Satz 3 und Absatz 3 Satz 1 und 2, § 32 Absatz 7 Satz 2, § 56 Absatz 3 Satz 1 Nummer 2)",
+      "number": "Anlage 6",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 16 Straftaten und Ordnungswidrigkeiten"
+      ],
+      "file": "annexes/0007.md",
+      "heading": "(zu § 32 Absatz 8, § 43 Absatz 6 Satz 1 und 3 und Absatz 7 Satz 1)",
+      "number": "Anlage 7",
+      "type": "annex"
+    }
+  ]
+}

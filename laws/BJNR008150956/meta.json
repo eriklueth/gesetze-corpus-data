@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-10-19",
+  "bjnr": "BJNR008150956",
+  "eli": null,
+  "gii_slug": "blg",
+  "ingested_at": "2026-04-17T15:18:36Z",
+  "jurabk": "BLG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2ab4cee8246c780197239cde2a0e2e503822d02afb65fca7d83e2a89f65d7673"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/blg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/blg/xml.zip"
+  },
+  "stand_datum": "2024-07-15",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 19 G v. 15.7.2024 I Nr. 236",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Bundesleistungsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

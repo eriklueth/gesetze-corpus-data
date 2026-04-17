@@ -1,0 +1,26 @@
+{
+  "amtabk": "ZupfMstrV",
+  "ausfertigung_datum": "1997-10-07",
+  "bjnr": "BJNR245800997",
+  "eli": null,
+  "gii_slug": "zupfmstrv",
+  "ingested_at": "2026-04-17T15:31:31Z",
+  "jurabk": "ZupfMstrV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a792d48e09ffc7bdd6e9f2bca2c69bc8f2d05dd566923bab95927249f7bc8dd3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zupfmstrv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zupfmstrv/xml.zip"
+  },
+  "stand_datum": "2022-01-18",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 27 V v. 18.1.2022 I 39",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Zupfinstrumentenmacher-Handwerk",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

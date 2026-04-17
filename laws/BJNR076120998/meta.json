@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1998-04-24",
+  "bjnr": "BJNR076120998",
+  "eli": null,
+  "gii_slug": "unfreiwprograbkgeltv",
+  "ingested_at": "2026-04-17T15:29:50Z",
+  "jurabk": "UNFreiwProgrAbkGeltV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b155f57794ea214b5328a61ecfa67a5db3070be24775a5662466145cead5455b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unfreiwprograbkgeltv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unfreiwprograbkgeltv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Geltung des Abkommens vom 10. November 1995 zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen für das Informationszentrum der Vereinten Nationen in Bonn",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

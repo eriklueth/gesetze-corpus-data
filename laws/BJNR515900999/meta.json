@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-08-09",
+  "bjnr": "BJNR515900999",
+  "eli": null,
+  "gii_slug": "luftvodv_195",
+  "ingested_at": "2026-04-17T15:24:25Z",
+  "jurabk": "LuftVODV 195",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a71615b8f4f3ffbdaf2118da54109daa6aa8ad06f289715fabfd8db6889bcdbe"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_195/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_195/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Hundertfünfundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandesplatz Eggenfelden)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

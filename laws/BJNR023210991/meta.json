@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1991-12-20",
+  "bjnr": "BJNR023210991",
+  "eli": null,
+  "gii_slug": "arschiedsgaufhg",
+  "ingested_at": "2026-04-17T15:17:04Z",
+  "jurabk": "ARSchiedsGAufhG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "386b46755973183b25c3a69bf6c1847bcd4244daaa755178e6235213ce303178"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/arschiedsgaufhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/arschiedsgaufhg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Aufhebung des Gesetzes über die Errichtung und das Verfahren der Schiedsstellen für Arbeitsrecht und zur Änderung des Arbeitsförderungsgesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

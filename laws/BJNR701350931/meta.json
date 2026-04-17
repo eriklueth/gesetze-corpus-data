@@ -1,0 +1,34 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1931-03-28",
+  "bjnr": "BJNR701350931",
+  "eli": null,
+  "gii_slug": "bierstdb",
+  "ingested_at": "2026-04-17T15:18:21Z",
+  "jurabk": "BierStDB",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3d17f681f9d76da623a2e9bc3b21f6a50b17e25722f6a4d580dedcf1e9403760"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bierstdb/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bierstdb/xml.zip"
+  },
+  "stand_datum": "1993-07-29",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 29.7.1993 I 1422;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 6 V v. 2.6.2021 I 1362",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "V aufgeh. mit Ausnahme der Bezeichnung der V, der §§ 3, 8 Satz 2 bis 4, der §§ 16 bis 19, § 20 Abs. 1 Satz 2 u. §§ 21 u. 22 Abs. 1 sowie der Überschr. vor § 16 durch § 28 Satz 1 G 612-6-3 (BierStG 1993) v. 21.12.1992 I 2150, 2158 mWv 1.1.1993",
+      "typ": "Aufh"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Vorläufigen Biergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1997-10-06",
+  "bjnr": "BJNR240720998",
+  "eli": null,
+  "gii_slug": "natotrstatzusabk_nl",
+  "ingested_at": "2026-04-17T15:25:54Z",
+  "jurabk": "NATOTrStatZusAbk NL",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d4236a4bef298cbe20cbd6ac3cdb082a4d5d3e21b91a19fa4187a6f4584dce53"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/natotrstatzusabk_nl/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/natotrstatzusabk_nl/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zusatzabkommen zu dem Abkommen vom 19. Juni 1951 zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen hinsichtlich der im Königreich der Niederlande stationierten deutschen Truppen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

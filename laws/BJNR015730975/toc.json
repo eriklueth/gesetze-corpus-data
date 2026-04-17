@@ -1,0 +1,593 @@
+{
+  "bjnr": "BJNR015730975",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Geltungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Grundregel",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "1. Titel Betriebsleitung"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Pflichten des Unternehmers",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "1. Titel Betriebsleitung"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Betriebsleiter",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "1. Titel Betriebsleitung"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Auswärtige Unternehmer",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "1. Titel Betriebsleitung"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Meldepflicht",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "2. Titel Fahrdienst"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Grundregel",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "2. Titel Fahrdienst"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Verhalten im Fahrdienst",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "2. Titel Fahrdienst"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Verhalten bei Krankheit",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "2. Titel Fahrdienst"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Mitführen von Vorschriften und Fahrplänen",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "2. Titel Fahrdienst"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Fundsachen",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "3. Titel Fahrgäste, Beförderungspflicht"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "3. Titel Fahrgäste, Beförderungspflicht"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Beförderung von Personen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "3. Titel Fahrgäste, Beförderungspflicht"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Verhalten der Fahrgäste",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "2. Abschnitt Vorschriften über den Betrieb",
+        "3. Titel Fahrgäste, Beförderungspflicht"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Beförderung von Sachen",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "1. Titel Bestimmungen für alle Fahrzeuge"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Anzuwendende Vorschriften",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "1. Titel Bestimmungen für alle Fahrzeuge"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Zulässige Fahrzeuge",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "1. Titel Bestimmungen für alle Fahrzeuge"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Ausrüstung",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "1. Titel Bestimmungen für alle Fahrzeuge"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Beschaffenheit und Anbringung von Zeichen und Ausrüstungsgegenständen",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "2. Titel Obusse und Kraftomnibusse"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Beschriftung",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "2. Titel Obusse und Kraftomnibusse"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Verständigung mit dem Fahrzeugführer",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "2. Titel Obusse und Kraftomnibusse"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Stehplätze",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "2. Titel Obusse und Kraftomnibusse"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "2. Titel Obusse und Kraftomnibusse"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "(weggefallen)",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "3. Titel Taxen und Mietwagen"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Türen, Alarmanlage und Trennwand",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "3. Titel Taxen und Mietwagen"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Kenntlichmachung",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "3. Titel Taxen und Mietwagen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Ordnungsnummer, Unternehmeranschrift",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "3. Titel Taxen und Mietwagen"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Fahrpreisanzeiger",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "3. Titel Taxen und Mietwagen"
+      ],
+      "file": "paragraphs/0028a.md",
+      "heading": "Navigationsgerät",
+      "number": "§ 28a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "3. Titel Taxen und Mietwagen"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Gepäck",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "3. Titel Taxen und Mietwagen"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Wegstreckenzähler",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "3. Abschnitt Ausrüstung und Beschaffenheit der Fahrzeuge",
+        "3. Titel Taxen und Mietwagen"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Fahrzeuge mit einer Genehmigung für den Taxen-, Mietwagenverkehr und gebündelten Bedarfsverkehr",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "4. Abschnitt Sondervorschriften",
+        "1. Titel Obusverkehr und Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Haltestellen",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "4. Abschnitt Sondervorschriften",
+        "1. Titel Obusverkehr und Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Kennzeichnung und Beschilderung",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "4. Abschnitt Sondervorschriften",
+        "1. Titel Obusverkehr und Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Sitzplätze für behinderte und andere sitzplatzbedürftige Personen",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "4. Abschnitt Sondervorschriften",
+        "1. Titel Obusverkehr und Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Übersicht über Linienverlauf und Haltestellen",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "4. Abschnitt Sondervorschriften",
+        "1. Titel Obusverkehr und Linienverkehr mit Kraftfahrzeugen"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Ausnahmen für Sonderformen des Linienverkehrs",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "4. Abschnitt Sondervorschriften",
+        "2. Titel Taxenverkehr"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Beförderungsentgelte",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "4. Abschnitt Sondervorschriften",
+        "2. Titel Taxenverkehr"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Fahrweg",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "4. Abschnitt Sondervorschriften",
+        "2. Titel Taxenverkehr"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Benutzung des Taxischildes",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "4. Abschnitt Sondervorschriften",
+        "3. Titel Mietwagenverkehr"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Beförderungsentgelte",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "5. Abschnitt Sondervorschriften über die Untersuchungen der Fahrzeuge"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Hauptuntersuchungen",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "5. Abschnitt Sondervorschriften über die Untersuchungen der Fahrzeuge"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Außerordentliche Hauptuntersuchungen",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Ausnahmen",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Berlin-Klausel",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Inkrafttreten, Aufhebung von Rechtsvorschriften",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(§ 26 Abs. 1)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(weggefallen)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(§ 27 Abs. 1)",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "annexes/0003a.md",
+      "heading": "(zu § 27 Absatz 3)",
+      "number": "Anlage 3a",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "annexes/0003b.md",
+      "heading": "(zu § 27 Absatz 4)",
+      "number": "Anlage 3b",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "(§ 33 Abs. 4)",
+      "number": "Anlage 4",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "1. Abschnitt Allgemeine Vorschriften",
+        "6. Abschnitt Schluß- und Übergangsvorschriften"
+      ],
+      "file": "annexes/0005.md",
+      "heading": "(§ 34 Satz 2)",
+      "number": "Anlage 5",
+      "type": "annex"
+    }
+  ]
+}

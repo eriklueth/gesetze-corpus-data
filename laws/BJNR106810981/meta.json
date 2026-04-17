@@ -1,0 +1,30 @@
+{
+  "amtabk": "BtMG",
+  "ausfertigung_datum": "1981-07-28",
+  "bjnr": "BJNR106810981",
+  "eli": null,
+  "gii_slug": "btmg_1981",
+  "ingested_at": "2026-04-17T15:19:25Z",
+  "jurabk": "BtMG 1981",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5339c94b07a087c65a3d88617af954bd26d5ee9a0a7994cda41a7bfac19efa0e"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/btmg_1981/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/btmg_1981/xml.zip"
+  },
+  "stand_datum": "1994-03-01",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 1.3.1994 I 358;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 1 V v. 19.12.2025 I Nr. 365",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über den Verkehr mit Betäubungsmitteln",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

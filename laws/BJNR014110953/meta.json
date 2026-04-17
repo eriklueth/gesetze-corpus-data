@@ -1,0 +1,30 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1953-09-17",
+  "bjnr": "BJNR014110953",
+  "eli": null,
+  "gii_slug": "hwo",
+  "ingested_at": "2026-04-17T15:22:49Z",
+  "jurabk": "HwO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e80f897a67cc9a64e6f11e7c29a1d4b67f372bbd26025ba42b82754028499f26"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hwo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hwo/xml.zip"
+  },
+  "stand_datum": "1998-09-24",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 24.9.1998 I 3074; 2006, 2095;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 G v. 3.4.2025 I Nr. 106",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Ordnung des Handwerks",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

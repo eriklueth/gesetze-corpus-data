@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-04-04",
+  "bjnr": "BJNR105700005",
+  "eli": null,
+  "gii_slug": "m_nz10eurobek_2005-04",
+  "ingested_at": "2026-04-17T15:25:15Z",
+  "jurabk": "Münz10EuroBek 2005-04",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "336d23e98322a80f1d166895ce75eca0d6ff26b81c857adcc4d24aab9a2810a6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/m_nz10eurobek_2005-04/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/m_nz10eurobek_2005-04/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"200. Todestag des Dichters Friedrich von Schiller\")",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

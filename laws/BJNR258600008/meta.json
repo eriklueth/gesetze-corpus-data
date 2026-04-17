@@ -1,0 +1,30 @@
+{
+  "amtabk": "FGG-RG",
+  "ausfertigung_datum": "2008-12-17",
+  "bjnr": "BJNR258600008",
+  "eli": null,
+  "gii_slug": "fgg-rg",
+  "ingested_at": "2026-04-17T15:21:19Z",
+  "jurabk": "FGG-RG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e4e488c748f8401f3a576f659b8aecdab978b35cc2d391c34a8c5151956d05a5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fgg-rg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fgg-rg/xml.zip"
+  },
+  "stand_datum": "2009-07-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 8 G v. 30.7.2009 I 2449;",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Aufgenommen wegen Art. 111",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz zur Reform des Verfahrens in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

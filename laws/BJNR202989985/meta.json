@@ -1,0 +1,21 @@
+{
+  "amtabk": "RIP",
+  "ausfertigung_datum": "1980-05-09",
+  "bjnr": "BJNR202989985",
+  "eli": null,
+  "gii_slug": "rip_1980",
+  "ingested_at": "2026-04-17T15:27:24Z",
+  "jurabk": "RIP 1980",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e620a6880905f8c60556cc2601977106ea7b389b9307e4b6afd7196016c997a3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rip_1980/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rip_1980/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Ordnung für die internationale Eisenbahnbeförderung von Privatwagen (Anlage II zum Anhang B zum Übereinkommen über den internationalen Eisenbahnverkehr (COTIF)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

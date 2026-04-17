@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-11-02",
+  "bjnr": "BJNR205960985",
+  "eli": null,
+  "gii_slug": "seeverschmprot",
+  "ingested_at": "2026-04-17T15:28:01Z",
+  "jurabk": "SeeVerschmProt",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "e57740c5630b104dddda5d3058812d541403c574e84c87c5edfc1256489968f3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seeverschmprot/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seeverschmprot/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Protokoll von 1973 über Maßnahmen auf Hoher See bei Fällen von Verschmutzung durch andere Stoffe als Öl",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

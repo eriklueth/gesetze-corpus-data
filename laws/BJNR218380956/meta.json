@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1956-10-27",
+  "bjnr": "BJNR218380956",
+  "eli": null,
+  "gii_slug": "moselvtr_fra_lux",
+  "ingested_at": "2026-04-17T15:24:59Z",
+  "jurabk": "MoselVtr FRA/LUX",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "55d8cb834adc1409a152c0283c30cb5484ea538d3d4a8828446d6ab51f956dce"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/moselvtr_fra_lux/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/moselvtr_fra_lux/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland, der Französischen Republik und dem Großherzogtum Luxemburg über die Schiffbarmachung der Mosel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

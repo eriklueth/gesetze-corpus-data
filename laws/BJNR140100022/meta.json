@@ -1,0 +1,30 @@
+{
+  "amtabk": "GOT",
+  "ausfertigung_datum": "2022-08-15",
+  "bjnr": "BJNR140100022",
+  "eli": null,
+  "gii_slug": "got_2022",
+  "ingested_at": "2026-04-17T15:22:21Z",
+  "jurabk": "GOT 2022",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "457d70281fc4e26f6ddd11d3be0859557ec39347728b0a0fc1ecd9977a9a8b43"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/got_2022/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/got_2022/xml.zip"
+  },
+  "stand_datum": "2023-03-15",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 V v. 15.3.2023 I Nr. 70",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 7830-1-4 v. 28.7.1999 I 1691 (GOT)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gebührenordnung für Tierärztinnen und Tierärzte",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

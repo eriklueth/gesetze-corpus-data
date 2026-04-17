@@ -1,0 +1,26 @@
+{
+  "amtabk": "HADVDV",
+  "ausfertigung_datum": "2025-03-18",
+  "bjnr": "BJNR05C0E0025",
+  "eli": null,
+  "gii_slug": "hadvdv",
+  "ingested_at": "2026-04-17T15:22:33Z",
+  "jurabk": "HADVDV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ff923220d916b3ed3c4f07cbe2913aec4920b7dc340ef98d380701474f7e22e5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hadvdv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hadvdv/xml.zip"
+  },
+  "stand_datum": "2004-06-15",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 2030-7-6-4 v. 15.6.2004 I 1088 (LAP-hADV 2004)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den höheren Auswärtigen Dienst",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

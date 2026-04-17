@@ -1,0 +1,21 @@
+{
+  "amtabk": "3. BetrAVStatVO",
+  "ausfertigung_datum": "1990-08-31",
+  "bjnr": "BJNR516800990",
+  "eli": null,
+  "gii_slug": "betravstatv_3",
+  "ingested_at": "2026-04-17T15:16:34Z",
+  "jurabk": "BetrAVStatV 3",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "243e3ad441a63195521ce4dc33619fc33591db1a3ca8aab3eec7121f093324b7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/betravstatv_3/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/betravstatv_3/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Dritte Verordnung zur Durchführung einer Bundesstatistik über Art und Umfang der betrieblichen Altersversorgung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

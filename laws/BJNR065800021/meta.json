@@ -1,0 +1,21 @@
+{
+  "amtabk": "SozSichUKG",
+  "ausfertigung_datum": "2021-04-01",
+  "bjnr": "BJNR065800021",
+  "eli": null,
+  "gii_slug": "sozsichukg",
+  "ingested_at": "2026-04-17T15:28:41Z",
+  "jurabk": "SozSichUKG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dfeb53c2182487767974277b5bc583b345c4114d50b74a5cb911aa9d8a60b61f"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichukg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichukg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Koordinierung der sozialen Sicherheit mit dem Vereinigten Königreich Großbritannien und Nordirland",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "SeeGVG",
+  "ausfertigung_datum": "1995-06-06",
+  "bjnr": "BJNR078600995",
+  "eli": null,
+  "gii_slug": "seegvg",
+  "ingested_at": "2026-04-17T15:28:07Z",
+  "jurabk": "SeeGVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2f663830eed4da8e70bb929055eeb85b72b3eb5f7df4742a29473209ae34ab23"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/seegvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/seegvg/xml.zip"
+  },
+  "stand_datum": "2002-01-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 Abs. 2 G v. 30.1.2002 I 564",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Vollstreckung von Entscheidungen internationaler Gerichte auf dem Gebiet des Seerechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

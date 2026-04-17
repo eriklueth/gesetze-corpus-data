@@ -1,0 +1,26 @@
+{
+  "amtabk": "KfSachvV",
+  "ausfertigung_datum": "1972-05-24",
+  "bjnr": "BJNR008540972",
+  "eli": null,
+  "gii_slug": "kfsachvv",
+  "ingested_at": "2026-04-17T15:23:26Z",
+  "jurabk": "KfSachvV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9d423be3b385fcb3bb24480252bc5fd7f127e48f867c31309eda969973f6b119"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kfsachvv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kfsachvv/xml.zip"
+  },
+  "stand_datum": "2015-08-31",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 477 V v. 31.8.2015 I 1474",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Kraftfahrsachverständigengesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

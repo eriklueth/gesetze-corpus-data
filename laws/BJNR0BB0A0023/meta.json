@@ -1,0 +1,21 @@
+{
+  "amtabk": "StrBetrManBAProFV",
+  "ausfertigung_datum": "2023-07-12",
+  "bjnr": "BJNR0BB0A0023",
+  "eli": null,
+  "gii_slug": "strbetrmanbaprofv",
+  "ingested_at": "2026-04-17T15:28:56Z",
+  "jurabk": "StrBetrManBAProFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7214ed05c236480fa1780440e482c43ec36972b3f729372cca2a25be451a13fb"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/strbetrmanbaprofv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/strbetrmanbaprofv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Bachelor Professional in Straßenbetriebsmanagement",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1969-07-24",
+  "bjnr": "BJNR009400969",
+  "eli": null,
+  "gii_slug": "konjausglrv_1969",
+  "ingested_at": "2026-04-17T15:23:43Z",
+  "jurabk": "KonjAusglRV 1969",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "177b7566f869c723a5aaea425dd963619859d7b0fa46878c4691c2d13bfd3e65"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/konjausglrv_1969/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/konjausglrv_1969/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Bildung von Konjunkturausgleichsrücklagen durch Bund und Länder im Haushaltsjahr 1969",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

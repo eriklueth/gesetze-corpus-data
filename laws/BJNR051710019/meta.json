@@ -1,0 +1,30 @@
+{
+  "amtabk": "GArchDVDV",
+  "ausfertigung_datum": "2019-04-23",
+  "bjnr": "BJNR051710019",
+  "eli": null,
+  "gii_slug": "garchdvdv_2019",
+  "ingested_at": "2026-04-17T15:21:52Z",
+  "jurabk": "GArchDVDV 2019",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3a4f9a8dcc28b2215c649fdd3979b3a118a59f225f4054cc864e581bb448f260"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/garchdvdv_2019/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/garchdvdv_2019/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 Abs. 23 V v. 11.3.2026 I Nr. 67",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt V 2030-8-5-6 v. 18.12.2015 I 2478 (GArchDVDV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über den Vorbereitungsdienst für den gehobenen Archivdienst des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

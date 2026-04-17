@@ -1,0 +1,26 @@
+{
+  "amtabk": "EnVKG",
+  "ausfertigung_datum": "2012-05-10",
+  "bjnr": "BJNR107010012",
+  "eli": null,
+  "gii_slug": "envkg_2012",
+  "ingested_at": "2026-04-17T15:20:43Z",
+  "jurabk": "EnVKG 2012",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "2697876a6c17fd93ec15e4825a91151f6a1423dd6e84570765746bf9032885ea"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/envkg_2012/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/envkg_2012/xml.zip"
+  },
+  "stand_datum": "2021-07-16",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 10a G v. 16.7.2021 I 3026",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Kennzeichnung von energieverbrauchsrelevanten Produkten, Kraftfahrzeugen und Reifen mit Angaben über den Verbrauch an Energie und an anderen wichtigen Ressourcen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

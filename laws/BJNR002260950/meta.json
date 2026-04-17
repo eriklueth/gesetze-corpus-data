@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1950-06-23",
+  "bjnr": "BJNR002260950",
+  "eli": null,
+  "gii_slug": "eheanerkg",
+  "ingested_at": "2026-04-17T15:20:31Z",
+  "jurabk": "EheAnerkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "96ae4934326b04476920b6f6a344bf64f1f382346c65a30a7bace1adc5a97816"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eheanerkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eheanerkg/xml.zip"
+  },
+  "stand_datum": "1956-03-07",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch G v. 7.3.1956 I 104",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über die Anerkennung freier Ehen rassisch und politisch Verfolgter",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

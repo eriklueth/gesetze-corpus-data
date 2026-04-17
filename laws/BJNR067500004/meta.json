@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2004-03-25",
+  "bjnr": "BJNR067500004",
+  "eli": null,
+  "gii_slug": "dpaernano",
+  "ingested_at": "2026-04-17T15:20:01Z",
+  "jurabk": "DPAErnAnO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dc144cce22f01af41fd27e8192630f2e59aacc063e0eb7c2508e5e6c867ac7a6"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/dpaernano/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/dpaernano/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Anordnung über die Ernennung und Entlassung von Beamten im Deutschen Patent- und Markenamt",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-12-20",
+  "bjnr": "BJNR361800005",
+  "eli": null,
+  "gii_slug": "tsevorsorgv",
+  "ingested_at": "2026-04-17T15:29:35Z",
+  "jurabk": "TSEVorsorgV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0ff97bc021168e5b407df37790a179cbd8595ff8ca68bc47171656365ce1579d"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/tsevorsorgv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/tsevorsorgv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Tötung von Rindern, Schafen und Ziegen zur Vorsorge für die menschliche und tierische Gesundheit im Hinblick auf Transmissible Spongiforme Enzephalopathien",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

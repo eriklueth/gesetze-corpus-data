@@ -1,0 +1,26 @@
+{
+  "amtabk": "KugÖV",
+  "ausfertigung_datum": "2022-09-28",
+  "bjnr": "BJNR627200022",
+  "eli": null,
+  "gii_slug": "kug_v",
+  "ingested_at": "2026-04-17T15:23:57Z",
+  "jurabk": "KugÖV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "dc6493648d4ad429bd930b5770f696870611b048a317c2e037be65a81c0420f8"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/kug_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/kug_v/xml.zip"
+  },
+  "stand_datum": "2022-12-19",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 2 V v. 19.12.2022 BAnz AT 21.12.2022 V3",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Öffnung des Kurzarbeitergeldbezugs für Leiharbeitnehmerinnen und Leiharbeitnehmer",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

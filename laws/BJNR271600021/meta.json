@@ -1,0 +1,26 @@
+{
+  "amtabk": "BBodSchV",
+  "ausfertigung_datum": "2021-07-09",
+  "bjnr": "BJNR271600021",
+  "eli": null,
+  "gii_slug": "bbodschv_2023",
+  "ingested_at": "2026-04-17T15:17:51Z",
+  "jurabk": "BBodSchV 2023",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "93b292aec1b5c4cdda4a61cc71765780826ee197a7a389fb1e3a38341bab01a7"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbodschv_2023/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbodschv_2023/xml.zip"
+  },
+  "stand_datum": "1999-07-12",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 2129-32-1 v. 12.7.1999 I 1554 (BBodSchV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Bundes-Bodenschutz- und Altlastenverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": "BVollzVergV",
+  "ausfertigung_datum": "2021-06-16",
+  "bjnr": "BJNR184000021",
+  "eli": null,
+  "gii_slug": "bvollzvergv",
+  "ingested_at": "2026-04-17T15:19:31Z",
+  "jurabk": "BVollzVergV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7f94a86558bb4807076a96883517ddfe332c029cf39a17102c99daaaef9feafe"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bvollzvergv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bvollzvergv/xml.zip"
+  },
+  "stand_datum": "2003-01-06",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 2032-1-17 v. 6.1.2003 I 8 (VollstrVergV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Bundesvollziehungsvergütungsverordnung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

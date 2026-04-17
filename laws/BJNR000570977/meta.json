@@ -1,0 +1,26 @@
+{
+  "amtabk": "StVollzVergO",
+  "ausfertigung_datum": "1977-01-11",
+  "bjnr": "BJNR000570977",
+  "eli": null,
+  "gii_slug": "stvollzvergo",
+  "ingested_at": "2026-04-17T15:29:04Z",
+  "jurabk": "StVollzVergO",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "123c1f4b85d7e8caa9aac2a4c06dda6511c70716541e4575026408461786bbd3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stvollzvergo/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stvollzvergo/xml.zip"
+  },
+  "stand_datum": "2007-12-13",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 G v. 13.12.2007 I 2894",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Vergütungsstufen des Arbeitsentgelts und der Ausbildungsbeihilfe nach dem Strafvollzugsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

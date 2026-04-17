@@ -1,0 +1,26 @@
+{
+  "amtabk": "WBVG",
+  "ausfertigung_datum": "2009-07-29",
+  "bjnr": "BJNR231910009",
+  "eli": null,
+  "gii_slug": "wbvg",
+  "ingested_at": "2026-04-17T15:30:26Z",
+  "jurabk": "WBVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "10b4b818e9008aca3643ff077696dc351ffb123c198850c782da8239873aaf81"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wbvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wbvg/xml.zip"
+  },
+  "stand_datum": "2019-11-30",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 30.11.2019 I 1948",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung von Verträgen über Wohnraum mit Pflege- oder Betreuungsleistungen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,21 @@
+{
+  "amtabk": "RAV 1998",
+  "ausfertigung_datum": "1998-05-20",
+  "bjnr": "BJNR116600998",
+  "eli": null,
+  "gii_slug": "rav_1998",
+  "ingested_at": "2026-04-17T15:27:07Z",
+  "jurabk": "RAV 1998",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8de7773a48cbcec969b3c3fd9d81f518c9541eea1bb512015e344069c5926b67"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/rav_1998/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/rav_1998/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Anpassung der Renten im Jahre 1998",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

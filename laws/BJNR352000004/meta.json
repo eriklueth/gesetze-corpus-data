@@ -1,0 +1,26 @@
+{
+  "amtabk": "EJTAnV",
+  "ausfertigung_datum": "2004-12-17",
+  "bjnr": "BJNR352000004",
+  "eli": null,
+  "gii_slug": "ejtanv",
+  "ingested_at": "2026-04-17T15:20:37Z",
+  "jurabk": "EJTAnV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "5d95cfb196c1009542e5d9f1491ea9b0f1089a43bfa5e4d58f6bb6bb31cfc0bd"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ejtanv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ejtanv/xml.zip"
+  },
+  "stand_datum": "2026-03-11",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 2 G v. 11.3.2026 I Nr. 69",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Benennung und Einrichtung der nationalen Eurojust-Anlaufstelle für Terrorismusfragen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

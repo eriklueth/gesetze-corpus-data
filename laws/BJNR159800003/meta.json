@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2003-01-27",
+  "bjnr": "BJNR159800003",
+  "eli": null,
+  "gii_slug": "zjdvtr",
+  "ingested_at": "2026-04-17T15:31:19Z",
+  "jurabk": "ZJDVtr",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "36a6e6aad941c6adada56a45b92da9303ca7b519e71dc6dde411413fc4395310"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/zjdvtr/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/zjdvtr/xml.zip"
+  },
+  "stand_datum": "2023-04-25",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 Vertrag v. 25.4.2023 I Nr. 352",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundeskanzler, und dem Zentralrat der Juden in Deutschland - Körperschaft des öffentlichen Rechts -, vertreten durch den Präsidenten und die Vizepräsidenten",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

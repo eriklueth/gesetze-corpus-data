@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1965-07-11",
+  "bjnr": "BJNR209480965",
+  "eli": null,
+  "gii_slug": "ata_bkg",
+  "ingested_at": "2026-04-17T15:17:17Z",
+  "jurabk": "ATAÜbkG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "fe075ed7888d8f6cecc1ada5744fa37c6ddbdf5a090c221c3d73e42c3991728c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ata_bkg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ata_bkg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zu dem Zollübereinkommen von Brüssel vom 6. Dezember 1961 über das Carnet A.T.A. für die vorübergehende Einfuhr von Waren",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

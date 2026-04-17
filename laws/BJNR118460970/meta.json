@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1970-12-22",
+  "bjnr": "BJNR118460970",
+  "eli": null,
+  "gii_slug": "wgsvg",
+  "ingested_at": "2026-04-17T15:30:31Z",
+  "jurabk": "WGSVG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "79eadd921ab75c8cbe8c979b86b2a73ca7bb325b3c0c3308a2532d39752ac019"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wgsvg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wgsvg/xml.zip"
+  },
+  "stand_datum": "1993-06-24",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 11 G v. 24.6.1993 I 1038",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts in der Sozialversicherung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

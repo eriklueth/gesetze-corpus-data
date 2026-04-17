@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2025-07-01",
+  "bjnr": "BJNR0970B0025",
+  "eli": null,
+  "gii_slug": "luftvodv_182_2025",
+  "ingested_at": "2026-04-17T15:24:23Z",
+  "jurabk": "LuftVODV 182 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a32a97a062bd09a6edb01f395a4bb829d0473fe78689e33dc3db810e52b04a30"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_182_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_182_2025/xml.zip"
+  },
+  "stand_datum": "1997-06-02",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 96-1-2-182 v. 2.6.1997 BAnz 1997, Nr 113, 7633 (LuftVODV 182)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Hundertzweiundachtzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Münster/Osnabrück)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

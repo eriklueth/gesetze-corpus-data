@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1996-01-17",
+  "bjnr": "BJNR003800996",
+  "eli": null,
+  "gii_slug": "werrasalzgaufhg",
+  "ingested_at": "2026-04-17T15:30:31Z",
+  "jurabk": "WerraSalzGAufhG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9f87ea8b9ba93b3dbdd50ac6e3d3682a6c69d0654671a97e8af8c17bfe857404"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/werrasalzgaufhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/werrasalzgaufhg/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Gesetz zur Aufhebung des Gesetzes über den Abbau von Salzen im Grenzgebiet an der Werra",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

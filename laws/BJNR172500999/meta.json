@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1999-07-22",
+  "bjnr": "BJNR172500999",
+  "eli": null,
+  "gii_slug": "bregsitzbek",
+  "ingested_at": "2026-04-17T15:19:07Z",
+  "jurabk": "BRegSitzBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "c772f6114405b153dca6f77e72eb2438e46fc6ee2bf7d05e67c86541aaa05ba5"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bregsitzbek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bregsitzbek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über die Sitzentscheidung der Bundesregierung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

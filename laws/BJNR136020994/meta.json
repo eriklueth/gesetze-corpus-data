@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-09-22",
+  "bjnr": "BJNR136020994",
+  "eli": null,
+  "gii_slug": "ospar_bk",
+  "ingested_at": "2026-04-17T15:26:23Z",
+  "jurabk": "OSPARÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "27d43cb4ed3d201b8fbb7cf89111b36fc65aecfcbb5db3b35d2cecf250517e3a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ospar_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ospar_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen zum Schutz der Meeresumwelt des Nordostatlantiks",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

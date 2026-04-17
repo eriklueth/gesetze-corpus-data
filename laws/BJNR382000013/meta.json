@@ -1,0 +1,26 @@
+{
+  "amtabk": "LuftSchlichtV",
+  "ausfertigung_datum": "2013-10-11",
+  "bjnr": "BJNR382000013",
+  "eli": null,
+  "gii_slug": "luftschlichtv",
+  "ingested_at": "2026-04-17T15:24:15Z",
+  "jurabk": "LuftSchlichtV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "88121f238462a926147cc8fa29a3d0445c5afa7646a583b446b41c8586f61011"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftschlichtv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftschlichtv/xml.zip"
+  },
+  "stand_datum": "2025-12-08",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 19 G v. 8.12.2025 I Nr. 318",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung nach § 57c des Luftverkehrsgesetzes zur Schlichtung im Luftverkehr",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

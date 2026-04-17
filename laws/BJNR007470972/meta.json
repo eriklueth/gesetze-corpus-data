@@ -1,0 +1,30 @@
+{
+  "amtabk": "BMVergV",
+  "ausfertigung_datum": "1972-04-26",
+  "bjnr": "BJNR007470972",
+  "eli": null,
+  "gii_slug": "marbv",
+  "ingested_at": "2026-04-17T15:18:46Z",
+  "jurabk": "MArbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "54dc61a93b661cb94721a966645cfaa16fe6666b05b9ac43c4f69f26024b279b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/marbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/marbv/xml.zip"
+  },
+  "stand_datum": "2009-11-04",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 4.11.2009 I 3701;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 27.2.2025 I Nr. 72",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamtinnen und Beamte des Bundes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

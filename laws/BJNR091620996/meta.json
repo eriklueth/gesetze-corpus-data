@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1995-11-10",
+  "bjnr": "BJNR091620996",
+  "eli": null,
+  "gii_slug": "unfreiwprograbknotw",
+  "ingested_at": "2026-04-17T15:29:50Z",
+  "jurabk": "UNFreiwProgrAbkNotW",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "44aa16841c003354f1bcb02f24c1bf5f519e33b699a210a22c2ad64c85ceba96"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/unfreiwprograbknotw/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/unfreiwprograbknotw/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Notenwechsel zum Abkommen zwischen der Bundesrepublik Deutschland und den Vereinten Nationen über den Sitz des Freiwilligenprogramms der Vereinten Nationen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

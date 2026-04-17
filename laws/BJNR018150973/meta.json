@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-12-04",
+  "bjnr": "BJNR018150973",
+  "eli": null,
+  "gii_slug": "frumrv_4",
+  "ingested_at": "2026-04-17T15:21:44Z",
+  "jurabk": "FrUmrV 4",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7d4f84170f036aa2a4a155188ba06ebe8c2715a84108e835e6731160f8626ad4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/frumrv_4/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/frumrv_4/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Vierte Verordnung über den Umrechnungssatz für französische Franken bei Anwendung des Ersten Abkommens zur Vereinheitlichung des Luftprivatrechts",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

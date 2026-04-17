@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1980-09-29",
+  "bjnr": "BJNR213340980",
+  "eli": null,
+  "gii_slug": "eurhiisr_bkergvtrg",
+  "ingested_at": "2026-04-17T15:20:58Z",
+  "jurabk": "EuRHiISRÜbkErgVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "a31f989aef48dad007799cec3e7855b523257d312137ec72c066581cb4b4ddde"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/eurhiisr_bkergvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/eurhiisr_bkergvtrg/xml.zip"
+  },
+  "stand_datum": "1982-12-23",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch § 83 Abs. 1 Nr. 7 G v. 23.12.1982 I 2071",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zu dem Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik Deutschland und dem Staat Israel über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2010-05-27",
+  "bjnr": "BJNR066200010",
+  "eli": null,
+  "gii_slug": "ggart91cvtrg",
+  "ingested_at": "2026-04-17T15:22:12Z",
+  "jurabk": "GGArt91cVtrG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cd9c291052b5c60d9dfd6ab546142ba9ef38375b2ac735c8de1231be99d3e628"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ggart91cvtrg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ggart91cvtrg/xml.zip"
+  },
+  "stand_datum": "2019-03-21",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 Vertrag v. 21.3.2019 I 1127 iVm Art. 1 G v. 4.8.2019 I 1126",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz zum Vertrag über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG (siehe: GGArt91cVtr)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

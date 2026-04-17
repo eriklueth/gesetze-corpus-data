@@ -1,0 +1,814 @@
+{
+  "bjnr": "BJNR016330985",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Inverkehrbringen von Saatgut",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003a.md",
+      "heading": "Inverkehrbringen von Vermehrungsmaterial",
+      "number": "§ 3a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003b.md",
+      "heading": "Abgabe von Saatgut in besonderen Fällen",
+      "number": "§ 3b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 2 Anerkanntes Saatgut"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Voraussetzungen für die Anerkennung",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 2 Anerkanntes Saatgut"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Ausführungsvorschriften für die Anerkennung",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 2 Anerkanntes Saatgut"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Inverkehrbringen vor Abschluss der Prüfung auf Keimfähigkeit",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 2 Anerkanntes Saatgut"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Prüfung des Feldbestandes und der Beschaffenheit des Saatgutes einer nicht zugelassenen Sorte",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 2 Anerkanntes Saatgut"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Verpflichtungen des Saatguterzeugers",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 2 Anerkanntes Saatgut"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Nachprüfung",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 2 Anerkanntes Saatgut"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Im Ausland erzeugtes Saatgut",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 3 Standardsaatgut, Handelssaatgut und Behelfssaatgut"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "Ermächtigungen",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 3 Standardsaatgut, Handelssaatgut und Behelfssaatgut"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Standardsaatgut",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 3 Standardsaatgut, Handelssaatgut und Behelfssaatgut"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Handelssaatgut",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 3 Standardsaatgut, Handelssaatgut und Behelfssaatgut"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Behelfssaatgut",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 3a Vermehrungsmaterial"
+      ],
+      "file": "paragraphs/0014a.md",
+      "heading": "Ausführungsvorschriften für Vermehrungsmaterial",
+      "number": "§ 14a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 3a Vermehrungsmaterial"
+      ],
+      "file": "paragraphs/0014b.md",
+      "heading": "Anerkennung von Vermehrungsmaterial von Obst",
+      "number": "§ 14b",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 4 Einfuhr und Ausfuhr"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Einfuhr von Saatgut",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 4 Einfuhr und Ausfuhr"
+      ],
+      "file": "paragraphs/0015a.md",
+      "heading": "Einfuhr von Vermehrungsmaterial",
+      "number": "§ 15a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 4 Einfuhr und Ausfuhr"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Gleichstellungen",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 4 Einfuhr und Ausfuhr"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Einfuhrverbot für Pflanzgut von Kartoffel",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 4 Einfuhr und Ausfuhr"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "Ausnahmen",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 4 Einfuhr und Ausfuhr"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Überwachung der Einfuhr",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 4 Einfuhr und Ausfuhr"
+      ],
+      "file": "paragraphs/0019a.md",
+      "heading": "Ausfuhr von Vermehrungsmaterial",
+      "number": "§ 19a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 5 Kennzeichnung, Verpackung"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Angabe der Sortenbezeichnung",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 5 Kennzeichnung, Verpackung"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Verpackung und Kennzeichnung von Saatgut",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 5 Kennzeichnung, Verpackung"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Ausführungsvorschriften für die Verpackung und Kennzeichnung von Saatgut",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 5 Kennzeichnung, Verpackung"
+      ],
+      "file": "paragraphs/0022a.md",
+      "heading": "Verpackung und Kennzeichnung von Vermehrungsmaterial",
+      "number": "§ 22a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 6 Verbot der Irreführung, Gewährleistung"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Verbot der Irreführung",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 6 Verbot der Irreführung, Gewährleistung"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 7 Sonstige Vorschriften der Saatgutordnung"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Zusätzliche Anforderungen für das Inverkehrbringen",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 7 Sonstige Vorschriften der Saatgutordnung"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Saatgutmischungen",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 7 Sonstige Vorschriften der Saatgutordnung"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Anzeige- und Aufzeichnungspflicht",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 7 Sonstige Vorschriften der Saatgutordnung"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Durchführung in den Ländern",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Unterabschnitt 1 Allgemeine Vorschriften",
+        "Unterabschnitt 7 Sonstige Vorschriften der Saatgutordnung"
+      ],
+      "file": "paragraphs/0029.md",
+      "heading": "Geschlossene Anbaugebiete",
+      "number": "§ 29",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 1 Sortenzulassung"
+      ],
+      "file": "paragraphs/0030.md",
+      "heading": "Voraussetzungen für die Sortenzulassung",
+      "number": "§ 30",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 1 Sortenzulassung"
+      ],
+      "file": "paragraphs/0031.md",
+      "heading": "Unterscheidbarkeit",
+      "number": "§ 31",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 1 Sortenzulassung"
+      ],
+      "file": "paragraphs/0032.md",
+      "heading": "Homogenität",
+      "number": "§ 32",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 1 Sortenzulassung"
+      ],
+      "file": "paragraphs/0033.md",
+      "heading": "Beständigkeit",
+      "number": "§ 33",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 1 Sortenzulassung"
+      ],
+      "file": "paragraphs/0034.md",
+      "heading": "Landeskultureller Wert",
+      "number": "§ 34",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 1 Sortenzulassung"
+      ],
+      "file": "paragraphs/0035.md",
+      "heading": "Sortenbezeichnung",
+      "number": "§ 35",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 1 Sortenzulassung"
+      ],
+      "file": "paragraphs/0036.md",
+      "heading": "Dauer der Sortenzulassung",
+      "number": "§ 36",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 2 Bundessortenamt"
+      ],
+      "file": "paragraphs/0037.md",
+      "heading": "Aufgaben",
+      "number": "§ 37",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 2 Bundessortenamt"
+      ],
+      "file": "paragraphs/0038.md",
+      "heading": "Sortenausschüsse und Widerspruchsausschüsse",
+      "number": "§ 38",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 2 Bundessortenamt"
+      ],
+      "file": "paragraphs/0039.md",
+      "heading": "Zusammensetzung der Sortenausschüsse",
+      "number": "§ 39",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 2 Bundessortenamt"
+      ],
+      "file": "paragraphs/0040.md",
+      "heading": "Zusammensetzung der Widerspruchsausschüsse",
+      "number": "§ 40",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0041.md",
+      "heading": "Förmliches Verwaltungsverfahren",
+      "number": "§ 41",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0042.md",
+      "heading": "Antrag auf Sortenzulassung",
+      "number": "§ 42",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0043.md",
+      "heading": "Bekanntmachung des Antrags auf Sortenzulassung",
+      "number": "§ 43",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0044.md",
+      "heading": "Prüfung",
+      "number": "§ 44",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0045.md",
+      "heading": "Säumnis",
+      "number": "§ 45",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0046.md",
+      "heading": "Antrag auf Eintragung als weiterer Züchter",
+      "number": "§ 46",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0047.md",
+      "heading": "Sortenliste",
+      "number": "§ 47",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0048.md",
+      "heading": "Übernahme der Erhaltungszüchtung",
+      "number": "§ 48",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0049.md",
+      "heading": "Einsichtnahme",
+      "number": "§ 49",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0050.md",
+      "heading": "Sortenerhaltung",
+      "number": "§ 50",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0050a.md",
+      "heading": "Sortenerhaltung bei Rebsorten",
+      "number": "§ 50a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0051.md",
+      "heading": "Änderung der Sortenbezeichnung",
+      "number": "§ 51",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0052.md",
+      "heading": "Beendigung der Sortenzulassung",
+      "number": "§ 52",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0053.md",
+      "heading": "Ermächtigung zum Erlass von Verfahrensvorschriften",
+      "number": "§ 53",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 3 Verfahren vor dem Bundessortenamt"
+      ],
+      "file": "paragraphs/0054.md",
+      "heading": "Gebühren",
+      "number": "§ 54",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 2 Sortenordnung",
+        "Unterabschnitt 4 In anderen Vertragsstaaten eingetragene Sorten"
+      ],
+      "file": "paragraphs/0055.md",
+      "heading": "",
+      "number": "§ 55",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 3 Andere Aufgaben des Bundessortenamtes"
+      ],
+      "file": "paragraphs/0056.md",
+      "heading": "Beschreibende Sortenliste",
+      "number": "§ 56",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 3 Andere Aufgaben des Bundessortenamtes"
+      ],
+      "file": "paragraphs/0057.md",
+      "heading": "Prüfung der Sortenechtheit in besonderen Fällen",
+      "number": "§ 57",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 3 Andere Aufgaben des Bundessortenamtes"
+      ],
+      "file": "paragraphs/0057a.md",
+      "heading": "Gesamtliste der Obstsorten, gemeinsames Sortenverzeichnis",
+      "number": "§ 57a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 4 Verfahren vor Gericht, Auskunftspflicht, Übermittlung von Daten und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0058.md",
+      "heading": "Ausschluss der Berufung",
+      "number": "§ 58",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 4 Verfahren vor Gericht, Auskunftspflicht, Übermittlung von Daten und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0059.md",
+      "heading": "Auskunftspflicht",
+      "number": "§ 59",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 4 Verfahren vor Gericht, Auskunftspflicht, Übermittlung von Daten und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0059a.md",
+      "heading": "Übermittlung von Daten",
+      "number": "§ 59a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 4 Verfahren vor Gericht, Auskunftspflicht, Übermittlung von Daten und Bußgeldvorschriften"
+      ],
+      "file": "paragraphs/0060.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 60",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 5 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0061.md",
+      "heading": "Durchführung von Vorschriften der Europäischen Gemeinschaft oder der Europäischen Union",
+      "number": "§ 61",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 5 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0061a.md",
+      "heading": "Sonderregelung für Rebenpflanzgut",
+      "number": "§ 61a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 5 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0062.md",
+      "heading": "Übergangsvorschrift",
+      "number": "§ 62",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 5 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0062a.md",
+      "heading": "",
+      "number": "§ 62a",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Saatgutordnung",
+        "Abschnitt 5 Schlussvorschriften"
+      ],
+      "file": "paragraphs/0063.md",
+      "heading": "",
+      "number": "§ 63",
+      "type": "paragraph"
+    }
+  ]
+}

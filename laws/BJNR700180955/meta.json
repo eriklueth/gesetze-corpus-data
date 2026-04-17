@@ -1,0 +1,21 @@
+{
+  "amtabk": "Zuständigkeits-DB",
+  "ausfertigung_datum": "1954-12-14",
+  "bjnr": "BJNR700180955",
+  "eli": null,
+  "gii_slug": "ausglazustdb",
+  "ingested_at": "2026-04-17T15:31:31Z",
+  "jurabk": "AusglAZustDB",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "7eb3cd47856a1ade512c780b866b14d8dfdd0005e0da7691a923dc3161891dce"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ausglazustdb/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ausglazustdb/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Durchführungsbestimmungen zu den Vorschriften über die Zuständigkeit der Ausgleichsämter",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

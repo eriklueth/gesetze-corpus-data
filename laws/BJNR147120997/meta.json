@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1994-10-14",
+  "bjnr": "BJNR147120997",
+  "eli": null,
+  "gii_slug": "ccdafrika_bk",
+  "ingested_at": "2026-04-17T15:19:39Z",
+  "jurabk": "CCDAfrikaÜbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "89055afaba81f5ba009f1b11937ac4cf326b723cc9f6885d7d0eff4056a31ba3"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ccdafrika_bk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ccdafrika_bk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Übereinkommen der Vereinten Nationen zur Bekämpfung der Wüstenbildung in den von Dürre und/oder Wüstenbildung schwer betroffenen Ländern, insbesondere in Afrika",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

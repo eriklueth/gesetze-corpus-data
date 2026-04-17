@@ -1,0 +1,34 @@
+{
+  "amtabk": "BMG",
+  "ausfertigung_datum": "2013-05-03",
+  "bjnr": "BJNR108410013",
+  "eli": null,
+  "gii_slug": "bmg",
+  "ingested_at": "2026-04-17T15:18:39Z",
+  "jurabk": "BMG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "ec21b49d00693459020b9b6ca6eee2126183f217a1683dccebe96f019493e05c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmg/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 12 G v. 22.12.2025 I Nr. 370",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Bek. v. 15.10.2024 I Nr. 338 ist berücksichtigt",
+      "typ": "Sonst"
+    },
+    {
+      "kommentar": "Bek. v. 15.10.2025 I Nr. 262 ist berücksichtigt",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Bundesmeldegesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

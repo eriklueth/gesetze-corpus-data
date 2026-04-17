@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-07-11",
+  "bjnr": "BJNR261200002",
+  "eli": null,
+  "gii_slug": "fkrfbausbv",
+  "ingested_at": "2026-04-17T15:21:27Z",
+  "jurabk": "FKrFBAusbV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "024149647845e2ce3a6ffeadfe87b5c4a80e697ef03d691bd839b6c63f4b3043"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/fkrfbausbv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/fkrfbausbv/xml.zip"
+  },
+  "stand_datum": "2017-10-16",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 16.10.2017 I 3565",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Berufsausbildung zur Fachkraft im Fahrbetrieb",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

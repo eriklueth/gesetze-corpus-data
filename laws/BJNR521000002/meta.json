@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2002-10-22",
+  "bjnr": "BJNR521000002",
+  "eli": null,
+  "gii_slug": "luftvodv_211",
+  "ingested_at": "2026-04-17T15:24:25Z",
+  "jurabk": "LuftVODV 211",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "0d09105d36254edce11cec1729ba9c6050a681c0e648d41de16bd584ee282d67"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/luftvodv_211/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/luftvodv_211/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Zweihundertelfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Straubing)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

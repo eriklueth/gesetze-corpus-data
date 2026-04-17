@@ -1,0 +1,26 @@
+{
+  "amtabk": "StromStV",
+  "ausfertigung_datum": "2000-05-31",
+  "bjnr": "BJNR079400000",
+  "eli": null,
+  "gii_slug": "stromstv",
+  "ingested_at": "2026-04-17T15:29:00Z",
+  "jurabk": "StromStV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "36c1a1e791ce49d2c305e064fca833f66f867ccfcde619b6fd5c620a632774ad"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/stromstv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/stromstv/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 G v. 22.12.2025 I Nr. 340",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung des Stromsteuergesetzes",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

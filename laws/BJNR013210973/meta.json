@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1973-08-18",
+  "bjnr": "BJNR013210973",
+  "eli": null,
+  "gii_slug": "asgzustv",
+  "ingested_at": "2026-04-17T15:17:07Z",
+  "jurabk": "ASGZustV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "f3eac614875f67fdb36cf0cb4237fcd7c8301e60408257bf6865c2ae40de65f4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/asgzustv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/asgzustv/xml.zip"
+  },
+  "stand_datum": "2025-03-06",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 V v. 6.3.2025 I Nr. 78",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Übertragung von Zuständigkeiten nach dem Arbeitssicherstellungsgesetz auf Dienststellen im Geschäftsbereich des Bundesministers der Verteidigung",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

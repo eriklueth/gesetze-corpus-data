@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1983-07-14",
+  "bjnr": "BJNR009520983",
+  "eli": null,
+  "gii_slug": "gr_ndstvtrbw_hebek",
+  "ingested_at": "2026-04-17T15:22:26Z",
+  "jurabk": "GrÄndStVtrBW/HEBek",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8e4e6a8ffad1c5873eeb8d3e9939f700b874888f1746c88bc905e606a9558be4"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/gr_ndstvtrbw_hebek/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/gr_ndstvtrbw_hebek/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertrages zwischen dem Land Baden-Württemberg und dem Land Hessen über eine Änderung der Landesgrenze",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

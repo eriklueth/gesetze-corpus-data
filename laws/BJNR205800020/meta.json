@@ -1,0 +1,26 @@
+{
+  "amtabk": "WSF-DV",
+  "ausfertigung_datum": "2020-10-01",
+  "bjnr": "BJNR205800020",
+  "eli": null,
+  "gii_slug": "wsf-dv",
+  "ingested_at": "2026-04-17T15:30:49Z",
+  "jurabk": "WSF-DV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "8d6480d81337313fc218637ef6e7e91467c76be7804da915bc2f2c0686c6e134"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wsf-dv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wsf-dv/xml.zip"
+  },
+  "stand_datum": "2024-02-14",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 1 V v. 14.2.2024 I Nr. 48",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Gewährung und Durchführung von Maßnahmen aus dem Wirtschaftsstabilisierungsfonds nach dem Stabilisierungsfondsgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

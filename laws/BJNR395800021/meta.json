@@ -1,0 +1,30 @@
+{
+  "amtabk": "SVG",
+  "ausfertigung_datum": "2021-08-20",
+  "bjnr": "BJNR395800021",
+  "eli": null,
+  "gii_slug": "svg_2025",
+  "ingested_at": "2026-04-17T15:29:11Z",
+  "jurabk": "SVG 2025",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "b1a0cb1ce3e799d7b475d3dfa21620c0c30b98947f2cce0918eaa6f3875b7ab2"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/svg_2025/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/svg_2025/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 7 G v. 22.12.2025 I Nr. 370",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Ersetzt G 53-4 v. 26.7.1957 I 785 (SVG)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über die Versorgung der früheren Soldatinnen und früheren Soldaten und ihrer Hinterbliebenen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

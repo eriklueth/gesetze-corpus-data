@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1990-09-12",
+  "bjnr": "DDNR514730990",
+  "eli": null,
+  "gii_slug": "natsgspreewv",
+  "ingested_at": "2026-04-17T15:26:04Z",
+  "jurabk": "NatSGSpreewV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d186c40a2cf5c6ea519758f2729bcffa3c262217dc176856d64c0f6078f85d8c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/natsgspreewv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/natsgspreewv/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung \"Biosphärenreservat Spreewald\"",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

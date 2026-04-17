@@ -1,0 +1,26 @@
+{
+  "amtabk": "AbfVerbrBußV",
+  "ausfertigung_datum": "2007-07-29",
+  "bjnr": "BJNR176100007",
+  "eli": null,
+  "gii_slug": "abfverbrbu_v",
+  "ingested_at": "2026-04-17T15:16:43Z",
+  "jurabk": "AbfVerbrBußV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "cd7d642c4643bd38ded293186020e63e025476eefe2d0d967971fcea620aa75b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/abfverbrbu_v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/abfverbrbu_v/xml.zip"
+  },
+  "stand_datum": "2022-05-09",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 V v. 9.5.2022 I 741",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchsetzung von Vorschriften in Rechtsakten der Europäischen Gemeinschaft über die Verbringung von Abfällen",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

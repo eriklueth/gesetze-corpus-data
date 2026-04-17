@@ -1,0 +1,30 @@
+{
+  "amtabk": "BBPlG",
+  "ausfertigung_datum": "2013-07-23",
+  "bjnr": "BJNR254310013",
+  "eli": null,
+  "gii_slug": "bbplg",
+  "ingested_at": "2026-04-17T15:17:51Z",
+  "jurabk": "BBPlG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "3b52f89cccd7036aed5ee431f374e7b15771393aadf7d3aa60c8524368febefe"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bbplg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bbplg/xml.zip"
+  },
+  "stand_datum": "2024-07-16",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 1 G v. 16.7.2024 I Nr. 239",
+      "typ": "Stand"
+    },
+    {
+      "kommentar": "Das G tritt gem. Art. 5 Abs. 1 G v. 23.7.2013 I 2543 am 27.7.2013 in Kraft. Abweichend davon ist § 1 iVm Nr. 33 der Anlage gem. Bek. v. 18.2.2014 I 148 am 8.1.2014 u. § 1 iVm Nr. 29 der Anlage gem. Bek. v. 17.3.2014 I 271 am 7.3.2014 in Kraft getreten.",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Gesetz über den Bundesbedarfsplan",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

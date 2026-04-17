@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1922-02-18",
+  "bjnr": "BJNR002220922",
+  "eli": null,
+  "gii_slug": "wastr_bgvtrgntrag",
+  "ingested_at": "2026-04-17T15:30:26Z",
+  "jurabk": "WaStrÜbgVtrGNtrag",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "414a38d36e9dc5362f416b79b14b25e4d49124dba02b080af68f3d78e1af949b"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/wastr_bgvtrgntrag/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/wastr_bgvtrgntrag/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Nachtrag zu dem Gesetz über den Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich (Anhang zum Gesetz über die vermögensrechtlichen Verhältnisse der Bundeswasserstraßen)",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

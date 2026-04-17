@@ -1,0 +1,26 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "1992-07-22",
+  "bjnr": "BJNR014100992",
+  "eli": null,
+  "gii_slug": "bienschv_1992",
+  "ingested_at": "2026-04-17T15:18:21Z",
+  "jurabk": "BienSchV 1992",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "098136bf3c3d0ce8c91d922777d3fb7ac7c276070abd831128bc8a7ccd35c786"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bienschv_1992/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bienschv_1992/xml.zip"
+  },
+  "stand_datum": "2013-06-27",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 6 V v. 27.6.2013 I 1953",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung über die Anwendung bienengefährlicher Pflanzenschutzmittel",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

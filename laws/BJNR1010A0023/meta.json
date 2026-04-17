@@ -1,0 +1,26 @@
+{
+  "amtabk": "AWFachwBAProFV",
+  "ausfertigung_datum": "2023-09-21",
+  "bjnr": "BJNR1010A0023",
+  "eli": null,
+  "gii_slug": "awfachwbaprofv",
+  "ingested_at": "2026-04-17T15:17:29Z",
+  "jurabk": "AWFachwBAProFV",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "9ec4156938e3cfb1fe3e6f2274c6e1771df3a6fa47ff13a5921e5f276b833ca9"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/awfachwbaprofv/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/awfachwbaprofv/xml.zip"
+  },
+  "stand_datum": "2017-06-05",
+  "standangabe": [
+    {
+      "kommentar": "Ersetzt V 806-22-6-57 v. 5.6.2017 I 1574 (AWPrV)",
+      "typ": "Sonst"
+    }
+  ],
+  "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Außenwirtschaft oder Geprüfte Fachwirtin für Außenwirtschaft – Bachelor Professional in Foreign Trade",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

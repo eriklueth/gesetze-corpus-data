@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2007-02-09",
+  "bjnr": "BJNR194020007",
+  "eli": null,
+  "gii_slug": "sozsichabkausergabk",
+  "ingested_at": "2026-04-17T15:28:28Z",
+  "jurabk": "SozSichAbkAUSErgAbk",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "efd0c9addadf0ea67e03652083c9fb9c14eaebe43d7ff88b18971fa66a9d3891"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/sozsichabkausergabk/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/sozsichabkausergabk/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Abkommen zwischen der Bundesrepublik Deutschland und Australien über die Soziale Sicherheit von vorübergehend im Hoheitsgebiet des anderen Staates beschäftigten Personen (\"Ergänzungsabkommen\")",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

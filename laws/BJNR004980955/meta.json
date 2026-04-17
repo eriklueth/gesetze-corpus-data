@@ -1,0 +1,30 @@
+{
+  "amtabk": "HHG",
+  "ausfertigung_datum": "1955-08-06",
+  "bjnr": "BJNR004980955",
+  "eli": null,
+  "gii_slug": "hhg",
+  "ingested_at": "2026-04-17T15:22:40Z",
+  "jurabk": "HHG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "00f44ebde64d14ecab685a72d0377bcf4a9812e9718c214d749170402dba3de0"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/hhg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/hhg/xml.zip"
+  },
+  "stand_datum": "1993-06-02",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 2.6.1993 I 838;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "zuletzt geändert durch Art. 2 G v. 25.2.2025 I Nr. 63",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Gesetz über Hilfsmaßnahmen für Personen, die aus politischen Gründen außerhalb der Bundesrepublik Deutschland in Gewahrsam genommen wurden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

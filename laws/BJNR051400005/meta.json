@@ -1,0 +1,21 @@
+{
+  "amtabk": null,
+  "ausfertigung_datum": "2005-02-21",
+  "bjnr": "BJNR051400005",
+  "eli": null,
+  "gii_slug": "ststatg1995_3v",
+  "ingested_at": "2026-04-17T15:29:01Z",
+  "jurabk": "StStatG1995§3V",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "d58bbacbc3b8bdc85f550d835733b1304f6b798b5291593be9ff663f62953b0c"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/ststatg1995_3v/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/ststatg1995_3v/xml.zip"
+  },
+  "stand_datum": null,
+  "standangabe": [],
+  "title": "Verordnung zur Einstellung von Erhebungen nach § 3 des Gesetzes über Steuerstatistiken",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

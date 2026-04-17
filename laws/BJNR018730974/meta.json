@@ -1,0 +1,30 @@
+{
+  "amtabk": "HeimG",
+  "ausfertigung_datum": "1974-08-07",
+  "bjnr": "BJNR018730974",
+  "eli": null,
+  "gii_slug": "heimg",
+  "ingested_at": "2026-04-17T15:22:36Z",
+  "jurabk": "HeimG",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "758dadfb528bd5b7260fe8eeb4a0f835acdbd19916fa5aea950199d2ca1b1a95"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/heimg/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/heimg/xml.zip"
+  },
+  "stand_datum": "2001-11-05",
+  "standangabe": [
+    {
+      "kommentar": "Neugefasst durch Bek. v. 5.11.2001 I 2970;",
+      "typ": "Neuf"
+    },
+    {
+      "kommentar": "Zuletzt geändert durch Art. 3 Satz 2 G v. 29.7.2009 I 2319",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Heimgesetz",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}
