@@ -1,0 +1,26 @@
+{
+  "amtabk": "1. BMeldDÜV",
+  "ausfertigung_datum": "2014-12-01",
+  "bjnr": "BJNR194500014",
+  "eli": null,
+  "gii_slug": "bmeldd_v_1_2015",
+  "ingested_at": "2026-04-17T15:06:35Z",
+  "jurabk": "BMeldDÜV 1 2015",
+  "schema_version": "v1",
+  "source_hashes": {
+    "source_xml_sha256": "48e0f6e2f008126d937aae9578d7e1518a0a120c7c223f38085d82e0a6f1646a"
+  },
+  "source_urls": {
+    "gii_html": "https://www.gesetze-im-internet.de/bmeldd_v_1_2015/",
+    "gii_xml_zip": "https://www.gesetze-im-internet.de/bmeldd_v_1_2015/xml.zip"
+  },
+  "stand_datum": "2025-12-22",
+  "standangabe": [
+    {
+      "kommentar": "Zuletzt geändert durch Art. 14 G v. 22.12.2025 I Nr. 370",
+      "typ": "Stand"
+    }
+  ],
+  "title": "Verordnung zur Durchführung von regelmäßigen Datenübermittlungen zwischen Meldebehörden",
+  "tooling_version": "gesetze-corpus-tools@0.1.0"
+}

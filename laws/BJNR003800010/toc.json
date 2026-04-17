@@ -1,0 +1,323 @@
+{
+  "bjnr": "BJNR003800010",
+  "schema_version": "v1",
+  "sections": [
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0001.md",
+      "heading": "Anwendungsbereich",
+      "number": "§ 1",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0002.md",
+      "heading": "Begriffsbestimmungen",
+      "number": "§ 2",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften"
+      ],
+      "file": "paragraphs/0003.md",
+      "heading": "Brennstoffe",
+      "number": "§ 3",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Feuerungsanlagen für feste Brennstoffe"
+      ],
+      "file": "paragraphs/0004.md",
+      "heading": "Allgemeine Anforderungen",
+      "number": "§ 4",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 2 Feuerungsanlagen für feste Brennstoffe"
+      ],
+      "file": "paragraphs/0005.md",
+      "heading": "Feuerungsanlagen mit einer Nennwärmeleistung von 4 Kilowatt oder mehr",
+      "number": "§ 5",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Öl- und Gasfeuerungsanlagen"
+      ],
+      "file": "paragraphs/0006.md",
+      "heading": "Allgemeine Anforderungen",
+      "number": "§ 6",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Öl- und Gasfeuerungsanlagen"
+      ],
+      "file": "paragraphs/0007.md",
+      "heading": "Ölfeuerungsanlagen mit Verdampfungsbrenner",
+      "number": "§ 7",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Öl- und Gasfeuerungsanlagen"
+      ],
+      "file": "paragraphs/0008.md",
+      "heading": "Ölfeuerungsanlagen mit Zerstäubungsbrenner",
+      "number": "§ 8",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Öl- und Gasfeuerungsanlagen"
+      ],
+      "file": "paragraphs/0009.md",
+      "heading": "Gasfeuerungsanlagen",
+      "number": "§ 9",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Öl- und Gasfeuerungsanlagen"
+      ],
+      "file": "paragraphs/0010.md",
+      "heading": "Begrenzung der Abgasverluste",
+      "number": "§ 10",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 3 Öl- und Gasfeuerungsanlagen"
+      ],
+      "file": "paragraphs/0011.md",
+      "heading": "(weggefallen)",
+      "number": "§ 11",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0012.md",
+      "heading": "Messöffnung",
+      "number": "§ 12",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0013.md",
+      "heading": "Messeinrichtungen",
+      "number": "§ 13",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0014.md",
+      "heading": "Überwachung neuer und wesentlich geänderter Feuerungsanlagen",
+      "number": "§ 14",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0015.md",
+      "heading": "Wiederkehrende Überwachung",
+      "number": "§ 15",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0016.md",
+      "heading": "Zusammenstellung der Messergebnisse",
+      "number": "§ 16",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0017.md",
+      "heading": "Eigenüberwachung",
+      "number": "§ 17",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 4 Überwachung"
+      ],
+      "file": "paragraphs/0018.md",
+      "heading": "(weggefallen)",
+      "number": "§ 18",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Gemeinsame Vorschriften"
+      ],
+      "file": "paragraphs/0019.md",
+      "heading": "Ableitbedingungen für Abgase",
+      "number": "§ 19",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Gemeinsame Vorschriften"
+      ],
+      "file": "paragraphs/0020.md",
+      "heading": "Anzeige und Nachweise",
+      "number": "§ 20",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Gemeinsame Vorschriften"
+      ],
+      "file": "paragraphs/0021.md",
+      "heading": "Weitergehende Anforderungen",
+      "number": "§ 21",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Gemeinsame Vorschriften"
+      ],
+      "file": "paragraphs/0022.md",
+      "heading": "Zulassung von Ausnahmen",
+      "number": "§ 22",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Gemeinsame Vorschriften"
+      ],
+      "file": "paragraphs/0023.md",
+      "heading": "Zugänglichkeit der Normen",
+      "number": "§ 23",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 5 Gemeinsame Vorschriften"
+      ],
+      "file": "paragraphs/0024.md",
+      "heading": "Ordnungswidrigkeiten",
+      "number": "§ 24",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Übergangsregelungen"
+      ],
+      "file": "paragraphs/0025.md",
+      "heading": "Übergangsregelung für Feuerungsanlagen für feste Brennstoffe, ausgenommen Einzelraumfeuerungsanlagen",
+      "number": "§ 25",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Übergangsregelungen"
+      ],
+      "file": "paragraphs/0026.md",
+      "heading": "Übergangsregelung für Einzelraumfeuerungsanlagen für feste Brennstoffe",
+      "number": "§ 26",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 6 Übergangsregelungen"
+      ],
+      "file": "paragraphs/0027.md",
+      "heading": "Übergangsregelung für Schornsteinfegerarbeiten nach dem 1. Januar 2013",
+      "number": "§ 27",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschrift"
+      ],
+      "file": "paragraphs/0028.md",
+      "heading": "Inkrafttreten, Außerkrafttreten",
+      "number": "§ 28",
+      "type": "paragraph"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschrift"
+      ],
+      "file": "annexes/0001.md",
+      "heading": "(zu § 12)",
+      "number": "Anlage 1",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschrift"
+      ],
+      "file": "annexes/0002.md",
+      "heading": "(zu § 5 Absatz 1, §§ 7, 8, 10, 14 Absatz 4, § 15 Absatz 5, § 25 Absatz 2)",
+      "number": "Anlage 2",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschrift"
+      ],
+      "file": "annexes/0003.md",
+      "heading": "(zu § 2 Nummer 11, § 6)",
+      "number": "Anlage 3",
+      "type": "annex"
+    },
+    {
+      "breadcrumb": [
+        "Abschnitt 1 Allgemeine Vorschriften",
+        "Abschnitt 7 Schlussvorschrift"
+      ],
+      "file": "annexes/0004.md",
+      "heading": "(zu § 3 Absatz 5 Nummer 2, § 4 Absatz 3, 5 und 7, § 26 Absatz 1 Satz 2 Nummer 2, Absatz 6)",
+      "number": "Anlage 4",
+      "type": "annex"
+    }
+  ]
+}
