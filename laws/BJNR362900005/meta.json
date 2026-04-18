@@ -4,9 +4,11 @@
   "bjnr": "BJNR362900005",
   "eli": null,
   "gii_slug": "wpapberbeendv",
-  "ingested_at": "2026-04-18T20:42:31Z",
   "jurabk": "WPapBerBeendV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "82132a6587d072f33c58d1422a46d8bb61294a737bc819eaef59cc78f08f3da8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über den Zeitpunkt der Beendigung der Aufbewahrungsfrist für Unterlagen über die Wertpapierbereinigung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

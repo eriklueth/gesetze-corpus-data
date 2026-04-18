@@ -4,9 +4,11 @@
   "bjnr": "BJNR219600005",
   "eli": null,
   "gii_slug": "renopatausb-facheigv",
-  "ingested_at": "2026-04-18T20:38:55Z",
   "jurabk": "ReNoPatAusb-FachEigV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "3f92c1f889aedf1bd12d58ba42b08b6a2e5e9a7be1ab97ae7fb8b08d968e23df"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die fachliche Eignung für die Berufsausbildung der Fachangestellten in Rechtsanwalt- und Patentanwaltschaft, Notariat und bei Rechtsbeiständen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

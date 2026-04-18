@@ -4,9 +4,11 @@
   "bjnr": "BJNR234610008",
   "eli": null,
   "gii_slug": "drkg_2008",
-  "ingested_at": "2026-04-18T20:31:51Z",
   "jurabk": "DRKG 2008",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "fb83703a65b633b2c304a3feeb0859ac9ca6e7c1f461d034f3ce6fad364d4751"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das Deutsche Rote Kreuz und andere freiwillige Hilfsgesellschaften im Sinne der Genfer Rotkreuz-Abkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

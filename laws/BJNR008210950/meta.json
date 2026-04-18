@@ -4,9 +4,11 @@
   "bjnr": "BJNR008210950",
   "eli": null,
   "gii_slug": "krfrhemmg",
-  "ingested_at": "2026-04-18T20:35:34Z",
   "jurabk": "KrFrHemmG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "7a1ef9165c68050e188c8bbc4cb6261fa5f5dad8e3914c52e5669860755e6465"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über den Ablauf der durch Kriegs- oder Nachkriegsvorschriften gehemmten Fristen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

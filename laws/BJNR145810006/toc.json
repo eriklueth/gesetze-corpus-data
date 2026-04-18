@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR145810006",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Unmittelbare Anwendbarkeit",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Nationale Kontaktstelle und Verantwortung für die Zulässigkeit des Abrufs oder Abgleichs",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Automatisierter Abruf oder Abgleich von DNA-Identifizierungsmustern",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Zustimmung zur Zweckänderung",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Kennzeichnung von personenbezogenen Daten in Datenbanken",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Kennung",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Bundesbeauftragter für den Datenschutz und die Informationsfreiheit",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Schadenersatz",

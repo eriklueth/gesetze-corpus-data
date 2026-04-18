@@ -4,9 +4,12 @@
   "bjnr": "BJNR608620018",
   "eli": null,
   "gii_slug": "eemd-zvanl_i",
-  "ingested_at": "2026-04-18T20:31:58Z",
   "jurabk": "EEMD-ZVAnl I",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 8,
+    "paragraph": 29
+  },
   "source_hashes": {
     "source_xml_sha256": "cffbe593ec8c60472510454dc7a2e29d458a4a193d3da121bb7f43ae21a87ed5"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Vereinbarung über die Durchführung des Prüfverfahrens zur Erbringung mautdienstbezogener Leistungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

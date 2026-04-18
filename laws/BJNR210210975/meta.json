@@ -4,9 +4,9 @@
   "bjnr": "BJNR210210975",
   "eli": null,
   "gii_slug": "athaft_bkz_bkzprot",
-  "ingested_at": "2026-04-18T20:28:57Z",
   "jurabk": "AtHaftÜbkZÜbkZProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "cd96da1739afc165243a38aed743410fdcbb9deb57a2d1e445568d01cdc895d1"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zusatzprotokoll zum Zusatzübereinkommen vom 31. Januar 1963 zum Pariser Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

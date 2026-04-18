@@ -4,9 +4,11 @@
   "bjnr": "BJNR338200017",
   "eli": null,
   "gii_slug": "telegebv",
-  "ingested_at": "2026-04-18T20:41:03Z",
   "jurabk": "TeleGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "9f3b478d6c77d8b43a144c29955508d2b91d2bd095d9ce0bbea6e77529a42cf0"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Erhebung von Gebühren und Auslagen für die Erteilung von Zulassungen und Bestätigungen durch die Gesellschaft für Telematik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

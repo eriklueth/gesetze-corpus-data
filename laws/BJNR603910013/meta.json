@@ -4,9 +4,9 @@
   "bjnr": "BJNR603910013",
   "eli": null,
   "gii_slug": "luftvodv_250",
-  "ingested_at": "2026-04-18T20:36:17Z",
   "jurabk": "LuftVODV 250",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "06824d11274c7394b3d01f5841de3d1c2b8eb9e3bd2bc3df1027b08fa66e48fe"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweihundertfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Kassel-Calden)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

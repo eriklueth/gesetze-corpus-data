@@ -4,9 +4,12 @@
   "bjnr": "BJNR029000020",
   "eli": null,
   "gii_slug": "digimankflausbv",
-  "ingested_at": "2026-04-18T20:31:42Z",
   "jurabk": "DigiManKflAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "0061b0c413da20e0ba0b5d8ef7861925dab18abbdbb70e0ba0f338cd1fd11bdd"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Kaufmann für Digitalisierungsmanagement und zur Kauffrau für Digitalisierungsmanagement",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR258610013",
   "eli": null,
   "gii_slug": "gnotkg",
-  "ingested_at": "2026-04-18T20:34:04Z",
   "jurabk": "GNotKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 139
+  },
   "source_hashes": {
     "source_xml_sha256": "865481b26a30752b48c0dc3c317353a9bb39bdb7f2f463cc2c331d262310bb89"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Gesetz über Kosten der freiwilligen Gerichtsbarkeit für Gerichte und Notare",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

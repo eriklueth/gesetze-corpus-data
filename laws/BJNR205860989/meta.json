@@ -4,9 +4,11 @@
   "bjnr": "BJNR205860989",
   "eli": null,
   "gii_slug": "unwavtr_bkg",
-  "ingested_at": "2026-04-18T20:41:33Z",
   "jurabk": "UNWaVtrÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "c8505286487f5f2683ae1809fdf00c52437b55c8ca60ab4326f496bf82b48c9f"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen der Vereinten Nationen vom 11. April 1980 über Verträge über den internationalen Warenkauf sowie zur Änderung des Gesetzes zu dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

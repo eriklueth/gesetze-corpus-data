@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR138900009",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Geltungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 20,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Zulassung zur Beförderung",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Allgemeine Sicherheitspflichten",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Ausnahmen",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Zuständigkeiten des Bundesministeriums für Digitales und Verkehr",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Zuständigkeiten der vom Bundesministerium der Verteidigung oder vom Bundesministerium des Innern und für Heimat bestellten Sachverständigen oder Dienststellen",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Zuständigkeiten der Bundesanstalt für Materialforschung und -prüfung",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "(weggefallen)",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Zuständigkeiten des Bundesamtes für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Zuständigkeiten des Bundesamtes für die Sicherheit der nuklearen Entsorgung",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Zuständigkeiten der Prüfstellen für Tanks",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Ergänzende Zuständigkeiten der Benannten Stellen für Druckgefäße",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0013a.md",
       "heading": "Zuständigkeiten der Benennenden Behörde",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Besondere Zuständigkeiten im Straßenverkehr",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Besondere Zuständigkeiten im Eisenbahnverkehr",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Besondere Zuständigkeiten in der Binnenschifffahrt",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Pflichten des Auftraggebers des Absenders",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Pflichten des Absenders",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Pflichten des Beförderers",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Pflichten des Empfängers",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0021.md",
       "heading": "Pflichten des Verladers",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0022.md",
       "heading": "Pflichten des Verpackers",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0023.md",
       "heading": "Pflichten des Befüllers",
@@ -171,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0023a.md",
       "heading": "Pflichten des Entladers",
@@ -178,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0024.md",
       "heading": "Pflichten des Betreibers eines Tankcontainers, ortsbeweglichen Tanks, MEGC, Schüttgut-Containers oder MEMU",
@@ -185,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0025.md",
       "heading": "Pflichten des Herstellers, Wiederaufarbeiters und Rekonditionierers von Verpackungen, des Herstellers und Wiederaufarbeiters von IBC und der Stellen für Inspektionen und Prüfungen von IBC",
@@ -192,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0026.md",
       "heading": "Sonstige Pflichten",
@@ -199,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0027.md",
       "heading": "Pflichten mehrerer Beteiligter im Straßen- und Eisenbahnverkehr sowie in der Binnenschifffahrt",
@@ -206,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0028.md",
       "heading": "Pflichten des Fahrzeugführers im Straßenverkehr",
@@ -213,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0029.md",
       "heading": "Pflichten mehrerer Beteiligter im Straßenverkehr",
@@ -220,6 +251,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0030.md",
       "heading": "Pflichten des Betreibers eines Kesselwagens, abnehmbaren Tanks und Batteriewagens im Eisenbahnverkehr",
@@ -227,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0030a.md",
       "heading": "Pflichten der für die Instandhaltung zuständigen Stelle im Eisenbahnverkehr",
@@ -234,6 +267,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0031.md",
       "heading": "Pflichten des Betreibers der Eisenbahninfrastruktur im Eisenbahnverkehr",
@@ -241,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0031a.md",
       "heading": "Pflichten des Triebfahrzeugführers im Eisenbahnverkehr",
@@ -248,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0032.md",
       "heading": "Pflichten des Reisenden im Eisenbahnverkehr",
@@ -255,6 +291,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0033.md",
       "heading": "Pflichten des Schiffsführers in der Binnenschifffahrt",
@@ -262,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0034.md",
       "heading": "Pflichten des Eigentümers oder Betreibers in der Binnenschifffahrt",
@@ -269,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0034a.md",
       "heading": "Pflichten der Besatzung und sonstiger Personen an Bord in der Binnenschifffahrt",
@@ -276,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0035.md",
       "heading": "Verlagerung",
@@ -283,6 +323,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0035a.md",
       "heading": "Fahrweg im Straßenverkehr",
@@ -290,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0035b.md",
       "heading": "Gefährliche Güter, für deren Beförderung die §§ 35 und 35a gelten",
@@ -297,6 +339,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [],
       "file": "paragraphs/0035c.md",
       "heading": "Ausnahmen zu den §§ 35 und 35a",
@@ -304,6 +347,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0036.md",
       "heading": "Prüffrist für Feuerlöschgeräte",
@@ -311,6 +355,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0036a.md",
       "heading": "Beförderung gefährlicher Güter als behördliche Asservate",
@@ -318,6 +363,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0036b.md",
       "heading": "Beförderung erwärmter flüssiger und fester Stoffe",
@@ -325,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0037.md",
       "heading": "Ordnungswidrigkeiten",
@@ -332,6 +379,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0038.md",
       "heading": "Übergangsbestimmungen",
@@ -339,6 +387,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(weggefallen)",
@@ -346,6 +395,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "Einschränkungen aus Gründen der Sicherheit der Beförderung gefährlicher Güter zu den Teilen 1 bis 9 des ADR und zu den Teilen 1 bis 7 des RID für innerstaatliche Beförderungen sowie zu den Teilen 1 bis 9 des ADN für innerstaatliche und grenzüberschreitende Beförderungen",
@@ -353,6 +403,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 36b)",

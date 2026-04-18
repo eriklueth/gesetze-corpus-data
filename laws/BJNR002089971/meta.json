@@ -4,9 +4,12 @@
   "bjnr": "BJNR002089971",
   "eli": null,
   "gii_slug": "besvng_1",
-  "ingested_at": "2026-04-18T20:27:57Z",
   "jurabk": "BesVNG 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "ca3661d39ce50c95fcc9fc5f9ca9f7ba9fc8ce9daa704e01c607769d2b37f269"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Erstes Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

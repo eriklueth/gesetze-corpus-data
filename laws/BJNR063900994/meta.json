@@ -4,9 +4,9 @@
   "bjnr": "BJNR063900994",
   "eli": null,
   "gii_slug": "wzg_35bek_1994-03-17",
-  "ingested_at": "2026-04-18T20:42:48Z",
   "jurabk": "WZG§35Bek 1994-03-17",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d22145a816d85a488c75b0f815e990cd07290417e1f587401dc182d61cefc1cb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR1810A0023",
   "eli": null,
   "gii_slug": "bebtwahl2021wdhanobek",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BEBTWahl2021WdhAnOBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c872e847ada0a0994e3935a0242a12ba4a359c98dbb26be01299aecc1325259c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Anordnung der teilweisen Wiederholung der Bundestagswahl 2021 in Berlin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

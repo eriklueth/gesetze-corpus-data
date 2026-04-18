@@ -4,9 +4,12 @@
   "bjnr": "BJNR385700004",
   "eli": null,
   "gii_slug": "mkseuchv_2005",
-  "ingested_at": "2026-04-18T20:36:36Z",
   "jurabk": "MKSeuchV 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "3ec79b4e22de9effd98e8dcad4d951c644d975133e8ae50d2353c2b52eba6d17"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zum Schutz gegen die Maul- und Klauenseuche",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

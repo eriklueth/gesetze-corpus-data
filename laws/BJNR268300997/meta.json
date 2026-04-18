@@ -4,9 +4,11 @@
   "bjnr": "BJNR268300997",
   "eli": null,
   "gii_slug": "grpfreurov",
-  "ingested_at": "2026-04-18T20:34:20Z",
   "jurabk": "GrPfREuroV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "d9274295ff9ccf41307c5c86f29dbca001ae66e9e7faa1ff39ec39201a01be12"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Grundpfandrechte in ausländischer Währung und in Euro",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

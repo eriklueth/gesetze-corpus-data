@@ -4,9 +4,9 @@
   "bjnr": "BJNR002120955",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1955-04",
-  "ingested_at": "2026-04-18T20:37:20Z",
   "jurabk": "Münz5DMBek 1955-04",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "00b41957f39b798749080604d1492cfbb664e17462a473d075703f9835d2e4a3"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

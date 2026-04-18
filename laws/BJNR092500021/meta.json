@@ -4,9 +4,12 @@
   "bjnr": "BJNR092500021",
   "eli": null,
   "gii_slug": "vbvg_2023",
-  "ingested_at": "2026-04-18T20:41:42Z",
   "jurabk": "VBVG 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "0bdbdde3d42ee948c5aaa6c30ca4a003b800cebd0f53bacf142bd0c49a4b0bdb"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über die Vergütung von Vormündern und Betreuern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

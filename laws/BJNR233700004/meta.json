@@ -4,9 +4,12 @@
   "bjnr": "BJNR233700004",
   "eli": null,
   "gii_slug": "chemindmeistprv_2004",
-  "ingested_at": "2026-04-18T20:31:19Z",
   "jurabk": "ChemIndMeistPrV 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "a4f21549c5a37223e596e2210d6fd9af71230ef283e27db0d8643a3c70f5e087"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Chemie",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

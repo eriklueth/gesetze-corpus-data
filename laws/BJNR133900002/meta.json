@@ -4,9 +4,9 @@
   "bjnr": "BJNR133900002",
   "eli": null,
   "gii_slug": "m_nz100_200eurobek",
-  "ingested_at": "2026-04-18T20:36:44Z",
   "jurabk": "Münz100/200EuroBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "05ce6938f5ddff99f37bb66a34f77bdb4a8720d7d2c7777524074078aa25588f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 und 200 Euro (Goldmünze \"Übergang zur Währungsunion - Einführung des Euro\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

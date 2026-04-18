@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR003769992",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Art 1 Errichtung eines Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)",
         "Art 1"
@@ -13,6 +14,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Art 1 Errichtung eines Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA)",
         "Art 1"

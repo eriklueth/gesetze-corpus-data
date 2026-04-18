@@ -4,9 +4,9 @@
   "bjnr": "BJNR213770961",
   "eli": null,
   "gii_slug": "streitabk_gbr",
-  "ingested_at": "2026-04-18T20:40:45Z",
   "jurabk": "StreitAbk GBR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a87355f25f04e460eb3fa6c0e9a4ed8289b8d5f0dc204f517435680d0d429a2a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über die Beilegung von Streitigkeiten bei Direktbeschaffungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

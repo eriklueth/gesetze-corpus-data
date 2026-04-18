@@ -4,9 +4,11 @@
   "bjnr": "BJNR146900993",
   "eli": null,
   "gii_slug": "arznrav",
-  "ingested_at": "2026-04-18T20:28:52Z",
   "jurabk": "ArznRAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "62cd2faeb7dbc786e8b0c82b29c5ed2c340c47d27e22e54e5c6c800da75ae487"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Aussetzung der Rechnungsabschläge bei Arzneimitteln nach § 311a des Fünften Buches Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

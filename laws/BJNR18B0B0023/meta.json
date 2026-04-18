@@ -4,9 +4,12 @@
   "bjnr": "BJNR18B0B0023",
   "eli": null,
   "gii_slug": "wasutechausbv",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WasUTechAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "4a28b6fbf5d8b0b321e44012b36f6b15211bffd9532cfb927ed2f26d07e1ad89"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Umwelttechnologen für Wasserversorgung und zur Umwelttechnologin für Wasserversorgung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

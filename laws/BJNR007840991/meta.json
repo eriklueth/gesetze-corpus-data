@@ -4,9 +4,11 @@
   "bjnr": "BJNR007840991",
   "eli": null,
   "gii_slug": "vzog",
-  "ingested_at": "2026-04-18T20:42:11Z",
   "jurabk": "VZOG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "5429a261d830abc22f042f63f34469963834725233edc7c107c3e2ae48ba1a8f"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Feststellung der Zuordnung von ehemals volkseigenem Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

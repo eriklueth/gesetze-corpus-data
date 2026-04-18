@@ -4,9 +4,11 @@
   "bjnr": "BJNR010699977",
   "eli": null,
   "gii_slug": "kvkg",
-  "ingested_at": "2026-04-18T20:35:42Z",
   "jurabk": "KVKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "1141e035fc01e845ce3619519258025d80c4f7d50e724294f517414349d919ed"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Dämpfung der Ausgabenentwicklung und zur Strukturverbesserung in der gesetzlichen Krankenversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

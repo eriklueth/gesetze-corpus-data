@@ -4,9 +4,11 @@
   "bjnr": "BJNR012100978",
   "eli": null,
   "gii_slug": "seeverksiv",
-  "ingested_at": "2026-04-18T20:39:46Z",
   "jurabk": "SeeVerkSiV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "90b0b241f31c0de4c095da4a6c32c74c5a0de7728a9b00ce6b77c7584fffa215"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Sicherstellung des Seeverkehrs",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR136000016",
   "eli": null,
   "gii_slug": "rwbestv_2016",
-  "ingested_at": "2026-04-18T20:39:18Z",
   "jurabk": "RWBestV 2016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "0dfb59e477cd15cf8afda78ca33c3571db3bb2a015f66ec13ce8222a08b493d2"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2016",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

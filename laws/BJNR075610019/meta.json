@@ -4,9 +4,12 @@
   "bjnr": "BJNR075610019",
   "eli": null,
   "gii_slug": "ekfv",
-  "ingested_at": "2026-04-18T20:32:09Z",
   "jurabk": "eKFV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "53685bfed1c073d302b683a5517de34f8b5f3cf5a992d67d0340f013c2cb2853"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Verordnung über die Teilnahme von Elektrokleinstfahrzeugen am Straßenverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

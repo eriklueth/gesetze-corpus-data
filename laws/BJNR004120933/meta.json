@@ -4,9 +4,11 @@
   "bjnr": "BJNR004120933",
   "eli": null,
   "gii_slug": "gewbezg",
-  "ingested_at": "2026-04-18T20:33:52Z",
   "jurabk": "GewBezG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "82e3269414121cdb71ccc2cc52aea48bfe7d6309948a78da37adb9fff6f92694"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Gewichtsbezeichnung an schweren, auf Schiffen beförderten Frachtstücken",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR000650988",
   "eli": null,
   "gii_slug": "krarchg",
-  "ingested_at": "2026-04-18T20:35:33Z",
   "jurabk": "KrArchG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "8529a5481dab7fc5653cf18b1189fe023cc507d04f141e1a1090fe29a84be7fa"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die zentrale Archivierung von Unterlagen aus dem Bereich des Kriegsfolgenrechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR161200998",
   "eli": null,
   "gii_slug": "glasblausbv",
-  "ingested_at": "2026-04-18T20:34:00Z",
   "jurabk": "GlasblAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "ab336fe864d35af38a97fa6ad8e8b2e75f124fed0f03e8a1ebe5c98a6c8fdd80"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Glasbläser/zur Glasbläserin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

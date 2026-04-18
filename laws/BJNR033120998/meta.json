@@ -4,9 +4,9 @@
   "bjnr": "BJNR033120998",
   "eli": null,
   "gii_slug": "dba_let",
-  "ingested_at": "2026-04-18T20:31:26Z",
   "jurabk": "DBA LET",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3912324ecfffff932877d8787a1dca2235fba0ac1dc29892cc15265b34b66203"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Lettland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

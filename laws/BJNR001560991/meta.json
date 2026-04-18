@@ -4,9 +4,11 @@
   "bjnr": "BJNR001560991",
   "eli": null,
   "gii_slug": "ksventgv",
-  "ingested_at": "2026-04-18T20:35:38Z",
   "jurabk": "KSVEntgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "c996882f83ef1b092fc40231708d1a72b9b7008c539fa95c05ee601688af5739"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Künstlersozialversicherungs-Entgeltverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

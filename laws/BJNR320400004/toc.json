@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR320400004",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Härtefälle, Betriebsinhaber in besonderer Lage, Neueinsteiger"
@@ -58,6 +64,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Härtefälle, Betriebsinhaber in besonderer Lage, Neueinsteiger"
@@ -68,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Härtefälle, Betriebsinhaber in besonderer Lage, Neueinsteiger"
@@ -78,6 +86,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Härtefälle, Betriebsinhaber in besonderer Lage, Neueinsteiger"
@@ -88,6 +97,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Härtefälle, Betriebsinhaber in besonderer Lage, Neueinsteiger"
@@ -98,6 +108,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 5 Schlussbestimmungen"
@@ -108,6 +119,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 5 Schlussbestimmungen"
@@ -118,6 +130,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 5 Schlussbestimmungen"
@@ -128,6 +141,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 5 Schlussbestimmungen"

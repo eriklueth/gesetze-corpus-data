@@ -4,9 +4,9 @@
   "bjnr": "BJNR212350965",
   "eli": null,
   "gii_slug": "eufernsabk",
-  "ingested_at": "2026-04-18T20:32:35Z",
   "jurabk": "EuFernsAbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9352631431426c587a79cfb0f2c5bca49dabe4ebd16c61f151981bad36ad7972"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Europäisches Abkommen zum Schutz von Fernsehsendungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR051200993",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0114.md",
       "heading": "Rückkehr zum einheitlichen Verordnungsrang",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0115.md",
       "heading": "Übergangsvorschriften",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0116.md",
       "heading": "Neufassung geänderter Gesetze und Verordnungen",
@@ -24,6 +27,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0117.md",
       "heading": "Inkrafttreten",

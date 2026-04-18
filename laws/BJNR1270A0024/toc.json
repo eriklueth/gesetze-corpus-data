@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR1270A0024",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Zulassungsvoraussetzungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Inhalt und Gliederung der Prüfung",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Prüfungsteil „Fachliche Spezialisierung“",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Prüfungsteil „IT-spezifische Handlungsfelder“",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Prüfungsteil „Mitarbeitendenführung und Personalmanagement“",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Prüfungsteil „IT-Projekt“",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Prüfungsbereich „IT-Infrastrukturen planen, Systeme und Komponenten integrieren und vernetzen sowie Funktion und Betrieb sicherstellen“",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Prüfungsbereich „Informationssicherheit gewährleisten“",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Prüfungsbereich „Softwarelösungen planen, entwickeln, implementieren und evaluieren“",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Prüfungsbereich „Datenanalysen zur Optimierung von betriebs- und produktionswirtschaftlichen Prozessen planen, durchführen und evaluieren“",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Prüfungsbereich „Beratung und Unterstützung bei der Umsetzung individueller IT-Kundenlösungen“",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Prüfungsbereich „Management von IT-Projekten“",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Prüfungsbereich „Management von Prozessen mit IT-Bezug“",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Prüfungsbereich „Management der Einführung und des Betriebs von IT-Lösungen“",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Prüfungsbereich „Personalplanung und -entwicklung“",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Prüfungsbereich „Führen von Mitarbeitenden und Teams“",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Prüfungsbereich „Planen, Durchführen und Dokumentieren eines IT-Projektes“",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Form und Ablauf der Prüfung",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Schriftliche Prüfung im Prüfungsteil „Fachliche Spezialisierung“",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0021.md",
       "heading": "Mündliche Prüfung im Prüfungsteil „Fachliche Spezialisierung“",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0022.md",
       "heading": "Schriftliche Prüfung im Prüfungsteil „IT-spezifische Handlungsfelder“",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0023.md",
       "heading": "Schriftliche Prüfung im Prüfungsteil „Mitarbeitendenführung und Personalmanagement“",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0024.md",
       "heading": "Gesprächssimulation im Prüfungsteil „Mitarbeitendenführung und Personalmanagement“",
@@ -171,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0025.md",
       "heading": "Projektarbeit im Prüfungsteil „IT-Projekt“",
@@ -178,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0026.md",
       "heading": "Mündliche Prüfung im Prüfungsteil „IT-Projekt“",
@@ -185,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0027.md",
       "heading": "Mündliche Ergänzungsprüfung",
@@ -192,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0028.md",
       "heading": "Bewertung der Prüfungsleistungen",
@@ -199,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0029.md",
       "heading": "Bestehen der Prüfung, Gesamtnote",
@@ -206,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0030.md",
       "heading": "Befreiung von einzelnen Prüfungsbestandteilen",
@@ -213,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0031.md",
       "heading": "Zeugnisse",
@@ -220,6 +251,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0032.md",
       "heading": "Wiederholung von Prüfungsleistungen",
@@ -227,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0033.md",
       "heading": "Befreiung vom schriftlichen Teil der Ausbildereignungsprüfung",
@@ -234,6 +267,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0034.md",
       "heading": "Übergangsvorschriften",
@@ -241,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0035.md",
       "heading": "Inkrafttreten; Außerkrafttreten",
@@ -248,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu den §§ 28 und 29)",
@@ -255,6 +291,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 31)",

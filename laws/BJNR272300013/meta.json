@@ -4,9 +4,11 @@
   "bjnr": "BJNR272300013",
   "eli": null,
   "gii_slug": "messeg",
-  "ingested_at": "2026-04-18T20:36:32Z",
   "jurabk": "MessEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 65
+  },
   "source_hashes": {
     "source_xml_sha256": "86d642b8f99ab4a4186e46ee4c6555ec1643244637e71a286d24ead4a1271e07"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das Inverkehrbringen und die Bereitstellung von Messgeräten auf dem Markt, ihre Verwendung und Eichung sowie über Fertigpackungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

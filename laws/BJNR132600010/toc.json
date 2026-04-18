@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR132600010",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Allgemeine Schutzmaßregeln"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Allgemeine Schutzmaßregeln"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Allgemeine Schutzmaßregeln"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",
@@ -53,6 +58,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",
@@ -64,6 +70,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",
@@ -75,6 +82,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",
@@ -86,6 +94,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",
@@ -97,6 +106,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",
@@ -108,6 +118,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",
@@ -119,6 +130,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",
@@ -130,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",
@@ -141,6 +154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",
@@ -152,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Besondere Schutzmaßregeln",

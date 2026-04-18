@@ -4,9 +4,12 @@
   "bjnr": "BJNR104400013",
   "eli": null,
   "gii_slug": "bimschv_17_2013",
-  "ingested_at": "2026-04-18T20:28:03Z",
   "jurabk": "BImSchV 17 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 8,
+    "paragraph": 29
+  },
   "source_hashes": {
     "source_xml_sha256": "6a941a5734dba480c99b5c3bb4262ed3a113f65335a4496050cc3125e6a74051"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Siebzehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR020600998",
   "eli": null,
   "gii_slug": "forstwiausbv_1998",
-  "ingested_at": "2026-04-18T20:33:20Z",
   "jurabk": "ForstWiAusbV 1998",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "db53e0da34ace7230e6c57028fda286c4919ebc2690c83ea4df85af46feeef8d"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Forstwirt/zur Forstwirtin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

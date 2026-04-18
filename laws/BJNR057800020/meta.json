@@ -4,9 +4,11 @@
   "bjnr": "BJNR057800020",
   "eli": null,
   "gii_slug": "sodeg",
-  "ingested_at": "2026-04-18T20:40:02Z",
   "jurabk": "SodEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "efc5ff1f2b66f7be4e60f4c16d7b7be43348ded2d994cbe12bd418dfb54ec2f5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über den Einsatz der Einrichtungen und sozialen Dienste zur Bekämpfung der Coronavirus SARS-CoV-2 Krise in Verbindung mit einem Sicherstellungsauftrag",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

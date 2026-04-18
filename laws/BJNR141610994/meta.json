@@ -4,9 +4,11 @@
   "bjnr": "BJNR141610994",
   "eli": null,
   "gii_slug": "bga-nachfg",
-  "ingested_at": "2026-04-18T20:29:58Z",
   "jurabk": "BGA-NachfG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "5ba798f6e201677d005c20a10e0df3d75d86f35247d2668b8bdf92a882906161"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

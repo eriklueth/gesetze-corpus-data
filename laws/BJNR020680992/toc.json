@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR020680992",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "2. Abschnitt Flugverkehrskontrolle"
@@ -40,6 +44,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "2. Abschnitt Flugverkehrskontrolle"
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "2. Abschnitt Flugverkehrskontrolle"
@@ -60,6 +66,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "2. Abschnitt Flugverkehrskontrolle"
@@ -70,6 +77,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "2. Abschnitt Flugverkehrskontrolle"
@@ -80,6 +88,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "3. Abschnitt Verkehrsflußregelung, Steuerung der Luftraumnutzung und Vorrang"
@@ -90,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "3. Abschnitt Verkehrsflußregelung, Steuerung der Luftraumnutzung und Vorrang"
@@ -100,6 +110,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "3. Abschnitt Verkehrsflußregelung, Steuerung der Luftraumnutzung und Vorrang"
@@ -110,6 +121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "4. Abschnitt Fluginformationsdienst"
@@ -120,6 +132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "4. Abschnitt Fluginformationsdienst"
@@ -130,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "4. Abschnitt Fluginformationsdienst"
@@ -140,6 +154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "5. Abschnitt Flugalarmdienst"
@@ -150,6 +165,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "5. Abschnitt Flugalarmdienst"
@@ -160,6 +176,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "6. Abschnitt Flugberatungsdienst"
@@ -170,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "6. Abschnitt Flugberatungsdienst"
@@ -180,6 +198,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "6. Abschnitt Flugberatungsdienst"
@@ -190,6 +209,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "6. Abschnitt Flugberatungsdienst"
@@ -200,6 +220,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "7. Abschnitt Flugfernmeldedienst"
@@ -210,6 +231,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "7. Abschnitt Flugfernmeldedienst"
@@ -220,6 +242,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "7. Abschnitt Flugfernmeldedienst"
@@ -230,6 +253,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "8. Abschnitt Dokumentation von Betriebsdaten"
@@ -240,6 +264,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "9. Abschnitt Schlußvorschriften"
@@ -250,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "9. Abschnitt Schlußvorschriften"
@@ -260,6 +286,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Regeln",
         "9. Abschnitt Schlußvorschriften"

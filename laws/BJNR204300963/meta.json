@@ -4,9 +4,9 @@
   "bjnr": "BJNR204300963",
   "eli": null,
   "gii_slug": "sozsichabkzvbg_bel_1",
-  "ingested_at": "2026-04-18T20:40:30Z",
   "jurabk": "SozSichAbkZVbg BEL 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "89d414ee2123dc47b07bbe9d8ffcf9b82b03eb247a73d54140b1dab3c279f3f6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erste Zusatzvereinbarung zum Allgemeinen Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über Soziale Sicherheit vom 7. Dezember 1957 über die Soziale Sicherheit der Grenzgänger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0690P0023",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Inkraftsetzung",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Anwendung der Binnenschiffspersonalverordnung",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Ausnahmen von der Patentpflicht; Befreiungen",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 18,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Zuständige Behörden",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Zuständigkeit für die Durchführung von Tauglichkeitsuntersuchungen",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Befähigungszeugnisse",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Ausbildungsprogramme, Lehrgänge, Prüfungen, Sicherheitsausbildung",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Pflichten der Eigentümer, Ausrüster, Schiffsführer und Besatzungsmitglieder",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Ordnungswidrigkeiten",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Übergangsbestimmungen für Tauglichkeitsuntersuchungen",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Übergangsbestimmung für Befähigungszeugnisse auf Grund von Prüfungen nach Landesrecht zuständiger Behörden",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Umtausch von Schifferdienstbüchern",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0012a.md",
       "heading": "Umschreibung von Behördenpatenten",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Nichtanwendung von Vorschriften",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 1 Absatz 2 Nummer 1)",
@@ -108,6 +123,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 1 Absatz 2 Nummer 2)",

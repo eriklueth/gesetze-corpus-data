@@ -4,9 +4,9 @@
   "bjnr": "BJNR604710023",
   "eli": null,
   "gii_slug": "art17abs1nr2bizihecabkerklbek",
-  "ingested_at": "2026-04-18T20:28:52Z",
   "jurabk": "Art17Abs1Nr2BIZIHECAbkErklBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c089d1a45e39d51483fe0ab1610aeaf0d64d0f6e63a43474a01010872e358f89"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung einer Erklärung gegenüber der Bank für Internationalen Zahlungsausgleich nach Artikel 17 Absatz 1 Nummer 2 des Abkommens zwischen der Regierung der Bundesrepublik Deutschland und der Bank für Internationalen Zahlungsausgleich über das BIZ Innovation Hub Eurosystem Centre in Frankfurt am Main vom 9. Dezember 2022",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

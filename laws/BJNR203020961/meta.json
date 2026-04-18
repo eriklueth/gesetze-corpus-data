@@ -4,9 +4,9 @@
   "bjnr": "BJNR203020961",
   "eli": null,
   "gii_slug": "vollstrabk_gbr",
-  "ingested_at": "2026-04-18T20:42:02Z",
   "jurabk": "VollstrAbk GBR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "efd7ef60dba878d5be724edd0313326242144171951fddc5c046e4ffb8d39a63"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen in Zivil- und Handelssachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

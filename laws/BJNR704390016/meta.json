@@ -4,9 +4,12 @@
   "bjnr": "BJNR704390016",
   "eli": null,
   "gii_slug": "d_nenschv",
-  "ingested_at": "2026-04-18T20:31:53Z",
   "jurabk": "DünenSchV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "793d386a6d3632b741ef6410358d4fd420053627dfb79a3a4b341d8ec99dc7bb"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Bekanntmachung der Verordnung über den Schutz der Randdünen auf der Nordseeinsel Wangerooge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

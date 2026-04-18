@@ -4,9 +4,11 @@
   "bjnr": "BJNR203570990",
   "eli": null,
   "gii_slug": "ahivwvtrautg",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AHiVwVtrAUTG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "005c3d8b1833dc76673a0bbaff348ef04d5d6051c1da78ae1697c159cbbd2b04"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 31. Mai 1988 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Amts- und Rechtshilfe in Verwaltungssachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

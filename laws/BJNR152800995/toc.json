@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR152800995",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Geschäftsjahr",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Buchführung, Inventar",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Jahresabschluß",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Einzelvorschriften zur Bilanz",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Aufbewahrung und Vorlegung von Unterlagen",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Kosten- und Leistungsrechnung",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Wahlrecht für Kapitalgesellschaften",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Befreiungen",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Ordnungswidrigkeiten",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Inkrafttreten und Übergangsvorschriften",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "Gliederung der Bilanz*)",
@@ -87,6 +99,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "Gliederung der Gewinn- und Verlustrechnung",
@@ -94,6 +107,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0003a.md",
       "heading": "Anlagennachweis",
@@ -101,6 +115,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0003b.md",
       "heading": "Nachweis der Förderungen nach Landesrecht (Fördernachweis)",
@@ -108,6 +123,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "Kontenrahmen für die Buchführung (Kontenklasse 0-8)",
@@ -115,6 +131,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "Muster, Kostenstellenrahmen für die Kosten- und Leistungsrechnung",
@@ -122,6 +139,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "Muster, Kostenträgerübersicht",

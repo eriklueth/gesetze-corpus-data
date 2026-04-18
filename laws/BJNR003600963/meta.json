@@ -4,9 +4,11 @@
   "bjnr": "BJNR003600963",
   "eli": null,
   "gii_slug": "lag_ndg_16",
-  "ingested_at": "2026-04-18T20:28:02Z",
   "jurabk": "LAGÄndG 16",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "cc0727073993e05c0366b7d93e7a1b89a8dd1458c148579d4b5867767b092d48"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Sechzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

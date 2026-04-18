@@ -4,9 +4,11 @@
   "bjnr": "BJNR216690973",
   "eli": null,
   "gii_slug": "tontr_bkg",
-  "ingested_at": "2026-04-18T20:41:18Z",
   "jurabk": "TonTrÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "2eae74d0a99ba87d1b4df26508b82c5ce2d714f10de7fcf7a83baaa5c65df067"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Übereinkommen vom 29. Oktober 1971 zum Schutz der Hersteller von Tonträgern gegen die unerlaubte Vervielfältigung ihrer Tonträger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

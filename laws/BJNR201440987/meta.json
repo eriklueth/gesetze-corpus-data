@@ -4,9 +4,9 @@
   "bjnr": "BJNR201440987",
   "eli": null,
   "gii_slug": "emsscho",
-  "ingested_at": "2026-04-18T20:32:14Z",
   "jurabk": "EmsSchO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "38bbb605cb807b4789c18d5e3492ab9e15ae076f300c2e6782bf64ea2e8e3d3a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Schiffahrtsordnung Emsmündung (Anlage A zu dem deutsch-niederländischen Abkommen vom 22. Dezember 1986 über die Schiffahrtsordnung in der Emsmündung)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

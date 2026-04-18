@@ -4,9 +4,9 @@
   "bjnr": "BJNR0720A0025",
   "eli": null,
   "gii_slug": "stromstg_9abs9bek_2025",
-  "ingested_at": "2026-04-18T20:40:49Z",
   "jurabk": "StromStG§9Abs9Bek 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "28c9a0b91f7192a1bb2c19f1ed0a4e1d38f79a3bfbdc90d8a1d1780439b83b2a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung nach § 9 Absatz 9 des Stromsteuergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

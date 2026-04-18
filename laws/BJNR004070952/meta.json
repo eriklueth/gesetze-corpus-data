@@ -4,9 +4,11 @@
   "bjnr": "BJNR004070952",
   "eli": null,
   "gii_slug": "zustergg",
-  "ingested_at": "2026-04-18T20:43:23Z",
   "jurabk": "ZustErgG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "0dd1fe01e3cdc492c3c838a6ecfdd55b0a84e4f64dc8b9047bd54ddf1ad8dd6a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Ergänzung von Zuständigkeiten auf den Gebieten des Bürgerlichen Rechts, des Handelsrechts und des Strafrechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

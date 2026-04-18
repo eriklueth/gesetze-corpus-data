@@ -4,9 +4,11 @@
   "bjnr": "BJNR211190961",
   "eli": null,
   "gii_slug": "cmrg",
-  "ingested_at": "2026-04-18T20:31:20Z",
   "jurabk": "CMRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "ee54c4aacddb2625a9974ab4237c6ccc5f9ab06823da4d35cb7e480b484f03d7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im internationalen Straßengüterverkehr (CMR)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

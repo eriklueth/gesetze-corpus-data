@@ -4,9 +4,12 @@
   "bjnr": "BJNR008340986",
   "eli": null,
   "gii_slug": "thermmausbv",
-  "ingested_at": "2026-04-18T20:41:09Z",
   "jurabk": "ThermMAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "a275779cd453da53e332a4cd5ebc04d140d1f28872a541c28a3d6af5fd647e13"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Thermometermacher/zur Thermometermacherin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR174200008",
   "eli": null,
   "gii_slug": "flugfunkv_2008",
-  "ingested_at": "2026-04-18T20:33:14Z",
   "jurabk": "FlugfunkV 2008",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 22
+  },
   "source_hashes": {
     "source_xml_sha256": "6a96ab1d1d0b364c5bc2bc7c1e4397be14d67e1a8a898c0990390f5a622feb5c"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Flugfunkzeugnisse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

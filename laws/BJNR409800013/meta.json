@@ -4,9 +4,11 @@
   "bjnr": "BJNR409800013",
   "eli": null,
   "gii_slug": "eu-fahrgrbusv",
-  "ingested_at": "2026-04-18T20:32:30Z",
   "jurabk": "EU-FahrgRBusV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "1a8911035644fd6aa4fabefb1c93b912b604293066472c99bbcf03777162bdf3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchsetzung von Fahrgastrechten der Europäischen Union im Kraftomnibusverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

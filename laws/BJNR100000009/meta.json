@@ -4,9 +4,12 @@
   "bjnr": "BJNR100000009",
   "eli": null,
   "gii_slug": "atav_2009",
-  "ingested_at": "2026-04-18T20:28:56Z",
   "jurabk": "AtAV 2009",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 25
+  },
   "source_hashes": {
     "source_xml_sha256": "e5f5ee5661369862c0a7650c17cd3217e3ab940a232329d6d050850e4f39613f"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Verbringung radioaktiver Abfälle oder abgebrannter Brennelemente",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR198110013",
   "eli": null,
   "gii_slug": "kagb",
-  "ingested_at": "2026-04-18T20:35:11Z",
   "jurabk": "KAGB",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 416
+  },
   "source_hashes": {
     "source_xml_sha256": "c99aa776db44874cde114c7450c2457d906bd15451cde15991260f4608305b48"
   },
@@ -34,5 +36,5 @@
     }
   ],
   "title": "Kapitalanlagegesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR380700017",
   "eli": null,
   "gii_slug": "patinfozbek_2017",
-  "ingested_at": "2026-04-18T20:38:08Z",
   "jurabk": "PatInfoZBek 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6151a806039ca453e79eea12113b2a860468f94e6570341a4e3cc9630943760c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Änderung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Designanmeldungen befugten Patentinformationszentren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

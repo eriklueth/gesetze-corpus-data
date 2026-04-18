@@ -4,9 +4,11 @@
   "bjnr": "BJNR020090961",
   "eli": null,
   "gii_slug": "rag_4",
-  "ingested_at": "2026-04-18T20:28:13Z",
   "jurabk": "RAG 4",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "bc3b2dfbe20a037f92a2872ea6ddb497b587720e6aa3af0c40d3ddb6288e88b6"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Viertes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1961",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

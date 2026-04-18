@@ -4,9 +4,11 @@
   "bjnr": "BJNR217200005",
   "eli": null,
   "gii_slug": "twirtausbsteignv_2005",
-  "ingested_at": "2026-04-18T20:41:21Z",
   "jurabk": "TWirtAusbStEignV 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "5674db9c649cf74a7506b6eef7a7685b6ed8594324fc5065f966b4d6100d0d9b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Tierwirt/zur Tierwirtin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

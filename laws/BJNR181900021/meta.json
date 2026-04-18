@@ -4,9 +4,11 @@
   "bjnr": "BJNR181900021",
   "eli": null,
   "gii_slug": "seearbg_119abs5v",
-  "ingested_at": "2026-04-18T20:39:42Z",
   "jurabk": "SeeArbG§119Abs5V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "6eabc87686841d4eaea09cba0073f458beaa4dc9764d52784636811b4e60080a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung nach § 119 Absatz 5 des Seearbeitsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

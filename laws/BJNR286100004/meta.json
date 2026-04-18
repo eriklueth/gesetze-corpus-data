@@ -4,9 +4,12 @@
   "bjnr": "BJNR286100004",
   "eli": null,
   "gii_slug": "lwaltschv",
-  "ingested_at": "2026-04-18T20:36:21Z",
   "jurabk": "LwAltschV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 12,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "6892e923deecac73106fdc1e99c7f925d2748d1954c0827d806507c23031fd7d"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Landwirtschafts-Altschuldengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

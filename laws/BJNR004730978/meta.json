@@ -4,9 +4,12 @@
   "bjnr": "BJNR004730978",
   "eli": null,
   "gii_slug": "khbv",
-  "ingested_at": "2026-04-18T20:35:18Z",
   "jurabk": "KHBV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "217d40284b9bde01667baad3166346df7154138765943d218ef738206b479a56"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Rechnungs- und Buchführungspflichten von Krankenhäusern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

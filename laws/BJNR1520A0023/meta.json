@@ -4,9 +4,9 @@
   "bjnr": "BJNR1520A0023",
   "eli": null,
   "gii_slug": "luftvodv_143_2024",
-  "ingested_at": "2026-04-18T20:36:03Z",
   "jurabk": "LuftVODV 143 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c6c0c6e627fa7ac034505313110ae0b407b9b75347fe475b13dd5d716f8073fd"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Hundertdreiundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Heringsdorf)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

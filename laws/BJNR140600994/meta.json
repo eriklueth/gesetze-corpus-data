@@ -4,9 +4,11 @@
   "bjnr": "BJNR140600994",
   "eli": null,
   "gii_slug": "gleichberg_2",
-  "ingested_at": "2026-04-18T20:28:05Z",
   "jurabk": "GleichberG 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "3906a60c922e9e642384d7ae815dd368c5068666f80fec4c28add7e7387c8911"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Durchsetzung der Gleichberechtigung von Frauen und Männern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

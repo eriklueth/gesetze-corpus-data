@@ -4,9 +4,11 @@
   "bjnr": "BJNR091700021",
   "eli": null,
   "gii_slug": "btog",
-  "ingested_at": "2026-04-18T20:31:01Z",
   "jurabk": "BtOG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 34
+  },
   "source_hashes": {
     "source_xml_sha256": "68db84f57c4cba5cc911f1943931dc14210d355ee056317eabb14215d0bc3b15"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Betreuungsorganisationsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR06F0A0025",
   "eli": null,
   "gii_slug": "hinschgowizustv",
-  "ingested_at": "2026-04-18T20:34:29Z",
   "jurabk": "HinSchGOWiZustV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "a0b5a5bb51f136e6dabb9b251617473587e604ccdf1d116e17d96ee86db29e57"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Zuständigkeit des Bundesamtes für Justiz für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 40 des Hinweisgeberschutzgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

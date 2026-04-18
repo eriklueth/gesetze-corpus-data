@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0F70B0025",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Grundlagen zur Bestimmung der für die Gesamtheit der Länder zulässigen strukturellen Kreditaufnahme",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Verteilung der zulässigen strukturellen Kreditaufnahme für die Ländergesamtheit auf die einzelnen Länder gemäß Artikel 109 Absatz 3 Satz 6 und 7 des Grundgesetzes",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Geltungsbeginn",

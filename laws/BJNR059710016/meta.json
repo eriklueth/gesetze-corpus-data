@@ -4,9 +4,11 @@
   "bjnr": "BJNR059710016",
   "eli": null,
   "gii_slug": "prodsg2011v_6",
-  "ingested_at": "2026-04-18T20:28:17Z",
   "jurabk": "ProdSG2011V 6",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "8edc63a2d32d3ec85421bd4e655d148a9caf4dd86e1efeff3a16fe1e4315de5b"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Sechste Verordnung zum Produktsicherheitsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

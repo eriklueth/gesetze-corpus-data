@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR005800012",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Mitteilungspflicht",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Mitteilungen der Lebensmittel- und Futtermittelunternehmer",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Übermittlungen der zuständigen Behörden",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Nicht mehr anzuwendende Vorschriften",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Inkrafttreten",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 1 Satz 1 Nummer 1 und 4 Buchstabe a)",
@@ -45,6 +51,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 1 Satz 1 Nummer 2 und 4 Buchstabe b)",
@@ -52,6 +59,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 1 Satz 1 Nummer 3 und 4 Buchstabe c)",
@@ -59,6 +67,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 2 Absatz 1 Satz 1)",
@@ -66,6 +75,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 3 Absatz 1 Nummer 1)",

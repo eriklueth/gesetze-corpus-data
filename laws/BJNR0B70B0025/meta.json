@@ -4,9 +4,9 @@
   "bjnr": "BJNR0B70B0025",
   "eli": null,
   "gii_slug": "luftvodv_136_2025",
-  "ingested_at": "2026-04-18T20:36:03Z",
   "jurabk": "LuftVODV 136 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9d300e72329d7c42cb9f49a1d3b319985f0fd708879fa4d25a66dc93b2287be9"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Hundertsechsunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Braunschweig-Wolfsburg)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

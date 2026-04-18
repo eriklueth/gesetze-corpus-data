@@ -4,9 +4,12 @@
   "bjnr": "BJNR607510015",
   "eli": null,
   "gii_slug": "altlandpflschv_2015",
-  "ingested_at": "2026-04-18T20:28:41Z",
   "jurabk": "AltLandPflSchV 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "0c5324b5cf389f5edc25414209c1eb4ab265ea4925397ac57f02a1c2eaafb3e3"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Anwendung von Pflanzenschutzmitteln in bestimmten Gebieten von Hamburg und Niedersachsen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR017180980",
   "eli": null,
   "gii_slug": "chemg",
-  "ingested_at": "2026-04-18T20:31:19Z",
   "jurabk": "ChemG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 71
+  },
   "source_hashes": {
     "source_xml_sha256": "bd1b6c824cd8e24c4385b8412e8f0eabf4b2f3d7c1fddb9662e1e51dcfa80e14"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Gesetz zum Schutz vor gefährlichen Stoffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

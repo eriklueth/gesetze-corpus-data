@@ -4,9 +4,9 @@
   "bjnr": "BJNR206460986",
   "eli": null,
   "gii_slug": "eustift_bkg",
-  "ingested_at": "2026-04-18T20:32:50Z",
   "jurabk": "EuStiftÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b7161275c0e831eddae1c7e085418bd87612479ac71555b8befccb24b3c9aa8d"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Übereinkommen vom 29. März 1982 über die Errichtung einer Europäischen Stiftung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

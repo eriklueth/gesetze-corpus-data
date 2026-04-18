@@ -4,9 +4,9 @@
   "bjnr": "BJNR207060980",
   "eli": null,
   "gii_slug": "intelsatvorrprot",
-  "ingested_at": "2026-04-18T20:34:53Z",
   "jurabk": "INTELSATVorRProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "62a063d7af940f8488b76b9d2f0d5e6a232eb7fb38433f47988a4e9abe51dbf8"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Protokoll über Vorrechte, Befreiungen und Immunitäten der Internationalen Fernmeldesatellitenorganisationen INTELSAT",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

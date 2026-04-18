@@ -4,9 +4,11 @@
   "bjnr": "BJNR17F0A0023",
   "eli": null,
   "gii_slug": "stiftfing",
-  "ingested_at": "2026-04-18T20:40:42Z",
   "jurabk": "StiftFinG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "7d633608b586dc1fde1135924cfaa012c9583db6749658386af69a7088fe4fe5"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Finanzierung politischer Stiftungen aus dem Bundeshaushalt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

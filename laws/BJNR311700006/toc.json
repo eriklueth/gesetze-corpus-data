@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR311700006",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Ausreichende Liquidität",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Zahlungsmittel",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Zahlungsverpflichtungen",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Wertpapierpensions- und Wertpapierleihgeschäfte",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Bemessungsgrundlage",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Restlaufzeiten",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "(weggefallen)",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "(weggefallen)",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Verwendung von institutseigenen Liquiditätsrisikomess- und -steuerungsverfahren",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Meldungen der Kennzahlen",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "(weggefallen)",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Inkrafttreten",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(weggefallen)",
@@ -101,6 +115,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 11 Abs. 1 Satz 1)",
@@ -108,6 +123,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 11 Abs. 1 Satz 1)",

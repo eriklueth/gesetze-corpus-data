@@ -4,9 +4,9 @@
   "bjnr": "BJNR206630972",
   "eli": null,
   "gii_slug": "schzuszzust_bk",
-  "ingested_at": "2026-04-18T20:39:40Z",
   "jurabk": "SchZusZZustÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "68055d24c297b5dbe0a6f63e026a34977cf19a4835090f954927b1e1b3ad0a4f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Internationales Übereinkommen zur Vereinheitlichung von Regeln über die zivilgerichtliche Zuständigkeit bei Schiffszusammenstößen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

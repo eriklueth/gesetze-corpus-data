@@ -4,9 +4,11 @@
   "bjnr": "BJNR018220971",
   "eli": null,
   "gii_slug": "bezeichnungsv",
-  "ingested_at": "2026-04-18T20:29:54Z",
   "jurabk": "BezeichnungsV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "ceac479bad2cef708e77ad49e0a24b1e1daf87400bcf31986af8b70e2545cc92"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Bezeichnung der landesrechtlichen Vorschriften nach § 59 Abs. 3 Bundesausbildungsförderungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

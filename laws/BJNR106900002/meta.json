@@ -4,9 +4,11 @@
   "bjnr": "BJNR106900002",
   "eli": null,
   "gii_slug": "lap-hdeukv",
-  "ingested_at": "2026-04-18T20:35:47Z",
   "jurabk": "LAP-hDEUKV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "7c508e0384cb31fc05268ffe16af4f369dc0dd1e8c1a74a9fbc5a8267b57acba"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren technischen Dienst bei der Eisenbahn-Unfallkasse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

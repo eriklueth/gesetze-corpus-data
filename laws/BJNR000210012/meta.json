@@ -4,9 +4,12 @@
   "bjnr": "BJNR000210012",
   "eli": null,
   "gii_slug": "binschstro_2012",
-  "ingested_at": "2026-04-18T20:30:09Z",
   "jurabk": "BinSchStrO 2012",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 10,
+    "paragraph": 708
+  },
   "source_hashes": {
     "source_xml_sha256": "22ed0d46ff7a8d361a5e5008880fc767170a7356481f67288dc53ebf78a39800"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Binnenschifffahrtsstraßen-Ordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

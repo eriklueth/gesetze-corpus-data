@@ -4,9 +4,9 @@
   "bjnr": "BJNR0500A0024",
   "eli": null,
   "gii_slug": "m_nz20eurobek_2024-02-20",
-  "ingested_at": "2026-04-18T20:37:13Z",
   "jurabk": "Münz20EuroBek 2024-02-20",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d1a7f2e1a8d7f011fb3f207e7304ca284ced37d53f3b816398e18130197a7c88"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Biber“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

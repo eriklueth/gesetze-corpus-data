@@ -4,9 +4,11 @@
   "bjnr": "BJNR099010021",
   "eli": null,
   "gii_slug": "wpig",
-  "ingested_at": "2026-04-18T20:42:35Z",
   "jurabk": "WpIG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 98
+  },
   "source_hashes": {
     "source_xml_sha256": "e1538fc7864fae7aa8b67227975a193397528a3de72c8a738c6e266e991464e0"
   },
@@ -34,5 +36,5 @@
     }
   ],
   "title": "Gesetz zur Beaufsichtigung von Wertpapierinstituten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

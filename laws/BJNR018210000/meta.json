@@ -4,9 +4,12 @@
   "bjnr": "BJNR018210000",
   "eli": null,
   "gii_slug": "eurag",
-  "ingested_at": "2026-04-18T20:32:42Z",
   "jurabk": "EuRAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 47
+  },
   "source_hashes": {
     "source_xml_sha256": "4f28aa00592a6f6d68c61e79f4737cd07e361bdf2e5afb72ddeaa8703b595878"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR207420979",
   "eli": null,
   "gii_slug": "rhiersdpazustv",
-  "ingested_at": "2026-04-18T20:39:01Z",
   "jurabk": "RHiErsDPAZustV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "6f956df929be46a97cb7f0e660ffd7ac3e5cfca548762987d607f3d10c6ee0a8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Zuständigkeit des Deutschen Patentamts für die Übermittlung von Rechtshilfeersuchen des Europäischen Patentamts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

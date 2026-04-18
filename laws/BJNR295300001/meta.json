@@ -4,9 +4,11 @@
   "bjnr": "BJNR295300001",
   "eli": null,
   "gii_slug": "adwirkg",
-  "ingested_at": "2026-04-18T20:28:25Z",
   "jurabk": "AdWirkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "fa8c8f2ed21db1d60305fd748410c63765ef7b2d42214f86c2f89a617684f683"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Wirkungen der Annahme als Kind nach ausländischem Recht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

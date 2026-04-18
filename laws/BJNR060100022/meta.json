@@ -4,9 +4,11 @@
   "bjnr": "BJNR060100022",
   "eli": null,
   "gii_slug": "xbasisdatenv",
-  "ingested_at": "2026-04-18T20:43:07Z",
   "jurabk": "XBasisdatenV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "be1da98de11249c285314afa0cfc2eff353bfc6fb76ba224242f23600dbbe9d5"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Einführung eines Datenübermittlungsstandards XBasisdaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

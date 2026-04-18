@@ -4,9 +4,11 @@
   "bjnr": "BJNR007270937",
   "eli": null,
   "gii_slug": "elbvwgrhmbv",
-  "ingested_at": "2026-04-18T20:32:09Z",
   "jurabk": "ElbVwGrHmbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "67268af31efd20da4dc6533e40b739c2194bf0472874b04fa2dca72fcf8bbf13"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Verwaltung der Elbe im Gebiet Groß-Hamburg",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

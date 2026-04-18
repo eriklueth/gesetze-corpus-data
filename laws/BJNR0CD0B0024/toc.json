@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0CD0B0024",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich und Begriffsbestimmungen",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Auslegung und Anwendung des BEPS-MLI; Verständigungsverfahren",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Anwendungsvorschrift zum Abkommen mit der Republik Kroatien",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Anwendungsvorschrift zum Abkommen mit der Tschechischen Republik",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Anwendungsvorschrift zum Abkommen mit der Französischen Republik",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Anwendungsvorschrift zum Abkommen mit der Hellenischen Republik",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Anwendungsvorschrift zum Abkommen mit der Republik Ungarn",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Anwendungsvorschrift zum Abkommen mit Japan",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Anwendungsvorschrift zum Abkommen mit der Republik Malta",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Anwendungsvorschrift zum Abkommen mit der Slowakischen Republik",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Anwendungsvorschrift zum Abkommen mit dem Königreich Spanien",

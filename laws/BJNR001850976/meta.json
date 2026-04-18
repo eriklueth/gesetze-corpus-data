@@ -4,9 +4,11 @@
   "bjnr": "BJNR001850976",
   "eli": null,
   "gii_slug": "hrg",
-  "ingested_at": "2026-04-18T20:34:33Z",
   "jurabk": "HRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 71
+  },
   "source_hashes": {
     "source_xml_sha256": "6b3b5d8e7c0399fd7204c4bd89a1f3b08bf1549b0d9ca5164372b2fe292ac493"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Hochschulrahmengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

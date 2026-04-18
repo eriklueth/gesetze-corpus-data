@@ -4,9 +4,9 @@
   "bjnr": "BJNR030700022",
   "eli": null,
   "gii_slug": "btgo1980anl6bek_2022",
-  "ingested_at": "2026-04-18T20:30:57Z",
   "jurabk": "BTGO1980Anl6Bek 2022",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6bf7969fcb63ad7ffd6fb13d38557704cfce02e492880caee56a46b0cded22ce"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

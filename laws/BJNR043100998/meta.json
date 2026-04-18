@@ -4,9 +4,11 @@
   "bjnr": "BJNR043100998",
   "eli": null,
   "gii_slug": "handzmstrv",
-  "ingested_at": "2026-04-18T20:34:23Z",
   "jurabk": "HandzMstrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "89d6de0d9a283cf1d076839b39195063b8984131ad2a2261db6057590cb11059"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Handzuginstrumentenmacher-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

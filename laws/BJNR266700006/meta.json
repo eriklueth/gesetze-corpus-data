@@ -4,9 +4,9 @@
   "bjnr": "BJNR266700006",
   "eli": null,
   "gii_slug": "m_nz2eurobek_2006-11",
-  "ingested_at": "2026-04-18T20:37:14Z",
   "jurabk": "Münz2EuroBek 2006-11",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8cb12921415f904de29108770c3d9b2d6d1c776b74879115bf3f6d81f56f6114"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze \"Mecklenburg-Vorpommern\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR007800952",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "II. Abschnitt Jagdbezirke und Hegegemeinschaften",
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "II. Abschnitt Jagdbezirke und Hegegemeinschaften",
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "II. Abschnitt Jagdbezirke und Hegegemeinschaften",
@@ -63,6 +69,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "II. Abschnitt Jagdbezirke und Hegegemeinschaften",
@@ -74,6 +81,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "II. Abschnitt Jagdbezirke und Hegegemeinschaften",
@@ -85,6 +93,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "II. Abschnitt Jagdbezirke und Hegegemeinschaften",
@@ -96,6 +105,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "II. Abschnitt Jagdbezirke und Hegegemeinschaften",
@@ -107,6 +117,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "II. Abschnitt Jagdbezirke und Hegegemeinschaften",
@@ -118,6 +129,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "II. Abschnitt Jagdbezirke und Hegegemeinschaften",
@@ -129,6 +141,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "III. Abschnitt Beteiligung Dritter an der Ausübung des Jagdrechts"
@@ -139,6 +152,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "III. Abschnitt Beteiligung Dritter an der Ausübung des Jagdrechts"
@@ -149,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "III. Abschnitt Beteiligung Dritter an der Ausübung des Jagdrechts"
@@ -159,6 +174,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "III. Abschnitt Beteiligung Dritter an der Ausübung des Jagdrechts"
@@ -169,6 +185,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "III. Abschnitt Beteiligung Dritter an der Ausübung des Jagdrechts"
@@ -179,6 +196,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "IV. Abschnitt Jagdschein"
@@ -189,6 +207,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "IV. Abschnitt Jagdschein"
@@ -199,6 +218,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "IV. Abschnitt Jagdschein"
@@ -209,6 +229,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "IV. Abschnitt Jagdschein"
@@ -219,6 +240,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "IV. Abschnitt Jagdschein"
@@ -229,6 +251,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -240,6 +263,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -251,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -262,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -273,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -284,6 +311,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -295,6 +323,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -306,6 +335,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -317,6 +347,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -328,6 +359,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -339,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "V. Abschnitt Jagdbeschränkungen, Pflichten bei der Jagdausübung und Beunruhigen von Wild",
@@ -350,6 +383,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VI. Abschnitt Jagdschutz"
@@ -360,6 +394,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VI. Abschnitt Jagdschutz"
@@ -370,6 +405,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VI. Abschnitt Jagdschutz"
@@ -380,6 +416,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -391,6 +428,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -402,6 +440,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -413,6 +452,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -424,6 +464,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -435,6 +476,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -446,6 +488,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -457,6 +500,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -468,6 +512,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -479,6 +524,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -490,6 +536,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VII. Abschnitt Wild- und Jagdschaden",
@@ -501,6 +548,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VIII. Abschnitt Inverkehrbringen und Schutz von Wild"
@@ -511,6 +559,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "VIII. Abschnitt Inverkehrbringen und Schutz von Wild"
@@ -521,6 +570,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "IX. Abschnitt Jagdbeirat und Vereinigungen der Jäger"
@@ -531,6 +581,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "X. Abschnitt Straf- und Bußgeldvorschriften"
@@ -541,6 +592,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "X. Abschnitt Straf- und Bußgeldvorschriften"
@@ -551,6 +603,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "X. Abschnitt Straf- und Bußgeldvorschriften"
@@ -561,6 +614,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "X. Abschnitt Straf- und Bußgeldvorschriften"
@@ -571,6 +625,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "X. Abschnitt Straf- und Bußgeldvorschriften"
@@ -581,6 +636,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "X. Abschnitt Straf- und Bußgeldvorschriften"
@@ -591,6 +647,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "X. Abschnitt Straf- und Bußgeldvorschriften"
@@ -601,6 +658,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "XI. Abschnitt Schlußvorschriften"
@@ -611,6 +669,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "XI. Abschnitt Schlußvorschriften"
@@ -621,6 +680,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "XI. Abschnitt Schlußvorschriften"
@@ -631,6 +691,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "XI. Abschnitt Schlußvorschriften"
@@ -641,6 +702,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Abschnitt Das Jagdrecht",
         "XI. Abschnitt Schlußvorschriften"

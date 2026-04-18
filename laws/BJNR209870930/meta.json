@@ -4,9 +4,11 @@
   "bjnr": "BJNR209870930",
   "eli": null,
   "gii_slug": "heuervtr_bkg",
-  "ingested_at": "2026-04-18T20:34:28Z",
   "jurabk": "HeuerVtrÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "36d2c85cce56dbf761c7ba6ea74106b9305d7a3032abb8e153a2420818af141c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz betreffend das Internationale Übereinkommen über den Heuervertrag der Schiffsleute",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

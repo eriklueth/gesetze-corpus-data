@@ -4,9 +4,12 @@
   "bjnr": "BJNR216500009",
   "eli": null,
   "gii_slug": "fomaf_prv",
-  "ingested_at": "2026-04-18T20:33:20Z",
   "jurabk": "FoMaFüPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "120751e0d242b1e0f5c40eaafbcfc7e9586614caec60d6359cf4dc3e84216aa1"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Anforderungen in der Prüfung zum anerkannten Abschluss Geprüfter Forstmaschinenführer/Geprüfte Forstmaschinenführerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

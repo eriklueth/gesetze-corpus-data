@@ -4,9 +4,12 @@
   "bjnr": "BJNR101200016",
   "eli": null,
   "gii_slug": "h_rakausbv",
-  "ingested_at": "2026-04-18T20:34:31Z",
   "jurabk": "HörAkAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 22
+  },
   "source_hashes": {
     "source_xml_sha256": "29727e0c1dfdf5bf68628f6a5989c4f5d4fb40186502ab72b93c1b007b337b94"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Hörakustiker und zur Hörakustikerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

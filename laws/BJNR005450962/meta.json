@@ -4,9 +4,11 @@
   "bjnr": "BJNR005450962",
   "eli": null,
   "gii_slug": "hhg_3v",
-  "ingested_at": "2026-04-18T20:34:29Z",
   "jurabk": "HHG§3V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "0af850eb69242f3959b87ed0eebc088add6b248318299a544b637198fce341bf"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gleichstellung von Personen nach § 3 des Häftlingshilfegesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

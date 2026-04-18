@@ -4,9 +4,12 @@
   "bjnr": "DDNR514690990",
   "eli": null,
   "gii_slug": "natphharzv",
-  "ingested_at": "2026-04-18T20:37:33Z",
   "jurabk": "NatPHHarzV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "d78724f6e995a14f0d6ce40e8ac963d83fe213b56dd456cde5dcf624c4304c10"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Festsetzung des Nationalparks Hochharz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

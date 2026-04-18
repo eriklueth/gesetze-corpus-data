@@ -4,9 +4,11 @@
   "bjnr": "BJNR000010935",
   "eli": null,
   "gii_slug": "rsiedlgergg_1935",
-  "ingested_at": "2026-04-18T20:39:05Z",
   "jurabk": "RSiedlGErgG 1935",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "48699764ec0ed03a7883ebb48c5cde5fac64760ee353cb829d964ed8dde52d8a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Ergänzung des Reichssiedlungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

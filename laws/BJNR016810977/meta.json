@@ -4,9 +4,9 @@
   "bjnr": "BJNR016810977",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1977-08",
-  "ingested_at": "2026-04-18T20:37:23Z",
   "jurabk": "Münz5DMBek 1977-08",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ca3bc385772c034ff5ee1ae7ef35354b5b9ab1c514025ab11a096a146fb1ce5c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Kleist-Gedenkmünze)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

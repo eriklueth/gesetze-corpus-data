@@ -4,9 +4,11 @@
   "bjnr": "BJNR113200022",
   "eli": null,
   "gii_slug": "bbfestv_2022",
-  "ingested_at": "2026-04-18T20:29:29Z",
   "jurabk": "BBFestV 2022",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "d14936930303357f1a47db9c4d274cfb7c12c01841d3fcd8fa4537efc6c8ee48"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2022",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

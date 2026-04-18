@@ -4,9 +4,12 @@
   "bjnr": "BJNR189410015",
   "eli": null,
   "gii_slug": "luftvo_2015",
-  "ingested_at": "2026-04-18T20:36:03Z",
   "jurabk": "LuftVO 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 55
+  },
   "source_hashes": {
     "source_xml_sha256": "5d49d6edc9ad4f526ef87ac80d7c79ddbaf96c7bfba0e4b1c818053bc5696e66"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Luftverkehrs-Ordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

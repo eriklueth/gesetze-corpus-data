@@ -4,9 +4,11 @@
   "bjnr": "BJNR1600B0023",
   "eli": null,
   "gii_slug": "zjdvtr_ndvtr_2023",
-  "ingested_at": "2026-04-18T20:43:14Z",
   "jurabk": "ZJDVtrÄndVtr 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "dc27f6e9f6de363eb52dea8e85db2aefa1980c06d4aca83028d1964c787f5f29"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundesminister des Innern, für Bau und Heimat und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts –, vertreten durch den Präsidenten und die Vizepräsidenten, zur Änderung des Vertrages vom 27. Januar 2003, in der Fassung des Änderungsvertrages vom 30. November 2011 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts –",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

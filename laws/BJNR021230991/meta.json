@@ -4,9 +4,12 @@
   "bjnr": "BJNR021230991",
   "eli": null,
   "gii_slug": "gbbstat_ndv",
-  "ingested_at": "2026-04-18T20:33:37Z",
   "jurabk": "GBBStatÄndV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "99f27d057e0afbc1f5315a9928837ef4b293ffe9bdac71a0f991f753887952cb"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Änderung des Statuts der Genossenschaftsbank Berlin und zu deren Umwandlung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR005850955",
   "eli": null,
   "gii_slug": "wopdv",
-  "ingested_at": "2026-04-18T20:42:30Z",
   "jurabk": "WoPDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 22
+  },
   "source_hashes": {
     "source_xml_sha256": "e0696db41c8d0c0a53d44547810c661ccb7aff3c4eaf6e3658d98031ac69af01"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Wohnungsbau-Prämiengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

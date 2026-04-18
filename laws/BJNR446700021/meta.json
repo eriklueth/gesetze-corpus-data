@@ -4,9 +4,12 @@
   "bjnr": "BJNR446700021",
   "eli": null,
   "gii_slug": "mtaprv",
-  "ingested_at": "2026-04-18T20:36:44Z",
   "jurabk": "MTAPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 14,
+    "paragraph": 106
+  },
   "source_hashes": {
     "source_xml_sha256": "1d37ff0582a1625e14d509de546a04e7d01ffae66d8a672d4a3bcac025d2e74f"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Ausbildungs- und Prüfungsverordnung für Medizinische Technologinnen und Medizinische Technologen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

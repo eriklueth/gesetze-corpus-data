@@ -4,9 +4,9 @@
   "bjnr": "BJNR513110995",
   "eli": null,
   "gii_slug": "luftvodv_154",
-  "ingested_at": "2026-04-18T20:36:03Z",
   "jurabk": "LuftVODV 154",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c152b3654e9a3960fb845f6e80d61f9938c706c46ce53083c717c97f77c486ce"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Hundertvierundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen Westerland/Sylt)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

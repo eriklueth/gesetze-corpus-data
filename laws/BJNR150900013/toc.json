@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR150900013",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Wärmeliefervertrag"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Wärmeliefervertrag"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Wärmeliefervertrag"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Wärmeliefervertrag"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Wärmeliefervertrag"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Wärmeliefervertrag"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Umstellung der Wärmeversorgung für Mietwohnraum"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Umstellung der Wärmeversorgung für Mietwohnraum"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Umstellung der Wärmeversorgung für Mietwohnraum"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Umstellung der Wärmeversorgung für Mietwohnraum"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Umstellung der Wärmeversorgung für Mietwohnraum"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Schlussvorschriften"

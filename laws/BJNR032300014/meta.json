@@ -4,9 +4,11 @@
   "bjnr": "BJNR032300014",
   "eli": null,
   "gii_slug": "kredwgjpnfreistv",
-  "ingested_at": "2026-04-18T20:35:34Z",
   "jurabk": "KredWGJPNFreistV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "a97e3384499af1c3053f533162349f46815f4dc4294f99aa21764eb16a2d1a32"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Freistellung der Zweigstellen von Kreditinstituten mit Sitz in Japan von Vorschriften des Gesetzes über das Kreditwesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR015580982",
   "eli": null,
   "gii_slug": "einwirkungsbergv",
-  "ingested_at": "2026-04-18T20:32:09Z",
   "jurabk": "EinwirkungsBergV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "8d236f3dc4b081d67a440b6abe04abfc2746bf3b52d9f0f4042c6af870a8d9c5"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Bergverordnung über Einwirkungsbereiche",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

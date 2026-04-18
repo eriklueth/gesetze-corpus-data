@@ -4,9 +4,11 @@
   "bjnr": "BJNR214530965",
   "eli": null,
   "gii_slug": "egvertrg",
-  "ingested_at": "2026-04-18T20:32:03Z",
   "jurabk": "EGVertrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "06553f269156d48a47598fd576aeba16f8bd9a869a8bd6a4ffc1e49342ea1a64"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 8. April 1965 zur Einsetzung eines gemeinsamen Rates und einer gemeinsamen Kommission der Europäischen Gemeinschaften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

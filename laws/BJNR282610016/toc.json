@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR282610016",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Art und Gegenstand der Erhebung",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Zweck der Erhebung",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Erhebungseinheiten",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Auswahl der Stichprobe, Grundstichprobe",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Periodizität, Berichtswoche",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Kernprogramm der Erhebungsmerkmale",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Erhebungsmerkmale in Bezug auf die Arbeitsmarktbeteiligung",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Erhebungsmerkmale in Bezug auf Einkommen und Lebensbedingungen",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Erhebungsmerkmale in Bezug auf Informations- und Kommunikationstechnologie",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Erhebungsmerkmale in Gemeinschaftsunterkünften",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Hilfsmerkmale",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Erhebungsbeauftragte",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Auskunftspflicht",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Trennung und Löschung von Angaben",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Datenübermittlung",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Zusatzaufbereitungen zur Erwerbsbeteiligung",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Weitere Stichprobenerhebungen",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Experimentierklausel",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Verordnungsermächtigung",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Übergangsregelung",

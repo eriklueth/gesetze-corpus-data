@@ -4,9 +4,9 @@
   "bjnr": "BJNR516700960",
   "eli": null,
   "gii_slug": "bmfzversano",
-  "ingested_at": "2026-04-18T20:30:22Z",
   "jurabk": "BMFZVersAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "73d34ff5cc29574c0078b97cee213564c6925b5aeaf72ccee05d9e427e0dc1dd"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung im Dienstbereich des Bundesministers der Finanzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

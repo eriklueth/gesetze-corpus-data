@@ -4,9 +4,9 @@
   "bjnr": "BJNR048720994",
   "eli": null,
   "gii_slug": "persstdnamzprot",
-  "ingested_at": "2026-04-18T20:38:10Z",
   "jurabk": "PersStdNamZProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2fc5f92da3f1fbef9982f044eb8651b1762ec1fd1ccdb15aa438b945b1cbda7f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zusatzprotokoll zu dem am 4. September 1958 in Istanbul unterzeichneten Übereinkommen über den internationalen Austausch von Auskünften in Personenstandsangelegenheiten - angenommen am 7. September 1988 in Salzburg von der Generalversammlung der Internationalen Kommission für das Zivilstandswesen -",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

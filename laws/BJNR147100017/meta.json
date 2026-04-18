@@ -4,9 +4,11 @@
   "bjnr": "BJNR147100017",
   "eli": null,
   "gii_slug": "bmjvbhwidvertrano",
-  "ingested_at": "2026-04-18T20:30:27Z",
   "jurabk": "BMJVBhWidVertrAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "9a97db55d3a18f19f41fbd99581158e5f7438601984e305fd2f95b2273d8986e"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen in Beihilfeangelegenheiten im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

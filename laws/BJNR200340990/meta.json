@@ -4,9 +4,11 @@
   "bjnr": "BJNR200340990",
   "eli": null,
   "gii_slug": "stimm_bkg",
-  "ingested_at": "2026-04-18T20:40:43Z",
   "jurabk": "StImmÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "125f586048d869ecead773b59afb8e4f3c0bce05d887dc3e42f6d3d84fb512cc"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zum Europäischen Übereinkommen vom 16. Mai 1972 über Staatenimmunität",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

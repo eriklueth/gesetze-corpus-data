@@ -4,9 +4,11 @@
   "bjnr": "BJNR214100001",
   "eli": null,
   "gii_slug": "transprlg",
-  "ingested_at": "2026-04-18T20:41:19Z",
   "jurabk": "TranspRLG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "00551b631cc5e7df97945c2f6a1c37f6101650fea3e977fe9c11f97229e5da35"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Umsetzung der Richtlinie 2000/52/EG der Kommission vom 26. Juli 2000 zur Änderung der Richtlinie 80/723/EWG über die Transparenz der finanziellen Beziehungen zwischen den Mitgliedstaaten und den öffentlichen Unternehmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

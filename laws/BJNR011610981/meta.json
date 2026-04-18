@@ -4,9 +4,11 @@
   "bjnr": "BJNR011610981",
   "eli": null,
   "gii_slug": "zuckquotv_1981",
-  "ingested_at": "2026-04-18T20:43:19Z",
   "jurabk": "ZuckQuotV 1981",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "983cd53ed1f8b6ab20ff55636261e4d3ee671a5ddc6aa8a41b1e7c2e7ebf923a"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Zuteilung und Änderung von Quoten für Zucker",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

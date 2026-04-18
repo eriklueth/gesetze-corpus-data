@@ -4,9 +4,9 @@
   "bjnr": "BJNR431400013",
   "eli": null,
   "gii_slug": "versorgausglumrfaktorbek_2014",
-  "ingested_at": "2026-04-18T20:41:54Z",
   "jurabk": "VersorgAusglUmrFaktorBek 2014",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "afa96c6a1cf4ee60f84bb92ea63dc5ee1705960054bb91fcbc35375d393cce38"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

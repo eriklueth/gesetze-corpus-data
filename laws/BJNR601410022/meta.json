@@ -4,9 +4,11 @@
   "bjnr": "BJNR601410022",
   "eli": null,
   "gii_slug": "binschpersbef_hprv",
-  "ingested_at": "2026-04-18T20:30:07Z",
   "jurabk": "BinSchPersBefähPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "9ddbb9e8fb0e8791999037a15db6dc7963fd38365e9c7e5600b6c3cb67dbc9dc"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Durchführung von Befähigungsprüfungen auf Führungsebene nach der Binnenschiffspersonalverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

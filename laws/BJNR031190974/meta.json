@@ -4,9 +4,11 @@
   "bjnr": "BJNR031190974",
   "eli": null,
   "gii_slug": "hav",
-  "ingested_at": "2026-04-18T20:34:23Z",
   "jurabk": "HAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "9cb230840ae7f769bbba53c6256984f3130ae65b75b75545c03bde638df5eeae"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Abstimmung über die Aufnahme in die hüttenknappschaftliche Zusatzversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

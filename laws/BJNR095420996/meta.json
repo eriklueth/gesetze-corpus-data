@@ -4,9 +4,11 @@
   "bjnr": "BJNR095420996",
   "eli": null,
   "gii_slug": "grberichtvtrnld2g",
-  "ingested_at": "2026-04-18T20:34:15Z",
   "jurabk": "GrBerichtVtrNLD2G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "d8012e68b50777512be82660bd33d085d2ac171125eecb6bb55c4c422cdc4b53"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 20. Oktober 1992 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über Grenzberichtigungen (Zweiter Grenzberichtigungsvertrag)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

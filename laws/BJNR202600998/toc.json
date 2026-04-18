@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR202600998",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Anpassung von Dienst- und Versorgungsbezügen"
       ],
@@ -12,6 +13,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Anpassung von Dienst- und Versorgungsbezügen"
       ],
@@ -21,6 +23,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Anpassung von Dienst- und Versorgungsbezügen"
       ],
@@ -30,6 +33,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Anpassung von Dienst- und Versorgungsbezügen"
       ],
@@ -39,6 +43,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Anpassung von Dienst- und Versorgungsbezügen",
         "Teil 3 Übergangs- und Schlußvorschriften"
@@ -49,6 +54,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Anpassung von Dienst- und Versorgungsbezügen",
         "Teil 3 Übergangs- und Schlußvorschriften"
@@ -59,6 +65,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Anpassung von Dienst- und Versorgungsbezügen",
         "Teil 3 Übergangs- und Schlußvorschriften"

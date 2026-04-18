@@ -4,9 +4,11 @@
   "bjnr": "BJNR210710009",
   "eli": null,
   "gii_slug": "erhaltungsv",
-  "ingested_at": "2026-04-18T20:32:24Z",
   "jurabk": "ErhaltungsV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "5acfab6c1b976f12c5011a2e2c018fb2d2099419a9bf2eeedb75105347c76032"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Zulassung von Erhaltungssorten und das Inverkehrbringen von Saat- und Pflanzgut von Erhaltungssorten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

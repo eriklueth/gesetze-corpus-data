@@ -4,9 +4,9 @@
   "bjnr": "BJNR028100995",
   "eli": null,
   "gii_slug": "bkorgerl1995bek",
-  "ingested_at": "2026-04-18T20:30:23Z",
   "jurabk": "BKOrgErl1995Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "390b6120029999e6fe77b067d178512051734541b9933d6b905acd5785fa1ac5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung des Organisationserlasses des Bundeskanzlers",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

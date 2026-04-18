@@ -4,9 +4,11 @@
   "bjnr": "BJNR387000009",
   "eli": null,
   "gii_slug": "symbolvo",
-  "ingested_at": "2026-04-18T20:41:00Z",
   "jurabk": "SymbolVO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "442352abc9d9507ad89c644d363bff460259df307cc45b51fa005d7c81d5d963"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Gestaltung und Verwendung des Akkreditierungssymbols der Akkreditierungsstelle",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

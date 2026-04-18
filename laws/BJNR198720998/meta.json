@@ -4,9 +4,9 @@
   "bjnr": "BJNR198720998",
   "eli": null,
   "gii_slug": "sozsichabk_svn",
-  "ingested_at": "2026-04-18T20:40:16Z",
   "jurabk": "SozSichAbk SVN",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d56ad62eec5dfd7f4404eb5ccca6a894f6a9586a271903dccff0a0a048bfce92"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Slowenien über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR015150978",
   "eli": null,
   "gii_slug": "seelotrevierv_1978",
-  "ingested_at": "2026-04-18T20:39:44Z",
   "jurabk": "SeelotRevierV 1978",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "a6caf862f97df6eaa4c580404440e671bb50a74adbb6bf28f8a51b5dab68ba2c"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über das Seelotswesen außerhalb der Reviere",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

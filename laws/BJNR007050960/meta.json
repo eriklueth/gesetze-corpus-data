@@ -4,9 +4,11 @@
   "bjnr": "BJNR007050960",
   "eli": null,
   "gii_slug": "_dzustg",
-  "ingested_at": "2026-04-18T20:37:49Z",
   "jurabk": "ÖDZustG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "c1cd73e0a57c8bbef25fd5d8b2116ff8375a17d87c18381ae9332e4d06282d83"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Zuständigkeit auf dem Gebiet des Rechts des öffentlichen Dienstes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

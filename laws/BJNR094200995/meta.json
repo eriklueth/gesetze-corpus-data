@@ -4,9 +4,9 @@
   "bjnr": "BJNR094200995",
   "eli": null,
   "gii_slug": "gebrmg_6abs2bek",
-  "ingested_at": "2026-04-18T20:33:40Z",
   "jurabk": "GebrMG§6Abs2Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9f9da55ef0ad105b840e4c41b6b3427f4774d8aa45d0fdb8fa8f655537c76cd7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 6 Abs. 2 des Gebrauchsmustergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

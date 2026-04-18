@@ -4,9 +4,9 @@
   "bjnr": "BJNR137800019",
   "eli": null,
   "gii_slug": "m_nz100eurobek_2019-08-07",
-  "ingested_at": "2026-04-18T20:36:49Z",
   "jurabk": "Münz100EuroBek 2019-08-07",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4c281b2df1ec616ef4267b79b1d2de453a8a6b5bb49b73b2092d23e8b0ee6244"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe – Schlösser Augustusburg und Falkenlust in Brühl“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR105420997",
   "eli": null,
   "gii_slug": "unsekrsitzabkg",
-  "ingested_at": "2026-04-18T20:41:32Z",
   "jurabk": "UNSekrSitzAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "76a616d2ee5461b553538a92944e3ca1e85a969d10d1d3947e3ec2e0b4c1a9b8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 20. Juni 1996 zwischen der Regierung der Bundesrepublik Deutschland, den Vereinten Nationen und dem Sekretariat des Rahmenübereinkommens der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens und zur Änderung des Bundesnaturschutzgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

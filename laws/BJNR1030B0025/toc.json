@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR1030B0025",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 (zukünftig in Kraft)",
         "Teil 2 (zukünftig in Kraft)",
@@ -14,6 +15,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 (zukünftig in Kraft)",
         "Teil 4 Fachkommission, Beratung, Aufbau unterstützender Angebote und Forschung"
@@ -24,6 +26,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 (zukünftig in Kraft)",
         "Teil 4 Fachkommission, Beratung, Aufbau unterstützender Angebote und Forschung"
@@ -34,6 +37,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 (zukünftig in Kraft)",
         "Teil 5 Statistik und Verordnungsermächtigungen; Bußgeldvorschriften",
@@ -45,6 +49,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 (zukünftig in Kraft)",
         "Teil 5 Statistik und Verordnungsermächtigungen; Bußgeldvorschriften",
@@ -56,6 +61,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Teil 1 (zukünftig in Kraft)",
         "Teil 5 Statistik und Verordnungsermächtigungen; Bußgeldvorschriften",
@@ -67,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 (zukünftig in Kraft)",
         "Teil 6 Anwendungs- und Übergangsvorschriften"
@@ -77,6 +84,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 (zukünftig in Kraft)",
         "Teil 6 Anwendungs- und Übergangsvorschriften"

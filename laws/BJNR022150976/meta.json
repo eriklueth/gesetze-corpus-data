@@ -4,9 +4,11 @@
   "bjnr": "BJNR022150976",
   "eli": null,
   "gii_slug": "presseratg",
-  "ingested_at": "2026-04-18T20:38:33Z",
   "jurabk": "PresseratG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "4b28206fe29d36f6c0c83f1ca160f97c1a3d23bfc5c24b25348e5054a1ba9556"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Gewährleistung der Unabhängigkeit des vom Deutschen Presserat eingesetzten Beschwerdeausschusses",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

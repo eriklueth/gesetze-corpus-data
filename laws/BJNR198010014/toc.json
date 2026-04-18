@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR198010014",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Technische Anforderungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Europäischer elektronischer Mautdienst",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Registrierung von Anbietern",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Registrierungsvoraussetzungen",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Registrierungsverfahren",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Regelmäßige Überprüfung der Registrierungsvoraussetzungen",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Erhebung von Gebühren und Auslagen",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Gebietsvorgaben",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Zulassung von Anbietern",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0010a.md",
       "heading": "Vergütung",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Beschränkte Zulassung",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Abdeckung der mautpflichtigen Streckennetze",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Pflichten der Anbieter gegenüber den Nutzern",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Weitere Pflichten der Anbieter",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Rechte und Pflichten der Nutzer",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Befugnisse und Pflichten der für die Mauterhebung zuständigen Behörden",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Maut-Basisdaten",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Fahrzeugklassifizierung",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Mautbuchungsnachweise",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Buchführung",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0021.md",
       "heading": "Mautdienstregister",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0022.md",
       "heading": "Anforderungen an Interoperabilitätskomponenten",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0023.md",
       "heading": "Beurteilung und Kennzeichnung von Interoperabilitätskomponenten",
@@ -171,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0024.md",
       "heading": "Inverkehrbringen von Interoperabilitätskomponenten",
@@ -178,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0025.md",
       "heading": "Besondere Anforderungen an die Fahrzeuggeräte",
@@ -185,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0026.md",
       "heading": "Liste gesperrter Fahrzeuggeräte",
@@ -192,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0027.md",
       "heading": "Notifizierte Stellen",
@@ -199,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0028.md",
       "heading": "Einrichtung und Aufgaben der Vermittlungsstelle",
@@ -206,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0029.md",
       "heading": "Organisation der Vermittlungsstelle und Kostentragung",
@@ -213,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0030.md",
       "heading": "Vermittlungsverfahren",
@@ -220,6 +251,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0031.md",
       "heading": "Verordnungsermächtigungen",
@@ -227,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0032.md",
       "heading": "Pilot-Mautsysteme",
@@ -234,6 +267,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0033.md",
       "heading": "Austausch von Informationen über die Nichtentrichtung der Maut",
@@ -241,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0034.md",
       "heading": "Abrufe aus dem Zentralen Fahrzeugregister des Kraftfahrt-Bundesamtes",
@@ -248,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0035.md",
       "heading": "Abrufe aus den Fahrzeugregistern der anderen Mitgliedstaaten der Europäischen Union und der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum",
@@ -255,6 +291,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0036.md",
       "heading": "Informationsschreiben über die Nichtentrichtung der Maut",
@@ -262,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0037.md",
       "heading": "Zentrale Anlaufstelle",

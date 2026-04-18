@@ -4,9 +4,12 @@
   "bjnr": "BJNR1010A0023",
   "eli": null,
   "gii_slug": "awfachwbaprofv",
-  "ingested_at": "2026-04-18T20:29:16Z",
   "jurabk": "AWFachwBAProFV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "9ec4156938e3cfb1fe3e6f2274c6e1771df3a6fa47ff13a5921e5f276b833ca9"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Außenwirtschaft oder Geprüfte Fachwirtin für Außenwirtschaft – Bachelor Professional in Foreign Trade",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

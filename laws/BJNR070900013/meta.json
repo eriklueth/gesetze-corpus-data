@@ -4,9 +4,9 @@
   "bjnr": "BJNR070900013",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2013-03-21",
-  "ingested_at": "2026-04-18T20:37:01Z",
   "jurabk": "Münz10EuroBek 2013-03-21",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "14e1d1e8009084af7d6473f7d26c04bc5462d2bfc4ad3fb5b96c41763816d617"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Schneewittchen“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

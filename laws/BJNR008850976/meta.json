@@ -4,9 +4,11 @@
   "bjnr": "BJNR008850976",
   "eli": null,
   "gii_slug": "h_fevfo",
-  "ingested_at": "2026-04-18T20:34:31Z",
   "jurabk": "HöfeVfO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "06068d02a51c69d0aa528e2f2bde2dc87fa3e4200b6f1b3bb6125058ad9e72c1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verfahrensordnung für Höfesachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

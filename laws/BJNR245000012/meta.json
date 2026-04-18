@@ -4,9 +4,11 @@
   "bjnr": "BJNR245000012",
   "eli": null,
   "gii_slug": "baupg_2013",
-  "ingested_at": "2026-04-18T20:29:26Z",
   "jurabk": "BauPG 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "654ab59589593df5fbdaa7b00186f1b61190074e8daa7eef6fb38d4e6a1c34a3"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Durchführung der Verordnungen (EU) Nr. 305/2011 und (EU) 2024/3110 zur Festlegung harmonisierter Vorschriften für die Vermarktung von Bauprodukten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

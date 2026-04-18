@@ -4,9 +4,9 @@
   "bjnr": "BJNR138120010",
   "eli": null,
   "gii_slug": "gii101381",
-  "ingested_at": "2026-04-18T20:34:00Z",
   "jurabk": "GII101381",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4d11ecbd4d9800e36b7f85dd1fc391f3711589ffe3cd3fbd96e81d15db267076"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 19. März 2010 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung von Anguilla über den steuerlichen Informationsaustausch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

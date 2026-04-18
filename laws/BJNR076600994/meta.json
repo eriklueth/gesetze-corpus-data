@@ -4,9 +4,11 @@
   "bjnr": "BJNR076600994",
   "eli": null,
   "gii_slug": "bkleing_ndg",
-  "ingested_at": "2026-04-18T20:30:12Z",
   "jurabk": "BKleingÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "b83752abc4860334c9106986f7d73fdf5c9bc10b53f35bf1dae8a33b56549824"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Änderung des Bundeskleingartengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

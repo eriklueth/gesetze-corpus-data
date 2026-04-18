@@ -4,9 +4,9 @@
   "bjnr": "BJNR004290906",
   "eli": null,
   "gii_slug": "hyp_berlg",
-  "ingested_at": "2026-04-18T20:34:35Z",
   "jurabk": "HypÜberlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e6677b340f4b2ec78bfda3dca871faa9142081054005dbb9f529ca029c5ad072"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz betreffend die Überleitung von Hypotheken des früheren Rechtes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

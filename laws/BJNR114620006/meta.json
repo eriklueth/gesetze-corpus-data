@@ -4,9 +4,9 @@
   "bjnr": "BJNR114620006",
   "eli": null,
   "gii_slug": "eubeitrvtrbgr_romg",
-  "ingested_at": "2026-04-18T20:32:34Z",
   "jurabk": "EUBeitrVtrBGR/ROMG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "cbbe4322484d4b8ef451332524f468f8987460fdf000f44a6e01c7c841189ad4"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Gesetz zu dem Vertrag vom 25. April 2005 über den Beitritt der Republik Bulgarien und Rumäniens zur Europäischen Union",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

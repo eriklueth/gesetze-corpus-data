@@ -4,9 +4,9 @@
   "bjnr": "BJNR044300019",
   "eli": null,
   "gii_slug": "pf_ndfreigrbek_2019",
-  "ingested_at": "2026-04-18T20:38:14Z",
   "jurabk": "PfändfreiGrBek 2019",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ccc306ac33d906d9c84368b0f1277aef537e8807ce82777c8b50d25b7d3e2fa9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu den §§ 850c und 850f der Zivilprozessordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

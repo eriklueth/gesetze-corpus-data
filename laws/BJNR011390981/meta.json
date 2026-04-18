@@ -4,9 +4,9 @@
   "bjnr": "BJNR011390981",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1981-10",
-  "ingested_at": "2026-04-18T20:37:24Z",
   "jurabk": "Münz5DMBek 1981-10",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "66449fe1ea79bd1e47ae8b5e0445b4c6d2348f4d3b82865a2291e51ed0994ef6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Carl Reichsfreiherr vom und zum Stein)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

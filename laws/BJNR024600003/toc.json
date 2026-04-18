@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR024600003",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Bilanz und Gewinn- und Verlustrechnung"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Bilanz und Gewinn- und Verlustrechnung"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Bilanz und Gewinn- und Verlustrechnung"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Bilanz und Gewinn- und Verlustrechnung"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -63,6 +69,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -74,6 +81,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -85,6 +93,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -96,6 +105,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -107,6 +117,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -118,6 +129,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -129,6 +141,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -140,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -151,6 +165,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -162,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -173,6 +189,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -184,6 +201,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -195,6 +213,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -206,6 +225,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Vorschriften zu einzelnen Posten der Bilanz",
@@ -217,6 +237,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -227,6 +248,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -237,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -247,6 +270,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -257,6 +281,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -267,6 +292,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -277,6 +303,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -287,6 +314,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -297,6 +325,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -307,6 +336,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -317,6 +347,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -327,6 +358,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -337,6 +369,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung"
@@ -347,6 +380,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 5 Anhang"
@@ -357,6 +391,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 5 Anhang"
@@ -367,6 +402,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 5 Anhang"
@@ -377,6 +413,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 6 Lagebericht"
@@ -387,6 +424,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 7 Konzernrechnungslegung"
@@ -397,6 +435,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 7 Konzernrechnungslegung"
@@ -407,6 +446,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 8 Ordnungswidrigkeiten"
@@ -417,6 +457,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 9 Schlussvorschriften"

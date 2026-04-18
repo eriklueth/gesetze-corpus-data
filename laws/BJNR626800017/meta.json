@@ -4,9 +4,12 @@
   "bjnr": "BJNR626800017",
   "eli": null,
   "gii_slug": "seilbdggebv",
-  "ingested_at": "2026-04-18T20:39:47Z",
   "jurabk": "SeilbDGGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "a42bf4c6d5003e13e02b2bfe9c46f19db36b6c62d9f5bf325eb904c578218b87"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Seilbahndurchführungsgesetzgebührenverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

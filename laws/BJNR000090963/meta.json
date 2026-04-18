@@ -4,9 +4,9 @@
   "bjnr": "BJNR000090963",
   "eli": null,
   "gii_slug": "hypbkg_ndg_5",
-  "ingested_at": "2026-04-18T20:34:35Z",
   "jurabk": "HypBkGÄndG 5",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c226d3331b94c1c09bdff1a72ed37dfadf229d85c17fd2471a4825db80c543e6"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Fünftes Gesetz zur Änderung und Ergänzung des Hypothekenbankgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

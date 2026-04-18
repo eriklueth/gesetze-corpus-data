@@ -4,9 +4,9 @@
   "bjnr": "BJNR218370956",
   "eli": null,
   "gii_slug": "moselvtrfra_luxg",
-  "ingested_at": "2026-04-18T20:36:40Z",
   "jurabk": "MoselVtrFRA/LUXG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f7a79fa74018d57db1e04f504102d2b1dbecbcfc4093449d5c816b24fcfe39cb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 27. Oktober 1956 zwischen der Bundesrepublik Deutschland, der Französischen Republik und dem Großherzogtum Luxemburg über die Schiffbarmachung der Mosel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

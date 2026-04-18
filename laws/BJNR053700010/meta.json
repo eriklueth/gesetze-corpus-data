@@ -4,9 +4,11 @@
   "bjnr": "BJNR053700010",
   "eli": null,
   "gii_slug": "wfstg",
-  "ingested_at": "2026-04-18T20:42:25Z",
   "jurabk": "WFStG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "70d723a03d9937ae93175c20348017ef34e63a612c7858857e3f937bc6706ba9"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Übernahme von Gewährleistungen zum Erhalt der für die Finanzstabilität in der Währungsunion erforderlichen Zahlungsfähigkeit der Hellenischen Republik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

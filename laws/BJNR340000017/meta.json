@@ -4,9 +4,12 @@
   "bjnr": "BJNR340000017",
   "eli": null,
   "gii_slug": "nsgdgbv",
-  "ingested_at": "2026-04-18T20:37:44Z",
   "jurabk": "NSGDgbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "96739e3fdba91795cfd02a136463b078441efafbe3324f983ff6346e1914ad3f"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Festsetzung des Naturschutzgebietes „Doggerbank“",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

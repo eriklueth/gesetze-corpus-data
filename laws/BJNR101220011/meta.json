@@ -4,9 +4,9 @@
   "bjnr": "BJNR101220011",
   "eli": null,
   "gii_slug": "irenasitzabk",
-  "ingested_at": "2026-04-18T20:35:02Z",
   "jurabk": "IRENASitzAbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "661debcabc44effd98afb6de6192df5ab2aefb0614d523a90bad11551d4617c4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Internationalen Organisation für erneuerbare Energien über den Sitz des IRENA-Innovations- und Technologiezentrums",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

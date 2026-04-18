@@ -4,9 +4,11 @@
   "bjnr": "BJNR632100022",
   "eli": null,
   "gii_slug": "lngv",
-  "ingested_at": "2026-04-18T20:35:55Z",
   "jurabk": "LNGV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "fb51d6f3409c89023339404d7a373f706f1f003b4c7e841b4fccd42247664664"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zu regulatorischen Rahmenbedingungen für LNG-Anlagen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

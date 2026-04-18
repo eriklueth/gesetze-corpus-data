@@ -4,9 +4,11 @@
   "bjnr": "BJNR010910961",
   "eli": null,
   "gii_slug": "grdstvg",
-  "ingested_at": "2026-04-18T20:34:16Z",
   "jurabk": "GrdstVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "446e5dc8eb03205485cf06f1c22f7885064175a7e09eef0bbd6ad058e1522f57"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Maßnahmen zur Verbesserung der Agrarstruktur und zur Sicherung land- und forstwirtschaftlicher Betriebe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR159500014",
   "eli": null,
   "gii_slug": "aelv_2015",
-  "ingested_at": "2026-04-18T20:28:29Z",
   "jurabk": "AELV 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "56da74a99ed3ed12c5d6796b6693ecdccb81510ee405e1ac199da3d8e99cdc14"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2015",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

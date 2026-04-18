@@ -4,9 +4,11 @@
   "bjnr": "BJNR454400002",
   "eli": null,
   "gii_slug": "altvdv",
-  "ingested_at": "2026-04-18T20:28:41Z",
   "jurabk": "AltvDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 26
+  },
   "source_hashes": {
     "source_xml_sha256": "f444a990d0a438abd0b8ef03341ff4e0e8747f38816aa0ef4a46d7d3b8071a71"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung der steuerlichen Vorschriften des Einkommensteuergesetzes zur Altersvorsorge und zum Rentenbezugsmitteilungsverfahren sowie zum weiteren Datenaustausch mit der zentralen Stelle",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR101940985",
   "eli": null,
   "gii_slug": "bpr_samtsbezano_1985-01",
-  "ingested_at": "2026-04-18T20:30:41Z",
   "jurabk": "BPräsAmtsbezAnO 1985-01",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "06cdc05f32e0499fc7f0a061e16d61eb80165abd789c6e022d65e8ae8e2e30c1"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

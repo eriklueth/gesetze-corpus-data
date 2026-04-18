@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR186210013",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Zuständigkeit und Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 17,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Zusammenarbeit mit der Deutschen Bundesbank",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Zusammenarbeit mit den zuständigen Behörden und dem Gemeinsamen Ausschuss",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Aufgaben der Bundesanstalt als Koordinator",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Ermittlung eines Finanzkonglomerats",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Zugehörigkeit zur Finanzbranche",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Erheblichkeit von konsolidierten oder aggregierten Tätigkeiten",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Berechnung der Zugehörigkeit zur Finanzbranche und der Erheblichkeit von konsolidierten oder aggregierten Tätigkeiten",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Schwellenwerte für die Einstufung als Finanzkonglomerat",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Feststellung eines Finanzkonglomerats",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Übergeordnetes Unternehmen",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Befreiung und Freistellung von der zusätzlichen Beaufsichtigung",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Ausnahme von der laufenden Beaufsichtigung",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Erweiterung der zusätzlichen Beaufsichtigung",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Bezugnahme auf Bilanzsumme oder auf Solvabilitätsanforderungen",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Eigenmittelausstattung",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Berechnung der Eigenmittel",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Freistellung von den Eigenmittelanforderungen",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Festsetzung von Korrekturposten",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0021.md",
       "heading": "Maßnahmen bei unzureichenden Eigenmitteln auf Konglomeratsebene",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0022.md",
       "heading": "Verordnungsermächtigung für nähere Bestimmungen über die angemessene Eigenmittelausstattung",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0023.md",
       "heading": "Risikokonzentrationen und konglomeratsinterne Transaktionen",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0024.md",
       "heading": "Verordnungsermächtigung für nähere Bestimmungen zu Risikokonzentrationen und konglomeratsinternen Transaktionen",
@@ -171,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0025.md",
       "heading": "Besondere organisatorische Pflichten",
@@ -178,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0026.md",
       "heading": "Prognoserechnungen",
@@ -185,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0027.md",
       "heading": "Begründung von Unternehmensbeziehungen",
@@ -192,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0028.md",
       "heading": "Gemischte Finanzholding-Gesellschaften",
@@ -199,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0029.md",
       "heading": "Auskünfte und Prüfungen",
@@ -206,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0030.md",
       "heading": "Grenzüberschreitende Auskünfte und Prüfungen",
@@ -213,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0031.md",
       "heading": "Sofortige Vollziehbarkeit",
@@ -220,6 +251,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0032.md",
       "heading": "Bußgeldvorschriften",
@@ -227,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0033.md",
       "heading": "Übergangsvorschriften zu § 23",

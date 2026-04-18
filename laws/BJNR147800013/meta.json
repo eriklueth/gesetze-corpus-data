@@ -4,9 +4,11 @@
   "bjnr": "BJNR147800013",
   "eli": null,
   "gii_slug": "wrackbkostdg",
-  "ingested_at": "2026-04-18T20:42:40Z",
   "jurabk": "WrackBKostDG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "c6b7f9353318bc5997936222a5b9cf98a91fdbbbc715bb4b04f8b73e432e2948"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Durchsetzung von Kostenforderungen aus dem Internationalen Übereinkommen von Nairobi von 2007 über die Beseitigung von Wracks",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

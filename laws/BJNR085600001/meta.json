@@ -4,9 +4,11 @@
   "bjnr": "BJNR085600001",
   "eli": null,
   "gii_slug": "tseamv",
-  "ingested_at": "2026-04-18T20:41:21Z",
   "jurabk": "TSEAMV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "b3cca5d48b1255bd425cfe9335f47bb9828c1a5c2dae7785c72d0775f500c14b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zum Verbot der Verwendung bestimmter Stoffe zur Vermeidung des Risikos der Übertragung transmissibler spongiformer Enzephalopathien durch Arzneimittel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

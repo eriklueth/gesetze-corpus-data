@@ -4,9 +4,12 @@
   "bjnr": "BJNR188510010",
   "eli": null,
   "gii_slug": "luftvstg",
-  "ingested_at": "2026-04-18T20:36:21Z",
   "jurabk": "LuftVStG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "9763a11c6821a828e7a35b3cdd281d9d3f48d14e6e6b10b72902476a0610199f"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Luftverkehrsteuergesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR0FC0A0024",
   "eli": null,
   "gii_slug": "bminjgubdiszano",
-  "ingested_at": "2026-04-18T20:30:23Z",
   "jurabk": "BMinJGuBDiszAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f7cb780aa8f6721f25990e74d4a77edbd5aeeb0f99ab3822bd3521c224240010"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Anordnung zur Übertragung disziplinarrechtlicher Befugnisse auf die Gerichte und Behörden im Geschäftsbereich des Bundesministeriums der Justiz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

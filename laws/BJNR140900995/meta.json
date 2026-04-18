@@ -4,9 +4,11 @@
   "bjnr": "BJNR140900995",
   "eli": null,
   "gii_slug": "ststatg_1995",
-  "ingested_at": "2026-04-18T20:40:53Z",
   "jurabk": "StStatG 1995",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "b633b76024cca5572b22635ab9cb5ac9e1702ab309271784ca806fefdf954294"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Steuerstatistiken",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR020600993",
   "eli": null,
   "gii_slug": "gr_ndstvtr_bb_mv",
-  "ingested_at": "2026-04-18T20:34:12Z",
   "jurabk": "GrÄndStVtr BB/MV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "article": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "852a5c7c9b300b5458d8e7db84d04c33e7d142942d3ec76f789f6967df7bc0d3"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Staatsvertrag zwischen den Ländern Brandenburg und Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

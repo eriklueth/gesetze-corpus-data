@@ -4,9 +4,11 @@
   "bjnr": "BJNR054900007",
   "eli": null,
   "gii_slug": "vfzv",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VfzV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "0704392d6fa8130b4f4d5bc4dc5018687f33fe0d71c3c7db08cd535b344aae91"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Zuweisungen an das Sondervermögen \"Versorgungsfonds des Bundes\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

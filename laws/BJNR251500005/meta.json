@@ -4,9 +4,9 @@
   "bjnr": "BJNR251500005",
   "eli": null,
   "gii_slug": "delegationsano_bev",
-  "ingested_at": "2026-04-18T20:31:38Z",
   "jurabk": "DelegationsAnO BEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "fc4968a54925e394d8a958698d8b8cb97aebb4a46c63161f4d1a107c39825504"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Präsidenten des Bundeseisenbahnvermögens über die Ernennung und Entlassung von Beamtinnen und Beamten, über die Übertragung von Befugnissen, die Regelung von Zuständigkeiten im Widerspruchsverfahren und die Vertretung bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundeseisenbahnvermögens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR219600008",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Gesetzliche Handelsklassen und Kategorien für Rinderschlachtkörper",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Einstufung in Handelsklassen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Kennzeichnung",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0003a.md",
       "heading": "Datenverarbeitung und Datenübermittlung",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Ordnungswidrigkeiten",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "(weggefallen)",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Überwachung, Duldungs- und Auskunftspflichten",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "annexes/0000.md",
       "heading": "(zu § 1)",

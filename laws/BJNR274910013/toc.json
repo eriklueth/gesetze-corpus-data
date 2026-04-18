@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR274910013",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Geltungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Elektronischer Zugang zur Verwaltung",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002a.md",
       "heading": "Siegeldienst; Verordnungsermächtigung",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Information zu Behörden und über ihre Verfahren in öffentlich zugänglichen Netzen",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Elektronische Bezahlmöglichkeiten",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0004a.md",
       "heading": "Elektronischer Rechnungsempfang; Verordnungsermächtigung",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Nachweisabruf; Nachweiserbringung",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0005a.md",
       "heading": "Grenzüberschreitende Nachweisabrufe",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Ende-zu-Ende-Digitalisierung; Verordnungsermächtigung",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006a.md",
       "heading": "Elektronische Aktenführung",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Übertragen und Vernichten des Papieroriginals",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Akteneinsicht",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Optimierung von Verwaltungsabläufen und Information zum Verfahrensstand",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0009a.md",
       "heading": "Verwaltungsportal des Bundes; Verordnungsermächtigung",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0009b.md",
       "heading": "Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0009c.md",
       "heading": "Datenschutzrechtliche Verantwortlichkeit",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Umsetzung von Standardisierungsbeschlüssen des IT-Planungsrates",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Gemeinsame Verfahren",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Anforderungen an das Bereitstellen von Daten, Verordnungsermächtigung",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 13,
       "breadcrumb": [],
       "file": "paragraphs/0012a.md",
       "heading": "Offene Daten des Bundes, Verordnungsermächtigung",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Elektronische Formulare",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Georeferenzierung",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Amtliche Mitteilungs- und Verkündungsblätter",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Nutzerfreundlichkeit und Barrierefreiheit",
@@ -171,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0016a.md",
       "heading": "Open Source",
@@ -178,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Änderung verwaltungsrechtlicher Rechtsverordnungen des Bundes",
@@ -185,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Anwendungsregelung",
@@ -192,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Übergangsvorschriften",

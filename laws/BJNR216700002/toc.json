@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR216700002",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0001.md",
       "heading": "",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0002.md",
       "heading": "Anpassung der Zusatzrenten der Hüttenknappschaftlichen Zusatzversicherung im Saarland zum 1. Juli 2002",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0024.md",
       "heading": "Neubekanntmachung des Vierten Buches Sozialgesetzbuch",
@@ -24,6 +27,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/art-0025.md",
       "heading": "Inkrafttreten, Außerkrafttreten",

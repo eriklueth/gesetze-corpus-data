@@ -4,9 +4,11 @@
   "bjnr": "BJNR002300959",
   "eli": null,
   "gii_slug": "bpr_swahlg",
-  "ingested_at": "2026-04-18T20:30:44Z",
   "jurabk": "BPräsWahlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "b35e51e796e7e426624b164be4f60612c8d7cb1d8371734b7f23b31f1c887e3a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Wahl des Bundespräsidenten durch die Bundesversammlung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

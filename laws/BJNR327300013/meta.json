@@ -4,9 +4,11 @@
   "bjnr": "BJNR327300013",
   "eli": null,
   "gii_slug": "egmr-kev",
-  "ingested_at": "2026-04-18T20:31:59Z",
   "jurabk": "EGMR-KEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "abeb02b74f74478ad952f40c6cd92341b51775bf1e29d73679b23a6aa0007345"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Erstattungsbeträge für Kosten und Auslagen im Rahmen der Kostenhilfe für Drittbetroffene in Verfahren vor dem Europäischen Gerichtshof für Menschenrechte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR078610015",
   "eli": null,
   "gii_slug": "einsig",
-  "ingested_at": "2026-04-18T20:32:09Z",
   "jurabk": "EinSiG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 65
+  },
   "source_hashes": {
     "source_xml_sha256": "d73775b9d6ec6fd5857658c5f6d90bf88c5d4a8c306facc7decbd353767a9bda"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Einlagensicherungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

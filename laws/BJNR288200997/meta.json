@@ -4,9 +4,11 @@
   "bjnr": "BJNR288200997",
   "eli": null,
   "gii_slug": "gentnotfv",
-  "ingested_at": "2026-04-18T20:33:44Z",
   "jurabk": "GenTNotfV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "ec6bede9df30da9ca64932dacfa941c6c9c33a2691617b24e0172a52250c91e1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Erstellung von außerbetrieblichen Notfallplänen und über Informations-, Melde- und Unterrichtungspflichten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

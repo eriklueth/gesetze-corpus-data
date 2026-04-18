@@ -4,9 +4,9 @@
   "bjnr": "BJNR518230999",
   "eli": null,
   "gii_slug": "luftvodv_196",
-  "ingested_at": "2026-04-18T20:36:10Z",
   "jurabk": "LuftVODV 196",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a1eafbf576d98a642c2e30b95750f764c09dff9afd82492616cf8e2ac04068bc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Hundertsechsundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Siegerland)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

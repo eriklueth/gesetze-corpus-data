@@ -4,9 +4,12 @@
   "bjnr": "BJNR026480987",
   "eli": null,
   "gii_slug": "strabbo_1987",
-  "ingested_at": "2026-04-18T20:30:37Z",
   "jurabk": "StrabBO 1987",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 65
+  },
   "source_hashes": {
     "source_xml_sha256": "ef69c33eaf112ccbce25ec77b4f75d065e71d4e7cbf8b4f499d850118a6bf8ff"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über den Bau und Betrieb der Straßenbahnen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

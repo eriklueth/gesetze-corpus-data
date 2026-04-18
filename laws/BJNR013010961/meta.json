@@ -4,9 +4,12 @@
   "bjnr": "BJNR013010961",
   "eli": null,
   "gii_slug": "stberg",
-  "ingested_at": "2026-04-18T20:40:41Z",
   "jurabk": "StBerG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 229
+  },
   "source_hashes": {
     "source_xml_sha256": "cd57dbfdaec1bae2103f042020e4e97e5d11ae1f797d24bb9174cadaadd09515"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Steuerberatungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

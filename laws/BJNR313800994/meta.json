@@ -4,9 +4,11 @@
   "bjnr": "BJNR313800994",
   "eli": null,
   "gii_slug": "wbstiftg",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WBStiftG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "23bb59897499ad070450cfa97b94f5321a7b4069245aa6a5ee20a33a879ac200"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Errichtung einer Bundeskanzler-Willy-Brandt-Stiftung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

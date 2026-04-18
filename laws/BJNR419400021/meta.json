@@ -4,9 +4,12 @@
   "bjnr": "BJNR419400021",
   "eli": null,
   "gii_slug": "milchlmeistprv",
-  "ingested_at": "2026-04-18T20:36:33Z",
   "jurabk": "MilchLMeistPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 26
+  },
   "source_hashes": {
     "source_xml_sha256": "41fc957ed7c7d93c24e522dc899f7d46c214872c6fdd7bfef572c0265f7c8cdb"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Meisterprüfung zum anerkannten Fortbildungsabschluss Milchwirtschaftlicher Labormeister – Bachelor Professional im milchwirtschaftlichen Laborwesen und Milchwirtschaftliche Labormeisterin – Bachelor Professional im milchwirtschaftlichen Laborwesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

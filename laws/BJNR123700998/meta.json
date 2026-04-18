@@ -4,9 +4,9 @@
   "bjnr": "BJNR123700998",
   "eli": null,
   "gii_slug": "m_nz10dmbek_1998-05",
-  "ingested_at": "2026-04-18T20:36:53Z",
   "jurabk": "Münz10DMBek 1998-05",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b2e67939411129aa823bf28cde05cc3735d67ecff1a1b9a4f9409c16ddac8879"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze \"50 Jahre DM\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

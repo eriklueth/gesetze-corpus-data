@@ -4,9 +4,11 @@
   "bjnr": "BJNR262500009",
   "eli": null,
   "gii_slug": "akkstelleg",
-  "ingested_at": "2026-04-18T20:28:36Z",
   "jurabk": "AkkStelleG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "e5d2abe2eec2c9201436100106ecdea36cff4aa488167e53818a8f9b3a30bd5d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Akkreditierungsstelle",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR276800997",
   "eli": null,
   "gii_slug": "butt_k_seuaprv",
-  "ingested_at": "2026-04-18T20:31:05Z",
   "jurabk": "Butt/KäseuaPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "b8e83168a541682b49c82b8637ad76cda66ca00d3cefe03b38e3d45b895e5112"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über Preisnotierung, Preisermittlung und Preiserhebung für Milcherzeugnisse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

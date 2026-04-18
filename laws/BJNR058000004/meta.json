@@ -4,9 +4,12 @@
   "bjnr": "BJNR058000004",
   "eli": null,
   "gii_slug": "modistausbv",
-  "ingested_at": "2026-04-18T20:36:40Z",
   "jurabk": "ModistAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "462762ed40d77232dfd3e1c657488bed3e390736eccd2af3d6f5f3b3c5b1d27d"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Modisten/zur Modistin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

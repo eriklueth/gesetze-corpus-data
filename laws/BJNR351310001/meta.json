@@ -4,9 +4,11 @@
   "bjnr": "BJNR351310001",
   "eli": null,
   "gii_slug": "gewschg",
-  "ingested_at": "2026-04-18T20:33:52Z",
   "jurabk": "GewSchG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "c4569e42c322f31ae12ffb6740fd45b93acab81c8d93c34002ab2079a4949ce3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zum zivilrechtlichen Schutz vor Gewalttaten und Nachstellungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

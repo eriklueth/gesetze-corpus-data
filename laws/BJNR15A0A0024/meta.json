@@ -4,9 +4,12 @@
   "bjnr": "BJNR15A0A0024",
   "eli": null,
   "gii_slug": "bbfverfv",
-  "ingested_at": "2026-04-18T20:29:33Z",
   "jurabk": "BBFVerfV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "133f7ce8689daa72be2de2c4c8f2fa530af666abc434f65f276afd1eabc408dd"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über das Verfahren zur Feststellung und Bescheinigung individueller beruflicher Handlungsfähigkeit am Maßstab eines anerkannten Ausbildungsberufs nach dem Berufsbildungsgesetz und der Handwerksordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

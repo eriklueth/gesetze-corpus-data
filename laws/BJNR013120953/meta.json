@@ -4,9 +4,11 @@
   "bjnr": "BJNR013120953",
   "eli": null,
   "gii_slug": "erpvwg",
-  "ingested_at": "2026-04-18T20:32:26Z",
   "jurabk": "ERPVwG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "4e0bbb0f79dba06136b8bd85840bffdc354d5414e021a48191d0709a902263b2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Verwaltung des ERP-Sondervermögens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR0DD0A0025",
   "eli": null,
   "gii_slug": "ozsv",
-  "ingested_at": "2026-04-18T20:38:01Z",
   "jurabk": "OZSV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "97bb6fc34f0ddf6a42c59f5d674655720b474d04d7c0d04bf4271cdf7e74ba2f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Standards für den Onlinezugang zu Verwaltungsleistungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

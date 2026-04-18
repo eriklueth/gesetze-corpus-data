@@ -4,9 +4,12 @@
   "bjnr": "BJNR415500021",
   "eli": null,
   "gii_slug": "bprdgrunifano",
-  "ingested_at": "2026-04-18T20:30:44Z",
   "jurabk": "BPrDGrUnifAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "f645f434e6973ce5f63ff40c287fff4f7f5106953063c4419ef79878c76404a4"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Anordnung des Bundespräsidenten über die Dienstgradbezeichnungen und die Uniform der Soldatinnen und Soldaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

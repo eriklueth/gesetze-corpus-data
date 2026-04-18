@@ -4,9 +4,11 @@
   "bjnr": "BJNR06F0A0024",
   "eli": null,
   "gii_slug": "pbr_v",
-  "ingested_at": "2026-04-18T20:38:09Z",
   "jurabk": "PBRüV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "59c74118ddf7e8988ed258507050aea89f9789d9c2326c935a040f8d9b8c1db4"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Rückforderung überzahlter Entlastungen nach dem Strompreisbremsegesetz und dem Erdgas-Wärme-Preisbremsengesetz sowie zum Übergang von Rückforderungsansprüchen auf den Bund",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

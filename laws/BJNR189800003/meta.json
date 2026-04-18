@@ -4,9 +4,9 @@
   "bjnr": "BJNR189800003",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2003-09-08",
-  "ingested_at": "2026-04-18T20:36:55Z",
   "jurabk": "Münz10EuroBek 2003-09-08",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b7d127abb2a5398cf16b24a10f10a718f737b496fa463a98dd8d6789c104b1e6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"200. Geburtstag des Baumeisters Gottfried Semper\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

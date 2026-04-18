@@ -4,9 +4,11 @@
   "bjnr": "BJNR0DF0A0025",
   "eli": null,
   "gii_slug": "finausglg2018dv_2",
-  "ingested_at": "2026-04-18T20:33:06Z",
   "jurabk": "FinAusglG2018DV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "cbbea4fd4c0979a87147ad0a2d6dfafbdfbfa0b2f70c8d4058dd22ba3e2d1b10"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2018",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

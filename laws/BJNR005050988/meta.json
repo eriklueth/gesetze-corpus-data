@@ -4,9 +4,11 @@
   "bjnr": "BJNR005050988",
   "eli": null,
   "gii_slug": "baf_g-einkommensv",
-  "ingested_at": "2026-04-18T20:29:21Z",
   "jurabk": "BAföG-EinkommensV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "9d141f544fb73db3583cc3dcd33365bb21b066f258f45749a73e433deb4e45eb"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Bezeichnung der als Einkommen geltenden sonstigen Einnahmen nach § 21 Abs. 3 Nr. 4 des Bundesausbildungsförderungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

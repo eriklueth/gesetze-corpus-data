@@ -4,9 +4,12 @@
   "bjnr": "BJNR015830989",
   "eli": null,
   "gii_slug": "emsschev",
-  "ingested_at": "2026-04-18T20:32:14Z",
   "jurabk": "EmsSchEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "5ca4a008daaca145414b1ff194809b3651ec0eeba1e89cee935f20772da3e368"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Einführung der Schiffahrtsordnung Emsmündung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

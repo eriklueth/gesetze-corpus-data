@@ -4,9 +4,11 @@
   "bjnr": "BJNR471100021",
   "eli": null,
   "gii_slug": "fsbv",
-  "ingested_at": "2026-04-18T20:33:27Z",
   "jurabk": "FSBV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "c7ceb4608ad9b061adc37de20378aede42ed2093a428bc9f7cc96b2acb4b381f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Regelung des Verfahrens der Beauftragung von Flugsicherungsorganisationen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

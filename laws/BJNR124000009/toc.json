@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR124000009",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Staatliche Anerkennung des Ausbildungsberufes",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Dauer und Struktur der Berufsausbildung",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Ausbildungsrahmenplan, Ausbildungsberufsbild",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Durchführung der Berufsausbildung",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Ziel der Abschlussprüfung, Aufteilung in zwei Teile und Zeitpunkte",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Inhalt von Teil 1",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Prüfungsbereiche von Teil 1",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Prüfungsbereich „Montagetechnik“",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Prüfungsbereich „Lagerstätte“",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Inhalt von Teil 2",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Prüfungsbereiche von Teil 2 in der Fachrichtung „Tiefbautechnik“",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Prüfungsbereich „Bergbautechnische Prozesse“",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Prüfungsbereich „Bergbautechnik und Bergrecht“",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Prüfungsbereich „Wirtschafts- und Sozialkunde“",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Prüfungsbereiche von Teil 2 in der Fachrichtung „Tiefbohrtechnik“",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Prüfungsbereich „Bohrtechnische Prozesse“",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Prüfungsbereich „Bohrtechnik und Bergrecht“",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Prüfungsbereich „Wirtschafts- und Sozialkunde“",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0021.md",
       "heading": "Übergangsregelung",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 3 Absatz 1 Satz 1)",
@@ -157,6 +179,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 16,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 3 Absatz 1 Satz 2)",

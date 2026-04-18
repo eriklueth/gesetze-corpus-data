@@ -4,9 +4,11 @@
   "bjnr": "BJNR507700997",
   "eli": null,
   "gii_slug": "luftbodv_4",
-  "ingested_at": "2026-04-18T20:28:13Z",
   "jurabk": "LuftBODV 4",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "80c4d15eaf1195ba12f8bd6311ba8cdb710a97f60e17287c34ed8df1489a176e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Vierte Durchführungsverordnung zur Betriebsordnung für Luftfahrtgerät (Ausrüstung und Betrieb von Heißluftballonen und Heißluft-Luftschiffen)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

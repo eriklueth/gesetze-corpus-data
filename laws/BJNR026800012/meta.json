@@ -4,9 +4,12 @@
   "bjnr": "BJNR026800012",
   "eli": null,
   "gii_slug": "fachkb_roprv_2012",
-  "ingested_at": "2026-04-18T20:33:00Z",
   "jurabk": "FachkBüroPrV 2012",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "350366ebf68d038243b25a13abe797edda382cb53276ffeeb989cb168c80169b"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Büro- und Projektorganisation und Geprüfte Fachwirtin für Büro- und Projektorganisation",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

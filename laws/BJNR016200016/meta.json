@@ -4,9 +4,12 @@
   "bjnr": "BJNR016200016",
   "eli": null,
   "gii_slug": "aknv",
-  "ingested_at": "2026-04-18T20:28:37Z",
   "jurabk": "AKNV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "8a7d9dc54cf2b96cf0f0fb4e4930c321e1a25bb7330d0b7f9cfb69bd61bb8166"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Bescheinigung über die Meldung als Asylsuchender",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "DDNR514710990",
   "eli": null,
   "gii_slug": "natsgsor_genv",
-  "ingested_at": "2026-04-18T20:37:37Z",
   "jurabk": "NatSGSORügenV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "ddd59cecf48becfe9f080c26bc11ee34ad311ed25f072ae554038983a911b417"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung mit der Gesamtbezeichnung \"Biosphärenreservat Südost-Rügen\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

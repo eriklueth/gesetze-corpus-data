@@ -4,9 +4,11 @@
   "bjnr": "BJNR0420B0023",
   "eli": null,
   "gii_slug": "tamkatv",
-  "ingested_at": "2026-04-18T20:41:01Z",
   "jurabk": "TAMKatV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "cd809cc287a117088b91cc7e5c542ecfad1eaaf75df9a2a7718cd8b5e3aa9e7a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Einteilungskriterien für die Kategorien der Apothekenpflicht oder Freiverkäuflichkeit von Tierarzneimitteln und veterinärmedizintechnischen Produkten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

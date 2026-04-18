@@ -4,9 +4,9 @@
   "bjnr": "BJNR246300012",
   "eli": null,
   "gii_slug": "albeitrbek_2013",
-  "ingested_at": "2026-04-18T20:28:37Z",
   "jurabk": "ALBeitrBek 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "649353f11aec157b6e24eda9d9ee78b93933d2102a0bc42b7b0ee57d9606f7d4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2013",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

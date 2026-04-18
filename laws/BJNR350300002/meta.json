@@ -4,9 +4,12 @@
   "bjnr": "BJNR350300002",
   "eli": null,
   "gii_slug": "uaggebv_2002",
-  "ingested_at": "2026-04-18T20:41:25Z",
   "jurabk": "UAGGebV 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "99152bfead2cabe319b5d1d36bfe6c9b939d276e71b3b434c98beccd82afcc20"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Gebühren und Auslagen für Amtshandlungen der Zulassungsstelle und der Widerspruchsbehörde bei der Durchführung des Umweltauditgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

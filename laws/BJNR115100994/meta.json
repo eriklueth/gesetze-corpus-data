@@ -4,9 +4,12 @@
   "bjnr": "BJNR115100994",
   "eli": null,
   "gii_slug": "konstprv",
-  "ingested_at": "2026-04-18T20:35:26Z",
   "jurabk": "KonstPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "2dd383f2e3263765cbe491d449360cc23189c9ca635bdb8b48f75a96a19211f9"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Konstrukteur/Geprüfte Konstrukteurin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

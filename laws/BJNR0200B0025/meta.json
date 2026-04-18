@@ -4,9 +4,11 @@
   "bjnr": "BJNR0200B0025",
   "eli": null,
   "gii_slug": "einwv",
-  "ingested_at": "2026-04-18T20:32:09Z",
   "jurabk": "EinwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "982b034a25caa7896f87c1355e698112bb922f8e27c79b68ea6360e634847b2c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Dienste zur Einwilligungsverwaltung nach dem Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

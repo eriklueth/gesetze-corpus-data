@@ -4,9 +4,11 @@
   "bjnr": "BJNR017080984",
   "eli": null,
   "gii_slug": "ggart104aabs4slg",
-  "ingested_at": "2026-04-18T20:33:52Z",
   "jurabk": "GGArt104aAbs4SLG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "27877248e4bc7a244b00848e755e28040a220a29074872501fd49cf3b565cc6a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über Finanzhilfen des Bundes nach Artikel 104a Abs. 4 des Grundgesetzes an das Saarland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR0C70B0023",
   "eli": null,
   "gii_slug": "fzv_2023",
-  "ingested_at": "2026-04-18T20:33:32Z",
   "jurabk": "FZV 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 19,
+    "paragraph": 80
+  },
   "source_hashes": {
     "source_xml_sha256": "3a9c1a46e3755910bfee6b391b27d8c92e1ea7f96ac2defa20aa4cc27f0e14fd"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

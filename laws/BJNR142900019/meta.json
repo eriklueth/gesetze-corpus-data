@@ -4,9 +4,9 @@
   "bjnr": "BJNR142900019",
   "eli": null,
   "gii_slug": "asylblg_3aabs4bek",
-  "ingested_at": "2026-04-18T20:28:55Z",
   "jurabk": "AsylbLG§3aAbs4Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a80e1b8f53ce43ad3a4e5aecd38a5b38ca69303f6f6d494d5ea2789991ea75b5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Höhe der Leistungssätze nach § 3a Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2020",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

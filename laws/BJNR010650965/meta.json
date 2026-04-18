@@ -4,9 +4,12 @@
   "bjnr": "BJNR010650965",
   "eli": null,
   "gii_slug": "rtrabwg",
-  "ingested_at": "2026-04-18T20:39:05Z",
   "jurabk": "RTrAbwG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 31
+  },
   "source_hashes": {
     "source_xml_sha256": "6991c6140246a25a989c052995797f7f86b2bac6aa5437710133cc5814a6b36a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Regelung der Rechtsverhältnisse nicht mehr bestehender öffentlicher Rechtsträger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

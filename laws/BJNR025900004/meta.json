@@ -4,9 +4,11 @@
   "bjnr": "BJNR025900004",
   "eli": null,
   "gii_slug": "gr_ndstvtr_sl_rp",
-  "ingested_at": "2026-04-18T20:34:13Z",
   "jurabk": "GrÄndStVtr SL/RP",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "39da190d36ea71e2a226b59b28b2bd166080fc832db1997c4b26838e8f680606"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Staatsvertrag zwischen dem Saarland und dem Land Rheinland-Pfalz über eine Änderung der gemeinsamen Landesgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

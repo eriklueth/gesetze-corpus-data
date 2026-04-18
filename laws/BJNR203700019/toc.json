@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR203700019",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Gegenstand",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Voraussetzung für die Zulassung zur Prüfung",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Handlungsbereiche",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Handlungsbereich „Entwickeln von Strategien für den E-Commerce“",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Handlungsbereich „Gestalten von Prozessen im E-Commerce“",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Handlungsbereich „Analysieren und Weiterentwickeln von Prozessen im E-Commerce“",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Handlungsbereich „Sicherstellen der Kommunikation und Zusammenarbeit mit internen und externen Partnern sowie Führen von internen und externen Partnern“",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Bestandteile der Prüfung",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Schriftlicher Prüfungsteil",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Mündlicher Prüfungsteil",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Befreiung von einzelnen Prüfungsbestandteilen",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Bewerten der Prüfungsleistungen",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Bestehen der Prüfung, Gesamtnote",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Zeugnisse",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Wiederholung eines nicht bestandenen Prüfungsteils",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Ausbildereignung",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Inkrafttreten",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 13 Absatz 1 und § 14 Absatz 3 Satz 3)",
@@ -136,6 +155,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 15 Absatz 1 und 2)",

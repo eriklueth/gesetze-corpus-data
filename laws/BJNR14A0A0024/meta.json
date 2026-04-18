@@ -4,9 +4,11 @@
   "bjnr": "BJNR14A0A0024",
   "eli": null,
   "gii_slug": "gntdsvvdv_2024",
-  "ingested_at": "2026-04-18T20:34:05Z",
   "jurabk": "GntDSVVDV 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 37
+  },
   "source_hashes": {
     "source_xml_sha256": "565e9fd5e043410dd7dfb233fe582a4762a02cc72f70604d637b44454e32cc99"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Dienst des Bundes in der Sozialversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR017190957",
   "eli": null,
   "gii_slug": "bvo_2",
-  "ingested_at": "2026-04-18T20:34:43Z",
   "jurabk": "BVO 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 61
+  },
   "source_hashes": {
     "source_xml_sha256": "56fa3695f8a5b317a3c6a476da81756bb2b322172e42c52928710f77376efa76"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über wohnungswirtschaftliche Berechnungen nach dem Zweiten Wohnungsbaugesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

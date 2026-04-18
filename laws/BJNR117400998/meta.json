@@ -4,9 +4,11 @@
   "bjnr": "BJNR117400998",
   "eli": null,
   "gii_slug": "bimschv_20_1998",
-  "ingested_at": "2026-04-18T20:28:09Z",
   "jurabk": "BImSchV 20 1998",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "f8460759e4ac66ac349e3693902033d0a8c21cc550034519509391a5b2ce2c9b"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Zwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen beim Umfüllen oder Lagern von Ottokraftstoffen, Kraftstoffgemischen oder Rohbenzin)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

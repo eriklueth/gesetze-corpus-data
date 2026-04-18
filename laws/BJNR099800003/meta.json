@@ -4,9 +4,11 @@
   "bjnr": "BJNR099800003",
   "eli": null,
   "gii_slug": "fr_hv",
-  "ingested_at": "2026-04-18T20:33:27Z",
   "jurabk": "FrühV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "4a16478209840956225d90d5ed4ea6a7f4fe10b16a76ed502b655c188e22988b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Früherkennung und Frühförderung behinderter und von Behinderung bedrohter Kinder",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

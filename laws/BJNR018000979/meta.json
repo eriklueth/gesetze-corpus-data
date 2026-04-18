@@ -4,9 +4,11 @@
   "bjnr": "BJNR018000979",
   "eli": null,
   "gii_slug": "wzg_4euratbek",
-  "ingested_at": "2026-04-18T20:43:02Z",
   "jurabk": "WZG§4EuRatBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "87e977aada5f233b3d30d3d47ac9549a0e4037fa9fe23687b78ead9278305454"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

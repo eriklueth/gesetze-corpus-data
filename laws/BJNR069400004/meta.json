@@ -4,9 +4,11 @@
   "bjnr": "BJNR069400004",
   "eli": null,
   "gii_slug": "bimschv_11_2004",
-  "ingested_at": "2026-04-18T20:28:01Z",
   "jurabk": "BImSchV 11 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "216258c3ab1056edc7faa8afd02ff4fc485c82b501bd69ea54b4be2336ce77b0"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Elfte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über Emissionserklärungen)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

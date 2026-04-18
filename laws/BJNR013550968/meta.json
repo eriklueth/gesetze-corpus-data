@@ -4,9 +4,12 @@
   "bjnr": "BJNR013550968",
   "eli": null,
   "gii_slug": "hwverwdtv",
-  "ingested_at": "2026-04-18T20:34:35Z",
   "jurabk": "HwVerwdtV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "30313ad267dd950f3a8b6c0708a3b782c224dab426d470191ed029032b025261"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über verwandte Handwerke",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

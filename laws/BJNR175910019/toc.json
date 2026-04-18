@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR175910019",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeines"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 2 Erlaubnis zum Führen der Berufsbezeichnung"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 2 Erlaubnis zum Führen der Berufsbezeichnung"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 2 Erlaubnis zum Führen der Berufsbezeichnung"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 2 Erlaubnis zum Führen der Berufsbezeichnung"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 2 Erlaubnis zum Führen der Berufsbezeichnung"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 2 Erlaubnis zum Führen der Berufsbezeichnung"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -93,6 +102,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -105,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -117,6 +128,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -129,6 +141,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -141,6 +154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -153,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -165,6 +180,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -177,6 +193,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -189,6 +206,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -201,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -213,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -225,6 +245,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -237,6 +258,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -249,6 +271,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -261,6 +284,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -273,6 +297,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -285,6 +310,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -297,6 +323,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -308,6 +335,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -319,6 +347,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -330,6 +359,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -341,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -352,6 +383,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -363,6 +395,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -374,6 +407,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -385,6 +419,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -396,6 +431,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -407,6 +443,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -418,6 +455,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -429,6 +467,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -440,6 +479,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -451,6 +491,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -462,6 +503,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 3 Hebammenstudium und Vertrag zur akademischen Hebammenausbildung",
@@ -473,6 +515,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -484,6 +527,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -495,6 +539,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -506,6 +551,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -517,6 +563,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -528,6 +575,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -539,6 +587,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -550,6 +599,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -561,6 +611,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -572,6 +623,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -583,6 +635,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -594,6 +647,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -605,6 +659,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -616,6 +671,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -627,6 +683,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -638,6 +695,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -649,6 +707,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -660,6 +719,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 4 Anerkennung von Berufsqualifikationen",
@@ -671,6 +731,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 5 Erbringen von Dienstleistungen",
@@ -682,6 +743,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 5 Erbringen von Dienstleistungen",
@@ -693,6 +755,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 5 Erbringen von Dienstleistungen",
@@ -704,6 +767,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 5 Erbringen von Dienstleistungen",
@@ -715,6 +779,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 5 Erbringen von Dienstleistungen",
@@ -726,6 +791,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 6 Zuständigkeiten und Aufgaben der Behörden"
@@ -736,6 +802,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 6 Zuständigkeiten und Aufgaben der Behörden"
@@ -746,6 +813,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 6 Zuständigkeiten und Aufgaben der Behörden"
@@ -756,6 +824,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 6 Zuständigkeiten und Aufgaben der Behörden"
@@ -766,6 +835,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 6 Zuständigkeiten und Aufgaben der Behörden"
@@ -776,6 +846,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 6 Zuständigkeiten und Aufgaben der Behörden"
@@ -786,6 +857,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 6 Zuständigkeiten und Aufgaben der Behörden"
@@ -796,6 +868,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 7 Verordnungsermächtigung"
@@ -806,6 +879,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 8 Bußgeldvorschriften"
@@ -816,6 +890,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 9 Übergangsvorschriften"
@@ -826,6 +901,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 9 Übergangsvorschriften"
@@ -836,6 +912,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 9 Übergangsvorschriften"
@@ -846,6 +923,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 9 Übergangsvorschriften"
@@ -856,6 +934,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 9 Übergangsvorschriften"
@@ -866,6 +945,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 9 Übergangsvorschriften"
@@ -876,6 +956,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 9 Übergangsvorschriften"
@@ -886,6 +967,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 9 Übergangsvorschriften"
@@ -896,6 +978,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeines",
         "Teil 9 Übergangsvorschriften"

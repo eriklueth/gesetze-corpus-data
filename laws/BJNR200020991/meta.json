@@ -4,9 +4,9 @@
   "bjnr": "BJNR200020991",
   "eli": null,
   "gii_slug": "akp_ewgabk4g",
-  "ingested_at": "2026-04-18T20:28:37Z",
   "jurabk": "AKP/EWGAbk4G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5ec593fd3d3e523dfdbe4a08e60748d7cd8931741ec83488b11da8b38728342b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vierten AKP-EWG-Abkommen von Lome vom 15. Dezember 1989 sowie zu den mit diesem Abkommen in Zusammenhang stehenden Abkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

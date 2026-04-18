@@ -4,9 +4,12 @@
   "bjnr": "BJNR256200004",
   "eli": null,
   "gii_slug": "hreggebv",
-  "ingested_at": "2026-04-18T20:34:33Z",
   "jurabk": "HRegGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "ea759b73dd73b669c50e4a4d9b29a54df58d087677aeb26f26ce04d53ffb416c"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Gebühren in Handels-, Genossenschafts-, Gesellschafts- und Partnerschaftsregistersachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

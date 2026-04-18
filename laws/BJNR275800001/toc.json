@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR275800001",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Anforderungen an das Halten von Kälbern"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Anforderungen an das Halten von Kälbern"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Anforderungen an das Halten von Kälbern"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Anforderungen an das Halten von Kälbern"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Anforderungen an das Halten von Kälbern"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Anforderungen an das Halten von Kälbern"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Anforderungen an das Halten von Kälbern"
@@ -109,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Anforderungen an das Halten von Legehennen"
@@ -119,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Anforderungen an das Halten von Legehennen"
@@ -129,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Anforderungen an das Halten von Legehennen"
@@ -139,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Anforderungen an das Halten von Legehennen"
@@ -149,6 +164,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Anforderungen an das Halten von Legehennen"
@@ -159,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Anforderungen an das Halten von Legehennen"
@@ -169,6 +186,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Anforderungen an das Halten von Masthühnern"
@@ -179,6 +197,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Anforderungen an das Halten von Masthühnern"
@@ -189,6 +208,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Anforderungen an das Halten von Masthühnern"
@@ -199,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Anforderungen an das Halten von Masthühnern"
@@ -209,6 +230,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Anforderungen an das Halten von Masthühnern"
@@ -219,6 +241,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anforderungen an das Halten von Schweinen"
@@ -229,6 +252,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anforderungen an das Halten von Schweinen"
@@ -239,6 +263,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anforderungen an das Halten von Schweinen"
@@ -249,6 +274,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anforderungen an das Halten von Schweinen"
@@ -259,6 +285,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anforderungen an das Halten von Schweinen"
@@ -269,6 +296,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anforderungen an das Halten von Schweinen"
@@ -279,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anforderungen an das Halten von Schweinen"
@@ -289,6 +318,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anforderungen an das Halten von Schweinen"
@@ -299,6 +329,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anforderungen an das Halten von Schweinen"
@@ -309,6 +340,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anforderungen an das Halten von Schweinen"
@@ -319,6 +351,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Anforderungen an das Halten von Kaninchen"
@@ -329,6 +362,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Anforderungen an das Halten von Kaninchen"
@@ -339,6 +373,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Anforderungen an das Halten von Kaninchen"
@@ -349,6 +384,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Anforderungen an das Halten von Kaninchen"
@@ -359,6 +395,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Anforderungen an das Halten von Kaninchen"
@@ -369,6 +406,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Anforderungen an das Halten von Kaninchen"
@@ -379,6 +417,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Anforderungen an das Halten von Kaninchen"
@@ -389,6 +428,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Anforderungen an das Halten von Kaninchen"
@@ -399,6 +439,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 8 Ordnungswidrigkeiten und Schlussbestimmungen"
@@ -409,6 +450,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 39,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 8 Ordnungswidrigkeiten und Schlussbestimmungen"
@@ -419,6 +461,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 8 Ordnungswidrigkeiten und Schlussbestimmungen"

@@ -4,9 +4,11 @@
   "bjnr": "BJNR301000994",
   "eli": null,
   "gii_slug": "luftspzustv",
-  "ingested_at": "2026-04-18T20:35:59Z",
   "jurabk": "LuftSpZustV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "b4bd52f298106155850bc8906299d9ec17d26577599db7fb0a91c22c36e98e4f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Zuständigkeit des Luftfahrt-Bundesamtes für die Verfolgung und Ahndung von Ordnungswidrigkeiten im Luftsportwesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

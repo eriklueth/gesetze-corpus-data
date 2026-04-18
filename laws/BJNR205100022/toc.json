@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR205100022",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich, Begriffsbestimmungen, Beauftragter und Internetadressen",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Entlastung bei leitungsgebundenen Erdgaslieferungen an Letztverbraucher",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Vorläufige Leistung des Erdgaslieferanten auf die Entlastung bei Letztverbrauchern mit Standardlastprofil",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Verpflichtung des Wärmeversorgungsunternehmens gegenüber seinen Kunden",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Weitergabe der Entlastungen bei Mietverhältnissen und in Wohnungseigentümergemeinschaften",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Erstattungsanspruch der Lieferanten",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Vorauszahlungen an Erdgaslieferanten",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Antragsverfahren für die Vorauszahlung an Erdgaslieferanten",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Antragsverfahren für den Erstattungsanspruch von Wärmeversorgungsunternehmen",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Endabrechnung bei Lieferanten, Erstattungsanträge von Erdgaslieferanten und Nachprüfungsverfahren bei Lieferanten",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0010a.md",
       "heading": "Veröffentlichungs-, Berichts- und Aufbewahrungspflichten",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Sozialrechtliche Regelung",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Unpfändbarkeit",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Mitwirkung der Kreditinstitute",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Mitwirkung der Bundesnetzagentur",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Evaluierung",

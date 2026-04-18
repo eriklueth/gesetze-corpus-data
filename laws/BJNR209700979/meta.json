@@ -4,9 +4,11 @@
   "bjnr": "BJNR209700979",
   "eli": null,
   "gii_slug": "eurocontrolvorrv_2",
-  "ingested_at": "2026-04-18T20:32:50Z",
   "jurabk": "EUROCONTROLVorRV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "26fa658729117a96e8b540fd6b23ad095f6b22d6315015c25d661172eac9304b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Zweite Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäische Organisation zur Sicherung der Luftfahrt \"EUROCONTROL\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

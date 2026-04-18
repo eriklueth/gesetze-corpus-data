@@ -4,9 +4,11 @@
   "bjnr": "BJNR248110011",
   "eli": null,
   "gii_slug": "vermanlg",
-  "ingested_at": "2026-04-18T20:41:46Z",
   "jurabk": "VermAnlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 46
+  },
   "source_hashes": {
     "source_xml_sha256": "aa497eb53ba0798b1cca23780b15593260312323fe3aa8fde52f98a106b5ab4b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Vermögensanlagen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

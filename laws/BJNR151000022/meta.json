@@ -4,9 +4,9 @@
   "bjnr": "BJNR151000022",
   "eli": null,
   "gii_slug": "m_nz100eurobek_2022-09-12",
-  "ingested_at": "2026-04-18T20:36:48Z",
   "jurabk": "Münz100EuroBek 2022-09-12",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9edf63937f5465f8aa304b2e411953be4def49fca264973f5b6f67a1c9fc3747"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „Freiheit“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

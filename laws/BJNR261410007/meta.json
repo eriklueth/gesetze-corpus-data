@@ -4,9 +4,11 @@
   "bjnr": "BJNR261410007",
   "eli": null,
   "gii_slug": "besatzrberg",
-  "ingested_at": "2026-04-18T20:29:49Z",
   "jurabk": "BesatzRBerG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "72acd0c7d131ffee36daf08eaa9eab68eed921f3bcb2af6a2efc6014a8da172c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Bereinigung des Besatzungsrechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

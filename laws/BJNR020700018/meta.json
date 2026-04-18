@@ -4,9 +4,11 @@
   "bjnr": "BJNR020700018",
   "eli": null,
   "gii_slug": "sozhidav_2019",
-  "ingested_at": "2026-04-18T20:40:12Z",
   "jurabk": "SozhiDAV 2019",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "15b5d62f6c66adff091dc36fe85751192111aa8c18bff850ebc20a636c67b639"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung des § 118 Absatz 1, 1a und 2 des Zwölften Buches Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

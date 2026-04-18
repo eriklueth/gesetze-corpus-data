@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR013700992",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0003.md",
       "heading": "",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0007.md",
       "heading": "Gesetz zur Übernahme der Beamten und Arbeitnehmer der Bundesanstalt für Flugsicherung",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0010.md",
       "heading": "",
@@ -24,6 +27,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/art-0011.md",
       "heading": "",

@@ -4,9 +4,11 @@
   "bjnr": "BJNR200230962",
   "eli": null,
   "gii_slug": "luftfzg_bkdv",
-  "ingested_at": "2026-04-18T20:35:59Z",
   "jurabk": "LuftFzgÜbkDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "cf7882a8bafc9bfe4134fd4d85b90bad5aa99b34906f744ac59e9bcf96193bd5"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung des Mehrseitigen Übereinkommens vom 22. April 1960 über Lufttüchtigkeitszeugnisse eingeführter Luftfahrzeuge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

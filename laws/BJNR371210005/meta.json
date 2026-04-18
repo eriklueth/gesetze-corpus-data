@@ -4,9 +4,11 @@
   "bjnr": "BJNR371210005",
   "eli": null,
   "gii_slug": "tiernebbu_v",
-  "ingested_at": "2026-04-18T20:41:13Z",
   "jurabk": "TierNebBußV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "0a7c59b5975d667c2e63ec1a930f5e60f783eb45484fdb4f3001c14419bedd84"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1774/2002",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

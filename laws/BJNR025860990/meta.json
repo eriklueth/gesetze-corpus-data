@@ -4,9 +4,11 @@
   "bjnr": "BJNR025860990",
   "eli": null,
   "gii_slug": "euratwahlg_1990",
-  "ingested_at": "2026-04-18T20:32:42Z",
   "jurabk": "EuRatWahlG 1990",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "32d5086bb74d8c67934713b958bc6ed3ce9e29f2b856a4c84ffbf22975125717"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Wahl der Vertreter der Bundesrepublik Deutschland zur Parlamentarischen Versammlung des Europarates",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

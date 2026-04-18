@@ -4,9 +4,11 @@
   "bjnr": "BJNR237210016",
   "eli": null,
   "gii_slug": "prostschg",
-  "ingested_at": "2026-04-18T20:38:34Z",
   "jurabk": "ProstSchG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "5a6d62896cca7f62023c56f1b8861e1c0ea14f0aeb31b340499def61223696e6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zum Schutz von in der Prostitution tätigen Personen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

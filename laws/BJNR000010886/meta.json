@@ -4,9 +4,9 @@
   "bjnr": "BJNR000010886",
   "eli": null,
   "gii_slug": "feingehstempg",
-  "ingested_at": "2026-04-18T20:33:02Z",
   "jurabk": "FeinGehStempG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d89b54cc507132b348e45b6601a4d4e42a8c2454381eee94375782173256f7c2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung betreffend die Bestimmung der Form des Stempelzeichens zur Angabe des Feingehalts auf goldenen und silbernen Geräten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

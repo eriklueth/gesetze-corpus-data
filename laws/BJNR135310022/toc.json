@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR135310022",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Ziel des Gesetzes",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Verpflichtungen der Länder",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Anrechenbare Fläche",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Feststellung und Bekanntmachung des Erreichens der Flächenbeitragswerte",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Genehmigungserleichterung in Windenergiegebieten",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0006a.md",
       "heading": "Erklärung bestehender Windenergiegebiete zu Beschleunigungsgebieten für die Windenergie an Land",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [],
       "file": "paragraphs/0006b.md",
       "heading": "Genehmigungserleichterung in Beschleunigungsgebieten für die Windenergie an Land",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Evaluierung; Verordnungsermächtigung",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0000.md",
       "heading": "(zu § 3 Absatz 1)",

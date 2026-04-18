@@ -4,9 +4,12 @@
   "bjnr": "BJNR023780990",
   "eli": null,
   "gii_slug": "gentvfv",
-  "ingested_at": "2026-04-18T20:33:44Z",
   "jurabk": "GenTVfV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "46964ab71823d2eeba3d6cd2f825ea8ddeb08d67c14928a86e8ea4a78998435c"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über Antrags- und Anmeldeunterlagen und über Genehmigungs- und Anmeldeverfahren nach dem Gentechnikgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR0C20A0025",
   "eli": null,
   "gii_slug": "bmas_berlbeslvvov",
-  "ingested_at": "2026-04-18T20:30:21Z",
   "jurabk": "BMASÜbErlBesLVVOV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "793e06b7b625618366c005ffcb8f6b9133e0a0cb8f5340ace891ed7fbce78504"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung des Bundesministeriums für Arbeit und Soziales zur Übertragung der Befugnisse zum Erlass von besonderen Lehrverpflichtungsverordnungen an der Hochschule des Bundes für öffentliche Verwaltung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR069200019",
   "eli": null,
   "gii_slug": "bewachv_2019",
-  "ingested_at": "2026-04-18T20:29:53Z",
   "jurabk": "BewachV 2019",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "3a8917bd18ea9c66b04caefddf1d15a6ffc2054a0acd436e079f4f064337fcfd"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über das Bewachungsgewerbe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

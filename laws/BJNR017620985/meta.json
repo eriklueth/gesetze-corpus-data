@@ -4,9 +4,12 @@
   "bjnr": "BJNR017620985",
   "eli": null,
   "gii_slug": "saatartverzv_1985",
-  "ingested_at": "2026-04-18T20:39:19Z",
   "jurabk": "SaatArtVerzV 1985",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "47d22f8e04496f3a52d17489e0e62b93e12ab57fcb9d70d609ffee92808f1765"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über das Artenverzeichnis zum Saatgutverkehrsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

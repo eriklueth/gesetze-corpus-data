@@ -4,9 +4,11 @@
   "bjnr": "BJNR009060992",
   "eli": null,
   "gii_slug": "nsoebgg",
-  "ingested_at": "2026-04-18T20:37:45Z",
   "jurabk": "NSOEBGG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "d2c6b4a73d2f6ac6d6ba24ddd1d3cfb810b7b8a6cec7f05f976843d91e7cb12a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über Entschädigungen für Opfer des Nationalsozialismus im Beitrittsgebiet",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

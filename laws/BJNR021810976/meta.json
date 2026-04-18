@@ -4,9 +4,11 @@
   "bjnr": "BJNR021810976",
   "eli": null,
   "gii_slug": "stgbua_ndg",
-  "ingested_at": "2026-04-18T20:40:41Z",
   "jurabk": "StGBuaÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "f44e57c132bb48c66292ccc7b82eac3a4fb192aa2cb3fd9dfe85b475ca22378c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Änderung des Strafgesetzbuches, der Strafprozeßordnung, des Gerichtsverfassungsgesetzes, der Bundesrechtsanwaltsordnung und des Strafvollzugsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

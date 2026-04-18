@@ -4,9 +4,11 @@
   "bjnr": "BJNR204140988",
   "eli": null,
   "gii_slug": "stgrenzvtrluxg",
-  "ingested_at": "2026-04-18T20:40:45Z",
   "jurabk": "StGrenzVtrLUXG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "2f14a8a9d7d78a45a6eaf5ac3a0d51bd65c5a6b5a72d3ae5906d5beaeb2a6dcc"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 19. Dezember 1984 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über den Verlauf der gemeinsamen Staatsgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

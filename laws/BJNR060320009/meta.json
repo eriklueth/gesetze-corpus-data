@@ -4,9 +4,9 @@
   "bjnr": "BJNR060320009",
   "eli": null,
   "gii_slug": "kischma_n_bk_haag",
-  "ingested_at": "2026-04-18T20:35:22Z",
   "jurabk": "KiSchMaßnÜbk Haag",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ede7c81eadaa1cd3290ddf2e93580e6c3618334c823f0a3a0c343b0c55db24fd"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Zuständigkeit, das anzuwendende Recht, die Anerkennung, Vollstreckung und Zusammenarbeit auf dem Gebiet der elterlichen Verantwortung und der Maßnahmen zum Schutz von Kindern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

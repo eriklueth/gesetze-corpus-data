@@ -4,9 +4,11 @@
   "bjnr": "BJNR213910961",
   "eli": null,
   "gii_slug": "seemg_ndg",
-  "ingested_at": "2026-04-18T20:39:44Z",
   "jurabk": "SeemGÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "922a1f02180a2d4bb1470fd4270482d0f25a2a4d3444328cacbe396c39c1b86d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Änderung und Ergänzung des Seemannsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

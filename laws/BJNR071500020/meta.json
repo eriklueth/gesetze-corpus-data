@@ -4,9 +4,12 @@
   "bjnr": "BJNR071500020",
   "eli": null,
   "gii_slug": "guamkflausbv",
-  "ingested_at": "2026-04-18T20:34:20Z",
   "jurabk": "GuAMKflAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 25
+  },
   "source_hashes": {
     "source_xml_sha256": "a4f1f29a07fecedf003ab18d6739a7fe72dd3c0e6e4be7ba3c0821af5ebf1f43"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Kaufmann für Groß- und Außenhandelsmanagement und zur Kauffrau für Groß- und Außenhandelsmanagement",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR012680992",
   "eli": null,
   "gii_slug": "invorg",
-  "ingested_at": "2026-04-18T20:34:58Z",
   "jurabk": "InVorG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 31
+  },
   "source_hashes": {
     "source_xml_sha256": "44c6eb27ca7b3d817c5f5ed07dacabe8795515e7eacdbd71a95c8814dfb4826d"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Gesetz über den Vorrang für Investitionen bei Rückübertragungsansprüchen nach dem Vermögensgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

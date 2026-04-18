@@ -4,9 +4,11 @@
   "bjnr": "BJNR159600013",
   "eli": null,
   "gii_slug": "bmvgbdgano",
-  "ingested_at": "2026-04-18T20:30:30Z",
   "jurabk": "BMVgBDGAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "02f5b712bef6da9690340d2b111edae2fc979d14f8ff069fd3b3a7a1e4749038"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums der Verteidigung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

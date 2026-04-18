@@ -4,9 +4,9 @@
   "bjnr": "BJNR206780977",
   "eli": null,
   "gii_slug": "sozsichabkschlprot_swe",
-  "ingested_at": "2026-04-18T20:40:28Z",
   "jurabk": "SozSichAbkSchlProt SWE",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1d61f9ae3afbb998f607fbd9228028920c348d7ce192830ba09b52f7d4a1e3a4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Schlußprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

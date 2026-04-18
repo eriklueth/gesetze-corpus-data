@@ -4,9 +4,11 @@
   "bjnr": "BJNR200010956",
   "eli": null,
   "gii_slug": "sv_bkitag",
-  "ingested_at": "2026-04-18T20:40:59Z",
   "jurabk": "SVÜbkITAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "b6e07036896499741a392f754ff96bc85567952f7135dcfa6916a7a8ff69b196"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über das Abkommen vom 5. Mai 1953 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über Sozialversicherung nebst Schlußprotokoll und Zusatzvereinbarung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR203010955",
   "eli": null,
   "gii_slug": "deuvtr",
-  "ingested_at": "2026-04-18T20:31:42Z",
   "jurabk": "DeuVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "edf0590398e74ed366fd01ff4ee65ae2ee53b3ecdfb2e0d107c730c3296f528c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag über die Beziehungen zwischen der Bundesrepublik Deutschland und den Drei Mächten (in der gemäß Liste I zu dem am 23. Oktober 1954 in Paris unterzeichneten Protokoll über die Beendigung des Besatzungsregimes in der Bundesrepublik Deutschland geänderten Fassung)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

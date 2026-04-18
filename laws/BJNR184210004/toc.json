@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR184210004",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 2 Prüfungen"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 2 Prüfungen"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 2 Prüfungen"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 2 Prüfungen"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 2 Prüfungen"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 2 Prüfungen"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 2 Prüfungen"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 2 Prüfungen"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 2 Prüfungen"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 2 Prüfungen"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 3 Bußgeld- und Strafvorschriften"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 3 Bußgeld- und Strafvorschriften"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 3 Bußgeld- und Strafvorschriften"
@@ -142,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 3 Bußgeld- und Strafvorschriften"
@@ -152,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 3 Bußgeld- und Strafvorschriften"
@@ -162,6 +178,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 4 Ermittlungen"
@@ -172,6 +189,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 4 Ermittlungen"
@@ -182,6 +200,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 4 Ermittlungen"
@@ -192,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 4 Ermittlungen"
@@ -202,6 +222,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 4 Ermittlungen"
@@ -212,6 +233,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 4 Ermittlungen"
@@ -222,6 +244,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 5 Datenschutz"
@@ -232,6 +255,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 5 Datenschutz"
@@ -242,6 +266,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 5 Datenschutz"
@@ -252,6 +277,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 5 Datenschutz"
@@ -262,6 +288,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 5 Datenschutz"
@@ -272,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 6 Verwaltungsverfahren, Rechtsweg"
@@ -282,6 +310,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 6 Verwaltungsverfahren, Rechtsweg"
@@ -292,6 +321,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 6 Verwaltungsverfahren, Rechtsweg"
@@ -302,6 +332,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 6 Verwaltungsverfahren, Rechtsweg"
@@ -312,6 +343,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 7 Zentralstelle und Risikomanagement"
@@ -322,6 +354,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 7 Zentralstelle und Risikomanagement"
@@ -332,6 +365,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt 1 Zweck",
         "Abschnitt 7 Zentralstelle und Risikomanagement"

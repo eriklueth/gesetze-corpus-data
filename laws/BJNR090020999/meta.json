@@ -4,9 +4,11 @@
   "bjnr": "BJNR090020999",
   "eli": null,
   "gii_slug": "sozsichabkhung",
-  "ingested_at": "2026-04-18T20:40:24Z",
   "jurabk": "SozSichAbkHUNG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "718250b7b1af926129e3b73a2353ccecdf67345ebc19dcd03a08a49c660a9d1e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Abkommen vom 2. Mai 1998 zwischen der Bundesrepublik Deutschland und der Republik Ungarn über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

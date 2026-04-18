@@ -4,9 +4,11 @@
   "bjnr": "BJNR438300013",
   "eli": null,
   "gii_slug": "luftvstfestv_2014",
-  "ingested_at": "2026-04-18T20:36:21Z",
   "jurabk": "LuftVStFestV 2014",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "5f25c054a65a0d66f80842a7fea6103d2e1ad91cf0c353566ba8d8e04288e661"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Festlegung der Steuersätze im Jahr 2014 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

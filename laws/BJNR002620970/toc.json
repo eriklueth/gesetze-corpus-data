@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR002620970",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Technische Betriebsvorschriften"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Technische Betriebsvorschriften"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Technische Betriebsvorschriften"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Technische Betriebsvorschriften"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Ausrüstung der Luftfahrzeuge"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Ausrüstung der Luftfahrzeuge"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Ausrüstung der Luftfahrzeuge"
@@ -109,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Ausrüstung der Luftfahrzeuge"
@@ -119,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Ausrüstung der Luftfahrzeuge"
@@ -129,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -140,6 +154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -162,6 +178,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -173,6 +190,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -184,6 +202,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -195,6 +214,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -206,6 +226,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -217,6 +238,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -228,6 +250,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -239,6 +262,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -250,6 +274,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -261,6 +286,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -272,6 +298,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Allgemeine Flugbetriebsvorschriften",
@@ -283,6 +310,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -294,6 +322,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -305,6 +334,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -316,6 +346,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -327,6 +358,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -338,6 +370,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -349,6 +382,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -360,6 +394,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -371,6 +406,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -382,6 +418,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -393,6 +430,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -404,6 +442,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -415,6 +454,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -426,6 +466,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -437,6 +478,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -448,6 +490,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -459,6 +502,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -470,6 +514,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Besondere Flugbetriebsvorschriften",
@@ -481,6 +526,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Siebter Abschnitt Bußgeld- und Schlußvorschriften"
@@ -491,6 +537,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Siebter Abschnitt Bußgeld- und Schlußvorschriften"
@@ -501,6 +548,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Siebter Abschnitt Bußgeld- und Schlußvorschriften"

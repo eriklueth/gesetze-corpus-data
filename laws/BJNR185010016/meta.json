@@ -4,9 +4,12 @@
   "bjnr": "BJNR185010016",
   "eli": null,
   "gii_slug": "mregv_2016",
-  "ingested_at": "2026-04-18T20:36:44Z",
   "jurabk": "MRegV 2016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "5557b7cccfee647b99609ad48c7163f382b01d417f8153a9de4cfefdc96fa48f"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Registrierung von Anbietern mautdienstbezogener Leistungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR204310973",
   "eli": null,
   "gii_slug": "unch",
-  "ingested_at": "2026-04-18T20:41:30Z",
   "jurabk": "UNCh",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c21952e6464a7dd15e1e565b3a954b677549d0f9af3b333f87ef00e685f3a289"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Charta der Vereinten Nationen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

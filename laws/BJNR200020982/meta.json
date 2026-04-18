@@ -4,9 +4,11 @@
   "bjnr": "BJNR200020982",
   "eli": null,
   "gii_slug": "intmeersch_bk1973g",
-  "ingested_at": "2026-04-18T20:34:55Z",
   "jurabk": "IntMeerSchÜbk1973G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "7070ef30325c1eedd41754bb7838310ad8310adc18bc6947ca0b0dee99280963"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe und zu dem Protokoll von 1978 zu diesem Übereinkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

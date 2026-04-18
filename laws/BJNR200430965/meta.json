@@ -4,9 +4,9 @@
   "bjnr": "BJNR200430965",
   "eli": null,
   "gii_slug": "euastroorg_bk",
-  "ingested_at": "2026-04-18T20:32:30Z",
   "jurabk": "EuAstroOrgÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "71be7e44da6db089461c1a1e626b5e572c2b908ba1d617427bb063cb3eca9853"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen zur Gründung einer Europäischen Organisation für Astronomische Forschung in der Südlichen Hemisphäre",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

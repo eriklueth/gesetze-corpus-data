@@ -4,9 +4,12 @@
   "bjnr": "BJNR224400022",
   "eli": null,
   "gii_slug": "gapkondv",
-  "ingested_at": "2026-04-18T20:33:33Z",
   "jurabk": "GAPKondV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 7,
+    "paragraph": 37
+  },
   "source_hashes": {
     "source_xml_sha256": "f481804857866000268337aa0cfb1e1af6ffad385ffccc354343d59d82a5f9c4"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Konditionalität",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

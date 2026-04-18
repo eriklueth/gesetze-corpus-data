@@ -4,9 +4,11 @@
   "bjnr": "BJNR007870897",
   "eli": null,
   "gii_slug": "_bkbernav",
-  "ingested_at": "2026-04-18T20:41:25Z",
   "jurabk": "ÜbkBernAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "bb41828bb772292ae5bee844c6c7e61050c9e31d28af6ee9e47513993c8a060f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung betreffend die Ausführung der am 9. September 1886 zu Bern abgeschlossenen Übereinkunft wegen Bildung eines internationalen Verbandes zum Schutze von Werken der Literatur und Kunst",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

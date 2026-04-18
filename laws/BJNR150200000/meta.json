@@ -4,9 +4,11 @@
   "bjnr": "BJNR150200000",
   "eli": null,
   "gii_slug": "rebflrodv",
-  "ingested_at": "2026-04-18T20:38:50Z",
   "jurabk": "RebflRodV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "99230e3b2422ecfb9ad71468530e14b30298c6c4e6803bd07ee7682dcbfd3307"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung von Prämien für die endgültige Aufgabe des Weinbaus",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

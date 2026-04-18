@@ -4,9 +4,11 @@
   "bjnr": "BJNR106490961",
   "eli": null,
   "gii_slug": "krwaffkontrgdv_2",
-  "ingested_at": "2026-04-18T20:35:38Z",
   "jurabk": "KrWaffKontrGDV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "ee2659ed74425aff2cdf7a3c10eb12168a6c9e42f6b4bb131f54b8160182bd11"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Zweite Verordnung zur Durchführung des Gesetzes über die Kontrolle von Kriegswaffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

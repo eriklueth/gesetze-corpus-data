@@ -4,9 +4,11 @@
   "bjnr": "BJNR013370977",
   "eli": null,
   "gii_slug": "zo-zahn_rzte_ndv_2",
-  "ingested_at": "2026-04-18T20:43:16Z",
   "jurabk": "ZO-ZahnärzteÄndV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "bb3530b97e921add5d71a1525093778b93a0cb57d2c50ef3bf21bf0bc38947e8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Verordnung zur Änderung der Zulassungsordnung für Kassenzahnärzte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

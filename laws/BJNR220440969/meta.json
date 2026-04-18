@@ -4,9 +4,9 @@
   "bjnr": "BJNR220440969",
   "eli": null,
   "gii_slug": "natopersr_bk",
-  "ingested_at": "2026-04-18T20:37:30Z",
   "jurabk": "NATOPersRÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b5581379af8410862413814f3c5e0fbfa59fddf297f60e28ca09dc51e073728a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Rechtsstellung des einem internationalen militärischen Hauptquartier der NATO in der Bundesrepublik Deutschland zugeteilten Personals der Entsendestaaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

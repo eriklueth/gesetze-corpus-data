@@ -4,9 +4,11 @@
   "bjnr": "BJNR352609001",
   "eli": null,
   "gii_slug": "arztwohnortg",
-  "ingested_at": "2026-04-18T20:28:52Z",
   "jurabk": "ArztWohnortG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "13760098b4ba7e9e23a4e54f265d77c350f66e7a026e4cb9f946779f4a58a746"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Einführung des Wohnortprinzips bei Honorarvereinbarungen für Ärzte und Zahnärzte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

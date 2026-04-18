@@ -4,9 +4,12 @@
   "bjnr": "BJNR001570955",
   "eli": null,
   "gii_slug": "begdv_3",
-  "ingested_at": "2026-04-18T20:28:09Z",
   "jurabk": "BEGDV 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 7,
+    "paragraph": 54
+  },
   "source_hashes": {
     "source_xml_sha256": "b6492c97fa7aae72ce3f700507addb6da88a208d44312d161f10dfb63408df7c"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Dritte Verordnung zur Durchführung des Bundesentschädigungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

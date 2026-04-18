@@ -4,9 +4,11 @@
   "bjnr": "BJNR270210009",
   "eli": null,
   "gii_slug": "stabiratg",
-  "ingested_at": "2026-04-18T20:40:37Z",
   "jurabk": "StabiRatG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "851af6ecb7e14d1e904816b285f78af72572b18860c98d715b90e17604828708"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Errichtung eines Stabilitätsrates und zur Vermeidung von Haushaltsnotlagen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

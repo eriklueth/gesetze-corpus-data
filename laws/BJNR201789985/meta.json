@@ -4,9 +4,9 @@
   "bjnr": "BJNR201789985",
   "eli": null,
   "gii_slug": "civ_1980",
-  "ingested_at": "2026-04-18T20:31:19Z",
   "jurabk": "CIV 1980",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e6a5284288aec5e09a07b295c487ed16cf149f94992100a05b3148abf9249171"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Einheitliche Rechtsvorschriften für den Vertrag über die internationale Eisenbahnbeförderung von Personen und Gepäck (CIV) (Anhang A zum Übereinkommen über den internationalen Eisenbahnverkehr (COTIF))",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

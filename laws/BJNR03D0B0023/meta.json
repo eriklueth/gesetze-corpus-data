@@ -4,9 +4,11 @@
   "bjnr": "BJNR03D0B0023",
   "eli": null,
   "gii_slug": "hopfv_2023",
-  "ingested_at": "2026-04-18T20:34:32Z",
   "jurabk": "HopfV 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 31
+  },
   "source_hashes": {
     "source_xml_sha256": "a9cdfd3c5cbb5c97f7345d1d9f4ee23a3062eb94413f2cf501e8e502ad741046"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung unionsrechtlicher Vorschriften im Hopfensektor",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

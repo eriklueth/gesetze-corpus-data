@@ -4,9 +4,12 @@
   "bjnr": "BJNR400810013",
   "eli": null,
   "gii_slug": "tfpv",
-  "ingested_at": "2026-04-18T20:41:06Z",
   "jurabk": "TfPV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "603c32cbcebf6deca782652b865ae6d431a3849eec563a4917734a939925ca4d"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die theoretische Prüfung für den Erwerb des Triebfahrzeugführerscheins",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

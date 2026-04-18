@@ -4,9 +4,9 @@
   "bjnr": "BJNR013490971",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1971-08",
-  "ingested_at": "2026-04-18T20:37:21Z",
   "jurabk": "Münz5DMBek 1971-08",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9c5c2bdb54b4c6b0e0523b5e087698d602001ae9a6f92dbd3ca947c7d8e0e0df"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Beethoven-Gedenkmünze)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

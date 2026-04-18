@@ -4,9 +4,12 @@
   "bjnr": "BJNR008050967",
   "eli": null,
   "gii_slug": "bewg_55abs3_4dv",
-  "ingested_at": "2026-04-18T20:29:54Z",
   "jurabk": "BewG§55Abs3/4DV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "7e09f16dd02a28ea62af9cf140c35793b09a4ef8b620a9849eca9a6bc1b6907d"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des § 55 Abs. 3 und 4 des Bewertungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

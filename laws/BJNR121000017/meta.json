@@ -4,9 +4,12 @@
   "bjnr": "BJNR121000017",
   "eli": null,
   "gii_slug": "sokasig",
-  "ingested_at": "2026-04-18T20:40:12Z",
   "jurabk": "SokaSiG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 37,
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "a5fc0c1b6508502bf4eeebf5e0b7afe5607be15b2da641ee8d0f100c212d7f02"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Sicherung der Sozialkassenverfahren im Baugewerbe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

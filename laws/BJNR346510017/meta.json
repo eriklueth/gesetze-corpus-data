@@ -4,9 +4,12 @@
   "bjnr": "BJNR346510017",
   "eli": null,
   "gii_slug": "abfkl_rv_2017",
-  "ingested_at": "2026-04-18T20:28:21Z",
   "jurabk": "AbfKlärV 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 40
+  },
   "source_hashes": {
     "source_xml_sha256": "56383c7489ec54b0b5f3360cacd7d92d336c56b61fdfd2e65f5a44cf52ffa1e3"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Verwertung von Klärschlamm, Klärschlammgemisch und Klärschlammkompost",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

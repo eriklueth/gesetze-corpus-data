@@ -4,9 +4,11 @@
   "bjnr": "BJNR019060975",
   "eli": null,
   "gii_slug": "lsthvdv",
-  "ingested_at": "2026-04-18T20:31:54Z",
   "jurabk": "LStHVDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "c54e23818ebd09d2a81fdb5419acd6e3bb6604573d431b29e4939f4bb6e7d7d8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung der Vorschriften über die Lohnsteuerhilfevereine",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

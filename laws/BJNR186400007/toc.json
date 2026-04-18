@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR186400007",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002a.md",
       "heading": "Anforderungen an amtliche Tierärztinnen und Tierärzte für Kontrollaufgaben nach Artikel 13 Absatz 1 Satz 2 Buchstabe a der Delegierten Verordnung (EU) 2019/624",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Amtliche Fachassistenten, Verordnungsermächtigung",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Personal von Schlachtbetrieben",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Fleischhygienerechtliche Maßnahmen im Rahmen von Zoonosen- und Seuchentilgungsprogrammen",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Fleischuntersuchung und Untersuchung auf Trichinen vor Abgabe kleiner Mengen erlegten Wildes",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Schlachttieruntersuchung bei der Abgabe kleiner Mengen Fleisch von Geflügel oder Hasentieren",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0007a.md",
       "heading": "Amtliche Untersuchungen bei der Gewinnung von Fleisch für den eigenen häuslichen Verbrauch",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0007b.md",
       "heading": "Tierartspezifische Kriterien für und Anforderungen an die Durchführung der Schlachttieruntersuchung im Herkunftsbetrieb",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Kennzeichnung der Genusstauglichkeit",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "(weggefallen)",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Rückstandsüberwachung",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Übergangsvorschriften",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 8)",

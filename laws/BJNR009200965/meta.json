@@ -4,9 +4,11 @@
   "bjnr": "BJNR009200965",
   "eli": null,
   "gii_slug": "wisig_1965",
-  "ingested_at": "2026-04-18T20:42:27Z",
   "jurabk": "WiSiG 1965",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "fa1c423d405465bfd8dc1aa40aeea71bbeb1d6cf47bca98e77c7c5476466b1ce"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Sicherstellung von Leistungen auf dem Gebiet der gewerblichen Wirtschaft sowie des Geld- und Kapitalverkehrs",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

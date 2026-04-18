@@ -4,9 +4,11 @@
   "bjnr": "BJNR176500012",
   "eli": null,
   "gii_slug": "nwrg-dv",
-  "ingested_at": "2026-04-18T20:42:14Z",
   "jurabk": "NWRG-DV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "f9b9652cf8845199a6b8c10716886ac6c3dd594e1551edc3959fa2e4c5743306"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Waffenregistergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

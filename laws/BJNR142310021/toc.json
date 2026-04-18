@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR142310021",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -75,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -84,6 +93,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -93,6 +103,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -102,6 +113,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Zentrale Register"
@@ -112,6 +124,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Zentrale Register"
@@ -122,6 +135,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Zentrale Register"
@@ -132,6 +146,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Zentrale Register"
@@ -142,6 +157,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Kryptowertpapierregister"
@@ -152,6 +168,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Kryptowertpapierregister"
@@ -162,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Kryptowertpapierregister"
@@ -172,6 +190,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Kryptowertpapierregister"
@@ -182,6 +201,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Kryptowertpapierregister"
@@ -192,6 +212,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Kryptowertpapierregister"
@@ -202,6 +223,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Kryptowertpapierregister"
@@ -212,6 +234,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Kryptowertpapierregister"
@@ -222,6 +245,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Verfügungen über elektronische Wertpapiere in Einzeleintragung"
@@ -232,6 +256,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Verfügungen über elektronische Wertpapiere in Einzeleintragung"
@@ -242,6 +267,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Verfügungen über elektronische Wertpapiere in Einzeleintragung"
@@ -252,6 +278,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Verfügungen über elektronische Wertpapiere in Einzeleintragung"
@@ -262,6 +289,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Sondervorschriften zu Buch 2 Abschnitt 8 Titel 24 des Bürgerlichen Gesetzbuchs"
@@ -272,6 +300,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Sondervorschriften zu Buch 2 Abschnitt 8 Titel 24 des Bürgerlichen Gesetzbuchs"
@@ -282,6 +311,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Sondervorschriften zu Buch 2 Abschnitt 8 Titel 24 des Bürgerlichen Gesetzbuchs"
@@ -292,6 +322,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Sondervorschriften für elektronische Aktien"
@@ -302,6 +333,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Sondervorschriften für elektronische Aktien"
@@ -312,6 +344,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Bußgeldvorschriften"
@@ -322,6 +355,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 8 Schlussvorschriften"
@@ -332,6 +366,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 8 Schlussvorschriften"

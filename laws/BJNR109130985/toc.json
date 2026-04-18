@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR109130985",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Rentenversicherung"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Rentenversicherung"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Rentenversicherung"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Rentenversicherung"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Rentenversicherung"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Rentenversicherung"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Rentenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -67,6 +74,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Rentenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -77,6 +85,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Rentenversicherung",
         "Dritter Abschnitt Schlußvorschriften"

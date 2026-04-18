@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0340A0024",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung sowie der Erforderlichkeit der Realisierung von Windenergieanlagen auf See und Vorgaben für das spätere Vorhaben",
@@ -23,6 +25,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung sowie der Erforderlichkeit der Realisierung von Windenergieanlagen auf See und Vorgaben für das spätere Vorhaben",
@@ -34,6 +37,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung sowie der Erforderlichkeit der Realisierung von Windenergieanlagen auf See und Vorgaben für das spätere Vorhaben",
@@ -46,6 +50,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung sowie der Erforderlichkeit der Realisierung von Windenergieanlagen auf See und Vorgaben für das spätere Vorhaben",
@@ -58,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Feststellung der zu installierenden Leistung"
@@ -68,6 +74,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Schlussbestimmungen"

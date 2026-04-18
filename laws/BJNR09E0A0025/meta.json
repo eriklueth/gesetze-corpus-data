@@ -4,9 +4,12 @@
   "bjnr": "BJNR09E0A0025",
   "eli": null,
   "gii_slug": "hns-mittv",
-  "ingested_at": "2026-04-18T20:34:30Z",
   "jurabk": "HNS-MittV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "974178cb45030017cff448962cbe10567d53434f6b333892604d171b01795c6b"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Mitteilungen zu beitragspflichtigen Ladungen nach dem HNS-Gesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

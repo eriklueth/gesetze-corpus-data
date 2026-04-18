@@ -4,9 +4,11 @@
   "bjnr": "BJNR243310009",
   "eli": null,
   "gii_slug": "nisg",
-  "ingested_at": "2026-04-18T20:37:41Z",
   "jurabk": "NiSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "757df6a2c4c90c3b190121f6208975dd7f92e3708cfc9f8f040a74a15c42a0a8"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

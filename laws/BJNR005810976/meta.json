@@ -4,9 +4,11 @@
   "bjnr": "BJNR005810976",
   "eli": null,
   "gii_slug": "stvollzg",
-  "ingested_at": "2026-04-18T20:40:54Z",
   "jurabk": "StVollzG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 207
+  },
   "source_hashes": {
     "source_xml_sha256": "c9ea8715e4dc62cf04c034ea5475043fb42adf09500ad389a22cda543a547dd4"
   },
@@ -34,5 +36,5 @@
     }
   ],
   "title": "Gesetz über den Vollzug der Freiheitsstrafe und der freiheitsentziehenden Maßregeln der Besserung und Sicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

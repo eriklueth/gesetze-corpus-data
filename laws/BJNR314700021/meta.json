@@ -4,9 +4,12 @@
   "bjnr": "BJNR314700021",
   "eli": null,
   "gii_slug": "prodsg_2021",
-  "ingested_at": "2026-04-18T20:38:33Z",
   "jurabk": "ProdSG 2021",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 30
+  },
   "source_hashes": {
     "source_xml_sha256": "93aa5c257e6a91701f4bf0693739a1d0eb149844d22d8f1f41827206675b3cd2"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Gesetz über die Bereitstellung von Produkten auf dem Markt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

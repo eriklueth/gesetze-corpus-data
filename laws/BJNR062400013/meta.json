@@ -4,9 +4,11 @@
   "bjnr": "BJNR062400013",
   "eli": null,
   "gii_slug": "gflfleischv",
-  "ingested_at": "2026-04-18T20:33:52Z",
   "jurabk": "GFlFleischV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "a7e141414a2ceca962b569c1f520b5d5c9ca2637383eefab75372167326f443e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Vermarktungsnormen für Geflügelfleisch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

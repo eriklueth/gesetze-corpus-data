@@ -4,9 +4,9 @@
   "bjnr": "BJNR362700017",
   "eli": null,
   "gii_slug": "m_nz100eurobek_2017-10-23",
-  "ingested_at": "2026-04-18T20:36:48Z",
   "jurabk": "Münz100EuroBek 2017-10-23",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2c68419b4093a6c01a82bd4b768bc1a8fc93289bdbe00462078591b6d448ecd6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze „UNESCO Welterbe - Luthergedenkstätten Eisleben und Wittenberg“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

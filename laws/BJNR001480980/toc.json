@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR001480980",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "Bezeichnungen, Abkürzungen und Kennzeichen des Rates für Gegenseitige Wirtschaftshilfe",
@@ -10,6 +11,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "",

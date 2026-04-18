@@ -4,9 +4,11 @@
   "bjnr": "BJNR010530988",
   "eli": null,
   "gii_slug": "agrstruktg_ndg",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AgrStruktGÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "42aded2ad350856b5c82f9e989ab6ed5b59917b6ea8ef83b944ec655676d22c4"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Änderung des Gesetzes über die Gemeinschaftsaufgabe \"Verbesserung der Agrarstruktur und des Küstenschutzes\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

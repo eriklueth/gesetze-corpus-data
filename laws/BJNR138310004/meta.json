@@ -4,9 +4,11 @@
   "bjnr": "BJNR138310004",
   "eli": null,
   "gii_slug": "lwaltschg",
-  "ingested_at": "2026-04-18T20:36:21Z",
   "jurabk": "LwAltschG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "9783e3224a5211b5d0e3331dc7033e05bd1ebbbe3a8dd20abb3acdbbe99f823b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Änderung der Regelungen über Altschulden landwirtschaftlicher Unternehmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

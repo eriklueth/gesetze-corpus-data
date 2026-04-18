@@ -4,9 +4,11 @@
   "bjnr": "BJNR005500966",
   "eli": null,
   "gii_slug": "bewg_81dv",
-  "ingested_at": "2026-04-18T20:29:54Z",
   "jurabk": "BewG§81DV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "313967f6bd21c9c21ae14da0d82c7e5a0f61a9b435450a61bd2322b68f0fea81"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung des § 81 des Bewertungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

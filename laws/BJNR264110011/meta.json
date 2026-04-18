@@ -4,9 +4,12 @@
   "bjnr": "BJNR264110011",
   "eli": null,
   "gii_slug": "ermiv",
-  "ingested_at": "2026-04-18T20:32:25Z",
   "jurabk": "ErMiV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "1c7974c1a156f0c65ad27cce84c790f52d885b727c7445471497c949f94cdbba"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über das Inverkehrbringen von Saatgut von Erhaltungsmischungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

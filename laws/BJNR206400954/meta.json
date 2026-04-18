@@ -4,9 +4,9 @@
   "bjnr": "BJNR206400954",
   "eli": null,
   "gii_slug": "unsorgvorrabk",
-  "ingested_at": "2026-04-18T20:41:32Z",
   "jurabk": "UNSOrgVorRAbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "486d987261c0de17fbe7c94ecdd0bf6063f218becf36e71aa225e896d92edf33"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

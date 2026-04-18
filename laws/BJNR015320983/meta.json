@@ -4,9 +4,11 @@
   "bjnr": "BJNR015320983",
   "eli": null,
   "gii_slug": "hbegleitg_1984",
-  "ingested_at": "2026-04-18T20:34:23Z",
   "jurabk": "HBegleitG 1984",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "b147950e0a25c9341b0289afa9a6628bd3e5ca2e1bcdb18cdaef085a74ac6a96"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Maßnahmen zur Entlastung der öffentlichen Haushalte und zur Stabilisierung der Finanzentwicklung in der Rentenversicherung sowie über die Verlängerung der Investitionshilfeabgabe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

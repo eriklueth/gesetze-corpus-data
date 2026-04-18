@@ -4,9 +4,11 @@
   "bjnr": "BJNR074510020",
   "eli": null,
   "gii_slug": "bgaktfv",
-  "ingested_at": "2026-04-18T20:29:58Z",
   "jurabk": "BGAktFV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "e9788af8c0d9bdacfa444d18bd5ee41ddd9b48cef2f356fee6ae4f26729e71ed"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die elektronische Aktenführung bei den obersten Gerichten des Bundes in der Zivilgerichtsbarkeit und in den Fachgerichtsbarkeiten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

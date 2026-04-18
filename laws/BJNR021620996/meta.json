@@ -4,9 +4,9 @@
   "bjnr": "BJNR021620996",
   "eli": null,
   "gii_slug": "grbr_ckperlabk_lux",
-  "ingested_at": "2026-04-18T20:34:15Z",
   "jurabk": "GrBrückPerlAbk LUX",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "57e2cd75ef97fcfeb03e2cbe4334a440a61d8dad621e085b6f025d7dc425bf7a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über den Autobahnzusammenschluß und den Bau einer Grenzbrücke über die Mosel im Raum Perl und Schengen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

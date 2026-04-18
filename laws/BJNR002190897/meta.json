@@ -4,9 +4,11 @@
   "bjnr": "BJNR002190897",
   "eli": null,
   "gii_slug": "hgb",
-  "ingested_at": "2026-04-18T20:34:29Z",
   "jurabk": "HGB",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 688
+  },
   "source_hashes": {
     "source_xml_sha256": "7b46d843010ac3bc2b7416934302819d2759d5c0e0e59162cb10fdf5ad94df75"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Handelsgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

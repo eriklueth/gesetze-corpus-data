@@ -4,9 +4,11 @@
   "bjnr": "BJNR507800972",
   "eli": null,
   "gii_slug": "zinssatzv",
-  "ingested_at": "2026-04-18T20:43:14Z",
   "jurabk": "ZinsSatzV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "57c4ad282a22250e11b4ad901edbffced36637254c0374982c8164867af778ca"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung PR Nr. 4/72 über die Bemessung des kalkulatorischen Zinssatzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

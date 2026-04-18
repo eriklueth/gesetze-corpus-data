@@ -4,9 +4,11 @@
   "bjnr": "BJNR025000021",
   "eli": null,
   "gii_slug": "betterhmstrv",
-  "ingested_at": "2026-04-18T20:42:24Z",
   "jurabk": "BetTerHMstrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "0927ccd1632709587d083138b27ee071578d6f120b56f3712ed9ee67eeabd8a3"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Werkstein- und Terrazzohersteller-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

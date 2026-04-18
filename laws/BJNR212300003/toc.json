@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR212300003",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 2 Nachweis der persönlichen Eignung"
@@ -40,6 +44,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 3 Schießsportordnungen; Ausschluss von Schusswaffen; Fachbeirat"
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 3 Schießsportordnungen; Ausschluss von Schusswaffen; Fachbeirat"
@@ -60,6 +66,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 3 Schießsportordnungen; Ausschluss von Schusswaffen; Fachbeirat"
@@ -70,6 +77,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 3 Schießsportordnungen; Ausschluss von Schusswaffen; Fachbeirat"
@@ -80,6 +88,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 4 Benutzung von Schießstätten"
@@ -90,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 4 Benutzung von Schießstätten"
@@ -100,6 +110,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 4 Benutzung von Schießstätten"
@@ -110,6 +121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 4 Benutzung von Schießstätten"
@@ -120,6 +132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 5 Aufbewahrung von Waffen und Munition"
@@ -130,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 5 Aufbewahrung von Waffen und Munition"
@@ -140,6 +154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 6 Vorschriften für das Waffengewerbe",
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 6 Vorschriften für das Waffengewerbe",
@@ -162,6 +178,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 6 Vorschriften für das Waffengewerbe",
@@ -173,6 +190,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 6 Vorschriften für das Waffengewerbe",
@@ -184,6 +202,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 6 Vorschriften für das Waffengewerbe",
@@ -195,6 +214,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 6 Vorschriften für das Waffengewerbe",
@@ -206,6 +226,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 6 Vorschriften für das Waffengewerbe",
@@ -217,6 +238,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 6 Vorschriften für das Waffengewerbe",
@@ -228,6 +250,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 7 Ausbildung in der Verteidigung mit Schusswaffen"
@@ -238,6 +261,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 7 Ausbildung in der Verteidigung mit Schusswaffen"
@@ -248,6 +272,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 7 Ausbildung in der Verteidigung mit Schusswaffen"
@@ -258,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 7 Ausbildung in der Verteidigung mit Schusswaffen"
@@ -268,6 +294,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 7a Bestimmungen in Bezug auf unbrauchbar gemachte Schusswaffen"
@@ -278,6 +305,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 7a Bestimmungen in Bezug auf unbrauchbar gemachte Schusswaffen"
@@ -288,6 +316,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 7a Bestimmungen in Bezug auf unbrauchbar gemachte Schusswaffen"
@@ -298,6 +327,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 8 Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten",
@@ -309,6 +339,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 8 Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten",
@@ -320,6 +351,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 8 Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten",
@@ -331,6 +363,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 8 Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten",
@@ -342,6 +375,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 8 Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten",
@@ -353,6 +387,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 8 Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten",
@@ -364,6 +399,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 8 Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten",
@@ -375,6 +411,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 8 Vorschriften mit Bezug zur Europäischen Union und zu Drittstaaten",
@@ -386,6 +423,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 9 Ordnungswidrigkeiten und Schlussvorschriften"
@@ -396,6 +434,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 9 Ordnungswidrigkeiten und Schlussvorschriften"
@@ -406,6 +445,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 9 Ordnungswidrigkeiten und Schlussvorschriften"
@@ -416,6 +456,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Nachweis der Sachkunde",
         "Abschnitt 9 Ordnungswidrigkeiten und Schlussvorschriften"

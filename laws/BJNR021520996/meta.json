@@ -4,9 +4,11 @@
   "bjnr": "BJNR021520996",
   "eli": null,
   "gii_slug": "grbr_ckperlabkluxg",
-  "ingested_at": "2026-04-18T20:34:16Z",
   "jurabk": "GrBrückPerlAbkLUXG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "3e07fcc44cf9d51ef66a3e236e31c4dd4e94f4c4904d0351a3a425564db3e2fb"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 18. April 1994 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über den Autobahnzusammenschluß und den Bau einer Grenzbrücke über die Mosel im Raum Perl und Schengen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

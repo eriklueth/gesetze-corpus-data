@@ -4,9 +4,11 @@
   "bjnr": "BJNR317700006",
   "eli": null,
   "gii_slug": "baustiftg",
-  "ingested_at": "2026-04-18T20:29:26Z",
   "jurabk": "BauStiftG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "e25faefc4d31644a1fa85b12e33697cdcb5d504f576e93818d18ad6494761a31"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Errichtung einer \"Bundesstiftung Baukultur\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

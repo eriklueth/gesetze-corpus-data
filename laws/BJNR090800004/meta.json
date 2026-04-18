@@ -4,9 +4,12 @@
   "bjnr": "BJNR090800004",
   "eli": null,
   "gii_slug": "vulkausbv_2004",
-  "ingested_at": "2026-04-18T20:42:10Z",
   "jurabk": "VulkAusbV 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "df994340d5ea4ef3f4346d1a96d5673bac78f09fe3c9cfdd31a8940d6ba6bc4f"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Mechaniker für Reifen- und Vulkanisationstechnik/zur Mechanikerin für Reifen- und Vulkanisationstechnik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

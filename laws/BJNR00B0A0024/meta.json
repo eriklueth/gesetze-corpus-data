@@ -4,9 +4,9 @@
   "bjnr": "BJNR00B0A0024",
   "eli": null,
   "gii_slug": "bgholzmetalldiszrzustano",
-  "ingested_at": "2026-04-18T20:30:01Z",
   "jurabk": "BGHolzMetallDiszRZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c246b1ed7eb949b5f2e7ccbdb250fdf763f93382a8a584c54fe21ecf5f98d6fc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Übertragung von Befugnissen auf dem Gebiet des Disziplinarrechts im Bereich der Berufsgenossenschaft Holz und Metall",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

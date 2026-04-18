@@ -4,9 +4,9 @@
   "bjnr": "BJNR497500021",
   "eli": null,
   "gii_slug": "rvbeitrsbek_2022",
-  "ingested_at": "2026-04-18T20:39:09Z",
   "jurabk": "RVBeitrSBek 2022",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "37f403cf90ec703c289763f49e780be0ae36daa1bf2dbd4c9aabd79ac57a9ada"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2022",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR182500014",
   "eli": null,
   "gii_slug": "milomeldv",
-  "ingested_at": "2026-04-18T20:36:34Z",
   "jurabk": "MiLoMeldV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "5d66e51543c33cab18b5a9a906bc9742430dab2deebd07483feca6503334e0c1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Meldepflichten nach dem Mindestlohngesetz, dem Arbeitnehmer-Entsendegesetz und dem Arbeitnehmerüberlassungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

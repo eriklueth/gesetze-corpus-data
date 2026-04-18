@@ -4,9 +4,12 @@
   "bjnr": "BJNR109700006",
   "eli": null,
   "gii_slug": "medfangausbv",
-  "ingested_at": "2026-04-18T20:36:28Z",
   "jurabk": "MedFAngAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "be110122afb98aad0fa830bb2c4c1c593d30805664fdd8824d6d5c201464765a"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

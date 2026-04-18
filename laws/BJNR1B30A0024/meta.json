@@ -4,9 +4,9 @@
   "bjnr": "BJNR1B30A0024",
   "eli": null,
   "gii_slug": "btwahl20250223ano",
-  "ingested_at": "2026-04-18T20:31:01Z",
   "jurabk": "BTWahl20250223AnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "71a551992b4c0364b637550e37fa9c193c693d5ed3a2d966b99a8b7820cf3db9"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Anordnung über die Bundestagswahl am 23. Februar 2025",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

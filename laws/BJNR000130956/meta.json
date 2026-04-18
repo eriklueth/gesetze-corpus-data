@@ -4,9 +4,11 @@
   "bjnr": "BJNR000130956",
   "eli": null,
   "gii_slug": "e_g",
-  "ingested_at": "2026-04-18T20:32:34Z",
   "jurabk": "EÜG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "072e7ec46a219c94414ffac9f9cd4f0de6eb0fbb7e3300bb7b4c249928536ae2"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über den Einfluß von Eignungsübungen der Streitkräfte auf Vertragsverhältnisse der Arbeitnehmer und Handelsvertreter sowie auf Beamtenverhältnisse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

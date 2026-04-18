@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0510B0023",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anpassung der im Erdgas-Wärme-Preisbremsengesetz und im Strompreisbremsegesetz geregelten Berechnung der Differenzbeträge",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Überprüfung",

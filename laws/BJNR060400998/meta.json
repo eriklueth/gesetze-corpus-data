@@ -4,9 +4,11 @@
   "bjnr": "BJNR060400998",
   "eli": null,
   "gii_slug": "hwoua_g",
-  "ingested_at": "2026-04-18T20:34:35Z",
   "jurabk": "HwOuaÜG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "a3c87efe7c218915945b064413b2b8d4f3f0e23755f30923353cee36335abd8f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Übergangsgesetz aus Anlaß des Zweiten Gesetzes zur Änderung der Handwerksordnung und anderer handwerksrechtlicher Vorschriften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

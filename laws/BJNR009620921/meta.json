@@ -4,9 +4,12 @@
   "bjnr": "BJNR009620921",
   "eli": null,
   "gii_slug": "wastr_bgvtr",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WaStrÜbgVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "3f255cd58249bdfbccbd4e0461ce64f56ca5e779fa76880dcc24d0654b9ebf52"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Staatsvertrag betreffend den Übergang der Wasserstraßen von den Ländern auf das Reich (Anhang zum Gesetz über die vermögensrechtlichen Verhältnisse der Bundeswasserstraßen)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

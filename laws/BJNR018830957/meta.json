@@ -4,9 +4,11 @@
   "bjnr": "BJNR018830957",
   "eli": null,
   "gii_slug": "skageg",
-  "ingested_at": "2026-04-18T20:40:01Z",
   "jurabk": "SKAGEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "6d90d25f754d2f02ce5aa4209caa383e1cd388776432c6f4daa570eaaa72e3f2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Einführung der Selbstverwaltung auf dem Gebiet der Sozialversicherung und Angleichung des Rechts der Krankenversicherung im Land Berlin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

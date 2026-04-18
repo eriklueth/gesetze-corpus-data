@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR040800008",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Anforderungen an die Unabhängigkeit der Stimmrechtsausübung eines Wertpapierdienstleistungsunternehmens vom Meldepflichtigen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Mitteilungspflichten des Meldepflichtigen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Pflichten des Market Makers im Zusammenhang mit der Nichtberücksichtigung von Stimmrechten",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Gleichwertigkeit der Anforderungen an die Fristen für die Veröffentlichungspflichten des Emittenten",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Gleichwertigkeit der Anforderungen an die Veröffentlichungspflichten des Emittenten in Bezug auf eigene Aktien",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Gleichwertigkeit der Anforderungen an die Veröffentlichungspflichten des Emittenten in Bezug auf die Gesamtzahl der Stimmrechte",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Gleichwertigkeit der Anforderungen an die Ausnahmen von der Zurechnung von Stimmrechten im Sinne des § 34 Absatz 4 des Wertpapierhandelsgesetzes",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Gleichwertigkeit der Anforderungen an Mitteilungspflichten des Emittenten",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Mindestinhalt des nicht konsolidierten verkürzten Abschlusses",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Wesentliche Geschäfte mit nahe stehenden Unternehmen und Personen",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Gleichwertigkeit der Anforderungen an die im Lagebericht enthaltenen Informationen",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Gleichwertigkeit der Anforderungen an den Zwischenlagebericht",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Gleichwertigkeit der Anforderungen an die Verantwortlichkeit",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "(weggefallen)",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Gleichwertigkeit der Anforderungen bei einem Konzernabschluss",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Gleichwertigkeit der Anforderungen an den Jahresabschluss",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Anforderungen an die Unabhängigkeit der Stimmrechtsausübung eines Wertpapierdienstleistungsunternehmens vom Bieter",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Mitteilungspflichten des Bieters gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0023.md",
       "heading": "Übergangsbestimmung",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0024.md",
       "heading": "Inkrafttreten",

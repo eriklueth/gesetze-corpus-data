@@ -4,9 +4,12 @@
   "bjnr": "BJNR048500009",
   "eli": null,
   "gii_slug": "hufbeschl-anerkennv",
-  "ingested_at": "2026-04-18T20:34:34Z",
   "jurabk": "HufBeschl-AnerkennV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "f06860d281d69949ebf94ffbe365ebf2f4eef7ee5fa9f97a07a1494c2303ac11"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Gleichstellung von außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes oder im Ausland erworbenen Prüfungszeugnissen mit den Prüfungszeugnissen nach der Hufbeschlagverordnung und deren Berücksichtigung bei der staatlichen Anerkennung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR363210005",
   "eli": null,
   "gii_slug": "amvv",
-  "ingested_at": "2026-04-18T20:28:45Z",
   "jurabk": "AMVV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "3bac8522501acc4deddebfe95400a652f1520e92f645de46054f07ee36048847"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Verschreibungspflicht von Arzneimitteln",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR015099975",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Art 1 bis 10",
         "Art 11"
@@ -13,6 +14,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Art 1 bis 10",
         "Art 11"
@@ -23,6 +25,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Art 1 bis 10",
         "Art 11"
@@ -33,6 +36,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Art 1 bis 10",
         "Art 11"
@@ -43,6 +47,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Art 1 bis 10",
         "Art 11"
@@ -53,6 +58,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Art 1 bis 10",
         "Art 11"

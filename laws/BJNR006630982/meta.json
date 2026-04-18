@@ -4,9 +4,11 @@
   "bjnr": "BJNR006630982",
   "eli": null,
   "gii_slug": "isolmstrv",
-  "ingested_at": "2026-04-18T20:35:02Z",
   "jurabk": "IsolMstrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "f77da4826f7ea0122b1bbb05c3620bc46b8a0f3444d7c22a86d5c77e9dee82dc"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Wärme-, Kälte- und Schallschutzisolierer-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

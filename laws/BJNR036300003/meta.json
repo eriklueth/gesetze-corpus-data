@@ -4,9 +4,9 @@
   "bjnr": "BJNR036300003",
   "eli": null,
   "gii_slug": "bpawidano",
-  "ingested_at": "2026-04-18T20:30:38Z",
   "jurabk": "BPAWidAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "aeab7389fb85189321c3e830ee6d0f848a9e820c1bc8fad6e7e4d460932cacc8"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Presse- und Informationsamtes der Bundesregierung in Angelegenheiten nach den Beihilfevorschriften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

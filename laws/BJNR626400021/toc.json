@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR626400021",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "(weggefallen)",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "(weggefallen)",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "(weggefallen)",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "(weggefallen)",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0004a.md",
       "heading": "(weggefallen)",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0004b.md",
       "heading": "(weggefallen)",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "(weggefallen)",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "(weggefallen)",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Abrechnung der Leistungen",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0007a.md",
       "heading": "Abrechnungsprüfung",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0007b.md",
       "heading": "Abrechnung der Leistungen der Apotheken bei der Erstellung des COVID-19-Genesenenzertifikates nach § 22a Absatz 6 des Infektionsschutzgesetzes",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Verwaltungskostenersatz der Kassenärztlichen Vereinigungen",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Vergütung von Leistungen der Diagnostik mittels Nukleinsäurenachweis",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Vergütung von Leistungen der Labordiagnostik mittels Antigen-Test",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Vergütung von Sachkosten für PoC-Antigen-Tests und Antigen-Tests zur Eigenanwendung",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Vergütung von weiteren Leistungen",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Finanzierung von Testzentren",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Verfahren für die Zahlung aus der Liquiditätsreserve des Gesundheitsfonds",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Verfahren für die Finanzierung aus Bundesmitteln",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Transparenz",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "(weggefallen)",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Übergangsvorschrift",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Außerkrafttreten",

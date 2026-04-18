@@ -4,9 +4,9 @@
   "bjnr": "BJNR024310969",
   "eli": null,
   "gii_slug": "prkultbbdoano",
-  "ingested_at": "2026-04-18T20:38:33Z",
   "jurabk": "PrKultbBDOAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d523f7a74b9b983961b665ad8545364cac4c381a6fb23aa41d238620b6a9efd6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Durchführung der Bundesdisziplinarordnung für die Stiftung Preußischer Kulturbesitz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

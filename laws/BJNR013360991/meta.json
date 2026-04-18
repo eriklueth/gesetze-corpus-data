@@ -4,9 +4,11 @@
   "bjnr": "BJNR013360991",
   "eli": null,
   "gii_slug": "hfzhvzvstg",
-  "ingested_at": "2026-04-18T20:34:28Z",
   "jurabk": "HfzHvzVStG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "694928afb5f53b5fab83a09afda40b590f1d7fdbcf0e016999ec471d258c4295"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

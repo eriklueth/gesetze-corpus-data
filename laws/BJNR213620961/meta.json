@@ -4,9 +4,9 @@
   "bjnr": "BJNR213620961",
   "eli": null,
   "gii_slug": "man_vabk_canigbr",
-  "ingested_at": "2026-04-18T20:36:23Z",
   "jurabk": "ManövAbk CANIGBR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8ef3b299e3442ab118c6ca1ac77b03e2b36d7c33b9907880f6e4f7f00825c470"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland über die Durchführung von Manövern und anderen Übungen im Raum Soltau-Lüneburg",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

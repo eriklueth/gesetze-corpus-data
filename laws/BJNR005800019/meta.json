@@ -4,9 +4,12 @@
   "bjnr": "BJNR005800019",
   "eli": null,
   "gii_slug": "kapresv",
-  "ingested_at": "2026-04-18T20:35:14Z",
   "jurabk": "KapResV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 47
+  },
   "source_hashes": {
     "source_xml_sha256": "83a71bf0a48e27761eca399dd9a1bdf7b2955b06fea1dc06823e70fad25b40c6"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Regelung des Verfahrens der Beschaffung, des Einsatzes und der Abrechnung einer Kapazitätsreserve",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

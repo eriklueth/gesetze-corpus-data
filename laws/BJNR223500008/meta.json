@@ -4,9 +4,11 @@
   "bjnr": "BJNR223500008",
   "eli": null,
   "gii_slug": "ef-vo_2008",
-  "ingested_at": "2026-04-18T20:31:58Z",
   "jurabk": "EF-VO 2008",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "5d66cbbba536219dcb3da7a96cfd3b062986faf4b1067099f2a06510be954094"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Einfuhrabgabenfreiheit von Waren im persönlichen Gepäck von Reisenden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

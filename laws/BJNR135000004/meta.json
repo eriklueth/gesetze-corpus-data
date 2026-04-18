@@ -4,9 +4,11 @@
   "bjnr": "BJNR135000004",
   "eli": null,
   "gii_slug": "mzg_2005",
-  "ingested_at": "2026-04-18T20:37:29Z",
   "jurabk": "MZG 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "10cca9373ac80ec57884b9e1c53237ea1a57d95aa71376ab82dab84ea0729748"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Durchführung einer Repräsentativstatistik über die Bevölkerung und den Arbeitsmarkt sowie die Wohnsituation der Haushalte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

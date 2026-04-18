@@ -4,9 +4,11 @@
   "bjnr": "BJNR055700004",
   "eli": null,
   "gii_slug": "uagowizustv",
-  "ingested_at": "2026-04-18T20:41:25Z",
   "jurabk": "UAGOWiZustV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "a226bb0311594f5382a378570c9070be121e62270970717bf26b3402310322e0"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Übertragung der Zuständigkeit für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten nach § 37 Abs. 1 des Umweltauditgesetzes auf das Bundesverwaltungsamt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

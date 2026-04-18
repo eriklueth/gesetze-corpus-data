@@ -4,9 +4,11 @@
   "bjnr": "BJNR013250979",
   "eli": null,
   "gii_slug": "ggart29abs7g",
-  "ingested_at": "2026-04-18T20:33:31Z",
   "jurabk": "GGArt29Abs7G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "796b715f99da457d6df7199c6a9de8dae526ae228e627abdf00b467c0e8e942c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder nach Artikel 29 Abs. 7 des Grundgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR167020997",
   "eli": null,
   "gii_slug": "moselschpev_1997",
-  "ingested_at": "2026-04-18T20:36:40Z",
   "jurabk": "MoselSchPEV 1997",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "37a322afdaf26a5145ed77bfd8d8717cdc1221078937d55b763704f07a7117dd"
   },
@@ -38,5 +40,5 @@
     }
   ],
   "title": "Verordnung zur Einführung der Moselschiffahrtspolizeiverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

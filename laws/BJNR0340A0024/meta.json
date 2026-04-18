@@ -4,9 +4,11 @@
   "bjnr": "BJNR0340A0024",
   "eli": null,
   "gii_slug": "windseev_4",
-  "ingested_at": "2026-04-18T20:28:13Z",
   "jurabk": "WindSeeV 4",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "6f8bb016b20caa241a7be9d83341a6f55f1a49c706a7314a2904a5a3ba93f955"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vierte Verordnung zur Durchführung des Windenergie-auf-See-Gesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

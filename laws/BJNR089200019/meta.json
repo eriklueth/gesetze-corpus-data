@@ -4,9 +4,12 @@
   "bjnr": "BJNR089200019",
   "eli": null,
   "gii_slug": "gebreinausbvo",
-  "ingested_at": "2026-04-18T20:33:40Z",
   "jurabk": "GebReinAusbVO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "2ae4f27c0bd023be3d06f68635f425a1396590741185ee233902d23812d0573b"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Gebäudereiniger und zur Gebäudereinigerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

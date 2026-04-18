@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR235000994",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "II. Grundkapital und Aktien"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "III. Vorstand"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "III. Vorstand"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "III. Vorstand"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "III. Vorstand"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "IV. Aufsichtsrat"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "IV. Aufsichtsrat"
@@ -109,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "IV. Aufsichtsrat"
@@ -119,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "IV. Aufsichtsrat"
@@ -129,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "IV. Aufsichtsrat"
@@ -139,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "IV. Aufsichtsrat"
@@ -149,6 +164,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "IV. Aufsichtsrat"
@@ -159,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "IV. Aufsichtsrat"
@@ -169,6 +186,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "V. Hauptversammlung"
@@ -179,6 +197,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "V. Hauptversammlung"
@@ -189,6 +208,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "V. Hauptversammlung"
@@ -199,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "V. Hauptversammlung"
@@ -209,6 +230,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "VI. Jahresabschluß und Gewinnverwendung"
@@ -219,6 +241,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "VII. Bundesrechnungshof"
@@ -229,6 +252,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Allgemeine Bestimmungen",
         "VIII. Geschäftsaufnahme"

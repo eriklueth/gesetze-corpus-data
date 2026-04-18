@@ -4,9 +4,11 @@
   "bjnr": "BJNR180500000",
   "eli": null,
   "gii_slug": "kbv_2002",
-  "ingested_at": "2026-04-18T20:35:13Z",
   "jurabk": "KBV 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "e04fba0760ba511a9da6cc7f5da4291bdef593ad753879bb325e182204fcff96"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Kleinbetragsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

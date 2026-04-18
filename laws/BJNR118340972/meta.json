@@ -4,9 +4,12 @@
   "bjnr": "BJNR118340972",
   "eli": null,
   "gii_slug": "bgsg",
-  "ingested_at": "2026-04-18T20:30:02Z",
   "jurabk": "BGSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "ca6c97e99073cb40e9de535b47255bcab0a3c89e2fa939dae432fb0d64d09ab9"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über den Bundesgrenzschutz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

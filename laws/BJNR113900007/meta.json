@@ -4,9 +4,9 @@
   "bjnr": "BJNR113900007",
   "eli": null,
   "gii_slug": "sgb2_20abs2bek_2007",
-  "ingested_at": "2026-04-18T20:39:55Z",
   "jurabk": "SGB2§20Abs2Bek 2007",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "17d12c79590c63f44c20df60f5a3c60c5177bf39183f98c22e217164dfad2c47"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 Satz 1 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2007",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

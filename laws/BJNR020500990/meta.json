@@ -4,9 +4,9 @@
   "bjnr": "BJNR020500990",
   "eli": null,
   "gii_slug": "dbpdirernano",
-  "ingested_at": "2026-04-18T20:31:37Z",
   "jurabk": "DBPDirErnAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9f1499d1c079bad40f57285b4be5d4943406ca83b52b9e107f82ee1c03c14412"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich des Direktoriums der Deutschen Bundespost",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

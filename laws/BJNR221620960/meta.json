@@ -4,9 +4,9 @@
   "bjnr": "BJNR221620960",
   "eli": null,
   "gii_slug": "grverkabk_che",
-  "ingested_at": "2026-04-18T20:34:18Z",
   "jurabk": "GrVerkAbk CHE",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "03b77af1e77ee87936191e279afe52ffe655f6b2e7bb279f657d351d5abeba0e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Deutsch-schweizerisches Abkommen über den Grenz- und Durchgangsverkehr (in der Fassung des Schriftwechsels vom 7./23. November 1959)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

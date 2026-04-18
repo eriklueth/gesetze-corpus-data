@@ -4,9 +4,11 @@
   "bjnr": "BJNR001930970",
   "eli": null,
   "gii_slug": "tvgdv",
-  "ingested_at": "2026-04-18T20:41:21Z",
   "jurabk": "TVGDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "c4aebcf4d294a993dbb07f0d72c2a5b88b911c009a6826cbd804dfa63b7f78d9"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Tarifvertragsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

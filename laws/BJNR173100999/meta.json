@@ -4,9 +4,12 @@
   "bjnr": "BJNR173100999",
   "eli": null,
   "gii_slug": "ergthaprv",
-  "ingested_at": "2026-04-18T20:32:24Z",
   "jurabk": "ErgThAPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 8,
+    "paragraph": 21
+  },
   "source_hashes": {
     "source_xml_sha256": "927f0672d65d1b8f4129cd70f8cd2d6bf3103c032892ccfb7d5179b13f49f45a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Ausbildungs- und Prüfungsverordnung für Ergotherapeutinnen und Ergotherapeuten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

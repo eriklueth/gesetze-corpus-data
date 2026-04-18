@@ -4,9 +4,12 @@
   "bjnr": "BJNR181700002",
   "eli": null,
   "gii_slug": "sug",
-  "ingested_at": "2026-04-18T20:40:56Z",
   "jurabk": "SUG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 44
+  },
   "source_hashes": {
     "source_xml_sha256": "a66d0180b4dcf40cc8486ff5f2f0715ade5bdf17c55fce269eabdcbea49840d5"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz zur Verbesserung der Sicherheit der Seefahrt durch die Untersuchung von Seeunfällen und anderen Vorkommnissen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

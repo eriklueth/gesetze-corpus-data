@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR259300994",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Ziel des Gesetzes",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen, Gebote und Verbote",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Allgemeine Genehmigungspflicht",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Allgemeines Verfahren",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Verhütung der Meeresverschmutzung",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Forschungstätigkeiten",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Genehmigungsverfahren mit Umwelterheblichkeitsprüfung",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Genehmigungsverfahren mit Umweltverträglichkeitsprüfung",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Öffentliche Auslegung, Einwendungen",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Unterrichtung der Parteien des Umweltschutzprotokolls zum Antarktis-Vertrag und des Ausschusses für Umweltschutz",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Beratung durch eine Konsultativtagung der Vertragsparteien des Antarktis-Vertrages",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Genehmigung nach Umweltverträglichkeitsprüfung",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Unterrichtung Dritter",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Überwachung und Überprüfung",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Regelmäßige Unterrichtungen",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Umweltverträglichkeitsprüfungen anderer Vertragsparteien",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Erhaltung der antarktischen Tier- und Pflanzenwelt",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Verbringen von Tieren und Pflanzen in die Antarktis",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Ausfuhrüberwachung",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Verbringen von Stoffen und Erzeugnissen",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0021.md",
       "heading": "Grundsätze der Vermeidung und Entsorgung von Abfällen",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0022.md",
       "heading": "Entfernung von Abfällen aus der Antarktis",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0023.md",
       "heading": "Abfallverbrennung",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0024.md",
       "heading": "Entsorgung flüssiger Abfälle",
@@ -171,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0025.md",
       "heading": "Feldlager",
@@ -178,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0026.md",
       "heading": "Abfallagerung",
@@ -185,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0027.md",
       "heading": "Arbeitsstätten und Abfallagerstätten",
@@ -192,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0028.md",
       "heading": "Planung",
@@ -199,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0029.md",
       "heading": "Schutz und Verwaltung von Gebieten, historischen Stätten und Denkmälern",
@@ -206,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0030.md",
       "heading": "Genehmigungen",
@@ -213,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0031.md",
       "heading": "Verwaltungspläne",
@@ -220,6 +251,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0032.md",
       "heading": "Bergbauverbot",
@@ -227,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0033.md",
       "heading": "Schulung",
@@ -234,6 +267,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0034.md",
       "heading": "Inspektionen",
@@ -241,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0035.md",
       "heading": "(weggefallen)",
@@ -248,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0036.md",
       "heading": "Bußgeldvorschriften",
@@ -255,6 +291,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0037.md",
       "heading": "Strafvorschriften",
@@ -262,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0038.md",
       "heading": "Einziehung",
@@ -269,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0039.md",
       "heading": "Schiedsverfahren",
@@ -276,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0040.md",
       "heading": "Berichtspflicht",
@@ -283,6 +323,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0041.md",
       "heading": "Notfälle",
@@ -290,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0042.md",
       "heading": "Inkrafttreten",

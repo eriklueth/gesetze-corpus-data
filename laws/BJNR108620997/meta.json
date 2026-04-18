@@ -4,9 +4,11 @@
   "bjnr": "BJNR108620997",
   "eli": null,
   "gii_slug": "ehefzeugn_bkg",
-  "ingested_at": "2026-04-18T20:32:03Z",
   "jurabk": "EhefZeugnÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "69572a37d8087b54136ac74e2f6b32b65e721eab0ac3c890843bb69f77e65098"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 5. September 1980 über die Ausstellung von Ehefähigkeitszeugnissen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

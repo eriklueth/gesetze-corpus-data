@@ -4,9 +4,11 @@
   "bjnr": "BJNR140630997",
   "eli": null,
   "gii_slug": "mindnam_ndg",
-  "ingested_at": "2026-04-18T20:36:35Z",
   "jurabk": "MindNamÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "95620d5546f81c96fc01cd1a864313fc9afaf367f6e638f4fc44110b3aa4ebe2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Ausführung des Artikels 11 Abs. 1 des Rahmenübereinkommens des Europarats vom 1. Februar 1995 zum Schutz nationaler Minderheiten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

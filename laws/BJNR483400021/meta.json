@@ -4,9 +4,12 @@
   "bjnr": "BJNR483400021",
   "eli": null,
   "gii_slug": "jaktav",
-  "ingested_at": "2026-04-18T20:35:06Z",
   "jurabk": "JAktAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "cd308a8715fd08aa8999027b9793a9aeaf24d804c7ca5492d643ed23c6caea80"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Aufbewahrung und Speicherung von Justizakten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

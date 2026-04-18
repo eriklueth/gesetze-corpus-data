@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR001710937",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Allgemeine Vorschriften",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -19,6 +21,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -28,6 +31,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -37,6 +41,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -46,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -55,6 +61,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -64,6 +71,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -73,6 +81,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -82,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -91,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -100,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -109,6 +121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -118,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -127,6 +141,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -136,6 +151,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -145,6 +161,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -154,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -163,6 +181,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -172,6 +191,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -181,6 +201,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -190,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung"
       ],
@@ -199,6 +221,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -209,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -219,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -229,6 +254,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -239,6 +265,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -249,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -259,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -269,6 +298,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -279,6 +309,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -289,6 +320,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -299,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -309,6 +342,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -319,6 +353,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -329,6 +364,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "2. Abschnitt Einkaufskommission"
@@ -339,6 +375,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "3. Abschnitt Vorrang im Insolvenzverfahren"
@@ -349,6 +386,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "3. Abschnitt Vorrang im Insolvenzverfahren"
@@ -359,6 +397,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "4. Abschnitt Strafbestimmungen"
@@ -369,6 +408,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "4. Abschnitt Strafbestimmungen"
@@ -379,6 +419,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "4. Abschnitt Strafbestimmungen"
@@ -389,6 +430,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "4. Abschnitt Strafbestimmungen"
@@ -399,6 +441,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "5. Abschnitt Schlußbestimmungen"
@@ -409,6 +452,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "5. Abschnitt Schlußbestimmungen"
@@ -419,6 +463,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Verwahrung",
         "5. Abschnitt Schlußbestimmungen"

@@ -4,9 +4,12 @@
   "bjnr": "BJNR005170982",
   "eli": null,
   "gii_slug": "gassv",
-  "ingested_at": "2026-04-18T20:33:36Z",
   "jurabk": "GasSV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "89eef5da2e4203971033efea9bf758e3a4f97e5989df5bbb112058c1fbe8cbe7"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Sicherung der Gasversorgung in einer Versorgungskrise",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

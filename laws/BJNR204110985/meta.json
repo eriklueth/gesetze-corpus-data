@@ -4,9 +4,9 @@
   "bjnr": "BJNR204110985",
   "eli": null,
   "gii_slug": "konkrvtr_aut",
-  "ingested_at": "2026-04-18T20:35:26Z",
   "jurabk": "KonkRVtr AUT",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "bc731b105d9f51c1edeca44a244526080fbae408b48ebc2d0e7eb2a3ab2493af"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich auf dem Gebiet des Konkurs- und Vergleichs-(Ausgleichs-)rechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

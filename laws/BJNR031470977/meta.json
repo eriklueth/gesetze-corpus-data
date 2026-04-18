@@ -4,9 +4,11 @@
   "bjnr": "BJNR031470977",
   "eli": null,
   "gii_slug": "svhv",
-  "ingested_at": "2026-04-18T20:40:59Z",
   "jurabk": "SVHV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "6fa7fd2f0561725a08407e3c10d27d0549118d13efe9bf1f026b2758df4e7a9e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Haushaltswesen in der Sozialversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

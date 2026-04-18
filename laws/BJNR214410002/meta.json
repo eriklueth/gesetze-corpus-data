@@ -4,9 +4,11 @@
   "bjnr": "BJNR214410002",
   "eli": null,
   "gii_slug": "istghg",
-  "ingested_at": "2026-04-18T20:35:02Z",
   "jurabk": "IStGHG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 73
+  },
   "source_hashes": {
     "source_xml_sha256": "6f24245f9b42f74aef0f72ec5bc825cfaf8eec807281c463b6e1eca00ddbc7e7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Zusammenarbeit mit dem Internationalen Strafgerichtshof",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

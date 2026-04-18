@@ -4,9 +4,11 @@
   "bjnr": "BJNR228200999",
   "eli": null,
   "gii_slug": "pflegestatv",
-  "ingested_at": "2026-04-18T20:38:17Z",
   "jurabk": "PflegeStatV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "ae3381b09722fd6399480fa5c060a1b24c3ec6b781421e06d8d360a34787bd45"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung einer Bundesstatistik über Pflegeeinrichtungen sowie über die häusliche Pflege",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

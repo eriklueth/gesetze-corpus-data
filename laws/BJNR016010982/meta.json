@@ -4,9 +4,12 @@
   "bjnr": "BJNR016010982",
   "eli": null,
   "gii_slug": "standzv",
-  "ingested_at": "2026-04-18T20:40:37Z",
   "jurabk": "StandZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "b6ac6c3ed77b880de00cd59e4af65252234c988a6ce841ede5c9ce5aef8722e9"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Standardzulassungen von Arzneimitteln",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BYNR001800946",
   "eli": null,
   "gii_slug": "g21_by",
-  "ingested_at": "2026-04-18T20:33:31Z",
   "jurabk": "G21 BY",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "98543951aefbfe9ef0b7889f6329357bc97d2b1f5435e1baf4144b63af966df4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz Nr. 21 zur Wiedergutmachung nationalsozialistischen Unrechts in der Strafrechtspflege",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

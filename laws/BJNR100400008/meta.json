@@ -4,9 +4,11 @@
   "bjnr": "BJNR100400008",
   "eli": null,
   "gii_slug": "vfbazv",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VFBAZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "faac23c9eb57206e56fbd686ae5b428e697d30b6476f3a334d1ff26aff229363"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Zuweisungen an das Sondervermögen „Versorgungsfonds der Bundesagentur für Arbeit“",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

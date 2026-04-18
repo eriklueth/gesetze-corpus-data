@@ -4,9 +4,9 @@
   "bjnr": "BJNR007090913",
   "eli": null,
   "gii_slug": "wzdnkbek",
-  "ingested_at": "2026-04-18T20:42:47Z",
   "jurabk": "WZDNKBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e13de451b22a9ddac9e7b5114d35319644bac9ab070485faaa0accbceb30cc70"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung, betreffend den gegenseitigen Schutz von Verbandszeichen im Deutschen Reich und in Dänemark",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

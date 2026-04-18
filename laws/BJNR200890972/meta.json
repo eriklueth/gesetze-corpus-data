@@ -4,9 +4,9 @@
   "bjnr": "BJNR200890972",
   "eli": null,
   "gii_slug": "e_lanrabk_bel",
-  "ingested_at": "2026-04-18T20:32:22Z",
   "jurabk": "EÖlAnrAbk BEL",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ff09fd50dba7cbc883ad8f3464f4fbf7147d76eab9be2435e158b90e45cf1c29"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen dem Bundesminister für Wirtschaft und Finanzen der Bundesrepublik Deutschland und dem Vice-Premier Ministre des Affaires Economiques du Royaume de Belgique über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

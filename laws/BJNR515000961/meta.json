@@ -4,9 +4,11 @@
   "bjnr": "BJNR515000961",
   "eli": null,
   "gii_slug": "krwaffgenv",
-  "ingested_at": "2026-04-18T20:35:37Z",
   "jurabk": "KrWaffGenV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "c2dae1d3b471e190b4f2a528d53a59ec6f9d144b3c882f0f00a4714f9ae9fdd3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Allgemeine Genehmigungen nach dem Gesetz über die Kontrolle von Kriegswaffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

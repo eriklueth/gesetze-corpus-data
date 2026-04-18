@@ -4,9 +4,11 @@
   "bjnr": "BJNR193900001",
   "eli": null,
   "gii_slug": "aa_g_ndg_2",
-  "ingested_at": "2026-04-18T20:28:04Z",
   "jurabk": "AAÜGÄndG 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "c406d1405500918e20366d9bdfa907c3df8a86dba375571584538ec33f0404a0"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweites Gesetz zur Änderung und Ergänzung des Anspruchs- und Anwartschaftsüberführungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

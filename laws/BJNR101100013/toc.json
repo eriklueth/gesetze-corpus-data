@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR101100013",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Sonderregelungen für Abwasser aus Abfallverbrennungsanlagen"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Sonderregelungen für Abwasser aus Abfallverbrennungsanlagen"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Sonderregelungen für Abwasser aus Abfallverbrennungsanlagen"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Sonderregelungen für Abwasser aus Abfallverbrennungsanlagen"
@@ -142,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Sonderregelungen für Abwasser aus Abfallverbrennungsanlagen"
@@ -152,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Ordnungswidrigkeiten und Übergangsvorschrift"
@@ -162,6 +178,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Ordnungswidrigkeiten und Übergangsvorschrift"

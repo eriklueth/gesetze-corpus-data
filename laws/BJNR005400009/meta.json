@@ -4,9 +4,11 @@
   "bjnr": "BJNR005400009",
   "eli": null,
   "gii_slug": "d_ngg",
-  "ingested_at": "2026-04-18T20:31:53Z",
   "jurabk": "DüngG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 21
+  },
   "source_hashes": {
     "source_xml_sha256": "b0293bd4430d197218fde185eafdfa7085c03f931e31b2057c86f411691f76c4"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Düngegesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

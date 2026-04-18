@@ -4,9 +4,11 @@
   "bjnr": "BJNR162400019",
   "eli": null,
   "gii_slug": "bmfwidvertrano_2019",
-  "ingested_at": "2026-04-18T20:30:22Z",
   "jurabk": "BMFWidVertrAnO 2019",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "1dd516ca7708d4de31386debcc1ad131c153a180a221f75fb9d2587c15d989d4"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Anordnung zur Übertragung von Zuständigkeiten im Widerspruchsverfahren und die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem Beamtenverhältnis von Beamten im Geschäftsbereich des Bundesministeriums der Finanzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

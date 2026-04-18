@@ -4,9 +4,9 @@
   "bjnr": "BJNR096900010",
   "eli": null,
   "gii_slug": "dba_man",
-  "ingested_at": "2026-04-18T20:31:26Z",
   "jurabk": "DBA MAN",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c3e1acff9bc485fae0ff6ec4565b55198e71e2092b5cdb7980de647745da20ae"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Insel Man zur Vermeidung der Doppelbesteuerung von im internationalen Verkehr tätigen Schifffahrtsunternehmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

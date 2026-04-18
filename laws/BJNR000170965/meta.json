@@ -4,9 +4,11 @@
   "bjnr": "BJNR000170965",
   "eli": null,
   "gii_slug": "vollstrvtrnldag",
-  "ingested_at": "2026-04-18T20:42:02Z",
   "jurabk": "VollstrVtrNLDAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "6cf2fd27f90abfb26d6480105926ca8f6c54c677d9e1b9d2f1368337dd595764"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Ausführung des Vertrages vom 30. August 1962 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen und anderer Schuldtitel in Zivil- und Handelssachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

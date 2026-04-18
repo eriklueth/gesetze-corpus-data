@@ -4,9 +4,12 @@
   "bjnr": "BJNR0260B0025",
   "eli": null,
   "gii_slug": "mpbetreibv_2025",
-  "ingested_at": "2026-04-18T20:36:40Z",
   "jurabk": "MPBetreibV 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 21
+  },
   "source_hashes": {
     "source_xml_sha256": "5c45d9f91738810166e964c5fa45e56e3e3b87fdd1005ba32193ff448991668c"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über das Betreiben und Benutzen von Medizinprodukten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

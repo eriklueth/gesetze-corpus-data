@@ -4,9 +4,9 @@
   "bjnr": "BJNR209140959",
   "eli": null,
   "gii_slug": "grenzgsteinkvtr_nld",
-  "ingested_at": "2026-04-18T20:34:16Z",
   "jurabk": "GrenzgSteinKVtr NLD",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6a76a5fcea012669bb271553d5c6dcb07c4e5e9abf51ad9b7b883e1ea1f647a0"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über den Abbau von Steinkohlen im deutsch-niederländischen Grenzgebiet westlich Wegberg-Brüggen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

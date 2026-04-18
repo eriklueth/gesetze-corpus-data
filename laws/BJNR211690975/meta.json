@@ -4,9 +4,11 @@
   "bjnr": "BJNR211690975",
   "eli": null,
   "gii_slug": "eurhiche_bkergvtrg",
-  "ingested_at": "2026-04-18T20:32:42Z",
   "jurabk": "EuRHiCHEÜbkErgVtrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "cb89cfbb0a50ffb4767bc892a1772b49480bb9d2b384062f3315183630ea725f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Vertrag vom 13. November 1969 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Ergänzung des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung seiner Anwendung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

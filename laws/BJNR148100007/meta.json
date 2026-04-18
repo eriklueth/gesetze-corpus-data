@@ -4,9 +4,11 @@
   "bjnr": "BJNR148100007",
   "eli": null,
   "gii_slug": "glprzhernev",
-  "ingested_at": "2026-04-18T20:34:04Z",
   "jurabk": "GlPrZHerneV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "13e76acbfd1e53ab2a9a092853ded83df85e24bb6c65792f2f1ca638e079fd34"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Gleichstellung von Prüfungszeugnissen der staatlich anerkannten Hiberniaschule Herne mit den Zeugnissen über das Bestehen der Gesellenprüfung in handwerklichen Ausbildungsberufen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR184210998",
   "eli": null,
   "gii_slug": "eaeg",
-  "ingested_at": "2026-04-18T20:28:49Z",
   "jurabk": "EAEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "823aa02e6cf2accb2f5366ffb4290aea0d93fc83ae5e57dd89d023f749668d2f"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Anlegerentschädigungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

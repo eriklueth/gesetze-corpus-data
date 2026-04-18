@@ -4,9 +4,9 @@
   "bjnr": "BJNR407200021",
   "eli": null,
   "gii_slug": "btepifortbestbek_2021-08",
-  "ingested_at": "2026-04-18T20:30:57Z",
   "jurabk": "BTEpiFortbestBek 2021-08",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c8b9debcea4ca7951d34ff74cade8214c073da5dda3d1d3557fa8ab329b6cc60"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung des Beschlusses des Deutschen Bundestages über die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

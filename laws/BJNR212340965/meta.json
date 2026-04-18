@@ -4,9 +4,11 @@
   "bjnr": "BJNR212340965",
   "eli": null,
   "gii_slug": "eufernsabkg",
-  "ingested_at": "2026-04-18T20:32:38Z",
   "jurabk": "EuFernsAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "bc736cef7397e44adfd97eb5a840b94470d1633d70a9c892397d907a3e3099e8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das Europäische Abkommen vom 22. Juni 1960 zum Schutz von Fernsehsendungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

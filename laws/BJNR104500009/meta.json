@@ -4,9 +4,9 @@
   "bjnr": "BJNR104500009",
   "eli": null,
   "gii_slug": "ordeng_5bek_2009",
-  "ingested_at": "2026-04-18T20:37:57Z",
   "jurabk": "OrdenG§5Bek 2009",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "07e6187e8bf26bab946da2d2fe9e66e700874428d22139f8741bf318af50489f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung des Bundespräsidenten über die Erteilung von Annahme- und Tragegenehmigungen für bestimmte Orden und Ehrenzeichen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR037600008",
   "eli": null,
   "gii_slug": "zirkregv",
-  "ingested_at": "2026-04-18T20:43:14Z",
   "jurabk": "ZirkRegV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "c2a7f8416f111926abae3719f7d8d0994947aa8fcd568f50d9f894b99dafaff7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Registrierung von Erlaubnissen zur Zurschaustellung von Tieren an wechselnden Orten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

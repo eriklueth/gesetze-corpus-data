@@ -4,9 +4,11 @@
   "bjnr": "BJNR015410021",
   "eli": null,
   "gii_slug": "rent_g",
-  "ingested_at": "2026-04-18T20:38:56Z",
   "jurabk": "RentÜG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "361ee31e09333930d62ab47d789f31daf37c8f64d6b4390e746595d25612f4c5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Entwicklung und Einführung einer Digitalen Rentenübersicht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

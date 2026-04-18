@@ -4,9 +4,9 @@
   "bjnr": "BJNR505300960",
   "eli": null,
   "gii_slug": "bvwa_bzustano",
-  "ingested_at": "2026-04-18T20:31:13Z",
   "jurabk": "BVwAÜbZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4f606ca6017b5e7efef2cef5d61535f4b3efef086d53991dc08f12241affe31c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Wahrnehmung von Aufgaben durch das Bundesverwaltungsamt bei der Übernahme von Deutschen und Volksdeutschen in das Bundesgebiet",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

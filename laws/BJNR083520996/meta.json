@@ -4,9 +4,11 @@
   "bjnr": "BJNR083520996",
   "eli": null,
   "gii_slug": "abzusforstabkpolg",
-  "ingested_at": "2026-04-18T20:28:25Z",
   "jurabk": "ABZusForstAbkPOLG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "6a8f654b498c581aa6e7fb409b85206cb1856df5fbd2576215f4853dfbd78981"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß sowie über den Bau und den Umbau einer Grenzbrücke im Raum Forst und Erlenholz (Olszyna)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

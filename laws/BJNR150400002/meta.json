@@ -4,9 +4,12 @@
   "bjnr": "BJNR150400002",
   "eli": null,
   "gii_slug": "findagkostv",
-  "ingested_at": "2026-04-18T20:33:08Z",
   "jurabk": "FinDAGKostV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "c1cf2164fb438b1cdd83937c5ec12598b553239f7f05ef121801bb87e66e4ef7"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

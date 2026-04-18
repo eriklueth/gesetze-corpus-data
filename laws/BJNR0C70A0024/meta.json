@@ -4,9 +4,11 @@
   "bjnr": "BJNR0C70A0024",
   "eli": null,
   "gii_slug": "bmvgsegzustano",
-  "ingested_at": "2026-04-18T20:30:31Z",
   "jurabk": "BMVgSEGZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "a5e131965bd98279eb489b9605876ded836639b6ee9c1aab30547b00116f31d9"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten auf dem Gebiet der Soldatenentschädigung im Geschäftsbereich des Bundesministeriums der Verteidigung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR06A0B0023",
   "eli": null,
   "gii_slug": "eesdg",
-  "ingested_at": "2026-04-18T20:31:58Z",
   "jurabk": "EESDG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "a96387bc81f36307be35206c3d2c313327854e9cc2b4effb3dbd4927d3702f4c"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Durchführung des Einreise-/Ausreisesystems nach der Verordnung (EU) 2017/2226",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

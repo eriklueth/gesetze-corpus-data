@@ -4,9 +4,11 @@
   "bjnr": "BJNR123800012",
   "eli": null,
   "gii_slug": "bdgpnedv",
-  "ingested_at": "2026-04-18T20:29:36Z",
   "jurabk": "BDGPNEDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "3a22b47e5d31ba155fa70aca9d4d7ae910764d53d49ebf9e5b95f6520b99090d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Bundesdisziplinargesetzes bei der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost und der Museumsstiftung Post und Telekommunikation",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR152000005",
   "eli": null,
   "gii_slug": "wpanrv",
-  "ingested_at": "2026-04-18T20:42:31Z",
   "jurabk": "WPAnrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "6b9c49d59df504b9ecb9c307c9c3761ab7ffc0105d11376c9f9446c7540a7f2c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Voraussetzungen der Anerkennung von Studiengängen nach § 8a der Wirtschaftsprüferordnung und über die Anrechnung von Prüfungsleistungen aus Studiengängen nach § 13b der Wirtschaftsprüferordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

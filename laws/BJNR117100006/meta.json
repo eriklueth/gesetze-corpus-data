@@ -4,9 +4,11 @@
   "bjnr": "BJNR117100006",
   "eli": null,
   "gii_slug": "sichkvv",
-  "ingested_at": "2026-04-18T20:40:00Z",
   "jurabk": "SichKVV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "5f101293b2f351a6eb311afdca28cc1439b8d3f9927349b75308ce1561dcd79f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Übertragung von Aufgaben und Befugnissen eines Sicherungsfonds für die Krankenversicherung an die Medicator AG",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

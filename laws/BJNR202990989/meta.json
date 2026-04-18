@@ -4,9 +4,9 @@
   "bjnr": "BJNR202990989",
   "eli": null,
   "gii_slug": "kaentwbk_bk",
-  "ingested_at": "2026-04-18T20:35:10Z",
   "jurabk": "KaEntwBkÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "352f8fb28625e6ba4a5d198471532502350d727fa23f5484c669b820e57be75c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen zur Errichtung der Karibischen Entwicklungsbank",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

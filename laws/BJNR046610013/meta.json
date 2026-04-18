@@ -4,9 +4,12 @@
   "bjnr": "BJNR046610013",
   "eli": null,
   "gii_slug": "ggkostv_2013",
-  "ingested_at": "2026-04-18T20:33:56Z",
   "jurabk": "GGKostV 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "89f5060481ba234e117fc3d02e22c92b6eb8b2e30e42169f845d717a078ac4c9"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Kostenverordnung für Maßnahmen bei der Beförderung gefährlicher Güter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

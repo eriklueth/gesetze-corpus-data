@@ -4,9 +4,11 @@
   "bjnr": "BJNR1100A0025",
   "eli": null,
   "gii_slug": "m_nz20eurobek_2025-11-06_1",
-  "ingested_at": "2026-04-18T20:37:14Z",
   "jurabk": "Münz20EuroBek 2025-11-06/1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "4ef0780995cf4c123d800c02ccaccd0af13d93d50fef0bf627eb95087800f7e8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „Elly Heuss-Knapp – 75 Jahre Müttergenesungswerk“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

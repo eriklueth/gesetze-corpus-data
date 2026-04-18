@@ -4,9 +4,11 @@
   "bjnr": "BJNR006850963",
   "eli": null,
   "gii_slug": "sachvratg",
-  "ingested_at": "2026-04-18T20:39:22Z",
   "jurabk": "SachvRatG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "62ddbe6ea9835cd250a018b63df49e7d5252ab5f41449c17f7de6d1fb17f22d9"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR034730974",
   "eli": null,
   "gii_slug": "verstromg_3",
-  "ingested_at": "2026-04-18T20:41:54Z",
   "jurabk": "VerstromG 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "f6722aea675857cf99ce0094a2715c0782b89bace18a84829848aa02e59cc165"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Gesetz über die weitere Sicherung des Einsatzes von Gemeinschaftskohle in der Elektrizitätswirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

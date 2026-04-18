@@ -4,9 +4,12 @@
   "bjnr": "BJNR151400993",
   "eli": null,
   "gii_slug": "gr_ndstvtr_mv_nd",
-  "ingested_at": "2026-04-18T20:34:13Z",
   "jurabk": "GrÄndStVtr MV/ND",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "article": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "194b8a48a3f10a517fb0060d7daccb14bfadec48ab0c823b362631149485ce21"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Staatsvertrag zwischen den Ländern Mecklenburg-Vorpommern und Niedersachsen über die Umgliederung der Gemeinden im ehemaligen Amt Neuhaus und anderer Gebiete nach Niedersachsen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR201600925",
   "eli": null,
   "gii_slug": "wzbolbek",
-  "ingested_at": "2026-04-18T20:42:46Z",
   "jurabk": "WZBOLBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "598a6ad848567bd70ef85619ecec06bdd78fe5f9a2c77cb191833e1bf76e3596"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung betreffend den Markenschutz im Verhältnis zwischen dem Deutschen Reiche und Bolivien",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR022940987",
   "eli": null,
   "gii_slug": "halblschg",
-  "ingested_at": "2026-04-18T20:34:22Z",
   "jurabk": "HalblSchG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "498b353664d70a53955a561acd4b0730c043b579553d234d06975ef3c065ff36"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über den Schutz der Topographien von mikroelektronischen Halbleitererzeugnissen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

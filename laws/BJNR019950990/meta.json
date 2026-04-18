@@ -4,9 +4,11 @@
   "bjnr": "BJNR019950990",
   "eli": null,
   "gii_slug": "bakredwwsubef_v",
-  "ingested_at": "2026-04-18T20:29:21Z",
   "jurabk": "BAKredWWSUBefÜV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "a0f6f01ee7b9b0b7b06b01f4d9fea9baee1829b12a9f399d9f42c381c80de4b9"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Übertragung der Befugnis zum Erlaß von Rechtsverordnungen auf das Bundesaufsichtsamt für das Kreditwesen nach dem Gesetz zu dem Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

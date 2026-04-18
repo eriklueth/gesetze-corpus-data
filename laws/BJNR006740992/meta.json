@@ -4,9 +4,11 @@
   "bjnr": "BJNR006740992",
   "eli": null,
   "gii_slug": "strukthigaufhdefasg",
-  "ingested_at": "2026-04-18T20:40:49Z",
   "jurabk": "StruktHiGAufhDEFASG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "d4397cf721ace2be1d6ed66a340e8837b47c89d663b7b77ef34c16434f69e54d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Aufhebung des Strukturhilfegesetzes und zur Aufstockung des Fonds \"Deutsche Einheit\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

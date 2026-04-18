@@ -4,9 +4,12 @@
   "bjnr": "BJNR173910015",
   "eli": null,
   "gii_slug": "elektrog_2015",
-  "ingested_at": "2026-04-18T20:32:10Z",
   "jurabk": "ElektroG 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 8,
+    "paragraph": 52
+  },
   "source_hashes": {
     "source_xml_sha256": "28c1fdbe86d795b0c9d08908ee36a91d834cb14f7bc8cb9ce698f08884bb2927"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Elektro- und Elektronikgeräten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

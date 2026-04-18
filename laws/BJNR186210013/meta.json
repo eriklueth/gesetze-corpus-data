@@ -4,9 +4,11 @@
   "bjnr": "BJNR186210013",
   "eli": null,
   "gii_slug": "fkag",
-  "ingested_at": "2026-04-18T20:33:12Z",
   "jurabk": "FKAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 33
+  },
   "source_hashes": {
     "source_xml_sha256": "a4217121c89193be15d5fef9456c2caaf88797a2eff12c6e9999218dcea89de4"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur zusätzlichen Aufsicht über beaufsichtigte Unternehmen eines Finanzkonglomerats",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

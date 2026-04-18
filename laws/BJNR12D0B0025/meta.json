@@ -4,9 +4,12 @@
   "bjnr": "BJNR12D0B0025",
   "eli": null,
   "gii_slug": "bsig_2025",
-  "ingested_at": "2026-04-18T20:30:53Z",
   "jurabk": "BSIG 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 66
+  },
   "source_hashes": {
     "source_xml_sha256": "9daf9574bfd6f8f0bec491799011a20d94d6529e6bc805b9a32a50c607ec6913"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über das Bundesamt für Sicherheit in der Informationstechnik und über die Sicherheit in der Informationstechnik von Einrichtungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

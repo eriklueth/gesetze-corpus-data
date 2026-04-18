@@ -4,9 +4,9 @@
   "bjnr": "BJNR162000014",
   "eli": null,
   "gii_slug": "rbbek_2015",
-  "ingested_at": "2026-04-18T20:38:46Z",
   "jurabk": "RBBek 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c4c2e897f2462e8c6f76184dbbb39fa7e17559b650243586c132c3611c3c2142"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Höhe der Regelbedarfe nach § 20 Absatz 5 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Januar 2015",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

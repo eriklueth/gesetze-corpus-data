@@ -4,9 +4,9 @@
   "bjnr": "BJNR016830980",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1980-08",
-  "ingested_at": "2026-04-18T20:37:24Z",
   "jurabk": "Münz5DMBek 1980-08",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7781c5fcc9cc3050ec8456721a5669df145d5be67338e82401eb9c7b6b555fc0"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Kölner Dom)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

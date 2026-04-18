@@ -4,9 +4,11 @@
   "bjnr": "DDNR003450988",
   "eli": null,
   "gii_slug": "schaevzg",
-  "ingested_at": "2026-04-18T20:39:27Z",
   "jurabk": "SchaEVZG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "503ad4f2dca18525fd2a377b7783ab497b035352bcbb576d4b4cc9469b035b4b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über eine staatliche Vorauszahlung an durch Straftaten geschädigte Bürger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

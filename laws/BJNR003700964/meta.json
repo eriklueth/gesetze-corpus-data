@@ -4,9 +4,12 @@
   "bjnr": "BJNR003700964",
   "eli": null,
   "gii_slug": "luftvzo",
-  "ingested_at": "2026-04-18T20:36:21Z",
   "jurabk": "LuftVZO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 96
+  },
   "source_hashes": {
     "source_xml_sha256": "59a274d86c7ccbebaa8a97ff0f4891c864b21bf2ce75c11f39d98392ee603d6d"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Luftverkehrs-Zulassungs-Ordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

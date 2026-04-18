@@ -4,9 +4,11 @@
   "bjnr": "BJNR263200994",
   "eli": null,
   "gii_slug": "ns-ventschg",
-  "ingested_at": "2026-04-18T20:37:43Z",
   "jurabk": "NS-VEntschG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "8866e0b7eee67e27cc80c3fc435df7fb58fabb280ed1bface5bd7fb0a040e4ca"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "NS-Verfolgtenentschädigungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

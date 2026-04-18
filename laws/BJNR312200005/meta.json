@@ -4,9 +4,11 @@
   "bjnr": "BJNR312200005",
   "eli": null,
   "gii_slug": "uhrmmstrv_2005",
-  "ingested_at": "2026-04-18T20:41:28Z",
   "jurabk": "UhrmMstrV 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "360f0c55b91c9462d920dbcf325ec5b7118afcc0a9446ee9eceb11387427d9ee"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Uhrmacher-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

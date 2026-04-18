@@ -4,9 +4,12 @@
   "bjnr": "BJNR237810993",
   "eli": null,
   "gii_slug": "bezng",
-  "ingested_at": "2026-04-18T20:29:57Z",
   "jurabk": "BEZNG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 30
+  },
   "source_hashes": {
     "source_xml_sha256": "8035941b5220675fab59edd9e3530601e2d40de7b856d702a1fa52c645659671"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Zusammenführung und Neugliederung der Bundeseisenbahnen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

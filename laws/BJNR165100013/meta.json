@@ -4,9 +4,11 @@
   "bjnr": "BJNR165100013",
   "eli": null,
   "gii_slug": "alkstg",
-  "ingested_at": "2026-04-18T20:28:41Z",
   "jurabk": "AlkStG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 43
+  },
   "source_hashes": {
     "source_xml_sha256": "bc3d039740b4d2f6aa1ae733707b7c3800a27fda4fade8992d4169de79dc9377"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Alkoholsteuergesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

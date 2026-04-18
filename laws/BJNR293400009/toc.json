@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR293400009",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Zulassungsvoraussetzungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Gliederung der Prüfung",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Durchführung der Prüfung im Prüfungsteil „Lernprozesse und Lernbegleitung“",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Durchführung der Prüfung im Prüfungsteil „Planungsprozesse in der beruflichen Bildung“",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Durchführung der Prüfung im Prüfungsteil „Berufspädagogisches Handeln“",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Inhalte der Prüfung im Prüfungsteil „Lernprozesse und Lernbegleitung“",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Inhalte der Prüfung im Prüfungsteil „Planungsprozesse in der beruflichen Bildung“",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Inhalte der Prüfung im Prüfungsteil „Berufspädagogisches Handeln“",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Befreiung von einzelnen Prüfungsbestandteilen",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Bewerten der Prüfungsleistungen",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Bestehen der Prüfung, Gesamtnote",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Zeugnisse",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Wiederholen der Prüfung",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Übergangsregelung",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Inkrafttreten",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu den §§ 11 und 12)",
@@ -122,6 +139,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 13)",

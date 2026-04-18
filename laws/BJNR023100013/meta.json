@@ -4,9 +4,12 @@
   "bjnr": "BJNR023100013",
   "eli": null,
   "gii_slug": "persvmobfachwprv",
-  "ingested_at": "2026-04-18T20:38:14Z",
   "jurabk": "PersVMobFachwPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "1a57b8b041c03904bfef76c3a61ce8b97af3f9efeb195a4fba9fe16f4025f519"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Personenverkehr und Mobilität und Geprüfte Fachwirtin für Personenverkehr und Mobilität",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

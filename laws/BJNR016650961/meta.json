@@ -4,9 +4,11 @@
   "bjnr": "BJNR016650961",
   "eli": null,
   "gii_slug": "drig",
-  "ingested_at": "2026-04-18T20:31:50Z",
   "jurabk": "DRiG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 114
+  },
   "source_hashes": {
     "source_xml_sha256": "fdf72cb5ba0bc21395e063fe5a4ebef41a8616e8079781bba3412f21dc3a5264"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Deutsches Richtergesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

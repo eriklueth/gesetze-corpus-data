@@ -4,9 +4,11 @@
   "bjnr": "BJNR198700015",
   "eli": null,
   "gii_slug": "schomstrv_2016",
-  "ingested_at": "2026-04-18T20:39:33Z",
   "jurabk": "SchoMstrV 2016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "c7b21bc37c7285a098d30b81717fc2a245d07b8a22434f8352a5a6ae73672b61"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Schornsteinfeger-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

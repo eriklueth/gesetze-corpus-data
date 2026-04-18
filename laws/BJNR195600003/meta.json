@@ -4,9 +4,9 @@
   "bjnr": "BJNR195600003",
   "eli": null,
   "gii_slug": "bmingsbrano",
-  "ingested_at": "2026-04-18T20:30:23Z",
   "jurabk": "BMinGSBRAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c5c637af57157e0d3747b2063d2e91a5b359b8997281357f1136d54bbc4a9b76"
   },
@@ -26,5 +26,5 @@
     }
   ],
   "title": "Anordnung zur Übertragung beamtenrechtlicher Befugnisse auf die Einrichtungen im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

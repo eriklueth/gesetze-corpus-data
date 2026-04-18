@@ -4,9 +4,12 @@
   "bjnr": "BJNR05D0C0025",
   "eli": null,
   "gii_slug": "edlstfausbv_2025",
-  "ingested_at": "2026-04-18T20:31:56Z",
   "jurabk": "EdlStFAusbV 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "1d0aeae79221833d13e44eca3cf73b5499ae208492472e0e5d9f13cf2aacf86e"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Edelsteinfasser und zur Edelsteinfasserin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

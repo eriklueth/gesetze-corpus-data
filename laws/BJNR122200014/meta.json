@@ -4,9 +4,11 @@
   "bjnr": "BJNR122200014",
   "eli": null,
   "gii_slug": "fatca-usa-umsv",
-  "ingested_at": "2026-04-18T20:33:02Z",
   "jurabk": "FATCA-USA-UmsV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "6a216cc0d9afdb3ce64a4b015f6bef9cb8a97adc22e048365bca62d853437b42"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Umsetzung der Verpflichtungen aus dem Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten und hinsichtlich der als Gesetz über die Steuerehrlichkeit bezüglich Auslandskonten bekannten US-amerikanischen Informations- und Meldebestimmungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

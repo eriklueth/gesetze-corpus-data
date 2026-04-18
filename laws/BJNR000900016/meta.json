@@ -4,9 +4,12 @@
   "bjnr": "BJNR000900016",
   "eli": null,
   "gii_slug": "entschfinv",
-  "ingested_at": "2026-04-18T20:32:19Z",
   "jurabk": "EntschFinV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 34
+  },
   "source_hashes": {
     "source_xml_sha256": "b0320d21cc543e2b6f992979a921be2d5a69020d351986211a7c1c6bae026257"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Finanzierung der Entschädigungseinrichtung deutscher Banken GmbH",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

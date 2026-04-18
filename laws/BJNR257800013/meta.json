@@ -4,9 +4,12 @@
   "bjnr": "BJNR257800013",
   "eli": null,
   "gii_slug": "go-medasv",
-  "ingested_at": "2026-04-18T20:34:05Z",
   "jurabk": "GO-MEDASV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "58632b045e328c5b1d563c3bd95bec9a924361a6759e72dcff623d3537f99747"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Geschäftsordnung des Ausschusses für medizinische Ausstattung in der Seeschifffahrt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

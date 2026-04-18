@@ -4,9 +4,12 @@
   "bjnr": "BJNR032600007",
   "eli": null,
   "gii_slug": "softwareentwausbv",
-  "ingested_at": "2026-04-18T20:40:02Z",
   "jurabk": "SoftwareentwAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "c565c11221f32da33a264fbaf42df2b0ed35aebf8972e14043b68fe9d5c03e2f"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

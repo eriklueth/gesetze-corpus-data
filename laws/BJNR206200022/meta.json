@@ -4,9 +4,11 @@
   "bjnr": "BJNR206200022",
   "eli": null,
   "gii_slug": "luftvstabsenkv_2023",
-  "ingested_at": "2026-04-18T20:36:21Z",
   "jurabk": "LuftVStAbsenkV 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "97b1b32b57320dda37ee0b883e195dd59cd57a7a670b8df6d2cff433ebbf23d5"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Absenkung der Steuersätze im Jahr 2023 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

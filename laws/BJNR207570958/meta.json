@@ -4,9 +4,9 @@
   "bjnr": "BJNR207570958",
   "eli": null,
   "gii_slug": "sozsichabkergvbg_fra_2",
-  "ingested_at": "2026-04-18T20:40:24Z",
   "jurabk": "SozSichAbkErgVbg FRA 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "0f2f26edf01f85506edd677d37f5ab7ac6f4a0d212a4b90f0da6a619f49edef0"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Vereinbarung zur Ergänzung des Allgemeinen Abkommens zwischen der Bundesrepublik Deutschland und Frankreich über die Soziale Sicherheit vom 10. Juli 1950 sowie der Ersten, Zweiten und Vierten Zusatzvereinbarung zu diesem Abkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

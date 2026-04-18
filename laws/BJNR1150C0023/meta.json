@@ -4,9 +4,12 @@
   "bjnr": "BJNR1150C0023",
   "eli": null,
   "gii_slug": "pflbeschv",
-  "ingested_at": "2026-04-18T20:38:17Z",
   "jurabk": "PflBeschV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "1d3d38fa359192370d96226d1ea90f827d065424a89b82cc493810c745a90d6f"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Pflanzenbeschauverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

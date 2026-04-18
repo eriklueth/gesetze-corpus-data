@@ -4,9 +4,9 @@
   "bjnr": "BJNR207900014",
   "eli": null,
   "gii_slug": "wgemrefkivtr",
-  "ingested_at": "2026-04-18T20:42:25Z",
   "jurabk": "WGemRefKiVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ffa1df3f29f6d2a470cd76e7939f5f310843311b12adf05451f922ce880e7607"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundesminister des Innern, und der Weltgemeinschaft Reformierter Kirchen – Körperschaft des öffentlichen Rechts – vertreten durch den Präsidenten, den Generalsekretär und den Generalschatzmeister",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

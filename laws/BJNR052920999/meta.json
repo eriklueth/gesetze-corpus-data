@@ -4,9 +4,9 @@
   "bjnr": "BJNR052920999",
   "eli": null,
   "gii_slug": "auslstreitkrniederschr",
-  "ingested_at": "2026-04-18T20:29:10Z",
   "jurabk": "AuslStreitkrNiederschr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "17d2d47c4b19e56171dae3ece637239d30218765869a3477cd1b7ce6bcaae5d4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vereinbarte Niederschrift der Verhandlungen zwischen der Regierung der Bundesrepublik Deutschland und den Regierungen des Königreichs Dänemark, der Griechischen Republik, der Italienischen Republik, des Großherzogtums Luxemburg, des Königreichs Norwegen, der Portugiesischen Republik, des Königreichs Spanien und der Republik Türkei über die Rechtsstellung ihrer Streitkräfte bei vorübergehenden Aufenthalten in der Bundesrepublik Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

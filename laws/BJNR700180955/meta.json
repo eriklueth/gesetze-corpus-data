@@ -4,9 +4,9 @@
   "bjnr": "BJNR700180955",
   "eli": null,
   "gii_slug": "ausglazustdb",
-  "ingested_at": "2026-04-18T20:43:19Z",
   "jurabk": "AusglAZustDB",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7eb3cd47856a1ade512c780b866b14d8dfdd0005e0da7691a923dc3161891dce"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Durchführungsbestimmungen zu den Vorschriften über die Zuständigkeit der Ausgleichsämter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

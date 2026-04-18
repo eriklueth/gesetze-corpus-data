@@ -4,9 +4,11 @@
   "bjnr": "BJNR0430B0023",
   "eli": null,
   "gii_slug": "dmmv_2023",
-  "ingested_at": "2026-04-18T20:31:46Z",
   "jurabk": "DmMV 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "d31a9794c807c0fa896ed40ae7e553b8af2d4a49c6818a56ead707a8562c746e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Festlegung der nicht geringen Menge von Dopingmitteln",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

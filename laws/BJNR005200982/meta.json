@@ -4,9 +4,12 @@
   "bjnr": "BJNR005200982",
   "eli": null,
   "gii_slug": "kraftstofflbv",
-  "ingested_at": "2026-04-18T20:35:34Z",
   "jurabk": "KraftstoffLBV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 22
+  },
   "source_hashes": {
     "source_xml_sha256": "54cf02d3ad6da84c0cccae3cbbeb131bbc52c0136d6a6252c60a9184471424fc"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Lieferbeschränkungen für Kraftstoff in einer Versorgungskrise",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

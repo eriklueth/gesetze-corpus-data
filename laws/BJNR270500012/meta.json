@@ -4,9 +4,12 @@
   "bjnr": "BJNR270500012",
   "eli": null,
   "gii_slug": "bargeldpr_fv",
-  "ingested_at": "2026-04-18T20:29:25Z",
   "jurabk": "BargeldPrüfV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "f087a73506a5a2555f1a23d227608ccd9e2acb4ba264e336bb12beff7fbe2221"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Prüfung von Bargeld",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

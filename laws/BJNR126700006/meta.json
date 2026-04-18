@@ -4,9 +4,11 @@
   "bjnr": "BJNR126700006",
   "eli": null,
   "gii_slug": "klempnermstrv",
-  "ingested_at": "2026-04-18T20:35:22Z",
   "jurabk": "KlempnerMstrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "f4c6e0bdfeaf48621f0ca5993ee3adcd9a0e9ff1074bf10e530fff4dee2c2ef8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Klempner-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

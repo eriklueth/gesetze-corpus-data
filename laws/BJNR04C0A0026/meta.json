@@ -4,9 +4,11 @@
   "bjnr": "BJNR04C0A0026",
   "eli": null,
   "gii_slug": "tankwartausbberaufhv",
-  "ingested_at": "2026-04-18T20:41:01Z",
   "jurabk": "TankwartAusbBerAufhV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "685b930e2ec1d03266c57fcf4eb7d798e8c34254fb3fdc4630996bb0a1af080d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Aufhebung der Anerkennung des Ausbildungsberufes Tankwart",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

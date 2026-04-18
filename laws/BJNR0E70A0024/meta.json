@@ -4,9 +4,9 @@
   "bjnr": "BJNR0E70A0024",
   "eli": null,
   "gii_slug": "luftvodv_249_2024",
-  "ingested_at": "2026-04-18T20:36:17Z",
   "jurabk": "LuftVODV 249 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a43377955df485b47b4b731a7dbaf4c53403ec75c8c23a119a77af3d7dedba17"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Zweihundertneunundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Kassel-Calden)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR034900022",
   "eli": null,
   "gii_slug": "gastroausbv",
-  "ingested_at": "2026-04-18T20:33:36Z",
   "jurabk": "GastroAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 49
+  },
   "source_hashes": {
     "source_xml_sha256": "6e1f707ec875d2bc578395ee44cf162cf2668abf99264fe24a6f96d45e8c03d6"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildungen zur Fachkraft für Gastronomie, zum Fachmann für Restaurants und Veranstaltungsgastronomie und zur Fachfrau für Restaurants und Veranstaltungsgastronomie sowie zum Fachmann für Systemgastronomie und zur Fachfrau für Systemgastronomie",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

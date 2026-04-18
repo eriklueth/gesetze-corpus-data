@@ -4,9 +4,9 @@
   "bjnr": "BJNR006580989",
   "eli": null,
   "gii_slug": "m_nz10dmbek_1989",
-  "ingested_at": "2026-04-18T20:36:49Z",
   "jurabk": "Münz10DMBek 1989",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3fd0b517affa187ae32be2eff341b98045aa373ce04a2d191741e57e1083b993"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 40 Jahre Bundesrepublik Deutschland)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

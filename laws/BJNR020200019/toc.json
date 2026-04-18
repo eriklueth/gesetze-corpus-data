@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR020200019",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 2 Masterstudiengang „Intelligence and Security Studies“"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 3 Berufspraktische Einführung"
@@ -142,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 3 Berufspraktische Einführung"
@@ -152,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zulassung zum Aufstieg",
         "Abschnitt 4 Schlussvorschrift"

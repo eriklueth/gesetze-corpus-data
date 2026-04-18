@@ -4,9 +4,9 @@
   "bjnr": "BJNR012580984",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1984-09",
-  "ingested_at": "2026-04-18T20:37:24Z",
   "jurabk": "Münz5DMBek 1984-09",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "933c2eba45adfb2afc25a78cccb397ba76be21e26dab6b4e093e6d290462ca08"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Felix Mendelssohn Bartholdy)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

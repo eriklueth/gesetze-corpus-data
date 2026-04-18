@@ -4,9 +4,9 @@
   "bjnr": "BJNR202460983",
   "eli": null,
   "gii_slug": "agr",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AGR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5785d22d8ed2b9790488701322a493f1ffef8219565eae92dda76130f9c23de7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Europäisches Übereinkommen über die Hauptstraßen des internationalen Verkehrs",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

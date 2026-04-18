@@ -4,9 +4,11 @@
   "bjnr": "BJNR246500015",
   "eli": null,
   "gii_slug": "smvergv",
-  "ingested_at": "2026-04-18T20:40:02Z",
   "jurabk": "SMVergV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "de184fa80b28bdadcb717d21d770e88aa1f6244890cb90f858387bc2c9a84098"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung einer Mehrarbeitsvergütung für Soldaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

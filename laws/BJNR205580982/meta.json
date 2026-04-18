@@ -4,9 +4,11 @@
   "bjnr": "BJNR205580982",
   "eli": null,
   "gii_slug": "walf_bkg",
-  "ingested_at": "2026-04-18T20:42:14Z",
   "jurabk": "WalfÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "aee7929ead4c4dbd4584d1de4d969cd3ddf59fa17d46d1ecd3e44a02e3ae5aa7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Internationalen Übereinkommen vom 2. Dezember 1946 zur Regelung des Walfangs",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

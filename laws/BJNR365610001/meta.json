@@ -4,9 +4,12 @@
   "bjnr": "BJNR365610001",
   "eli": null,
   "gii_slug": "patkostg",
-  "ingested_at": "2026-04-18T20:38:08Z",
   "jurabk": "PatKostG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "111ed01e32ce59054a6f9e9c043c86273ae1b4d08adfe88434ac97e5a07f96c1"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

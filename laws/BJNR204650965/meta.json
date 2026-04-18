@@ -4,9 +4,9 @@
   "bjnr": "BJNR204650965",
   "eli": null,
   "gii_slug": "schsichvtr1960g",
-  "ingested_at": "2026-04-18T20:39:34Z",
   "jurabk": "SchSichVtr1960G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f60c2f66ba6c5ac9b1a5328f721bdf3d8f9c2eec9c1ed11b9de2b55a07c0e17e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zum Schiffssicherheitsvertrag vom 17. Juni 1960",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR002930957",
   "eli": null,
   "gii_slug": "arbplschg",
-  "ingested_at": "2026-04-18T20:28:51Z",
   "jurabk": "ArbPlSchG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 22
+  },
   "source_hashes": {
     "source_xml_sha256": "b307124013af58fdfee15b63a38da11f400088b9b85815177210d837203576a4"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über den Schutz des Arbeitsplatzes bei Einberufung zum Wehrdienst",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

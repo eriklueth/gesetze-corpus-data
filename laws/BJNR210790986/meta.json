@@ -4,9 +4,9 @@
   "bjnr": "BJNR210790986",
   "eli": null,
   "gii_slug": "intwarenbez_bk_ndprot",
-  "ingested_at": "2026-04-18T20:34:59Z",
   "jurabk": "IntWarenBezÜbkÄndProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3c72960010fed227131ae619cf9b0c16163e2c67616eacff2c38fb7641e3e2cf"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Änderungsprotokoll zum Internationalen Übereinkommen über das Harmonisierte System zur Bezeichnung und Codierung der Waren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

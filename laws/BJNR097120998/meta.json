@@ -4,9 +4,9 @@
   "bjnr": "BJNR097120998",
   "eli": null,
   "gii_slug": "kgabk_ndabk_nld",
-  "ingested_at": "2026-04-18T20:35:18Z",
   "jurabk": "KGAbkÄndAbk NLD",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "74a03b410e55ec207d1717c44afe86c669aacba25e25e00e9428b42fbf68b292"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zur Änderung des Abkommens vom 8. April 1960 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über niederländische Kriegsgräber in der Bundesrepublik Deutschland (Kriegsgräberabkommen)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

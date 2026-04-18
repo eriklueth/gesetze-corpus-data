@@ -4,9 +4,11 @@
   "bjnr": "BJNR197900015",
   "eli": null,
   "gii_slug": "agrstatv_2015",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AgrStatV 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "7cdfcc125532390a5bf7bcf7b936a72d14a272b38ef57c14e73ae3c955f54e73"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Aussetzung und Ergänzung von Merkmalen sowie zur Einschränkung des Kreises der zu Befragenden nach dem Agrarstatistikgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

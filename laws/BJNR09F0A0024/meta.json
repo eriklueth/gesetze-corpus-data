@@ -4,9 +4,11 @@
   "bjnr": "BJNR09F0A0024",
   "eli": null,
   "gii_slug": "eaav",
-  "ingested_at": "2026-04-18T20:31:54Z",
   "jurabk": "EAAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "d9430f09a693042c4ad515f1600ea4d89d5242593def57a9d5f6cc08cfafc2d3"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über technische Anforderungen an Energieanlagen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

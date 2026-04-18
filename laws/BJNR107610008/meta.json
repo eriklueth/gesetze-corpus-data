@@ -4,9 +4,11 @@
   "bjnr": "BJNR107610008",
   "eli": null,
   "gii_slug": "rwbestg_2008",
-  "ingested_at": "2026-04-18T20:39:13Z",
   "jurabk": "RWBestG 2008",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "e56963ca2d9a9512b9b6bfcca0bb00666286750ebaedef564de850a27cd92ec3"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Bestimmung der aktuellen Rentenwerte ab 1.Juli 2008",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

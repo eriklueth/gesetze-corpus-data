@@ -4,9 +4,9 @@
   "bjnr": "BJNR509500999",
   "eli": null,
   "gii_slug": "luftvodv_192",
-  "ingested_at": "2026-04-18T20:36:10Z",
   "jurabk": "LuftVODV 192",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ab2a5fa4dc3d05245b3687421fb109211affff4fb414c42d912e63a7fb9df2dc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Hundertzweiundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen Bautzen)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

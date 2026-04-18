@@ -4,9 +4,11 @@
   "bjnr": "BJNR344500004",
   "eli": null,
   "gii_slug": "zahnfinanpg",
-  "ingested_at": "2026-04-18T20:43:08Z",
   "jurabk": "ZahnFinAnpG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "2dedaae5297162295ec4085bac00a63682cece002e1fd2e57cf7077d28d4fd99"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Anpassung der Finanzierung von Zahnersatz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

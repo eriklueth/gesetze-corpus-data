@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR137310016",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Zweck",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Lage, Grenzen und Zuordnung der Oberflächenwasserkörper; typspezifische Referenzbedingungen",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Zusammenstellung der Gewässerbelastungen und Beurteilung ihrer Auswirkungen; Bestandsaufnahme der Emissionen, Einleitungen und Verluste",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Einstufung des ökologischen Zustands und des ökologischen Potenzials",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Einstufung des chemischen Zustands",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Anforderungen bei überarbeiteten Umweltqualitätsnormen und bei Umweltqualitätsnormen für neue Stoffe",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Oberflächenwasserkörper, die der Trinkwassergewinnung dienen",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Normen für die Überwachung der Qualitätskomponenten; Anforderungen an die Beurteilung der Überwachungsergebnisse, an Analysenmethoden und an Laboratorien",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Überwachung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands; Überwachungsnetz",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Überwachung von Stoffen der Beobachtungsliste",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Darstellung des ökologischen Zustands, des ökologischen Potenzials und des chemischen Zustands",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Zusätzliche Inhalte der Bewirtschaftungspläne; elektronisch zugängliches Portal",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Bewirtschaftungsziele für Stickstoff",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Ermittlung langfristiger Trends",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Wirtschaftliche Analyse der Wassernutzungen",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 3 Satz 1, § 5 Absatz 2 Satz 1)",
@@ -122,6 +139,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 4 Absatz 1)",
@@ -129,6 +147,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 5 Absatz 1 Satz 1, Absatz 2 Satz 1, Absatz 4 und Absatz 5 Satz 1)",
@@ -136,6 +155,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 21,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 5 Absatz 1 Satz 2, Absatz 2 Satz 2, § 10 Absatz 2 Satz 1)",
@@ -143,6 +163,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 5 Absatz 3)",
@@ -150,6 +171,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "(zu § 2 Nummer 6, § 5 Absatz 5 Satz 1 und 2, § 10 Absatz 2 Satz 1)",
@@ -157,6 +179,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0007.md",
       "heading": "(zu § 5 Absatz 4 Satz 2)",
@@ -164,6 +187,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "annexes/0008.md",
       "heading": "(zu § 2 Nummer 4 und 5, § 6 Satz 1,",
@@ -171,6 +195,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0009.md",
       "heading": "(zu § 9 Absatz 2 und 3 Satz 2, § 11 Absatz 1 Satz 3,",
@@ -178,6 +203,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0010.md",
       "heading": "(zu § 10 Absatz 1 Satz 1 und Absatz 2 Satz 1,",
@@ -185,6 +211,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "annexes/0011.md",
       "heading": "(zu § 11 Absatz 1 Satz 5)",
@@ -192,6 +219,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0012.md",
       "heading": "(zu § 8 Absatz 2,",
@@ -199,6 +227,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0013.md",
       "heading": "(zu § 15 Absatz 1 Satz 1 und Absatz 2 Satz 2)",

@@ -4,9 +4,9 @@
   "bjnr": "BJNR265720999",
   "eli": null,
   "gii_slug": "bihdurchrvbg",
-  "ingested_at": "2026-04-18T20:30:04Z",
   "jurabk": "BIHDurchrVbg",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "709a0be757ca964164194917bed1d2ac96a407565e4f410d6e6ebb2ef4db1e0c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vereinbarung zwischen dem Innenministerium der Bundesrepublik Deutschland, dem Innenministerium der Republik Kroatien, der Regierung der Republik Österreich, dem Schweizerischen Bundesrat und der Regierung der Republik Slowenien über die Gestattung der Durchreise und Durchbeförderung bosnisch-herzegowinischer Kriegsflüchtlinge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

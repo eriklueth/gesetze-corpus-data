@@ -4,9 +4,9 @@
   "bjnr": "BJNR259260998",
   "eli": null,
   "gii_slug": "postpak_bkvollzoschlprot",
-  "ingested_at": "2026-04-18T20:38:29Z",
   "jurabk": "PostPakÜbkVollzOSchlProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "dd12b364281ad9630aa63d1c9e37eddf59fd7e222836143a3928e1452114258f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Schlußprotokoll zur Vollzugsordnung zum Postpaketübereinkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

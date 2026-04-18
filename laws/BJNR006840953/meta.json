@@ -4,9 +4,12 @@
   "bjnr": "BJNR006840953",
   "eli": null,
   "gii_slug": "versammlg",
-  "ingested_at": "2026-04-18T20:41:50Z",
   "jurabk": "VersammlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 37
+  },
   "source_hashes": {
     "source_xml_sha256": "07daa22faf336b29a138ff06e23c821bd07c4b3d224988e6e0a013736468ab37"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über Versammlungen und Aufzüge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

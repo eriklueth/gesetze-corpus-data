@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR400810013",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Zulassung zur Prüfung"
@@ -40,6 +44,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Zulassung zur Prüfung"
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Durchführung der Prüfung"
@@ -60,6 +66,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Durchführung der Prüfung"
@@ -70,6 +77,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Durchführung der Prüfung"
@@ -80,6 +88,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Durchführung der Prüfung"
@@ -90,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Durchführung der Prüfung"
@@ -100,6 +110,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Durchführung der Prüfung"
@@ -110,6 +121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Durchführung der Prüfung"
@@ -120,6 +132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Durchführung der Prüfung"
@@ -130,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Durchführung der Prüfung"
@@ -140,6 +154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Prüfungsleistungen: Bewertung und Anerkennung; Prüfungsbescheinigung; Nichtbestehen der Prüfung"
@@ -150,6 +165,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Prüfungsleistungen: Bewertung und Anerkennung; Prüfungsbescheinigung; Nichtbestehen der Prüfung"
@@ -160,6 +176,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Prüfungsleistungen: Bewertung und Anerkennung; Prüfungsbescheinigung; Nichtbestehen der Prüfung"
@@ -170,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Prüfungsleistungen: Bewertung und Anerkennung; Prüfungsbescheinigung; Nichtbestehen der Prüfung"
@@ -180,6 +198,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Prüfungsleistungen: Bewertung und Anerkennung; Prüfungsbescheinigung; Nichtbestehen der Prüfung"
@@ -190,6 +209,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Wiederholungs- und erneute Prüfung; Einsicht in die Prüfungsunterlagen; Aufbewahrung; Informationsrechte der zuständigen Behörde"
@@ -200,6 +220,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Wiederholungs- und erneute Prüfung; Einsicht in die Prüfungsunterlagen; Aufbewahrung; Informationsrechte der zuständigen Behörde"
@@ -210,6 +231,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Wiederholungs- und erneute Prüfung; Einsicht in die Prüfungsunterlagen; Aufbewahrung; Informationsrechte der zuständigen Behörde"
@@ -220,6 +242,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Wiederholungs- und erneute Prüfung; Einsicht in die Prüfungsunterlagen; Aufbewahrung; Informationsrechte der zuständigen Behörde"
@@ -230,6 +253,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Wiederholungs- und erneute Prüfung; Einsicht in die Prüfungsunterlagen; Aufbewahrung; Informationsrechte der zuständigen Behörde"
@@ -240,6 +264,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Wiederholungs- und erneute Prüfung; Einsicht in die Prüfungsunterlagen; Aufbewahrung; Informationsrechte der zuständigen Behörde"
@@ -250,6 +275,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Wiederholungs- und erneute Prüfung; Einsicht in die Prüfungsunterlagen; Aufbewahrung; Informationsrechte der zuständigen Behörde"

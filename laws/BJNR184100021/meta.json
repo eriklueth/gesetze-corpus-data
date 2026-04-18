@@ -4,9 +4,12 @@
   "bjnr": "BJNR184100021",
   "eli": null,
   "gii_slug": "eag-behandv",
-  "ingested_at": "2026-04-18T20:31:55Z",
   "jurabk": "EAG-BehandV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "9afd4641e0f553ee78c7a40756a042904f711b7b3793e06f539df6f6534dcb7c"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Anforderungen an die Behandlung von Elektro- und Elektronik-Altgeräten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR196410014",
   "eli": null,
   "gii_slug": "eugewschvg",
-  "ingested_at": "2026-04-18T20:32:38Z",
   "jurabk": "EUGewSchVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "36e5d34553375cd610a635ee954fece1abd73a49069b5ec49693922d145cfe91"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zum Europäischen Gewaltschutzverfahren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR009400981",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "Niederländische Prüf- und Gewährzeichen für Eier von freilaufenden Hennen",
@@ -10,6 +11,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "Niederländische Prüf- und Gewährzeichen für Speck",
@@ -17,6 +19,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "Brasilianische Prüf- und Gewährzeichen für Edelmetalle",
@@ -24,6 +27,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "Internationale kriminalpolizeiliche Organisation",
@@ -31,6 +35,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "Internationale Seefunksatelliten-Organisation",
@@ -38,6 +43,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "Weltorganisation für Tourismus",
@@ -45,6 +51,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0007.md",
       "heading": "",

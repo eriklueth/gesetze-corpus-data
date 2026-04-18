@@ -4,9 +4,11 @@
   "bjnr": "BJNR134500011",
   "eli": null,
   "gii_slug": "holzsig",
-  "ingested_at": "2026-04-18T20:34:32Z",
   "jurabk": "HolzSiG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "86f257850752d1844708ab24f3751c36ced986de3008cdd27a8a24f4dec3e062"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz gegen den Handel mit illegal eingeschlagenem Holz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

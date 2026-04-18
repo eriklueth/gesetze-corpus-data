@@ -4,9 +4,12 @@
   "bjnr": "BJNR346700006",
   "eli": null,
   "gii_slug": "betrpr_mdurchfgzuckv",
-  "ingested_at": "2026-04-18T20:29:52Z",
   "jurabk": "BetrPrämDurchfGZuckV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "59742391d5fb821016948b9b9905d65c44d17c629cd1226533ce93a869078ebb"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Aufteilung der Erhöhung der Obergrenze auf die Regionen sowie über Daten für die Festsetzung des betriebsindividuellen Zuckergrundbetrags und der zusätzlichen betriebsindividuellen Zuckerbeträge nach dem Betriebsprämiendurchführungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

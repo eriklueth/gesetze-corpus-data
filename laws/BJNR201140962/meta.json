@@ -4,9 +4,9 @@
   "bjnr": "BJNR201140962",
   "eli": null,
   "gii_slug": "nato_brdvbg",
-  "ingested_at": "2026-04-18T20:37:29Z",
   "jurabk": "NATO/BRDVbg",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5f5005c26f275feb23f85a170ae9a583ad384ecb1a2bcdf27d6627775596b33c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vereinbarung zwischen der Nordatlantikvertrags-Organisation und der Regierung der Bundesrepublik Deutschland über die Durchführung von Teil IV des am 20. September 1951 in Ottawa unterzeichneten \"Übereinkommens über den Status der Nordatlantikvertrags-Organisation, der nationalen Vertreter und des internationalen Personals\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

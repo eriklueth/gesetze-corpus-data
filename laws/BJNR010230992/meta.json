@@ -4,9 +4,9 @@
   "bjnr": "BJNR010230992",
   "eli": null,
   "gii_slug": "bbig_84ano_17",
-  "ingested_at": "2026-04-18T20:29:32Z",
   "jurabk": "BBiG§84AnO 17",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "66183651f63ccda270fcc2a85ab199425f8df3bab55c40e28eb152cf0e27452f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Bestimmung der zuständigen Stelle nach § 84 des Berufsbildungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

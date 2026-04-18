@@ -4,9 +4,11 @@
   "bjnr": "BJNR206200994",
   "eli": null,
   "gii_slug": "treuhabschlg",
-  "ingested_at": "2026-04-18T20:41:19Z",
   "jurabk": "TreuhAbschlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "5546caea87012124b72c312e3f333c85adde11a95f99daac9a6f8abb0549141b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur abschließenden Erfüllung der verbliebenen Aufgaben der Treuhandanstalt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR515200951",
   "eli": null,
   "gii_slug": "woeigvfg",
-  "ingested_at": "2026-04-18T20:42:26Z",
   "jurabk": "WoEigVfg",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "2565282149b3ccd465b910b6aa947b4995ad1b37738c227272e58424642e68ed"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Anlegung und Führung der Wohnungs- und Teileigentumsgrundbücher",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

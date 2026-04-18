@@ -4,9 +4,11 @@
   "bjnr": "BJNR280800007",
   "eli": null,
   "gii_slug": "zensvorbg_2011",
-  "ingested_at": "2026-04-18T20:43:09Z",
   "jurabk": "ZensVorbG 2011",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "3fd9f7a392489658d030f000ee52f69f9be9d50a5d20ae98087488769b72a321"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Vorbereitung eines registergestützten Zensus einschließlich einer Gebäude- und Wohnungszählung 2011",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR006850950",
   "eli": null,
   "gii_slug": "m_nz1dmbek",
-  "ingested_at": "2026-04-18T20:37:05Z",
   "jurabk": "Münz1DMBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "cacce81ee844bef792249e929a39f6b2f61f8e99d01a4ee316088f55dae7c09d"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 1 Deutschen Mark",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR191700006",
   "eli": null,
   "gii_slug": "scebg",
-  "ingested_at": "2026-04-18T20:39:27Z",
   "jurabk": "SCEBG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 50
+  },
   "source_hashes": {
     "source_xml_sha256": "162c2ab183bc8083e3b5d95291e825cee710c17fccc9952a72a0c16d44aa23ba"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Beteiligung der Arbeitnehmer und Arbeitnehmerinnen in einer Europäischen Genossenschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR0D00A0023",
   "eli": null,
   "gii_slug": "evo_2023",
-  "ingested_at": "2026-04-18T20:32:55Z",
   "jurabk": "EVO 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "a05c9685e0e26410c906c6856b723d0a9c3922b522801c95a0dc8a08cbf5c63e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Eisenbahnverkehrs-Verordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

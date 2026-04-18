@@ -4,9 +4,11 @@
   "bjnr": "BJNR188210001",
   "eli": null,
   "gii_slug": "zensteg",
-  "ingested_at": "2026-04-18T20:43:09Z",
   "jurabk": "ZensTeG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "17adda506dc8be69c9c8ddd4c314fd126bf3b7ff3ab9a9bf517370dc57d32123"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Erprobung eines registergestützten Zensus",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

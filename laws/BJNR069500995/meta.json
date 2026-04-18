@@ -4,9 +4,12 @@
   "bjnr": "BJNR069500995",
   "eli": null,
   "gii_slug": "azrg-dv",
-  "ingested_at": "2026-04-18T20:29:17Z",
   "jurabk": "AZRG-DV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "799de10b56140dea210e4c2389d71153ff5fc8af04d629f9d1547e373e655dc0"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

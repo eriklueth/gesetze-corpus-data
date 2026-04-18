@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR100100013",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Bekanntgabevoraussetzungen",
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Bekanntgabevoraussetzungen",
@@ -43,6 +47,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Bekanntgabevoraussetzungen",
@@ -54,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Bekanntgabevoraussetzungen",
@@ -65,6 +71,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Bekanntgabevoraussetzungen",
@@ -76,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Bekanntgabevoraussetzungen",
@@ -87,6 +95,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Bekanntgabevoraussetzungen",
@@ -98,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Bekanntgabevoraussetzungen",
@@ -109,6 +119,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Bekanntgabevoraussetzungen",
@@ -120,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Bekanntgabeverfahren; Nebenbestimmungen"
@@ -130,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Bekanntgabeverfahren; Nebenbestimmungen"
@@ -140,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Bekanntgabeverfahren; Nebenbestimmungen"
@@ -150,6 +164,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Bekanntgabeverfahren; Nebenbestimmungen"
@@ -160,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Pflichten bekannt gegebener Stellen und Sachverständiger"
@@ -170,6 +186,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Pflichten bekannt gegebener Stellen und Sachverständiger"
@@ -180,6 +197,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 5 Widerruf"
@@ -190,6 +208,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 6 Pflichten von Anlagenbetreibern"
@@ -200,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 7 Schlussvorschriften"
@@ -210,6 +230,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 7 Schlussvorschriften"
@@ -220,6 +241,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 7 Schlussvorschriften"
@@ -230,6 +252,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 7 Schlussvorschriften"

@@ -4,9 +4,11 @@
   "bjnr": "BJNR198600008",
   "eli": null,
   "gii_slug": "fmstbg",
-  "ingested_at": "2026-04-18T20:42:41Z",
   "jurabk": "FMStBG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 28
+  },
   "source_hashes": {
     "source_xml_sha256": "9a9df41674757f93ef37ac5e2f5f637313e9d07c024d7741904a1e84c26fa69e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Beschleunigung und Vereinfachung des Erwerbs von Anteilen an sowie Risikopositionen von Unternehmen des Finanzsektors durch den Fonds „Finanzmarktstabilisierungsfonds – FMS“ und der Realwirtschaft durch den Fonds „Wirtschaftsstabilisierungsfonds – WSF“",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

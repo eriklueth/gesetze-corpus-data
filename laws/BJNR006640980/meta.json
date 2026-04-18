@@ -4,9 +4,12 @@
   "bjnr": "BJNR006640980",
   "eli": null,
   "gii_slug": "ph_chstmengv",
-  "ingested_at": "2026-04-18T20:38:23Z",
   "jurabk": "PHöchstMengV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "f989135096a765f8e4c24a7b941a8643549e0fd037f120959de1bae5f6f7aad6"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Höchstmengen für Phosphate in Wasch- und Reinigungsmitteln",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

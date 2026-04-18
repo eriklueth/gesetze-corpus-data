@@ -4,9 +4,11 @@
   "bjnr": "BJNR1660A0025",
   "eli": null,
   "gii_slug": "bmlehstrubvfpaktv",
-  "ingested_at": "2026-04-18T20:30:27Z",
   "jurabk": "BMLEHStruBVfPAktV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "de0e119ebff024503543e7cf3b530fb1172902ec877193310d242b8343bf276f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Ermöglichung der Anlegung, Führung und Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

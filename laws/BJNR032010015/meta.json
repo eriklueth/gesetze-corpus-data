@@ -4,9 +4,9 @@
   "bjnr": "BJNR032010015",
   "eli": null,
   "gii_slug": "seefsichv1993anwbek",
-  "ingested_at": "2026-04-18T20:39:43Z",
   "jurabk": "SeeFSichV1993AnwBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "497b5e64096db48f167ba12fcd1484da64512855db0568465e766b9a485199ab"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Anwendbarkeit von Teilen der Verordnung über die Sicherung der Seefahrt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

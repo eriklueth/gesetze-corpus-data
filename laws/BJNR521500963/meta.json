@@ -4,9 +4,9 @@
   "bjnr": "BJNR521500963",
   "eli": null,
   "gii_slug": "jubvaano_1963-11",
-  "ingested_at": "2026-04-18T20:35:06Z",
   "jurabk": "JubVAAnO 1963-11",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ff21d728ce4d560df4e8c38e842ff4d9064e1c0dded92269e34f1c3d44f1b521"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Ausführungsanordnung zur Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und Richter des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

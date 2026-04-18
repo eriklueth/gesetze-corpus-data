@@ -4,9 +4,11 @@
   "bjnr": "BJNR020860971",
   "eli": null,
   "gii_slug": "kfsachvg",
-  "ingested_at": "2026-04-18T20:35:14Z",
   "jurabk": "KfSachvG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 33
+  },
   "source_hashes": {
     "source_xml_sha256": "9c1ca8efed62c1afc60a5679bb370df1822c74c9a6fe4f78d9b686f13ec66334"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

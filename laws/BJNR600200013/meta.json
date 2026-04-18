@@ -4,9 +4,9 @@
   "bjnr": "BJNR600200013",
   "eli": null,
   "gii_slug": "mindversshbek_2013",
-  "ingested_at": "2026-04-18T20:36:35Z",
   "jurabk": "MindVersSHBek 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "cab375999432c3225c7d3318e87ab68d5ae344fae23bf0fef792fef5230439d1"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Höhe der Mindestversicherungssummen gemäß § 9 Absatz 2 der Versicherungsvermittlungsverordnung und gemäß § 9 Absatz 2 der Finanzanlagenvermittlungsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

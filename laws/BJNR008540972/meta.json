@@ -4,9 +4,12 @@
   "bjnr": "BJNR008540972",
   "eli": null,
   "gii_slug": "kfsachvv",
-  "ingested_at": "2026-04-18T20:35:14Z",
   "jurabk": "KfSachvV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "9d423be3b385fcb3bb24480252bc5fd7f127e48f867c31309eda969973f6b119"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Kraftfahrsachverständigengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR209110014",
   "eli": null,
   "gii_slug": "sag",
-  "ingested_at": "2026-04-18T20:39:23Z",
   "jurabk": "SAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 205
+  },
   "source_hashes": {
     "source_xml_sha256": "357ec47f05f4f0676ba89b0b8259db81c1c56c2ceda174792b425e92dd1451a9"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Gesetz zur Sanierung und Abwicklung von Instituten und Finanzgruppen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

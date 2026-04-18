@@ -4,9 +4,9 @@
   "bjnr": "BJNR202540989",
   "eli": null,
   "gii_slug": "eutelsatvorrprot",
-  "ingested_at": "2026-04-18T20:32:50Z",
   "jurabk": "EUTELSATVorRProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4232d4b8b873f1e45761f8a4cb0e3969902245e2fe0cd0e1552aaaf72b022757"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Protokoll über die Vorrechte und Immunitäten der Europäischen Fernmeldesatellitenorganisation (EUTELSAT)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

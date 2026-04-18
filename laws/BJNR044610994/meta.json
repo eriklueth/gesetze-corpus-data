@@ -4,9 +4,11 @@
   "bjnr": "BJNR044610994",
   "eli": null,
   "gii_slug": "di_tassg_1994",
-  "ingested_at": "2026-04-18T20:31:42Z",
   "jurabk": "DiätAssG 1994",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "92f85650c382734d85855527832f3b920ea8320337856c68ced1b6996a711257"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über den Beruf der Diätassistentin und des Diätassistenten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

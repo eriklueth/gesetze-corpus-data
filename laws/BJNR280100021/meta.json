@@ -4,9 +4,11 @@
   "bjnr": "BJNR280100021",
   "eli": null,
   "gii_slug": "auslpflkrgewqsg",
-  "ingested_at": "2026-04-18T20:29:09Z",
   "jurabk": "AuslPflKrGewQSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "8045223c9b02b1f565310adea07bc30bf3ea34acf5e5dc30beeeaac7ba9d3679"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Sicherung der Qualität der Gewinnung von Pflegekräften aus dem Ausland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

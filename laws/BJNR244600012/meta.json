@@ -4,9 +4,11 @@
   "bjnr": "BJNR244600012",
   "eli": null,
   "gii_slug": "bsg_2013",
-  "ingested_at": "2026-04-18T20:30:49Z",
   "jurabk": "BSG 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "1e9f5544e49b11af37c7ecb5de01e2b9e61f02bb3cf88eb4079dda0181b84191"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Festsetzung der Beitragssätze in der gesetzlichen Rentenversicherung für das Jahr 2013",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

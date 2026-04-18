@@ -4,9 +4,9 @@
   "bjnr": "BJNR518240993",
   "eli": null,
   "gii_slug": "luftvodv_129",
-  "ingested_at": "2026-04-18T20:36:03Z",
   "jurabk": "LuftVODV 129",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c0d85e42e0c0f1e8180cdb28f6a818d54ab4edb554cbf0ec0e2bd7a5344bdcc9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Hundertneunundzwanzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrsflughafen München)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR032100015",
   "eli": null,
   "gii_slug": "wrackbkostdganwbek",
-  "ingested_at": "2026-04-18T20:42:40Z",
   "jurabk": "WrackBKostDGAnwBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7772b3f7a8186c8c1f65a40e52929d42b242f10a03dd0ed68faf99ca4acc0b61"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Anwendbarkeit des Wrackbeseitigungskostendurchsetzungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

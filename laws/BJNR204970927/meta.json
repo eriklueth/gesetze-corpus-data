@@ -4,9 +4,11 @@
   "bjnr": "BJNR204970927",
   "eli": null,
   "gii_slug": "musch_bkg",
-  "ingested_at": "2026-04-18T20:37:26Z",
   "jurabk": "MuSchÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "d72ffe520e1fedd0a0b94016ec18688a15ec765d4bc57caa3c4f335ec866b812"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über das Washingtoner Übereinkommen betreffend die Beschäftigung der Frauen vor und nach der Niederkunft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

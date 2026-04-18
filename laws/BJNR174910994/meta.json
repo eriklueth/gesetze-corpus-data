@@ -4,9 +4,11 @@
   "bjnr": "BJNR174910994",
   "eli": null,
   "gii_slug": "wphg",
-  "ingested_at": "2026-04-18T20:42:35Z",
   "jurabk": "WpHG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 165
+  },
   "source_hashes": {
     "source_xml_sha256": "84801b33297280fdf235a34e8e0d91cee6931f396c93c5edc5856c0fcd8a6006"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über den Wertpapierhandel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

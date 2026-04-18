@@ -4,9 +4,11 @@
   "bjnr": "BJNR003350959",
   "eli": null,
   "gii_slug": "_blg_5",
-  "ingested_at": "2026-04-18T20:41:25Z",
   "jurabk": "ÜblG 5",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "e1ea719598f44e4d4b05ef32cd8b7b304e752efeaf6d03869d30e472b5abc854"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Überleitung von Lasten und Deckungsmitteln vom Saarland auf den Bund",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

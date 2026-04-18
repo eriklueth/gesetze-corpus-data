@@ -4,9 +4,12 @@
   "bjnr": "BJNR104610016",
   "eli": null,
   "gii_slug": "immvermv",
-  "ingested_at": "2026-04-18T20:34:43Z",
   "jurabk": "ImmVermV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "f78fb6e995b6409519bd2736adfb632f0b28b1aaf0ada94a50b8b5ff14cf15f0"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Immobiliardarlehensvermittlung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

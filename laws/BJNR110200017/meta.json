@@ -4,9 +4,9 @@
   "bjnr": "BJNR110200017",
   "eli": null,
   "gii_slug": "usg2015_9abs1s3bek",
-  "ingested_at": "2026-04-18T20:41:38Z",
   "jurabk": "USG2015§9Abs1S3Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3c81c60894e986084a88a34f2113160e787fc1151df893f473c670be95dfe79d"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung nach § 9 Absatz 1 Satz 3 des Unterhaltssicherungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

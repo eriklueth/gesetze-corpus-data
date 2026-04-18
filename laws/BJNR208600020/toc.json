@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR208600020",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 2 Prüfungskommission"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 2 Prüfungskommission"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 2 Prüfungskommission"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 2 Prüfungskommission"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 3 Durchführung der Prüfung"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 3 Durchführung der Prüfung"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 3 Durchführung der Prüfung"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 3 Durchführung der Prüfung"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 3 Durchführung der Prüfung"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 3 Durchführung der Prüfung"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 4 Prüfungsergebnis und Wiederholungsprüfung"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 4 Prüfungsergebnis und Wiederholungsprüfung"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 4 Prüfungsergebnis und Wiederholungsprüfung"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 4 Prüfungsergebnis und Wiederholungsprüfung"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 5 Einsicht in die Prüfungsunterlagen und Aufbewahrung"
@@ -171,6 +188,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 5 Einsicht in die Prüfungsunterlagen und Aufbewahrung"
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 6 Schlussbestimmungen"
@@ -191,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Ziel der Prüfung; Zulassungsvoraussetzungen",
         "Teil 6 Schlussbestimmungen"

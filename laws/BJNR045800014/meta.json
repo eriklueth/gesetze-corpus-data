@@ -4,9 +4,11 @@
   "bjnr": "BJNR045800014",
   "eli": null,
   "gii_slug": "datragebv",
-  "ingested_at": "2026-04-18T20:31:27Z",
   "jurabk": "DaTraGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "b4976f996178afa85d436327312b92d06d3407fafc662d37413042711407be27"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von Daten nach den Regelungen der Datentransparenzverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

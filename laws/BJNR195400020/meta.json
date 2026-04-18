@@ -4,9 +4,9 @@
   "bjnr": "BJNR195400020",
   "eli": null,
   "gii_slug": "fzulbvinkrbek",
-  "ingested_at": "2026-04-18T20:33:30Z",
   "jurabk": "FZulBVInkrbek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b1c1c89f5e744fa87b3781fff32a782786c140243933a477219cd3937dfe09a8"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über das Inkrafttreten der Forschungszulagen-Bescheinigungsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

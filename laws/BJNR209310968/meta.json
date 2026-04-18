@@ -4,9 +4,9 @@
   "bjnr": "BJNR209310968",
   "eli": null,
   "gii_slug": "fmvtr1965g",
-  "ingested_at": "2026-04-18T20:33:20Z",
   "jurabk": "FMVtr1965G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2f5fe57b0e381f4ea0228b3ad758e5e723cc39a7a5659359519818fe470e5e13"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Internationalen Fernmeldevertrag vom 12. November 1965",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

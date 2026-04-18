@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR219970969",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil I Beitritt und Zustimmung"
       ],
@@ -12,6 +13,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Beitritt und Zustimmung",
         "Teil II Ausführungsbestimmungen",
@@ -23,6 +25,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil I Beitritt und Zustimmung",
         "Teil II Ausführungsbestimmungen",
@@ -34,6 +37,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Beitritt und Zustimmung",
         "Teil II Ausführungsbestimmungen",
@@ -45,6 +49,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Beitritt und Zustimmung",
         "Teil II Ausführungsbestimmungen",
@@ -56,6 +61,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Beitritt und Zustimmung",
         "Teil II Ausführungsbestimmungen",
@@ -67,6 +73,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Beitritt und Zustimmung",
         "Teil II Ausführungsbestimmungen",
@@ -78,6 +85,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil I Beitritt und Zustimmung",
         "Teil II Ausführungsbestimmungen",
@@ -89,6 +97,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil I Beitritt und Zustimmung",
         "Teil III Inkrafttreten"

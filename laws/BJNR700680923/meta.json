@@ -4,9 +4,12 @@
   "bjnr": "BJNR700680923",
   "eli": null,
   "gii_slug": "wettschverstv",
-  "ingested_at": "2026-04-18T20:42:24Z",
   "jurabk": "WettschVerstV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "d95ed52a056d2b916dbf8cc5dfcb5ae69e075f398099811f1ccf15454b3275d0"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Versteuerung von Wettscheinen im Abrechnungsverfahren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

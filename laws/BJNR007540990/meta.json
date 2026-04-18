@@ -4,9 +4,9 @@
   "bjnr": "BJNR007540990",
   "eli": null,
   "gii_slug": "postdienstbrano",
-  "ingested_at": "2026-04-18T20:38:28Z",
   "jurabk": "POSTDIENSTBRAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4c42bf084f1225f58c65277f69bec6e471dae0a7a748d856002d0b978d94b7e4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts im Bereich der Deutschen Bundespost POSTDIENST",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

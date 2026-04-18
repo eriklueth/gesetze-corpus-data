@@ -4,9 +4,11 @@
   "bjnr": "BJNR136000010",
   "eli": null,
   "gii_slug": "gr_ndstvtr_bb_sn",
-  "ingested_at": "2026-04-18T20:34:12Z",
   "jurabk": "GrÄndStVtr BB/SN",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "bf3a3c9eceae1e23a3ce576aa547ff7703e89a219928d8c88dc5c1a7ec82f24e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Staatsvertrag zwischen dem Land Brandenburg und dem Freistaat Sachsen über die Änderung der gemeinsamen Landesgrenze (Anlage zur Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Brandenburg und dem Freistaat Sachsen über die Änderung der gemeinsamen Landesgrenze)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

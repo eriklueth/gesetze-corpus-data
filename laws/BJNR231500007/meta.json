@@ -4,9 +4,9 @@
   "bjnr": "BJNR231500007",
   "eli": null,
   "gii_slug": "bkorgerl_2007",
-  "ingested_at": "2026-04-18T20:30:13Z",
   "jurabk": "BKOrgErl 2007",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2c5b2937531074926c59d29a874e3d199e086a056b328f52933d1ad5ab3fc82a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Organisationserlass der Bundeskanzlerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

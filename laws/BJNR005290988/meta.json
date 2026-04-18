@@ -4,9 +4,11 @@
   "bjnr": "BJNR005290988",
   "eli": null,
   "gii_slug": "vafreistv",
-  "ingested_at": "2026-04-18T20:41:40Z",
   "jurabk": "VAFreistV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "7c79a2b8cd77596ea2fd5e33d553e9fc4edc54787576099fcaf31c28bd6b7d34"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Freistellung von Versicherungsunternehmen von der Aufsicht nach dem Versicherungsaufsichtsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

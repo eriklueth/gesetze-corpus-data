@@ -4,9 +4,11 @@
   "bjnr": "BJNR212510992",
   "eli": null,
   "gii_slug": "euvtrg",
-  "ingested_at": "2026-04-18T20:32:54Z",
   "jurabk": "EUVtrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "971cbf7745a4de1c980166eff71ae371523931bb2a3b3a30bfb4da1b79d00d2d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zum Vertrag vom 7. Februar 1992 über die Europäische Union",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR184300003",
   "eli": null,
   "gii_slug": "bbesg_bes_v2bek",
-  "ingested_at": "2026-04-18T20:29:29Z",
   "jurabk": "BBesG/BesÜV2Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "838994b35c151f9be21c7ad5d67440c2ae23c80d3d6a566401b3760dd91b3261"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung nach § 77 Abs. 1 bis 3 des Bundesbesoldungsgesetzes und nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

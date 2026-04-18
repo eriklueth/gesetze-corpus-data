@@ -4,9 +4,12 @@
   "bjnr": "BJNR098010016",
   "eli": null,
   "gii_slug": "tabakerzv",
-  "ingested_at": "2026-04-18T20:41:01Z",
   "jurabk": "TabakerzV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 42
+  },
   "source_hashes": {
     "source_xml_sha256": "b9c786154319f351464f069858e887b8595fd0a513b10306b8290ec00b080e14"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Tabakerzeugnisse und verwandte Erzeugnisse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

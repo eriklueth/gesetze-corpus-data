@@ -4,9 +4,12 @@
   "bjnr": "BJNR018090989",
   "eli": null,
   "gii_slug": "flusaagv",
-  "ingested_at": "2026-04-18T20:33:27Z",
   "jurabk": "FlusAAGV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "1376afe7213eea2be689fc67a1e27b03cd5d2c883f76e4b5e606b538b59ea2c0"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Diensten und Einrichtungen der Flugsicherung beim An- und Abflug",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

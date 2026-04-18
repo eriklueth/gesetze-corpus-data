@@ -4,9 +4,9 @@
   "bjnr": "BJNR233600001",
   "eli": null,
   "gii_slug": "uaganwg",
-  "ingested_at": "2026-04-18T20:41:25Z",
   "jurabk": "UAGAnwG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "08a0074d429e2ff9bf6d7de860dbc6c4bc65e641efe277c89ebe9a26ae30719b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Anwendung des Umweltauditgesetzes und seiner Rechtsverordnungen auf die Verordnung (EG) Nr. 761/2001 des Europäischen Parlaments und des Rates vom 19. März 2001 über die freiwillige Beteiligung von Organisationen an einem Gemeinschaftssystem für das Umweltmanagement und die Umweltbetriebsprüfung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

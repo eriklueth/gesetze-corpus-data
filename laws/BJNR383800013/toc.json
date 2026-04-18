@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR383800013",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Errichtung"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Errichtung"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Errichtung"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Errichtung"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Errichtung"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Errichtung"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Errichtung",
         "Abschnitt 2 Personalrechtliche Übergangsregelungen"
@@ -67,6 +74,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Errichtung",
         "Abschnitt 2 Personalrechtliche Übergangsregelungen"
@@ -77,6 +85,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Errichtung",
         "Abschnitt 2 Personalrechtliche Übergangsregelungen"
@@ -87,6 +96,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Errichtung",
         "Abschnitt 3 Übergangsregelungen zum Selbstverwaltungsrecht"
@@ -97,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Errichtung",
         "Abschnitt 3 Übergangsregelungen zum Selbstverwaltungsrecht"
@@ -107,6 +118,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Errichtung",
         "Abschnitt 3 Übergangsregelungen zum Selbstverwaltungsrecht"
@@ -117,6 +129,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Errichtung",
         "Abschnitt 4 Sonstige Übergangsregelungen"
@@ -127,6 +140,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Errichtung",
         "Abschnitt 4 Sonstige Übergangsregelungen"
@@ -137,6 +151,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Errichtung",
         "Abschnitt 4 Sonstige Übergangsregelungen"

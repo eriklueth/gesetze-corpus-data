@@ -4,9 +4,11 @@
   "bjnr": "BJNR004620987",
   "eli": null,
   "gii_slug": "bstatg_1987",
-  "ingested_at": "2026-04-18T20:30:53Z",
   "jurabk": "BStatG 1987",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "7580dbb81aaa4ad42e634d179210d49f6cf3bb6b6b98b62ad208a166d9a42631"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Statistik für Bundeszwecke",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR095600007",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2007-05-15",
-  "ingested_at": "2026-04-18T20:36:57Z",
   "jurabk": "Münz10EuroBek 2007-05-15",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a78bf2ef6763b185d0f8dbda9f1829fe18e6c075ee539ab9921225750d2e466c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"50 Jahre Deutsche Bundesbank\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

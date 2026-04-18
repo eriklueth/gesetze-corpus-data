@@ -4,9 +4,11 @@
   "bjnr": "BJNR234000015",
   "eli": null,
   "gii_slug": "membv",
-  "ingested_at": "2026-04-18T20:36:32Z",
   "jurabk": "MeMBV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "95b5e73f004d2ab7694d7e6917387299d8b8e9f8927ff31d73f8284d7f808f45"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Voraussetzungen für die Bewertung neuer Untersuchungs- und Behandlungsmethoden mit Medizinprodukten hoher Risikoklasse nach § 137h des Fünften Buches Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

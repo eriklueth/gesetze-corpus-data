@@ -4,9 +4,11 @@
   "bjnr": "BJNR138700020",
   "eli": null,
   "gii_slug": "geoldg",
-  "ingested_at": "2026-04-18T20:33:48Z",
   "jurabk": "GeolDG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 40
+  },
   "source_hashes": {
     "source_xml_sha256": "cdc462e32907226307db6657c5302d7e5b0f8512ddf28e2a46a1391e8d1e63b6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur staatlichen geologischen Landesaufnahme sowie zur Übermittlung, Sicherung und öffentlichen Bereitstellung geologischer Daten und zur Zurverfügungstellung geologischer Daten zur Erfüllung öffentlicher Aufgaben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

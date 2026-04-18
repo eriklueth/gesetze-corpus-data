@@ -4,9 +4,11 @@
   "bjnr": "BJNR308300011",
   "eli": null,
   "gii_slug": "_schuldstatg",
-  "ingested_at": "2026-04-18T20:41:27Z",
   "jurabk": "ÜSchuldStatG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "4c722296cb4335c40156179bf3a31d22ef248d4bddc599ff2d3a84a669db3125"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Statistik der Überschuldung privater Personen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR210140957",
   "eli": null,
   "gii_slug": "eagvtr",
-  "ingested_at": "2026-04-18T20:31:55Z",
   "jurabk": "EAGVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "899dd4cc35423d2fa58c6572c68f1ab5cea106428f0b0e71b968dd483d9812b5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zur Gründung der Europäischen Atomgemeinschaft (EURATOM)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

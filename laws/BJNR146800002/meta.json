@@ -4,9 +4,11 @@
   "bjnr": "BJNR146800002",
   "eli": null,
   "gii_slug": "bgg",
-  "ingested_at": "2026-04-18T20:30:01Z",
   "jurabk": "BGG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 31
+  },
   "source_hashes": {
     "source_xml_sha256": "653b6c710431455841b6619d4406e8fa33dbe008cc6b9bece86804e3f21b3029"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Gleichstellung von Menschen mit Behinderungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

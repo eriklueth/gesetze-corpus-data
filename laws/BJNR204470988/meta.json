@@ -4,9 +4,9 @@
   "bjnr": "BJNR204470988",
   "eli": null,
   "gii_slug": "grberkrac_malvtr_bel",
-  "ingested_at": "2026-04-18T20:34:15Z",
   "jurabk": "GrBerKrAC/MalVtr BEL",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "588409f7eac94b44a0b16dd5d2601d8c9951fda263028d075226e4fbd39c42e5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die Berichtigung der deutsch-belgischen Grenze im Bereich der regulierten Grenzgewässer Breitenbach und Schwarzbach, Kreise Aachen und Malmedy",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

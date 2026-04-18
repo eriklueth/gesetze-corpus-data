@@ -4,9 +4,11 @@
   "bjnr": "BJNR185200001",
   "eli": null,
   "gii_slug": "betrvrg",
-  "ingested_at": "2026-04-18T20:29:52Z",
   "jurabk": "BetrVRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "27f0ab2cfcbec1a7197f2b9d7b53033f4db9f08e90e73eb96fdde98aec1327c5"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Reform des Betriebsverfassungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

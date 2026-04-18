@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR058100012",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Personalrechtliche Übergangsregelungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Personalrechtliche Übergangsregelungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Personalrechtliche Übergangsregelungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Personalrechtliche Übergangsregelungen",
         "Abschnitt 2 Übergangsregelungen zum Selbstverwaltungsrecht"
@@ -40,6 +44,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Personalrechtliche Übergangsregelungen",
         "Abschnitt 2 Übergangsregelungen zum Selbstverwaltungsrecht"
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Personalrechtliche Übergangsregelungen",
         "Abschnitt 2 Übergangsregelungen zum Selbstverwaltungsrecht"
@@ -60,6 +66,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Personalrechtliche Übergangsregelungen",
         "Abschnitt 2 Übergangsregelungen zum Selbstverwaltungsrecht"
@@ -70,6 +77,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Personalrechtliche Übergangsregelungen",
         "Abschnitt 3 Aufbau der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau"
@@ -80,6 +88,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Personalrechtliche Übergangsregelungen",
         "Abschnitt 3 Aufbau der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau"
@@ -90,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Personalrechtliche Übergangsregelungen",
         "Abschnitt 4 Bildung von Sondervermögen"

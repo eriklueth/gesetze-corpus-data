@@ -4,9 +4,12 @@
   "bjnr": "BJNR233800997",
   "eli": null,
   "gii_slug": "msbl_rmschv",
-  "ingested_at": "2026-04-18T20:36:44Z",
   "jurabk": "MsbLärmSchV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "f7f56e04d30dfed67c37d79cbba440d2e325efd2c172fae1f2b8aa8f724aad8e"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Magnetschwebebahn-Lärmschutzverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

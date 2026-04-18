@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR043310994",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -40,6 +44,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -60,6 +66,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -70,6 +77,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -80,6 +88,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -90,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -100,6 +110,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -110,6 +121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -120,6 +132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -130,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Schutzmaßregeln bei Ausbruch oder Verdacht des Ausbruchs der Seuche"
@@ -140,6 +154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Schlussbestimmungen"

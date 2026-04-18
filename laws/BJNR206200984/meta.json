@@ -4,9 +4,9 @@
   "bjnr": "BJNR206200984",
   "eli": null,
   "gii_slug": "eulraum_bk",
-  "ingested_at": "2026-04-18T20:32:38Z",
   "jurabk": "EuLRaumÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4f389bd1f68757a4e5a280a5adec9176ee02d6a9b302b3f232fdd03358db3d96"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

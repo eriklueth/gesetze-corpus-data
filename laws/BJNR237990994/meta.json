@@ -4,9 +4,9 @@
   "bjnr": "BJNR237990994",
   "eli": null,
   "gii_slug": "_lverschm_bk1990",
-  "ingested_at": "2026-04-18T20:37:49Z",
   "jurabk": "ÖlVerschmÜbk1990",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c16d9b98a0db7d228c3adf8ffc182049bbeae26511adad5229a7f5371805ff4f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Internationales Übereinkommen von 1990 über Vorsorge, Bekämpfung und Zusammenarbeit auf dem Gebiet der Ölverschmutzung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

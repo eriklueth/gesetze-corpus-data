@@ -4,9 +4,12 @@
   "bjnr": "BJNR102900999",
   "eli": null,
   "gii_slug": "vwfangausbv_1999",
-  "ingested_at": "2026-04-18T20:42:10Z",
   "jurabk": "VwFAngAusbV 1999",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "5ac42f268f37e28d0211352302299737ea9945b017d01c03cd46c585622ded60"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Verwaltungsfachangestellten/zur Verwaltungsfachangestellten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

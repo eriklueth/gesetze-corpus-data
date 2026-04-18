@@ -4,9 +4,9 @@
   "bjnr": "BJNR139900019",
   "eli": null,
   "gii_slug": "m_nz20eurobek_2019-08-28",
-  "ingested_at": "2026-04-18T20:37:10Z",
   "jurabk": "Münz20EuroBek 2019-08-28",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a682b77d5bdef690047e6c562833810d5e23d18bbee4483dad4ca35b66224d84"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „250. Geburtstag Alexander von Humboldt“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

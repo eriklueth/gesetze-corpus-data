@@ -4,9 +4,12 @@
   "bjnr": "BJNR254210009",
   "eli": null,
   "gii_slug": "bnatschg_2009",
-  "ingested_at": "2026-04-18T20:30:34Z",
   "jurabk": "BNatSchG 2009",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 89
+  },
   "source_hashes": {
     "source_xml_sha256": "01963aba8af733d3fd245050e67c1d6b86f6dd0bb232668c7a4afaed873868cb"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über Naturschutz und Landschaftspflege",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

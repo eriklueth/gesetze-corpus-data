@@ -4,9 +4,11 @@
   "bjnr": "BJNR006000998",
   "eli": null,
   "gii_slug": "gesamtbeitrv_1998",
-  "ingested_at": "2026-04-18T20:33:48Z",
   "jurabk": "GesamtBeitrV 1998",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "e49baf495503bfb3c01fba3e6be5669bed1818d225ec250d09012b1b8e9fb770"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über den Gesamtbeitrag der Wehrdienstleistenden und der Zivildienstleistenden zur Arbeitsförderung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

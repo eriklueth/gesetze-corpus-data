@@ -4,9 +4,12 @@
   "bjnr": "BJNR068000007",
   "eli": null,
   "gii_slug": "textilprausbv",
-  "ingested_at": "2026-04-18T20:41:05Z",
   "jurabk": "TextilPrAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "9bab97243fa2485607c75f3459762dce6b2ea511c3f07d4623dc8939517f7a00"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Produktprüfer-Textil/zur Produktprüferin-Textil",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

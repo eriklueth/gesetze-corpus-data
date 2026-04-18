@@ -4,9 +4,12 @@
   "bjnr": "BJNR420910013",
   "eli": null,
   "gii_slug": "finav",
-  "ingested_at": "2026-04-18T20:33:12Z",
   "jurabk": "FinaV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 27,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "0d7c3713d91d8861af27ef4d14f9bec27d3fe76ab1b3e5b496f92f108373777b"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Einreichung von Finanz- und Risikotragfähigkeitsinformationen nach dem Kreditwesengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR314700021",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Voraussetzungen für die Bereitstellung von Produkten auf dem Markt sowie für das Ausstellen von Produkten"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Voraussetzungen für die Bereitstellung von Produkten auf dem Markt sowie für das Ausstellen von Produkten"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Voraussetzungen für die Bereitstellung von Produkten auf dem Markt sowie für das Ausstellen von Produkten"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Voraussetzungen für die Bereitstellung von Produkten auf dem Markt sowie für das Ausstellen von Produkten"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Voraussetzungen für die Bereitstellung von Produkten auf dem Markt sowie für das Ausstellen von Produkten"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Voraussetzungen für die Bereitstellung von Produkten auf dem Markt sowie für das Ausstellen von Produkten"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Bestimmungen über die Befugnis erteilende Behörde"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Bestimmungen über die Befugnis erteilende Behörde"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Bestimmungen über die Befugnis erteilende Behörde"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Notifizierung von Konformitätsbewertungsstellen"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Notifizierung von Konformitätsbewertungsstellen"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Notifizierung von Konformitätsbewertungsstellen"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Notifizierung von Konformitätsbewertungsstellen"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Notifizierung von Konformitätsbewertungsstellen"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Notifizierung von Konformitätsbewertungsstellen"
@@ -171,6 +188,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Notifizierung von Konformitätsbewertungsstellen"
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 4 Notifizierung von Konformitätsbewertungsstellen"
@@ -191,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 5 GS-Zeichen"
@@ -201,6 +221,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 5 GS-Zeichen"
@@ -211,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 5 GS-Zeichen"
@@ -221,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 5 GS-Zeichen"
@@ -231,6 +254,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 5 GS-Zeichen"
@@ -241,6 +265,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 6 Marktüberwachung, Bundesanstalt für Arbeitsschutz und Arbeitsmedizin und Ausschuss für Produktsicherheit"
@@ -251,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 6 Marktüberwachung, Bundesanstalt für Arbeitsschutz und Arbeitsmedizin und Ausschuss für Produktsicherheit"
@@ -261,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 6 Marktüberwachung, Bundesanstalt für Arbeitsschutz und Arbeitsmedizin und Ausschuss für Produktsicherheit"
@@ -271,6 +298,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 7 Straf- und Bußgeldvorschriften"
@@ -281,6 +309,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 7 Straf- und Bußgeldvorschriften"
@@ -291,6 +320,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 8 Schlussbestimmungen"
@@ -301,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 8 Schlussbestimmungen"

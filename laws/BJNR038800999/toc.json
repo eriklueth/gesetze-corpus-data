@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR038800999",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0017.md",
       "heading": "Rückkehr zum einheitlichen Verordnungsrang",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0018.md",
       "heading": "Bericht der Bundesregierung",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0019.md",
       "heading": "Inkrafttreten",

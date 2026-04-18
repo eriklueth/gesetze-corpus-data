@@ -4,9 +4,12 @@
   "bjnr": "BJNR001200002",
   "eli": null,
   "gii_slug": "podaprv",
-  "ingested_at": "2026-04-18T20:38:26Z",
   "jurabk": "PodAPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 9,
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "332ca6e35faf1fba37341661b32bba75382f27347e296c8786ffbbd25fa72c4b"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Ausbildungs- und Prüfungsverordnung für Podologinnen und Podologen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

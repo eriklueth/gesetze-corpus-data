@@ -4,9 +4,12 @@
   "bjnr": "BJNR293400020",
   "eli": null,
   "gii_slug": "restmaprorestprv",
-  "ingested_at": "2026-04-18T20:38:56Z",
   "jurabk": "RestMAProRestPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "338e7761607ab298af551e1ff27630a1183c5cec91a9d5dc60818089b75dc93e"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Restaurator im Handwerk oder Geprüfte Restauratorin im Handwerk-Master Professional für Restaurierung im Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

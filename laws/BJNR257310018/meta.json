@@ -4,9 +4,11 @@
   "bjnr": "BJNR257310018",
   "eli": null,
   "gii_slug": "intg_rvg",
-  "ingested_at": "2026-04-18T20:34:53Z",
   "jurabk": "IntGüRVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "4cb81e005d696663088b326fff3df1b3fb71403275a24d6d289fa3fbd94cb8f7"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Internationales Güterrechtsverfahrensgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR027790975",
   "eli": null,
   "gii_slug": "prodgewstatg",
-  "ingested_at": "2026-04-18T20:38:33Z",
   "jurabk": "ProdGewStatG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "b56623ad4f356d179f4b91e91cec3173dff3bc5d68b489b1c9f0121c47cba1bd"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Statistik im Produzierenden Gewerbe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

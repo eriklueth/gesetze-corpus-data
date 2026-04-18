@@ -4,9 +4,9 @@
   "bjnr": "BJNR019700005",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2005",
-  "ingested_at": "2026-04-18T20:36:56Z",
   "jurabk": "Münz10EuroBek 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "46cce98948bee54656d4a8ab79fdd53e08502fc103e30447eedab58d2981d2f2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"Nationalpark Bayerischer Wald\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

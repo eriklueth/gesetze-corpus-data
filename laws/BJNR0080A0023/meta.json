@@ -4,9 +4,11 @@
   "bjnr": "BJNR0080A0023",
   "eli": null,
   "gii_slug": "windseev_3",
-  "ingested_at": "2026-04-18T20:28:09Z",
   "jurabk": "WindSeeV 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 38
+  },
   "source_hashes": {
     "source_xml_sha256": "a9188108722874f5362447d644eb6de30d477385ab8393bb2277511acafe309d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Dritte Verordnung zur Durchführung des Windenergie-auf-See-Gesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

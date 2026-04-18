@@ -4,9 +4,11 @@
   "bjnr": "BJNR007640962",
   "eli": null,
   "gii_slug": "rag_5",
-  "ingested_at": "2026-04-18T20:28:13Z",
   "jurabk": "RAG 5",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "fc8d1cc33e935db86201fa09e5848573b619350fe605989b1540120dc5c8318d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Fünftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1962",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

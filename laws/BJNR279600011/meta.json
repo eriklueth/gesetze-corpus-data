@@ -4,9 +4,9 @@
   "bjnr": "BJNR279600011",
   "eli": null,
   "gii_slug": "pkhb_2012",
-  "ingested_at": "2026-04-18T20:38:24Z",
   "jurabk": "PKHB 2012",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "72ca6c719bdb7bc56a5f1067f19ba23f8ec28b69630168ac56f62d2b02b20bbd"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 115 der Zivilprozessordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

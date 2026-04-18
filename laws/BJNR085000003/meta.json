@@ -4,9 +4,11 @@
   "bjnr": "BJNR085000003",
   "eli": null,
   "gii_slug": "kiv",
-  "ingested_at": "2026-04-18T20:35:22Z",
   "jurabk": "KIV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "c71ccbc7183818070086deadfe906accc76a95042992be59d378fef656c2375d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Abgabe von kaliumiodidhaltigen Arzneimitteln zur Iodblockade der Schilddrüse bei radiologischen Ereignissen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

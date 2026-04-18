@@ -4,9 +4,12 @@
   "bjnr": "BJNR111260992",
   "eli": null,
   "gii_slug": "asylvfg_1992",
-  "ingested_at": "2026-04-18T20:28:56Z",
   "jurabk": "AsylVfG 1992",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 128
+  },
   "source_hashes": {
     "source_xml_sha256": "b89a7b65c66cd1ef1a31842b9147e0a710aa8a2762152528058966a6ca3afa3d"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Asylgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

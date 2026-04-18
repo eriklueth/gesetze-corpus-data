@@ -4,9 +4,9 @@
   "bjnr": "BJNR104480975",
   "eli": null,
   "gii_slug": "beamthaftespbek",
-  "ingested_at": "2026-04-18T20:29:37Z",
   "jurabk": "BeamtHaftESPBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f5020a439ac81f64adf1a2d3afba2bd09d6cf230af45501aff68054d22268ecf"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten gegenüber den Angehörigen des Spanischen Staates",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

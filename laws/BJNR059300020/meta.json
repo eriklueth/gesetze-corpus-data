@@ -4,9 +4,11 @@
   "bjnr": "BJNR059300020",
   "eli": null,
   "gii_slug": "finausglg2020dv_1",
-  "ingested_at": "2026-04-18T20:33:06Z",
   "jurabk": "FinAusglG2020DV 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "5b90aa415f8751f07a9a6e0975d65908d7a265c06d97d53f985568d6f6285891"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2020",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

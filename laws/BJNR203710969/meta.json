@@ -4,9 +4,9 @@
   "bjnr": "BJNR203710969",
   "eli": null,
   "gii_slug": "invstreit_bk",
-  "ingested_at": "2026-04-18T20:34:58Z",
   "jurabk": "InvStreitÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "77d3f3723962eb3dfba08a16d170465cf9b53806246fae54a0bf46e419b40c46"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen zur Beilegung von Investitionsstreitigkeiten zwischen Staaten und Angehörigen anderer Staaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

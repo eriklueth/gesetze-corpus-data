@@ -4,9 +4,11 @@
   "bjnr": "BJNR205650990",
   "eli": null,
   "gii_slug": "wwsuvtranl_viii",
-  "ingested_at": "2026-04-18T20:42:45Z",
   "jurabk": "WWSUVtrAnl VIII",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "46918d859cb8fd9b830dc6752b8ae9da29dcf22a469738ff81b7d7df3d5cdc7a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Allgemeine Verfahrensvorschriften für das Schiedsgericht (Anlage VIII zu dem Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

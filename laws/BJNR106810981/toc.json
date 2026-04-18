@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR106810981",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Dritter Abschnitt Pflichten im Betäubungsmittelverkehr"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Dritter Abschnitt Pflichten im Betäubungsmittelverkehr"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Dritter Abschnitt Pflichten im Betäubungsmittelverkehr"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Dritter Abschnitt Pflichten im Betäubungsmittelverkehr"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Dritter Abschnitt Pflichten im Betäubungsmittelverkehr"
@@ -171,6 +188,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Dritter Abschnitt Pflichten im Betäubungsmittelverkehr"
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Dritter Abschnitt Pflichten im Betäubungsmittelverkehr"
@@ -191,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Dritter Abschnitt Pflichten im Betäubungsmittelverkehr"
@@ -201,6 +221,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Vierter Abschnitt Überwachung"
@@ -211,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Vierter Abschnitt Überwachung"
@@ -221,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Vierter Abschnitt Überwachung"
@@ -231,6 +254,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Vierter Abschnitt Überwachung"
@@ -241,6 +265,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Vierter Abschnitt Überwachung"
@@ -251,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Vierter Abschnitt Überwachung"
@@ -261,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Vierter Abschnitt Überwachung"
@@ -271,6 +298,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Fünfter Abschnitt Vorschriften für Behörden"
@@ -281,6 +309,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Fünfter Abschnitt Vorschriften für Behörden"
@@ -291,6 +320,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Fünfter Abschnitt Vorschriften für Behörden"
@@ -301,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Sechster Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -311,6 +342,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Sechster Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -321,6 +353,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Sechster Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -331,6 +364,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Sechster Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -341,6 +375,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Sechster Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -351,6 +386,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Sechster Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -361,6 +397,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Sechster Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -371,6 +408,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Sechster Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -381,6 +419,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Sechster Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -391,6 +430,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Sechster Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -401,6 +441,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Siebenter Abschnitt Betäubungsmittelabhängige Straftäter"
@@ -411,6 +452,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Siebenter Abschnitt Betäubungsmittelabhängige Straftäter"
@@ -421,6 +463,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Siebenter Abschnitt Betäubungsmittelabhängige Straftäter"
@@ -431,6 +474,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Siebenter Abschnitt Betäubungsmittelabhängige Straftäter"
@@ -441,6 +485,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Achter Abschnitt Übergangs- und Schlußvorschriften"
@@ -451,6 +496,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Achter Abschnitt Übergangs- und Schlußvorschriften"
@@ -461,6 +507,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Achter Abschnitt Übergangs- und Schlußvorschriften"
@@ -471,6 +518,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Achter Abschnitt Übergangs- und Schlußvorschriften"
@@ -481,6 +529,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Achter Abschnitt Übergangs- und Schlußvorschriften"
@@ -491,6 +540,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Begriffsbestimmungen",
         "Achter Abschnitt Übergangs- und Schlußvorschriften"

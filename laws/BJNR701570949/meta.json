@@ -4,9 +4,11 @@
   "bjnr": "BJNR701570949",
   "eli": null,
   "gii_slug": "lstdv",
-  "ingested_at": "2026-04-18T20:35:55Z",
   "jurabk": "LStDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "f63271910dde10d6d2cb6a4a9e0e76350d329af1512491fba3e7d728ebce75b0"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Lohnsteuer-Durchführungsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

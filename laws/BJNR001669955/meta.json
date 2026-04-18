@@ -4,9 +4,11 @@
   "bjnr": "BJNR001669955",
   "eli": null,
   "gii_slug": "verkfing",
-  "ingested_at": "2026-04-18T20:41:46Z",
   "jurabk": "VerkFinG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 26
+  },
   "source_hashes": {
     "source_xml_sha256": "f32cac0ff2837e79c5c31d1546b142781c266cf9e7a40bc0d01281301f9765e7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verkehrsfinanzgesetz 1955",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

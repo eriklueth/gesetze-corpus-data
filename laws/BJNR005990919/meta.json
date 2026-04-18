@@ -4,9 +4,9 @@
   "bjnr": "BJNR005990919",
   "eli": null,
   "gii_slug": "bierstgemby_bag",
-  "ingested_at": "2026-04-18T20:30:03Z",
   "jurabk": "BierStGemBY/BAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1f918bfcfe06e767ce39e78afb4e7d4674af801e46c0fe45e34d55c4827c8934"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über den Eintritt der Freistaaten Bayern und Baden in die Biersteuergemeinschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

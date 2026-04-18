@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR477900021",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 2 Einfache Mietspiegel"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 2 Einfache Mietspiegel"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 2 Einfache Mietspiegel"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -83,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -94,6 +103,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -105,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -116,6 +127,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -127,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -138,6 +151,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -149,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -160,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -171,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -182,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -193,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -204,6 +223,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -215,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -226,6 +247,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -237,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 3 Qualifizierte Mietspiegel",
@@ -248,6 +271,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Regelungen",
         "Abschnitt 4 Schlussvorschrift"

@@ -4,9 +4,9 @@
   "bjnr": "BJNR202210964",
   "eli": null,
   "gii_slug": "kovvtr_aut",
-  "ingested_at": "2026-04-18T20:35:30Z",
   "jurabk": "KOVVtr AUT",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "cc083529b223cbdd7aa8a69e0fb428f69497a4d2855b0116874a20094b398bde"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

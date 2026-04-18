@@ -4,9 +4,9 @@
   "bjnr": "BJNR392000994",
   "eli": null,
   "gii_slug": "wzg_4trbek_1994-12",
-  "ingested_at": "2026-04-18T20:43:05Z",
   "jurabk": "WZG§4TRBek 1994-12",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "63984001de9bde3b6ac4d20da574abdcf43d8d184025a1c6f19b2b4693cbd23e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

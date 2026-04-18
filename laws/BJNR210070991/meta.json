@@ -4,9 +4,9 @@
   "bjnr": "BJNR210070991",
   "eli": null,
   "gii_slug": "_vp_bk",
-  "ingested_at": "2026-04-18T20:41:27Z",
   "jurabk": "ÜvPÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "897a390795b6b454da346d8a8ce69fc71cdf1e11db248518a75bacd45f77d08b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Überstellung verurteilter Personen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR426300001",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Zweiter Abschnitt Inhalt der Angebotsunterlage"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Dritter Abschnitt Gegenleistung bei Übernahmeangeboten und Pflichtangeboten"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Dritter Abschnitt Gegenleistung bei Übernahmeangeboten und Pflichtangeboten"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Dritter Abschnitt Gegenleistung bei Übernahmeangeboten und Pflichtangeboten"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Dritter Abschnitt Gegenleistung bei Übernahmeangeboten und Pflichtangeboten"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Dritter Abschnitt Gegenleistung bei Übernahmeangeboten und Pflichtangeboten"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Vierter Abschnitt Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Vierter Abschnitt Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Vierter Abschnitt Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Vierter Abschnitt Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Vierter Abschnitt Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Vierter Abschnitt Befreiung von der Verpflichtung zur Veröffentlichung und zur Abgabe eines Angebots"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Anwendungsbereich",
         "Fünfter Abschnitt Schlussvorschrift"

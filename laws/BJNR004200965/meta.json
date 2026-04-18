@@ -4,9 +4,11 @@
   "bjnr": "BJNR004200965",
   "eli": null,
   "gii_slug": "br_gdv_1",
-  "ingested_at": "2026-04-18T20:27:57Z",
   "jurabk": "BRüGDV 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "6d0d616d6bb7f9b62cf9bb3de294e8d34b02be05b03697894b248da94cbc4ffb"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Erste Verordnung zur Durchführung des Bundesrückerstattungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

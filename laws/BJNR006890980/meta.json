@@ -4,9 +4,11 @@
   "bjnr": "BJNR006890980",
   "eli": null,
   "gii_slug": "berathig",
-  "ingested_at": "2026-04-18T20:29:49Z",
   "jurabk": "BeratHiG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "85a75f54f01835616831c7b333aa414056000a82ead02de3beea9fbb82260121"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Rechtsberatung und Vertretung für Bürger mit geringem Einkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR280500021",
   "eli": null,
   "gii_slug": "immowertv_2022",
-  "ingested_at": "2026-04-18T20:34:44Z",
   "jurabk": "ImmoWertV 2022",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 54
+  },
   "source_hashes": {
     "source_xml_sha256": "c7795bf80911f33300689bc3a15805e703493e273f9eb4633d09214e68b8630d"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Grundsätze für die Ermittlung der Verkehrswerte von Immobilien und der für die Wertermittlung erforderlichen Daten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

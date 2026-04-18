@@ -4,9 +4,11 @@
   "bjnr": "BJNR302210007",
   "eli": null,
   "gii_slug": "kbfg",
-  "ingested_at": "2026-04-18T20:35:13Z",
   "jurabk": "KBFG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "ffb009284905baaa9051af70f8a8dc72b8599feb4953300ccf6e3a0272343597"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Errichtung eines Sondervermögens „Kinderbetreuungsausbau“",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

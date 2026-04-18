@@ -4,9 +4,11 @@
   "bjnr": "BJNR401900001",
   "eli": null,
   "gii_slug": "persanpassg",
-  "ingested_at": "2026-04-18T20:38:10Z",
   "jurabk": "PersAnpassG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "2840a2fc7e1c80e20ce4b9e707602a130c05a638c42bb68acbdf8cb091931e03"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Anpassung der Personalstärke der Streitkräfte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

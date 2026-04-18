@@ -4,9 +4,9 @@
   "bjnr": "BJNR510500008",
   "eli": null,
   "gii_slug": "luftvodv_240",
-  "ingested_at": "2026-04-18T20:36:17Z",
   "jurabk": "LuftVODV 240",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "359415c2c47f5de775b7823b2dc6fe3c71b30a70eb715a7c47c5f85b699e4fa3"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweihundertvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Memmingen)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

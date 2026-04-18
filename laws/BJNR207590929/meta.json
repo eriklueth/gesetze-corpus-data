@@ -4,9 +4,11 @@
   "bjnr": "BJNR207590929",
   "eli": null,
   "gii_slug": "schbr_bkg",
-  "ingested_at": "2026-04-18T20:39:31Z",
   "jurabk": "SchBrÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "f9b8c2cff9413349b361cad27d8ab0298d0f2cf87e58a831ec9ff3040abe96ef"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz betreffend das Internationale Übereinkommen über die Gewährung einer Entschädigung für Arbeitslosigkeit infolge von Schiffbruch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

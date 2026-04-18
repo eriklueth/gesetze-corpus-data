@@ -4,9 +4,9 @@
   "bjnr": "BJNR136320012",
   "eli": null,
   "gii_slug": "gtnsitzabk",
-  "ingested_at": "2026-04-18T20:34:19Z",
   "jurabk": "GTNSitzAbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "cdb8331534eb4341ffbf6d8e5e39f4e0ddff4d1ec493f84933b20fe272273b29"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Globalen Treuhandfonds für Nutzpflanzenvielfalt über den Sitz des Globalen Treuhandfonds für Nutzpflanzenvielfalt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

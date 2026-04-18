@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR003900020",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines"
@@ -13,6 +14,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines"
@@ -23,6 +25,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines"
@@ -33,6 +36,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines",
@@ -44,6 +48,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines",
@@ -55,6 +60,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines",
@@ -66,6 +72,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines",
@@ -77,6 +84,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines",
@@ -88,6 +96,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines",
@@ -99,6 +108,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines",
@@ -110,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines",
@@ -121,6 +132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines",
@@ -132,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Abschnitt 1 Allgemeines",
@@ -143,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -154,6 +168,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -165,6 +180,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -176,6 +192,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -187,6 +204,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -198,6 +216,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -209,6 +228,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -220,6 +240,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -231,6 +252,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -242,6 +264,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -253,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -264,6 +288,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -275,6 +300,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -286,6 +312,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -297,6 +324,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -308,6 +336,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -319,6 +348,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -330,6 +360,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -341,6 +372,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -352,6 +384,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -363,6 +396,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -374,6 +408,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -385,6 +420,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -396,6 +432,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -407,6 +444,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -418,6 +456,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -429,6 +468,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -440,6 +480,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -451,6 +492,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 2 Staatliche Prüfung zur Erlangung der Erlaubnis zum Führen der Berufsbezeichnung",
@@ -462,6 +504,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 3 Erlaubnis zum Führen der Berufsbezeichnung"
@@ -472,6 +515,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -483,6 +527,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -494,6 +539,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -505,6 +551,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -516,6 +563,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -527,6 +575,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -538,6 +587,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -549,6 +599,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -560,6 +611,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -571,6 +623,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -582,6 +635,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -593,6 +647,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -604,6 +659,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -615,6 +671,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -626,6 +683,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -637,6 +695,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -648,6 +707,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -659,6 +719,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -670,6 +731,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -681,6 +743,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 4 Anerkennung ausländischer Berufsqualifikationen und erforderliche Anpassungsmaßnahmen",
@@ -692,6 +755,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -702,6 +766,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -712,6 +777,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -722,6 +788,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -732,6 +799,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -742,6 +810,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -752,6 +821,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -762,6 +832,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -772,6 +843,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -782,6 +854,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 16,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -792,6 +865,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 16,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -802,6 +876,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -812,6 +887,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -822,6 +898,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -832,6 +909,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -842,6 +920,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"
@@ -852,6 +931,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Studium",
         "Teil 5 Übergangs- und Schlussvorschriften"

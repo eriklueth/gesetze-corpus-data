@@ -4,9 +4,11 @@
   "bjnr": "BJNR183200011",
   "eli": null,
   "gii_slug": "feuerwehrkr_nderl_2011",
-  "ingested_at": "2026-04-18T20:33:04Z",
   "jurabk": "FeuerwEhrKrÄndErl 2011",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "ae574895da97958a482c4de63158f438d778477fd66bff692e1007772f7e59e3"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlass über die Genehmigung von Änderungen der Satzung und der Verleihungsbedingungen des Deutschen Feuerwehr-Ehrenkreuzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

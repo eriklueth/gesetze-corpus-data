@@ -4,9 +4,11 @@
   "bjnr": "BJNR027200997",
   "eli": null,
   "gii_slug": "gewo_34cdv_ndv_3",
-  "ingested_at": "2026-04-18T20:33:52Z",
   "jurabk": "GewO§34cDVÄndV 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "d2e08b9c75697419a6ba90a01673aa351dd49d06a62cd4028cf943ce80158491"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Dritte Verordnung zur Änderung der Makler- und Bauträgerverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

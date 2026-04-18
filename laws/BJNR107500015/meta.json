@@ -4,9 +4,12 @@
   "bjnr": "BJNR107500015",
   "eli": null,
   "gii_slug": "automausbv",
-  "ingested_at": "2026-04-18T20:29:15Z",
   "jurabk": "AutomAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "4ab8d60c454089c7d18b686c32fca9f5e7d3fb43e300e74a65d32ef31f2d68d7"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Automatenfachmann und zur Automatenfachfrau",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

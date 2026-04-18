@@ -4,9 +4,11 @@
   "bjnr": "BJNR762700005",
   "eli": null,
   "gii_slug": "badev",
-  "ingested_at": "2026-04-18T20:29:17Z",
   "jurabk": "BadeV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "be0f8ef24de2b4239ee04db963c317eb1d0f3f661ade09025829c555892d15e9"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über das Baden in den Bundeswasserstraßen Weser, Lesum und Hunte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR166700017",
   "eli": null,
   "gii_slug": "kdav",
-  "ingested_at": "2026-04-18T20:35:14Z",
   "jurabk": "KDAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "666b987382cce178f8c5a65d2f0a8f4207f0c121b18cf65081e5a56c9dcf3819"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das automatisierte Verfahren zur Auskunft über Kundendaten nach § 112 des Telekommunikationsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

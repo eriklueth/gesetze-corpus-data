@@ -4,9 +4,9 @@
   "bjnr": "BJNR191500999",
   "eli": null,
   "gii_slug": "brhsitzbek",
-  "ingested_at": "2026-04-18T20:30:45Z",
   "jurabk": "BRHSitzBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b5da6196910f8f4eef9d80c0783c4006804430c2408ba97ec0e08bc68b015519"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung des Organisationserlasses zur Sitzverlagerung des Bundesrechnungshofes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

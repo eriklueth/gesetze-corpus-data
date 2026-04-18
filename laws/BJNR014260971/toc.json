@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR014260971",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil I Kosten des Aufgabenvollzugs"
       ],
@@ -12,6 +13,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Kosten des Aufgabenvollzugs",
         "Teil III Anpassung des Gesetzes zur Förderung der Stabilität und des Wachstums der Wirtschaft"
@@ -22,6 +24,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil I Kosten des Aufgabenvollzugs",
         "Teil IV Übergangs- und Schlußbestimmungen"
@@ -32,6 +35,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil I Kosten des Aufgabenvollzugs",
         "Teil IV Übergangs- und Schlußbestimmungen"
@@ -42,6 +46,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Kosten des Aufgabenvollzugs",
         "Teil IV Übergangs- und Schlußbestimmungen"
@@ -52,6 +57,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Kosten des Aufgabenvollzugs",
         "Teil IV Übergangs- und Schlußbestimmungen"
@@ -62,6 +68,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Kosten des Aufgabenvollzugs",
         "Teil IV Übergangs- und Schlußbestimmungen"

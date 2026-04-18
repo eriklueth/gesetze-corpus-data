@@ -4,9 +4,11 @@
   "bjnr": "BJNR127000000",
   "eli": null,
   "gii_slug": "antidhg",
-  "ingested_at": "2026-04-18T20:28:52Z",
   "jurabk": "AntiDHG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "89125d557bccfce54f193a48af67639022fbe5583fe8aae2ab1d8b75ee1f0ea4"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Hilfe für durch Anti-D-Immunprophylaxe mit dem Hepatitis-C-Virus infizierte Personen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

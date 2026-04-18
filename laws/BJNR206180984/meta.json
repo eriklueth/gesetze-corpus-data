@@ -4,9 +4,11 @@
   "bjnr": "BJNR206180984",
   "eli": null,
   "gii_slug": "eulraum_bkg",
-  "ingested_at": "2026-04-18T20:32:38Z",
   "jurabk": "EuLRaumÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "28d7dd3c06d03f6892633872575499c605fc01992a1b284cfc69bc7629bfe34b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 19. September 1979 über die Erhaltung der europäischen wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

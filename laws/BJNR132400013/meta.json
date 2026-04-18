@@ -4,9 +4,11 @@
   "bjnr": "BJNR132400013",
   "eli": null,
   "gii_slug": "tiergesg",
-  "ingested_at": "2026-04-18T20:41:10Z",
   "jurabk": "TierGesG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 44
+  },
   "source_hashes": {
     "source_xml_sha256": "63c6d4359ba979c46a4b9c1ea6e75902e05c7a44499c73f951e919b2ff59597a"
   },
@@ -34,5 +36,5 @@
     }
   ],
   "title": "Gesetz zur Vorbeugung vor und Bekämpfung von Tierseuchen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

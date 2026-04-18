@@ -4,9 +4,9 @@
   "bjnr": "BJNR141020003",
   "eli": null,
   "gii_slug": "eubeitrvtr_czeua",
-  "ingested_at": "2026-04-18T20:32:34Z",
   "jurabk": "EUBeitrVtr CZEua",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6a51cb8bbe388886fe7f9af4c7dd8e1a90736eaeb1af616686193a928ad7acf4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag über den Beitritt der Tschechischen Republik, der Republik Estland, der Republik Zypern, der Republik Lettland, der Republik Litauen, der Republik Ungarn, der Republik Malta, der Republik Polen, der Republik Slowenien und der Slowakischen Republik zur Europäischen Union",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR333210006",
   "eli": null,
   "gii_slug": "mgvg",
-  "ingested_at": "2026-04-18T20:36:32Z",
   "jurabk": "MgVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 38
+  },
   "source_hashes": {
     "source_xml_sha256": "08d7e965f4be8d9616045731542455d3b6546ffd3796ef854788081cbe0cc4d8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Mitbestimmung der Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

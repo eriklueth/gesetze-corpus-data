@@ -4,9 +4,11 @@
   "bjnr": "BJNR020230971",
   "eli": null,
   "gii_slug": "ewgbauartgenv",
-  "ingested_at": "2026-04-18T20:32:55Z",
   "jurabk": "EWGBauartGenV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "b9e24b51ec39d3a559c505c2383f20d72045189970f74a9a18143d305154535b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über EWG-Bauartgenehmigungen für Kontrollgeräte und Schaublätter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

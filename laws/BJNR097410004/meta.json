@@ -4,9 +4,11 @@
   "bjnr": "BJNR097410004",
   "eli": null,
   "gii_slug": "drittelbg",
-  "ingested_at": "2026-04-18T20:31:50Z",
   "jurabk": "DrittelbG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "1e351f215a8f3aa981e09634f76e3c3434c922f2604c44a4ffac25f8d84267e6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Drittelbeteiligung der Arbeitnehmer im Aufsichtsrat",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

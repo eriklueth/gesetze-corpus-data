@@ -4,9 +4,11 @@
   "bjnr": "BJNR145810006",
   "eli": null,
   "gii_slug": "pr_mvtrag",
-  "ingested_at": "2026-04-18T20:38:37Z",
   "jurabk": "PrümVtrAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "122766512e4bbd87950688c37c5a85bf35b3810b894257cec0b0987228fc96fd"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Ausführungsgesetz zum Prümer Vertrag und zum Ratsbeschluss Prüm",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

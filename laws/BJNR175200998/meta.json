@@ -4,9 +4,11 @@
   "bjnr": "BJNR175200998",
   "eli": null,
   "gii_slug": "tfg",
-  "ingested_at": "2026-04-18T20:41:05Z",
   "jurabk": "TFG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 40
+  },
   "source_hashes": {
     "source_xml_sha256": "0445ce7a37734ee4b5c3454b3c0d343a27a1ab0011c0e143a64b12180047939e"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Regelung des Transfusionswesens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

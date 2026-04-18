@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR075210009",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Hühnerzuchtbetriebe"
@@ -76,6 +84,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Hühnerzuchtbetriebe"
@@ -86,6 +95,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Hühnerzuchtbetriebe"
@@ -96,6 +106,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Hühnerzuchtbetriebe"
@@ -106,6 +117,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Hühneraufzuchtbetriebe"
@@ -116,6 +128,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Hühneraufzuchtbetriebe"
@@ -126,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Hühneraufzuchtbetriebe"
@@ -136,6 +150,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Hühneraufzuchtbetriebe"
@@ -146,6 +161,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Hühneraufzuchtbetriebe"
@@ -156,6 +172,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 4 Legehennenbetriebe"
@@ -166,6 +183,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 4 Legehennenbetriebe"
@@ -176,6 +194,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 4 Legehennenbetriebe"
@@ -186,6 +205,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 4 Legehennenbetriebe"
@@ -196,6 +216,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 4 Legehennenbetriebe"
@@ -206,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 5 Hähnchenmastbetriebe"
@@ -216,6 +238,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 5 Hähnchenmastbetriebe"
@@ -226,6 +249,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 5 Hähnchenmastbetriebe"
@@ -236,6 +260,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 5 Hähnchenmastbetriebe"
@@ -246,6 +271,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 6 Hühnerbrütereien"
@@ -256,6 +282,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 6 Hühnerbrütereien"
@@ -266,6 +293,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 6 Hühnerbrütereien"
@@ -276,6 +304,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 6 Hühnerbrütereien"
@@ -286,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Putenbetriebe"
@@ -296,6 +326,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Putenbetriebe"
@@ -306,6 +337,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Putenbetriebe"
@@ -316,6 +348,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Putenbetriebe"
@@ -326,6 +359,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 8 Weitergehende Maßnahmen"
@@ -336,6 +370,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 8 Weitergehende Maßnahmen"
@@ -346,6 +381,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 9 Ordnungswidrigkeiten, Schlussvorschriften"
@@ -356,6 +392,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 9 Ordnungswidrigkeiten, Schlussvorschriften"

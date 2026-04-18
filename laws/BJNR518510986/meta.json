@@ -4,9 +4,9 @@
   "bjnr": "BJNR518510986",
   "eli": null,
   "gii_slug": "luftvodv_98",
-  "ingested_at": "2026-04-18T20:36:17Z",
   "jurabk": "LuftVODV 98",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ec337683d974b46d5298ec7a12c70ebb5314dc4066dff360fcd54c1129066b5c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Achtundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für Flüge nach Sichtflugregeln zum und vom Verkehrsflughafen Braunschweig)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

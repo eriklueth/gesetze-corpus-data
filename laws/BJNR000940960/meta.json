@@ -4,9 +4,12 @@
   "bjnr": "BJNR000940960",
   "eli": null,
   "gii_slug": "frg",
-  "ingested_at": "2026-04-18T20:33:25Z",
   "jurabk": "FRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 17,
+    "paragraph": 34
+  },
   "source_hashes": {
     "source_xml_sha256": "e95bd0af3003ba849cccb8e4ff451a44b209e6957791b64fb6ed54ebca23a8af"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Fremdrentengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

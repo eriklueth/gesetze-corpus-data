@@ -4,9 +4,12 @@
   "bjnr": "BJNR004880980",
   "eli": null,
   "gii_slug": "aujeszkkrv",
-  "ingested_at": "2026-04-18T20:29:05Z",
   "jurabk": "AujeszkKrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "45528ed0641a80118a532844eb6ca7b7597bfa94c9f9ea8b7947f1ce17c980d7"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung zum Schutz gegen die Aujeszkysche Krankheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR200070982",
   "eli": null,
   "gii_slug": "intmeersch_bk1973anl_iii",
-  "ingested_at": "2026-04-18T20:34:55Z",
   "jurabk": "IntMeerSchÜbk1973Anl III",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5704c66b6c5382c64572827f6d4e2164f3bffac0b47d051f2eb919f46b2f1b73"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Regeln zur Verhütung der Verschmutzung durch Schadstoffe, die auf See in verpackter Form oder in Containern, ortsbeweglichen Tanks, Straßentankfahrzeugen oder Eisenbahnkesselwagen befördert werden (Anlage III zu den Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

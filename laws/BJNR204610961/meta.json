@@ -4,9 +4,11 @@
   "bjnr": "BJNR204610961",
   "eli": null,
   "gii_slug": "dollbberabk2g",
-  "ingested_at": "2026-04-18T20:31:47Z",
   "jurabk": "DollBBerAbk2G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "7fbfdbd322820a7e8e156244e398c162060743e80973bcaf6990c4ae8e516af4"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zum Zweiten Abkommen vom 16. August 1960 zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gewisse Angelegenheiten, die sich aus der Bereinigung deutscher Dollarbonds ergeben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

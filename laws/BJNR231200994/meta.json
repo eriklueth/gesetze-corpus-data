@@ -4,9 +4,11 @@
   "bjnr": "BJNR231200994",
   "eli": null,
   "gii_slug": "modmstrv",
-  "ingested_at": "2026-04-18T20:36:40Z",
   "jurabk": "ModMstrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "d481db1cfb86135244fb5ef63e788dd92a0973dad5634f8e98885154a5088fe3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Modisten-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

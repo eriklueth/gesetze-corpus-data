@@ -4,9 +4,9 @@
   "bjnr": "BJNR027600003",
   "eli": null,
   "gii_slug": "pf_ndfreigrbek_2003",
-  "ingested_at": "2026-04-18T20:38:14Z",
   "jurabk": "PfändfreiGrBek 2003",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b56386a277be9d0303df5f2e7afb9a08b05b7cf40a522b342234d08ff1c38574"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 850c der Zivilprozessordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

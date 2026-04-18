@@ -4,9 +4,11 @@
   "bjnr": "BJNR270320994",
   "eli": null,
   "gii_slug": "basl_bkg",
-  "ingested_at": "2026-04-18T20:29:25Z",
   "jurabk": "BaslÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "678065af3e708ec285cf4d361db8134f0523eb9f3d6c1dda8d2271c4fd73aaab"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Basler Übereinkommen vom 22. März 1989 über die Kontrolle der grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

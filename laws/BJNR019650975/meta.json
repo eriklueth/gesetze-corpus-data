@@ -4,9 +4,11 @@
   "bjnr": "BJNR019650975",
   "eli": null,
   "gii_slug": "schwbwo",
-  "ingested_at": "2026-04-18T20:39:40Z",
   "jurabk": "SchwbWO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 29
+  },
   "source_hashes": {
     "source_xml_sha256": "06a825002025f7c92dee84737063316842079dda3b6f70cae8054461bde2ac83"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Wahlordnung Schwerbehindertenvertretungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

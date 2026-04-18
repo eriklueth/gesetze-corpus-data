@@ -4,9 +4,11 @@
   "bjnr": "BJNR016200999",
   "eli": null,
   "gii_slug": "pr_flabv",
-  "ingested_at": "2026-04-18T20:38:37Z",
   "jurabk": "PrüflabV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "d5b96d838800d0a9a0f8ab78cc4ddeaa92cee0cd0c081e75d8591c4680065983"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Akkreditierung von Prüflaboratorien als Voraussetzung für die Zulassung privater Gegenprobensachverständiger für die Untersuchung von Proben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR148410017",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 2 Übermittlung von Fluggastdaten an die Fluggastdatenzentralstelle"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 2 Übermittlung von Fluggastdaten an die Fluggastdatenzentralstelle"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 3 Verarbeitung von Fluggastdaten durch die Fluggastdatenzentralstelle"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 3 Verarbeitung von Fluggastdaten durch die Fluggastdatenzentralstelle"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 4 Übermittlung von Fluggastdaten durch die Fluggastdatenzentralstelle"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 4 Übermittlung von Fluggastdaten durch die Fluggastdatenzentralstelle"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 4 Übermittlung von Fluggastdaten durch die Fluggastdatenzentralstelle"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 4 Übermittlung von Fluggastdaten durch die Fluggastdatenzentralstelle"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 4 Übermittlung von Fluggastdaten durch die Fluggastdatenzentralstelle"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 5 Datenschutzrechtliche Bestimmungen"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 5 Datenschutzrechtliche Bestimmungen"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 5 Datenschutzrechtliche Bestimmungen"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 5 Datenschutzrechtliche Bestimmungen"
@@ -142,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 5 Datenschutzrechtliche Bestimmungen"
@@ -152,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 6 Geltung des Bundeskriminalamtgesetzes"
@@ -162,6 +178,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 7 Schlussvorschriften"
@@ -172,6 +189,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Fluggastdatenzentralstelle und Zweck des Fluggastdaten-Informationssystems",
         "Abschnitt 7 Schlussvorschriften"

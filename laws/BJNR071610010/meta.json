@@ -4,9 +4,11 @@
   "bjnr": "BJNR071610010",
   "eli": null,
   "gii_slug": "bkadv",
-  "ingested_at": "2026-04-18T20:30:11Z",
   "jurabk": "BKADV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "ff85686314a80cdf9cab6a3696c88f24691db6370760965e8b3151eac5b36417"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Art der Daten, die nach den §§ 8 und 9 des Bundeskriminalamtgesetzes gespeichert werden dürfen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

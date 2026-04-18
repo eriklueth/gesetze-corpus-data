@@ -4,9 +4,11 @@
   "bjnr": "BJNR016210985",
   "eli": null,
   "gii_slug": "strkrpersstruktg",
-  "ingested_at": "2026-04-18T20:38:10Z",
   "jurabk": "StrKrPersStruktG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "4928bf78aff2bde29aa6b0df03ee64952496ecf5b1e702e6a55f4adfc705d607"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Verbesserung der Personalstruktur in den Streitkräften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

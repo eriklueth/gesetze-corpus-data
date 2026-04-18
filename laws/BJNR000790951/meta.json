@@ -4,9 +4,12 @@
   "bjnr": "BJNR000790951",
   "eli": null,
   "gii_slug": "flaggrg",
-  "ingested_at": "2026-04-18T20:33:13Z",
   "jurabk": "FlaggRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 29
+  },
   "source_hashes": {
     "source_xml_sha256": "85ea05e2ce263f1649587110258b09b18b507e1b31af6075897d5eeb43478c59"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über das Flaggenrecht der Seeschiffe und die Flaggenführung der Binnenschiffe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

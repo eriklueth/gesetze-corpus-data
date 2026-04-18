@@ -4,9 +4,9 @@
   "bjnr": "BJNR509110994",
   "eli": null,
   "gii_slug": "luftvodv_146",
-  "ingested_at": "2026-04-18T20:36:03Z",
   "jurabk": "LuftVODV 146",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "dc1e9aa2c39fb1b6fdd24a450136849819b13afd7d7b3e18df2858b6632e6dbe"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Hundertsechsundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Schwäbisch Hall)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

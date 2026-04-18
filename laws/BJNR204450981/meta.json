@@ -4,9 +4,11 @@
   "bjnr": "BJNR204450981",
   "eli": null,
   "gii_slug": "kathilabkluxg",
-  "ingested_at": "2026-04-18T20:35:13Z",
   "jurabk": "KatHiLAbkLUXG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "7572f86093a17df571772662b48d65dc733f7323b7fc0ece99f7adca151a93aa"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 2. März 1978 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

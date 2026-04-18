@@ -4,9 +4,11 @@
   "bjnr": "BJNR200010972",
   "eli": null,
   "gii_slug": "sozsich_ndabkturg",
-  "ingested_at": "2026-04-18T20:40:31Z",
   "jurabk": "SozSichÄndAbkTURG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "6120a75f4e1ad538a440a0a2f820c84612332333f86cc58365d795f2927c86d8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 28. Mai 1969 zwischen der Bundesrepublik Deutschland und der Republik Türkei zur Änderung des Abkommens vom 30. April 1964 über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

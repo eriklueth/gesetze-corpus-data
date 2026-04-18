@@ -4,9 +4,11 @@
   "bjnr": "BJNR014390983",
   "eli": null,
   "gii_slug": "baf_g-teilerla_v",
-  "ingested_at": "2026-04-18T20:29:21Z",
   "jurabk": "BAföG-TeilerlaßV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "6fec560fe21de66c673261b6ec67831d093f0e42e713d0202e42be35cf5b8b5b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über den leistungsabhängigen Teilerlaß von Ausbildungsförderungsdarlehen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

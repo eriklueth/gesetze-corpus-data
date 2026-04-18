@@ -4,9 +4,12 @@
   "bjnr": "BJNR007400013",
   "eli": null,
   "gii_slug": "pflschmv_2013",
-  "ingested_at": "2026-04-18T20:38:18Z",
   "jurabk": "PflSchMV 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "f7b7c9612a15763d72aaee9de50f125b0b33089c9be5507880ff5296b75e79c7"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Zulassungs- und Genehmigungsverfahren für Pflanzenschutzmittel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

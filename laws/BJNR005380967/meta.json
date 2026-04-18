@@ -4,9 +4,11 @@
   "bjnr": "BJNR005380967",
   "eli": null,
   "gii_slug": "rtrabwg_11abs3dv",
-  "ingested_at": "2026-04-18T20:39:05Z",
   "jurabk": "RTrAbwG§11Abs3DV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "ba6146ee2baf42157dff9e12f0fef86b337f4acaa680d95b4bd7b4f6dbda2814"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des § 11 Abs. 3 des Rechtsträger-Abwicklungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

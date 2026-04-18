@@ -4,9 +4,11 @@
   "bjnr": "BJNR198600004",
   "eli": null,
   "gii_slug": "freiz_gg_eu_2004",
-  "ingested_at": "2026-04-18T20:33:25Z",
   "jurabk": "FreizügG/EU 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "b5679a527269466c54955ca7af22e93626da9560265bb768ae5c31b4caa489e6"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die allgemeine Freizügigkeit von Unionsbürgern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

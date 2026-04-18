@@ -4,9 +4,9 @@
   "bjnr": "BJNR047020995",
   "eli": null,
   "gii_slug": "wildtart_bkinkr_ndv_4",
-  "ingested_at": "2026-04-18T20:42:26Z",
   "jurabk": "WildTArtÜbkInkrÄndV 4",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "cdfe594f08d38153c467cdc0244ea8a84353a88e968ba4406bc2f5c32ade845b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vierte Verordnung über die Inkraftsetzung von Änderungen der Anhänge I und II des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

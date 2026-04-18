@@ -4,9 +4,9 @@
   "bjnr": "BJNR201040964",
   "eli": null,
   "gii_slug": "festlsockelprokbek",
-  "ingested_at": "2026-04-18T20:33:03Z",
   "jurabk": "FestLSockelProkBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b93d8f89a75aa55e01d9987c220a5159099501c974221d3b2fd5718a1a96fff0"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Proklamation der Bundesregierung über die Erforschung und Ausbeutung des deutschen Festlandsockels",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

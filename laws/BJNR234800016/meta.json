@@ -4,9 +4,12 @@
   "bjnr": "BJNR234800016",
   "eli": null,
   "gii_slug": "seeanlg",
-  "ingested_at": "2026-04-18T20:39:41Z",
   "jurabk": "SeeAnlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "b4f339a664556b8cbb33c0e65d8c63079ee6d30ae7f246a7c5ae1900d63b899a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Seeanlagengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

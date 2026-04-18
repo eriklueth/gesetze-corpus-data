@@ -4,9 +4,11 @@
   "bjnr": "BJNR170700014",
   "eli": null,
   "gii_slug": "finausglg2013dv_2",
-  "ingested_at": "2026-04-18T20:33:06Z",
   "jurabk": "FinAusglG2013DV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "3d325369c9c8bf4a78529331401eaa01434306eb30ea032f90cd2502be76627f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2013",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

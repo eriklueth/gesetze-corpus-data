@@ -4,9 +4,12 @@
   "bjnr": "BJNR237900017",
   "eli": null,
   "gii_slug": "bimschv_42",
-  "ingested_at": "2026-04-18T20:28:13Z",
   "jurabk": "BImSchV 42",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "2ff5f7b58186f23c6718b369d5c3b97d02a0e2ef0b6651a93900e02888f8eff9"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweiundvierzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

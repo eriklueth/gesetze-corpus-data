@@ -4,9 +4,11 @@
   "bjnr": "BJNR079800996",
   "eli": null,
   "gii_slug": "baupgp_zanerkv",
-  "ingested_at": "2026-04-18T20:29:26Z",
   "jurabk": "BauPGPÜZAnerkV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "2b010dc11aaa1f84394280f922d7f86fb34490cf30ab63a40b170a5008828b3a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Anerkennung als Prüf-, Überwachungs- und Zertifizierungsstelle nach dem Bauproduktengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

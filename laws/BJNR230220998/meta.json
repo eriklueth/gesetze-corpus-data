@@ -4,9 +4,9 @@
   "bjnr": "BJNR230220998",
   "eli": null,
   "gii_slug": "sprengmark_bk",
-  "ingested_at": "2026-04-18T20:40:33Z",
   "jurabk": "SprengMarkÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7ec4be0eba83d788c93d071ca6c8528658df2755530e13357b6c7e9d5fa1649e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Markierung von Plastiksprengstoffen zum Zweck des Aufspürens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR174100002",
   "eli": null,
   "gii_slug": "mitbestgwo_3_2002",
-  "ingested_at": "2026-04-18T20:28:10Z",
   "jurabk": "MitbestGWO 3 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 124
+  },
   "source_hashes": {
     "source_xml_sha256": "0cd59ed3774eeabd0928328b3a3a73e9c5736cbf727a245eb1d5d062d71c0bcc"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Dritte Wahlordnung zum Mitbestimmungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR133220015",
   "eli": null,
   "gii_slug": "dbazusabkg_fra_2015",
-  "ingested_at": "2026-04-18T20:31:34Z",
   "jurabk": "DBAZusAbkG FRA 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "75522e8f2277f2a1aaa5940b75039108bc1d70bd4554a5d8e9bbb5a40b62ab0d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Zusatzabkommen vom 31. März 2015 zum Abkommen vom 21. Juli 1959 zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Vermeidung der Doppelbesteuerungen und über gegenseitige Amts- und Rechtshilfe auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie der Gewerbesteuern und der Grundsteuern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR138200015",
   "eli": null,
   "gii_slug": "thamnv",
-  "ingested_at": "2026-04-18T20:41:09Z",
   "jurabk": "THAMNV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "3f8dcd86bbbe45b93b2b4df6a686d484cb91b061cfd6c98bde4a2dd28075eee7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Nachweispflichten der Tierhalter für Arzneimittel, die zur Anwendung bei Tieren bestimmt sind",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

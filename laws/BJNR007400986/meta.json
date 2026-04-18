@@ -4,9 +4,11 @@
   "bjnr": "BJNR007400986",
   "eli": null,
   "gii_slug": "afg_116g",
-  "ingested_at": "2026-04-18T20:28:29Z",
   "jurabk": "AFG§116G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "57bf1a0af660e49f373408c14f07c10409521ee3a722eefe62c434720b0c7400"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Sicherung der Neutralität der Bundesanstalt für Arbeit bei Arbeitskämpfen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

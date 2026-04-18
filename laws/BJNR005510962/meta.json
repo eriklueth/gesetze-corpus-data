@@ -4,9 +4,11 @@
   "bjnr": "BJNR005510962",
   "eli": null,
   "gii_slug": "g_kg_6av",
-  "ingested_at": "2026-04-18T20:34:20Z",
   "jurabk": "GüKG§6aV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "6ce66448578bf5c5e87edcc25707491548a510b067b92364d0e018cbb584a020"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Anerkennung von Stadt- und Landkreisen nach § 6a des Güterkraftverkehrsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

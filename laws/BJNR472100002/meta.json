@@ -4,9 +4,12 @@
   "bjnr": "BJNR472100002",
   "eli": null,
   "gii_slug": "fovzv",
-  "ingested_at": "2026-04-18T20:33:24Z",
   "jurabk": "FoVZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "c054632a89e55e760f08796ffaae0a913f4415a594e3a8dfe8665950ad1c2190"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Forstvermehrungsgut-Zulassungsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

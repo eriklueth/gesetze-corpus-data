@@ -4,9 +4,11 @@
   "bjnr": "DDNR001850977",
   "eli": null,
   "gii_slug": "agb_ddr",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AGB DDR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "6df669c68e333c108bfe598b57b05fc125e8ed8c87b5a85c0585db8a9d33aa68"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Arbeitsgesetzbuch der Deutschen Demokratischen Republik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

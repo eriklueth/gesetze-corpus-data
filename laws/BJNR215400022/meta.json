@@ -4,9 +4,12 @@
   "bjnr": "BJNR215400022",
   "eli": null,
   "gii_slug": "co2kostaufg",
-  "ingested_at": "2026-04-18T20:31:20Z",
   "jurabk": "CO2KostAufG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "b1e84e63518c07220faa5bf8a8b930e880078a9b4f01c1c699a582c369ff2027"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Aufteilung der Kohlendioxidkosten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

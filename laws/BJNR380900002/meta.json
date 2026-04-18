@@ -4,9 +4,11 @@
   "bjnr": "BJNR380900002",
   "eli": null,
   "gii_slug": "rohrfltgv",
-  "ingested_at": "2026-04-18T20:39:04Z",
   "jurabk": "RohrFLtgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "5335c37c251588c0addd2f5cd0bcfb2bbfe6ed61b213404975d5a02d7186525a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Rohrfernleitungsanlagen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

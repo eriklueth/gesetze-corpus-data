@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR150400002",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 (weggefallen)",
         "Abschnitt 3 Übergangs- und Schlussbestimmungen"
@@ -13,6 +14,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 (weggefallen)",
         "Abschnitt 3 Übergangs- und Schlussbestimmungen"
@@ -23,6 +25,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 (weggefallen)",
         "Abschnitt 3 Übergangs- und Schlussbestimmungen"
@@ -33,6 +36,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 (weggefallen)",
         "Abschnitt 3 Übergangs- und Schlussbestimmungen"
@@ -43,6 +47,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 (weggefallen)",
         "Abschnitt 3 Übergangs- und Schlussbestimmungen"

@@ -4,9 +4,11 @@
   "bjnr": "DDNR006330990",
   "eli": null,
   "gii_slug": "aslwapfg",
-  "ingested_at": "2026-04-18T20:28:53Z",
   "jurabk": "ASLwApFG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "117cc51da4c2c8ae2ee85ba6e6f302f2ce59ed39b68e70ba176cb78f0fd28c2b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Förderung der agrarstrukturellen und agrarsozialen Anpassung der Landwirtschaft der DDR an die soziale Marktwirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

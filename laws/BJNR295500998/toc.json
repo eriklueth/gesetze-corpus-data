@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR295500998",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0002a.md",
       "heading": "Anforderungen an die Fremdstoffentfrachtung",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 13,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Anforderungen an die hygienisierende Behandlung",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0003a.md",
       "heading": "Anforderungen an die biologisch stabilisierende Behandlung",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003b.md",
       "heading": "Behandlung von Bioabfällen in Betrieben mit Nutztierhaltung",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003c.md",
       "heading": "Schadstoff- und Fremdstoffminimierung",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Anforderungen hinsichtlich der Schadstoffe und weiterer Parameter",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Anforderungen an Gemische",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0005a.md",
       "heading": "Rückstellprobe",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Beschränkungen und Verbote der Aufbringung",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Zusätzliche Anforderungen bei der Aufbringung auf Grünlandflächen sowie Feldfutter- und Feldgemüseanbauflächen",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Zusammentreffen von Bioabfall- und Klärschlammaufbringung",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Bodenuntersuchungen",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0009a.md",
       "heading": "Zusätzliche Anforderungen an die Verwertung von bestimmten Bioabfällen",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Freistellung von den Anforderungen an die Behandlung und Untersuchung von bestimmten Bioabfällen",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Nachweispflichten",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Ausnahmen für Kleinflächen",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0012a.md",
       "heading": "Elektronische Datenverarbeitung und -übermittlung",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Ordnungswidrigkeiten",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0013a.md",
       "heading": "Bestimmungen für bestehende Anlagen",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0013b.md",
       "heading": "Übergangsbestimmungen für geltende und vergleichbare Hygieneprüfungen sowie für geltende Ausnahmezulassungen",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Inkrafttreten",

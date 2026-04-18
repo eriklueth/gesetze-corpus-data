@@ -4,9 +4,12 @@
   "bjnr": "BJNR009000994",
   "eli": null,
   "gii_slug": "gr_ndstvtr_bb_st",
-  "ingested_at": "2026-04-18T20:34:13Z",
   "jurabk": "GrÄndStVtr BB/ST",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "32dd8703d5c3dd910d468afe570695926675bf8022b244634e4b8041f63ae9fd"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Staatsvertrag zwischen den Ländern Brandenburg und Sachsen-Anhalt über die Änderung der gemeinsamen Landesgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

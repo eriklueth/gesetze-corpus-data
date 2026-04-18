@@ -4,9 +4,11 @@
   "bjnr": "BJNR327600997",
   "eli": null,
   "gii_slug": "fischwivorschraufhg",
-  "ingested_at": "2026-04-18T20:33:13Z",
   "jurabk": "FischWiVorschrAufhG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "cdd30770b178edb81ef52ae30da192128654b024e5d55471662a54bc09ae99da"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Aufhebung des Fischwirtschaftsgesetzes und der Fischwirtschaftsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

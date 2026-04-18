@@ -4,9 +4,11 @@
   "bjnr": "BJNR002800986",
   "eli": null,
   "gii_slug": "auslwobaug",
-  "ingested_at": "2026-04-18T20:29:13Z",
   "jurabk": "AuslWoBauG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "01cb5f6c682429f76985264d632d7c4b7e2de24d6cb8303cc6d01425b85c479f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über eine Wiedereingliederungshilfe im Wohnungsbau für rückkehrende Ausländer",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

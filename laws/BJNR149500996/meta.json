@@ -4,9 +4,9 @@
   "bjnr": "BJNR149500996",
   "eli": null,
   "gii_slug": "patg_16aabs1bek_96",
-  "ingested_at": "2026-04-18T20:38:06Z",
   "jurabk": "PatG§16aAbs1Bek 96",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "31b30e7fe1457dd181b47ddf9c3ca3326af8782278f8172e2e9e0eddc9dadee2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 16a Abs. 1 des Patentgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

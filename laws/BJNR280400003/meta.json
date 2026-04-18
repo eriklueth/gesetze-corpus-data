@@ -4,9 +4,11 @@
   "bjnr": "BJNR280400003",
   "eli": null,
   "gii_slug": "zwvwv",
-  "ingested_at": "2026-04-18T20:43:24Z",
   "jurabk": "ZwVwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 26
+  },
   "source_hashes": {
     "source_xml_sha256": "1a11d288f4aced871e3260462fc761fc7299b6e6ff62429dd1931123a824b8a8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Zwangsverwalterverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

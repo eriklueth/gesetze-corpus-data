@@ -4,9 +4,12 @@
   "bjnr": "BJNR154500008",
   "eli": null,
   "gii_slug": "landbaumtausbv_2008",
-  "ingested_at": "2026-04-18T20:35:47Z",
   "jurabk": "LandBauMTAusbV 2008",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "1f8db9f42a0e38e762164d58ef0e0c176975e829eb93c8fefe023bf5881367f7"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Land- und Baumaschinenmechatroniker und zur Land- und Baumaschinenmechatronikerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

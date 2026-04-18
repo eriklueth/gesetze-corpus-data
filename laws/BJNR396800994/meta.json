@@ -4,9 +4,9 @@
   "bjnr": "BJNR396800994",
   "eli": null,
   "gii_slug": "chemg_28bek",
-  "ingested_at": "2026-04-18T20:31:19Z",
   "jurabk": "ChemG§28Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5620e0799108bef90addfd02c2f0a707d36aa2394d4a5679d38c14e7aeb0f918"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 28 des Chemikaliengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

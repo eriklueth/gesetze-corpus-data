@@ -4,9 +4,9 @@
   "bjnr": "BJNR204910952",
   "eli": null,
   "gii_slug": "egksvtr_abk",
-  "ingested_at": "2026-04-18T20:31:59Z",
   "jurabk": "EGKSVtrÜAbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "16c32fe5340e641819ce276300dde57b131eed6c18c9be6a7007eba3dff10e68"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen über die Übergangsbestimmungen des Vertrages über die Gründung der Europäischen Gemeinschaft für Kohle und Stahl",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

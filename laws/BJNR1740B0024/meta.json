@@ -4,9 +4,9 @@
   "bjnr": "BJNR1740B0024",
   "eli": null,
   "gii_slug": "sgb7_178abs1v_3",
-  "ingested_at": "2026-04-18T20:39:59Z",
   "jurabk": "SGB7§178Abs1V 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2215cb17799a91e4afeada17b05c6a1fc3d5ce651e04d7e43a5d6f8cb4a948b0"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Dritte Verordnung zur Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

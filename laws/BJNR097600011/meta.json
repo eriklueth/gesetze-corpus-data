@@ -4,9 +4,12 @@
   "bjnr": "BJNR097600011",
   "eli": null,
   "gii_slug": "druckverarbausbv",
-  "ingested_at": "2026-04-18T20:31:51Z",
   "jurabk": "DruckverarbAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "fff4f2f5966a4316d9c5f3126872c9a8c372e0abccdffe53b29159fc7d18ff7e"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR286900019",
   "eli": null,
   "gii_slug": "albeitrbek_2020",
-  "ingested_at": "2026-04-18T20:28:37Z",
   "jurabk": "ALBeitrBek 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "384e61f252040a6247c17457fcd90891db2e701f6ac02bb68978bd36f0e3885a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2020",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

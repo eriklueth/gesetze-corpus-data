@@ -4,9 +4,9 @@
   "bjnr": "BJNR109590982",
   "eli": null,
   "gii_slug": "bmpernano_1982",
-  "ingested_at": "2026-04-18T20:30:27Z",
   "jurabk": "BMPErnAnO 1982",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "90f006fba2e98a822b03a3efc805e79fbfec5b48dc994bbb10895ef274551751"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich des Bundesministers für das Post- und Fernmeldewesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

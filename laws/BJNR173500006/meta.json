@@ -4,9 +4,12 @@
   "bjnr": "BJNR173500006",
   "eli": null,
   "gii_slug": "tiernebv",
-  "ingested_at": "2026-04-18T20:41:13Z",
   "jurabk": "TierNebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 30
+  },
   "source_hashes": {
     "source_xml_sha256": "ce03128b2b8d986f95decffcc79783812b9895113e59863e7c9fc8f040dd5f94"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Tierische Nebenprodukte-Beseitigungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

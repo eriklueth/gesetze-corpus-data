@@ -4,9 +4,9 @@
   "bjnr": "BJNR209170954",
   "eli": null,
   "gii_slug": "zpersabk_genf",
-  "ingested_at": "2026-04-18T20:43:17Z",
   "jurabk": "ZPersAbk Genf",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ae62308f4b78b7d6c13594aa03fe50a43a664817b53ae09a62aedf1e140cfb55"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "IV. Genfer Abkommen vom 12. August 1949 zum Schutze von Zivilpersonen in Kriegszeiten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

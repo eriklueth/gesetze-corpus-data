@@ -4,9 +4,12 @@
   "bjnr": "BJNR148700004",
   "eli": null,
   "gii_slug": "fertigpltischlprv",
-  "ingested_at": "2026-04-18T20:33:03Z",
   "jurabk": "FertigPlTischlPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "c3802b60a97d3acf1ec273e0b713b3705e920eda4b10aa2abde42d5cd6f7dc4b"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Fertigungsplaner/Geprüfte Fertigungsplanerin im Tischlerhandwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

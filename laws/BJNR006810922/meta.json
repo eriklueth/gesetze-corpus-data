@@ -4,9 +4,12 @@
   "bjnr": "BJNR006810922",
   "eli": null,
   "gii_slug": "luftvg",
-  "ingested_at": "2026-04-18T20:36:00Z",
   "jurabk": "LuftVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 134
+  },
   "source_hashes": {
     "source_xml_sha256": "42cd85361b8e1e50ca5d97653837b5dadda6aab9c7345f88e457f6cb9f8f8ba0"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Luftverkehrsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

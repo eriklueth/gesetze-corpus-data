@@ -4,9 +4,9 @@
   "bjnr": "BJNR008870972",
   "eli": null,
   "gii_slug": "olympiam_nz1bek",
-  "ingested_at": "2026-04-18T20:37:53Z",
   "jurabk": "OlympiaMünz1Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d819c11fff57fd8fa444bbe73a73917b1a7f7101d7e1758287e91053d4a99a34"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Olympiamünze - 1. Motiv/Aufstockung)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR006610968",
   "eli": null,
   "gii_slug": "rspreinhg",
-  "ingested_at": "2026-04-18T20:39:05Z",
   "jurabk": "RsprEinhG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 21
+  },
   "source_hashes": {
     "source_xml_sha256": "d3c71e15421a693feb4a496d3e1d785e3ebb2d283d3eb505ced4dd8f93dd527b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Wahrung der Einheitlichkeit der Rechtsprechung der obersten Gerichtshöfe des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

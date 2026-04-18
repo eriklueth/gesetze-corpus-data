@@ -4,9 +4,12 @@
   "bjnr": "BJNR016500000",
   "eli": null,
   "gii_slug": "tauchprv_2000",
-  "ingested_at": "2026-04-18T20:41:02Z",
   "jurabk": "TauchPrV 2000",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "2f38422388ea6cc77e4b78d04c16fed181dff0e3ba39d883dc124898626abe3f"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Taucher/Geprüfte Taucherin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

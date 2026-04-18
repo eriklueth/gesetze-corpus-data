@@ -4,9 +4,9 @@
   "bjnr": "BJNR037820013",
   "eli": null,
   "gii_slug": "schwarzarbvtrg_nld",
-  "ingested_at": "2026-04-18T20:39:40Z",
   "jurabk": "SchwarzArbVtrG NLD",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a77bcaa56022f4ed1fd59da7f3b51d73155e472dac7cd51cf33b13ba1bf5c4b1"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 12. Januar 2012 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenarbeit bei der Bekämpfung des grenzüberschreitenden Missbrauchs bei Sozialversicherungsleistungen und -beiträgen durch Erwerbstätigkeit und bei Leistungen der Grundsicherung für Arbeitsuchende sowie von nicht angemeldeter Erwerbstätigkeit und illegaler grenzüberschreitender Leiharbeit (Deutsch-Niederländischer Vertrag zur Bekämpfung grenzüberschreitender Schwarzarbeit)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

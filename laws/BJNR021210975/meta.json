@@ -4,9 +4,11 @@
   "bjnr": "BJNR021210975",
   "eli": null,
   "gii_slug": "gefahrgutg",
-  "ingested_at": "2026-04-18T20:33:56Z",
   "jurabk": "GefahrgutG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "8ee37e1877799d3f781f157f6b73ef577fd918c9f5e029b16f1a8e1a80695972"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Beförderung gefährlicher Güter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

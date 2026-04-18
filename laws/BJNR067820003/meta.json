@@ -4,9 +4,11 @@
   "bjnr": "BJNR067820003",
   "eli": null,
   "gii_slug": "sozsichabksvkg",
-  "ingested_at": "2026-04-18T20:40:28Z",
   "jurabk": "SozSichAbkSVKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "5d3687de629ad034a88d2a9e154313a0c05597d17cba66846aeb4a146939b968"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 12. September 2002 zwischen der Bundesrepublik Deutschland und der Slowakischen Republik über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR273000009",
   "eli": null,
   "gii_slug": "kvbevo",
-  "ingested_at": "2026-04-18T20:35:46Z",
   "jurabk": "KVBEVO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "3de36763a6042038f424029663855fa570fb3bb3c8ad9465e16487d59f43eeef"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur tarifbezogenen Ermittlung der steuerlich berücksichtigungsfähigen Beiträge zum Erwerb eines Krankenversicherungsschutzes im Sinne des § 10 Absatz 1 Nummer 3 Buchstabe a des Einkommensteuergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

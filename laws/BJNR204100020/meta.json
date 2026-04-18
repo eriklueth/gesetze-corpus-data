@@ -4,9 +4,11 @@
   "bjnr": "BJNR204100020",
   "eli": null,
   "gii_slug": "m_nz20eurobek_2020-08-20_2",
-  "ingested_at": "2026-04-18T20:37:10Z",
   "jurabk": "Münz20EuroBek 2020-08-20/2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "1292bba8f6c0ac2ccb60b7cd5d20e42bf4a09b69956b622e93616bf6276ba0b5"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „900 Jahre Freiburg“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

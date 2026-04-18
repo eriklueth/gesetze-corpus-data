@@ -4,9 +4,12 @@
   "bjnr": "BJNR286500020",
   "eli": null,
   "gii_slug": "gafg",
-  "ingested_at": "2026-04-18T20:33:32Z",
   "jurabk": "GaFG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "38e5a73a29884bbb395557b055fb9e6a3b9aed17ada9c221b54101a66184687c"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Errichtung des Sondervermögens „Ausbau ganztägiger Bildungs- und Betreuungsangebote für Kinder im Grundschulalter“",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

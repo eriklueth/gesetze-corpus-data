@@ -4,9 +4,12 @@
   "bjnr": "BJNR061000007",
   "eli": null,
   "gii_slug": "holzbauschausbv",
-  "ingested_at": "2026-04-18T20:34:31Z",
   "jurabk": "HolzBauSchAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "1a9799fb463697498f8868323fe9e820a2ca11f027e59a7b0e5c56dffcd68fc5"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung im Holz- und Bautenschutzgewerbe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

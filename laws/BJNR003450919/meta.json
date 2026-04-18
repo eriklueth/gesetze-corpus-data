@@ -4,9 +4,9 @@
   "bjnr": "BJNR003450919",
   "eli": null,
   "gii_slug": "bierstgemw_g",
-  "ingested_at": "2026-04-18T20:30:03Z",
   "jurabk": "BierStGemWÜG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "473e9dc2590ba3bcd53aa83fbbd24b309217ecaf8d3f55e0f05143b5d977ba02"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über den Eintritt des Freistaats Württemberg in die Biersteuergemeinschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

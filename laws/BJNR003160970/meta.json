@@ -4,9 +4,11 @@
   "bjnr": "BJNR003160970",
   "eli": null,
   "gii_slug": "usterstvo",
-  "ingested_at": "2026-04-18T20:41:38Z",
   "jurabk": "UStErstVO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "996737b3d1310ba2156ee66b96a1bd7440455d3c920373da3b4aa4d651dbc3f1"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Erstattung von Umsatzsteuer an ausländische ständige diplomatische Missionen und berufskonsularische Vertretungen sowie an ihre ausländischen Mitglieder",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0FA0B0025",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "II. Wahl des Bundeskanzlers"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "III. Präsident, Präsidium und Ältestenrat"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "III. Präsident, Präsidium und Ältestenrat"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "III. Präsident, Präsidium und Ältestenrat"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "III. Präsident, Präsidium und Ältestenrat"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "III. Präsident, Präsidium und Ältestenrat"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "IV. Fraktionen"
@@ -109,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "IV. Fraktionen"
@@ -119,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "IV. Fraktionen"
@@ -129,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "IV. Fraktionen"
@@ -139,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "V. Die Mitglieder des Bundestages"
@@ -149,6 +164,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "V. Die Mitglieder des Bundestages"
@@ -159,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "V. Die Mitglieder des Bundestages"
@@ -169,6 +186,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "V. Die Mitglieder des Bundestages"
@@ -179,6 +197,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "V. Die Mitglieder des Bundestages"
@@ -189,6 +208,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "V. Die Mitglieder des Bundestages"
@@ -199,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -209,6 +230,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -219,6 +241,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -229,6 +252,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -239,6 +263,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -249,6 +274,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -259,6 +285,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -269,6 +296,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -279,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -289,6 +318,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -299,6 +329,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -309,6 +340,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -319,6 +351,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -329,6 +362,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -339,6 +373,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -349,6 +384,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -359,6 +395,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -369,6 +406,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -379,6 +417,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -389,6 +428,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -399,6 +439,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -409,6 +450,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -419,6 +461,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -429,6 +472,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -439,6 +483,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -449,6 +494,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -459,6 +505,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -469,6 +516,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -479,6 +527,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -489,6 +538,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -499,6 +549,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -509,6 +560,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -519,6 +571,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -529,6 +582,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -539,6 +593,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -549,6 +604,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VI. Tagesordnung, Einberufung, Leitung der Sitzung und Ordnungsmaßnahmen"
@@ -559,6 +615,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -569,6 +626,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -579,6 +637,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -589,6 +648,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -599,6 +659,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -609,6 +670,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -619,6 +681,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -629,6 +692,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -639,6 +703,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -649,6 +714,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -659,6 +725,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -669,6 +736,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -679,6 +747,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -689,6 +758,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -699,6 +769,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -709,6 +780,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -719,6 +791,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -729,6 +802,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -739,6 +813,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -749,6 +824,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -759,6 +835,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -769,6 +846,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -779,6 +857,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -789,6 +868,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VII. Ausschüsse"
@@ -799,6 +879,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -809,6 +890,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -819,6 +901,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -829,6 +912,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -839,6 +923,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -849,6 +934,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -859,6 +945,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -869,6 +956,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -879,6 +967,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -889,6 +978,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -899,6 +989,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -909,6 +1000,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -919,6 +1011,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -929,6 +1022,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -939,6 +1033,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -949,6 +1044,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -959,6 +1055,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -969,6 +1066,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -979,6 +1077,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -989,6 +1088,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -999,6 +1099,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1009,6 +1110,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1019,6 +1121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1029,6 +1132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1039,6 +1143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1049,6 +1154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1059,6 +1165,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1069,6 +1176,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1079,6 +1187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1089,6 +1198,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1099,6 +1209,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1109,6 +1220,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1119,6 +1231,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1129,6 +1242,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1139,6 +1253,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1149,6 +1264,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1159,6 +1275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1169,6 +1286,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1179,6 +1297,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "VIII. Vorlagen und ihre Behandlung"
@@ -1189,6 +1308,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "IX. Behandlung von Petitionen"
@@ -1199,6 +1319,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "IX. Behandlung von Petitionen"
@@ -1209,6 +1330,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "IX. Behandlung von Petitionen"
@@ -1219,6 +1341,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "IX. Behandlung von Petitionen"
@@ -1229,6 +1352,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "IX. Behandlung von Petitionen"
@@ -1239,6 +1363,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "X. Der Wehrbeauftragte des Bundestages"
@@ -1249,6 +1374,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "X. Der Wehrbeauftragte des Bundestages"
@@ -1259,6 +1385,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "X. Der Wehrbeauftragte des Bundestages"
@@ -1269,6 +1396,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1279,6 +1407,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1289,6 +1418,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1299,6 +1429,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1309,6 +1440,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1319,6 +1451,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1329,6 +1462,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1339,6 +1473,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1349,6 +1484,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1359,6 +1495,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1369,6 +1506,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XI. Beurkundung und Vollzug der Beschlüsse des Bundestages"
@@ -1379,6 +1517,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XII. Abweichungen und Auslegung dieser Geschäftsordnung"
@@ -1389,6 +1528,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XII. Abweichungen und Auslegung dieser Geschäftsordnung"
@@ -1399,6 +1539,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XII. Abweichungen und Auslegung dieser Geschäftsordnung"
@@ -1409,6 +1550,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XII. Abweichungen und Auslegung dieser Geschäftsordnung"
@@ -1419,6 +1561,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XII. Abweichungen und Auslegung dieser Geschäftsordnung"
@@ -1429,6 +1572,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XII. Abweichungen und Auslegung dieser Geschäftsordnung"
@@ -1439,6 +1583,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XII. Abweichungen und Auslegung dieser Geschäftsordnung"
@@ -1449,6 +1594,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XII. Abweichungen und Auslegung dieser Geschäftsordnung"
@@ -1459,6 +1605,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XII. Abweichungen und Auslegung dieser Geschäftsordnung"
@@ -1469,6 +1616,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Wahl des Präsidenten, der Vizepräsidenten und Schriftführer",
         "XII. Abweichungen und Auslegung dieser Geschäftsordnung"

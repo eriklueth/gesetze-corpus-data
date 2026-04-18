@@ -4,9 +4,11 @@
   "bjnr": "BJNR006930971",
   "eli": null,
   "gii_slug": "kredaufnbegrv_1971",
-  "ingested_at": "2026-04-18T20:35:34Z",
   "jurabk": "KredAufnBegrV 1971",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "b28053d4fa9ce5b33bc928f01e2a271476d399e183961a3476a659771049c923"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Begrenzung der Kreditaufnahme durch Bund und Länder im Haushaltsjahr 1971",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

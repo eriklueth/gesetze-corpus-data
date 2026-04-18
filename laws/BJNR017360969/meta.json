@@ -4,9 +4,11 @@
   "bjnr": "BJNR017360969",
   "eli": null,
   "gii_slug": "wzg_4afrobek",
-  "ingested_at": "2026-04-18T20:42:56Z",
   "jurabk": "WZG§4AfrOBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "d2de522380a0d511fbcd5da079db1637b1e80068d1eb58bf4eea3fbb26ca4c57"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR001010981",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Meldungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Meldungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Meldungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Meldungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Meldungen",
         "Zweiter Abschnitt Lenkungsmaßnahmen"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Meldungen",
         "Zweiter Abschnitt Lenkungsmaßnahmen"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Meldungen",
         "Zweiter Abschnitt Lenkungsmaßnahmen"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Meldungen",
         "Zweiter Abschnitt Lenkungsmaßnahmen"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Meldungen",
         "Dritter Abschnitt Schlußvorschriften"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Meldungen",
         "Dritter Abschnitt Schlußvorschriften"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Meldungen",
         "Dritter Abschnitt Schlußvorschriften"

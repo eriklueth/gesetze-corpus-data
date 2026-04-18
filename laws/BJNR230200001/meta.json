@@ -4,9 +4,11 @@
   "bjnr": "BJNR230200001",
   "eli": null,
   "gii_slug": "ma_stg",
-  "ingested_at": "2026-04-18T20:36:27Z",
   "jurabk": "MaßstG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "6c9fbefd2f150bc1122f71b3a0750a2426033245ae667dd75eeebc551b3dd60b"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die Verteilung des Umsatzsteueraufkommens, für den Finanzkraftausgleich sowie für die Gewährung von Bundesergänzungszuweisungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

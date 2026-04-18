@@ -4,9 +4,9 @@
   "bjnr": "BJNR207030964",
   "eli": null,
   "gii_slug": "fambhvbg_fra",
-  "ingested_at": "2026-04-18T20:33:01Z",
   "jurabk": "FamBhVbg FRA",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1e5a1d97ccdc20c347a75c6f66ad32e10fa233a2f8b8c77a422bb99130ef2d01"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vereinbarung zwischen der Bundesrepublik Deutschland und Frankreich über die Familienbeihilfen für Grenzgänger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR212350967",
   "eli": null,
   "gii_slug": "kultgschkonv",
-  "ingested_at": "2026-04-18T20:35:42Z",
   "jurabk": "KultgSchKonv",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "193939efcb75da5ff48e611238e0a5da532863273643d3b28e0b251cfbab75a0"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Konvention zum Schutz von Kulturgut bei bewaffneten Konflikten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

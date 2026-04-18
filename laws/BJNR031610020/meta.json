@@ -4,9 +4,9 @@
   "bjnr": "BJNR031610020",
   "eli": null,
   "gii_slug": "bbesganlivnr1u4bek",
-  "ingested_at": "2026-04-18T20:29:29Z",
   "jurabk": "BBesGAnlIVNr1u4Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d792d549668b7be542f993ab5b55ee36ca3dacd85a83d7a3b211864a8e64bf59"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung nach Anlage IV Nummer 1 und 4 des Bundesbesoldungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

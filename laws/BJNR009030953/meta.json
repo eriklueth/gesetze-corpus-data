@@ -4,9 +4,12 @@
   "bjnr": "BJNR009030953",
   "eli": null,
   "gii_slug": "fstrg",
-  "ingested_at": "2026-04-18T20:33:28Z",
   "jurabk": "FStrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 50
+  },
   "source_hashes": {
     "source_xml_sha256": "ab1dcfa6dbce74a901c277add59ee9635dc3f918baf4d09bdb064c59f329187a"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Bundesfernstraßengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

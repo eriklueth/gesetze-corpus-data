@@ -4,9 +4,9 @@
   "bjnr": "BJNR209320981",
   "eli": null,
   "gii_slug": "svverzabk_irl",
-  "ingested_at": "2026-04-18T20:40:59Z",
   "jurabk": "SVVerzAbk IRL",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c0f0e92725e5ce50d08205c75416cc0408b31f80ac8ecabee831cca8c8c07a51"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung Irlands über den Verzicht auf die Erstattung von Aufwendungen für Sachleistungen bei Krankheit, Mutterschaft, Arbeitsunfall und Berufskrankheit, der Leistungen an Arbeitslose sowie der Kosten für verwaltungsmäßige und ärztliche Kontrollen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

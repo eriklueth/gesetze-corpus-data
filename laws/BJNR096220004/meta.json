@@ -4,9 +4,11 @@
   "bjnr": "BJNR096220004",
   "eli": null,
   "gii_slug": "rhivtrcang",
-  "ingested_at": "2026-04-18T20:39:02Z",
   "jurabk": "RHiVtrCANG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "4fce6deaf3068883c5dd29b4f16f83f87a04e1a2c8714f4d9ab2b8947a1464c7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Vertrag vom 13. Mai 2002 zwischen der Bundesrepublik Deutschland und Kanada über die Rechtshilfe in Strafsachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

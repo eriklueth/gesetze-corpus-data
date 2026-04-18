@@ -4,9 +4,11 @@
   "bjnr": "BJNR268210990",
   "eli": null,
   "gii_slug": "bukg_1990",
-  "ingested_at": "2026-04-18T20:31:05Z",
   "jurabk": "BUKG 1990",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "87fdd42aa8fd31888670b6b3474614a4422e32062ba6b482d864b27b6f5ed236"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Umzugskostenvergütung für die Bundesbeamten, Richter im Bundesdienst und Soldaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

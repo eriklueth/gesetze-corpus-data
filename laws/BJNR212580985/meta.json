@@ -4,9 +4,9 @@
   "bjnr": "BJNR212580985",
   "eli": null,
   "gii_slug": "egbeitrvtr_esp_prt",
-  "ingested_at": "2026-04-18T20:31:59Z",
   "jurabk": "EGBeitrVtr ESP/PRT",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "93d44a17593eaf0e0858409e99377ac4c2e84ab88ecb3e04629723518429417f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen dem Königreich Belgien, dem Königreich Dänemark, der Bundesrepublik Deutschland, der Griechischen Republik, der Französischen Republik, Irland, der Italienischen Republik, dem Großherzogtum Luxemburg, dem Königreich der Niederlande, dem Vereinigten Königreich Großbritannien und Nordirland (Mitgliedstaaten der Europäischen Gemeinschaften) und dem Königreich Spanien und der Portugiesischen Republik über den Beitritt des Königreichs Spanien und der Portugiesischen Republik zur Europäischen Wirtschaftsgemeinschaft und zur Europäischen Atomgemeinschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

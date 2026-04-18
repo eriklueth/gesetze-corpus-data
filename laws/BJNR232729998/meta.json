@@ -4,9 +4,11 @@
   "bjnr": "BJNR232729998",
   "eli": null,
   "gii_slug": "intbestg",
-  "ingested_at": "2026-04-18T20:34:52Z",
   "jurabk": "IntBestG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "efaf4fda7aa289a93db88cb6507807e68c5c463b972aba5c6ae5a4b50c83e92a"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 17. Dezember 1997 über die Bekämpfung der Bestechung ausländischer Amtsträger im internationalen Geschäftsverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

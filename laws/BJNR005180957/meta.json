@@ -4,9 +4,9 @@
   "bjnr": "BJNR005180957",
   "eli": null,
   "gii_slug": "persstdg_ndg_2",
-  "ingested_at": "2026-04-18T20:38:10Z",
   "jurabk": "PersStdGÄndG 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d15ddee0d5db164f2b9fc0c8e7c2637da55d02d55a0f7a330a46bace5fe504ed"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweites Gesetz zur Änderung und Ergänzung des Personenstandsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

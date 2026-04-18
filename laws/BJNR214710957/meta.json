@@ -4,9 +4,9 @@
   "bjnr": "BJNR214710957",
   "eli": null,
   "gii_slug": "schvermssg_bk",
-  "ingested_at": "2026-04-18T20:39:39Z",
   "jurabk": "SchVermssgÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b638c1af578b2c1846c919ef7ecd4f9088656db2c016b2c6f0434faa42410d8e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über ein einheitliches System der Schiffsvermessung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

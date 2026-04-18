@@ -4,9 +4,12 @@
   "bjnr": "BJNR009410017",
   "eli": null,
   "gii_slug": "chemverbotsv_2017",
-  "ingested_at": "2026-04-18T20:31:19Z",
   "jurabk": "ChemVerbotsV 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "78c227680c051de7042e36a8ee55cc293ab12bc41ca683ba5c65fd04abcf3221"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Verordnung über Verbote und Beschränkungen des Inverkehrbringens und über die Abgabe bestimmter Stoffe, Gemische und Erzeugnisse nach dem Chemikaliengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

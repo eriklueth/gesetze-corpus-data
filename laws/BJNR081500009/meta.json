@@ -4,9 +4,9 @@
   "bjnr": "BJNR081500009",
   "eli": null,
   "gii_slug": "patinfozbek_2009",
-  "ingested_at": "2026-04-18T20:38:07Z",
   "jurabk": "PatInfoZBek 2009",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9731267defe2276a0c0529797d74d3ba3f1ff9d2015ee960c69548b28543be28"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der zur Entgegennahme von Patent-, Gebrauchsmuster-, Marken- und Geschmacksmusteranmeldungen befugten Patentinformationszentren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR018960975",
   "eli": null,
   "gii_slug": "aufwerstv",
-  "ingested_at": "2026-04-18T20:29:01Z",
   "jurabk": "AufwErstV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "9cce1e2bbbd0976ed158bd35a0cf79e7560f5d477ca80eee3604624f59fb0609"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Erstattung von Aufwendungen für die gesetzliche Rentenversicherung der in Werkstätten beschäftigten Behinderten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

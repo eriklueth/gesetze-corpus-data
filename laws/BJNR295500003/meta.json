@@ -4,9 +4,11 @@
   "bjnr": "BJNR295500003",
   "eli": null,
   "gii_slug": "sgb_2",
-  "ingested_at": "2026-04-18T20:39:51Z",
   "jurabk": "SGB 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 152
+  },
   "source_hashes": {
     "source_xml_sha256": "38cd0483b7c15f3793278718620f092b5e1afad7f38dead0d5e4e0ba7bd7a000"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Sozialgesetzbuch (SGB) Zweites Buch (II) - Bürgergeld, Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

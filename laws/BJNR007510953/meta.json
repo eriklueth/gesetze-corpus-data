@@ -4,9 +4,11 @@
   "bjnr": "BJNR007510953",
   "eli": null,
   "gii_slug": "jgg",
-  "ingested_at": "2026-04-18T20:35:06Z",
   "jurabk": "JGG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 144
+  },
   "source_hashes": {
     "source_xml_sha256": "d4efc8d42c2bc3dcb59e0a67f86633a4b74eb91427dadd4c1928eccc9f01a2d4"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Jugendgerichtsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

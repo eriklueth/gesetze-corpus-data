@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0070C0026",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 (zukünftig in Kraft)",
         "Unterabschnitt 1 (zukünftig in Kraft)",
@@ -14,6 +15,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 (zukünftig in Kraft)",
         "Unterabschnitt 1 (zukünftig in Kraft)",
@@ -25,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 (zukünftig in Kraft)",
         "Unterabschnitt 1 (zukünftig in Kraft)",
@@ -36,6 +39,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 (zukünftig in Kraft)",
         "Unterabschnitt 1 (zukünftig in Kraft)",
@@ -47,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 (zukünftig in Kraft)",
         "Unterabschnitt 1 (zukünftig in Kraft)",
@@ -58,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 (zukünftig in Kraft)",
         "Unterabschnitt 1 (zukünftig in Kraft)",
@@ -69,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 (zukünftig in Kraft)",
         "Unterabschnitt 1 (zukünftig in Kraft)",
@@ -80,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 (zukünftig in Kraft)",
         "Unterabschnitt 1 (zukünftig in Kraft)",
@@ -91,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 (zukünftig in Kraft)",
         "Abschnitt 2 Schlussbestimmungen"

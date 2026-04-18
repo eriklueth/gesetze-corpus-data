@@ -4,9 +4,11 @@
   "bjnr": "BJNR052300020",
   "eli": null,
   "gii_slug": "pbnubestv_2020",
-  "ingested_at": "2026-04-18T20:38:09Z",
   "jurabk": "PBNUBestV 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "9f8224fe4bb37ab77120729b90ad3d06d48a44d4f939cfc60534da10d093fa84"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Bestimmung der Deutschen Bank AG als Postnachfolgeunternehmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

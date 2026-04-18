@@ -4,9 +4,11 @@
   "bjnr": "BJNR018190976",
   "eli": null,
   "gii_slug": "heimmitwirkungsv",
-  "ingested_at": "2026-04-18T20:34:25Z",
   "jurabk": "HeimMitwirkungsV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "fff671998c9d803560e8df321adbb9a5ebf98cb29f07051db601f89042e7ad3a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Mitwirkung der Bewohnerinnen und Bewohner in Angelegenheiten des Heimbetriebes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

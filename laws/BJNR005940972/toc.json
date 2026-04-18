@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR005940972",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "II. Allgemeine Vorschriften"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "II. Allgemeine Vorschriften"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "II. Allgemeine Vorschriften"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "II. Allgemeine Vorschriften"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "II. Allgemeine Vorschriften"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "II. Allgemeine Vorschriften"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "II. Allgemeine Vorschriften"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "III. Schutzmaßregeln gegen die Amerikanische Faulbrut",
@@ -93,6 +102,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "III. Schutzmaßregeln gegen die Amerikanische Faulbrut",
@@ -104,6 +114,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "III. Schutzmaßregeln gegen die Amerikanische Faulbrut",
@@ -115,6 +126,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "III. Schutzmaßregeln gegen die Amerikanische Faulbrut",
@@ -126,6 +138,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "III. Schutzmaßregeln gegen die Amerikanische Faulbrut",
@@ -137,6 +150,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "III. Schutzmaßregeln gegen die Amerikanische Faulbrut",
@@ -148,6 +162,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "III. Schutzmaßregeln gegen die Amerikanische Faulbrut",
@@ -159,6 +174,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "IV. Schutzmaßregeln gegen die Milbenseuche"
@@ -169,6 +185,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "IV. Schutzmaßregeln gegen die Milbenseuche"
@@ -179,6 +196,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "V. Schutzmaßregeln gegen die Varroatose"
@@ -189,6 +207,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VI. Schutzmaßregeln gegen den Befall mit dem Kleinen Beutenkäfer",
@@ -200,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VI. Schutzmaßregeln gegen den Befall mit dem Kleinen Beutenkäfer",
@@ -211,6 +231,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VI. Schutzmaßregeln gegen den Befall mit dem Kleinen Beutenkäfer",
@@ -222,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VI. Schutzmaßregeln gegen den Befall mit dem Kleinen Beutenkäfer",
@@ -233,6 +255,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VI. Schutzmaßregeln gegen den Befall mit dem Kleinen Beutenkäfer",
@@ -244,6 +267,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VI. Schutzmaßregeln gegen den Befall mit dem Kleinen Beutenkäfer",
@@ -255,6 +279,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VI. Schutzmaßregeln gegen den Befall mit dem Kleinen Beutenkäfer",
@@ -266,6 +291,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VII. Schutzmaßregeln gegen den Befall mit Tropilaelaps-Milben",
@@ -277,6 +303,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VII. Schutzmaßregeln gegen den Befall mit Tropilaelaps-Milben",
@@ -288,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VII. Schutzmaßregeln gegen den Befall mit Tropilaelaps-Milben",
@@ -299,6 +327,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VII. Schutzmaßregeln gegen den Befall mit Tropilaelaps-Milben",
@@ -310,6 +339,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "VIII. Ordnungswidrigkeiten"
@@ -320,6 +350,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "I. Begriffsbestimmungen",
         "IX. Schlussvorschriften"

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR069100016",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich und Grundsätze der Datenübermittlung",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Art und Umfang der Datenübermittlung",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Zu übermittelnde Daten",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Statistische Aufbereitung und Übermittlung der Daten; Veröffentlichung statistischer Auswertungen; Datenbank",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Datenübermittlung für die wissenschaftliche Forschung",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Anwendungsbestimmung",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Übergangsregelung",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 3 Absatz 1 Nummer 1)",
@@ -59,6 +67,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 3 Absatz 1 Nummer 2)",
@@ -66,6 +75,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 3 Absatz 1 Nummer 3)",
@@ -73,6 +83,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 3 Absatz 1 Nummer 4)",
@@ -80,6 +91,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 3 Absatz 1 Nummer 5)",
@@ -87,6 +99,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "(zu § 3 Absatz 1 Nummer 6)",
@@ -94,6 +107,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0007.md",
       "heading": "(zu § 3 Absatz 1 Nummer 7)",
@@ -101,6 +115,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0008.md",
       "heading": "(zu § 3 Absatz 2)",
@@ -108,6 +123,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "annexes/0009.md",
       "heading": "Erläuterung zu den Nachhaltigkeitskriterien im Sinne der Anlagen 1 bis 8",

@@ -4,9 +4,9 @@
   "bjnr": "BJNR213680961",
   "eli": null,
   "gii_slug": "streitabk_bel",
-  "ingested_at": "2026-04-18T20:40:45Z",
   "jurabk": "StreitAbk BEL",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e8690c8e86e8552a9de4ec0ca3e34abfecc0089e20a6e143a5f90b4529c1b46c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die Beilegung von Streitigkeiten bei Direktbeschaffungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

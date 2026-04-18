@@ -4,9 +4,9 @@
   "bjnr": "BJNR029920996",
   "eli": null,
   "gii_slug": "sozsichabkzusabk_isr",
-  "ingested_at": "2026-04-18T20:40:30Z",
   "jurabk": "SozSichAbkZusAbk ISR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9ed2517aa8c95a41e2a4521bbe2776695850a74fcdfee7dd41e717c31aaa2438"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zusatzabkommen zum Abkommen vom 17. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Staat Israel über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

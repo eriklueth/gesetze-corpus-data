@@ -4,9 +4,9 @@
   "bjnr": "BJNR206870977",
   "eli": null,
   "gii_slug": "sozsichabk_esp_2",
-  "ingested_at": "2026-04-18T20:40:16Z",
   "jurabk": "SozSichAbk ESP 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "856242682a51b55694baa07be09ac982fcf645f5ee9681557679a5261bc477a5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

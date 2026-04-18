@@ -4,9 +4,11 @@
   "bjnr": "BJNR076900995",
   "eli": null,
   "gii_slug": "wasmotrv",
-  "ingested_at": "2026-04-18T20:42:18Z",
   "jurabk": "WasMotRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "1e5d49ac62531669d5ec27c96ad7dcfe96225ab36676adc550b1add5c4a30001"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Fahren mit Wassermotorrädern auf den Binnenschiffahrtsstraßen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

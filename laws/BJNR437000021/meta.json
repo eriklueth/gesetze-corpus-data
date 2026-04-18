@@ -4,9 +4,11 @@
   "bjnr": "BJNR437000021",
   "eli": null,
   "gii_slug": "ozg_3abs2s2v",
-  "ingested_at": "2026-04-18T20:38:01Z",
   "jurabk": "OZG§3Abs2S2V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "df52d7052fce44460d4abac0a33b84598e2b4550d4e4610a7894617a40c8ee48"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung nach § 3 Absatz 2 des Onlinezugangsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

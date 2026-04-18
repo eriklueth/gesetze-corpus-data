@@ -4,9 +4,11 @@
   "bjnr": "BJNR513410953",
   "eli": null,
   "gii_slug": "auslwbgdv_4",
-  "ingested_at": "2026-04-18T20:29:13Z",
   "jurabk": "AuslWBGDV 4",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "edb63168700d170e29557cdfe48450128a0bfad7b67969a10a9e2970c73d7d49"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vierte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Frankreich)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

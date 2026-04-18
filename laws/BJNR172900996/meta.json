@@ -4,9 +4,9 @@
   "bjnr": "BJNR172900996",
   "eli": null,
   "gii_slug": "flaggano_1996",
-  "ingested_at": "2026-04-18T20:33:13Z",
   "jurabk": "FlaggAnO 1996",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "0c3779aada35cb0134a3f14b231b1b6149f3cc0337611d60295bdcbdf5466378"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Anordnung über die deutschen Flaggen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

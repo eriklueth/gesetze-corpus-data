@@ -4,9 +4,12 @@
   "bjnr": "BJNR233300017",
   "eli": null,
   "gii_slug": "kpbv",
-  "ingested_at": "2026-04-18T20:35:30Z",
   "jurabk": "KPBV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "ac93c3d9409fe36c0e0d1d355c721d71bb18d8626a51f543d5e6ac9d1d6153f1"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über das Verfahren zur Zusammenarbeit der Bundesoberbehörden und der Ethik-Kommissionen bei der Bewertung von Anträgen auf Genehmigung von klinischen Prüfungen mit Arzneimitteln",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

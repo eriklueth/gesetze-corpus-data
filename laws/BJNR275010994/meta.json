@@ -4,9 +4,11 @@
   "bjnr": "BJNR275010994",
   "eli": null,
   "gii_slug": "bpflv_1994",
-  "ingested_at": "2026-04-18T20:30:38Z",
   "jurabk": "BPflV 1994",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "13d5f4896bd4f76e756016c90e3e0cd983f0a9f7db89a529cba314c831499744"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Regelung der Krankenhauspflegesätze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

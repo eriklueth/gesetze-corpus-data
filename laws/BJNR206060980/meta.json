@@ -4,9 +4,11 @@
   "bjnr": "BJNR206060980",
   "eli": null,
   "gii_slug": "iao_bk147g",
-  "ingested_at": "2026-04-18T20:34:39Z",
   "jurabk": "IAOÜbk147G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "8c8e8a2427cf0f4a5af343ef3411be2789f768cfa25ae11211b560ce42a8b4f1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zum Übereinkommen Nr. 147 der Internationalen Arbeitsorganisation vom 29. Oktober 1976 über Mindestnormen auf Handelsschiffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

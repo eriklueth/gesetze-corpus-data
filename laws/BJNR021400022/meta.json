@@ -4,9 +4,9 @@
   "bjnr": "BJNR021400022",
   "eli": null,
   "gii_slug": "tgewopfgedenkbek",
-  "ingested_at": "2026-04-18T20:41:09Z",
   "jurabk": "TGewOpfGedenkBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "520d859badcabae326300c4002c616385a77c88a59a7e1f9c74620030fb572c7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Beschluss der Bundesregierung zur Einführung eines nationalen Gedenktages für die Opfer terroristischer Gewalt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

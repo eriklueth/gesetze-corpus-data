@@ -4,9 +4,11 @@
   "bjnr": "BJNR096200003",
   "eli": null,
   "gii_slug": "aufbauhfv",
-  "ingested_at": "2026-04-18T20:29:00Z",
   "jurabk": "AufbauhfV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "fb793bab79f0cfdaa652a87187efea667b89e322c650171301a4414dfd4888ce"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung nach § 2 Abs. 6 des Aufbauhilfefondsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

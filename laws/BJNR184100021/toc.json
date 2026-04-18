@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR184100021",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Anforderungen an die Behandlung von Altgeräten, Bauteilen, Gemischen und Stoffen",
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Anforderungen an die Behandlung von Altgeräten, Bauteilen, Gemischen und Stoffen",
@@ -43,6 +47,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Anforderungen an die Behandlung von Altgeräten, Bauteilen, Gemischen und Stoffen",
@@ -54,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Anforderungen an die Behandlung von Altgeräten, Bauteilen, Gemischen und Stoffen",
@@ -65,6 +71,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Anforderungen an die Behandlung von Altgeräten, Bauteilen, Gemischen und Stoffen",
@@ -76,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Anforderungen an die Behandlung von Altgeräten, Bauteilen, Gemischen und Stoffen",
@@ -87,6 +95,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Anforderungen an die Behandlung von Altgeräten, Bauteilen, Gemischen und Stoffen",
@@ -98,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Anforderungen an die Behandlung von Altgeräten, Bauteilen, Gemischen und Stoffen",
@@ -109,6 +119,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 2 Anforderungen an die Behandlung von Altgeräten, Bauteilen, Gemischen und Stoffen",
@@ -120,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Eigenüberwachung, Inkrafttreten"
@@ -130,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Eigenüberwachung, Inkrafttreten"
@@ -140,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschriften",
         "Abschnitt 3 Eigenüberwachung, Inkrafttreten"

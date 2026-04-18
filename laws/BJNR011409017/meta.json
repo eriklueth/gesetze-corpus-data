@@ -4,9 +4,11 @@
   "bjnr": "BJNR011409017",
   "eli": null,
   "gii_slug": "vkenog",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VkENOG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "fb96d4bcd590044f5c5ac17ab7b71b6e8e0dbb85653a9a2fbb3d010d93c51150"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Neuordnung der Verantwortung in der kerntechnischen Entsorgung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR239910008",
   "eli": null,
   "gii_slug": "vollstrzust_bk2007prot2_g",
-  "ingested_at": "2026-04-18T20:42:06Z",
   "jurabk": "VollstrZustÜbk2007Prot2ÜG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "fcf692feae47f0bc1156a2c926ad3395776e68dca016bffb5270a8447dbea4ec"
   },
@@ -26,5 +26,5 @@
     }
   ],
   "title": "Gesetz über die Übermittlung gerichtlicher Entscheidungen nach dem Protokoll 2 zum Übereinkommen vom 30. Oktober 2007 über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

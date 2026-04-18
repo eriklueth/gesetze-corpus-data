@@ -4,9 +4,11 @@
   "bjnr": "BJNR205090986",
   "eli": null,
   "gii_slug": "emsdolkoopvtrnldg",
-  "ingested_at": "2026-04-18T20:32:14Z",
   "jurabk": "EmsDolKoopVtrNLDG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "17a1347a190df35e9aac7a7aaa5eef1f533dededc606e94d41516a566fa9ee0c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 10. September 1984 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenarbeit im Bereich von Ems und Dollart sowie in den angrenzenden Gebieten (Kooperationsvertrag Ems-Dollart)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

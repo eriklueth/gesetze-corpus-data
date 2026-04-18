@@ -4,9 +4,11 @@
   "bjnr": "BJNR219700010",
   "eli": null,
   "gii_slug": "stipgdv",
-  "ingested_at": "2026-04-18T20:40:43Z",
   "jurabk": "StipGDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "9c057a11367d156951585deb1aa223dc2f5289b34adbc3506bf36732658fbafb"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Stipendienprogramm-Gesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

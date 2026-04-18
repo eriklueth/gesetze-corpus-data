@@ -4,9 +4,11 @@
   "bjnr": "BJNR005310967",
   "eli": null,
   "gii_slug": "avavgdv_22",
-  "ingested_at": "2026-04-18T20:29:15Z",
   "jurabk": "AVAVGDV 22",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "21857fd79f97717b5016ddcc726682acaaadeb446c95c87bbd74642dd468c22e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Zweiundzwanzigste Verordnung zur Durchführung des Gesetzes über Arbeitsvermittlung und Arbeitslosenversicherung (Fach- und Führungskräfte aus Entwicklungsländern)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR220860967",
   "eli": null,
   "gii_slug": "grenzverkvtr_aut_1",
-  "ingested_at": "2026-04-18T20:34:16Z",
   "jurabk": "GrenzVerkVtr AUT 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "84f04c2502cecdbb13007fd7c022858b5272a56d7bb003cb998e291d974477f1"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Durchgangsverkehr auf der Roßfeldstraße",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

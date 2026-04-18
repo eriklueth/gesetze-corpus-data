@@ -4,9 +4,9 @@
   "bjnr": "BJNR206550972",
   "eli": null,
   "gii_slug": "seescha_bk",
-  "ingested_at": "2026-04-18T20:39:45Z",
   "jurabk": "SeeSchAÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "008ac6b635e648f74f127c46bc152dee68825110bc8dd69edc88947a0345d1eb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Internationales Übereinkommen zur Vereinheitlichung von Regeln über den Arrest in Seeschiffe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

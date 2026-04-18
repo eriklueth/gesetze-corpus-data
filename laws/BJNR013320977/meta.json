@@ -4,9 +4,11 @@
   "bjnr": "BJNR013320977",
   "eli": null,
   "gii_slug": "zo-_rzte_ndv_1",
-  "ingested_at": "2026-04-18T20:43:15Z",
   "jurabk": "ZO-ÄrzteÄndV 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "0f7b435d15e2c8541de24cb96011842d72e9804cf0a96c30cfc6775e4959940e"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erste Verordnung zur Änderung der Zulassungsordnung für Kassenärzte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

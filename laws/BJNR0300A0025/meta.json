@@ -4,9 +4,11 @@
   "bjnr": "BJNR0300A0025",
   "eli": null,
   "gii_slug": "zahntechmstrv_2025",
-  "ingested_at": "2026-04-18T20:43:09Z",
   "jurabk": "ZahntechMstrV 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "485561838451b76472e7011b4fa08ef8cfe0ac4dfc39a8dd3e00cd0d3ae765a7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Zahntechniker-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

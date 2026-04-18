@@ -4,9 +4,11 @@
   "bjnr": "BJNR003670962",
   "eli": null,
   "gii_slug": "svg_63v",
-  "ingested_at": "2026-04-18T20:40:56Z",
   "jurabk": "SVG§63V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "4ba94646564a5787378bccf4ab76d88247362a5eec068906f36c26c22b933c8c"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die einmalige Unfallentschädigung nach § 84 des Soldatenversorgungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

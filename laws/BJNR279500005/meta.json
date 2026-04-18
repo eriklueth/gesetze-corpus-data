@@ -4,9 +4,9 @@
   "bjnr": "BJNR279500005",
   "eli": null,
   "gii_slug": "urhg_127aabs3bek",
-  "ingested_at": "2026-04-18T20:41:34Z",
   "jurabk": "UrhG§127aAbs3Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "22c88f27e454d026b442d14ecc6c0c6760ef3dd164afff3bf27f6ab367cafbd7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung nach § 127a Abs. 3 des Urheberrechtsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

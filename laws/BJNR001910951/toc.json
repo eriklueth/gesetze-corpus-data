@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR001910951",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Zuständige Arbeitsbehörde, Heimarbeitsausschüsse"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Zuständige Arbeitsbehörde, Heimarbeitsausschüsse"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Zuständige Arbeitsbehörde, Heimarbeitsausschüsse"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Allgemeine Schutzvorschriften"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Allgemeine Schutzvorschriften"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Allgemeine Schutzvorschriften"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Allgemeine Schutzvorschriften"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Allgemeine Schutzvorschriften"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Arbeitszeitschutz"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Arbeitszeitschutz"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Gefahrenschutz (Arbeitsschutz und öffentlicher Gesundheitsschutz)"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Gefahrenschutz (Arbeitsschutz und öffentlicher Gesundheitsschutz)"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Gefahrenschutz (Arbeitsschutz und öffentlicher Gesundheitsschutz)"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Gefahrenschutz (Arbeitsschutz und öffentlicher Gesundheitsschutz)"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Gefahrenschutz (Arbeitsschutz und öffentlicher Gesundheitsschutz)"
@@ -171,6 +188,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Gefahrenschutz (Arbeitsschutz und öffentlicher Gesundheitsschutz)"
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Entgeltregelung"
@@ -191,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Entgeltregelung"
@@ -201,6 +221,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Entgeltregelung"
@@ -211,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Entgeltregelung"
@@ -221,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Entgeltregelung"
@@ -231,6 +254,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Entgeltregelung"
@@ -241,6 +265,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Siebenter Abschnitt Entgeltschutz"
@@ -251,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Siebenter Abschnitt Entgeltschutz"
@@ -261,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Siebenter Abschnitt Entgeltschutz"
@@ -271,6 +298,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Siebenter Abschnitt Entgeltschutz"
@@ -281,6 +309,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Siebenter Abschnitt Entgeltschutz"
@@ -291,6 +320,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Achter Abschnitt Auskunfts- und Aufklärungspflicht über Entgelte"
@@ -301,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Neunter Abschnitt Kündigung"
@@ -311,6 +342,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Neunter Abschnitt Kündigung"
@@ -321,6 +353,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zehnter Abschnitt Ausgabeverbot"
@@ -331,6 +364,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Elfter Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -341,6 +375,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Elfter Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -351,6 +386,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Elfter Abschnitt Straftaten und Ordnungswidrigkeiten"
@@ -361,6 +397,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zwölfter Abschnitt Schlußvorschriften"
@@ -371,6 +408,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zwölfter Abschnitt Schlußvorschriften"

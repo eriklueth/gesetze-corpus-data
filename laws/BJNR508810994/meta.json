@@ -4,9 +4,9 @@
   "bjnr": "BJNR508810994",
   "eli": null,
   "gii_slug": "luftvodv_144",
-  "ingested_at": "2026-04-18T20:36:03Z",
   "jurabk": "LuftVODV 144",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5f836eeff0900a3f71ebd67ae3a0a8224d5f95d8b4f237711d597dc3ec975801"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Einhundertvierundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Anwendung von Sekundärradar in der Bundesrepublik Deutschland)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

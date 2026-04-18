@@ -4,9 +4,11 @@
   "bjnr": "BJNR072600021",
   "eli": null,
   "gii_slug": "infoelekausberprbv",
-  "ingested_at": "2026-04-18T20:34:47Z",
   "jurabk": "InfoElekAusbErprbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "1b7812f14ef74133a06d1d7253cd5681928883f218206ae7a5a68d0bb0ad7f92"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Erprobung abweichender Prüfungsbestimmungen in der Berufsausbildung zum Informationselektroniker und zur Informationselektronikerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR172500999",
   "eli": null,
   "gii_slug": "bregsitzbek",
-  "ingested_at": "2026-04-18T20:30:45Z",
   "jurabk": "BRegSitzBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c772f6114405b153dca6f77e72eb2438e46fc6ee2bf7d05e67c86541aaa05ba5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Sitzentscheidung der Bundesregierung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

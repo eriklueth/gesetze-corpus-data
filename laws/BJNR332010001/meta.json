@@ -4,9 +4,11 @@
   "bjnr": "BJNR332010001",
   "eli": null,
   "gii_slug": "podg",
-  "ingested_at": "2026-04-18T20:38:26Z",
   "jurabk": "PodG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "71c0d4cbcb77da9d5621c51d197a5ef68466de6e9acf4b97fbc3f20685bb25b9"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über den Beruf der Podologin und des Podologen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

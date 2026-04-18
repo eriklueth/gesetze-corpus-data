@@ -4,9 +4,11 @@
   "bjnr": "BJNR019090972",
   "eli": null,
   "gii_slug": "drucklv",
-  "ingested_at": "2026-04-18T20:31:51Z",
   "jurabk": "DruckLV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 25
+  },
   "source_hashes": {
     "source_xml_sha256": "cc8210816eb6f9a9a04e81c7d2d7682f6f8b2c36ca3e0cbadc76d267f81d2275"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Arbeiten in Druckluft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

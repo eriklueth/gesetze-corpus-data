@@ -4,9 +4,9 @@
   "bjnr": "BJNR187700001",
   "eli": null,
   "gii_slug": "bminubhvzustano",
-  "ingested_at": "2026-04-18T20:30:23Z",
   "jurabk": "BMinUBhVZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c1f61017e61e05406f1f4d467ca9f5e3b71d470e4a6672b26a35f54afd1cd290"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit in Angelegenheiten der Allgemeinen Verwaltungsvorschrift für Beihilfen in Krankheits-, Pflege-, Geburts- und Todesfällen (Beihilfevorschriften - BhV)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

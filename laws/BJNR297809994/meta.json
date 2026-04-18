@@ -4,9 +4,11 @@
   "bjnr": "BJNR297809994",
   "eli": null,
   "gii_slug": "bgsneuregg",
-  "ingested_at": "2026-04-18T20:30:02Z",
   "jurabk": "BGSNeuRegG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "3cc7ecda96b7038ddf547a5e423b3a9f207503d93d818cfc22286ff6140a5ff1"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Neuregelung der Vorschriften über den Bundesgrenzschutz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

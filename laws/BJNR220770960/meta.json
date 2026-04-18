@@ -4,9 +4,11 @@
   "bjnr": "BJNR220770960",
   "eli": null,
   "gii_slug": "vtrluxg",
-  "ingested_at": "2026-04-18T20:42:06Z",
   "jurabk": "VtrLUXG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "b843d011756bca6a6a8e02eeb2016bab22071e76bdbb161699edc6bf6e14288f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Vertrag vom 11. Juli 1959 zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

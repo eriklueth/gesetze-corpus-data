@@ -4,9 +4,12 @@
   "bjnr": "BJNR018000004",
   "eli": null,
   "gii_slug": "seiverfmausbv_2004",
-  "ingested_at": "2026-04-18T20:39:47Z",
   "jurabk": "SEIVerfMAusbV 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "85b56c6ef553ad3cd1e47bbe17ab753dad734bce6618e800dd1764a667f25a9f"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Steine- und Erdenindustrie",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR297900994",
   "eli": null,
   "gii_slug": "bgsg_1994",
-  "ingested_at": "2026-04-18T20:30:38Z",
   "jurabk": "BGSG 1994",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 82
+  },
   "source_hashes": {
     "source_xml_sha256": "a5130c7bb767485d9070a8d131e57293e48443238d8e077e386d07b524dfbb09"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Bundespolizei",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

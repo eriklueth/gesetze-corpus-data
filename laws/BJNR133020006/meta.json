@@ -4,9 +4,11 @@
   "bjnr": "BJNR133020006",
   "eli": null,
   "gii_slug": "gesundzaabkfrag",
-  "ingested_at": "2026-04-18T20:33:48Z",
   "jurabk": "GesundZAAbkFRAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "c6375158a62cb4eab21e37274f8579c530b5bc5ffbede0b2187a380b7a1276f6"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Rahmenabkommen vom 22. Juli 2005 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich und zu der Verwaltungsvereinbarung vom 9. März 2006 zwischen dem Bundesministerium für Gesundheit der Bundesrepublik Deutschland und dem Minister für Gesundheit und Solidarität der Französischen Republik über die Durchführungsmodalitäten des Rahmenabkommens vom 22. Juli 2005 über die grenzüberschreitende Zusammenarbeit im Gesundheitsbereich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

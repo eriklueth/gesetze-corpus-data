@@ -4,9 +4,11 @@
   "bjnr": "BJNR312600011",
   "eli": null,
   "gii_slug": "vudat-dv",
-  "ingested_at": "2026-04-18T20:42:10Z",
   "jurabk": "VUDat-DV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "35e46d5b2ab669d997afc7af6dce7c021a8b2fd37cbd8b3f81e978010575088b"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung der Verkehrsunternehmensdatei nach dem Güterkraftverkehrsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

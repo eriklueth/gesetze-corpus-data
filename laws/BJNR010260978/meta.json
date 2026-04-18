@@ -4,9 +4,11 @@
   "bjnr": "BJNR010260978",
   "eli": null,
   "gii_slug": "milchqbalmzustv",
-  "ingested_at": "2026-04-18T20:36:33Z",
   "jurabk": "MilchQBALMZustV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "737d82b468419319ff544cecfdaea8dc77de3fc99f1611cf1632fb48e934861b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft und Ernährung bei Maßnahmen zur Verbesserung der Milchqualität",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

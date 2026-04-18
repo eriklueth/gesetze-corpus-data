@@ -4,9 +4,12 @@
   "bjnr": "BJNR07C0B0023",
   "eli": null,
   "gii_slug": "ewkfondsg",
-  "ingested_at": "2026-04-18T20:32:56Z",
   "jurabk": "EWKFondsG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 30
+  },
   "source_hashes": {
     "source_xml_sha256": "16def76ee95844ea7a4d8b0175b53027c4de854640d77638f14d0e663b6449cd"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz über den Einwegkunststofffonds",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

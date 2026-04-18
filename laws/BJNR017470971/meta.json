@@ -4,9 +4,11 @@
   "bjnr": "BJNR017470971",
   "eli": null,
   "gii_slug": "wovermrg",
-  "ingested_at": "2026-04-18T20:42:30Z",
   "jurabk": "WoVermRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "1d9c67c7314bc7c437e3843b1b92a152c43f74f1c920a1c85651fd4b6977364b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Regelung der Wohnungsvermittlung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

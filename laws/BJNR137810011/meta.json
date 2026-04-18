@@ -4,9 +4,12 @@
   "bjnr": "BJNR137810011",
   "eli": null,
   "gii_slug": "bfstrmg",
-  "ingested_at": "2026-04-18T20:29:58Z",
   "jurabk": "BFStrMG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 11,
+    "paragraph": 30
+  },
   "source_hashes": {
     "source_xml_sha256": "5fa10bef5893ff2aa4cbcbd0f1a3fbba332becfa626d3ba954f03b1df6c9e4a5"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Gesetz über die Erhebung von streckenbezogenen Gebühren für die Benutzung von Bundesautobahnen und Bundesstraßen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

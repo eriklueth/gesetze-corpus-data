@@ -4,9 +4,11 @@
   "bjnr": "BJNR146900006",
   "eli": null,
   "gii_slug": "bwpverwpg",
-  "ingested_at": "2026-04-18T20:31:17Z",
   "jurabk": "BWpVerwPG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "bb52e83f128023a564b093125274904c8cee4dcc8b7b0f633d2fb90c3a5106d0"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das Personal der Bundeswertpapierverwaltung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

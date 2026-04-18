@@ -4,9 +4,11 @@
   "bjnr": "BJNR206370952",
   "eli": null,
   "gii_slug": "imf_ibrdbeitrabkg",
-  "ingested_at": "2026-04-18T20:34:43Z",
   "jurabk": "IMF/IBRDBeitrAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "bb8e00161f5e71dc998326a71871d4549d7bc9006932177e548630dc39809c0b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über den Beitritt der Bundesrepublik Deutschland zu den Abkommen über den Internationalen Währungsfonds (International Monetary Fund) und über die Internationale Bank für Wiederaufbau und Entwicklung (International Bank for Reconstruction and Development)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

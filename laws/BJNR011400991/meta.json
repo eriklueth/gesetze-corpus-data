@@ -4,9 +4,12 @@
   "bjnr": "BJNR011400991",
   "eli": null,
   "gii_slug": "arv_1991",
-  "ingested_at": "2026-04-18T20:28:55Z",
   "jurabk": "ARV 1991",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "debbe5ec8ad50893f5710521c366d18b2e95c4f7f5c5bbf3b8dc2d6b48e0e1b4"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Reisekostenvergütung bei Auslandsdienstreisen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

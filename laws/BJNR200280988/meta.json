@@ -4,9 +4,9 @@
   "bjnr": "BJNR200280988",
   "eli": null,
   "gii_slug": "sozsichabk1985_can",
-  "ingested_at": "2026-04-18T20:40:20Z",
   "jurabk": "SozSichAbk1985 CAN",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b50f2ad46d217edee84f3f3d00b0a32b5791ad5e7f9fc50ec408253ad074dddf"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

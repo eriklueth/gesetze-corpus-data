@@ -4,9 +4,11 @@
   "bjnr": "BJNR030610008",
   "eli": null,
   "gii_slug": "g_g_2008",
-  "ingested_at": "2026-04-18T20:34:20Z",
   "jurabk": "GÜG 2008",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 22
+  },
   "source_hashes": {
     "source_xml_sha256": "9aaae75fb819790f3c5d6d3e938153ed9d32c3128b805476b30efa4269e2ce02"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Gesetz zur Überwachung des Verkehrs mit Grundstoffen, die für die unerlaubte Herstellung von Betäubungsmitteln missbraucht werden können",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

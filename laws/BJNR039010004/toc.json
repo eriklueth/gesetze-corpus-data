@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR039010004",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 2 Berechtigte"
@@ -67,6 +74,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 2 Berechtigte"
@@ -77,6 +85,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 2 Berechtigte"
@@ -87,6 +96,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 2 Berechtigte"
@@ -97,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -107,6 +118,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -117,6 +129,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -127,6 +140,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -137,6 +151,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -147,6 +162,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -157,6 +173,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -167,6 +184,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -177,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -187,6 +206,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -197,6 +217,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -207,6 +228,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -217,6 +239,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -227,6 +250,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -237,6 +261,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -247,6 +272,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -257,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 3 Eintragungsverfahren"
@@ -267,6 +294,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 4 Entstehung und Dauer des Schutzes"
@@ -277,6 +305,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 4 Entstehung und Dauer des Schutzes"
@@ -287,6 +316,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 5 Eingetragenes Design als Gegenstand des Vermögens"
@@ -297,6 +327,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 5 Eingetragenes Design als Gegenstand des Vermögens"
@@ -307,6 +338,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 5 Eingetragenes Design als Gegenstand des Vermögens"
@@ -317,6 +349,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 5 Eingetragenes Design als Gegenstand des Vermögens"
@@ -327,6 +360,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 6 Nichtigkeit und Löschung"
@@ -337,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 6 Nichtigkeit und Löschung"
@@ -347,6 +382,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 6 Nichtigkeit und Löschung"
@@ -357,6 +393,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 6 Nichtigkeit und Löschung"
@@ -367,6 +404,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 6 Nichtigkeit und Löschung"
@@ -377,6 +415,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 6 Nichtigkeit und Löschung"
@@ -387,6 +426,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 6 Nichtigkeit und Löschung"
@@ -397,6 +437,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 7 Schutzwirkungen und Schutzbeschränkungen"
@@ -407,6 +448,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 7 Schutzwirkungen und Schutzbeschränkungen"
@@ -417,6 +459,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 7 Schutzwirkungen und Schutzbeschränkungen"
@@ -427,6 +470,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 7 Schutzwirkungen und Schutzbeschränkungen"
@@ -437,6 +481,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 7 Schutzwirkungen und Schutzbeschränkungen"
@@ -447,6 +492,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 7 Schutzwirkungen und Schutzbeschränkungen"
@@ -457,6 +503,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -467,6 +514,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -477,6 +525,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -487,6 +536,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -497,6 +547,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -507,6 +558,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -517,6 +569,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -527,6 +580,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -537,6 +591,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -547,6 +602,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -557,6 +613,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -567,6 +624,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 8 Rechtsverletzungen"
@@ -577,6 +635,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 9 Verfahren in Designstreitsachen"
@@ -587,6 +646,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 9 Verfahren in Designstreitsachen"
@@ -597,6 +657,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 9 Verfahren in Designstreitsachen"
@@ -607,6 +668,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 9 Verfahren in Designstreitsachen"
@@ -617,6 +679,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 9 Verfahren in Designstreitsachen"
@@ -627,6 +690,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 10 Vorschriften über Maßnahmen der Zollbehörde"
@@ -637,6 +701,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 10 Vorschriften über Maßnahmen der Zollbehörde"
@@ -647,6 +712,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 10 Vorschriften über Maßnahmen der Zollbehörde"
@@ -657,6 +723,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 10 Vorschriften über Maßnahmen der Zollbehörde"
@@ -667,6 +734,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 11 Besondere Bestimmungen"
@@ -677,6 +745,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 11 Besondere Bestimmungen"
@@ -687,6 +756,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 11 Besondere Bestimmungen"
@@ -697,6 +767,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 11 Besondere Bestimmungen"
@@ -707,6 +778,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 12 Gemeinschaftsgeschmacksmuster"
@@ -717,6 +789,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 12 Gemeinschaftsgeschmacksmuster"
@@ -727,6 +800,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 12 Gemeinschaftsgeschmacksmuster"
@@ -737,6 +811,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 12 Gemeinschaftsgeschmacksmuster"
@@ -747,6 +822,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 12 Gemeinschaftsgeschmacksmuster"
@@ -757,6 +833,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 12 Gemeinschaftsgeschmacksmuster"
@@ -767,6 +844,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 12 Gemeinschaftsgeschmacksmuster"
@@ -777,6 +855,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 12 Gemeinschaftsgeschmacksmuster"
@@ -787,6 +866,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 13 Schutz eingetragener Designs nach dem Haager Abkommen"
@@ -797,6 +877,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 13 Schutz eingetragener Designs nach dem Haager Abkommen"
@@ -807,6 +888,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 13 Schutz eingetragener Designs nach dem Haager Abkommen"
@@ -817,6 +899,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 13 Schutz eingetragener Designs nach dem Haager Abkommen"
@@ -827,6 +910,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 13 Schutz eingetragener Designs nach dem Haager Abkommen"
@@ -837,6 +921,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 13 Schutz eingetragener Designs nach dem Haager Abkommen"
@@ -847,6 +932,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 14 Übergangsvorschriften"
@@ -857,6 +943,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 14 Übergangsvorschriften"
@@ -867,6 +954,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Schutzvoraussetzungen",
         "Abschnitt 14 Übergangsvorschriften"

@@ -4,9 +4,9 @@
   "bjnr": "BJNR208110977",
   "eli": null,
   "gii_slug": "stv_bk",
-  "ingested_at": "2026-04-18T20:40:54Z",
   "jurabk": "StVÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "334cf82222cfd457985df86852d24f982d21cfcb0d4d71045ee9cbe55568b681"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über den Straßenverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

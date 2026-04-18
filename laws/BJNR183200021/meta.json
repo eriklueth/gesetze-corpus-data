@@ -4,9 +4,11 @@
   "bjnr": "BJNR183200021",
   "eli": null,
   "gii_slug": "qewv",
-  "ingested_at": "2026-04-18T20:38:39Z",
   "jurabk": "QEWV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 25
+  },
   "source_hashes": {
     "source_xml_sha256": "b975f915fe3afa37c4fd9f23ba141b9d5348dd0d008304b6391e8911defb4b6d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zu qualifizierten Einrichtungen und qualifizierten Wirtschaftsverbänden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

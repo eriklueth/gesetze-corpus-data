@@ -4,9 +4,11 @@
   "bjnr": "BJNR019099973",
   "eli": null,
   "gii_slug": "kovanpg_5",
-  "ingested_at": "2026-04-18T20:28:13Z",
   "jurabk": "KOVAnpG 5",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "f079cdfe78aa973378f07e45da4945ceed3b1137442c679a086eef938f41e58b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Fünftes Gesetz über die Anpassung der Leistungen des Bundesversorgungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

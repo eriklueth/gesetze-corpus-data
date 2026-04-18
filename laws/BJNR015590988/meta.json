@@ -4,9 +4,12 @@
   "bjnr": "BJNR015590988",
   "eli": null,
   "gii_slug": "schwpestv_1988",
-  "ingested_at": "2026-04-18T20:39:40Z",
   "jurabk": "SchwPestV 1988",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 40
+  },
   "source_hashes": {
     "source_xml_sha256": "370661f4d7bddad05c1847f91296df8edaeb3de81958374237f4fa8cd4838632"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung zum Schutz gegen die Schweinepest und die Afrikanische Schweinepest",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

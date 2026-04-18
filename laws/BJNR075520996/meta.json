@@ -4,9 +4,9 @@
   "bjnr": "BJNR075520996",
   "eli": null,
   "gii_slug": "euhschulbeschl_8_93",
-  "ingested_at": "2026-04-18T20:32:38Z",
   "jurabk": "EuHSchulBeschl 8/93",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e22c206997b16f78ec642093485b11048f879613d6ecdd2d0e270a9c0a67d64a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Beschluß Nr. 8/93 des Obersten Rates vom 2. Dezember 1993 zur Änderung des Artikels 37 der Gemeinsamen Vorschriften für das Lehrpersonal und das Verwaltungspersonal des Europäischen Hochschulinstituts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

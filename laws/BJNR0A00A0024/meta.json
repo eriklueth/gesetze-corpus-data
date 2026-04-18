@@ -4,9 +4,9 @@
   "bjnr": "BJNR0A00A0024",
   "eli": null,
   "gii_slug": "pf_ndfreigrbek_2024",
-  "ingested_at": "2026-04-18T20:38:15Z",
   "jurabk": "PfändfreiGrBek 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "79c585d48dd8d2fa18058643474cae84a1c5b2b4c028660eaabe391c0344f568"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu den Pfändungsfreigrenzen 2024 nach § 850c der Zivilprozessordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

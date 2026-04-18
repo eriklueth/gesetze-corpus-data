@@ -4,9 +4,12 @@
   "bjnr": "BJNR147200003",
   "eli": null,
   "gii_slug": "bavbvo",
-  "ingested_at": "2026-04-18T20:29:27Z",
   "jurabk": "BAVBVO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "da9b3d8314398fa7c1dfa9042039c9cf6abe962762b766ef999f768fd223e772"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Bescheinigung von Grundlagen beruflicher Handlungsfähigkeit im Rahmen der Berufsausbildungsvorbereitung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

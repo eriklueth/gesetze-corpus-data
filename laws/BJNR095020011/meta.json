@@ -4,9 +4,11 @@
   "bjnr": "BJNR095020011",
   "eli": null,
   "gii_slug": "absfondsforstauflg",
-  "ingested_at": "2026-04-18T20:28:21Z",
   "jurabk": "AbsFondsForstAuflG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "787b22dc4449fb1b29e8f307390218893966dab5fa6914f1a895054056d25009"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Auflösung und Abwicklung der Anstalt Absatzförderungsfonds der deutschen Forst- und Holzwirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

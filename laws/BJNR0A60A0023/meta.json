@@ -4,9 +4,12 @@
   "bjnr": "BJNR0A60A0023",
   "eli": null,
   "gii_slug": "anrv_2023",
-  "ingested_at": "2026-04-18T20:28:17Z",
   "jurabk": "AnrV 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "4cd086dd52173582d6c0479ec272928172b6d47de3d8a11cccd2506b35aa7c12"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Vierundfünfzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

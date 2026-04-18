@@ -4,9 +4,11 @@
   "bjnr": "BJNR123100998",
   "eli": null,
   "gii_slug": "verjhemv",
-  "ingested_at": "2026-04-18T20:41:46Z",
   "jurabk": "VerjHemV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "8a5f6a2a89b044dfb416814575d4f9b746a2ee9ba174482cf0e232d116e3346d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Verjährungshemmung bei Abgeltungsdarlehen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

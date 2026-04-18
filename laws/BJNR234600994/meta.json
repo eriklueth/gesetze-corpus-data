@@ -4,9 +4,11 @@
   "bjnr": "BJNR234600994",
   "eli": null,
   "gii_slug": "postbagsa",
-  "ingested_at": "2026-04-18T20:38:27Z",
   "jurabk": "PostbAGSa",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "645342fd5beb852e5f9ddb7e96e4b101a0475db051af45b3b53f7a6a5daf18b5"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Satzung der Deutsche Postbank AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

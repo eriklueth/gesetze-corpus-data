@@ -4,9 +4,11 @@
   "bjnr": "BJNR255000003",
   "eli": null,
   "gii_slug": "vzoz_v",
-  "ingested_at": "2026-04-18T20:42:10Z",
   "jurabk": "VZOZÜV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "cd3db02941eab9b73170bc39c4846e70197e22118576561fb20fda1015ebf0da"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Übertragung der Zuständigkeiten der Oberfinanzpräsidenten der Oberfinanzdirektionen in den neuen Ländern nach dem Vermögenszuordnungsgesetz auf das Bundesamt zur Regelung offener Vermögensfragen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

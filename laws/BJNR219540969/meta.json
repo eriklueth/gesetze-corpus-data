@@ -4,9 +4,9 @@
   "bjnr": "BJNR219540969",
   "eli": null,
   "gii_slug": "mstaat_bk",
-  "ingested_at": "2026-04-18T20:36:44Z",
   "jurabk": "MStaatÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2b45984bd59266c86d320b02cbb1213a320983350eab26dc57be36a8c34b60ab"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Verringerung der Mehrstaatigkeit und über die Wehrpflicht von Mehrstaatern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

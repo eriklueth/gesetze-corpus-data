@@ -4,9 +4,12 @@
   "bjnr": "BJNR013890990",
   "eli": null,
   "gii_slug": "flrv",
-  "ingested_at": "2026-04-18T20:33:14Z",
   "jurabk": "FlRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 38
+  },
   "source_hashes": {
     "source_xml_sha256": "30c89a695d3c5df861006892924015d8a1f1f36310f6d525539ee7d74116aacb"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Flaggenrechtsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

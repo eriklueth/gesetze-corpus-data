@@ -4,9 +4,11 @@
   "bjnr": "BJNR264410017",
   "eli": null,
   "gii_slug": "pop-abfall-_berwv",
-  "ingested_at": "2026-04-18T20:38:27Z",
   "jurabk": "POP-Abfall-ÜberwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "0f8e943c5fc513eba4e88f7e5070c9ec05bbb061ed6c135777b702cea908d503"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Getrenntsammlung und Überwachung von nicht gefährlichen Abfällen mit persistenten organischen Schadstoffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

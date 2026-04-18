@@ -4,9 +4,11 @@
   "bjnr": "BJNR228600999",
   "eli": null,
   "gii_slug": "marktowmeldv",
-  "ingested_at": "2026-04-18T20:36:26Z",
   "jurabk": "MarktOWMeldV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "74a91e362f7539d74f8ebcea1b1009b89af534594b6679dc9c2af218ee99c2a2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Meldepflichten über Marktordnungswaren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

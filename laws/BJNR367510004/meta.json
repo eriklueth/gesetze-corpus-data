@@ -4,9 +4,11 @@
   "bjnr": "BJNR367510004",
   "eli": null,
   "gii_slug": "seag",
-  "ingested_at": "2026-04-18T20:39:40Z",
   "jurabk": "SEAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 59
+  },
   "source_hashes": {
     "source_xml_sha256": "6d3a271cd83905a768b9f2ca39f296263398f164151d4fbd1607029ee3c2ec9e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Ausführung der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 über das Statut der Europäischen Gesellschaft (SE)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

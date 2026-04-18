@@ -4,9 +4,12 @@
   "bjnr": "BJNR007560955",
   "eli": null,
   "gii_slug": "estdv_1955",
-  "ingested_at": "2026-04-18T20:32:28Z",
   "jurabk": "EStDV 1955",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 57
+  },
   "source_hashes": {
     "source_xml_sha256": "4585c71faf0c278740a5ef3438a4bb4fb08fd965d87b89398f8183fc5e6946a2"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Einkommensteuer-Durchführungsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR231500004",
   "eli": null,
   "gii_slug": "m_nz100eurobek_2004",
-  "ingested_at": "2026-04-18T20:36:45Z",
   "jurabk": "Münz100EuroBek 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3206dabafc17d30cc0954552030ae16b7b30910d12cbdbfbb9442282308ed32a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 100 Euro (Goldmünze \"UNESCO-Weltkulturerbestadt Bamberg\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

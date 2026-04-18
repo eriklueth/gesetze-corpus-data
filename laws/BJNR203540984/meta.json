@@ -4,9 +4,9 @@
   "bjnr": "BJNR203540984",
   "eli": null,
   "gii_slug": "kaffee_bk_1983",
-  "ingested_at": "2026-04-18T20:35:10Z",
   "jurabk": "KaffeeÜbk 1983",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b2700a7819f7349a8dd6a2d5ff94a42a994bf1f96a8f334564963f27b8c4986a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Internationales Kaffee-Übereinkommen von 1983",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

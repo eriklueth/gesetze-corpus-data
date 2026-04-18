@@ -4,9 +4,11 @@
   "bjnr": "BJNR215900017",
   "eli": null,
   "gii_slug": "seilbdg",
-  "ingested_at": "2026-04-18T20:39:47Z",
   "jurabk": "SeilbDG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "b9d3f570a674654c4255ca32ef4bc7a466a66217eb11aa2b1d1b348cea1c15ca"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Durchführung der Verordnung (EU) 2016/424 des Europäischen Parlaments und des Rates vom 9. März 2016 über Seilbahnen und zur Aufhebung der Richtlinie 2000/9/EG",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

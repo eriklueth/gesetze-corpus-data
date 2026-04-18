@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0950B0024",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Informationspflichten"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Informationspflichten"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Rechtsverletzungen von Nutzern"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Rechtsverletzungen von Nutzern"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Vorschriften für Anbieter von audiovisuellen Mediendiensten und für Videosharingplattform-Anbieter"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Vorschriften für Anbieter von audiovisuellen Mediendiensten und für Videosharingplattform-Anbieter"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Vorschriften für Anbieter von audiovisuellen Mediendiensten und für Videosharingplattform-Anbieter"
@@ -109,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Durchführung der Verordnung (EU) 2022/2065",
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Durchführung der Verordnung (EU) 2022/2065",
@@ -133,6 +146,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Durchführung der Verordnung (EU) 2022/2065",
@@ -145,6 +159,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Durchführung der Verordnung (EU) 2022/2065",
@@ -157,6 +172,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Durchführung der Verordnung (EU) 2022/2065",
@@ -169,6 +185,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Durchführung der Verordnung (EU) 2022/2065",
@@ -181,6 +198,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Durchführung der Verordnung (EU) 2022/2065",
@@ -193,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Durchführung der Verordnung (EU) 2022/2065",
@@ -205,6 +224,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Durchführung der Verordnung (EU) 2022/2065",
@@ -217,6 +237,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 14,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Durchführung der Verordnung (EU) 2022/2065",
@@ -229,6 +250,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Sonstige Zuständigkeiten"
@@ -239,6 +261,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Sonstige Zuständigkeiten"
@@ -249,6 +272,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Befugnisse und Verfahren"
@@ -259,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Befugnisse und Verfahren"
@@ -269,6 +294,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Befugnisse und Verfahren"
@@ -279,6 +305,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Befugnisse und Verfahren"
@@ -289,6 +316,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Befugnisse und Verfahren"
@@ -299,6 +327,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Befugnisse und Verfahren"
@@ -309,6 +338,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Befugnisse und Verfahren"
@@ -319,6 +349,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Befugnisse und Verfahren"
@@ -329,6 +360,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Befugnisse und Verfahren"
@@ -339,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Bußgeldvorschriften"
@@ -349,6 +382,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangs- und Schlussvorschriften"

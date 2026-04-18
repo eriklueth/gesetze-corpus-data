@@ -4,9 +4,11 @@
   "bjnr": "DDNR007130975",
   "eli": null,
   "gii_slug": "schkispv",
-  "ingested_at": "2026-04-18T20:39:32Z",
   "jurabk": "SchKiSpV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 28
+  },
   "source_hashes": {
     "source_xml_sha256": "456669d3669ca9ff630d44e461d932762dc6dbe4579e31c1f8075257a5a1d643"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Schüler- und Kinderspeisung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

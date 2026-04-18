@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR01B0C0025",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Übertragung der Ermächtigung",

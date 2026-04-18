@@ -4,9 +4,9 @@
   "bjnr": "BJNR508500992",
   "eli": null,
   "gii_slug": "bvwaaufg_ano_1992",
-  "ingested_at": "2026-04-18T20:31:09Z",
   "jurabk": "BVwAAufgÜAnO 1992",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "917f187873929e4ec620023d368ab3dd1137b4530c879d273c0970168eb5e121"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung betreffend die Übertragung von Aufgaben auf das Bundesverwaltungsamt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

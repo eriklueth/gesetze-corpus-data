@@ -4,9 +4,12 @@
   "bjnr": "BJNR228400005",
   "eli": null,
   "gii_slug": "lwhwpr_fanerkv",
-  "ingested_at": "2026-04-18T20:36:22Z",
   "jurabk": "LwHwPrüfAnerkV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "b30acecf418bf1a1dbf1285a71f43750afa70fc293b088ed01745403de393d6e"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Anforderung an die fachliche Eignung und die Anerkennung von Prüfungen zum Nachweis der fachlichen Eignung für die Berufsausbildung in den Berufen der Landwirtschaft und der Hauswirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

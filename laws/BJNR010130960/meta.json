@@ -4,9 +4,11 @@
   "bjnr": "BJNR010130960",
   "eli": null,
   "gii_slug": "rag_3",
-  "ingested_at": "2026-04-18T20:28:09Z",
   "jurabk": "RAG 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "4af3b043f2957f44a153b305070f368f094400be02bda1b8965782c0e88883cd"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Drittes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1960",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

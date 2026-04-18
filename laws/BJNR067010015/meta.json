@@ -4,9 +4,11 @@
   "bjnr": "BJNR067010015",
   "eli": null,
   "gii_slug": "knv-v",
-  "ingested_at": "2026-04-18T20:35:26Z",
   "jurabk": "KNV-V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "48faf7840459d5b0a7b7923fd9604fa5d7e7d6aafcaced0ae8ad7a69e68e0714"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über den Vergleich von Kosten und Nutzen der Kraft-Wärme-Kopplung und der Rückführung industrieller Abwärme bei der Wärme- und Kälteversorgung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR175700021",
   "eli": null,
   "gii_slug": "qvwsg",
-  "ingested_at": "2026-04-18T20:41:42Z",
   "jurabk": "QVWSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "6dbee107c7b55e6d18b4afc666f5b8949c066048f7a0fb8a529d9f0276d21f1d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Prüfung von Daten multinationaler Unternehmensgruppen zur Sicherung der Qualität der Volkswirtschaftlichen Gesamtrechnungen und der Wirtschaftsstatistiken",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

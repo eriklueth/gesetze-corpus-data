@@ -4,9 +4,11 @@
   "bjnr": "BJNR008130977",
   "eli": null,
   "gii_slug": "seestrov",
-  "ingested_at": "2026-04-18T20:39:46Z",
   "jurabk": "SeeStrOV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "4db2beb53aa4db66c7bd660af1f29bd42449949323c72f10c8e44e57711b53e4"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zu den Internationalen Regeln von 1972 zur Verhütung von Zusammenstößen auf See",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

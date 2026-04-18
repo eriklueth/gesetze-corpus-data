@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR360300009",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Einreichungsverfahren",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 18,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Unterlagen nach § 10 Absatz 2 und § 11 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes (Anträge auf Erlaubnis)",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Mitteilungen nach § 10 Absatz 5 und § 11 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Änderung der tatsächlichen oder rechtlichen Verhältnisse)",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Anzeigen nach § 14 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Erwerb oder Erhöhung einer bedeutenden Beteiligung)",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Anzeigen nach § 14 Absatz 1 Satz 2 des Zahlungsdiensteaufsichtsgesetzes (Verringerung oder Aufgabe einer bedeutenden Beteiligung)",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Vorlage von Unterlagen nach § 22 des Zahlungsdiensteaufsichtsgesetzes (Jahresabschluss, Lagebericht, Prüfungsbericht)",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Angaben nach § 25 Absatz 1 des Zahlungsdiensteaufsichtsgesetzes (Inanspruchnahme von Agenten)",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Anzeigen nach § 26 Absatz 2 Satz 1 und Absatz 4 oder § 28 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes (Wesentliche Auslagerungen)",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Anzeigen nach § 38 Absatz 1 und 2 sowie § 25 Absatz 4 des Zahlungsdiensteaufsichtsgesetzes (Errichten einer Zweigniederlassung, grenzüberschreitender Dienstleistungsverkehr, Inanspruchnahme von Agenten)",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Anzeigen nach § 28 Absatz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes (Bestellung eines Geschäftsleiters)",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010a.md",
       "heading": "Anzeigen nach § 28 Absatz 1 Nummer 2 des Zahlungsdiensteaufsichtsgesetzes (Ausscheiden eines Geschäftsleiters sowie Entziehung der Befugnis zur Einzelvertretung)",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Anzeigen nach § 28 Absatz 1 Nummer 4 und 8 des Zahlungsdiensteaufsichtsgesetzes (Bedeutende Beteiligung am eigenen Institut und passivische enge Verbindungen)",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Anzeigen nach § 28 Absatz 1 Nummer 8 des Zahlungsdiensteaufsichtsgesetzes (aktivische enge Verbindungen)",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Anzeigen nach § 28 Absatz 1 Nummer 9 des Zahlungsdiensteaufsichtsgesetzes (Vereinigung von Instituten)",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Anzeigen nach § 28 Absatz 2 des Zahlungsdiensteaufsichtsgesetzes (Änderung der Sicherung der Geldbeträge und der Absicherung für den Haftungsfall)",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Anzeigen nach § 28 Absatz 3 des Zahlungsdiensteaufsichtsgesetzes (Nebentätigkeiten und Beteiligungen)",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Unterlagen nach § 34 Absatz 1 Satz 2 bis 7 des Zahlungsdiensteaufsichtsgesetzes (Anträge auf Registrierung) und Mitteilungen nach § 34 Absatz 5 des Zahlungsdiensteaufsichtsgesetzes (Änderung der tatsächlichen oder rechtlichen Verhältnisse)",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Inkrafttreten",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 4 Absatz 2 Satz 1)",
@@ -136,6 +155,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 4 Absatz 2 Satz 2, § 5 Absatz 1 Satz 2, § 11 Absatz 4 Satz 3 und § 12 Absatz 3 Satz 2)",
@@ -143,6 +163,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 5 Absatz 1 Satz 1)",
@@ -150,6 +171,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 10 Absatz 1 Satz 1)",
@@ -157,6 +179,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 10 Absatz 2 Satz 3)",
@@ -164,6 +187,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "(zu § 10 Absatz 2 Satz 5)",
@@ -171,6 +195,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0007.md",
       "heading": "(zu § 11 Absatz 1 und 2)",
@@ -178,6 +203,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0008.md",
       "heading": "(zu § 12 Absatz 1 und 2)",

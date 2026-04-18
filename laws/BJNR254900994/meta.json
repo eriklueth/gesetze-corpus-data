@@ -4,9 +4,11 @@
   "bjnr": "BJNR254900994",
   "eli": null,
   "gii_slug": "anpfleigentg",
-  "ingested_at": "2026-04-18T20:28:49Z",
   "jurabk": "AnpflEigentG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "88522820814bf7cc1a41a048d6ad3b64012bb430157a0f2d7b50cb74933f5d2a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Regelung des Eigentums an von landwirtschaftlichen Produktionsgenossenschaften vorgenommenen Anpflanzungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

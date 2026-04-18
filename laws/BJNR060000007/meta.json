@@ -4,9 +4,11 @@
   "bjnr": "BJNR060000007",
   "eli": null,
   "gii_slug": "wrmg",
-  "ingested_at": "2026-04-18T20:42:40Z",
   "jurabk": "WRMG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "e2a30773843f39dbd77f24007be5bf8310f56ab81c8527f51cc677fc1a104aaf"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Umweltverträglichkeit von Wasch- und Reinigungsmitteln",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

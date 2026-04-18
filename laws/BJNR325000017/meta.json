@@ -4,9 +4,11 @@
   "bjnr": "BJNR325000017",
   "eli": null,
   "gii_slug": "bwhfv",
-  "ingested_at": "2026-04-18T20:31:13Z",
   "jurabk": "BwHFV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 33
+  },
   "source_hashes": {
     "source_xml_sha256": "795431ff3ebad4b9d8c3812fde3098653401a729be34d8188b8714f19e77a75a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung von Heilfürsorge für Soldatinnen und Soldaten der Bundeswehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

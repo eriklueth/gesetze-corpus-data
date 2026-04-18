@@ -4,9 +4,9 @@
   "bjnr": "BJNR211580969",
   "eli": null,
   "gii_slug": "rhivtr_tun",
-  "ingested_at": "2026-04-18T20:39:02Z",
   "jurabk": "RHiVtr TUN",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f6d9845d05595f609ed0504496dff87e9068870a084c49af4ff20411c24f3bb1"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Tunesischen Republik über die Auslieferung und die Rechtshilfe in Strafsachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

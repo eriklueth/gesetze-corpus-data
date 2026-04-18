@@ -4,9 +4,11 @@
   "bjnr": "DDNR206210971",
   "eli": null,
   "gii_slug": "verwano",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VerwAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "2cdbc9d2fee90eb6d747976b30ef0d4938d1a7183009f0a663a25ae18b3313b1"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Verwahrung unterirdischer bergbaulicher Anlagen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

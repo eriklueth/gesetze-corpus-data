@@ -4,9 +4,11 @@
   "bjnr": "BJNR048200004",
   "eli": null,
   "gii_slug": "zisag",
-  "ingested_at": "2026-04-18T20:43:14Z",
   "jurabk": "ZISAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "39abb41bd75efab66395d76e91e2f1c6c82ebe3b22b5449c09474dd631216206"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Ausführung des Beschlusses 2009/917/JI des Rates vom 30. November 2009 über den Einsatz der Informationstechnologie im Zollbereich sowie zur Verordnung (EG) Nr. 515/97 des Rates vom 13. März 1997 über die gegenseitige Amtshilfe zwischen Verwaltungsbehörden der Mitgliedstaaten und die Zusammenarbeit dieser Behörden mit der Kommission im Hinblick auf die ordnungsgemäße Anwendung der Zoll- und der Agrarregelung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR293400009",
   "eli": null,
   "gii_slug": "awp_dfortbv",
-  "ingested_at": "2026-04-18T20:29:16Z",
   "jurabk": "AWPädFortbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "5353a49d99e68c3d42d85d38332669892615da8bac824eed73ece929548f91f2"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Aus- und Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR212430965",
   "eli": null,
   "gii_slug": "kunstschabkg",
-  "ingested_at": "2026-04-18T20:35:42Z",
   "jurabk": "KunstSchAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "91e0df4aaeb93fe8b52ae2a35e0a4927c1a6c023ffa9f13f8cef7421788a9a63"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Internationalen Abkommen vom 26. Oktober 1961 über den Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

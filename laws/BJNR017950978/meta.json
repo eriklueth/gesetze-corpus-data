@@ -4,9 +4,12 @@
   "bjnr": "BJNR017950978",
   "eli": null,
   "gii_slug": "ger_stbprv",
-  "ingested_at": "2026-04-18T20:33:48Z",
   "jurabk": "GerüstbPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "e55c8cd58b02920e03e4390b7e43822d09599093d0b415010f6132f510cef3f5"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Gerüstbau-Kolonnenführer",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

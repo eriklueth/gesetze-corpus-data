@@ -4,9 +4,11 @@
   "bjnr": "BJNR212000010",
   "eli": null,
   "gii_slug": "bdboszertv",
-  "ingested_at": "2026-04-18T20:29:34Z",
   "jurabk": "BDBOSZertV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "609f9a581e7104a72c29f63d1230a14152ebf223c686371545b1eb7a72bb65c5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Verfahren zur Erteilung eines Zertifikats für Endgeräte durch die Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

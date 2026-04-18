@@ -4,9 +4,11 @@
   "bjnr": "BJNR011890969",
   "eli": null,
   "gii_slug": "publg",
-  "ingested_at": "2026-04-18T20:38:38Z",
   "jurabk": "PublG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 25
+  },
   "source_hashes": {
     "source_xml_sha256": "758ce3ad090f30eabbe0b6667b1d177a1fe4a2a4dc3ed08b36806dfb860b8d27"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Rechnungslegung von bestimmten Unternehmen und Konzernen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR0320B0026",
   "eli": null,
   "gii_slug": "ervdpmav_2026",
-  "ingested_at": "2026-04-18T20:32:28Z",
   "jurabk": "ERVDPMAV 2026",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "0dea3be8cc98d043b6078a720c29d329d91f6f2bf534b90109032220ce0aacc8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

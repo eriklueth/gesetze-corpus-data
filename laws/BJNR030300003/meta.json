@@ -4,9 +4,11 @@
   "bjnr": "BJNR030300003",
   "eli": null,
   "gii_slug": "bdgbafindv",
-  "ingested_at": "2026-04-18T20:29:34Z",
   "jurabk": "BDGBAFinDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "04bfe6ccb7c4566615a1440a5a9357cd8d9f59f2b5f0e636ea04607312157504"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung des Bundesdisziplinargesetzes bei der Bundesanstalt für Finanzdienstleistungsaufsicht im Geschäftsbereich des Bundesministeriums der Finanzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

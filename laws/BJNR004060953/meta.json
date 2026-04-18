@@ -4,9 +4,11 @@
   "bjnr": "BJNR004060953",
   "eli": null,
   "gii_slug": "bpr_sruhebezg",
-  "ingested_at": "2026-04-18T20:30:44Z",
   "jurabk": "BPräsRuhebezG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "e169763fc14b20b5b812d75eaed74fe503978ecc7d0c42addda1b44157049582"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Ruhebezüge des Bundespräsidenten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

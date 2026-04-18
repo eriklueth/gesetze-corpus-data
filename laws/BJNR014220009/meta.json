@@ -4,9 +4,11 @@
   "bjnr": "BJNR014220009",
   "eli": null,
   "gii_slug": "svwhkvorrv",
-  "ingested_at": "2026-04-18T20:41:00Z",
   "jurabk": "SVwHKVorRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "6855485a000ac7a84b38886588fdcb54ab0d7e96ed6d60516949967263e1eccf"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an das Wirtschafts- und Handelsbüro der Sonderverwaltungsregion Hongkong der Volksrepublik China in Berlin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

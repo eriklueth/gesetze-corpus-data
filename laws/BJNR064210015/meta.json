@@ -4,9 +4,11 @@
   "bjnr": "BJNR064210015",
   "eli": null,
   "gii_slug": "bgrembg_2015",
-  "ingested_at": "2026-04-18T20:30:02Z",
   "jurabk": "BGremBG 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "69cb1d0c1da78bbe49d42c13642376151c807903b9f326f2111ee17ab7a154eb"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Mitwirkung des Bundes an der Besetzung von Gremien",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

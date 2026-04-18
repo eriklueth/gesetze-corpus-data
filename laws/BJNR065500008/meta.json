@@ -4,9 +4,12 @@
   "bjnr": "BJNR065500008",
   "eli": null,
   "gii_slug": "gentpflev",
-  "ingested_at": "2026-04-18T20:33:44Z",
   "jurabk": "GenTPflEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "cbec5baa04a5622afac02a3ebc427f30ee397bb80e48a51a91db9c71d55f3ee3"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die gute fachliche Praxis bei der Erzeugung gentechnisch veränderter Pflanzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR019680991",
   "eli": null,
   "gii_slug": "ambtangv",
-  "ingested_at": "2026-04-18T20:28:45Z",
   "jurabk": "AMBtAngV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "ce1c156cdbed8492b5d1eb08954a1f0b0fac4309faef465b49c3b0c29d6eab3f"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Angabe von Arzneimittelbestandteilen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

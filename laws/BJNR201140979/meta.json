@@ -4,9 +4,9 @@
   "bjnr": "BJNR201140979",
   "eli": null,
   "gii_slug": "satellit_bk",
-  "ingested_at": "2026-04-18T20:39:23Z",
   "jurabk": "SatellitÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "479e7a9d9308f8804044e066b7ace8bdacac0d1859a00f95530c830f71d75c81"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

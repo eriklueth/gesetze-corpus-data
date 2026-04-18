@@ -4,9 +4,12 @@
   "bjnr": "BJNR021600993",
   "eli": null,
   "gii_slug": "gr_ndstvtr_sn_th",
-  "ingested_at": "2026-04-18T20:34:16Z",
   "jurabk": "GrÄndStVtr SN/TH",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "article": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "6576f0e3ab1555b3f78e575219274bfbb58b4e8c5e6ab8972bc157a25f2ed399"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Staatsvertrag zwischen dem Freistaat Sachsen und dem Land Thüringen über die Änderung der gemeinsamen Landesgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

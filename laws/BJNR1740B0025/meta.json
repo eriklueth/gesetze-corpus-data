@@ -4,9 +4,11 @@
   "bjnr": "BJNR1740B0025",
   "eli": null,
   "gii_slug": "dbaltunotv",
-  "ingested_at": "2026-04-18T20:31:30Z",
   "jurabk": "DBALTUNotV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "d6053854f6b68f184866b0ef1c51e45f08c7c2a8b008d7fc836d4cf5c47af3aa"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Umsetzung der Notifizierung zur Anwendung der Anrechnungsmethode bei bestimmten Einkünften nach dem deutsch-litauischen Doppelbesteuerungsabkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

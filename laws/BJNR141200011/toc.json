@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR141200011",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Anforderungen an den Betrieb von UV-Bestrahlungsgeräten",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Einsatz, Aufgaben und Qualifikation des Fachpersonals",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Schulung, Fortbildung",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Gleichwertigkeit vergleichbarer Qualifikationen aus anderen EU- und EWR-Staaten",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Informationspflichten",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Dokumentationspflichten",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Hinweis auf Bußgeldvorschriften des Gesetzes zum Schutz vor nichtionisierender Strahlung bei der Anwendung am Menschen",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Übergangsvorschrift",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Inkrafttreten",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 14,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3)",
@@ -87,6 +99,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 2 Nummer 6)",
@@ -94,6 +107,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 3 Absatz 2 Nummer 1)",
@@ -101,6 +115,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 64,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2)",
@@ -108,6 +123,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 4 Absatz 1 bis 3)",
@@ -115,6 +131,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 12,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "(zu § 5 Absatz 1 Satz 1)",
@@ -122,6 +139,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "annexes/0007.md",
       "heading": "(zu § 7 Absatz 1)",
@@ -129,6 +147,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 40,
       "breadcrumb": [],
       "file": "annexes/0008.md",
       "heading": "(zu § 7 Absatz 4)",

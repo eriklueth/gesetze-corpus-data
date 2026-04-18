@@ -4,9 +4,11 @@
   "bjnr": "BJNR202860988",
   "eli": null,
   "gii_slug": "kathilabkdnkg",
-  "ingested_at": "2026-04-18T20:35:12Z",
   "jurabk": "KatHiLAbkDNKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "eec836aaac5b3a636310406b1394ca83768c1ee95b6aa30232a3b3f2202f1ce7"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 16. Mai 1985 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über die gegenseitige Hilfeleistung bei Katastrophen oder schweren Unglücksfällen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

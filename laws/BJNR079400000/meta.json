@@ -4,9 +4,11 @@
   "bjnr": "BJNR079400000",
   "eli": null,
   "gii_slug": "stromstv",
-  "ingested_at": "2026-04-18T20:40:49Z",
   "jurabk": "StromStV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 41
+  },
   "source_hashes": {
     "source_xml_sha256": "36c1a1e791ce49d2c305e064fca833f66f867ccfcde619b6fd5c620a632774ad"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Stromsteuergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

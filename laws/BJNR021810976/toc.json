@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR021810976",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0005.md",
       "heading": "",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/art-0006.md",
       "heading": "Übergangsregelung",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0007.md",
       "heading": "",
@@ -24,6 +27,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0008.md",
       "heading": "Inkrafttreten",

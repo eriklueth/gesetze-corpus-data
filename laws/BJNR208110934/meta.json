@@ -4,9 +4,9 @@
   "bjnr": "BJNR208110934",
   "eli": null,
   "gii_slug": "bahnvorschranwg",
-  "ingested_at": "2026-04-18T20:29:21Z",
   "jurabk": "BahnVorschrAnwG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7c7d358069b13d3c7f055cd023ec7550d8e308dcf030a4700e2d04d7d8ab1360"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz betreffend die Anwendung landesgesetzlicher Vorschriften über Bahneinheiten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

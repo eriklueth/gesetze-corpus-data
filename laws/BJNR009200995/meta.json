@@ -4,9 +4,11 @@
   "bjnr": "BJNR009200995",
   "eli": null,
   "gii_slug": "kwmv",
-  "ingested_at": "2026-04-18T20:35:46Z",
   "jurabk": "KWMV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "d0b041ab1de63d0b70b5bc2ed747531db81caaab276fd532e68a163f487ca14c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Meldepflichten für bestimmte Kriegswaffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR167800007",
   "eli": null,
   "gii_slug": "indelausbv_2007",
-  "ingested_at": "2026-04-18T20:34:44Z",
   "jurabk": "IndElAusbV 2007",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 7,
+    "paragraph": 37
+  },
   "source_hashes": {
     "source_xml_sha256": "0f9766bce9ccbe0af2619185cf0007d602c80a209ea591ac5aac8a9fa5da344a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung in den industriellen Elektroberufen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

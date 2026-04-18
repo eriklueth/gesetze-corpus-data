@@ -4,9 +4,11 @@
   "bjnr": "BJNR15F0O0023",
   "eli": null,
   "gii_slug": "eulakstiftabkv",
-  "ingested_at": "2026-04-18T20:32:38Z",
   "jurabk": "EULAKStiftAbkV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "295978c815593c4d0658d17c9b408ff81960282fb8d5d153dc6cc4d3de5f3d02"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zu dem Abkommen vom 11. Mai 2023 zwischen der Regierung der Bundesrepublik Deutschland und der Internationalen EU-LAK-Stiftung über den Sitz der Internationalen EU-LAK-Stiftung in der Freien und Hansestadt Hamburg",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

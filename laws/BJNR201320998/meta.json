@@ -4,9 +4,9 @@
   "bjnr": "BJNR201320998",
   "eli": null,
   "gii_slug": "sozsichabk_bgr",
-  "ingested_at": "2026-04-18T20:40:16Z",
   "jurabk": "SozSichAbk BGR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1a6709c85105122b947c9e5f032b1f89b1a2a1a1da920f5619e8940c71bd287a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Bulgarien über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

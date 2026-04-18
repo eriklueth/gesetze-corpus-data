@@ -4,9 +4,11 @@
   "bjnr": "BJNR292810003",
   "eli": null,
   "gii_slug": "strabeg",
-  "ingested_at": "2026-04-18T20:40:45Z",
   "jurabk": "StraBEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "3dd740346171e363aae3e88af967921b1b1ceefc3a163e26e4a67267c06f9b12"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die strafbefreiende Erklärung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

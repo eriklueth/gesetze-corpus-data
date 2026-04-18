@@ -4,9 +4,11 @@
   "bjnr": "BJNR007070956",
   "eli": null,
   "gii_slug": "montanmitbestgergg",
-  "ingested_at": "2026-04-18T20:36:40Z",
   "jurabk": "MontanMitbestGErgG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 36
+  },
   "source_hashes": {
     "source_xml_sha256": "00ed503275f37597cf115ee93a36d2f7da5c6ccd0173bf3c7cec46a19d362470"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Ergänzung des Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

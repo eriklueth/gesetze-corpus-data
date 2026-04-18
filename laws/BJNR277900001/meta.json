@@ -4,9 +4,11 @@
   "bjnr": "BJNR277900001",
   "eli": null,
   "gii_slug": "lap-hdbiblv",
-  "ingested_at": "2026-04-18T20:35:47Z",
   "jurabk": "LAP-hDBiblV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 26
+  },
   "source_hashes": {
     "source_xml_sha256": "54862efc25ea76cd92d5f10cb187a55a2d298c6f869e5f9e3c8dd319853eb9b5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Laufbahn, Ausbildung und Prüfung für den höheren Dienst an wissenschaftlichen Bibliotheken des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

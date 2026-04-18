@@ -4,9 +4,11 @@
   "bjnr": "BJNR008610956",
   "eli": null,
   "gii_slug": "rvo_368oabs4v",
-  "ingested_at": "2026-04-18T20:28:45Z",
   "jurabk": "RVO§368oAbs4V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "48910885978dd759a7b8f516c45e757d1b8951e2c12809ceb04f0136feefce6c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Amtsdauer, Amtsführung und Entschädigung der Mitglieder des Gemeinsamen Bundesausschusses und der Landesausschüsse der Ärzte (Zahnärzte) und Krankenkassen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

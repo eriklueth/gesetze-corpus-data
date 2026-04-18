@@ -4,9 +4,9 @@
   "bjnr": "BJNR040600003",
   "eli": null,
   "gii_slug": "ordenerl4_nderl",
-  "ingested_at": "2026-04-18T20:37:57Z",
   "jurabk": "OrdenErl4ÄndErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "abadf392f04c90ca849e53f1d7789eb70c17aa77416daf5bacaa2be905a8c997"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlass über die Genehmigung einer Änderung des Erlasses über die Stiftung und Verleihung der Goethe-Medaille",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

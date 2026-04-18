@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR086700994",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Überprüfungsarten und Durchführungsmaßnahmen"
@@ -76,6 +84,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Überprüfungsarten und Durchführungsmaßnahmen"
@@ -86,6 +95,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Überprüfungsarten und Durchführungsmaßnahmen"
@@ -96,6 +106,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Überprüfungsarten und Durchführungsmaßnahmen"
@@ -106,6 +117,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Überprüfungsarten und Durchführungsmaßnahmen"
@@ -116,6 +128,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Zweiter Abschnitt Überprüfungsarten und Durchführungsmaßnahmen"
@@ -126,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Verfahren"
@@ -136,6 +150,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Verfahren"
@@ -146,6 +161,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Verfahren"
@@ -156,6 +172,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Verfahren"
@@ -166,6 +183,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Verfahren"
@@ -176,6 +194,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Verfahren"
@@ -186,6 +205,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Dritter Abschnitt Verfahren"
@@ -196,6 +216,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Akten über die Sicherheitsüberprüfung, Datenverarbeitung"
@@ -206,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Akten über die Sicherheitsüberprüfung, Datenverarbeitung"
@@ -216,6 +238,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Akten über die Sicherheitsüberprüfung, Datenverarbeitung"
@@ -226,6 +249,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Akten über die Sicherheitsüberprüfung, Datenverarbeitung"
@@ -236,6 +260,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Akten über die Sicherheitsüberprüfung, Datenverarbeitung"
@@ -246,6 +271,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Vierter Abschnitt Akten über die Sicherheitsüberprüfung, Datenverarbeitung"
@@ -256,6 +282,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich"
@@ -266,6 +293,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich"
@@ -276,6 +304,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich"
@@ -286,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich"
@@ -296,6 +326,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich"
@@ -306,6 +337,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich"
@@ -316,6 +348,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich"
@@ -326,6 +359,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich"
@@ -336,6 +370,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich"
@@ -346,6 +381,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Fünfter Abschnitt Sonderregelungen für den nichtöffentlichen Bereich"
@@ -356,6 +392,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlussvorschriften"
@@ -366,6 +403,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlussvorschriften"
@@ -376,6 +414,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlussvorschriften"
@@ -386,6 +425,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlussvorschriften"
@@ -396,6 +436,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlussvorschriften"
@@ -406,6 +447,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlussvorschriften"
@@ -416,6 +458,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlussvorschriften"
@@ -426,6 +469,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlussvorschriften"
@@ -436,6 +480,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeine Vorschriften",
         "Sechster Abschnitt Reisebeschränkungen, Sicherheitsüberprüfungen auf Antrag ausländischer Dienststellen und Schlussvorschriften"

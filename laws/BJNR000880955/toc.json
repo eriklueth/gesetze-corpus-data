@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR000880955",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger",
         "Abschnitt II Verrechnungsfähigkeit der Fürsorgekosten"
@@ -67,6 +74,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger",
         "Abschnitt II Verrechnungsfähigkeit der Fürsorgekosten"
@@ -77,6 +85,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger",
         "Abschnitt II Verrechnungsfähigkeit der Fürsorgekosten"
@@ -87,6 +96,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger",
         "Abschnitt II Verrechnungsfähigkeit der Fürsorgekosten"
@@ -97,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger",
         "Abschnitt III Übergangsvorschriften, Inkrafttreten"
@@ -107,6 +118,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger",
         "Abschnitt III Übergangsvorschriften, Inkrafttreten"
@@ -117,6 +129,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Personenkreis der Kriegsfolgenhilfe-Empfänger",
         "Abschnitt III Übergangsvorschriften, Inkrafttreten"

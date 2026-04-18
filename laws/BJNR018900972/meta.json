@@ -4,9 +4,11 @@
   "bjnr": "BJNR018900972",
   "eli": null,
   "gii_slug": "wzg_4mltbek_2",
-  "ingested_at": "2026-04-18T20:43:04Z",
   "jurabk": "WZG§4MLTBek 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "44823164b5e3d1863c85351fe53d12dfce78d038cc76d628aa1ae274a1a56896"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

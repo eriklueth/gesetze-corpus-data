@@ -4,9 +4,9 @@
   "bjnr": "BJNR119600010",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2010-08",
-  "ingested_at": "2026-04-18T20:37:01Z",
   "jurabk": "Münz10EuroBek 2010-08",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5b05e1c427bf05f5b5ec906f71381ba2b1771eb42c4593a97be0cdfddd7cf8f9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „20 Jahre Deutsche Einheit“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

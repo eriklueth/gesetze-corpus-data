@@ -4,9 +4,9 @@
   "bjnr": "BJNR186700998",
   "eli": null,
   "gii_slug": "gr_ndstvtr2nd_nwbek",
-  "ingested_at": "2026-04-18T20:34:13Z",
   "jurabk": "GrÄndStVtr2ND/NWBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ec88b237a4255d26a63c4eadf9bc000deffe99c142710c48d120ac8e751f8a1f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Abschluß und das Inkrafttreten des Zweiten Staatsvertrages zwischen dem Land Niedersachsen und dem Land Nordrhein-Westfalen über Änderungen der gemeinsamen Landesgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

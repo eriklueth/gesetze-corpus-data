@@ -4,9 +4,12 @@
   "bjnr": "BJNR069400010",
   "eli": null,
   "gii_slug": "geoitausbv",
-  "ingested_at": "2026-04-18T20:33:45Z",
   "jurabk": "GeoITAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "c9581e45fe086300b04a610ebaa96c658d82c3ef1165270753a1f91cfa87ae91"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung in der Geoinformationstechnologie",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

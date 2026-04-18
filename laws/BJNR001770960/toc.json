@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR001770960",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Entschädigungsansprüche aus Feststellungsbescheiden"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Entschädigungsansprüche für Tilgungsstücke"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Entschädigungsansprüche für Tilgungsstücke"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Entschädigungsansprüche für Tilgungsstücke"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Entschädigungsansprüche für Tilgungsstücke"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Entschädigungsansprüche für Tilgungsstücke"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Verschiedene Vorschriften"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Verschiedene Vorschriften"
@@ -171,6 +188,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Verschiedene Vorschriften"
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Verschiedene Vorschriften"
@@ -191,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Verschiedene Vorschriften"
@@ -201,6 +221,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Schlußvorschriften"
@@ -211,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Schlußvorschriften"
@@ -221,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Schlußvorschriften"

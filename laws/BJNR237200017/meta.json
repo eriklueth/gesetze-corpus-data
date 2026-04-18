@@ -4,9 +4,11 @@
   "bjnr": "BJNR237200017",
   "eli": null,
   "gii_slug": "id_v",
-  "ingested_at": "2026-04-18T20:34:39Z",
   "jurabk": "IDÜV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "01fa0e21855d8b00f65dc574dabf2233e85ffa1da2ad70fc1d46f83af0fab7b7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Übermittlung von Indexdaten der Landesjustizverwaltungen an das Transparenzregister",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

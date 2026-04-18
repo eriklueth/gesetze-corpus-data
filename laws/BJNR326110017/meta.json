@@ -4,9 +4,11 @@
   "bjnr": "BJNR326110017",
   "eli": null,
   "gii_slug": "gbpolvdvdv_2017",
-  "ingested_at": "2026-04-18T20:33:38Z",
   "jurabk": "GBPolVDVDV 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 48
+  },
   "source_hashes": {
     "source_xml_sha256": "6831f158ac9dedb40023084c17531ca3543b603903f63817ce04572e2a7f4dd3"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über den Vorbereitungsdienst für den gehobenen Polizeivollzugsdienst in der Bundespolizei",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

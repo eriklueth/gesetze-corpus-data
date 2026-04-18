@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR331900009",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Zu § 2 des Gesetzes"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Zu den §§ 2, 4, 5 und 14 Absatz 3 des Gesetzes"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 4 Zu § 6 des Gesetzes"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 5 Zu § 7 des Gesetzes"
@@ -171,6 +188,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 6 Zu den §§ 8 und 28 Nummer 1 des Gesetzes"
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -191,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -201,6 +221,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -211,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -221,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -231,6 +254,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -241,6 +265,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -251,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -261,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -271,6 +298,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -281,6 +309,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -291,6 +320,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -301,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -311,6 +342,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 7 Zu den §§ 9 bis 12 des Gesetzes"
@@ -321,6 +353,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 8 Zu den §§ 13 und 14 Absatz 3 und 4 des Gesetzes"
@@ -331,6 +364,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 9 Zu den §§ 14 und 15 des Gesetzes"
@@ -341,6 +375,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 9 Zu den §§ 14 und 15 des Gesetzes"
@@ -351,6 +386,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 10 Zu § 156 Absatz 1 der Abgabenordnung"
@@ -361,6 +397,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 11 Zu § 18 des Gesetzes"
@@ -371,6 +408,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 12 Zu § 19 des Gesetzes"
@@ -381,6 +419,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 13 Zu den §§ 20 bis 20c des Gesetzes"
@@ -391,6 +430,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 13 Zu den §§ 20 bis 20c des Gesetzes"
@@ -401,6 +441,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 13 Zu den §§ 20 bis 20c des Gesetzes"
@@ -411,6 +452,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 13 Zu den §§ 20 bis 20c des Gesetzes"
@@ -421,6 +463,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 13 Zu den §§ 20 bis 20c des Gesetzes"
@@ -431,6 +474,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 13 Zu den §§ 20 bis 20c des Gesetzes"
@@ -441,6 +485,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 13 Zu den §§ 20 bis 20c des Gesetzes"
@@ -451,6 +496,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 13 Zu den §§ 20 bis 20c des Gesetzes"
@@ -461,6 +507,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 13 Zu den §§ 20 bis 20c des Gesetzes"
@@ -471,6 +518,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 14 Zu § 21 des Gesetzes"
@@ -481,6 +529,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 15 Zu § 22 des Gesetzes"
@@ -491,6 +540,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 15a Zu § 22b des Gesetzes"
@@ -501,6 +551,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 16 Zu den §§ 23 und 23a des Gesetzes"
@@ -511,6 +562,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 16 Zu den §§ 23 und 23a des Gesetzes"
@@ -521,6 +573,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 16 Zu den §§ 23 und 23a des Gesetzes"
@@ -531,6 +584,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 16 Zu den §§ 23 und 23a des Gesetzes"
@@ -541,6 +595,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 16 Zu den §§ 23 und 23a des Gesetzes"
@@ -551,6 +606,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 16 Zu den §§ 23 und 23a des Gesetzes"
@@ -561,6 +617,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 16 Zu den §§ 23 und 23a des Gesetzes"
@@ -571,6 +628,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 17 Zu § 24 des Gesetzes"
@@ -581,6 +639,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 18 Zu § 25 des Gesetzes"
@@ -591,6 +650,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 19 Zu § 212 Absatz 1 Nummer 8 der Abgabenordnung"
@@ -601,6 +661,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 20 (weggefallen)"
@@ -611,6 +672,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 22 Zu § 381 Absatz 1 der Abgabenordnung"
@@ -621,6 +683,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 23 Schlussbestimmungen"

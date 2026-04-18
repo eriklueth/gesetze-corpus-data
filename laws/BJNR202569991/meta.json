@@ -4,9 +4,11 @@
   "bjnr": "BJNR202569991",
   "eli": null,
   "gii_slug": "streitkravtrsung",
-  "ingested_at": "2026-04-18T20:40:45Z",
   "jurabk": "StreitkrAVtrSUNG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "4b6a2ad4b02baa8831e6d0b6cc89adb866ab411ea699a4cd6e2694c9970f8032"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Vertrag vom 12. Oktober 1990 zwischen der Bundesrepublik Deutschland und der Union der Sozialistischen Sowjetrepubliken über die Bedingungen des befristeten Aufenthalts und die Modalitäten des planmäßigen Abzugs der sowjetischen Truppen aus dem Gebiet der Bundesrepublik Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

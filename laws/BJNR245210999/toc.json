@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR245210999",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 2 Statistik der See- und Binnenschifffahrt"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 2 Statistik der See- und Binnenschifffahrt"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 2 Statistik der See- und Binnenschifffahrt"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 2 Statistik der See- und Binnenschifffahrt"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 3 Statistik des Güterkraftverkehrs"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 3 Statistik des Güterkraftverkehrs"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 3 Statistik des Güterkraftverkehrs"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 3 Statistik des Güterkraftverkehrs"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 3 Statistik des Güterkraftverkehrs"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 4 Statistik des Luftverkehrs"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 4 Statistik des Luftverkehrs"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 4 Statistik des Luftverkehrs"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 4 Statistik des Luftverkehrs"
@@ -142,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 4 Statistik des Luftverkehrs"
@@ -152,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 5 Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs"
@@ -162,6 +178,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 5 Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs"
@@ -172,6 +189,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 5 Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs"
@@ -182,6 +200,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 5 Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs"
@@ -192,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 5 Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs"
@@ -202,6 +222,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 5 Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs"
@@ -212,6 +233,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 5 Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs"
@@ -222,6 +244,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 5 Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs"
@@ -232,6 +255,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 5 Statistik des Schienenverkehrs und des gewerblichen Straßen-Personenverkehrs"
@@ -242,6 +266,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 6 Durchführungsbestimmungen"
@@ -252,6 +277,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 6 Durchführungsbestimmungen"
@@ -262,6 +288,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 6 Durchführungsbestimmungen"
@@ -272,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 6 Durchführungsbestimmungen"
@@ -282,6 +310,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 6 Durchführungsbestimmungen"
@@ -292,6 +321,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 6 Durchführungsbestimmungen"
@@ -302,6 +332,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Vorschrift",
         "Abschnitt 6 Durchführungsbestimmungen"

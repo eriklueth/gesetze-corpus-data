@@ -4,9 +4,11 @@
   "bjnr": "BJNR00A0B0023",
   "eli": null,
   "gii_slug": "mgfsg",
-  "ingested_at": "2026-04-18T20:36:32Z",
   "jurabk": "MgFSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "2bf57ea654df6729062e07415d126a7e6e7e04e086dae8d7f65f0675ff0f2bbb"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Mitbestimmung der Arbeitnehmer bei grenzüberschreitendem Formwechsel und grenzüberschreitender Spaltung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

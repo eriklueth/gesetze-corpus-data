@@ -4,9 +4,11 @@
   "bjnr": "BJNR001100014",
   "eli": null,
   "gii_slug": "bmvgwidklazustano",
-  "ingested_at": "2026-04-18T20:30:34Z",
   "jurabk": "BMVgWidKlaZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "acc3d00f846c529735f734094306aa125ec72b6e39d319ef96f71921790cb1a1"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Allgemeine Anordnung über die Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung bei Klagen aus dem Beamten- oder Wehrdienstverhältnis im Geschäftsbereich des Bundesministeriums der Verteidigung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

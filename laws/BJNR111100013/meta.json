@@ -4,9 +4,11 @@
   "bjnr": "BJNR111100013",
   "eli": null,
   "gii_slug": "elektrostoffv",
-  "ingested_at": "2026-04-18T20:32:13Z",
   "jurabk": "ElektroStoffV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "52340d2be97f85f79d33d98a5e2a0717be6d548950a3e899d02345bf4c98518a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Beschränkung der Verwendung gefährlicher Stoffe in Elektro- und Elektronikgeräten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

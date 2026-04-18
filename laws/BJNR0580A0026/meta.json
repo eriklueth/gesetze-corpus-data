@@ -4,9 +4,11 @@
   "bjnr": "BJNR0580A0026",
   "eli": null,
   "gii_slug": "famkakigabrv",
-  "ingested_at": "2026-04-18T20:33:01Z",
   "jurabk": "FamkaKiGAbrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "9002aa48abdd640e730a272c82614f195af908cfa520a9259ea73f655be22b9e"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über den automatisierten Abruf von Daten der Träger der Leistungen nach dem Zweiten und Dritten Buch Sozialgesetzbuch durch die Familienkasse der Bundesagentur für Arbeit zur Prüfung des Anspruchs auf Kindergeld",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

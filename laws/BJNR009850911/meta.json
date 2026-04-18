@@ -4,9 +4,11 @@
   "bjnr": "BJNR009850911",
   "eli": null,
   "gii_slug": "hikassgaufhg",
-  "ingested_at": "2026-04-18T20:34:32Z",
   "jurabk": "HiKassGAufhG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "40dcabbb354cd3610f61264be6dda0a924fd9d56e38264e5440318e925fc7583"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz betreffend die Aufhebung des Hilfskassengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

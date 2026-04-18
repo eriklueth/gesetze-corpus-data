@@ -4,9 +4,11 @@
   "bjnr": "BJNR040700003",
   "eli": null,
   "gii_slug": "goethemedstat",
-  "ingested_at": "2026-04-18T20:34:08Z",
   "jurabk": "GoetheMedStat",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "30a61dc7ca375b164aaf486e7e6b565c8239fb82fb92de6c4222a0810d385c0d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Statut für die Verleihung der Goethe-Medaille des Goethe-Instituts Inter Nationes e. V. (gestiftet 1954)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

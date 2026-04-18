@@ -4,9 +4,12 @@
   "bjnr": "BJNR006850975",
   "eli": null,
   "gii_slug": "zustlg",
-  "ingested_at": "2026-04-18T20:43:23Z",
   "jurabk": "ZustLG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "0da5d922b5f2a96e107f1a154df83f8027a4e2ba37eb60c3b27bb9127ea354a2"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Erleichterung der Verwaltungsreform in den Ländern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

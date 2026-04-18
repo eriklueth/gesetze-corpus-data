@@ -4,9 +4,11 @@
   "bjnr": "BJNR208020970",
   "eli": null,
   "gii_slug": "iao_bk118g",
-  "ingested_at": "2026-04-18T20:34:39Z",
   "jurabk": "IAOÜbk118G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "8e4714a62378c707eeaae8ec14bffc7f8244cd1be66556e779d9b10b44b8347e"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Übereinkommen Nr. 118 der Internationalen Arbeitsorganisation vom 28. Juni 1962 über die Gleichbehandlung von Inländern und Ausländern in der Sozialen Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

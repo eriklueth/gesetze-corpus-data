@@ -4,9 +4,11 @@
   "bjnr": "BJNR140400019",
   "eli": null,
   "gii_slug": "fotografmstrv_2020",
-  "ingested_at": "2026-04-18T20:33:24Z",
   "jurabk": "FotografMstrV 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "4dd898c14f653c4104e04eebb30b2886aef42213dbe444cabb685bf6e223a135"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Fotografen-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

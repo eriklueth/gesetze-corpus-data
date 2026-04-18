@@ -4,9 +4,12 @@
   "bjnr": "BJNR0920A0025",
   "eli": null,
   "gii_slug": "beamtvaltgzustano",
-  "ingested_at": "2026-04-18T20:29:37Z",
   "jurabk": "BeamtVAltGZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "983adccbdaef3d9a147672ee17a2c4b6fb264922c1a65b682eda69f074edd044"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Anordnung zu Zuständigkeiten auf den Gebieten der Versorgung und des Altersgeldes sowie des Versorgungsausgleichs",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

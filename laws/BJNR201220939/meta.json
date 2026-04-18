@@ -4,9 +4,9 @@
   "bjnr": "BJNR201220939",
   "eli": null,
   "gii_slug": "rhistabkitadv",
-  "ingested_at": "2026-04-18T20:39:01Z",
   "jurabk": "RHiStAbkITADV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2c63682ab15d1a368551bf78f58789b047771a5995bceec05908472491f90477"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung des Abkommens zwischen dem Deutschen Reich und dem Königreich Italien über Amts- und Rechtshilfe in Steuersachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

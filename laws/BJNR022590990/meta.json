@@ -4,9 +4,9 @@
   "bjnr": "BJNR022590990",
   "eli": null,
   "gii_slug": "pmeritesa_nderl_1990",
-  "ingested_at": "2026-04-18T20:38:25Z",
   "jurabk": "PMeriteSaÄndErl 1990",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "dd42e59535b2e3b995b9407f76a958a6e4789fe6cee250b34add4114f29ed1e2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlaß über die Genehmigung von Änderungen der Satzung des Ordens Pour le merite für Wissenschaften und Künste",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

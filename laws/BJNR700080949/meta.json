@@ -4,9 +4,11 @@
   "bjnr": "BJNR700080949",
   "eli": null,
   "gii_slug": "d_ngmsaatg",
-  "ingested_at": "2026-04-18T20:31:53Z",
   "jurabk": "DüngMSaatG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "414f27f15cecd3dd11473a74beacce62d78cb807366d65e7e114e5457c4f20f3"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Sicherung der Düngemittel- und Saatgutversorgung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

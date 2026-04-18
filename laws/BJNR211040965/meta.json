@@ -4,9 +4,9 @@
   "bjnr": "BJNR211040965",
   "eli": null,
   "gii_slug": "wanderabk_aus",
-  "ingested_at": "2026-04-18T20:42:14Z",
   "jurabk": "WanderAbk AUS",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "60e824a5c9f37b4d5284810f0ca114852e0137d6c75883e55abe7302909c26fa"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Australischen Bundes über die unterstützte Wanderung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

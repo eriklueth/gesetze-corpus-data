@@ -4,9 +4,11 @@
   "bjnr": "BJNR159100001",
   "eli": null,
   "gii_slug": "sozv",
-  "ingested_at": "2026-04-18T20:40:31Z",
   "jurabk": "SoZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "a1dc1cdfd7cbd152df848d87f248e9821de82590a589fd95829762f57c7265f3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Einführung der mitteleuropäischen Sommerzeit ab dem Jahr 2002",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

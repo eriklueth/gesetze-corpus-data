@@ -4,9 +4,11 @@
   "bjnr": "BJNR002090975",
   "eli": null,
   "gii_slug": "owig_124v",
-  "ingested_at": "2026-04-18T20:38:01Z",
   "jurabk": "OWiG§124V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "3fcf805ca9a85e407deb0a85c48ff57e7788216bdbc1b6d700463768828534d0"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach § 124 des Gesetzes über Ordnungswidrigkeiten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

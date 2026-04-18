@@ -4,9 +4,12 @@
   "bjnr": "BJNR031100012",
   "eli": null,
   "gii_slug": "bodsch_tzdv",
-  "ingested_at": "2026-04-18T20:30:41Z",
   "jurabk": "BodSchätzDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "2b291743bdbcba71352387b53eada39467154a3c366f50e2ae335bdcbd8a4a94"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des § 6 Absatz 3 des Bodenschätzungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

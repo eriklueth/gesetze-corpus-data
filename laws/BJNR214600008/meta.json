@@ -4,9 +4,11 @@
   "bjnr": "BJNR214600008",
   "eli": null,
   "gii_slug": "rvknseemannskasse_g",
-  "ingested_at": "2026-04-18T20:39:13Z",
   "jurabk": "RVKnSeemannskasseÜG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "ce2769a1d2dc06042e22b6eb24fe552a4e96c44644134ceab1a4dc60251c59a8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu Übergangsregelungen zur Eingliederung der Seemannskasse in die Deutsche Rentenversicherung Knappschaft-Bahn-See",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

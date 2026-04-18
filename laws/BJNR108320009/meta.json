@@ -4,9 +4,9 @@
   "bjnr": "BJNR108320009",
   "eli": null,
   "gii_slug": "saa_mne",
-  "ingested_at": "2026-04-18T20:39:18Z",
   "jurabk": "SAA MNE",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "64cf3c436d800204552a0bd6489e4261823a922748b39fe6dbded2b18c14a4db"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Stabilisierungs- und Assoziierungsabkommen zwischen den Europäischen Gemeinschaften und ihren Mitgliedstaaten einerseits und der Republik Montenegro andererseits",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR076900016",
   "eli": null,
   "gii_slug": "anlv_2016",
-  "ingested_at": "2026-04-18T20:28:49Z",
   "jurabk": "AnlV 2016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "81561f89a8411c95ed218fcdf87b3e034da0303ddb3437e7ab387a55358e6d2e"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Anlage des Sicherungsvermögens von Pensionskassen, Sterbekassen und kleinen Versicherungsunternehmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

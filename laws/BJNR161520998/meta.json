@@ -4,9 +4,11 @@
   "bjnr": "BJNR161520998",
   "eli": null,
   "gii_slug": "strbn_bkseg",
-  "ingested_at": "2026-04-18T20:40:45Z",
   "jurabk": "StrBNÜbkSEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "27edf7962e9540919bba34687566f1b1ba2e3cb8a10a3a0aafaa1ea6b921bd26"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Protokoll vom 18. September 1997 über den Beitritt des Königreichs Schweden zu dem Übereinkommen vom 9. Februar 1994 über die Erhebung von Gebühren für die Benutzung bestimmter Straßen mit schweren Nutzfahrzeugen sowie zu dem Zusatzübereinkommen vom 18. September 1997 zu dem vorgenannten Übereinkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

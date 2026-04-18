@@ -4,9 +4,11 @@
   "bjnr": "BJNR003170964",
   "eli": null,
   "gii_slug": "wpapberav",
-  "ingested_at": "2026-04-18T20:42:31Z",
   "jurabk": "WPapBerAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "e58105ad921925edf2198424451adca58865ba1f7044f0991fccd04cd5f690f4"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Aufgaben des Amts für Wertpapierbereinigung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

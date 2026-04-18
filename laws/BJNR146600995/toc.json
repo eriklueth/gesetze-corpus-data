@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR146600995",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Sachliche und räumliche Anwendung",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Allgemeine Pflichten",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Sicherheits- und Gesundheitsschutzdokument",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Zusammenarbeit der Unternehmer",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Beaufsichtigung durch verantwortliche Personen",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Unterrichtung, Unterweisung, Anhörung",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Schriftliche Anweisungen",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Übertragung von Arbeiten",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Arbeitsfreigabe",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Vorkehrungen bei erheblichen Gefahren",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Spezifische Schutzmaßnahmen",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Allgemeine Anforderungen an Arbeitsstätten und sanitäre Einrichtungen",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Arbeitsstätten zur Aufsuchung und Gewinnung durch Bohrungen einschließlich der Aufbereitung, Untergrundspeicherung, Wiedernutzbarmachung",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Arbeitsstätten zur übertägigen Aufsuchung, Gewinnung und Aufbereitung, Wiedernutzbarmachung",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Untertägige Arbeitsstätten",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Bewetterung untertägiger Arbeitsstätten",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Bereitstellung und Benutzung von Arbeitsmitteln",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Bereitstellung und Benutzung von persönlichen Schutzausrüstungen",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Sicherheits- oder Gesundheitsschutzkennzeichnung",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Präventivmedizinische Überwachung, ärztliche Untersuchungen",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0021.md",
       "heading": "Pflichten der Beschäftigten",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0022.md",
       "heading": "Rechte der Beschäftigten",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0022a.md",
       "heading": "Anforderungen an die Entsorgung von bergbaulichen Abfällen",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0022b.md",
       "heading": "Anforderungen an die Aufsuchung und Gewinnung von Erdgas, Erdöl und Erdwärme einschließlich des Aufbrechens von Gestein unter hydraulischem Druck",
@@ -171,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0022c.md",
       "heading": "Anforderungen an den Umgang mit Lagerstättenwasser und Rückfluss bei der Aufsuchung und Gewinnung von Erdöl und Erdgas",
@@ -178,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0023.md",
       "heading": "Übertragung der Verantwortlichkeit",
@@ -185,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0023a.md",
       "heading": "Anerkennung von Sachverständigen",
@@ -192,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0024.md",
       "heading": "Ordnungswidrigkeiten",
@@ -199,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0025.md",
       "heading": "Gegenstandslose landesrechtliche Vorschriften",
@@ -206,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0026.md",
       "heading": "Inkrafttreten",

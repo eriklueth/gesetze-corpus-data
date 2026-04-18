@@ -4,9 +4,11 @@
   "bjnr": "BJNR010130963",
   "eli": null,
   "gii_slug": "entwhstg",
-  "ingested_at": "2026-04-18T20:32:22Z",
   "jurabk": "EntwHStG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "d73e609c9188ec9d6e7ca906492c36bbd2a69c942d036b3f6b607b0466151505"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über steuerliche Maßnahmen zur Förderung von privaten Kapitalanlagen in Entwicklungsländern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

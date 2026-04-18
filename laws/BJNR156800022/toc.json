@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR156800022",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Qualität sowie Datenschutz und -sicherheit digitaler Pflegeanwendungen"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Qualität sowie Datenschutz und -sicherheit digitaler Pflegeanwendungen"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Qualität sowie Datenschutz und -sicherheit digitaler Pflegeanwendungen"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Qualität sowie Datenschutz und -sicherheit digitaler Pflegeanwendungen"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Qualität sowie Datenschutz und -sicherheit digitaler Pflegeanwendungen"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 2 Anforderungen an Sicherheit, Funktionstauglichkeit, Qualität sowie Datenschutz und -sicherheit digitaler Pflegeanwendungen"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 3 Anforderungen an den Nachweis des pflegerischen Nutzens"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 3 Anforderungen an den Nachweis des pflegerischen Nutzens"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 3 Anforderungen an den Nachweis des pflegerischen Nutzens"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 3 Anforderungen an den Nachweis des pflegerischen Nutzens"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 4 Ergänzende Vorschriften für das Verwaltungsverfahren"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 4 Ergänzende Vorschriften für das Verwaltungsverfahren"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 4 Ergänzende Vorschriften für das Verwaltungsverfahren"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 5 Inhalte und Veröffentlichung des Verzeichnisses für digitale Pflegeanwendungen"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 5 Inhalte und Veröffentlichung des Verzeichnisses für digitale Pflegeanwendungen"
@@ -171,6 +188,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 5 Inhalte und Veröffentlichung des Verzeichnisses für digitale Pflegeanwendungen"
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 6 Beratung durch das Bundesinstitut für Arzneimittel und Medizinprodukte"
@@ -191,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 7 Gebühren und Auslagen"
@@ -201,6 +221,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 7 Gebühren und Auslagen"
@@ -211,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 7 Gebühren und Auslagen"
@@ -221,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 7 Gebühren und Auslagen"
@@ -231,6 +254,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 7 Gebühren und Auslagen"
@@ -241,6 +265,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 7 Gebühren und Auslagen"
@@ -251,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 7 Gebühren und Auslagen"
@@ -261,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 7 Gebühren und Auslagen"
@@ -271,6 +298,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 7 Gebühren und Auslagen"
@@ -281,6 +309,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 7 Gebühren und Auslagen"
@@ -291,6 +320,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 8 Schiedsverfahren"
@@ -301,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 8 Schiedsverfahren"
@@ -311,6 +342,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 8 Schiedsverfahren"
@@ -321,6 +353,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 9 Inhalte des Berichtes über digitale Pflegeanwendungen"
@@ -331,6 +364,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 10 Schlussbestimmungen"
@@ -341,6 +375,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 10 Schlussbestimmungen"
@@ -351,6 +386,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Antragsberechtigung und Antragsinhalte",
         "Abschnitt 10 Schlussbestimmungen"

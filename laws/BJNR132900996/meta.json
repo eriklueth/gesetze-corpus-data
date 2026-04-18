@@ -4,9 +4,11 @@
   "bjnr": "BJNR132900996",
   "eli": null,
   "gii_slug": "braummstrv",
-  "ingested_at": "2026-04-18T20:30:45Z",
   "jurabk": "BrauMMstrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "2a23cec47e50c9b6e320783bc9d7812ff4bf45077c9b451cc3cd49c2ea08279f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Brauer- und Mälzer-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

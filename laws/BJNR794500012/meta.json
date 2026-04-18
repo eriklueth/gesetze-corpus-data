@@ -4,9 +4,12 @@
   "bjnr": "BJNR794500012",
   "eli": null,
   "gii_slug": "wastrschlbetrzv_2013",
-  "ingested_at": "2026-04-18T20:42:18Z",
   "jurabk": "WaStrSchlBetrZV 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "112d3470bb8d1d8030eedc082db933fe626dabdd6eaeab7b490d71d38e6b26ce"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Betriebszeiten der Schleusen und Hebewerke an den Bundeswasserstraßen im Zuständigkeitsbereich der Wasser- und Schifffahrtsdirektion Ost",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

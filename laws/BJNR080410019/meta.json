@@ -4,9 +4,12 @@
   "bjnr": "BJNR080410019",
   "eli": null,
   "gii_slug": "bimschv_44",
-  "ingested_at": "2026-04-18T20:28:13Z",
   "jurabk": "BImSchV 44",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "2d874dd9ae3cbd5be0974a60d192798829ee353a1498e5b614aef175fc49b186"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Vierundvierzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

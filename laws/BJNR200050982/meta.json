@@ -4,9 +4,9 @@
   "bjnr": "BJNR200050982",
   "eli": null,
   "gii_slug": "intmeersch_bk1973anl_i",
-  "ingested_at": "2026-04-18T20:34:54Z",
   "jurabk": "IntMeerSchÜbk1973Anl I",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8cd28927136bcaa8643596160f96949d9faa9c7e317c105945ec3ade4a82e59d"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Regeln zur Verhütung der Verschmutzung durch Öl (Anlage I zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

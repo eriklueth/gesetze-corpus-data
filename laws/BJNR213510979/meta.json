@@ -4,9 +4,9 @@
   "bjnr": "BJNR213510979",
   "eli": null,
   "gii_slug": "kfzstbefrabk_ddr",
-  "ingested_at": "2026-04-18T20:35:18Z",
   "jurabk": "KfzStBefrAbk DDR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5c817ee05b7e8b9597a6770ebc6b1fd74d254b82ebf179d04c036f53d2d1263f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Deutschen Demokratischen Republik über die Befreiung von Straßenfahrzeugen von Steuern und Gebühren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

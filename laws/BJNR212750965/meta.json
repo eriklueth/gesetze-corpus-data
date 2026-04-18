@@ -4,9 +4,9 @@
   "bjnr": "BJNR212750965",
   "eli": null,
   "gii_slug": "sozsichabkdvbg_gbr",
-  "ingested_at": "2026-04-18T20:40:24Z",
   "jurabk": "SozSichAbkDVbg GBR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f938e3a835d66b4c7e1c489da0d46875b2357eb1aabc556d9b6d1fa58a0f3250"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vereinbarung zur Durchführung des Abkommens zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

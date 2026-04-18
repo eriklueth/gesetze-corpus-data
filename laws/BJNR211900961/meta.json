@@ -4,9 +4,9 @@
   "bjnr": "BJNR211900961",
   "eli": null,
   "gii_slug": "natotrstat",
-  "ingested_at": "2026-04-18T20:37:30Z",
   "jurabk": "NATOTrStat",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c5702b0b5f5ae4a84d317ae4e3c8a76ae24afbf4129da49dadb92410641fd2d5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

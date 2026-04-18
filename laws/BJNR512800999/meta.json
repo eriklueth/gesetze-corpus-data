@@ -4,9 +4,9 @@
   "bjnr": "BJNR512800999",
   "eli": null,
   "gii_slug": "luftvodv_193",
-  "ingested_at": "2026-04-18T20:36:10Z",
   "jurabk": "LuftVODV 193",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b54dcd232c095dbe2d6d7cd6c87110bb049df7f95288190f1c723ebd2b1b11cd"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Hundertdreiundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandesplatz Mannheim)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

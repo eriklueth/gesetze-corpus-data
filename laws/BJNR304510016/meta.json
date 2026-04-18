@@ -4,9 +4,11 @@
   "bjnr": "BJNR304510016",
   "eli": null,
   "gii_slug": "milchsonma_g",
-  "ingested_at": "2026-04-18T20:36:34Z",
   "jurabk": "MilchSonMaßG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "289c644ac42ac5d12046cb032314f0801dd231ba1da44a1294a02feacb3d8d3b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Durchführung von Sondermaßnahmen der Europäischen Union im Milchmarktbereich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

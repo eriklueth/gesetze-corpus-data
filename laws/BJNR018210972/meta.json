@@ -4,9 +4,11 @@
   "bjnr": "BJNR018210972",
   "eli": null,
   "gii_slug": "gerpr_swo",
-  "ingested_at": "2026-04-18T20:33:48Z",
   "jurabk": "GerPräsWO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "1e5bf2f1b1977f8c0e28e9da8191d82dcc9a652b96a7f578dd27fc6229ddce2a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Wahlordnung für die Präsidien der Gerichte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

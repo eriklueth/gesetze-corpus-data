@@ -4,9 +4,11 @@
   "bjnr": "DDNR015270990",
   "eli": null,
   "gii_slug": "schiedsg",
-  "ingested_at": "2026-04-18T20:39:31Z",
   "jurabk": "SchiedsG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 52
+  },
   "source_hashes": {
     "source_xml_sha256": "297adccb8045335acb3c5e642026bde2b12d0b3d4816545fddccc337a591f1c4"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Schiedsstellen in den Gemeinden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

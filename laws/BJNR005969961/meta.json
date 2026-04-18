@@ -4,9 +4,9 @@
   "bjnr": "BJNR005969961",
   "eli": null,
   "gii_slug": "bpr_spatgerkldgano",
-  "ingested_at": "2026-04-18T20:30:44Z",
   "jurabk": "BPräsPatGerKldgAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d0cd2e1fa5bbddbc8ed53191c7ec13f5872f71fecbac862a13779040bad701a7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundespatentgericht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

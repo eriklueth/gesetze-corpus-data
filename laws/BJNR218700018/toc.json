@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR218700018",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Allgemeine Anforderungen an den Betrieb",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Fachkunde",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004a.md",
       "heading": "Nachweis der Fachkunde",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004b.md",
       "heading": "Anerkennung der Schulungsanbieter",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Fachkunde zur Anwendung von Lasereinrichtungen und intensiven Lichtquellen",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Fachkunde zur Anwendung von Hochfrequenzgeräten",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Fachkunde zur Anwendung von Anlagen zur elektrischen Nerven- und Muskelstimulation und zur Magnetfeldstimulation",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Stimulation des Zentralen Nervensystems",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Fachkunde zur Anwendung von Ultraschall",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Anwendung von Ultraschall an einer schwangeren Person",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Anwendung von Magnetresonanzverfahren",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Ordnungswidrigkeiten",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Übergangsregelungen",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 2 Absatz 1 Nummer 4 und 5)",
@@ -115,6 +131,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(weggefallen)",
@@ -122,6 +139,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 20,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 5 Absatz 1, § 6 Absatz 1, § 7 und § 9 Absatz 1)",

@@ -4,9 +4,12 @@
   "bjnr": "BJNR09F0B0023",
   "eli": null,
   "gii_slug": "trinkwv_2023",
-  "ingested_at": "2026-04-18T20:41:20Z",
   "jurabk": "TrinkwV 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 7,
+    "paragraph": 72
+  },
   "source_hashes": {
     "source_xml_sha256": "22171eb72d957c471208ba3a3e232118d3e0a744e9092c6be26ebef61e6c28c4"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Qualität von Wasser für den menschlichen Gebrauch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

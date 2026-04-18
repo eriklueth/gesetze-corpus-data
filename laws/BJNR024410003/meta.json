@@ -4,9 +4,11 @@
   "bjnr": "BJNR024410003",
   "eli": null,
   "gii_slug": "bvl_v",
-  "ingested_at": "2026-04-18T20:31:09Z",
   "jurabk": "BVLÜV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "0bf16824f4f027cca14a2448ca69ae3799338da6d5929f548284883f928d00eb"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Übertragung von Befugnissen auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

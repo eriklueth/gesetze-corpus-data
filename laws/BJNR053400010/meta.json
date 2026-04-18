@@ -4,9 +4,9 @@
   "bjnr": "BJNR053400010",
   "eli": null,
   "gii_slug": "wbgart13inkrbek",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WBGArt13InkrBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "70b90669940be4477f13c0d05edb0feeef9fcff54e482a16c374f313b1bea3c8"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über das Inkrafttreten des Artikels 13 des Gesetzes zur Beschleunigung des Wirtschaftswachstums",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR202620958",
   "eli": null,
   "gii_slug": "grenzvtr_bel",
-  "ingested_at": "2026-04-18T20:34:16Z",
   "jurabk": "GrenzVtr BEL",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "bcbab0edba5d30338f36239deb6eaeda75cb8333a06a12f78de8f270c492ff82"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem KÖnigreich Belgien über eine Berichtigung der deutsch-belgischen Grenze und andere die Beziehungen zwischen beiden Ländern betreffende Fragen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR700330947",
   "eli": null,
   "gii_slug": "h_feo",
-  "ingested_at": "2026-04-18T20:34:31Z",
   "jurabk": "HöfeO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "ff379f074046ba92f6e2bc22b314216a09f594b0e8b63831dbefcdf4f4832019"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Höfeordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

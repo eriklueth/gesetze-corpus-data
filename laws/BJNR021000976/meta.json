@@ -4,9 +4,11 @@
   "bjnr": "BJNR021000976",
   "eli": null,
   "gii_slug": "leukosev_1976",
-  "ingested_at": "2026-04-18T20:35:51Z",
   "jurabk": "LeukoseV 1976",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "f439952dd4fefbf759b990519c112c6d2fdfe79cd2154b183086dbe7116d33e5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zum Schutz gegen die Leukose der Rinder",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR075520016",
   "eli": null,
   "gii_slug": "sozsichabkalbg",
-  "ingested_at": "2026-04-18T20:40:20Z",
   "jurabk": "SozSichAbkALBG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "6e7c39d1015bf6cfdc7589d328faf03a9a7357b4b84f60a08328ff5a38b4dd2c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 23. September 2015 zwischen der Bundesrepublik Deutschland und der Republik Albanien über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

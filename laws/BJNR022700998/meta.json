@@ -4,9 +4,9 @@
   "bjnr": "BJNR022700998",
   "eli": null,
   "gii_slug": "m_nz10dmbek_1998-01",
-  "ingested_at": "2026-04-18T20:36:53Z",
   "jurabk": "Münz10DMBek 1998-01",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a417c725c06dabb555c909fd76635dc232fb81f647c6c78bc74bb62fbe0b774e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 350 Jahre Westfälischer Friede)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

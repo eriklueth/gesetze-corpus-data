@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR001940960",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung"
       ],
@@ -75,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung"
       ],
@@ -84,6 +93,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -94,6 +104,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -104,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -114,6 +126,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -124,6 +137,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -134,6 +148,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -144,6 +159,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -154,6 +170,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -164,6 +181,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -174,6 +192,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -184,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -194,6 +214,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Zweiter Abschnitt Unfallversicherung"
@@ -204,6 +225,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Dritter Abschnitt Rentenversicherung der Arbeiter"
@@ -214,6 +236,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Dritter Abschnitt Rentenversicherung der Arbeiter"
@@ -224,6 +247,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Dritter Abschnitt Rentenversicherung der Arbeiter"
@@ -234,6 +258,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Vierter Abschnitt Rentenversicherung der Angestellten"
@@ -244,6 +269,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Vierter Abschnitt Rentenversicherung der Angestellten"
@@ -254,6 +280,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Vierter Abschnitt Rentenversicherung der Angestellten"
@@ -264,6 +291,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Vierter Abschnitt Rentenversicherung der Angestellten"
@@ -274,6 +302,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Vierter Abschnitt Rentenversicherung der Angestellten"
@@ -284,6 +313,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Fünfter Abschnitt Hüttenknappschaftliche Pensionsversicherung"
@@ -294,6 +324,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Sechster Abschnitt Knappschaftsversicherung"
@@ -304,6 +335,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Siebenter Abschnitt Gemeinsame und Schlußvorschriften"
@@ -314,6 +346,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Siebenter Abschnitt Gemeinsame und Schlußvorschriften"
@@ -324,6 +357,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Siebenter Abschnitt Gemeinsame und Schlußvorschriften"
@@ -334,6 +368,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Siebenter Abschnitt Gemeinsame und Schlußvorschriften"
@@ -344,6 +379,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Siebenter Abschnitt Gemeinsame und Schlußvorschriften"
@@ -354,6 +390,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Krankenversicherung",
         "Siebenter Abschnitt Gemeinsame und Schlußvorschriften"

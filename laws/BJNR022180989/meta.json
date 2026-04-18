@@ -4,9 +4,11 @@
   "bjnr": "BJNR022180989",
   "eli": null,
   "gii_slug": "beamtvg_ndg",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BeamtVGÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "e9d96656175435ffe977c07328093ca1ef73166cd34c2b939b2222a4f50adff2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Änderung des Beamtenversorgungsgesetzes und sonstiger dienst- und versorgungsrechtlicher Vorschriften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

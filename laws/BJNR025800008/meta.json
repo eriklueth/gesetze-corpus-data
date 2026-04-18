@@ -4,9 +4,12 @@
   "bjnr": "BJNR025800008",
   "eli": null,
   "gii_slug": "ebpg",
-  "ingested_at": "2026-04-18T20:32:55Z",
   "jurabk": "EBPG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "26b6823754341a4d797f86a92363a08bb7d852fd1f7620509ca029df68351fdf"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

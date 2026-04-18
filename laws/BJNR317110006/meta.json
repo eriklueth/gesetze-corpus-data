@@ -4,9 +4,11 @@
   "bjnr": "BJNR317110006",
   "eli": null,
   "gii_slug": "bfjg",
-  "ingested_at": "2026-04-18T20:30:16Z",
   "jurabk": "BfJG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "b4bbe4b7321d9225b85a196d8c18d30a187ef3af6a1fa38d9a175f5852db0b04"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Errichtung des Bundesamts für Justiz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

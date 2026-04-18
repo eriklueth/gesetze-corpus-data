@@ -4,9 +4,12 @@
   "bjnr": "BJNR195010004",
   "eli": null,
   "gii_slug": "aufenthg_2004",
-  "ingested_at": "2026-04-18T20:29:00Z",
   "jurabk": "AufenthG 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 193
+  },
   "source_hashes": {
     "source_xml_sha256": "98fd288e67e9b88cc7b1d8d43762b645e0a87cf75a4c739b534cac509852657b"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

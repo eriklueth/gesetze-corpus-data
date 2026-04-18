@@ -4,9 +4,11 @@
   "bjnr": "BJNR005770967",
   "eli": null,
   "gii_slug": "wzg_4cernbek",
-  "ingested_at": "2026-04-18T20:42:58Z",
   "jurabk": "WZG§4CERNBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "9a31ba14d45d6262891ed8ecf51e1f9880f90f93f55db9330c91ea5193c929b9"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

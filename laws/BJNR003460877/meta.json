@@ -4,9 +4,11 @@
   "bjnr": "BJNR003460877",
   "eli": null,
   "gii_slug": "stpoeg",
-  "ingested_at": "2026-04-18T20:40:44Z",
   "jurabk": "StPOEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "8835d9c6cb037d6c48ca044c765f73196e60fb75028e306f8c9605c5a66c8ebe"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Einführungsgesetz zur Strafprozeßordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

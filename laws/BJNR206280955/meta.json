@@ -4,9 +4,9 @@
   "bjnr": "BJNR206280955",
   "eli": null,
   "gii_slug": "besatzreglvtrart1bek",
-  "ingested_at": "2026-04-18T20:29:49Z",
   "jurabk": "BesatzReglVtrArt1Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b7843afb7babf9a680254b965572df0af8202566960d3dfd269901012a85c98b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu Artikel 1 Abs. 2 des Zehnten Teils des Vertrags zur Regelung aus Krieg und Besatzung entstandener Fragen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

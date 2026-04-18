@@ -4,9 +4,12 @@
   "bjnr": "BJNR021620991",
   "eli": null,
   "gii_slug": "meistvoeiganerkv",
-  "ingested_at": "2026-04-18T20:36:32Z",
   "jurabk": "MeistVoEigAnerkV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "aa51e830a66e8e1f2a1be7c87865a79d37f25c8fc119929a0da85fb1cc36dd0c"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Anerkennung von Ausbildungsabschlüssen von Meistern der volkseigenen Industrie als Voraussetzung für die Eintragung in die Handwerksrolle",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

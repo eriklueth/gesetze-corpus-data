@@ -4,9 +4,11 @@
   "bjnr": "BJNR118300996",
   "eli": null,
   "gii_slug": "dbeglg",
-  "ingested_at": "2026-04-18T20:31:34Z",
   "jurabk": "DBeglG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "73dec9aa434c08496656476c30324d09aa66b1282620c4e2afb3826f12bed7c6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Dienstrechtliches Begleitgesetz im Zusammenhang mit dem Beschluß des Deutschen Bundestages vom 20. Juli 1991 zur Vollendung der Einheit Deutschlands",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

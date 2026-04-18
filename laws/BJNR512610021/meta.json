@@ -4,9 +4,11 @@
   "bjnr": "BJNR512610021",
   "eli": null,
   "gii_slug": "biost-nachv_2021",
-  "ingested_at": "2026-04-18T20:30:11Z",
   "jurabk": "BioSt-NachV 2021",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 55
+  },
   "source_hashes": {
     "source_xml_sha256": "a02727f4231ac7778e203f0fcf06c460273c89e6c4034b86f8abb570f9b14876"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über Anforderungen an eine nachhaltige Herstellung von Biomasse zur Stromerzeugung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

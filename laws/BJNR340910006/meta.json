@@ -4,9 +4,11 @@
   "bjnr": "BJNR340910006",
   "eli": null,
   "gii_slug": "atdg",
-  "ingested_at": "2026-04-18T20:28:56Z",
   "jurabk": "ATDG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "df3187751e5ecddf259af12bb394694a93c0e4fcf8c1b73adbbe8ca7c53e8d57"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Errichtung einer standardisierten zentralen Antiterrordatei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

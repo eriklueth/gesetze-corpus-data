@@ -4,9 +4,11 @@
   "bjnr": "BJNR364100009",
   "eli": null,
   "gii_slug": "agnwv",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AgNwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "c4219f5516af8589c22883f02c2e2195acdfc428de74e93ebda2d298ee7183c6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Art, Umfang und Form der erforderlichen Nachweise im Sinne des § 25 Absatz 2 Satz 2 des Zahlungsdiensteaufsichtsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

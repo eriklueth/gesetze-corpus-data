@@ -4,9 +4,12 @@
   "bjnr": "BJNR0FA0B0025",
   "eli": null,
   "gii_slug": "btgo_2025",
-  "ingested_at": "2026-04-18T20:30:57Z",
   "jurabk": "BTGO 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 7,
+    "paragraph": 141
+  },
   "source_hashes": {
     "source_xml_sha256": "fe0569d0d92fad34bccc0828683532caf1945ed9a4a7123c91e8f12451f051da"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Geschäftsordnung des Deutschen Bundestages",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

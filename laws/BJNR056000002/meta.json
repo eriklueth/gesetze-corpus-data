@@ -4,9 +4,9 @@
   "bjnr": "BJNR056000002",
   "eli": null,
   "gii_slug": "bnddisrzustano",
-  "ingested_at": "2026-04-18T20:30:34Z",
   "jurabk": "BNDDisRZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "924d6f7eff30a9f704cceeb2164c7a88aa07e9f31248f6df58490eb22588ed7b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Bereich des Bundesnachrichtendienstes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

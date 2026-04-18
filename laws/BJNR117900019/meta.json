@@ -4,9 +4,12 @@
   "bjnr": "BJNR117900019",
   "eli": null,
   "gii_slug": "usg_2020",
-  "ingested_at": "2026-04-18T20:41:38Z",
   "jurabk": "USG 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "70d27c73718d361ca32d006b17088cb7d911f14bb9f86731cf00449cb18f76ad"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über die Leistungen zur Sicherung des Unterhalts von Reservistendienst Leistenden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR012340987",
   "eli": null,
   "gii_slug": "b_rszulv",
-  "ingested_at": "2026-04-18T20:30:36Z",
   "jurabk": "BörsZulV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 25
+  },
   "source_hashes": {
     "source_xml_sha256": "4fa50373abf8094cb9a900786ca1dcdf03f9e3226e9152776733033ca4d28b1f"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Zulassung von Wertpapieren zum regulierten Markt einer Wertpapierbörse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

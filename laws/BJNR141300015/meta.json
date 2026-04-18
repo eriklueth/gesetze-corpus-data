@@ -4,9 +4,11 @@
   "bjnr": "BJNR141300015",
   "eli": null,
   "gii_slug": "altvpibv",
-  "ingested_at": "2026-04-18T20:28:41Z",
   "jurabk": "AltvPIBV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "7e5de6898b353692ca9a44df1b5f3c5ec5599e30866676da88c0425e33651045"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zum Produktinformationsblatt und zu weiteren Informationspflichten bei zertifizierten Altersvorsorge- und Basisrentenverträgen nach dem Altersvorsorgeverträge-Zertifizierungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR043310994",
   "eli": null,
   "gii_slug": "vschwkrschv",
-  "ingested_at": "2026-04-18T20:42:06Z",
   "jurabk": "VSchwKrSchV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "10bbd9374e9ad7ddb9b25545f5e9c5c98101102dd9f094d2421aade974507d87"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zum Schutz gegen die Vesikuläre Schweinekrankheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR108300003",
   "eli": null,
   "gii_slug": "fzglackausbv",
-  "ingested_at": "2026-04-18T20:33:29Z",
   "jurabk": "FzgLackAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "3cf15e04b5011accf1c3cba922b6d1eb13aa32c4fdb8479f45ef7e95dd175c07"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Fahrzeuglackierer/zur Fahrzeuglackiererin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

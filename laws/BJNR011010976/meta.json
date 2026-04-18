@@ -4,9 +4,11 @@
   "bjnr": "BJNR011010976",
   "eli": null,
   "gii_slug": "ezulv_1976",
-  "ingested_at": "2026-04-18T20:33:00Z",
   "jurabk": "EZulV 1976",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 52
+  },
   "source_hashes": {
     "source_xml_sha256": "3c9036c270bff9d90bdd53e026726d299f476907505f5e3feb1a27eedecdedc8"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung von Erschwerniszulagen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

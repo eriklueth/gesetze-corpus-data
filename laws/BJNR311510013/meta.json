@@ -4,9 +4,11 @@
   "bjnr": "BJNR311510013",
   "eli": null,
   "gii_slug": "sgffg",
-  "ingested_at": "2026-04-18T20:39:59Z",
   "jurabk": "SGFFG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "232b140fb8a397939f8c59b4425b95a8491195ae1bd368fcc77f3da3504edd5f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Förderung der Schienenwege der öffentlichen nicht bundeseigenen Eisenbahnen für den Schienengüterfernverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

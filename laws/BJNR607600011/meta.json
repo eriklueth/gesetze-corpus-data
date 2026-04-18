@@ -4,9 +4,11 @@
   "bjnr": "BJNR607600011",
   "eli": null,
   "gii_slug": "euobstgem_sedv",
-  "ingested_at": "2026-04-18T20:32:42Z",
   "jurabk": "EUObstGemüseDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "4c62591249967a4f197b32e153b5c004dabdf78f3ce1d6aeb5398142603efca0"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung von EU-Sondermaßnahmen im Sektor Obst und Gemüse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

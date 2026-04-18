@@ -4,9 +4,11 @@
   "bjnr": "BJNR473900021",
   "eli": null,
   "gii_slug": "giv",
-  "ingested_at": "2026-04-18T20:34:00Z",
   "jurabk": "GIV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "e80928d28e88072cec105f7c222512b3ddac653526f75d68a2d753222cf40007"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Förderung der Interoperabilität zwischen informationstechnischen Systemen im Gesundheitswesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

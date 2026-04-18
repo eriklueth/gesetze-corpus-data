@@ -4,9 +4,9 @@
   "bjnr": "BJNR203740986",
   "eli": null,
   "gii_slug": "postauftrabk_1984",
-  "ingested_at": "2026-04-18T20:38:27Z",
   "jurabk": "PostAuftrAbk 1984",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d16ab7da5a930b567532ff29c4cca1ef3166d89fd9d65cb7ae28fbc981b274de"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Postauftragsabkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

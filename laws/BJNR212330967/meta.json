@@ -4,9 +4,11 @@
   "bjnr": "BJNR212330967",
   "eli": null,
   "gii_slug": "kultgschkonvg",
-  "ingested_at": "2026-04-18T20:35:42Z",
   "jurabk": "KultgSchKonvG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "9de6e8d1d29c2381863550ce5c645f93dbf260938de17e7d2d5ea76d35407f75"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

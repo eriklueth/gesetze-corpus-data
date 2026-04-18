@@ -4,9 +4,11 @@
   "bjnr": "BJNR497800021",
   "eli": null,
   "gii_slug": "bsi-itsikv",
-  "ingested_at": "2026-04-18T20:30:49Z",
   "jurabk": "BSI-ITSiKV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "81d1d2aaa165410905c109058701e8e844ffe7381ec2e62f095cc1412e0a105a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zum IT-Sicherheitskennzeichen des Bundesamtes für Sicherheit in der Informationstechnik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

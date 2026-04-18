@@ -4,9 +4,11 @@
   "bjnr": "BJNR012670953",
   "eli": null,
   "gii_slug": "arbgg",
-  "ingested_at": "2026-04-18T20:28:51Z",
   "jurabk": "ArbGG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 147
+  },
   "source_hashes": {
     "source_xml_sha256": "400da18097c26ffec57282533ab76237e79791b1e43f593f286b37367ad2d518"
   },
@@ -46,5 +48,5 @@
     }
   ],
   "title": "Arbeitsgerichtsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

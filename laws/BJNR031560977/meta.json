@@ -4,9 +4,11 @@
   "bjnr": "BJNR031560977",
   "eli": null,
   "gii_slug": "sachbezv_1978",
-  "ingested_at": "2026-04-18T20:39:22Z",
   "jurabk": "SachBezV 1978",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "19c14b29c7fb73e0eab32e8ec312e53d84f0d991befea9994b2e1dd96af067f8"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über den Wert der Sachbezüge in der Sozialversicherung für das Kalenderjahr 1994",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

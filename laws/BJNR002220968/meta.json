@@ -4,9 +4,9 @@
   "bjnr": "BJNR002220968",
   "eli": null,
   "gii_slug": "promusplerl",
-  "ingested_at": "2026-04-18T20:38:33Z",
   "jurabk": "ProMusPlErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c0062305f5b5a12e0e2ed5da46155a68a22572b9e43b9669aee61e2079b9ee39"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlaß über die Stiftung der PRO MUSICA-Plakette",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR066800009",
   "eli": null,
   "gii_slug": "musikfachhprerprv",
-  "ingested_at": "2026-04-18T20:37:26Z",
   "jurabk": "MusikfachhPrErprV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "142c89e3fdbdc1ef7faf18e0b04e41a429fe0da49c04e361438d6a3a576a65d0"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Erprobung der Durchführung der Abschlussprüfung in zwei zeitlich auseinanderfallenden Teilen in der Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

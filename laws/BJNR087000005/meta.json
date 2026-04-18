@@ -4,9 +4,12 @@
   "bjnr": "BJNR087000005",
   "eli": null,
   "gii_slug": "kepkfmausbv",
-  "ingested_at": "2026-04-18T20:35:14Z",
   "jurabk": "KEPKfmAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "20618cd72eb91c02d217e4f7268df7ed9dde74f07c14205d8e33a228306f1943"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

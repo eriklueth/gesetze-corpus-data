@@ -4,9 +4,9 @@
   "bjnr": "BJNR150220002",
   "eli": null,
   "gii_slug": "wpostvtr1999schlprot",
-  "ingested_at": "2026-04-18T20:42:36Z",
   "jurabk": "WPostVtr1999SchlProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9da10f5f95568f8e8efc968ebe39afac393af09cb65b59b1910fee7f8de9e1dc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Schlussprotokoll zum Weltpostvertrag",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

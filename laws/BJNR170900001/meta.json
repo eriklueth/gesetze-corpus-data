@@ -4,9 +4,9 @@
   "bjnr": "BJNR170900001",
   "eli": null,
   "gii_slug": "m_nz10dmbek_2001-07",
-  "ingested_at": "2026-04-18T20:36:53Z",
   "jurabk": "Münz10DMBek 2001-07",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8395a176df5a59746c1b47aa1da7cab0e104648fa8ffdc48f41b1bb7769db297"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze \"50 Jahre Bundesverfassungsgericht\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

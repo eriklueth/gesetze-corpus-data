@@ -4,9 +4,11 @@
   "bjnr": "BJNR038719976",
   "eli": null,
   "gii_slug": "kvwg",
-  "ingested_at": "2026-04-18T20:35:46Z",
   "jurabk": "KVWG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "a806d235807c83d92fe5e553fab7b22fc2f018ff8649f4a3f30bc1b7c6e91f4d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Weiterentwicklung des Kassenarztrechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

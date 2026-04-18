@@ -4,9 +4,12 @@
   "bjnr": "BJNR498210021",
   "eli": null,
   "gii_slug": "binschpersv",
-  "ingested_at": "2026-04-18T20:30:08Z",
   "jurabk": "BinSchPersV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 34,
+    "paragraph": 143
+  },
   "source_hashes": {
     "source_xml_sha256": "42d3fc4e7f69d943ad655f52dc4885efa7f5d556efbe8632dc8ee967f8536d53"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Besatzung und über die Befähigungen der Besatzung von Fahrzeugen in der Binnenschifffahrt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

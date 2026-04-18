@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR104510000",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "2. Abschnitt Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "2. Abschnitt Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "2. Abschnitt Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "2. Abschnitt Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "2. Abschnitt Koordinierung und Sicherstellung der öffentlichen Gesundheit in besonderen Lagen"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -109,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -119,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -129,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -139,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -149,6 +164,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -159,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -169,6 +186,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -179,6 +197,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -189,6 +208,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -199,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -209,6 +230,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "3. Abschnitt Überwachung"
@@ -219,6 +241,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -229,6 +252,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -239,6 +263,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -249,6 +274,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -259,6 +285,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 16,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -269,6 +296,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -279,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -289,6 +318,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -299,6 +329,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -309,6 +340,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -319,6 +351,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -329,6 +362,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -339,6 +373,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "4. Abschnitt Verhütung übertragbarer Krankheiten"
@@ -349,6 +384,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -359,6 +395,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -369,6 +406,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -379,6 +417,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -389,6 +428,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -399,6 +439,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -409,6 +450,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -419,6 +461,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -429,6 +472,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -439,6 +483,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -449,6 +494,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -459,6 +505,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "5. Abschnitt Bekämpfung übertragbarer Krankheiten"
@@ -469,6 +516,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "6. Abschnitt Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen"
@@ -479,6 +527,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 13,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "6. Abschnitt Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen"
@@ -489,6 +538,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "6. Abschnitt Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen"
@@ -499,6 +549,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 14,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "6. Abschnitt Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen"
@@ -509,6 +560,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "7. Abschnitt Wasser"
@@ -519,6 +571,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "7. Abschnitt Wasser"
@@ -529,6 +582,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "7. Abschnitt Wasser"
@@ -539,6 +593,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "7. Abschnitt Wasser"
@@ -549,6 +604,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "7. Abschnitt Wasser"
@@ -559,6 +615,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "8. Abschnitt Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln"
@@ -569,6 +626,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "8. Abschnitt Gesundheitliche Anforderungen an das Personal beim Umgang mit Lebensmitteln"
@@ -579,6 +637,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -589,6 +648,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -599,6 +659,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -609,6 +670,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -619,6 +681,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -629,6 +692,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -639,6 +703,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -649,6 +714,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -659,6 +725,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -669,6 +736,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -679,6 +747,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -689,6 +758,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "9. Abschnitt Tätigkeiten mit Krankheitserregern"
@@ -699,6 +769,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "10. Abschnitt Vollzug des Gesetzes und zuständige Behörden"
@@ -709,6 +780,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "10. Abschnitt Vollzug des Gesetzes und zuständige Behörden"
@@ -719,6 +791,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "10. Abschnitt Vollzug des Gesetzes und zuständige Behörden"
@@ -729,6 +802,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "11. Abschnitt Angleichung an Gemeinschaftsrecht"
@@ -739,6 +813,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 13,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "12. Abschnitt Entschädigung in besonderen Fällen"
@@ -749,6 +824,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "12. Abschnitt Entschädigung in besonderen Fällen"
@@ -759,6 +835,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "12. Abschnitt Entschädigung in besonderen Fällen"
@@ -769,6 +846,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "12. Abschnitt Entschädigung in besonderen Fällen"
@@ -779,6 +857,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "12. Abschnitt Entschädigung in besonderen Fällen"
@@ -789,6 +868,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "12. Abschnitt Entschädigung in besonderen Fällen"
@@ -799,6 +879,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "12. Abschnitt Entschädigung in besonderen Fällen"
@@ -809,6 +890,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "13. Abschnitt Rechtsweg und Kosten"
@@ -819,6 +901,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "13. Abschnitt Rechtsweg und Kosten"
@@ -829,6 +912,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "14. Abschnitt Straf- und Bußgeldvorschriften"
@@ -839,6 +923,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "14. Abschnitt Straf- und Bußgeldvorschriften"
@@ -849,6 +934,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "14. Abschnitt Straf- und Bußgeldvorschriften"
@@ -859,6 +945,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "14. Abschnitt Straf- und Bußgeldvorschriften"
@@ -869,6 +956,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "14. Abschnitt Straf- und Bußgeldvorschriften"
@@ -879,6 +967,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "15. Abschnitt Übergangsvorschriften"
@@ -889,6 +978,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "1. Abschnitt Allgemeine Vorschriften",
         "15. Abschnitt Übergangsvorschriften"

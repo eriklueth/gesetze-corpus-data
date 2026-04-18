@@ -4,9 +4,12 @@
   "bjnr": "BJNR000010952",
   "eli": null,
   "gii_slug": "_blg_3",
-  "ingested_at": "2026-04-18T20:41:25Z",
   "jurabk": "ÜblG 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "11d0c2c4a7cd023ebd370dd49e214e034384e79a39be13f99dcf28f13f5682da"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz über die Stellung des Landes Berlin im Finanzsystem des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

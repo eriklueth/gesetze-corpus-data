@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR190600999",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 2 Vormerkstellen"
@@ -40,6 +44,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 2 Vormerkstellen"
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 3 Bewerbung"
@@ -60,6 +66,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 4 Zuweisung und Einstellung"
@@ -70,6 +77,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 4 Zuweisung und Einstellung"
@@ -80,6 +88,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 4 Zuweisung und Einstellung"
@@ -90,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 4 Zuweisung und Einstellung"
@@ -100,6 +110,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 4 Zuweisung und Einstellung"
@@ -110,6 +121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 5 Erlöschen des Rechts aus dem Eingliederungsschein"
@@ -120,6 +132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 6 Schlußvorschriften"
@@ -130,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Berechnung und Bestimmung der vorbehaltenen Stellen",
         "Abschnitt 6 Schlußvorschriften"

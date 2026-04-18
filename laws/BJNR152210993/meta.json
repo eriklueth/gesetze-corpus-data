@@ -4,9 +4,11 @@
   "bjnr": "BJNR152210993",
   "eli": null,
   "gii_slug": "wufg",
-  "ingested_at": "2026-04-18T20:42:44Z",
   "jurabk": "WUFG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "89bbeb3bf28934143b19eda2c9b9cfc681d5248e7be3fce41e2a8622a7e0c4a1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Regelung der Folgen rechtswidriger Handlungen bei der Währungsumstellung von Mark der Deutschen Demokratischen Republik in Deutsche Mark",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

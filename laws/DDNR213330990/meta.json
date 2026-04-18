@@ -4,9 +4,11 @@
   "bjnr": "DDNR213330990",
   "eli": null,
   "gii_slug": "treuhgdv_3",
-  "ingested_at": "2026-04-18T20:41:19Z",
   "jurabk": "TreuhGDV 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "10b59b12bf6594861863d6197221e49545c89a2c194157ffffe2a87908b93fa8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Dritte Durchführungsverordnung zum Treuhandgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

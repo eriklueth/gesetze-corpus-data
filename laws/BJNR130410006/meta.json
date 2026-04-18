@@ -4,9 +4,9 @@
   "bjnr": "BJNR130410006",
   "eli": null,
   "gii_slug": "raag_2006",
-  "ingested_at": "2026-04-18T20:38:42Z",
   "jurabk": "RAAG 2006",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c291d6ef90283afa0e79283ea53f23edea550c74802c0ef0944c3092f6d4344a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Aussetzung der Anpassung der Renten zum 1. Juli 2006",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

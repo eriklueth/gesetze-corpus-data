@@ -4,9 +4,11 @@
   "bjnr": "BJNR146410002",
   "eli": null,
   "gii_slug": "sozsichabkumsg",
-  "ingested_at": "2026-04-18T20:40:32Z",
   "jurabk": "SozSichAbkUmsG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "6ce9f5b25de7ec9fc4984551be66daae200e785d7e024e9c6ab0f963d13ad5ef"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Umsetzung von Abkommen über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

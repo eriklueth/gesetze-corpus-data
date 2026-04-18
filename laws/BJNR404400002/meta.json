@@ -4,9 +4,11 @@
   "bjnr": "BJNR404400002",
   "eli": null,
   "gii_slug": "hanfeinfv",
-  "ingested_at": "2026-04-18T20:34:23Z",
   "jurabk": "HanfEinfV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "b1fad80e6d61d88a7533d0479eefcec9e4a7f194382515077de02d9d7dd8ca5e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Einfuhr von Hanf aus Drittländern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

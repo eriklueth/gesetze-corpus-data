@@ -4,9 +4,11 @@
   "bjnr": "BJNR252900015",
   "eli": null,
   "gii_slug": "psychpbg",
-  "ingested_at": "2026-04-18T20:38:38Z",
   "jurabk": "PsychPbG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "8ad21ae910de9170386f54cf68d3c02d1bee550f068da1ea592cbcd4ba00afbe"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die psychosoziale Prozessbegleitung im Strafverfahren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

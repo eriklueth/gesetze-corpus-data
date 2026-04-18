@@ -4,9 +4,9 @@
   "bjnr": "BJNR020780980",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1980-11",
-  "ingested_at": "2026-04-18T20:37:24Z",
   "jurabk": "Münz5DMBek 1980-11",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4d5f7f0a8914e560ee2140cd1bc384a1e5098a640efbe37f8903581899351e1f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Walther von der Vogelweide)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

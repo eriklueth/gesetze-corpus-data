@@ -4,9 +4,11 @@
   "bjnr": "BJNR0170A0026",
   "eli": null,
   "gii_slug": "bfrbeihilfeano",
-  "ingested_at": "2026-04-18T20:29:57Z",
   "jurabk": "BfRBeihilfeAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "f6be7361bbe2f268668ddba807f0d36edbf148efe123269f344b5f1ed8a0d756"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundesinstituts für Risikobewertung zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

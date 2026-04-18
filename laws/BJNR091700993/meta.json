@@ -4,9 +4,11 @@
   "bjnr": "BJNR091700993",
   "eli": null,
   "gii_slug": "rav_1993",
-  "ingested_at": "2026-04-18T20:38:46Z",
   "jurabk": "RAV 1993",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "f6dce87b01fe7174fda44f3fdfb4cfd790c396e2ad35a14bc20e885bbf3a24c1"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Anpassung der Renten im Gebiet der Bundesrepublik Deutschland ohne das in Artikel 3 des Einigungsvertrages genannte Gebiet im Jahre 1993 und zur sechsten Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

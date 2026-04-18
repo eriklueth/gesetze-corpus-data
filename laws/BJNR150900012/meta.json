@@ -4,9 +4,11 @@
   "bjnr": "BJNR150900012",
   "eli": null,
   "gii_slug": "vsvgv",
-  "ingested_at": "2026-04-18T20:42:06Z",
   "jurabk": "VSVgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 46
+  },
   "source_hashes": {
     "source_xml_sha256": "ad4ee9b015f3108ad91c84c15b936d0644f538e356c108c9b45e0235daaa8b95"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Vergabeverordnung für die Bereiche Verteidigung und Sicherheit zur Umsetzung der Richtlinie 2009/81/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009 über die Koordinierung der Verfahren zur Vergabe bestimmter Bau-, Liefer- und Dienstleistungsaufträge in den Bereichen Verteidigung und Sicherheit und zur Änderung der Richtlinien 2004/17/EG und 2004/18/EG",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR089000004",
   "eli": null,
   "gii_slug": "gebrmv",
-  "ingested_at": "2026-04-18T20:33:40Z",
   "jurabk": "GebrMV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "182659af3031da661a8dafc255f51bcd49807c253e89a3b704c81adf249e2015"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Ausführung des Gebrauchsmustergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR322110013",
   "eli": null,
   "gii_slug": "evpgv",
-  "ingested_at": "2026-04-18T20:32:55Z",
   "jurabk": "EVPGV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "642f41c93edc3ea1b5a478fabd837e01663b63d29edfab77cfdda4ae66094a13"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Gesetzes über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

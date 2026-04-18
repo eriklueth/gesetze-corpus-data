@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR078610015",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -83,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -94,6 +103,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -105,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -116,6 +127,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -127,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -138,6 +151,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -149,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -160,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Entschädigung der Einleger",
@@ -171,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -182,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -193,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -204,6 +223,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -215,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -226,6 +247,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -238,6 +260,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -250,6 +273,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -262,6 +286,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -274,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -286,6 +312,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -298,6 +325,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -310,6 +338,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -322,6 +351,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -334,6 +364,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -346,6 +377,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -358,6 +390,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -370,6 +403,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -382,6 +416,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -394,6 +429,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -406,6 +442,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -418,6 +455,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -430,6 +468,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -442,6 +481,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -454,6 +494,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -466,6 +507,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -478,6 +520,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -490,6 +533,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -502,6 +546,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -514,6 +559,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -526,6 +572,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -538,6 +585,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -550,6 +598,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -562,6 +611,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -574,6 +624,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -586,6 +637,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -597,6 +649,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -608,6 +661,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -619,6 +673,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -630,6 +685,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -641,6 +697,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -652,6 +709,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -663,6 +721,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -674,6 +733,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -685,6 +745,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -696,6 +757,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Einlagensicherungssysteme",
@@ -707,6 +769,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Institutsbezogene Sicherungssysteme und Einlagensicherungssysteme ohne Anerkennung"
@@ -717,6 +780,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Schlussvorschriften"
@@ -727,6 +791,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Schlussvorschriften"

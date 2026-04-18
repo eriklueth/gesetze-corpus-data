@@ -4,9 +4,11 @@
   "bjnr": "DDNR006420990",
   "eli": null,
   "gii_slug": "lanpg",
-  "ingested_at": "2026-04-18T20:36:21Z",
   "jurabk": "LAnpG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 80
+  },
   "source_hashes": {
     "source_xml_sha256": "a82595e438886fed55257947f6cd1dc09122083514640c9ab2ca9ef6387107c0"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die strukturelle Anpassung der Landwirtschaft an die soziale und ökologische Marktwirtschaft in der Deutschen Demokratischen Republik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

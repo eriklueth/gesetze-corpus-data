@@ -4,9 +4,12 @@
   "bjnr": "BJNR010899978",
   "eli": null,
   "gii_slug": "rag_21",
-  "ingested_at": "2026-04-18T20:28:09Z",
   "jurabk": "RAG 21",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "a81f5299a0c9761518d18d6e142db30155217d6e1fc4ba4da14d65ed3a01040e"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Einundzwanzigstes Gesetz über die Anpassung der Renten aus der gesetzlichen Rentenversicherung sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung und der Altersgelder in der Altershilfe für Landwirte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

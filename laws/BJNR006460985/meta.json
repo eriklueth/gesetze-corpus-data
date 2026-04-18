@@ -4,9 +4,9 @@
   "bjnr": "BJNR006460985",
   "eli": null,
   "gii_slug": "bvetrdbano_1985",
-  "ingested_at": "2026-04-18T20:31:09Z",
   "jurabk": "BVetrDBAnO 1985",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b0f5e43fc86a62e0b6e75e2f4333a690d14e62f73f0d103d873225e671b89570"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Allgemeine Anordnung über die Vertretung bei Klagen aus dem Beamtenverhältnis im Bereich der Deutschen Bundesbahn",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

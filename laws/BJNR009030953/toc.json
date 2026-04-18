@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR009030953",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Einteilung der Bundesstraßen des Fernverkehrs",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Widmung, Umstufung, Einziehung",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Straßenbaulast",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0003a.md",
       "heading": "Duldungspflichten im Interesse der Unterhaltung",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Sicherheitsvorschriften",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Träger der Straßenbaulast",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005a.md",
       "heading": "Zuwendungen für fremde Träger der Straßenbaulast",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0005b.md",
       "heading": "Finanzhilfen für Radschnellwege in Straßenbaulast der Länder, Gemeinden und Gemeindeverbände",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Eigentum und andere Rechte",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Gemeingebrauch",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007a.md",
       "heading": "Vergütung von Mehrkosten",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 14,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Sondernutzungen; Verordnungsermächtigung",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0008a.md",
       "heading": "Straßenanlieger",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 16,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Bauliche Anlagen an Bundesfernstraßen",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0009a.md",
       "heading": "Veränderungssperre, Vorkaufsrecht",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Schutzwaldungen",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Schutzmaßnahmen",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Kreuzungen und Einmündungen öffentlicher Straßen",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0012a.md",
       "heading": "Kreuzungen mit Gewässern",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Unterhaltung der Straßenkreuzungen",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0013a.md",
       "heading": "Unterhaltung der Kreuzungen mit Gewässern",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0013b.md",
       "heading": "Ermächtigung zu Rechtsverordnungen",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Umleitungen",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Nebenbetriebe an den Bundesautobahnen",
@@ -171,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Planungen",
@@ -178,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0016a.md",
       "heading": "Vorarbeiten",
@@ -185,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Erfordernis der Planfeststellung und vorläufige Anordnung",
@@ -192,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0017a.md",
       "heading": "Anhörungsverfahren",
@@ -199,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0017b.md",
       "heading": "Planfeststellungsbeschluss, Plangenehmigung",
@@ -206,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017c.md",
       "heading": "Rechtswirkungen der Planfeststellung und der Plangenehmigung",
@@ -213,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017d.md",
       "heading": "Planänderung vor Fertigstellung des Vorhabens",
@@ -220,6 +251,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0017e.md",
       "heading": "Rechtsbehelfe",
@@ -227,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017f.md",
       "heading": "Anlagen der Verkehrsüberwachung, der Unfallhilfe und des Zolls",
@@ -234,6 +267,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017g.md",
       "heading": "Veröffentlichung im Internet",
@@ -241,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017h.md",
       "heading": "Projektmanager",
@@ -248,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0017i.md",
       "heading": "Planfeststellungsverfahren bei Vorhaben im transeuropäischen Verkehrsnetz",
@@ -255,6 +291,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0017j.md",
       "heading": "Grenzüberschreitende Vorhaben im transeuropäischen Verkehrsnetz",
@@ -262,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017k.md",
       "heading": "Berichterstattung an die Europäische Kommission",
@@ -269,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [],
       "file": "paragraphs/0018f.md",
       "heading": "Vorzeitige Besitzeinweisung",
@@ -276,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Enteignung",
@@ -283,6 +323,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0019a.md",
       "heading": "Entschädigungsverfahren",
@@ -290,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Straßenaufsicht",
@@ -297,6 +339,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0021.md",
       "heading": "Verwaltung der Bundesstraßen in den Ortsdurchfahrten",
@@ -304,6 +347,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0022.md",
       "heading": "Zuständigkeit; Verordnungsermächtigung",
@@ -311,6 +355,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0023.md",
       "heading": "Ordnungswidrigkeiten",
@@ -318,6 +363,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0023a.md",
       "heading": "Gebühren, Verordnungsermächtigung",
@@ -325,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 16,
       "breadcrumb": [],
       "file": "paragraphs/0024.md",
       "heading": "Übergangs- und Schlussbestimmungen",
@@ -332,6 +379,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0025.md",
       "heading": "(Aufhebung von Vorschriften)",
@@ -339,6 +387,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0026.md",
       "heading": "(weggefallen)",
@@ -346,6 +395,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0027.md",
       "heading": "(Inkrafttreten)",
@@ -353,6 +403,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 17e Absatz 1)",
@@ -360,6 +411,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 17i Absatz 1 Satz 1 Nummer 2)",

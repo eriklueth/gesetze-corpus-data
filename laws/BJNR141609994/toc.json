@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR141609994",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Art 1 Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes (BGA-Nachfolgegesetz - BGA-NachfG)",
         "Art 2"
@@ -13,6 +14,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Art 1 Gesetz über Nachfolgeeinrichtungen des Bundesgesundheitsamtes (BGA-Nachfolgegesetz - BGA-NachfG)",
         "Art 2"

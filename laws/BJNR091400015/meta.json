@@ -4,9 +4,11 @@
   "bjnr": "BJNR091400015",
   "eli": null,
   "gii_slug": "bbig2005_73ano_2015-06",
-  "ingested_at": "2026-04-18T20:29:31Z",
   "jurabk": "BBiG2005§73AnO 2015-06",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "173bd7cd56c0ae7767b6b2dea0b13322ff6d948282c04d7fd283697da2e0d893"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Bestimmung der zuständigen Stelle nach § 73 des Berufsbildungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

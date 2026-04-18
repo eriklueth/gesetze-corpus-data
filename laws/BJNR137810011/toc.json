@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR137810011",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Autobahn- und Bundesstraßenmaut",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Mautschuldner",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Mautsätze und Mautberechnung",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0003a.md",
       "heading": "Knotenpunkte",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Mautentrichtung und Mauterstattung",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004a.md",
       "heading": "Europäischer elektronischer Mautdienst",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004b.md",
       "heading": "Bundesamt für Logistik und Mobilität",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004c.md",
       "heading": "Zulassungsverfahren",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0004d.md",
       "heading": "Prüfvereinbarung und Prüfverfahren",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004e.md",
       "heading": "Beschränkte Zulassung und Pilotbetrieb",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0004f.md",
       "heading": "Zulassung von Anbietern",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0004g.md",
       "heading": "Überwachung",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004h.md",
       "heading": "Rechtsverordnungen zu Prüfvereinbarung und Zulassungsvertrag",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004i.md",
       "heading": "Rechtsverordnungen zu Gebietsvorgaben",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0004j.md",
       "heading": "Nutzerlisten",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Nachweispflicht des Mautschuldners",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Einrichtungen zur Erhebung der Maut",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Kontrolle",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Nachträgliche Mauterhebung",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0008a.md",
       "heading": "Bekanntgabe von Verwaltungsakten im Ausland",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0008b.md",
       "heading": "Aufrechnungsverbot",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Datenlöschung, Statistiken",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Bußgeldvorschriften",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0010a.md",
       "heading": "Kostentragungspflicht bei Nichtermittelbarkeit des Führers des Motorfahrzeugs",
@@ -171,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Mautaufkommen",
@@ -178,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Beginn der Mauterhebung auf Bundesautobahnen",
@@ -185,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Bericht über die erhobenen Mautgebühren",
@@ -192,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0013a.md",
       "heading": "Übergangsregelungen",
@@ -199,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Alt-Sachverhalte",
@@ -206,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "(weggefallen)",
@@ -213,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 3 Absatz 3) Berechnung der Höhe des Mautsatzes",
@@ -220,6 +251,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 14 Absatz 1)",
@@ -227,6 +259,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 14 Absatz 2)",
@@ -234,6 +267,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 14 Absatz 3)",
@@ -241,6 +275,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 14 Absatz 4)",
@@ -248,6 +283,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "(zu § 14 Absatz 5) Mautsätze im Zeitraum vom 1. Oktober 2015 bis zum Ablauf des 31. Dezember 2018",
@@ -255,6 +291,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0007.md",
       "heading": "(zu § 14 Absatz 6)",
@@ -262,6 +299,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0008.md",
       "heading": "(zu § 14 Absatz 7)",
@@ -269,6 +307,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0009.md",
       "heading": "(zu § 14 Absatz 8) Mautsätze im Zeitraum vom 1. Oktober 2021 bis zum Ablauf des 31. Dezember 2022",
@@ -276,6 +315,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0010.md",
       "heading": "(zu § 14 Absatz 9) Mautsätze im Zeitraum vom 1. Januar 2023 bis zum 30. November 2023",
@@ -283,6 +323,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0011.md",
       "heading": "(zu § 14 Absatz 10) Mautsätze im Zeitraum vom 1. Dezember 2023 bis zum 30. Juni 2024",

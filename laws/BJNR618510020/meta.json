@@ -4,9 +4,11 @@
   "bjnr": "BJNR618510020",
   "eli": null,
   "gii_slug": "epiz_proabwv",
-  "ingested_at": "2026-04-18T20:32:23Z",
   "jurabk": "EpiZÄPrOAbwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "5558ee2bf298e7ef36ec232c2d83fa51ccdeeed5fe419c940d3455bdfa9550d3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Abweichung von der Approbationsordnung für Zahnärzte bei einer epidemischen Lage von nationaler Tragweite",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

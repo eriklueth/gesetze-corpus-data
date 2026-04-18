@@ -4,9 +4,9 @@
   "bjnr": "BJNR201430979",
   "eli": null,
   "gii_slug": "seeschint_bk_1974",
-  "ingested_at": "2026-04-18T20:39:45Z",
   "jurabk": "SeeSchIntÜbk 1974",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5f0a7aded4fd7912e3baa22434f7cc3d6548499cc22052ee8d7e945261273131"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Internationales Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR203900020",
   "eli": null,
   "gii_slug": "wissbdvv",
-  "ingested_at": "2026-04-18T20:42:28Z",
   "jurabk": "WissBdVV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "328732a1eae1bf750363aaf2625f6ec82f6c257a2b29f0a29bf53548a16ffad3"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur weiteren Verlängerung der zulässigen Befristungsdauer nach § 2 Absatz 1 des Wissenschaftszeitvertragsgesetzes aus Anlass der COVID-19-Pandemie",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

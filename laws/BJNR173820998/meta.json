@@ -4,9 +4,11 @@
   "bjnr": "BJNR173820998",
   "eli": null,
   "gii_slug": "eutelsat_bk_ndg",
-  "ingested_at": "2026-04-18T20:32:50Z",
   "jurabk": "EUTELSATÜbkÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "197f32361c20243bb4f5149ba3b99043d53f4fbfda31260ea9ba2d0e8ef06d4d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu den Änderungen vom 13. Februar 1997 des Übereinkommens zur Gründung der Europäischen Fernmeldesatellitenorganisation \"EUTELSAT\" (EUTELSAT-Übereinkommen)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

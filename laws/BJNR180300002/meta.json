@@ -4,9 +4,9 @@
   "bjnr": "BJNR180300002",
   "eli": null,
   "gii_slug": "versorgausglanglfaktorbek",
-  "ingested_at": "2026-04-18T20:41:50Z",
   "jurabk": "VersorgAusglAnglFaktorBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "83a1212e100f9a24e893e8d40fa5acf091b45d37247ed7631956b15bc6661115"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

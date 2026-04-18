@@ -4,9 +4,12 @@
   "bjnr": "BJNR622900018",
   "eli": null,
   "gii_slug": "bstrmknotv_2018",
-  "ingested_at": "2026-04-18T20:30:53Z",
   "jurabk": "BStrMKnotV 2018",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "ca86a55818bdca02b13b406e20a03f911be5b28b981c92eb9d255a9e5af2da83"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Festlegung abweichender Maut-Knotenpunkte für Bundesstraßen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

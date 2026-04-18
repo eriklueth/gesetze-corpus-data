@@ -4,9 +4,11 @@
   "bjnr": "BJNR007259976",
   "eli": null,
   "gii_slug": "kredwg_ndg_2",
-  "ingested_at": "2026-04-18T20:35:34Z",
   "jurabk": "KredWGÄndG 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "b5d0d97c92b9d743fe0c64beada587b4b3fbf7d3f3b8eba5b5b897ab6fd36a59"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Zweites Gesetz zur Änderung des Gesetzes über das Kreditwesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

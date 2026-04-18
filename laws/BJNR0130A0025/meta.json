@@ -4,9 +4,9 @@
   "bjnr": "BJNR0130A0025",
   "eli": null,
   "gii_slug": "gr_ndstvtrbb_st2024bek",
-  "ingested_at": "2026-04-18T20:34:13Z",
   "jurabk": "GrÄndStVtrBB/ST2024Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a7c6ee62fa2e99c1ff78cb9146b9e9243395fe45614e4f0873a4da1139714c4b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Brandenburg und dem Land Sachsen-Anhalt über die Änderung der gemeinsamen Landesgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

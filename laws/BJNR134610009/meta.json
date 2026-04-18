@@ -4,9 +4,11 @@
   "bjnr": "BJNR134610009",
   "eli": null,
   "gii_slug": "pauswg",
-  "ingested_at": "2026-04-18T20:38:08Z",
   "jurabk": "PAuswG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 44
+  },
   "source_hashes": {
     "source_xml_sha256": "76f0cfeddfd339f4a571e4a6a3b56ffe3eb5bd9fd0b35edd15dc3cd7965070a3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Personalausweise und den elektronischen Identitätsnachweis",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

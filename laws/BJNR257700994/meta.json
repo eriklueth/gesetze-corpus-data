@@ -4,9 +4,11 @@
   "bjnr": "BJNR257700994",
   "eli": null,
   "gii_slug": "bes_v2bek_1994-09-10",
-  "ingested_at": "2026-04-18T20:29:53Z",
   "jurabk": "BesÜV2Bek 1994-09-10",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "dcbc3c94315babcb197e624a8da73b90ce99dfe5216d1a2f3a6337bdc7770c8a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Dienstbezüge und Anwärterbezüge nach § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

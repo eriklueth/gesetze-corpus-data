@@ -4,9 +4,9 @@
   "bjnr": "BJNR1330A0023",
   "eli": null,
   "gii_slug": "bmjernano_2024",
-  "ingested_at": "2026-04-18T20:30:27Z",
   "jurabk": "BMJErnAnO 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "bed943bc9a3b66a700611eb73d3e770e27dd8af745afdc5c011f37e79ee822c7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums der Justiz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

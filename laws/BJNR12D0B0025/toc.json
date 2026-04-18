@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR12D0B0025",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -43,6 +47,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -54,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -65,6 +71,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -76,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -87,6 +95,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -98,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -109,6 +119,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -120,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -131,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -142,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -153,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -164,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -175,6 +191,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -186,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -197,6 +215,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -208,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -219,6 +239,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -230,6 +251,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -241,6 +263,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -252,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -263,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -274,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -285,6 +311,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Das Bundesamt",
@@ -296,6 +323,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -307,6 +335,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -318,6 +347,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -329,6 +359,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -340,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -351,6 +383,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -362,6 +395,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -373,6 +407,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -384,6 +419,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -395,6 +431,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -406,6 +443,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -417,6 +455,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -428,6 +467,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -439,6 +479,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -450,6 +491,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -461,6 +503,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -472,6 +515,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -483,6 +527,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -494,6 +539,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -505,6 +551,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -516,6 +563,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Sicherheit in der Informationstechnik von Einrichtungen",
@@ -527,6 +575,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Datenbanken der Domain-Name-Registrierungsdaten"
@@ -537,6 +586,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Datenbanken der Domain-Name-Registrierungsdaten"
@@ -547,6 +597,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Datenbanken der Domain-Name-Registrierungsdaten"
@@ -557,6 +608,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Zertifizierung, Konformitätserklärung und Kennzeichen"
@@ -567,6 +619,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Zertifizierung, Konformitätserklärung und Kennzeichen"
@@ -577,6 +630,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Zertifizierung, Konformitätserklärung und Kennzeichen"
@@ -587,6 +641,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Zertifizierung, Konformitätserklärung und Kennzeichen"
@@ -597,6 +652,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Verordnungsermächtigungen, Grundrechtseinschränkungen und Berichtspflichten"
@@ -607,6 +663,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Verordnungsermächtigungen, Grundrechtseinschränkungen und Berichtspflichten"
@@ -617,6 +674,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Verordnungsermächtigungen, Grundrechtseinschränkungen und Berichtspflichten"
@@ -627,6 +685,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Aufsicht"
@@ -637,6 +696,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Aufsicht"
@@ -647,6 +707,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 12,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Aufsicht"
@@ -657,6 +718,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Aufsicht"
@@ -667,6 +729,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Aufsicht"
@@ -677,6 +740,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Aufsicht"
@@ -687,6 +751,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Bußgeldvorschriften"
@@ -697,6 +762,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Anwendungsbestimmungen; Übergangsregelungen"
@@ -707,6 +773,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Anwendungsbestimmungen; Übergangsregelungen"
@@ -717,6 +784,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Anwendungsbestimmungen; Übergangsregelungen"

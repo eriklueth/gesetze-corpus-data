@@ -4,9 +4,9 @@
   "bjnr": "BJNR026250975",
   "eli": null,
   "gii_slug": "bmjernano",
-  "ingested_at": "2026-04-18T20:30:27Z",
   "jurabk": "BMJErnAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7d2b179a74802b7435541bc343446bd9a75e0b8409fd340fcd395eb249d896cc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Ernennung und Entlassung von Beamten im Geschäftsbereich des Bundesministers der Justiz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

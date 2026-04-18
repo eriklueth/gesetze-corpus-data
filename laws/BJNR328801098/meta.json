@@ -4,9 +4,9 @@
   "bjnr": "BJNR328801098",
   "eli": null,
   "gii_slug": "orgerl1998",
-  "ingested_at": "2026-04-18T20:37:57Z",
   "jurabk": "OrgErl1998",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "226d0973b70d43424e6f250bce9f6f6c9e9da973b398e496d917c1f49de66306"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Organisationserlass des Bundeskanzlers",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

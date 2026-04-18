@@ -4,9 +4,11 @@
   "bjnr": "BJNR202220994",
   "eli": null,
   "gii_slug": "eubeitrvtrg",
-  "ingested_at": "2026-04-18T20:32:34Z",
   "jurabk": "EUBeitrVtrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "d08836d963c0683c8b29837fe2fb9e3191082fda891dea452455b2743310e4c5"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zu dem Vertrag vom 24. Juni 1994 über den Beitritt des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden zur Europäischen Union",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

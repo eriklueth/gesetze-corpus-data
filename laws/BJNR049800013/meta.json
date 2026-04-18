@@ -4,9 +4,12 @@
   "bjnr": "BJNR049800013",
   "eli": null,
   "gii_slug": "bkatv_2013",
-  "ingested_at": "2026-04-18T20:30:11Z",
   "jurabk": "BKatV 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "ac8e4e9b4ba8a7b3451616222de4d0186fdcdcb60ddc2273ca2ed86e6c3e12d0"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Erteilung einer Verwarnung, Regelsätze für Geldbußen und die Anordnung eines Fahrverbotes wegen Ordnungswidrigkeiten im Straßenverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

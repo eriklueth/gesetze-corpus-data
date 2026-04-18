@@ -4,9 +4,11 @@
   "bjnr": "BJNR016930984",
   "eli": null,
   "gii_slug": "kredwg_ndg_3",
-  "ingested_at": "2026-04-18T20:35:34Z",
   "jurabk": "KredWGÄndG 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "2f49ea1abd4886fecc7f1fdfdcd03c778b9c301e2446ac36d0fabde7994c5803"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Drittes Gesetz zur Änderung des Gesetzes über das Kreditwesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

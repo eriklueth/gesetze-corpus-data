@@ -4,9 +4,9 @@
   "bjnr": "BJNR074620007",
   "eli": null,
   "gii_slug": "dbaprotverarabemg",
-  "ingested_at": "2026-04-18T20:31:30Z",
   "jurabk": "DBAProtVerArabEmG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "95e45bbbef517d413d631cfc76c7a356194df156067a76c8f5ea6f5866f653fa"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Protokoll vom 4. Juli 2006 zur Verlängerung des Abkommens vom 9. April 1995 zwischen der Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Belebung der wirtschaftlichen Beziehungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

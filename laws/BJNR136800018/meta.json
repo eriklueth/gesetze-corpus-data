@@ -4,9 +4,11 @@
   "bjnr": "BJNR136800018",
   "eli": null,
   "gii_slug": "gdbndverfschvdv",
-  "ingested_at": "2026-04-18T20:33:39Z",
   "jurabk": "GDBNDVerfSchVDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 83
+  },
   "source_hashes": {
     "source_xml_sha256": "caad426566d0a6124576eb7cb46c6a5107f1eed9a381b46ad82c1005f2b44ea6"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und den gehobenen Dienst im Verfassungsschutz des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

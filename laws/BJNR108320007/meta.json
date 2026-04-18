@@ -4,9 +4,9 @@
   "bjnr": "BJNR108320007",
   "eli": null,
   "gii_slug": "eupat_bkreva",
-  "ingested_at": "2026-04-18T20:32:42Z",
   "jurabk": "EuPatÜbkRevA",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ba6ce7bd9a6bf18f430685a401b94a1c8c8e4ed09a9c8e48bdac16f716185e8e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Akte zur Revision des Übereinkommens über die Erteilung europäischer Patente (Europäisches Patentübereinkommen) vom 5. Oktober 1973, zuletzt revidiert am 17. Dezember 1991",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

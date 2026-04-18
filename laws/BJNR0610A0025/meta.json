@@ -4,9 +4,11 @@
   "bjnr": "BJNR0610A0025",
   "eli": null,
   "gii_slug": "bmdvbeih_bertrano",
-  "ingested_at": "2026-04-18T20:30:21Z",
   "jurabk": "BMDVBeihÜbertrAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "f219c5e76c062fb98e1b5dafb929b897a86e7801f38a5904f1c0b7743e809936"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundesministeriums für Digitales und Verkehr zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

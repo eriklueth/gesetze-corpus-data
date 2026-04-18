@@ -4,9 +4,11 @@
   "bjnr": "BJNR207520980",
   "eli": null,
   "gii_slug": "autobbrvtrbelg",
-  "ingested_at": "2026-04-18T20:29:14Z",
   "jurabk": "AutobBrVtrBELG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "35de953360c9df228b0b28bd79d5e2b9eb90f76818d1a930643dc8e4d81910ec"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zum Vertrag vom 5. Februar 1979 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über den Bau und die Unterhaltung einer Autobahnbrücke über die Our bei Steinebrück",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

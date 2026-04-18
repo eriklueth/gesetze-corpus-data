@@ -4,9 +4,12 @@
   "bjnr": "BJNR157000995",
   "eli": null,
   "gii_slug": "leasfachwirtprv",
-  "ingested_at": "2026-04-18T20:35:47Z",
   "jurabk": "LeasFachwirtPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "f5e6734454ed96bec69f0e5e495efbd4d1c48c0c8eb0f6b31189134bb5ee0268"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Leasingfachwirt/Geprüfte Leasingfachwirtin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

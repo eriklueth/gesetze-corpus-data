@@ -4,9 +4,11 @@
   "bjnr": "BJNR195700000",
   "eli": null,
   "gii_slug": "baw_bafag",
-  "ingested_at": "2026-04-18T20:29:27Z",
   "jurabk": "BAW/BAFAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "260e6e34f1df82282cfb1b1e19e5be39725428f4fbf364e33c4336b6ee9d8372"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Zusammenlegung des Bundesamtes für Wirtschaft mit dem Bundesausfuhramt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

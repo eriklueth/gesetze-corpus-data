@@ -4,9 +4,11 @@
   "bjnr": "BJNR262200007",
   "eli": null,
   "gii_slug": "fideiauflaufhg",
-  "ingested_at": "2026-04-18T20:33:05Z",
   "jurabk": "FideiAuflAufhG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "c71119b7ad9bfa2a38c3bc3f6b052da4385f7fbf9aa604b129af11d03ebc3d16"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Aufhebung von Fideikommiss-Auflösungsrecht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

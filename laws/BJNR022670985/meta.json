@@ -4,9 +4,11 @@
   "bjnr": "BJNR022670985",
   "eli": null,
   "gii_slug": "min_lav",
-  "ingested_at": "2026-04-18T20:36:36Z",
   "jurabk": "MinÖlAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "7ea32182b5b4342475300f8b351c844a8bae8be53dbbfa982106c4696b6e845c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über einen Mineralölausgleich in einer Versorgungskrise",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR301410021",
   "eli": null,
   "gii_slug": "ortedtdgstiftg",
-  "ingested_at": "2026-04-18T20:37:57Z",
   "jurabk": "OrtedtDGStiftG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "ec629f318e1420d3a70016e0d7b7401b7e0d3aee1e17c002ab1281f889750b4e"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Errichtung einer „Stiftung Orte der deutschen Demokratiegeschichte“",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

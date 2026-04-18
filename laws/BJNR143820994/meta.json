@@ -4,9 +4,11 @@
   "bjnr": "BJNR143820994",
   "eli": null,
   "gii_slug": "wto_bkg",
-  "ingested_at": "2026-04-18T20:42:44Z",
   "jurabk": "WTOÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "43f4b42f14f7393ec91d9a84a5379a61f61501c595bc3bde59fd926666d4bccf"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Übereinkommen vom 15. April 1994 zur Errichtung der Welthandelsorganisation und zur Änderung anderer Gesetze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

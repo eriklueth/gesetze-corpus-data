@@ -4,9 +4,9 @@
   "bjnr": "BJNR003200909",
   "eli": null,
   "gii_slug": "wzargbek",
-  "ingested_at": "2026-04-18T20:42:45Z",
   "jurabk": "WZARGBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4456aae9f8d69aafd377e19b2a7154bb2509abfdbd5519e8cb93f747bfed7f15"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Argentinien",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

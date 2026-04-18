@@ -4,9 +4,11 @@
   "bjnr": "BJNR022669992",
   "eli": null,
   "gii_slug": "gsg",
-  "ingested_at": "2026-04-18T20:34:19Z",
   "jurabk": "GSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "7db96b9f052b7ed0c1b89c144354da87ac8d518c82151e998b8f548d67e83b12"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Sicherung und Strukturverbesserung der gesetzlichen Krankenversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

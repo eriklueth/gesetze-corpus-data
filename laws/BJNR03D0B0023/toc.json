@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR03D0B0023",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich und Zuständigkeit",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung"
       ],
@@ -19,6 +21,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 2 Förderfähige Flächen und Betriebsfonds"
@@ -29,6 +32,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 2 Förderfähige Flächen und Betriebsfonds"
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 3 Operationelle Programme"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 3 Operationelle Programme"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 3 Operationelle Programme"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 3 Operationelle Programme"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 4 Gewährung der Beihilfe"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 4 Gewährung der Beihilfe"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 4 Gewährung der Beihilfe"
@@ -109,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 4 Gewährung der Beihilfe"
@@ -119,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 4 Gewährung der Beihilfe"
@@ -129,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 4 Gewährung der Beihilfe"
@@ -139,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 5 Pflichten"
@@ -149,6 +164,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 5 Pflichten"
@@ -159,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 5 Pflichten"
@@ -169,6 +186,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 6 Kontrollen"
@@ -179,6 +197,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 6 Kontrollen"
@@ -189,6 +208,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 6 Kontrollen"
@@ -199,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 6 Kontrollen"
@@ -209,6 +230,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 6 Kontrollen"
@@ -219,6 +241,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 7 Verwaltungssanktionen"
@@ -229,6 +252,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 7 Verwaltungssanktionen"
@@ -239,6 +263,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 7 Verwaltungssanktionen"
@@ -249,6 +274,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 7 Verwaltungssanktionen"
@@ -259,6 +285,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 7 Verwaltungssanktionen"
@@ -269,6 +296,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 7 Verwaltungssanktionen"
@@ -279,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 7 Verwaltungssanktionen"
@@ -289,6 +318,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 8 Schlussbestimmungen"
@@ -299,6 +329,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zertifizierung",
         "Abschnitt 8 Schlussbestimmungen"

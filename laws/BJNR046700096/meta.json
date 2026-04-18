@@ -4,9 +4,9 @@
   "bjnr": "BJNR046700096",
   "eli": null,
   "gii_slug": "_lhaft_bk_1992",
-  "ingested_at": "2026-04-18T20:37:49Z",
   "jurabk": "ÖlHaftÜbk 1992",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7bd935096cb271d40202b6c2b7f60aae4543efef69520179b9eb8bd38b7d8ad5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Internationales Übereinkommen von 1992 über die zivilrechtliche Haftung für Ölverschmutzungsschäden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

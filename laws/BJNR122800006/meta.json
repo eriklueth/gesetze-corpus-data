@@ -4,9 +4,12 @@
   "bjnr": "BJNR122800006",
   "eli": null,
   "gii_slug": "dialogmkfausbv",
-  "ingested_at": "2026-04-18T20:31:42Z",
   "jurabk": "DialogmKfAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "cddc0a8f84c0f9f86ef87ca2457617282f8631a93a8316162f082a8266084309"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

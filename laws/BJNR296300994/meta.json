@@ -4,9 +4,11 @@
   "bjnr": "BJNR296300994",
   "eli": null,
   "gii_slug": "vafreistv_1994",
-  "ingested_at": "2026-04-18T20:41:40Z",
   "jurabk": "VAFreistV 1994",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "f6314591a7916cde35ade3c6c1ca251146548f5caa3e54579328d26b2dae18f2"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Freistellung von Versicherungsunternehmen von der Aufsicht nach dem Versicherungsaufsichtsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

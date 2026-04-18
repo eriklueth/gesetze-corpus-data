@@ -4,9 +4,9 @@
   "bjnr": "BJNR046000009",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2009-03-04",
-  "ingested_at": "2026-04-18T20:36:57Z",
   "jurabk": "Münz10EuroBek 2009-03-04",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f96e702caa613fb171d8e2283f3380632f9f3c52cdd8697bcce633b5c59a9f29"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „IAAF Leichtathletik WM Berlin 2009“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

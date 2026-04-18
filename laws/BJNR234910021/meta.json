@@ -4,9 +4,11 @@
   "bjnr": "BJNR234910021",
   "eli": null,
   "gii_slug": "rsfv",
-  "ingested_at": "2026-04-18T20:39:05Z",
   "jurabk": "RSFV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "79a8baf25ed4e52d898250edbb5aff32a8a8c134fdf885d82bc57a1f5f6e9e9e"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Geschäftsorganisation des Reisesicherungsfonds und die Voraussetzungen der Erteilung der Erlaubnis",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

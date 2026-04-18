@@ -4,9 +4,12 @@
   "bjnr": "BJNR032200007",
   "eli": null,
   "gii_slug": "schwsalmov",
-  "ingested_at": "2026-04-18T20:39:40Z",
   "jurabk": "SchwSalmoV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "041a962665d98e10e967b07bd421da1ed4c28478e307645ecb04418b9dc0b550"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Verminderung der Salmonellenverbreitung durch Schlachtschweine",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

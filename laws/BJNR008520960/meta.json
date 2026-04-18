@@ -4,9 +4,9 @@
   "bjnr": "BJNR008520960",
   "eli": null,
   "gii_slug": "beamthaftchebek",
-  "ingested_at": "2026-04-18T20:29:37Z",
   "jurabk": "BeamtHaftCHEBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6fdd438b6e4ae620046ea0913749b64b469bd181b070190d688b40cffb1c9621"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten und Soldaten gegenüber den Angehörigen der Schweiz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

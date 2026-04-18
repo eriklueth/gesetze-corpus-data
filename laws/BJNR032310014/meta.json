@@ -4,9 +4,11 @@
   "bjnr": "BJNR032310014",
   "eli": null,
   "gii_slug": "kredwgausfreistv",
-  "ingested_at": "2026-04-18T20:35:34Z",
   "jurabk": "KredWGAUSFreistV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "3f385f337a2ffccc1db06802e4e98c2acbbc239feea485a1ec05dbe122a9685f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Freistellung der Zweigstellen von Kreditinstituten mit Sitz in Australien von Vorschriften des Gesetzes über das Kreditwesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

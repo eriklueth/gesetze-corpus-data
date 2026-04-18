@@ -4,9 +4,9 @@
   "bjnr": "BJNR210400986",
   "eli": null,
   "gii_slug": "sozsichabk_ndabk2zabk_tur",
-  "ingested_at": "2026-04-18T20:40:20Z",
   "jurabk": "SozSichAbkÄndAbk2ZAbk TUR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "09aab9b841237b3d7d1b6a597cb9a463154b10bede2effc4fc9d6ffd851922fd"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zusatzabkommen zum Abkommen vom 30. April 1964 zwischen der Bundesrepublik Deutschland und der Republik Türkei über Soziale Sicherheit in der Fassung des Änderungsabkommens vom 28. Mai 1969 und des Zwischenabkommens vom 25. Oktober 1974",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

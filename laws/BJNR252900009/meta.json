@@ -4,9 +4,11 @@
   "bjnr": "BJNR252900009",
   "eli": null,
   "gii_slug": "gendg",
-  "ingested_at": "2026-04-18T20:33:44Z",
   "jurabk": "GenDG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 27
+  },
   "source_hashes": {
     "source_xml_sha256": "e39a0d151ba3b9798af5f8f9c0f8c45c5e6127f2ef78a6c1b642a1f755d8b3a5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über genetische Untersuchungen bei Menschen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

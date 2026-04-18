@@ -4,9 +4,12 @@
   "bjnr": "BJNR120800014",
   "eli": null,
   "gii_slug": "gewanzv_2014",
-  "ingested_at": "2026-04-18T20:33:49Z",
   "jurabk": "GewAnzV 2014",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "400ffa4edd27317da1716f64c4940ed7762f2713f7dc19cfb06c38528e5338bc"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung zur Ausgestaltung des Gewerbeanzeigeverfahrens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

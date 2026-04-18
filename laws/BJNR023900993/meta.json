@@ -4,9 +4,11 @@
   "bjnr": "BJNR023900993",
   "eli": null,
   "gii_slug": "sgb8_ndg_1",
-  "ingested_at": "2026-04-18T20:39:59Z",
   "jurabk": "SGB8ÄndG 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "4d419ca5c95f642ca8dd055e776913f63ce832fc7dc66cbdaaf910b5d8f894bf"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erstes Gesetz zur Änderung des Achten Buches Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

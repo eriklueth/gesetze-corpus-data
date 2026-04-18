@@ -4,9 +4,11 @@
   "bjnr": "BJNR031350974",
   "eli": null,
   "gii_slug": "konjausglrfrv",
-  "ingested_at": "2026-04-18T20:35:29Z",
   "jurabk": "KonjAusglRFrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "cbac258608115a8348e2659278c73b8a90be198e9136519c96efcd9443606035"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Freigabe von Mitteln aus den Konjunkturausgleichsrücklagen der Haushaltsjahre 1969 und 1970",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

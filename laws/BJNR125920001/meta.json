@@ -4,9 +4,9 @@
   "bjnr": "BJNR125920001",
   "eli": null,
   "gii_slug": "betravabk_lux",
-  "ingested_at": "2026-04-18T20:29:51Z",
   "jurabk": "BetrAVAbk LUX",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2a78704acf64f64d5f140bf891848e9dcdbc3cd339363d9b053bd539620c71ba"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg über Zusammenarbeit im Bereich der Insolvenzsicherung betrieblicher Altersversorgung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

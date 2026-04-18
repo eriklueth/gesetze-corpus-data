@@ -4,9 +4,12 @@
   "bjnr": "BJNR219700005",
   "eli": null,
   "gii_slug": "gasnev",
-  "ingested_at": "2026-04-18T20:33:36Z",
   "jurabk": "GasNEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 31
+  },
   "source_hashes": {
     "source_xml_sha256": "556f82aae4c4b28d6a9767e37515ca062d8fb623ff0639ab3a5c4849b38232f2"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Entgelte für den Zugang zu Gasversorgungsnetzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

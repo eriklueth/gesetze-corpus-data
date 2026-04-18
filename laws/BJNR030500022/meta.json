@@ -4,9 +4,9 @@
   "bjnr": "BJNR030500022",
   "eli": null,
   "gii_slug": "pmeritesa_nderl_2022",
-  "ingested_at": "2026-04-18T20:38:26Z",
   "jurabk": "PMeriteSaÄndErl 2022",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "cf4e0b846d1142719beb6f8dde0710009a1b37a7060a854830bc5d891a8e219a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlass über die Genehmigung von Änderungen der Satzung des Ordens Pour le mérite für Wissenschaften und Künste",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

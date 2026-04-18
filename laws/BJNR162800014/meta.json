@@ -4,9 +4,11 @@
   "bjnr": "BJNR162800014",
   "eli": null,
   "gii_slug": "weinasachv",
-  "ingested_at": "2026-04-18T20:42:23Z",
   "jurabk": "WeinASachV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "f3a97d59cf72219623fe7b99990fce58882be38decab8459c23a6fd420827340"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über den Sachverständigenausschuss bei der Bundesanstalt für Landwirtschaft und Ernährung zur Bewertung beabsichtigter Informationen über die Auswirkungen des Weinkonsums auf die Gesundheit und das Verhalten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

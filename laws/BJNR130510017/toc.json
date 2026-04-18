@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR130510017",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Geltungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Grundsätze für die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Ermittlung des Düngebedarfs an Stickstoff und Phosphat",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Besondere Vorgaben für die Anwendung von stickstoff- oder phosphathaltigen Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Zusätzliche Vorgaben für die Anwendung von bestimmten Düngemitteln",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Anwendungsbeschränkungen und Anwendungsverbote",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Nährstoffvergleich",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Bewertung des betrieblichen Nährstoffvergleiches",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Aufzeichnungen",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Anforderungen an die Geräte zum Aufbringen",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Fassungsvermögen von Anlagen zur Lagerung von Wirtschaftsdüngern und Gärrückständen",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Besondere Anforderungen an Genehmigungen und sonstige Anordnungen durch die zuständigen Stellen, Erlass von Rechtsverordnungen durch die Landesregierungen",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0013a.md",
       "heading": "Besondere Anforderungen zum Schutz der Gewässer vor Verunreinigung, Erlass von Rechtsverordnungen durch die Landesregierungen",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Ordnungswidrigkeiten",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Übergangsvorschrift",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)",
@@ -122,6 +139,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 3 Absatz 4 Satz 2 und § 6 Absatz 4, 5 und 7)",
@@ -129,6 +147,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 3 Absatz 5 Satz 1 Nummer 2)",
@@ -136,6 +155,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 4 Absatz 1 und 2)",
@@ -143,6 +163,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 10 Absatz 1 Satz 2 und Absatz 2 Satz 2)",
@@ -150,6 +171,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "(weggefallen)",
@@ -157,6 +179,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "annexes/0007.md",
       "heading": "(zu § 3 Absatz 2 und 6 und § 4 Absatz 3)",
@@ -164,6 +187,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0008.md",
       "heading": "(zu § 11 Satz 2)",
@@ -171,6 +195,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0009.md",
       "heading": "(zu § 12)",

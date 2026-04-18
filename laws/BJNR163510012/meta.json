@@ -4,9 +4,11 @@
   "bjnr": "BJNR163510012",
   "eli": null,
   "gii_slug": "sysstabv",
-  "ingested_at": "2026-04-18T20:41:00Z",
   "jurabk": "SysStabV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "777d9cfb415921f78f00838667d2807d3d8010dc1908313e517d15ce4de4cd5e"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Gewährleistung der technischen Sicherheit und Systemstabilität des Elektrizitätsversorgungsnetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

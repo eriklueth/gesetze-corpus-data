@@ -4,9 +4,11 @@
   "bjnr": "BJNR373500013",
   "eli": null,
   "gii_slug": "kfwv",
-  "ingested_at": "2026-04-18T20:35:14Z",
   "jurabk": "KfWV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "cedf1a454acfde72640d517ead40fb002316bd4b23cfb5430cf3c335e44ecdc3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Anwendung von bankaufsichtsrechtlichen Vorschriften auf die Kreditanstalt für Wiederaufbau sowie zur Zuweisung der Aufsicht über die Einhaltung dieser Vorschriften an die Bundesanstalt für Finanzdienstleistungsaufsicht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

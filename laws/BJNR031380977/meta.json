@@ -4,9 +4,11 @@
   "bjnr": "BJNR031380977",
   "eli": null,
   "gii_slug": "eimarktv",
-  "ingested_at": "2026-04-18T20:32:07Z",
   "jurabk": "EiMarktV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "4bffd5b40c4edb5bc6764c66ca92e2eeeac4d1b487efc44ade766595b9459e1f"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über Vermarktungsnormen für Eier",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR031149977",
   "eli": null,
   "gii_slug": "sg_ndg_12",
-  "ingested_at": "2026-04-18T20:39:49Z",
   "jurabk": "SGÄndG 12",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "a57d96a281b06b138b949f07098ae5ab0dbd4334160e377f847ac4ca6cedb774"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zwölftes Gesetz zur Änderung des Soldatengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

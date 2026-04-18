@@ -4,9 +4,11 @@
   "bjnr": "BJNR0ED0A0025",
   "eli": null,
   "gii_slug": "binschstro2012abwv_8",
-  "ingested_at": "2026-04-18T20:28:17Z",
   "jurabk": "BinSchStrO2012AbwV 8",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "3ab1d964bf4540510e1c36a648d5eb21d4b0b56e59ecb5c8b3be4da5c4c748c8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Achte Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrtsstraßen-Ordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR205380985",
   "eli": null,
   "gii_slug": "ds_bkg",
-  "ingested_at": "2026-04-18T20:31:51Z",
   "jurabk": "DSÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "a2e22e3a1c390a3d53efe2019f2a01705a412e5485132a1722cc0d50e7059719"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 28. Januar 1981 zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

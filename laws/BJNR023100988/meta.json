@@ -4,9 +4,11 @@
   "bjnr": "BJNR023100988",
   "eli": null,
   "gii_slug": "pfandbraumwg",
-  "ingested_at": "2026-04-18T20:38:15Z",
   "jurabk": "PfandBrAUmwG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "2ee6ab213785a0c019bf240d6b11961f50879d667ca2fcf70f38c5b895f5f201"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Umwandlung der Deutschen Pfandbriefanstalt in eine Aktiengesellschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

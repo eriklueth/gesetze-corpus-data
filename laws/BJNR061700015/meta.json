@@ -4,9 +4,9 @@
   "bjnr": "BJNR061700015",
   "eli": null,
   "gii_slug": "pmeritesa_nderl_2015",
-  "ingested_at": "2026-04-18T20:38:25Z",
   "jurabk": "PMeriteSaÄndErl 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "407535de2f8a6bd02b38eabf9933f54e85784491afda5504a74e0f1e139ef391"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlass über die Genehmigung von Änderungen der Satzung des Ordens Pour le mérite für Wissenschaften und Künste",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR005330950",
   "eli": null,
   "gii_slug": "zpo",
-  "ingested_at": "2026-04-18T20:43:19Z",
   "jurabk": "ZPO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 1081
+  },
   "source_hashes": {
     "source_xml_sha256": "258ac4ecff6084317302f98128ca876be2d64c3b6aa1f260b8180fe3cfc0e283"
   },
@@ -46,5 +48,5 @@
     }
   ],
   "title": "Zivilprozessordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR137800000",
   "eli": null,
   "gii_slug": "m_nz10dmbek_2000-08",
-  "ingested_at": "2026-04-18T20:36:53Z",
   "jurabk": "Münz10DMBek 2000-08",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "830d1f330c72dda78e89ffeb66846f906d8891bd938937155138f2fa54ae9ee0"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze \"10 Jahre Deutsche Einheit\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

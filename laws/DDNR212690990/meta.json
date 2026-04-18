@@ -4,9 +4,11 @@
   "bjnr": "DDNR212690990",
   "eli": null,
   "gii_slug": "pvaufhano",
-  "ingested_at": "2026-04-18T20:38:38Z",
   "jurabk": "PVAufhAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "c1ce7ce6059eed2f19caa4d84de03df26178e7313b6fd7646813293bc6c6a695"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Aufhebung von Rechtsvorschriften auf dem Gebiet der freiwilligen Personenversicherungen der Bürger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

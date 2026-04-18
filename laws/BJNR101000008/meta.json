@@ -4,9 +4,11 @@
   "bjnr": "BJNR101000008",
   "eli": null,
   "gii_slug": "beamtstg",
-  "ingested_at": "2026-04-18T20:29:38Z",
   "jurabk": "BeamtStG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 63
+  },
   "source_hashes": {
     "source_xml_sha256": "dbe597475c6e37569489ac7f2bb8ce532e459e7068e5b638ec80b7d541c41ae0"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Regelung des Statusrechts der Beamtinnen und Beamten in den Ländern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

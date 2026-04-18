@@ -4,9 +4,9 @@
   "bjnr": "BJNR120500015",
   "eli": null,
   "gii_slug": "erkgnanrg",
-  "ingested_at": "2026-04-18T20:32:24Z",
   "jurabk": "ErKGNAnrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "fe34193627d8009cc3bf40d49f84e4d4023249c5e9172d49f3037efa8472d442"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Nichtanrechnung rückwirkender Erhöhungen des Kindergeldes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR184210004",
   "eli": null,
   "gii_slug": "schwarzarbg_2004",
-  "ingested_at": "2026-04-18T20:39:40Z",
   "jurabk": "SchwarzArbG 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 34
+  },
   "source_hashes": {
     "source_xml_sha256": "6457bab1e8c6258047a7ea006f7d74856cbb6b09f13a9c5e088ce23afd6ce38c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Bekämpfung der Schwarzarbeit und illegalen Beschäftigung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

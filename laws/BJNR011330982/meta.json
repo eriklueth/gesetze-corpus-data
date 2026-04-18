@@ -4,9 +4,9 @@
   "bjnr": "BJNR011330982",
   "eli": null,
   "gii_slug": "bpr_samtsbezano_1982-07",
-  "ingested_at": "2026-04-18T20:30:41Z",
   "jurabk": "BPräsAmtsbezAnO 1982-07",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5d44b30cae700849be4babf74c9e22db4bfab9d02f33e6302a82a0644f7c0afd"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

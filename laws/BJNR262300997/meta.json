@@ -4,9 +4,12 @@
   "bjnr": "BJNR262300997",
   "eli": null,
   "gii_slug": "bkv",
-  "ingested_at": "2026-04-18T20:30:16Z",
   "jurabk": "BKV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "5d421b985ca021b073a3140e9fd6d9895f0dee748400f37b47d54acaa87b0dfc"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Berufskrankheiten-Verordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

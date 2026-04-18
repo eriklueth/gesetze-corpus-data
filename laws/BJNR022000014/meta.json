@@ -4,9 +4,11 @@
   "bjnr": "BJNR022000014",
   "eli": null,
   "gii_slug": "schuhmmstrv_2014",
-  "ingested_at": "2026-04-18T20:39:35Z",
   "jurabk": "SchuhmMstrV 2014",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "36f97cc8143f13d8f9493ab1cc69144bf0aaf5e8d06ddc9c5020d6e7b9f10ab3"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Schuhmacher-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

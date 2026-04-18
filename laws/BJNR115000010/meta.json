@@ -4,9 +4,11 @@
   "bjnr": "BJNR115000010",
   "eli": null,
   "gii_slug": "sgb2_51bdatv",
-  "ingested_at": "2026-04-18T20:39:55Z",
   "jurabk": "SGB2§51bDatV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "f730dabe3d7d697a18ede5086629b0ea7dfe86aead2cf5440b80958eb3674417"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Erhebung der Daten nach § 51b des Zweiten Buches Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

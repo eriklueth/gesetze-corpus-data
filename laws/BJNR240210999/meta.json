@@ -4,9 +4,11 @@
   "bjnr": "BJNR240210999",
   "eli": null,
   "gii_slug": "dmbeendg",
-  "ingested_at": "2026-04-18T20:31:46Z",
   "jurabk": "DMBeEndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "8e1c7dbaa49569ab37f9a5d0ca5b85cc4bbb07025b59cb514409ff34216531cb"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Beendigung der Zahlungsmitteleigenschaft der auf Deutsche Mark lautenden Banknoten und der auf Deutsche Mark oder Deutsche Pfennig lautenden Bundesmünzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

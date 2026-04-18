@@ -4,9 +4,12 @@
   "bjnr": "BJNR241200008",
   "eli": null,
   "gii_slug": "versmedv",
-  "ingested_at": "2026-04-18T20:41:50Z",
   "jurabk": "VersMedV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "b03885d9140bb51a8c388f8ef07992ddd36f70619d372cad7863d62685377240"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des § 1 Abs. 1 und 3, des § 30 Abs. 1 und des § 35 Abs. 1 des Bundesversorgungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

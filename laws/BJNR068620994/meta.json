@@ -4,9 +4,11 @@
   "bjnr": "BJNR068620994",
   "eli": null,
   "gii_slug": "stsweabkg",
-  "ingested_at": "2026-04-18T20:40:53Z",
   "jurabk": "StSWEAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "42a626b80d3620e9f35d3e88828c95960b61223f12f59196c9ec80b9b498eb73"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 14. Juli 1992 zwischen der Bundesrepublik Deutschland und dem Königreich Schweden zur Vermeidung der Doppelbesteuerung bei den Steuern vom Einkommen und vom Vermögen sowie bei den Erbschaft- und Schenkungsteuern und zur Leistung gegenseitigen Beistands bei den Steuern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

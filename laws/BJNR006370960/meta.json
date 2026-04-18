@@ -4,9 +4,12 @@
   "bjnr": "BJNR006370960",
   "eli": null,
   "gii_slug": "lasaareg",
-  "ingested_at": "2026-04-18T20:35:46Z",
   "jurabk": "LASaarEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 37
+  },
   "source_hashes": {
     "source_xml_sha256": "6f5cb3ed6f2b015da64595b7b008d8d31550f0e04f7895f7d19840b96ab79af1"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Einführung von Vorschriften des Lastenausgleichsrechts im Saarland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

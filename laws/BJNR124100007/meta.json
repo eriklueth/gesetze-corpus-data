@@ -4,9 +4,11 @@
   "bjnr": "BJNR124100007",
   "eli": null,
   "gii_slug": "wastrtrave_bgv",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WaStrTraveÜbgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "584c975bfbc626d4eecf25d888c1b0c043d0246101bdf2de9e3bc5613c86738d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über den Übergang von zur Bundeswasserstraße Trave gehörenden Nebenstrecken auf die Hansestadt Lübeck",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR0C80A0025",
   "eli": null,
   "gii_slug": "gwgmeldv",
-  "ingested_at": "2026-04-18T20:34:24Z",
   "jurabk": "GwGMeldV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "1165cef92bf37a477d6bc88d4be0ab3582626ad66c1ed97a0a851703b69ce0c1"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Form von und die erforderlichen Angaben in Meldungen an die Zentralstelle für Finanztransaktionsuntersuchungen nach § 43 Absatz 1 und § 44 des Geldwäschegesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR312600013",
   "eli": null,
   "gii_slug": "tierschversv",
-  "ingested_at": "2026-04-18T20:41:13Z",
   "jurabk": "TierSchVersV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 48
+  },
   "source_hashes": {
     "source_xml_sha256": "53229caf2a3f66126bfdf6313f120680b82db3d1dffea91ccba1bf11b6c1e39a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zum Schutz von zu Versuchszwecken oder zu anderen wissenschaftlichen Zwecken verwendeten Tieren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

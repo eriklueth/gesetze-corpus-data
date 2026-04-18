@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR069500995",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 2 Datenübermittlung an die Registerbehörde"
@@ -40,6 +44,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 2 Datenübermittlung an die Registerbehörde"
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 2 Datenübermittlung an die Registerbehörde"
@@ -60,6 +66,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 2 Datenübermittlung an die Registerbehörde"
@@ -70,6 +77,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 3 Datenübermittlung durch die Registerbehörde"
@@ -80,6 +88,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 3 Datenübermittlung durch die Registerbehörde"
@@ -90,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 3 Datenübermittlung durch die Registerbehörde"
@@ -100,6 +110,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 3 Datenübermittlung durch die Registerbehörde"
@@ -110,6 +121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 3 Datenübermittlung durch die Registerbehörde"
@@ -120,6 +132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 3 Datenübermittlung durch die Registerbehörde"
@@ -130,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 3 Datenübermittlung durch die Registerbehörde"
@@ -140,6 +154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 4 Auskunft an die betroffene Person"
@@ -150,6 +165,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 5 Aufzeichnungen bei Datenübermittlungen, Einschränkung der Verarbeitung und Löschung von Daten"
@@ -160,6 +176,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 5 Aufzeichnungen bei Datenübermittlungen, Einschränkung der Verarbeitung und Löschung von Daten"
@@ -170,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 5 Aufzeichnungen bei Datenübermittlungen, Einschränkung der Verarbeitung und Löschung von Daten"
@@ -180,6 +198,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 5 Aufzeichnungen bei Datenübermittlungen, Einschränkung der Verarbeitung und Löschung von Daten"
@@ -190,6 +209,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 6 Schlußvorschriften"
@@ -200,6 +220,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 6 Schlußvorschriften"
@@ -210,6 +231,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 6 Schlußvorschriften"
@@ -220,6 +242,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 6 Schlußvorschriften"
@@ -230,6 +253,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Inhalt des Registers",
         "Abschnitt 6 Schlußvorschriften"

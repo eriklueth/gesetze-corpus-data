@@ -4,9 +4,11 @@
   "bjnr": "BJNR005140988",
   "eli": null,
   "gii_slug": "ewivag",
-  "ingested_at": "2026-04-18T20:32:56Z",
   "jurabk": "EWIVAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "81f18bf00832399fa6c9354058db09d568ab5882f38ead23b5488560478ed7a7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Ausführung der EWG-Verordnung über die Europäische wirtschaftliche Interessenvereinigung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

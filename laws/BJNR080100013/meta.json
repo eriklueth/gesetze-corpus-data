@@ -4,9 +4,11 @@
   "bjnr": "BJNR080100013",
   "eli": null,
   "gii_slug": "inttestv",
-  "ingested_at": "2026-04-18T20:34:55Z",
   "jurabk": "IntTestV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "0b08ec1a0bf5327d930fe52e5137fde0353b834a918a39a1505c4b5e2c438e8d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Prüfungs- und Nachweismodalitäten für die Abschlusstests des Integrationskurses",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

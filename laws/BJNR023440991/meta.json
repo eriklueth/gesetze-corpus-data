@@ -4,9 +4,11 @@
   "bjnr": "BJNR023440991",
   "eli": null,
   "gii_slug": "rav_3",
-  "ingested_at": "2026-04-18T20:28:09Z",
   "jurabk": "RAV 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "0f5ab22591be9c870f38f59223a50f4e686e4052357e93e3656b290d5653e439"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Dritte Verordnung zur Anpassung der Renten und zu den maßgeblichen Rechengrößen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

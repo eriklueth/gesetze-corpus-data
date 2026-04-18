@@ -4,9 +4,9 @@
   "bjnr": "BJNR200030975",
   "eli": null,
   "gii_slug": "suchtst_bk_ndprot",
-  "ingested_at": "2026-04-18T20:40:56Z",
   "jurabk": "SuchtstÜbkÄndProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "487571a7958b23f4ee9bf0ca28e55d826b6fd746a0b69e635f7c5007805b040b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Protokoll zur Änderung des Einheits-Übereinkommens von 1961 über Suchtstoffe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

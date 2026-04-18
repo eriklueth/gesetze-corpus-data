@@ -4,9 +4,11 @@
   "bjnr": "BJNR005690957",
   "eli": null,
   "gii_slug": "glaufrg_1957",
-  "ingested_at": "2026-04-18T20:34:00Z",
   "jurabk": "GlAufrG 1957",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "749c39b16c92e1c352e76695559243465dff6dfd4dc971f3d70a0655d25bd7dd"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über den Aufruf der Gläubiger der I. G. Farbenindustrie Aktiengesellschaft in Abwicklung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

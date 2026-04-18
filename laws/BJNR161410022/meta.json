@@ -4,9 +4,12 @@
   "bjnr": "BJNR161410022",
   "eli": null,
   "gii_slug": "pfandmeldev",
-  "ingested_at": "2026-04-18T20:38:16Z",
   "jurabk": "PfandMeldeV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 24,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "7c9642cca767324a36f8770eba8b91cc9152ba8715e653c85da9739b685acbf8"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über pfandbriefrechtliche Meldungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

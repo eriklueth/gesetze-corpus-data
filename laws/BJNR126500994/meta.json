@@ -4,9 +4,11 @@
   "bjnr": "BJNR126500994",
   "eli": null,
   "gii_slug": "anfrv",
-  "ingested_at": "2026-04-18T20:28:49Z",
   "jurabk": "AnFrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "704120ff2b6944b785e9f66cd1e471360e717664406e88cb030db7ef423332ad"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Verlängerung der Frist für die Stellung von Anträgen nach § 1 Abs. 4 sowie § 10 des Vermögenszuordnungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

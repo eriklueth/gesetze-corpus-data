@@ -4,9 +4,11 @@
   "bjnr": "BJNR002980957",
   "eli": null,
   "gii_slug": "wstrg",
-  "ingested_at": "2026-04-18T20:42:44Z",
   "jurabk": "WStrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 50
+  },
   "source_hashes": {
     "source_xml_sha256": "b5182edaefe21488afbf0f0e492252cc2521502a41f65db0e8230720573bd7d8"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Wehrstrafgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

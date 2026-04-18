@@ -4,9 +4,11 @@
   "bjnr": "BJNR205690984",
   "eli": null,
   "gii_slug": "wildtart_bkg",
-  "ingested_at": "2026-04-18T20:42:26Z",
   "jurabk": "WildTArtÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "24ea8f20ded48e8635f6252dc38ad9a33859f9b8af667b5a93e524dcb4f3f372"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 23. Juni 1979 zur Erhaltung der wandernden wildlebenden Tierarten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

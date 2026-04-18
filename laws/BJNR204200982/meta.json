@@ -4,9 +4,11 @@
   "bjnr": "BJNR204200982",
   "eli": null,
   "gii_slug": "antarktmeersch_bkg",
-  "ingested_at": "2026-04-18T20:28:49Z",
   "jurabk": "AntarktMeerSchÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "1a3c06e30e15bacbe6f557bd0f1c986b7257332fd7de8b0e8fb0e2493f5f54c9"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 20. Mai 1980 über die Erhaltung der lebenden Meeresschätze der Antarktis",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

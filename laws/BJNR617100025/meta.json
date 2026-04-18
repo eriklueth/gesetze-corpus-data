@@ -4,9 +4,9 @@
   "bjnr": "BJNR617100025",
   "eli": null,
   "gii_slug": "schkg_19abs2__24bek_2025",
-  "ingested_at": "2026-04-18T20:39:32Z",
   "jurabk": "SchKG§19Abs2/§24Bek 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "10e09bed6ceff2cb468e819cd8147f689b4be4f348e26824f009a2f5d2b73205"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2025 geltenden Beträge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

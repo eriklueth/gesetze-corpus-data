@@ -4,9 +4,11 @@
   "bjnr": "BJNR200130978",
   "eli": null,
   "gii_slug": "imfabkg",
-  "ingested_at": "2026-04-18T20:34:43Z",
   "jurabk": "IMFAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "5288ff899d80d7fc322cc4c09ecc85e63081a71423af101f772016c185285e8a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen über den Internationalen Währungsfonds in der Fassung von 1976",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

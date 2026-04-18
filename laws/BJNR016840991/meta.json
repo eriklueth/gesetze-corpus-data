@@ -4,9 +4,11 @@
   "bjnr": "BJNR016840991",
   "eli": null,
   "gii_slug": "versruhg",
-  "ingested_at": "2026-04-18T20:41:54Z",
   "jurabk": "VersRuhG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "025a0e41eab965855c3d3bee36f613144d3b8a92b99c706ae2c138c411976110"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das Ruhen von Ansprüchen aus Sonder- und Zusatzversorgungssystemen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

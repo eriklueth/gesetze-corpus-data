@@ -4,9 +4,11 @@
   "bjnr": "BJNR010400013",
   "eli": null,
   "gii_slug": "sanoaausbgv_2013",
-  "ingested_at": "2026-04-18T20:39:23Z",
   "jurabk": "SanOAAusbGV 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "1a04ae9f8ed04e8889cf9f8a1b952a8b7a331bf3a1aac0b596daafa506676906"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Ausbildungsgeld für Sanitätsoffizier-Anwärterinnen und -Anwärter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

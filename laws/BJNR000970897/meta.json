@@ -4,9 +4,11 @@
   "bjnr": "BJNR000970897",
   "eli": null,
   "gii_slug": "zvg",
-  "ingested_at": "2026-04-18T20:43:24Z",
   "jurabk": "ZVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 231
+  },
   "source_hashes": {
     "source_xml_sha256": "87f814ec211e8b7c69bac2ef3a5057ef7c24d0b5f6181018918cd166d6a3fd16"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Zwangsversteigerung und die Zwangsverwaltung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

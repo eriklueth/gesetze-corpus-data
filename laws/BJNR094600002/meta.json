@@ -4,9 +4,11 @@
   "bjnr": "BJNR094600002",
   "eli": null,
   "gii_slug": "wahlo_post_2002",
-  "ingested_at": "2026-04-18T20:42:14Z",
   "jurabk": "WahlO Post 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "2701b519ace2e37bfa01d3c6297a2590c356332b4f01c51f05e8b9355512fc3a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung der Betriebsratswahlen bei den Postunternehmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

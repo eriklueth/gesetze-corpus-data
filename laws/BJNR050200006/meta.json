@@ -4,9 +4,9 @@
   "bjnr": "BJNR050200006",
   "eli": null,
   "gii_slug": "bmingzustano",
-  "ingested_at": "2026-04-18T20:30:23Z",
   "jurabk": "BMinGZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "14cd7b1c6d201e09767ad29a118fd59fc9ea1de63a982f3692e38cf030ea81c4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchs- und Einspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesministeriums für Gesundheit in Angelegenheiten der Besoldung, des Tarifentgelts und des Kindergeldes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

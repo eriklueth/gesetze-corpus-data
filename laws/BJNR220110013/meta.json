@@ -4,9 +4,12 @@
   "bjnr": "BJNR220110013",
   "eli": null,
   "gii_slug": "flugelekausbv_2013",
-  "ingested_at": "2026-04-18T20:33:14Z",
   "jurabk": "FlugElekAusbV 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "98eef34294c6808edfebe85c5a3af94f3adab4551112df921ac6c5afab84ef08"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Fluggerätelektroniker und zur Fluggerätelektronikerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

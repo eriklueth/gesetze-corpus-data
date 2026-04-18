@@ -4,9 +4,9 @@
   "bjnr": "BJNR264320994",
   "eli": null,
   "gii_slug": "man_vabkcanigbr_bk",
-  "ingested_at": "2026-04-18T20:36:23Z",
   "jurabk": "ManövAbkCANIGBRÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f37ae259d65f047a5308275eb9adc016c4fc5a8a632b3bf398576536b8e8edae"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinigten Königreich Großbritannien und Nordirland zur Außerkraftsetzung des Abkommens vom 3. August 1959 über die Durchführung von Manövern und anderen Übungen im Raume Soltau-Lüneburg in der durch das Abkommen vom 12. Mai 1970 geänderten Fassung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

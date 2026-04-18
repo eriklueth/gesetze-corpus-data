@@ -4,9 +4,11 @@
   "bjnr": "BJNR007850961",
   "eli": null,
   "gii_slug": "lag_ndg_14",
-  "ingested_at": "2026-04-18T20:28:02Z",
   "jurabk": "LAGÄndG 14",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "9addba68b23b1e9871a83580d8d5f98f297dac610efb330dc57a7927c5f2e034"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Vierzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

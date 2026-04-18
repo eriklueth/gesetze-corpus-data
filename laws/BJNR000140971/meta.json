@@ -4,9 +4,9 @@
   "bjnr": "BJNR000140971",
   "eli": null,
   "gii_slug": "bverfgbes_1970-12-17",
-  "ingested_at": "2026-04-18T20:31:09Z",
   "jurabk": "BVerfGBes 1970-12-17",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6bae4f983bea02797fd14605355045b18f3951a01dc79828cbbce2b24c507f33"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Beschluß des Bundesverfassungsgerichts vom 17. Dezember 1970 gemäß § 14 Abs. 4 des Gesetzes über das Bundesverfassungsgericht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

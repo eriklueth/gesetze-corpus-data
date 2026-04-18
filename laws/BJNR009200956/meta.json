@@ -4,9 +4,11 @@
   "bjnr": "BJNR009200956",
   "eli": null,
   "gii_slug": "ihkg",
-  "ingested_at": "2026-04-18T20:34:43Z",
   "jurabk": "IHKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "b0cf3612886e40580bde409d178dc09ecf4d1404135585f0a0729204914ffee1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR233000004",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2004-08-27",
-  "ingested_at": "2026-04-18T20:36:56Z",
   "jurabk": "Münz10EuroBek 2004-08-27",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e3fe8d8cfd9bfeeb245109aee617779a13e19141c47323660121e00d47a8a8ce"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"Columbus - Europas Labor für die internationale Raumstation ISS\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

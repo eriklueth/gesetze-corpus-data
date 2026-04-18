@@ -4,9 +4,9 @@
   "bjnr": "BJNR205600966",
   "eli": null,
   "gii_slug": "rheinsch_bkg",
-  "ingested_at": "2026-04-18T20:39:01Z",
   "jurabk": "RheinSchÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d729d5b502402e3db19a9c41439d4fc09f5451adec6c7a66837a6b11dbb704f7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Übereinkommen vom 20. November 1963 zur Revision der am 17. Oktober 1868 in Mannheim unterzeichneten Revidierten Rheinschiffahrtsakte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

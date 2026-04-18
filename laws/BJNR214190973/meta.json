@@ -4,9 +4,9 @@
   "bjnr": "BJNR214190973",
   "eli": null,
   "gii_slug": "binsche_bk",
-  "ingested_at": "2026-04-18T20:30:06Z",
   "jurabk": "BinSchEÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f46954ac83061f33cb72845e194ad07ce62adf05654b455c55404a0190b74b9d"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Eichung von Binnenschiffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

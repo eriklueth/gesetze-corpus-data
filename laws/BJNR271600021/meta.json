@@ -4,9 +4,12 @@
   "bjnr": "BJNR271600021",
   "eli": null,
   "gii_slug": "bbodschv_2023",
-  "ingested_at": "2026-04-18T20:29:33Z",
   "jurabk": "BBodSchV 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 28
+  },
   "source_hashes": {
     "source_xml_sha256": "93b292aec1b5c4cdda4a61cc71765780826ee197a7a389fb1e3a38341bab01a7"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Bundes-Bodenschutz- und Altlastenverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

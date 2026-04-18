@@ -4,9 +4,11 @@
   "bjnr": "BJNR066300015",
   "eli": null,
   "gii_slug": "bwfsprv",
-  "ingested_at": "2026-04-18T20:31:13Z",
   "jurabk": "BWFSPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 28
+  },
   "source_hashes": {
     "source_xml_sha256": "77c0841e32f97febfad87c4d4bc519862f68b4f7f66e9526c0c4357b986e15e4"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Abschlussprüfungen an Bundeswehrfachschulen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

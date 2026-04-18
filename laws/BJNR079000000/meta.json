@@ -4,9 +4,9 @@
   "bjnr": "BJNR079000000",
   "eli": null,
   "gii_slug": "m_nz10dmbek_2000",
-  "ingested_at": "2026-04-18T20:36:53Z",
   "jurabk": "Münz10DMBek 2000",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "0110e16384baca01f33ad522f1451b55cf29c4115575baac0cbf60094aaf893a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze \"250. Todestag Johann Sebastian Bach\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

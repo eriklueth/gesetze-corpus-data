@@ -4,9 +4,12 @@
   "bjnr": "BJNR079800006",
   "eli": null,
   "gii_slug": "medienkfmausbv",
-  "ingested_at": "2026-04-18T20:36:28Z",
   "jurabk": "MedienKfmAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "f91420d96b92f7d95e69990b81f979ebc2e3ff61181a83db46bf071e4bb929b2"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Medienkaufmann Digital und Print/zur Medienkauffrau Digital und Print",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

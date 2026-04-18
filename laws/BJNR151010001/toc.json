@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR151010001",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -109,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -119,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -129,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -139,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -149,6 +164,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Disziplinarmaßnahmen"
@@ -159,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -170,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -192,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -203,6 +223,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -214,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -225,6 +247,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -236,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -247,6 +271,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -258,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -269,6 +295,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -280,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -291,6 +319,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -302,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -313,6 +343,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -324,6 +355,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -335,6 +367,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -346,6 +379,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -357,6 +391,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -368,6 +403,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -379,6 +415,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -390,6 +427,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -401,6 +439,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -412,6 +451,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -423,6 +463,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -434,6 +475,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -445,6 +487,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -456,6 +499,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -467,6 +511,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Behördliches Disziplinarverfahren",
@@ -478,6 +523,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -489,6 +535,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -500,6 +547,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -511,6 +559,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -522,6 +571,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -533,6 +583,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -544,6 +595,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -555,6 +607,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -567,6 +620,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -579,6 +633,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -591,6 +646,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -603,6 +659,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -615,6 +672,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -627,6 +685,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -639,6 +698,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -651,6 +711,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -663,6 +724,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -675,6 +737,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -687,6 +750,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -699,6 +763,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -711,6 +776,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -723,6 +789,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -734,6 +801,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -745,6 +813,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -756,6 +825,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -767,6 +837,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -778,6 +849,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -789,6 +861,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -800,6 +873,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -811,6 +885,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -822,6 +897,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Gerichtliches Verfahren",
@@ -833,6 +909,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 5 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts"
@@ -843,6 +920,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 5 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts"
@@ -853,6 +931,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 5 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts"
@@ -863,6 +942,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 6 Besondere Bestimmungen für einzelne Beamtengruppen und für Ruhestandsbeamte"
@@ -873,6 +953,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 6 Besondere Bestimmungen für einzelne Beamtengruppen und für Ruhestandsbeamte"
@@ -883,6 +964,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 6 Besondere Bestimmungen für einzelne Beamtengruppen und für Ruhestandsbeamte"
@@ -893,6 +975,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 7 Übergangs- und Schlussbestimmungen"
@@ -903,6 +986,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 7 Übergangs- und Schlussbestimmungen"
@@ -913,6 +997,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 7 Übergangs- und Schlussbestimmungen"

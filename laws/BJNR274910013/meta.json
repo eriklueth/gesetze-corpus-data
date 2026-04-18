@@ -4,9 +4,11 @@
   "bjnr": "BJNR274910013",
   "eli": null,
   "gii_slug": "egovg",
-  "ingested_at": "2026-04-18T20:32:00Z",
   "jurabk": "EGovG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 28
+  },
   "source_hashes": {
     "source_xml_sha256": "9259cc45093130f6aa2f6fc7c0d76a4b52c25a1d529839a68d30493badcc0494"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Förderung der elektronischen Verwaltung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

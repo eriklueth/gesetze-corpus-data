@@ -4,9 +4,11 @@
   "bjnr": "BJNR310800997",
   "eli": null,
   "gii_slug": "begleitg",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BegleitG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "321105a1ef6e9bce1932e49500b645993a9e93c5cde8b29a56bcd88bb4c89258"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Begleitgesetz zum Telekommunikationsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR021160990",
   "eli": null,
   "gii_slug": "m_nz2dmbek_1990",
-  "ingested_at": "2026-04-18T20:37:14Z",
   "jurabk": "Münz2DMBek 1990",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "763e681622ce794aeececea63d1af42635b8555a71d37ac6e29ec1fd4a064c28"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Mark",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

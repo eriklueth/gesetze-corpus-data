@@ -4,9 +4,12 @@
   "bjnr": "BJNR156200013",
   "eli": null,
   "gii_slug": "seebewachv",
-  "ingested_at": "2026-04-18T20:39:42Z",
   "jurabk": "SeeBewachV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "d05016303b008a0c757cf48433c663e5c8c7bd1c6725150d8fb63b40af7c66c7"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Zulassung von Bewachungsunternehmen auf Seeschiffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

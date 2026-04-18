@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR390000994",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung"
@@ -13,6 +14,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung"
@@ -23,6 +25,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung"
@@ -33,6 +36,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung",
@@ -44,6 +48,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung",
@@ -55,6 +60,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung",
@@ -66,6 +72,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung",
@@ -77,6 +84,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung",
@@ -88,6 +96,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung",
@@ -99,6 +108,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung",
@@ -110,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Unterabschnitt 1 Leitungsrechtserstreckung",
@@ -121,6 +132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Abschnitt 2 Wertbeständige Hypotheken, nicht eingetragene Rechte"
@@ -131,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Abschnitt 2 Wertbeständige Hypotheken, nicht eingetragene Rechte"
@@ -141,6 +154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Leitungsrechte",
         "Abschnitt 3 Inkrafttreten"

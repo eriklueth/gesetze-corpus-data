@@ -4,9 +4,11 @@
   "bjnr": "BJNR015370969",
   "eli": null,
   "gii_slug": "bgruverkolympg",
-  "ingested_at": "2026-04-18T20:30:02Z",
   "jurabk": "BGruVerkOlympG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "a28e2f00a10875ad99e5da7232340e0c40a2c77f274b78d1af550e3fbe529060"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über den Verkauf von bundeseigenem Gelände in München zur Errichtung frei finanzierter Wohnungen, die während der Olympischen Spiele 1972 als Olympisches Dorf der Männer benutzt werden sollen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

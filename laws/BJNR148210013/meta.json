@@ -4,9 +4,11 @@
   "bjnr": "BJNR148210013",
   "eli": null,
   "gii_slug": "awg_2013",
-  "ingested_at": "2026-04-18T20:29:16Z",
   "jurabk": "AWG 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 41
+  },
   "source_hashes": {
     "source_xml_sha256": "aa353772bcb75103ded9b67a8df4765ec06bdf1599534e4517f0680a561c631c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Außenwirtschaftsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

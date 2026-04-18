@@ -4,9 +4,9 @@
   "bjnr": "BJNR205350988",
   "eli": null,
   "gii_slug": "inf-vtrnotw",
-  "ingested_at": "2026-04-18T20:34:47Z",
   "jurabk": "INF-VtrNotW",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "48f6eb55610820c1154af057110676896cba1c789fc2140202e97be7e2843aca"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Notenwechsel vom 4. Mai 1988 zwischen der Bundesrepublik Deutschland und der Union der Sozialistischen Sowjetrepubliken über Inspektionen in bezug auf den Vertrag vom 8. Dezember 1987 zwischen den Vereinigten Staaten von Amerika und der Union der Sozialistischen Sowjetrepubliken über die Beseitigung ihrer Flugkörper mittlerer und kürzerer Reichweite",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

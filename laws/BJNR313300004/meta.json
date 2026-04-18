@@ -4,9 +4,12 @@
   "bjnr": "BJNR313300004",
   "eli": null,
   "gii_slug": "elekmeistprv_2004",
-  "ingested_at": "2026-04-18T20:32:10Z",
   "jurabk": "ElekMeistPrV 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "4080023cfa3b7a6269bdd4e088f3b1db150afb61b093f70251397698dd13e60e"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Elektrotechnik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

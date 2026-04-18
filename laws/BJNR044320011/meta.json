@@ -4,9 +4,9 @@
   "bjnr": "BJNR044320011",
   "eli": null,
   "gii_slug": "euvtrlissua_bestprot_ndprot",
-  "ingested_at": "2026-04-18T20:32:54Z",
   "jurabk": "EUVtrLissuaÜBestProtÄndProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5a0b06e7057957e1802a2399ab475cc6a6ea75f4c2e9e3941975c4045fe0e7ab"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Protokoll zur Änderung des Protokolls über die Übergangsbestimmungen, das dem Vertrag über die Europäische Union, dem Vertrag über die Arbeitsweise der Europäischen Union und dem Vertrag zur Gründung der Europäischen Atomgemeinschaft beigefügt ist",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

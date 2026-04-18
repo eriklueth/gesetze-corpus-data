@@ -4,9 +4,9 @@
   "bjnr": "BJNR1340A0023",
   "eli": null,
   "gii_slug": "bmjgerwidano_2024",
-  "ingested_at": "2026-04-18T20:30:27Z",
   "jurabk": "BMJGerWidAnO 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c493e113e876359a85b137c884ebfc1d9fec5f9afa026a56cebccd8abb12aa32"
   },
@@ -26,5 +26,5 @@
     }
   ],
   "title": "Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden in beamtenrechtlichen Angelegenheiten auf die Gerichte und Behörden im Geschäftsbereich des Bundesministeriums der Justiz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

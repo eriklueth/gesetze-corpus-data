@@ -4,9 +4,9 @@
   "bjnr": "BJNR211000015",
   "eli": null,
   "gii_slug": "rvbeitrsbek_2016",
-  "ingested_at": "2026-04-18T20:39:09Z",
   "jurabk": "RVBeitrSBek 2016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "292d52682e5f302c1d430071abaae580ea242b15a111cdfb0d022944af59f277"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2016",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

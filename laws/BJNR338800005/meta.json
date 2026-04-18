@@ -4,9 +4,9 @@
   "bjnr": "BJNR338800005",
   "eli": null,
   "gii_slug": "bminuwidano_2005",
-  "ingested_at": "2026-04-18T20:30:27Z",
   "jurabk": "BMinUWidAnO 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1d199fce50cde64cfde1a896d5d7d83bc838014850d2e2ba3ff38a57fdde0862"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten für die Bearbeitung, für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen im Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit in Angelegenheiten von Amtsbezügen und Besoldung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

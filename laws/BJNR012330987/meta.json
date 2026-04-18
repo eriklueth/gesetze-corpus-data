@@ -4,9 +4,11 @@
   "bjnr": "BJNR012330987",
   "eli": null,
   "gii_slug": "lbprzgleichstv",
-  "ingested_at": "2026-04-18T20:35:47Z",
   "jurabk": "LbPrZGleichstV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "ccdd5910cf87e330e4bdab0c433474504a4b1da0168f7285ae66fea68372d321"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Gleichstellung von Zeugnissen über die Laufbahnprüfung für die Laufbahnen des mittleren Postbankdienstes und des mittleren Fernmeldedienstes bei der Deutschen Bundespost mit den Zeugnissen über das Bestehen der Abschlußprüfung im Ausbildungsberuf Verwaltungsfachangestellter/Verwaltungsfachangestellte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

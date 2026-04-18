@@ -4,9 +4,9 @@
   "bjnr": "BJNR206680972",
   "eli": null,
   "gii_slug": "schzusstrzust_bk",
-  "ingested_at": "2026-04-18T20:39:40Z",
   "jurabk": "SchZusStrZustÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3d6ee491b93b1cfcef732af61984f92d0f602694b09e643a609d3ab7e85ec526"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Internationales Übereinkommen zur Vereinheitlichung von Regeln über die strafgerichtliche Zuständigkeit bei Schiffszusammenstößen und anderen mit der Führung eines Seeschiffes zusammenhängenden Ereignissen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

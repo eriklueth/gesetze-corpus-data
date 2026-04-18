@@ -4,9 +4,12 @@
   "bjnr": "BJNR290700005",
   "eli": null,
   "gii_slug": "kostenbeitragsv",
-  "ingested_at": "2026-04-18T20:35:30Z",
   "jurabk": "KostenbeitragsV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "e3866bf562f734802452721cdc76b94ff057336d389fa6c7a59f960c25290cca"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Festsetzung der Kostenbeiträge für Leistungen und vorläufige Maßnahmen in der Kinder- und Jugendhilfe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

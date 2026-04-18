@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR123130991",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Zweiter Abschnitt Unbewegliches Vermögen"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Zweiter Abschnitt Unbewegliches Vermögen"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Zweiter Abschnitt Unbewegliches Vermögen"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Zweiter Abschnitt Unbewegliches Vermögen"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Zweiter Abschnitt Unbewegliches Vermögen"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Dritter Abschnitt Bewegliche Sachen, Forderungen, Verbindlichkeiten"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Dritter Abschnitt Bewegliche Sachen, Forderungen, Verbindlichkeiten"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Dritter Abschnitt Bewegliche Sachen, Forderungen, Verbindlichkeiten"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Vierter Abschnitt Anteile am Gesamthandsvermögen"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Fünfter Abschnitt Vollmachtsregelung"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Sechster Abschnitt Altvermögen der Sozialversicherungsträger"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Siebter Abschnitt Schlußvorschriften"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Regelungsgegenstand",
         "Siebter Abschnitt Schlußvorschriften"

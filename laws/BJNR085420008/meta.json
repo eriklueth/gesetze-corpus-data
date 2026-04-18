@@ -4,9 +4,11 @@
   "bjnr": "BJNR085420008",
   "eli": null,
   "gii_slug": "folt_bkfakprotg",
-  "ingested_at": "2026-04-18T20:33:20Z",
   "jurabk": "FoltÜbkFakProtG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "9e3d07d9a6313ea2b28fb9bf667fa2c595a28b61a93ac45858224e4852366064"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Fakultativprotokoll vom 18. Dezember 2002 zum Übereinkommen gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

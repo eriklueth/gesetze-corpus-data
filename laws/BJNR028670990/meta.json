@@ -4,9 +4,11 @@
   "bjnr": "BJNR028670990",
   "eli": null,
   "gii_slug": "rav_1",
-  "ingested_at": "2026-04-18T20:27:57Z",
   "jurabk": "RAV 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "c5748f7d6284c1dd640cc978bb05f040458f0d55b528c385d30d6093c0191057"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Erste Verordnung zur Anpassung der Renten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

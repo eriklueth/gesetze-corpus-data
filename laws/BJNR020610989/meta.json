@@ -4,9 +4,11 @@
   "bjnr": "BJNR020610989",
   "eli": null,
   "gii_slug": "orthoptg",
-  "ingested_at": "2026-04-18T20:38:01Z",
   "jurabk": "OrthoptG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "d77ebe4b07afadac9e47cc2acb7a363fbfd607a001b977f90ace6a1797094fd6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über den Beruf der Orthoptistin und des Orthoptisten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

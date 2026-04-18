@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR635700014",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Anforderungen an die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Anforderungen an die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Anforderungen an die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Anforderungen an die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Anforderungen an die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Anforderungen an die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Anforderungen an die Erhaltung von Flächen in gutem landwirtschaftlichen und ökologischen Zustand"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Kontroll- und Sanktionsvorschriften"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Schlussbestimmungen"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Schlussbestimmungen"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Schlussbestimmungen"
@@ -122,6 +134,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Schlussbestimmungen"
@@ -132,6 +145,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Schlussbestimmungen"

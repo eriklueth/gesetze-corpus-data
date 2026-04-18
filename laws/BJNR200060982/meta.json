@@ -4,9 +4,9 @@
   "bjnr": "BJNR200060982",
   "eli": null,
   "gii_slug": "intmeersch_bk1973anl_ii",
-  "ingested_at": "2026-04-18T20:34:54Z",
   "jurabk": "IntMeerSchÜbk1973Anl II",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4481ae84a1196d601a227ec5dc32962ce58bf4e62999c0669730d7e9c215bf8a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Regeln zur Überwachung der Verschmutzung durch als Massengut beförderte schädliche flüssige Stoffe (Anlage II zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

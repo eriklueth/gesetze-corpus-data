@@ -4,9 +4,12 @@
   "bjnr": "BJNR011700008",
   "eli": null,
   "gii_slug": "immofachwprv",
-  "ingested_at": "2026-04-18T20:34:43Z",
   "jurabk": "ImmoFachwPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "0acd9e7c62d479eac406db98e13d9de01eee907a0631c0a3ae9303b080ae4c1c"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

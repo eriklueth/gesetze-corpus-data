@@ -4,9 +4,9 @@
   "bjnr": "BJNR010220997",
   "eli": null,
   "gii_slug": "echvertrprot",
-  "ingested_at": "2026-04-18T20:31:56Z",
   "jurabk": "ECHVertrProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "10bb13cc26f1a48bc1d1b7b9b126379e4581958729fdca649a068c405ee07dac"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Energiechartaprotokoll über Energieeffizienz und damit verbundene Umweltaspekte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

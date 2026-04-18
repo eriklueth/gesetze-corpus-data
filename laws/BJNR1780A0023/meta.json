@@ -4,9 +4,11 @@
   "bjnr": "BJNR1780A0023",
   "eli": null,
   "gii_slug": "kizdav",
-  "ingested_at": "2026-04-18T20:35:22Z",
   "jurabk": "KiZDAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "dc023b718cd5d38b855da3a24e5087d910f4926be0f95f54c4581ae40c34a54e"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Datenübermittlung zwischen den für das Kindergeld nach dem Einkommensteuergesetz und den für den Kinderzuschlag zuständigen Stellen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

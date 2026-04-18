@@ -4,9 +4,9 @@
   "bjnr": "BJNR066300998",
   "eli": null,
   "gii_slug": "m_nz10dmbek_1998-04",
-  "ingested_at": "2026-04-18T20:36:53Z",
   "jurabk": "Münz10DMBek 1998-04",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f3e175bace45a8d4714b67dbb25c5b7732eafbfe2426ab46ebee73acb34cc49a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze \"900. Geburtstag Hildegard von Bingen\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

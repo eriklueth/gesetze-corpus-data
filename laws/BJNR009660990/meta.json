@@ -4,9 +4,11 @@
   "bjnr": "BJNR009660990",
   "eli": null,
   "gii_slug": "nsunrurtbesg",
-  "ingested_at": "2026-04-18T20:37:46Z",
   "jurabk": "NSUnrUrtBesG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "f0b6267f83f4cda2d65a04030a1998ab6d0255c757ff84ad7bff8a6ff15319ca"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Beseitigung nationalsozialistischer Unrechtsurteile",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

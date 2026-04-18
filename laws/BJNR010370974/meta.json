@@ -4,9 +4,11 @@
   "bjnr": "BJNR010370974",
   "eli": null,
   "gii_slug": "dindbvermverwg",
-  "ingested_at": "2026-04-18T20:31:46Z",
   "jurabk": "DIndBVermVerwG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "397aeeb2e2cf3d1b10e205982fdd51658941441b5c495c521f3e476264337a15"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Verwendung des Vermögens der Deutschen Industriebank",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

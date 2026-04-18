@@ -4,9 +4,12 @@
   "bjnr": "BJNR044900016",
   "eli": null,
   "gii_slug": "wvgeflpestmonv",
-  "ingested_at": "2026-04-18T20:42:45Z",
   "jurabk": "WvGeflpestMonV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "bf2edca9d22ab6c13b372728b295ac323c4a0041e1d59809b26c9bb4b3693dbe"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung eines Monitorings auf das Virus der Geflügelpest bei Wildvögeln",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

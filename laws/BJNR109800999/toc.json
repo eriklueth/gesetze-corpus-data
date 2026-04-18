@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR109800999",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Übertragung der Zuständigkeiten des Präsidenten der Bundesanstalt für vereinigungsbedingte Sonderaufgaben nach dem Vermögenszuordnungsgesetz in Verbindung mit dem Zuordnungsergänzungsgesetz",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Inkrafttreten",

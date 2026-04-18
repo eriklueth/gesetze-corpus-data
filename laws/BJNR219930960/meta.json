@@ -4,9 +4,11 @@
   "bjnr": "BJNR219930960",
   "eli": null,
   "gii_slug": "intatomorgvorrv",
-  "ingested_at": "2026-04-18T20:34:55Z",
   "jurabk": "IntAtomOrgVorRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "062f9ee337a45eac91bcad25825c7ad9e73fce7a5d21c82d7e8aea6663971675"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Atomenergie-Organisation",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR289700001",
   "eli": null,
   "gii_slug": "favo",
-  "ingested_at": "2026-04-18T20:33:02Z",
   "jurabk": "FAVO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "3aa92c62c7e029ca21ca5a89acece2a1999daa13777adb3fb4f315778b4a41ca"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Anpassung von Arzneimittel-Festbeträgen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

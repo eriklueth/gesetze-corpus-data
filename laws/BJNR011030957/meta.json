@@ -4,9 +4,11 @@
   "bjnr": "BJNR011030957",
   "eli": null,
   "gii_slug": "steinkagsaarg",
-  "ingested_at": "2026-04-18T20:40:41Z",
   "jurabk": "SteinKAGSaarG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "dc66e70504534b8b773235aa176a8745b63e89eeda8622017fb00a4fa16c38cc"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Einbringung der Steinkohlenbergwerke im Saarland in eine Aktiengesellschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

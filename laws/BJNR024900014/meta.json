@@ -4,9 +4,9 @@
   "bjnr": "BJNR024900014",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2014-02-28",
-  "ingested_at": "2026-04-18T20:37:01Z",
   "jurabk": "Münz10EuroBek 2014-02-28",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "256059acb2aed92af85802354d45a99bd5443faa745f75ced75b30255c91f8df"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „200. Geburtstag Georg Büchner“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

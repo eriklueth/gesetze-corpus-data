@@ -4,9 +4,11 @@
   "bjnr": "BJNR004050991",
   "eli": null,
   "gii_slug": "wvg",
-  "ingested_at": "2026-04-18T20:42:45Z",
   "jurabk": "WVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 82
+  },
   "source_hashes": {
     "source_xml_sha256": "05db185a946f01d9c803f0c61df31429538f48836dc517c1228e976632b1d5f3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Wasser- und Bodenverbände",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

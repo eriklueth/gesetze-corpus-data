@@ -4,9 +4,11 @@
   "bjnr": "BJNR098620998",
   "eli": null,
   "gii_slug": "rheinbr_ckeschauvtrg",
-  "ingested_at": "2026-04-18T20:38:56Z",
   "jurabk": "RheinBrückEschauVtrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "b8b29c19df50d8b109fa76571766ab3c369cfa9a713ed8abfc9ac7ff7d1c306d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 5. Juni 1996 zwischen der Bundesrepublik Deutschland und der Französischen Republik über den Bau einer Straßenbrücke über den Rhein zwischen Altenheim und Eschau",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

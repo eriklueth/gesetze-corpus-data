@@ -4,9 +4,11 @@
   "bjnr": "BJNR235000994",
   "eli": null,
   "gii_slug": "telekagsa",
-  "ingested_at": "2026-04-18T20:41:04Z",
   "jurabk": "TelekAGSa",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "e417e9c75b30da427888ca3de4faf643214a5ef91ad251be1b523e10eb51c4a3"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Satzung der Deutsche Telekom AG (Anhang des Gesetzes zur Umwandlung der Unternehmen der Deutschen Bundespost in die Rechtsform der Aktiengesellschaft)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

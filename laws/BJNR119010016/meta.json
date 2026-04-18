@@ -4,9 +4,12 @@
   "bjnr": "BJNR119010016",
   "eli": null,
   "gii_slug": "vgg",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VGG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 151
+  },
   "source_hashes": {
     "source_xml_sha256": "d86a80d910cdfafcce88611009e4e54e0eca4a7729dc04fc46d957b879d1b66a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz über die Wahrnehmung von Urheberrechten und verwandten Schutzrechten durch Verwertungsgesellschaften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

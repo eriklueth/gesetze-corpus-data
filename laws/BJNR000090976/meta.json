@@ -4,9 +4,11 @@
   "bjnr": "BJNR000090976",
   "eli": null,
   "gii_slug": "wsvzustneuov",
-  "ingested_at": "2026-04-18T20:42:44Z",
   "jurabk": "WSVZustNeuOV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "157858d580fce688a6fdd546540410607d77d37c82395a9fbe737b9f56b94cb6"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Anpassung von Zuständigkeiten der Wasser- und Schiffahrtsdirektionen an die Neuordnung der Wasser- und Schiffahrtsverwaltung des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

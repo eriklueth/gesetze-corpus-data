@@ -4,9 +4,11 @@
   "bjnr": "BJNR216500005",
   "eli": null,
   "gii_slug": "pfandbarwertv_2005",
-  "ingested_at": "2026-04-18T20:38:15Z",
   "jurabk": "PfandBarwertV 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "7d06697161df4a4b1b6a2c4367144c4d4c527634d6cffac98910403e23e3f35c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Sicherstellung der jederzeitigen Deckung von Hypothekenpfandbriefen, Öffentlichen Pfandbriefen, Schiffspfandbriefen und Flugzeugpfandbriefen nach dem Barwert und dessen Berechnung bei Pfandbriefbanken",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

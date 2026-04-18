@@ -4,9 +4,11 @@
   "bjnr": "BJNR329210004",
   "eli": null,
   "gii_slug": "rvorgref_g",
-  "ingested_at": "2026-04-18T20:39:13Z",
   "jurabk": "RVOrgRefÜG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 21
+  },
   "source_hashes": {
     "source_xml_sha256": "37694d212b32ab577412f7ea4cdd3aca15eec83de94187bcabd7fe9114dd31c3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu Übergangsregelungen zur Organisationsreform in der gesetzlichen Rentenversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

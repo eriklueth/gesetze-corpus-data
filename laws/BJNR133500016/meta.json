@@ -4,9 +4,12 @@
   "bjnr": "BJNR133500016",
   "eli": null,
   "gii_slug": "metallbausbvo",
-  "ingested_at": "2026-04-18T20:36:32Z",
   "jurabk": "MetallbAusbVO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "0a1d978f0a6bb7c1f0b1941a8566230d3460cae124db8713f67176e394569355"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Metallbildner und zur Metallbildnerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

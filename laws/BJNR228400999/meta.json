@@ -4,9 +4,9 @@
   "bjnr": "BJNR228400999",
   "eli": null,
   "gii_slug": "besitzbek",
-  "ingested_at": "2026-04-18T20:29:49Z",
   "jurabk": "BESitzBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3a8d1d2eff8b6b3a364a6a74d2243af0968e72c11c5f73419ff4910f68afcdcb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Sitz des Bundeseisenbahnvermögens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

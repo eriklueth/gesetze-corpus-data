@@ -4,9 +4,9 @@
   "bjnr": "BJNR002340970",
   "eli": null,
   "gii_slug": "dbiblbdodano",
-  "ingested_at": "2026-04-18T20:31:34Z",
   "jurabk": "DBiblBDODAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3ddba39107213b182381a344d0ab644726a2d7d2763414f29e778d4ab2407cfc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Durchführung der Bundesdisziplinarordnung für die Deutsche Bibliothek",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

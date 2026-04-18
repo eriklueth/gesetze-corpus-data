@@ -4,9 +4,12 @@
   "bjnr": "BJNR046000014",
   "eli": null,
   "gii_slug": "see-bv",
-  "ingested_at": "2026-04-18T20:39:41Z",
   "jurabk": "See-BV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 8,
+    "paragraph": 68
+  },
   "source_hashes": {
     "source_xml_sha256": "a063630056ef9ca4a5f81ff4dc85073cf84cdf4acb6fdd3f9419da82d59ca01f"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Befähigungen der Seeleute in der Seeschifffahrt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

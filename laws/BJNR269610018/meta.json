@@ -4,9 +4,11 @@
   "bjnr": "BJNR269610018",
   "eli": null,
   "gii_slug": "kiqutg",
-  "ingested_at": "2026-04-18T20:35:22Z",
   "jurabk": "KiQuTG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "2cb88ba4f86ba343976198d75d767a401807d657c90685ce330dc8f4ea78e664"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Weiterentwicklung der Qualität und zur Verbesserung der Teilhabe in Tageseinrichtungen und in der Kindertagespflege",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

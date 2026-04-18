@@ -4,9 +4,9 @@
   "bjnr": "BJNR207180986",
   "eli": null,
   "gii_slug": "ecer_54",
-  "ingested_at": "2026-04-18T20:31:56Z",
   "jurabk": "ECER 54",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4a9b8f2cff3b92a9a32e7435ad8eae470008dc7c444d6c304598c4e453902c74"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "ECE-Regelung Nr. 54 (Anlageband der Verordnung über die Inkraftsetzung der ECE-Regelung Nr. 54) über einheitliche Bedingungen für die Genehmigung der Luftreifen für Nutzfahrzeuge und ihre Anhänger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

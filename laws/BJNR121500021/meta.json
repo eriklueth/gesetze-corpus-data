@@ -4,9 +4,11 @@
   "bjnr": "BJNR121500021",
   "eli": null,
   "gii_slug": "urhdag",
-  "ingested_at": "2026-04-18T20:41:34Z",
   "jurabk": "UrhDaG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 22
+  },
   "source_hashes": {
     "source_xml_sha256": "dd6ed7ef01ea44722519e1450e7148612df289063f031faa2bd5b04ea83d58bf"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die urheberrechtliche Verantwortlichkeit von Diensteanbietern für das Teilen von Online-Inhalten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR113980992",
   "eli": null,
   "gii_slug": "beratungsg",
-  "ingested_at": "2026-04-18T20:39:32Z",
   "jurabk": "BeratungsG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 37
+  },
   "source_hashes": {
     "source_xml_sha256": "4ee31f99b2e1587ba434d03eb6048bb5cab6574a9b0cfb23d8ae7fe70d7d418e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Vermeidung und Bewältigung von Schwangerschaftskonflikten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

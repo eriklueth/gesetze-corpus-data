@@ -4,9 +4,11 @@
   "bjnr": "BJNR200900987",
   "eli": null,
   "gii_slug": "roberh_bkg",
-  "ingested_at": "2026-04-18T20:39:03Z",
   "jurabk": "RobErhÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "dda688789b073df8878f18bbc6a85ea4c771cb0cf2a298f0619063d76657b18e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung der antarktischen Robben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

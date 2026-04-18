@@ -4,9 +4,9 @@
   "bjnr": "BJNR215870956",
   "eli": null,
   "gii_slug": "saarvtrg",
-  "ingested_at": "2026-04-18T20:39:19Z",
   "jurabk": "SaarVtrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1cb301a6e5f90c917c60d3486e165106fa347aad23790732e55fc504f10ecd32"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über den Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik zur Regelung der Saarfrage",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

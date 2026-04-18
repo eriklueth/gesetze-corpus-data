@@ -4,9 +4,11 @@
   "bjnr": "BJNR17B0A0023",
   "eli": null,
   "gii_slug": "insogeldfestv_2024",
-  "ingested_at": "2026-04-18T20:34:51Z",
   "jurabk": "InsoGeldFestV 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "f94eb5e8337e58728ead068f9e86b9170360d0751a122b79a8dd4390fa37dfad"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Festsetzung des Umlagesatzes für das Insolvenzgeld für das Kalenderjahr 2024",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

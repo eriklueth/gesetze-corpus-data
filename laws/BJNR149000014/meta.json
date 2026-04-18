@@ -4,9 +4,12 @@
   "bjnr": "BJNR149000014",
   "eli": null,
   "gii_slug": "renopatausbv_2015",
-  "ingested_at": "2026-04-18T20:38:55Z",
   "jurabk": "ReNoPatAusbV 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "c88f0aa01ade8df3bc97b06b4384130ecbd0ce3b0cbf4f146c66195d90d1d3b1"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildungen zum Rechtsanwaltsfachangestellten und zur Rechtsanwaltsfachangestellten, zum Notarfachangestellten und zur Notarfachangestellten, zum Rechtsanwalts- und Notarfachangestellten und zur Rechtsanwalts- und Notarfachangestellten sowie zum Patentanwaltsfachangestellten und zur Patentanwaltsfachangestellten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

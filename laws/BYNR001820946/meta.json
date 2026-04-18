@@ -4,9 +4,9 @@
   "bjnr": "BYNR001820946",
   "eli": null,
   "gii_slug": "nsahndg_by",
-  "ingested_at": "2026-04-18T20:37:43Z",
   "jurabk": "NSAhndG BY",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5772d8de130ec74b50328fe7667a05e4348c94c55192cc5aa6876f7d66a58f67"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz Nr. 22 zur Ahndung nationalsozialistischer Straftaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

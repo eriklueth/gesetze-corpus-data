@@ -4,9 +4,11 @@
   "bjnr": "BJNR128400016",
   "eli": null,
   "gii_slug": "surlv_2016",
-  "ingested_at": "2026-04-18T20:40:57Z",
   "jurabk": "SUrlV 2016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 28
+  },
   "source_hashes": {
     "source_xml_sha256": "994c1918f319443fde70a65963f7bbfddb8c16b91791605b1fb64d0cac31a783"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über den Sonderurlaub für Bundesbeamtinnen und Bundesbeamte sowie für Richterinnen und Richter des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

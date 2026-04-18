@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR207710020",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Anerkennung"
@@ -40,6 +44,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Anerkennung"
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Anerkennung"
@@ -60,6 +66,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Anerkennung"
@@ -70,6 +77,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Beauftragung und Aufgaben der Prüfsachverständigen"
@@ -80,6 +88,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Beauftragung und Aufgaben der Prüfsachverständigen"
@@ -90,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Beauftragung und Aufgaben der Prüfsachverständigen"
@@ -100,6 +110,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Beauftragung und Aufgaben der Prüfsachverständigen"
@@ -110,6 +121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Beauftragung und Aufgaben der Prüfsachverständigen"
@@ -120,6 +132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Beauftragung und Aufgaben der Prüfsachverständigen"
@@ -130,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Pflichten der Prüfsachverständigen"
@@ -140,6 +154,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Pflichten der Prüfsachverständigen"
@@ -150,6 +165,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Pflichten der Prüfsachverständigen"
@@ -160,6 +176,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Pflichten der Prüfsachverständigen"
@@ -170,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Pflichten der Prüfsachverständigen"
@@ -180,6 +198,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Pflichten der Prüfsachverständigen"
@@ -190,6 +209,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Pflichten der Prüfsachverständigen"
@@ -200,6 +220,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Pflichten der Prüfsachverständigen"
@@ -210,6 +231,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Pflichten der Prüfsachverständigen"
@@ -220,6 +242,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Pflichten der Prüfsachverständigen"
@@ -230,6 +253,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Überwachung der Prüfsachverständigen"
@@ -240,6 +264,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Schlussbestimmungen"
@@ -250,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Schlussbestimmungen"
@@ -260,6 +286,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Schlussbestimmungen"

@@ -4,9 +4,11 @@
   "bjnr": "BJNR0E60A0025",
   "eli": null,
   "gii_slug": "svikg",
-  "ingested_at": "2026-04-18T20:40:59Z",
   "jurabk": "SVIKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "4ac48952bc2b2db71e7f250cfee1015d4e6fe4c030788490e4caea2a7e5d08f2"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR013620965",
   "eli": null,
   "gii_slug": "stvghbetr_ndv",
-  "ingested_at": "2026-04-18T20:40:53Z",
   "jurabk": "StVGHBetrÄndV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "09d6bb65a780ec3c24a50707051c078f916a615ae4deeda11af3176ba323f3cb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Änderung der Haftungshöchstbeträge nach dem Straßenverkehrsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

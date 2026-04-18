@@ -4,9 +4,11 @@
   "bjnr": "BJNR106200010",
   "eli": null,
   "gii_slug": "wd_ngv",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WDüngV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "f9c78505d07bad9411230c486fc23d31181de552c601fb724819c2c1199143cd"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Inverkehrbringen und Befördern von Wirtschaftsdünger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

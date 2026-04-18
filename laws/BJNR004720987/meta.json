@@ -4,9 +4,9 @@
   "bjnr": "BJNR004720987",
   "eli": null,
   "gii_slug": "ordenseenot_nderl",
-  "ingested_at": "2026-04-18T20:37:57Z",
   "jurabk": "OrdenSeenotÄndErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4e8ee36fdaeb0d0d1aea1d4f8ca972b52466a3feb987ea67c6fddcc2853202a8"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlaß über die Genehmigung einer Änderung der Verleihungsbedingungen der Medaille für Rettung aus Seenot am Bande der Deutschen Gesellschaft zur Rettung Schiffbrüchiger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR110400022",
   "eli": null,
   "gii_slug": "bwtamabgv",
-  "ingested_at": "2026-04-18T20:31:17Z",
   "jurabk": "BwTAMAbgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "58c7899d4edc46e6425c7b296a18aad9c0e9b8f0e4781b02855ffbcdbf523de3"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Abgabe von Tierarzneimitteln im Bereich der Bundeswehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR216210017",
   "eli": null,
   "gii_slug": "fahrlg_2018",
-  "ingested_at": "2026-04-18T20:33:00Z",
   "jurabk": "FahrlG 2018",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 69
+  },
   "source_hashes": {
     "source_xml_sha256": "aa4fee9c32f798270caac28a784cfa3fedaaf123328ba9dedf266e6e956d5aeb"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über das Fahrlehrerwesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

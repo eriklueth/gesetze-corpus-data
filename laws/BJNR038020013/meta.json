@@ -4,9 +4,9 @@
   "bjnr": "BJNR038020013",
   "eli": null,
   "gii_slug": "schwarzarbvtr_nld",
-  "ingested_at": "2026-04-18T20:39:40Z",
   "jurabk": "SchwarzArbVtr NLD",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e5a94a8589509d05956d06eced4c0a146650f2c198febd2535961a17c74a5294"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über die Zusammenarbeit bei der Bekämpfung des grenzüberschreitenden Missbrauchs bei Sozialversicherungsleistungen und -beiträgen durch Erwerbstätigkeit und bei Leistungen der Grundsicherung für Arbeitsuchende sowie von nicht angemeldeter Erwerbstätigkeit und illegaler grenzüberschreitender Leiharbeit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

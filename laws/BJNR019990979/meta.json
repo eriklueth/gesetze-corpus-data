@@ -4,9 +4,11 @@
   "bjnr": "BJNR019990979",
   "eli": null,
   "gii_slug": "wzg_4epo_epabek",
-  "ingested_at": "2026-04-18T20:43:01Z",
   "jurabk": "WZG§4EPO/EPABek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "d17054525088eab0a949ac61de0065a92a8ccbe0ef2601de2783248132b81ff9"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

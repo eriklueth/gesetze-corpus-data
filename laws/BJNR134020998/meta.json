@@ -4,9 +4,9 @@
   "bjnr": "BJNR134020998",
   "eli": null,
   "gii_slug": "pfptrstat",
-  "ingested_at": "2026-04-18T20:38:21Z",
   "jurabk": "PfPTrStat",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5332ad7bb469cfb99889e92e9883b978065d4537270cd6acfdead6d79b2a0b9b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen vom 19. Juni 1995 zwischen den Vertragsstaaten des Nordatlantikvertrags und den anderen an der Partnerschaft für den Frieden teilnehmenden Staaten über die Rechtsstellung ihrer Truppen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

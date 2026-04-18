@@ -4,9 +4,12 @@
   "bjnr": "BJNR052700014",
   "eli": null,
   "gii_slug": "hdlfachwprv",
-  "ingested_at": "2026-04-18T20:34:24Z",
   "jurabk": "HdlFachwPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "7cd2d6867575dfe9e6fee8f891811ea31dfffdbfe7fe26ca96b84ef6edea5ddc"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Handelsfachwirt und Geprüfte Handelsfachwirtin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

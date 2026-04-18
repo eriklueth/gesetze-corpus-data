@@ -4,9 +4,11 @@
   "bjnr": "BJNR217200018",
   "eli": null,
   "gii_slug": "ndwv",
-  "ingested_at": "2026-04-18T20:37:37Z",
   "jurabk": "NDWV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "4e358ebb23d1aa49ed1461cfd1c638bf339f742c7c42101444ce58af8f7f76bc"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Festlegung von Dosiswerten für frühe Notfallschutzmaßnahmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

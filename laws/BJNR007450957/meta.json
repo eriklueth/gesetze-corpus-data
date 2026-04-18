@@ -4,9 +4,11 @@
   "bjnr": "BJNR007450957",
   "eli": null,
   "gii_slug": "bbankg",
-  "ingested_at": "2026-04-18T20:29:27Z",
   "jurabk": "BBankG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 44
+  },
   "source_hashes": {
     "source_xml_sha256": "b8a0eaf5a419d68acde383cd2615f8431923d88071e08c40fd23f2e702f832dc"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Deutsche Bundesbank",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

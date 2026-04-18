@@ -4,9 +4,12 @@
   "bjnr": "BJNR057210000",
   "eli": null,
   "gii_slug": "sportbootvermv-bin2000",
-  "ingested_at": "2026-04-18T20:30:04Z",
   "jurabk": "SportbootVermV-Bin2000",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 6,
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "c3b72e8b95642eb6500ea78e7599c589158d51378cb1126541c34e13e57493c7"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die gewerbsmäßige Vermietung von Sportbooten sowie deren Benutzung auf den Binnenschifffahrtsstraßen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

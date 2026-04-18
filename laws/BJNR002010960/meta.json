@@ -4,9 +4,11 @@
   "bjnr": "BJNR002010960",
   "eli": null,
   "gii_slug": "strfing",
-  "ingested_at": "2026-04-18T20:40:49Z",
   "jurabk": "StrFinG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "f71080cbe62e14ba1eddd2bac2e369d3a5b0eec38dc37871d2b5f334fdcda945"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Straßenbaufinanzierungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR208380954",
   "eli": null,
   "gii_slug": "kgfabk_genf",
-  "ingested_at": "2026-04-18T20:35:18Z",
   "jurabk": "KgfAbk Genf",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "56064c5f739bba8036ffd00464c0588ed7f63cf00d448c8d236f06bb9f5c9c1f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "III. Genfer Abkommen vom 12. August 1949 über die Behandlung der Kriegsgefangen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

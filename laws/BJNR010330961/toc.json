@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR010330961",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen",
         "Zweiter Abschnitt Aufhebung oder Abänderung der Vollstreckbarerklärung"
@@ -67,6 +74,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen",
         "Dritter Abschnitt Besondere Vorschriften für deutsche gerichtliche Entscheidungen"
@@ -77,6 +85,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen",
         "Dritter Abschnitt Besondere Vorschriften für deutsche gerichtliche Entscheidungen"
@@ -87,6 +96,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen",
         "Dritter Abschnitt Besondere Vorschriften für deutsche gerichtliche Entscheidungen"
@@ -97,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen",
         "Dritter Abschnitt Besondere Vorschriften für deutsche gerichtliche Entscheidungen"
@@ -107,6 +118,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen",
         "Vierter Abschnitt Gerichtsstand in Unterhaltssachen"
@@ -117,6 +129,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen",
         "Fünfter Abschnitt Schlußbestimmungen"
@@ -127,6 +140,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Vollstreckbarerklärung ausländischer Entscheidungen",
         "Fünfter Abschnitt Schlußbestimmungen"

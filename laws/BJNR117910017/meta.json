@@ -4,9 +4,11 @@
   "bjnr": "BJNR117910017",
   "eli": null,
   "gii_slug": "mntzolldvdv",
-  "ingested_at": "2026-04-18T20:36:37Z",
   "jurabk": "MntZollDVDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 54
+  },
   "source_hashes": {
     "source_xml_sha256": "ddf8e2b702744b7a4bda3068dfaad2ee78baae8c003c806c096e1ed69976f587"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über den Vorbereitungsdienst für den mittleren nichttechnischen Zolldienst des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

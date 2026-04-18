@@ -4,9 +4,12 @@
   "bjnr": "BJNR019890990",
   "eli": null,
   "gii_slug": "margmfv",
-  "ingested_at": "2026-04-18T20:36:24Z",
   "jurabk": "MargMFV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "cdbb9c156c0a425025a435b2ab6bd76d1b05bad139fd425a59518b200af2ea2d"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Margarine- und Mischfetterzeugnisse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

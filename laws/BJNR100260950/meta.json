@@ -4,9 +4,11 @@
   "bjnr": "BJNR100260950",
   "eli": null,
   "gii_slug": "dsiegelerl",
-  "ingested_at": "2026-04-18T20:31:51Z",
   "jurabk": "DSiegelErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "cfb086f6e620cde028f509ed2e562d85efe835251da488cb09dfa6829e12ded5"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlaß über die Dienstsiegel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

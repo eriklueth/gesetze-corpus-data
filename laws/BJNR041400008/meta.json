@@ -4,9 +4,9 @@
   "bjnr": "BJNR041400008",
   "eli": null,
   "gii_slug": "bmjgerernano",
-  "ingested_at": "2026-04-18T20:30:27Z",
   "jurabk": "BMJGerErnAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "26b8a9924397a63e98ee456d2bde5d56e6f544b049a55467140c140da354f1c9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten bei den obersten Gerichten des Bundes im Geschäftsbereich des Bundesministeriums der Justiz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

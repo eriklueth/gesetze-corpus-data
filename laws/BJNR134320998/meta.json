@@ -4,9 +4,9 @@
   "bjnr": "BJNR134320998",
   "eli": null,
   "gii_slug": "pfptrstatzprot",
-  "ingested_at": "2026-04-18T20:38:21Z",
   "jurabk": "PfPTrStatZProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "370431a7de2bec56b2487c42ffb1d13993251241bb97b0ca46651c8121a81e30"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zusatzprotokoll zu dem Übereinkommen vom 19. Juni 1995 zwischen den Vertragsstaaten des Nordatlantikvertrags und den anderen an der Partnerschaft für den Frieden teilnehmenden Staaten über die Rechtsstellung ihrer Truppen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR523900021",
   "eli": null,
   "gii_slug": "pkhb_2022",
-  "ingested_at": "2026-04-18T20:38:24Z",
   "jurabk": "PKHB 2022",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3f37602d117fdf7f0306867e15c24122c4866f1edf74167260c9031c37e3e332"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 115 der Zivilprozessordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

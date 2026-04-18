@@ -4,9 +4,11 @@
   "bjnr": "BJNR0220A0025",
   "eli": null,
   "gii_slug": "fzausnv_2",
-  "ingested_at": "2026-04-18T20:28:05Z",
   "jurabk": "FZAusnV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "933f1dd79bf3a8432b86dbcf9b83d64b1f91b39820ca7a161be7628e45856d74"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Zweite Verordnung über Ausnahmen von den Vorschriften der Fahrzeug-Zulassungsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

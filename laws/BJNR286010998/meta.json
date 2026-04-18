@@ -4,9 +4,12 @@
   "bjnr": "BJNR286010998",
   "eli": null,
   "gii_slug": "schsg",
-  "ingested_at": "2026-04-18T20:39:34Z",
   "jurabk": "SchSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "02a8fdd5c5142b7e072dffece8d9120729bfa92cd43543fd8a85876465a783e6"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Schiffssicherheitsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

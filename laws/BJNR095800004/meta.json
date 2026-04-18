@@ -4,9 +4,12 @@
   "bjnr": "BJNR095800004",
   "eli": null,
   "gii_slug": "fsbeitrv",
-  "ingested_at": "2026-04-18T20:33:27Z",
   "jurabk": "FSBeitrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "0f4b2275871aac3727e962643aa6c6b900b891dbaf0812aaf8a80aa5985c3373"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Beiträge zum Schutz einer störungsfreien Frequenznutzung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

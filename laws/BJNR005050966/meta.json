@@ -4,9 +4,11 @@
   "bjnr": "BJNR005050966",
   "eli": null,
   "gii_slug": "javollzo",
-  "ingested_at": "2026-04-18T20:35:06Z",
   "jurabk": "JAVollzO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 33
+  },
   "source_hashes": {
     "source_xml_sha256": "d1d68dde8b039afaafac077a87f36a771f6c2b28a0ceedd9f761528b748e6d63"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über den Vollzug des Jugendarrestes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

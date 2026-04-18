@@ -4,9 +4,11 @@
   "bjnr": "BJNR265820994",
   "eli": null,
   "gii_slug": "vollstrzust_bk1988g",
-  "ingested_at": "2026-04-18T20:42:06Z",
   "jurabk": "VollstrZustÜbk1988G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "f7c59115831fee1824f148582edac8070220f2c2cc51084756051f603ae8507f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 16. September 1988 über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

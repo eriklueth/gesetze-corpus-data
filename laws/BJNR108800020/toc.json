@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR108800020",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Allgemeine Anforderungen an die Vermeidung und die Kompensation",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Besondere Anforderungen an die Vermeidung",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Grundsätze der Bewertung des vorhandenen Zustands und der zu erwartenden unvermeidbaren Beeinträchtigungen",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Grundbewertung des Schutzguts Biotope",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Bewertung weiterer Schutzgüter",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Biotopwertbezogener und funktionsspezifischer Kompensationsbedarf",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Anforderungen an den Ausgleich und den Ersatz erheblicher Beeinträchtigungen von Biotopen",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Anforderungen an den Ausgleich und den Ersatz erheblicher Beeinträchtigungen weiterer Schutzgüter",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Berücksichtigung agrarstruktureller Belange",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Bewirtschaftungs- oder Pflegemaßnahmen; Entsiegelung und Wiedervernetzung",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Unterhaltung und rechtliche Sicherung; Übertragung auf Einrichtungen",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Voraussetzungen der Ersatzzahlung",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Höhe der Ersatzzahlung",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Bewertung und Ersatzgeldbemessung für Windenergieanlagen auf See",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Sicherheitsleistung für die Ersatzzahlung",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Übergangsvorschriften",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Inkrafttreten",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 4 Absatz 3, § 6 Absatz 1 und 2 und § 14 Absatz 2 Satz 1)",
@@ -136,6 +155,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 5 Absatz 1)",
@@ -143,6 +163,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 5 Absatz 3 Satz 2 und § 6 Absatz 2 Satz 2)",
@@ -150,6 +171,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 8 Absatz 1 Satz 2 und § 9 Absatz 4 Satz 1)",
@@ -157,6 +179,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 9 Absatz 3 und 4)",
@@ -164,6 +187,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "(zu § 8 Absatz 3 Satz 2, § 11 Absatz 1 bis 3)",

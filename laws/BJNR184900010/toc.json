@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR184900010",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 14,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Begriffsbestimmungen",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Chlor- und Bromverbindungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Anforderungen an Ottokraftstoffe; Bestandsschutzsortenregelung",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Anforderungen an Dieselkraftstoff, paraffinischer Dieselkraftstoff, Gasöl und andere flüssige Kraftstoffe; Bestandsschutzsortenregelung; Schwefelgehalt; Verwendung für Binnenschiffe und Sportboote",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Anforderungen an Biodiesel",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Anforderungen an Ethanolkraftstoff (E85)",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Anforderungen an Autogas",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Anforderungen an Erdgas und Biogas als Kraftstoffe",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Anforderung an Pflanzenölkraftstoffe",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0009a.md",
       "heading": "Anforderungen an Wasserstoff als Kraftstoff",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Schwefelgehalt von Heizöl",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Gleichwertigkeitsklausel",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Einschränkungen",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Auszeichnung von Kraft- und Brennstoffen",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Nachweisführung",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Bekanntmachung der Kraftstoffqualität für den Betrieb von Kraftfahrzeugen",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Ausnahmen",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Zugänglichkeit der Normen",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Überwachung",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Einfuhr von Heizöl, Schiffskraftstoff und Dieselkraftstoff",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Ordnungswidrigkeiten",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0021.md",
       "heading": "Übergangsvorschriften",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0022.md",
       "heading": "Inkrafttreten, Außerkrafttreten",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 1)",
@@ -171,6 +195,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 1)",
@@ -178,6 +203,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 2)",
@@ -185,6 +211,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 2)",
@@ -192,6 +219,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 3)",
@@ -199,6 +227,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 4)",
@@ -206,6 +235,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0007.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 5)",
@@ -213,6 +243,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0008.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 6)",
@@ -220,6 +251,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0009.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 7)",
@@ -227,6 +259,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0010.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 8)",
@@ -234,6 +267,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0011.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 9 Buchstabe a Doppelbuchstabe aa)",
@@ -241,6 +275,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0012.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 9 Buchstabe a Doppelbuchstabe bb)",
@@ -248,6 +283,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0013.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 9 Buchstabe b Doppelbuchstabe aa)",
@@ -255,6 +291,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0014.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 10)",
@@ -262,6 +299,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0015.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 11)",
@@ -269,6 +307,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0016.md",
       "heading": "(zu § 13 Absatz 1 Satz 1 Nummer 12)",
@@ -276,6 +315,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0017.md",
       "heading": "(zu § 18 Absatz 2 Satz 4)",

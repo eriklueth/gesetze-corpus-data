@@ -4,9 +4,9 @@
   "bjnr": "BJNR211710975",
   "eli": null,
   "gii_slug": "eurhi_bkergvtr_che",
-  "ingested_at": "2026-04-18T20:32:43Z",
   "jurabk": "EuRHiÜbkErgVtr CHE",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f24f321828542fec51d475141f5aa6c59dc0458c51711d9b842b5a67c6e834cc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Ergänzung des Europäischen Übereinkommens über die Rechtshilfe in Strafsachen vom 20. April 1959 und die Erleichterung seiner Anwendung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

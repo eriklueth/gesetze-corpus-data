@@ -4,9 +4,11 @@
   "bjnr": "BJNR200940990",
   "eli": null,
   "gii_slug": "kaffee_bk1983orgvorrv",
-  "ingested_at": "2026-04-18T20:35:10Z",
   "jurabk": "KaffeeÜbk1983OrgVorRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "de730af2a492641386663286a6e8a6ba15a0186c73c23a2b0a1f9faf5f396167"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale Kaffee-Organisation gem. Art. 23 des Internationalen Kaffee-Übereinkommens von 1983 in der Fassung der Verlängerung vom 4. Juli 1989",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

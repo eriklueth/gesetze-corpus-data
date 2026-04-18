@@ -4,9 +4,12 @@
   "bjnr": "BJNR329500013",
   "eli": null,
   "gii_slug": "ehv_2020",
-  "ingested_at": "2026-04-18T20:32:07Z",
   "jurabk": "EHV 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "0404a7c83e64aa32b8489c67628f1b4aabdf78441e3cbd1d8996bac30e322c8b"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Treibhausgas-Emissionshandelsgesetzes in der Handelsperiode 2013 bis 2020",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR277010016",
   "eli": null,
   "gii_slug": "efbv_2017",
-  "ingested_at": "2026-04-18T20:31:58Z",
   "jurabk": "EfbV 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 31
+  },
   "source_hashes": {
     "source_xml_sha256": "edda9ad46f4826f6a4c4b9b48bb1e60a724cf20d682dbade180eeb322835be99"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über Entsorgungsfachbetriebe, technische Überwachungsorganisationen und Entsorgergemeinschaften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

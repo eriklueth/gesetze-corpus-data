@@ -4,9 +4,9 @@
   "bjnr": "BJNR008040970",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1970",
-  "ingested_at": "2026-04-18T20:37:20Z",
   "jurabk": "Münz5DMBek 1970",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "35a14d5ddfbaef69fb03e505402dd811bd8f9da575754b0996be595935c9c46a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Mercator-Gedenkmünze)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

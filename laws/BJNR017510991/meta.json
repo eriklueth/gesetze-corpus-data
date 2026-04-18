@@ -4,9 +4,12 @@
   "bjnr": "BJNR017510991",
   "eli": null,
   "gii_slug": "gesbergv",
-  "ingested_at": "2026-04-18T20:33:48Z",
   "jurabk": "GesBergV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 9,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "d2c4ffa423f184084ecd21db05696137adfe43b22e8323987db30198c2d2eccf"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Bergverordnung zum gesundheitlichen Schutz der Beschäftigten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

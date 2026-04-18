@@ -4,9 +4,9 @@
   "bjnr": "BJNR266800006",
   "eli": null,
   "gii_slug": "dpmahtdano",
-  "ingested_at": "2026-04-18T20:31:50Z",
   "jurabk": "DPMAhtDAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1d44c89242bdb88818be829ba97e57ccb25f643f82ff6d0139cc53821c18c327"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Einstellung von Beamtinnen und Beamten in den höheren technischen Dienst beim Deutschen Patent- und Markenamt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

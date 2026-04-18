@@ -4,9 +4,9 @@
   "bjnr": "BJNR201110990",
   "eli": null,
   "gii_slug": "auslfvtr_aus",
-  "ingested_at": "2026-04-18T20:29:09Z",
   "jurabk": "AuslfVtr AUS",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f9f32e0be8fe560cdbafbe2c7d66ba200579b17940415a794e37651e240e610e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und Australien über die Auslieferung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

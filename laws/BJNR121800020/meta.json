@@ -4,9 +4,12 @@
   "bjnr": "BJNR121800020",
   "eli": null,
   "gii_slug": "beherbmeldv",
-  "ingested_at": "2026-04-18T20:29:45Z",
   "jurabk": "BeherbMeldV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "e52e5133b059942815f73bc20f94d1b6bf852969aecc1b43f3013a79397cb792"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die elektronische Speicherung von Daten zur Einhaltung der besonderen Meldepflicht in Beherbergungsstätten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

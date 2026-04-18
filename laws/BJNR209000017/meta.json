@@ -4,9 +4,11 @@
   "bjnr": "BJNR209000017",
   "eli": null,
   "gii_slug": "trd_v",
-  "ingested_at": "2026-04-18T20:41:19Z",
   "jurabk": "TrDüV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "97402f73d80e7ebc14a55d78478a84a0b06ca42f7fd7e841352e14c838ffe59c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Datenübermittlung durch Mitteilungsverpflichtete und durch den Betreiber des Unternehmensregisters an das Transparenzregister",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

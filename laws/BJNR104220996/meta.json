@@ -4,9 +4,11 @@
   "bjnr": "BJNR104220996",
   "eli": null,
   "gii_slug": "binschabkgeorg",
-  "ingested_at": "2026-04-18T20:30:05Z",
   "jurabk": "BinSchAbkGEORG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "c54540193de1336b77e0fe0f1a1bae1d52ab435f9fad46f953913f0abe8d0019"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Abkommen vom 25. Juni 1993 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Georgien über die Binnenschiffahrt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

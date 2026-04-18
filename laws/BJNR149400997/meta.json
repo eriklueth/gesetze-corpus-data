@@ -4,9 +4,11 @@
   "bjnr": "BJNR149400997",
   "eli": null,
   "gii_slug": "afug_1997",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AFuG 1997",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "57dc50d31b6d9022db026ca23f58c024027dc1f98eceba2e899db5b8a57a9bc4"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über den Amateurfunk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

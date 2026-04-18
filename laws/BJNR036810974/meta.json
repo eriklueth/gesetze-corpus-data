@@ -4,9 +4,11 @@
   "bjnr": "BJNR036810974",
   "eli": null,
   "gii_slug": "ensig_1975",
-  "ingested_at": "2026-04-18T20:32:18Z",
   "jurabk": "EnSiG 1975",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 40
+  },
   "source_hashes": {
     "source_xml_sha256": "6c1bf6d402939bbe8120e63a82853a0f27eba8dfd266a4cd9e4ea3f84d76f642"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Sicherung der Energieversorgung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

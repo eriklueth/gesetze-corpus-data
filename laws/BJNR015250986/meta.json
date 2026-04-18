@@ -4,9 +4,9 @@
   "bjnr": "BJNR015250986",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1986-09",
-  "ingested_at": "2026-04-18T20:37:24Z",
   "jurabk": "Münz5DMBek 1986-09",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a39047f67e35ce9334936705a14e622146b29cf1d3c1e39d3c85233d4acfd4e1"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Gedenkmünze Friedrich der Große)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

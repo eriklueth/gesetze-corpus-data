@@ -4,9 +4,12 @@
   "bjnr": "BJNR193000017",
   "eli": null,
   "gii_slug": "prostav",
-  "ingested_at": "2026-04-18T20:38:33Z",
   "jurabk": "ProstAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "1bf6aa49d80e8af32a73fc4c73431bfd664fc718caa987f22a746a4722092d5c"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über das Verfahren zur Anmeldung einer Tätigkeit als Prostituierte oder Prostituierter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

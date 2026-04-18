@@ -4,9 +4,11 @@
   "bjnr": "BJNR265900017",
   "eli": null,
   "gii_slug": "binscharbzv",
-  "ingested_at": "2026-04-18T20:30:05Z",
   "jurabk": "BinSchArbZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "c865659c2ba8b234971624a166bbc19217de88cd6f96ab217f32a25a7766ecad"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Arbeitszeit in der Binnenschifffahrt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR464110002",
   "eli": null,
   "gii_slug": "bgl_2003",
-  "ingested_at": "2026-04-18T20:30:01Z",
   "jurabk": "BGL 2003",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "665ea20e8bc2b02fe0e8532c18f9877ace312005c65cee0fd5fded02ae372c78"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Bestimmung der Beiträge und Beitragszuschüsse in der Alterssicherung der Landwirte für 2003",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR371200021",
   "eli": null,
   "gii_slug": "brphv",
-  "ingested_at": "2026-04-18T20:30:45Z",
   "jurabk": "BRPHV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "656984a04f093ee0b96548bc6404d82b8db7550f882f9a5fecda275bf9294392"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Raumordnung im Bund für einen länderübergreifenden Hochwasserschutz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR017160984",
   "eli": null,
   "gii_slug": "khng",
-  "ingested_at": "2026-04-18T20:35:18Z",
   "jurabk": "KHNG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "4eabf9932568a140d49c297d93744a157f9e299327c10eaabf5e3d9d5863ee65"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Neuordnung der Krankenhausfinanzierung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

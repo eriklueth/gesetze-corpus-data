@@ -4,9 +4,11 @@
   "bjnr": "BJNR227410015",
   "eli": null,
   "gii_slug": "gleibwv_2015",
-  "ingested_at": "2026-04-18T20:34:04Z",
   "jurabk": "GleibWV 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 27
+  },
   "source_hashes": {
     "source_xml_sha256": "190713e410d1f91d372c77d22c31b446118a73873188aa6d8bf93d37cbc52234"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Wahl der Gleichstellungsbeauftragten und ihrer Stellvertreterinnen in Dienststellen des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR0800B0024",
   "eli": null,
   "gii_slug": "lfvv",
-  "ingested_at": "2026-04-18T20:35:51Z",
   "jurabk": "LFVV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "cf2e92cda3a12e152291fbf6b206b21dac62448a14f24fdba91d4180fce3fab5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung mit Durchführungsvorschriften über die Verbringung von Lebensmitteln und Futtermitteln in die Europäische Union und über die amtlichen Kontrollen der Verbringung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

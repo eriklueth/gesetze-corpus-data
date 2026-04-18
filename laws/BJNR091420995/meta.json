@@ -4,9 +4,11 @@
   "bjnr": "BJNR091420995",
   "eli": null,
   "gii_slug": "euvtr_bkprotg",
-  "ingested_at": "2026-04-18T20:32:54Z",
   "jurabk": "EuVtrÜbkProtG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "112e9c67e9113af56aaaf721e279be2dcb43d2ac67a16179367c455d88b1f156"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu den Protokollen vom 19. Dezember 1988 betreffend die Auslegung des Übereinkommens vom 19. Juni 1980 über das auf vertragliche Schuldverhältnisse anzuwendende Recht durch den Gerichtshof der Europäischen Gemeinschaften sowie zur Übertragung bestimmter Zuständigkeiten für die Auslegung dieses Übereinkommens auf den Gerichtshof der Europäischen Gemeinschaften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR298000002",
   "eli": null,
   "gii_slug": "fischetikettg",
-  "ingested_at": "2026-04-18T20:33:09Z",
   "jurabk": "FischEtikettG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "d17ec13ed84722ed040049aecf783d40a231c305dbb7fe190bced7b3608d69c2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über die Etikettierung von Fischen und Fischereierzeugnissen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

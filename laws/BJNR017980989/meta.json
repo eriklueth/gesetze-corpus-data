@@ -4,9 +4,11 @@
   "bjnr": "BJNR017980989",
   "eli": null,
   "gii_slug": "wospraug",
-  "ingested_at": "2026-04-18T20:42:30Z",
   "jurabk": "WOSprAuG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 42
+  },
   "source_hashes": {
     "source_xml_sha256": "251eb01305c3148f7fdac7a8b8afed47ce6c73e5f75e5786607c8209614e87de"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Erste Verordnung zur Durchführung des Sprecherausschußgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

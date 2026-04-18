@@ -4,9 +4,9 @@
   "bjnr": "BJNR464020002",
   "eli": null,
   "gii_slug": "gkvstabg_2003",
-  "ingested_at": "2026-04-18T20:34:00Z",
   "jurabk": "GKVStabG 2003",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "bbc90c84afe30ef9fd22a1c2da48941f751f0b1a29642dcde53e7a52934faed3"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Stabilisierung der Beitragssätze in der gesetzlichen Krankenversicherung im Jahre 2003",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

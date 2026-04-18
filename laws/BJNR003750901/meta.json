@@ -4,9 +4,9 @@
   "bjnr": "BJNR003750901",
   "eli": null,
   "gii_slug": "wzcribek",
-  "ingested_at": "2026-04-18T20:42:47Z",
   "jurabk": "WZCRIBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d0af7d13cbd1df3b18e3f7a6706accee93ba46c0bd1142d1262ed72002e48748"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Costa Rica",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

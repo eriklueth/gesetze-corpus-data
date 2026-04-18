@@ -4,9 +4,11 @@
   "bjnr": "BJNR008750956",
   "eli": null,
   "gii_slug": "ladschlg",
-  "ingested_at": "2026-04-18T20:35:46Z",
   "jurabk": "LadSchlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 28
+  },
   "source_hashes": {
     "source_xml_sha256": "5e695b152e79afe02dc49b63f4a61e217909451a14379f4d17b5d940c528c4a6"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über den Ladenschluss",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

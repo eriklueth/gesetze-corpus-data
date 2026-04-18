@@ -4,9 +4,9 @@
   "bjnr": "BJNR201330983",
   "eli": null,
   "gii_slug": "baktwaffvern_bk",
-  "ingested_at": "2026-04-18T20:29:21Z",
   "jurabk": "BaktWaffVernÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4f0e1ccf61dd4c58c0f93714fd05714a194b7cde8159c5672d7f363c0af873a7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über das Verbot der Entwicklung, Herstellung und Lagerung bakteriologischer (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

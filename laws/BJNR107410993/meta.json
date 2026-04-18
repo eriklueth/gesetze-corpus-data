@@ -4,9 +4,11 @@
   "bjnr": "BJNR107410993",
   "eli": null,
   "gii_slug": "asylblg",
-  "ingested_at": "2026-04-18T20:28:55Z",
   "jurabk": "AsylbLG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 31
+  },
   "source_hashes": {
     "source_xml_sha256": "77d5eb73070e0cf937a74a3b500bd28b9f30827961b2791b06d46d46b203924c"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Asylbewerberleistungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

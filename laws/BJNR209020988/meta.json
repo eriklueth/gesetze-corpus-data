@@ -4,9 +4,9 @@
   "bjnr": "BJNR209020988",
   "eli": null,
   "gii_slug": "ozons_bk",
-  "ingested_at": "2026-04-18T20:38:01Z",
   "jurabk": "OzonSÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c23e67d18941b0466919b09518b058b82dfa76ecda49b1a34d2ac18c2577fc9b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Wiener Übereinkommen zum Schutz der Ozonschicht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

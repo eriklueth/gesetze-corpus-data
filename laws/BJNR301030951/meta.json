@@ -4,9 +4,11 @@
   "bjnr": "BJNR301030951",
   "eli": null,
   "gii_slug": "btbrggo",
-  "ingested_at": "2026-04-18T20:30:54Z",
   "jurabk": "BTBRGGO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "4a8a064875ba76f07f7e620fdab01eba6cac1c6691dbc6337f99b71a7cf31570"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gemeinsame Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

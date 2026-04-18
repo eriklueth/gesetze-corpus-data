@@ -4,9 +4,12 @@
   "bjnr": "BJNR016900018",
   "eli": null,
   "gii_slug": "uerv",
-  "ingested_at": "2026-04-18T20:41:27Z",
   "jurabk": "UERV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 50
+  },
   "source_hashes": {
     "source_xml_sha256": "faa939db0274551d50c6eac5ba657f87fe13a4e0a33674991fa7baf69b4989dd"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Anrechnung von Upstream-Emissionsminderungen auf die Treibhausgasquote",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

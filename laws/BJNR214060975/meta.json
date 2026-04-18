@@ -4,9 +4,9 @@
   "bjnr": "BJNR214060975",
   "eli": null,
   "gii_slug": "bodseesch_bk",
-  "ingested_at": "2026-04-18T20:30:35Z",
   "jurabk": "BodSeeSchÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e18903f2406ac8f03407ef8df4ac86e675a8a9c86f412186bfc6ff3990b150bf"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Schiffahrt auf dem Bodensee",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

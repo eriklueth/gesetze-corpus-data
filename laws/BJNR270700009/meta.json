@@ -4,9 +4,11 @@
   "bjnr": "BJNR270700009",
   "eli": null,
   "gii_slug": "bkrg",
-  "ingested_at": "2026-04-18T20:30:16Z",
   "jurabk": "BKRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "f79a4335b067b2c935e53ba6e7f49d4ec80b2f87cb96626f5b9c0fe78bc64262"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Bundeskrebsregisterdatengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

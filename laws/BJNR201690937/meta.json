@@ -4,9 +4,9 @@
   "bjnr": "BJNR201690937",
   "eli": null,
   "gii_slug": "wzgbek_1937-06-03",
-  "ingested_at": "2026-04-18T20:42:47Z",
   "jurabk": "WZGBek 1937-06-03",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c8dc93c09c6160a00aebc39fd9327087032dfee3baa09616f31734ddea7da905"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zum Warenzeichengesetz über ein amtliches Prüfzeichen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

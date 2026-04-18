@@ -4,9 +4,11 @@
   "bjnr": "BJNR093110005",
   "eli": null,
   "gii_slug": "bbig_2005",
-  "ingested_at": "2026-04-18T20:29:31Z",
   "jurabk": "BBiG 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 121
+  },
   "source_hashes": {
     "source_xml_sha256": "9673fc56e4462dc8d028eba8cd2a9da97b8a2e38ad6eb41f7ee1e79b3773b601"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Berufsbildungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

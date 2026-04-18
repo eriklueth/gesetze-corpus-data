@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0400B0026",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Regelungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Regelungen",
         "Teil 2 Umsetzung der Richtlinie (EU) 2023/1544"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Regelungen",
         "Teil 2 Umsetzung der Richtlinie (EU) 2023/1544"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Regelungen",
         "Teil 2 Umsetzung der Richtlinie (EU) 2023/1544"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Regelungen",
         "Teil 2 Umsetzung der Richtlinie (EU) 2023/1544"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Regelungen",
         "Teil 2 Umsetzung der Richtlinie (EU) 2023/1544"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Teil 1 Allgemeine Regelungen",
         "Teil 3 (zukünftig in Kraft)",
@@ -73,6 +80,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Teil 1 Allgemeine Regelungen",
         "Teil 3 (zukünftig in Kraft)",
@@ -85,6 +93,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Regelungen",
         "Teil 4 Bußgeldvorschriften und Einschränkung eines Grundrechts"
@@ -95,6 +104,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Teil 1 Allgemeine Regelungen",
         "Teil 4 Bußgeldvorschriften und Einschränkung eines Grundrechts"

@@ -4,9 +4,11 @@
   "bjnr": "BJNR204500000",
   "eli": null,
   "gii_slug": "1-dm-goldm_nzg",
-  "ingested_at": "2026-04-18T20:27:57Z",
   "jurabk": "1-DM-GoldmünzG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "6ec63b23935813a6b5437f89d3e0e71f7a882b7580553373334836eda32f02f0"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der Stiftung \"Geld und Währung\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

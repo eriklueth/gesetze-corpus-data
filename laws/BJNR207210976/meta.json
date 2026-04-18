@@ -4,9 +4,9 @@
   "bjnr": "BJNR207210976",
   "eli": null,
   "gii_slug": "pctao",
-  "ingested_at": "2026-04-18T20:38:10Z",
   "jurabk": "PCTAO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3ccb250b330e99e79c5032fad9277a8c5996a98c278fed05a1f0d7488f70882b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Ausführungsordnung zum Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

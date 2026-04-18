@@ -4,9 +4,9 @@
   "bjnr": "BJNR020500993",
   "eli": null,
   "gii_slug": "gr_ndstvtrbb_mvbek",
-  "ingested_at": "2026-04-18T20:34:13Z",
   "jurabk": "GrÄndStVtrBB/MVBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d4d835683559fa586e3db227a638749ddfe802070c328ddf4300b6176501964b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertrages zwischen dem Land Brandenburg und dem Land Mecklenburg-Vorpommern über die Änderung der gemeinsamen Landesgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

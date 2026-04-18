@@ -4,9 +4,9 @@
   "bjnr": "BJNR202640957",
   "eli": null,
   "gii_slug": "aufsratvtr_che",
-  "ingested_at": "2026-04-18T20:29:01Z",
   "jurabk": "AufsRatVtr CHE",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "cf3a89f9731592604be822fe56fab8c2d7b2b8e53d130b17fcb9134b906ec91d"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Regelung von Fragen, welche die Aufsichtsräte der in der Bundesrepublik Deutschland zum Betrieb von Grenzkraftwerken am Rhein errichteten Aktiengesellschaften betreffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

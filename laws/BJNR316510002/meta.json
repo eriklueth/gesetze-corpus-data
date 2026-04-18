@@ -4,9 +4,11 @@
   "bjnr": "BJNR316510002",
   "eli": null,
   "gii_slug": "zustanpg_2002",
-  "ingested_at": "2026-04-18T20:43:23Z",
   "jurabk": "ZustAnpG 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "3edc19d15ec9df42c9367d9bf50d5638d524870983278fca858e8d0f40389cdc"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Anpassung von Rechtsvorschriften an veränderte Zuständigkeiten oder Behördenbezeichnungen innerhalb der Bundesregierung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

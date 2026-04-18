@@ -4,9 +4,12 @@
   "bjnr": "BJNR173400009",
   "eli": null,
   "gii_slug": "sdlwindv",
-  "ingested_at": "2026-04-18T20:39:42Z",
   "jurabk": "SDLWindV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "a521cf7a3f528bef0331e7d41f0d845916f65210b9f57c9057ad7d4ca93cc66c"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zu Systemdienstleistungen durch Windenergieanlagen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

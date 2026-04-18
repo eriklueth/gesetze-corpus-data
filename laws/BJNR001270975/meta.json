@@ -4,9 +4,9 @@
   "bjnr": "BJNR001270975",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1975-01-08",
-  "ingested_at": "2026-04-18T20:37:22Z",
   "jurabk": "Münz5DMBek 1975-01-08",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "27f3baa9abc2b6c082037fe4afbe034658a14fa3bc54de4da8806e19d9cd9d72"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

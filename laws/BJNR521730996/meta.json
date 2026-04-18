@@ -4,9 +4,9 @@
   "bjnr": "BJNR521730996",
   "eli": null,
   "gii_slug": "luftvodv_173",
-  "ingested_at": "2026-04-18T20:36:06Z",
   "jurabk": "LuftVODV 173",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e92bcd3ffaa57eb092bfa8027c5bca751eea4842ea14a753501ffa3ae12bda15"
   },
@@ -26,5 +26,5 @@
     }
   ],
   "title": "Hundertdreiundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Paderborn-Lippstadt)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

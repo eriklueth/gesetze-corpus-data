@@ -4,9 +4,11 @@
   "bjnr": "BJNR115420981",
   "eli": null,
   "gii_slug": "afwog",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AFWoG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "794a12261f51bae9820cb64d43b1764f35c025505274bc2df08b9df1232a6610"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über den Abbau der Fehlsubventionierung im Wohnungswesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

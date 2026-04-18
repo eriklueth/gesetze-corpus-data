@@ -4,9 +4,11 @@
   "bjnr": "BJNR006620953",
   "eli": null,
   "gii_slug": "gruwerl",
-  "ingested_at": "2026-04-18T20:34:18Z",
   "jurabk": "GruWErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "96cea485ce72a9c6a8b1d433c2c4cd7224860e3b60dd847fffa7a601d976ce8f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Erlaß über die Stiftung des Grubenwehr-Ehrenzeichens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

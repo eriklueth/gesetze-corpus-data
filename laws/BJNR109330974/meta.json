@@ -4,9 +4,11 @@
   "bjnr": "BJNR109330974",
   "eli": null,
   "gii_slug": "erbstg_1974",
-  "ingested_at": "2026-04-18T20:32:23Z",
   "jurabk": "ErbStG 1974",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 47
+  },
   "source_hashes": {
     "source_xml_sha256": "acbbc6eee96f5dc6e9ac7f0dd3651ff77473e92c90a161e2e4df1f56cee34323"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Erbschaftsteuer- und Schenkungsteuergesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

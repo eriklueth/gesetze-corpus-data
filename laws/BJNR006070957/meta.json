@@ -4,9 +4,9 @@
   "bjnr": "BJNR006070957",
   "eli": null,
   "gii_slug": "beamthaftgrcbek",
-  "ingested_at": "2026-04-18T20:29:37Z",
   "jurabk": "BeamtHaftGRCBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "28769c2a1dfee9d019b876592c61bd9a100efccc68e4e6c569d8754e0cac451b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten gegenüber den Angehörigen des Königreichs Griechenland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

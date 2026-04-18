@@ -4,9 +4,11 @@
   "bjnr": "BJNR352000004",
   "eli": null,
   "gii_slug": "ejtanv",
-  "ingested_at": "2026-04-18T20:32:09Z",
   "jurabk": "EJTAnV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "5d95cfb196c1009542e5d9f1491ea9b0f1089a43bfa5e4d58f6bb6bb31cfc0bd"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Benennung und Einrichtung der nationalen Eurojust-Anlaufstelle für Terrorismusfragen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

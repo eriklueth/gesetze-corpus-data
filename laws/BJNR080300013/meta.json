@@ -4,9 +4,11 @@
   "bjnr": "BJNR080300013",
   "eli": null,
   "gii_slug": "seeazv",
-  "ingested_at": "2026-04-18T20:39:42Z",
   "jurabk": "SeeAZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "8c898b3447989486b0760169eedf18bb95430069fee7cf20ca7c0ed797b3a031"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Arbeitszeit der Arbeitnehmerinnen und Arbeitnehmer als Besatzungen von Schiffen und Booten im Geschäftsbereich des Bundesministeriums der Verteidigung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

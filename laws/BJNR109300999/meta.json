@@ -4,9 +4,9 @@
   "bjnr": "BJNR109300999",
   "eli": null,
   "gii_slug": "bkwid_bvtrano",
-  "ingested_at": "2026-04-18T20:30:16Z",
   "jurabk": "BKWid/BVtrAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "070d77ef7144e130d64da955ba631a962596af39d2d1f222596ec977b86820ca"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen in Angelegenheiten nach dem Bundesumzugskostengesetz von Beschäftigten des Bundeskanzleramtes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

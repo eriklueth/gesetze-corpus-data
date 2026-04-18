@@ -4,9 +4,12 @@
   "bjnr": "BJNR285210009",
   "eli": null,
   "gii_slug": "gpv",
-  "ingested_at": "2026-04-18T20:34:08Z",
   "jurabk": "GPV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "4fed381cd7f74b25c33147c2c39b6c634338d63b8db49c76b08c583386914313"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Zulassung privater Gegenprobensachverständiger und über Regelungen für amtliche Gegenproben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

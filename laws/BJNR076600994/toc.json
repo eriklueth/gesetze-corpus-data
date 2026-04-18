@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR076600994",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0003.md",
       "heading": "Überleitungsregelungen",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0004.md",
       "heading": "Inkrafttreten",

@@ -4,9 +4,11 @@
   "bjnr": "BJNR138600011",
   "eli": null,
   "gii_slug": "ztrv",
-  "ingested_at": "2026-04-18T20:43:19Z",
   "jurabk": "ZTRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "cfecde6e962a4249298f6d2fb1e4861a379d7979d0a33fa2f0c5ab0fc401ccb9"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Einrichtung und Führung des Zentralen Testamentsregisters",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

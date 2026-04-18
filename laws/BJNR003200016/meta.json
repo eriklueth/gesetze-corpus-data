@@ -4,9 +4,9 @@
   "bjnr": "BJNR003200016",
   "eli": null,
   "gii_slug": "stromstg_10abs3uabek_2016",
-  "ingested_at": "2026-04-18T20:40:49Z",
   "jurabk": "StromStG§10Abs3uaBek 2016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3d8e829c13807a2e78dae28d18365166fea0c361852d18b56f330f9ed073b08c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

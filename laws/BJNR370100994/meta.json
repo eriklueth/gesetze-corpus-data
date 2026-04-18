@@ -4,9 +4,12 @@
   "bjnr": "BJNR370100994",
   "eli": null,
   "gii_slug": "spv",
-  "ingested_at": "2026-04-18T20:40:33Z",
   "jurabk": "SPV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 8,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "eb85d8d721bb031685228ce3a781091e5977b05f5caaf2e5c34865facdae5a7b"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Sonderungsplanverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

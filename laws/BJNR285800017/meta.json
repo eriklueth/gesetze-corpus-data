@@ -4,9 +4,12 @@
   "bjnr": "BJNR285800017",
   "eli": null,
   "gii_slug": "berversv_2017",
-  "ingested_at": "2026-04-18T20:29:49Z",
   "jurabk": "BerVersV 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "2bc50fcf82a092c07e6c56f74a9c7d76a11f52d50b39ca45ae52f3cf07d58519"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berichterstattung von Versicherungsunternehmen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

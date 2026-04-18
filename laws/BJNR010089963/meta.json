@@ -4,9 +4,11 @@
   "bjnr": "BJNR010089963",
   "eli": null,
   "gii_slug": "rag_6",
-  "ingested_at": "2026-04-18T20:28:17Z",
   "jurabk": "RAG 6",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "81c03ccbc9cca588ea66f5906108b030a62301c73a28b9553c8a2152acfeec22"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Sechstes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

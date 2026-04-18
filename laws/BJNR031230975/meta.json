@@ -4,9 +4,11 @@
   "bjnr": "BJNR031230975",
   "eli": null,
   "gii_slug": "w_hrumstabschlg",
-  "ingested_at": "2026-04-18T20:42:14Z",
   "jurabk": "WährUmStAbschlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "af322ec425b56602629987b30e26d67986240345a7c586f2f1c5064f3d6c45bd"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zum Abschluß der Währungsumstellung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

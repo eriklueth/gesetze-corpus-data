@@ -4,9 +4,9 @@
   "bjnr": "BJNR025040990",
   "eli": null,
   "gii_slug": "krabwfbek",
-  "ingested_at": "2026-04-18T20:35:30Z",
   "jurabk": "KrAbwFBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "bb648851d6b3d05b264b464433969dac0cb656a82b6ff3e809621c9ffc1c3fae"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Eintragung von verzinslichen Schatzanweisungen des Fonds \"Kreditabwicklungsfonds\" in das Schuldbuch des Fonds \"Kreditabwicklungsfonds\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

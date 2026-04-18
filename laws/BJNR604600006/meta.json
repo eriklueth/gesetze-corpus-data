@@ -4,9 +4,11 @@
   "bjnr": "BJNR604600006",
   "eli": null,
   "gii_slug": "blauzungenschv_2006",
-  "ingested_at": "2026-04-18T20:30:16Z",
   "jurabk": "BlauzungenSchV 2006",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "8c1cb313b3feffd1e9ea3edbe85a873de66770eb0728082c79b838ac1a0ae28f"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung gemeinschaftsrechtlicher und unionsrechtlicher Vorschriften über Maßnahmen zur Bekämpfung, Überwachung und Beobachtung der Blauzungenkrankheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

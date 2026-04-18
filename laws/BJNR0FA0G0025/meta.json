@@ -4,9 +4,9 @@
   "bjnr": "BJNR0FA0G0025",
   "eli": null,
   "gii_slug": "btgo2025anl_5_bes",
-  "ingested_at": "2026-04-18T20:30:57Z",
   "jurabk": "BTGO2025Anl 5/Bes",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "25fefad8db55b43985ffb6638dee387356a287322a2e5608e5f287d81279856c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Beschluss des Deutschen Bundestages betreffend die Aufhebung der Immunität von Mitgliedern des Bundestages (Anlage 5 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

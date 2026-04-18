@@ -4,9 +4,9 @@
   "bjnr": "BJNR002500964",
   "eli": null,
   "gii_slug": "bpr_skldgbrdschano",
-  "ingested_at": "2026-04-18T20:30:43Z",
   "jurabk": "BPräsKldgBrdSchAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "32255fbd123c8f9ac3a50bb16bbe4ce5e9e5b04ecd3c08f1a31fb0bc34734812"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der Beamten des Brandschutzdienstes der Bundeswehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

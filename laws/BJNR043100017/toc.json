@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR043100017",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Begriffsbestimmungen",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001a.md",
       "heading": "Hauptzollamt; örtliche Zuständigkeit",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Alkoholgehalt",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Alkoholmenge",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Steuerlager, Anforderung an die Einrichtung",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Steuerlagerinhaber, Antrag auf Erlaubnis",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Steuerlagerinhaber, Erteilung der Erlaubnis",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Sicherheitsleistung",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007a.md",
       "heading": "Überprüfung der Erlaubnis",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Änderung von Verhältnissen",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Steuerlagerinhaber; Erlöschen und Fortbestand der Erlaubnis",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Belegheft, Buchführung",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Vollständige Zerstörung, unwiederbringlicher Gesamt- oder Teilverlust und Vernichtung",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Bestandsaufnahme im Steuerlager",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Fehlmengen im Steuerlager",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Zwangsanfall",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Aufnahme von Abfindungsalkohol",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0015a.md",
       "heading": "Amtliche Bescheinigung für unabhängige Hersteller",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Registrierter Empfänger",
@@ -136,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Registrierter Versender",
@@ -143,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Begünstigte, Ausstellen der Freistellungsbescheinigung",
@@ -150,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0019.md",
       "heading": "Antrag auf Erlaubnis zum Betrieb einer Abfindungsbrennerei",
@@ -157,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0020.md",
       "heading": "Erteilung der Erlaubnis zum Betrieb einer Abfindungsbrennerei",
@@ -164,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0021.md",
       "heading": "Erlöschen und Fortbestand der Erlaubnis zum Betrieb einer Abfindungsbrennerei",
@@ -171,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0022.md",
       "heading": "Belegheft, Aufzeichnungen",
@@ -178,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0023.md",
       "heading": "Gewinnung von Alkohol in einer Abfindungsbrennerei, Abfindungsanmeldung",
@@ -185,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0024.md",
       "heading": "Amtliche Ausbeutesätze der zugelassenen Rohstoffe",
@@ -192,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0025.md",
       "heading": "Verarbeitung nicht selbstgewonnener Rohstoffe",
@@ -199,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0026.md",
       "heading": "Vereinfachtes Lohnbrennen",
@@ -206,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0027.md",
       "heading": "Stoffbesitzer",
@@ -213,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0028.md",
       "heading": "Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren",
@@ -220,6 +251,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0029.md",
       "heading": "Erstellen des elektronischen Verwaltungsdokuments; Mitführen des eindeutigen Referenzcodes",
@@ -227,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0030.md",
       "heading": "Mitführen der Freistellungsbescheinigung",
@@ -234,6 +267,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0031.md",
       "heading": "Annullierung des elektronischen Verwaltungsdokuments",
@@ -241,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0032.md",
       "heading": "Änderung des Bestimmungsorts oder des Empfängers von Alkoholerzeugnissen bei Verwendung des elektronischen Verwaltungsdokuments",
@@ -248,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0033.md",
       "heading": "Eingangs- und Ausfuhrmeldung bei Verwendung des elektronischen Verwaltungsdokuments, Streckengeschäft",
@@ -255,6 +291,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0034.md",
       "heading": "Beförderungen im Steuergebiet in Sonderfällen",
@@ -262,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [],
       "file": "paragraphs/0035.md",
       "heading": "Beförderungen im Steuergebiet in Betriebe von Verwendern",
@@ -269,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0036.md",
       "heading": "Beginn einer Beförderung im Ausfallverfahren",
@@ -276,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0037.md",
       "heading": "Annullierung im Ausfallverfahren",
@@ -283,6 +323,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0038.md",
       "heading": "Änderung des Bestimmungsorts oder des Empfängers von Alkoholerzeugnissen im Ausfallverfahren",
@@ -290,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0039.md",
       "heading": "Eingangs- und Ausfuhrmeldung im Ausfallverfahren",
@@ -297,6 +339,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0040.md",
       "heading": "Ersatznachweise für die Beendigung der Beförderung",
@@ -304,6 +347,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0041.md",
       "heading": "Art und Höhe der Sicherheitsleistung",
@@ -311,6 +355,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0042.md",
       "heading": "Unregelmäßigkeiten während der Beförderung unter Steueraussetzung",
@@ -318,6 +363,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0043.md",
       "heading": "(weggefallen)",
@@ -325,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0044.md",
       "heading": "Steueranmeldung",
@@ -332,6 +379,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0045.md",
       "heading": "Kleinbetragsregelung",
@@ -339,6 +387,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0046.md",
       "heading": "Anmeldung der Alkoholerzeugnisse",
@@ -346,6 +395,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0047.md",
       "heading": "Beförderungen zu privaten Zwecken",
@@ -353,6 +403,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0048.md",
       "heading": "Zertifizierter Empfänger",
@@ -360,6 +411,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0048a.md",
       "heading": "Zertifizierter Versender",
@@ -367,6 +419,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0048b.md",
       "heading": "Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem; Ausfallverfahren und vereinfachte Verfahren",
@@ -374,6 +427,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0048c.md",
       "heading": "Erstellen des vereinfachten elektronischen Verwaltungsdokuments",
@@ -381,6 +435,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0048d.md",
       "heading": "Änderung des Bestimmungsorts bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments",
@@ -388,6 +443,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0048e.md",
       "heading": "Eingangsmeldung bei Verwendung des vereinfachten elektronischen Verwaltungsdokuments",
@@ -395,6 +451,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0048f.md",
       "heading": "Beförderung im Ausfallverfahren",
@@ -402,6 +459,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0048g.md",
       "heading": "Ersatznachweise für die Beendigung der Beförderung",
@@ -409,6 +467,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0049.md",
       "heading": "(weggefallen)",
@@ -416,6 +475,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0050.md",
       "heading": "Versandhandel",
@@ -423,6 +483,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0051.md",
       "heading": "Unregelmäßigkeiten während der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs",
@@ -430,6 +491,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0051a.md",
       "heading": "Steueranmeldung; Kleinbetragsregelung",
@@ -437,6 +499,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0052.md",
       "heading": "Vergällung von Alkohol",
@@ -444,6 +507,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0053.md",
       "heading": "Vollständig vergällter Alkohol",
@@ -451,6 +515,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0054.md",
       "heading": "Zugelassene Vergällungsmittel",
@@ -458,6 +523,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0055.md",
       "heading": "Entgällung, Absehen von der Vergällung",
@@ -465,6 +531,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0056.md",
       "heading": "Steuerfreie Alkoholerzeugnisse aus vergällten Alkoholerzeugnissen",
@@ -472,6 +539,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0057.md",
       "heading": "Allgemeine Verwendungserlaubnis",
@@ -479,6 +547,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0058.md",
       "heading": "Antrag auf Erlaubnis zur steuerfreien Verwendung",
@@ -486,6 +555,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0059.md",
       "heading": "Erteilung der Erlaubnis, Erlaubnisschein",
@@ -493,6 +563,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0060.md",
       "heading": "Belegheft, Buchführung",
@@ -500,6 +571,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0061.md",
       "heading": "Lagerung, Bestandsaufnahme",
@@ -507,6 +579,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0062.md",
       "heading": "Abgabe von Alkoholerzeugnissen, zweckwidrige Verwendung",
@@ -514,6 +587,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0063.md",
       "heading": "Steuerentlastung im Steuergebiet",
@@ -521,6 +595,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0064.md",
       "heading": "Steuerentlastung bei der Beförderung von Alkoholerzeugnissen des steuerrechtlich freien Verkehrs",
@@ -528,6 +603,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0065.md",
       "heading": "Anmeldungen im Rahmen der Steueraufsicht",
@@ -535,6 +611,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0066.md",
       "heading": "Unterstützungspflichten",
@@ -542,6 +619,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0067.md",
       "heading": "Probenentnahme im Rahmen der Steueraufsicht",
@@ -549,6 +627,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0068.md",
       "heading": "Gewerbliche Nutzung von Brenngeräten",
@@ -556,6 +635,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0069.md",
       "heading": "Zur Gärung verwendete Gefäße",
@@ -563,6 +643,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/0070.md",
       "heading": "(weggefallen)",
@@ -570,6 +651,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0077.md",
       "heading": "Ordnungswidrigkeiten",
@@ -577,6 +659,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0078.md",
       "heading": "Übergangsvorschriften",

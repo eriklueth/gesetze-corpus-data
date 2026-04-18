@@ -4,9 +4,9 @@
   "bjnr": "BJNR204690954",
   "eli": null,
   "gii_slug": "_fischkkonvg",
-  "ingested_at": "2026-04-18T20:41:26Z",
   "jurabk": "ÜFischKKonvG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "84d1c8edeced6a83ac3b7f936ed43834c9a77fbea2302020d518e9dade95ca78"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über den Beitritt der Bundesrepublik Deutschland zur Konvention vom 5. April 1946 der Internationalen Überfischungskonferenz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

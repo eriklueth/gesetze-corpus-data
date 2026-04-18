@@ -4,9 +4,9 @@
   "bjnr": "BJNR034160976",
   "eli": null,
   "gii_slug": "bmpzversano_6",
-  "ingested_at": "2026-04-18T20:30:30Z",
   "jurabk": "BMPZVersAnO 6",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1836d283928e17c70baa1544cc56c9876b1b5e5fc55e729431f96cab3ef6d839"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Sechste Anordnung über die Übertragung von Zuständigkeiten auf dem Gebiet der beamtenrechtlichen Versorgung usw. im Dienstbereich des Bundesministers für das Post- und Fernmeldewesen - 5. Ergänzung der ZOVers -",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

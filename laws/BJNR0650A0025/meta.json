@@ -4,9 +4,11 @@
   "bjnr": "BJNR0650A0025",
   "eli": null,
   "gii_slug": "stiftpkg",
-  "ingested_at": "2026-04-18T20:40:43Z",
   "jurabk": "StiftPKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "c21148cc68500b5f63e7318dd1e82c4b097d81e858ef0b2885e49ef26be335a0"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Stiftung Preußischer Kulturbesitz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

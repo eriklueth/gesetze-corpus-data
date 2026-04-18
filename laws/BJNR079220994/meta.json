@@ -4,9 +4,9 @@
   "bjnr": "BJNR079220994",
   "eli": null,
   "gii_slug": "dubl_bk",
-  "ingested_at": "2026-04-18T20:31:52Z",
   "jurabk": "DublÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "815684f1b0269dd5f07cec6b28a7b237590f0cd405b9da0de86df5d364fd4343"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat der Europäischen Gemeinschaften gestellten Asylantrags",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

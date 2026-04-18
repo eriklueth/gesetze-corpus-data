@@ -4,9 +4,11 @@
   "bjnr": "BJNR019450971",
   "eli": null,
   "gii_slug": "wostichprg_1972",
-  "ingested_at": "2026-04-18T20:42:30Z",
   "jurabk": "WoStichPrG 1972",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "33a023271abf62908f0af09c1cfb00c5bad5599fc802bba27305f157cde2b9fe"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Durchführung einer Repräsentativstatistik auf dem Gebiete des Wohnungswesens und des Städtebaus",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

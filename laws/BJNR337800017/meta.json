@@ -4,9 +4,12 @@
   "bjnr": "BJNR337800017",
   "eli": null,
   "gii_slug": "egvv",
-  "ingested_at": "2026-04-18T20:32:03Z",
   "jurabk": "EgVV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "0be400f68bb2ef01cdb4f4f0164555d52c5ce97ea6ca3b7597922200e9372d76"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Erstellung der gesamtwirtschaftlichen Vorausschätzungen der Bundesregierung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

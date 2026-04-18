@@ -4,9 +4,11 @@
   "bjnr": "BJNR025499989",
   "eli": null,
   "gii_slug": "_appro_ndv_7",
-  "ingested_at": "2026-04-18T20:28:25Z",
   "jurabk": "ÄApprOÄndV 7",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "c23008006d4e80593ab05f093825b88c1b5105d0b148b764d5e256e40262e2f6"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Siebente Verordnung zur Änderung der Approbationsordnung für Ärzte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

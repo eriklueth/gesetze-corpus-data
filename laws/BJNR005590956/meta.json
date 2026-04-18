@@ -4,9 +4,9 @@
   "bjnr": "BJNR005590956",
   "eli": null,
   "gii_slug": "beg_ndg_3",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BEGÄndG 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8de127df86dd313ea00504af981d815707ec6eb991eabb6ae89f8fd638369119"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Drittes Gesetz zur Änderung des Bundesergänzungsgesetzes zur Entschädigung für Opfer der nationalsozialistischen Verfolgung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR701500948",
   "eli": null,
   "gii_slug": "m_nz1pfbek_1948",
-  "ingested_at": "2026-04-18T20:37:05Z",
   "jurabk": "Münz1PfBek 1948",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "791aa6b004391afb3929496cb30d1494af26865a4ddb623b153ec106df409b90"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

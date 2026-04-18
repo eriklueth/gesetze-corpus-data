@@ -4,9 +4,11 @@
   "bjnr": "BJNR008180970",
   "eli": null,
   "gii_slug": "opragebg",
-  "ingested_at": "2026-04-18T20:37:57Z",
   "jurabk": "OPrAGebG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "9e6edd9609df8193c074bfaa8e0983d0156da0ee8abf2b06e4af794d95dca0b6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Gebühren des Oberprüfungsamtes für die höheren technischen Verwaltungsbeamten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

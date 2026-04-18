@@ -4,9 +4,9 @@
   "bjnr": "BJNR633500020",
   "eli": null,
   "gii_slug": "sgb92018__160abs3ua_wmvo_39abs4bek",
-  "ingested_at": "2026-04-18T20:39:59Z",
   "jurabk": "SGB92018§§160Abs3ua/WMVO§39Abs4Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "037837b65c803d14b92081c59208fc69a14aca3a3cc7f04935b29ce5ef7e3217"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Anpassung der Ausgleichsabgabe (§ 160 Absatz 3 des Neunten Buches Sozialgesetzbuch [SGB IX]), der Eigenbeteiligung für die unentgeltliche Beförderung (§ 228 Absatz 2 Satz 2 SGB IX), der übernahmefähigen Kinderbetreuungskosten (§ 74 Absatz 3 Satz 3 SGB IX) und der Finanzierung der Werkstatträte Deutschland (§ 39 Absatz 4 Satz 1 der Werkstättenmitwirkungsverordnung)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

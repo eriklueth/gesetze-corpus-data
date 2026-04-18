@@ -4,9 +4,11 @@
   "bjnr": "BJNR228900021",
   "eli": null,
   "gii_slug": "baspoermv",
-  "ingested_at": "2026-04-18T20:29:25Z",
   "jurabk": "BASPOErmV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "610c460142063c2873f9c6bc644a2a6055d6c742a3ed35656085d0f368168ec0"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Ermächtigung zum Erlass von Prüfungsordnungen durch das Bundesamt für Soziale Sicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

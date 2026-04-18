@@ -4,9 +4,11 @@
   "bjnr": "BJNR329200013",
   "eli": null,
   "gii_slug": "fluglsv_3",
-  "ingested_at": "2026-04-18T20:28:09Z",
   "jurabk": "FlugLSV 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "9149f700705ffa78d8835ddc3d3f89039c1149d02cc78fb792220faaefe176fa"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Dritte Verordnung zur Durchführung des Gesetzes zum Schutz gegen Fluglärm",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR074400019",
   "eli": null,
   "gii_slug": "dhrv",
-  "ingested_at": "2026-04-18T20:31:42Z",
   "jurabk": "DHRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 33
+  },
   "source_hashes": {
     "source_xml_sha256": "f78ffd53c082c9653f9eb8bf3725334140536598ff48898f997dbefacdc990da"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über das Deutsche Hämophilieregister",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

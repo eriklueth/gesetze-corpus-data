@@ -4,9 +4,11 @@
   "bjnr": "BJNR020570991",
   "eli": null,
   "gii_slug": "rv-bzv",
-  "ingested_at": "2026-04-18T20:39:09Z",
   "jurabk": "RV-BZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "2650c96eb5c108405afea8a98637bba19ba290192791ba16894973d324d67656"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Zahlung von Beiträgen zur gesetzlichen Rentenversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

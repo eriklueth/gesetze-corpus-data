@@ -4,9 +4,11 @@
   "bjnr": "BJNR188620993",
   "eli": null,
   "gii_slug": "dbache1971prot1992g",
-  "ingested_at": "2026-04-18T20:31:28Z",
   "jurabk": "DBACHE1971Prot1992G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "7e02cb780582e566ad55b0067164b858449fd5effb79cf6ed6a4e9c61412189e"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Protokoll vom 21. Dezember 1992 zu dem Abkommen vom 11. August 1971 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

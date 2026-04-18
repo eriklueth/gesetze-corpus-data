@@ -4,9 +4,12 @@
   "bjnr": "BJNR003900020",
   "eli": null,
   "gii_slug": "hebstprv",
-  "ingested_at": "2026-04-18T20:34:24Z",
   "jurabk": "HebStPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 13,
+    "paragraph": 67
+  },
   "source_hashes": {
     "source_xml_sha256": "a46f510c0b655c3e587d7268ed8b9a3d2d6de4187de20a0bf4ef24c130505a24"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Studien- und Prüfungsverordnung für Hebammen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

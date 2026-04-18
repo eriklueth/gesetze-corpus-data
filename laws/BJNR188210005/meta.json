@@ -4,9 +4,12 @@
   "bjnr": "BJNR188210005",
   "eli": null,
   "gii_slug": "fpersv",
-  "ingested_at": "2026-04-18T20:33:24Z",
   "jurabk": "FPersV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 27
+  },
   "source_hashes": {
     "source_xml_sha256": "bc1ea7eb5509a95dd7fe2bf039f122934b2800746850912e3a16fbcc75da17f4"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Fahrpersonalgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

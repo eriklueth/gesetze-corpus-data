@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR030159975",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "-",
         "Art II Übergangs- und Schlußvorschriften",
@@ -14,6 +15,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "-",
         "Art II Übergangs- und Schlußvorschriften",

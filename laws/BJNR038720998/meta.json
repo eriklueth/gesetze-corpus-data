@@ -4,9 +4,9 @@
   "bjnr": "BJNR038720998",
   "eli": null,
   "gii_slug": "euvtr_amst",
-  "ingested_at": "2026-04-18T20:32:54Z",
   "jurabk": "EUVtr Amst",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1cccdae80984ffb0036e54d9fe5b1380a7f9aa5d5db6b0abcc86220362fea329"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag von Amsterdam zur Änderung des Vertrags über die Europäische Union, der Verträge zur Gründung der Europäischen Gemeinschaften sowie einiger damit zusammenhängender Rechtsakte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

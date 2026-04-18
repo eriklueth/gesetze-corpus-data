@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR201100014",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -68,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -90,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -123,6 +135,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -134,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -145,6 +159,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -156,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -167,6 +183,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 2 Regelungen im Zusammenhang mit dem Inverkehrbringen von Messgeräten",
@@ -178,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -189,6 +207,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -200,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -211,6 +231,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -222,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -233,6 +255,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -244,6 +267,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -255,6 +279,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -266,6 +291,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -277,6 +303,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -288,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 4 Pflichten der Verwender",
@@ -299,6 +327,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 5 Eichung und Befundprüfung"
@@ -309,6 +338,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 5 Eichung und Befundprüfung"
@@ -319,6 +349,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 5 Eichung und Befundprüfung"
@@ -329,6 +360,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 5 Eichung und Befundprüfung"
@@ -339,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 5 Eichung und Befundprüfung"
@@ -349,6 +382,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 5 Eichung und Befundprüfung"
@@ -359,6 +393,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 5 Eichung und Befundprüfung"
@@ -369,6 +404,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 6 Softwareaktualisierung"
@@ -379,6 +415,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 6 Softwareaktualisierung"
@@ -389,6 +426,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -400,6 +438,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -411,6 +450,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -422,6 +462,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -433,6 +474,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -444,6 +486,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -455,6 +498,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -466,6 +510,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -477,6 +522,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -488,6 +534,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -499,6 +546,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -510,6 +558,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -521,6 +570,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -532,6 +582,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 7 Prüfstellen für die Eichung von Messgeräten für Elektrizität, Gas, Wasser oder Wärme und Instandsetzer",
@@ -543,6 +594,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 8 Meldeverfahren der Behörden"
@@ -553,6 +605,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
@@ -563,6 +616,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
@@ -573,6 +627,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
@@ -583,6 +638,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
@@ -593,6 +649,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
@@ -603,6 +660,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 19,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
@@ -613,6 +671,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
@@ -623,6 +682,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
@@ -633,6 +693,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"
@@ -643,6 +704,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich, Ausnahmen, Begriffsbestimmungen",
         "Abschnitt 9 Bußgeldvorschriften, Übergangs- und Schlussbestimmungen"

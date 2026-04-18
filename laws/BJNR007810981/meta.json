@@ -4,9 +4,12 @@
   "bjnr": "BJNR007810981",
   "eli": null,
   "gii_slug": "pelzvausbv",
-  "ingested_at": "2026-04-18T20:38:10Z",
   "jurabk": "PelzVAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "45ca37096d5d9ee3e5261d8f1e6f9e9406abe7b838d5309c286d8c99fb368ffe"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Pelzveredler/zur Pelzveredlerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

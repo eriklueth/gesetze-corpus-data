@@ -4,9 +4,9 @@
   "bjnr": "BJNR208230956",
   "eli": null,
   "gii_slug": "laabk_swe",
-  "ingested_at": "2026-04-18T20:35:46Z",
   "jurabk": "LAAbk SWE",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e8888d152018dd897edeeb43754637a63e717ffb94e859eded0ea23db30d6b55"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden zum deutschen Lastenausgleich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

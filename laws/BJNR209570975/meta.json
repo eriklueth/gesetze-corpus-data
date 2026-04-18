@@ -4,9 +4,11 @@
   "bjnr": "BJNR209570975",
   "eli": null,
   "gii_slug": "athaft_bkg",
-  "ingested_at": "2026-04-18T20:28:56Z",
   "jurabk": "AtHaftÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "67362edd7e29766fb125214fda1ecbf891138e169fd04ab46455e0ea3429ef83"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie nebst Zusatzvereinbarungen, zu dem Übereinkommen vom 25. Mai 1962 über die Haftung der Inhaber von Reaktorschiffen nebst Zusatzprotokoll und zu dem Übereinkommen vom 17. Dezember 1971 über die zivilrechtliche Haftung bei der Beförderung von Kernmaterial auf See",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

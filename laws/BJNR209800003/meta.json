@@ -4,9 +4,12 @@
   "bjnr": "BJNR209800003",
   "eli": null,
   "gii_slug": "zuckartv_2003",
-  "ingested_at": "2026-04-18T20:43:19Z",
   "jurabk": "ZuckArtV 2003",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "ca1d370d04f8b83cd8151990793cd33120dc4d47890e6da7baa58261d1f9ffab"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über einige zur menschlichen Ernährung bestimmte Zuckerarten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

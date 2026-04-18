@@ -4,9 +4,11 @@
   "bjnr": "BJNR006050958",
   "eli": null,
   "gii_slug": "preisstatg",
-  "ingested_at": "2026-04-18T20:38:33Z",
   "jurabk": "PreisStatG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "1a462fa31258df18f7d9a1a82f7d451aaa8821c4994f541658009fdb4c8bb551"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Preisstatistik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

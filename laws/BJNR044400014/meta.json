@@ -4,9 +4,12 @@
   "bjnr": "BJNR044400014",
   "eli": null,
   "gii_slug": "s__wausbv",
-  "ingested_at": "2026-04-18T20:40:56Z",
   "jurabk": "SüßwAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "6a566e08a366ec45010172558904a2d9e236e9813c28134ff5697f28520e8980"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Süßwarentechnologen und zur Süßwarentechnologin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

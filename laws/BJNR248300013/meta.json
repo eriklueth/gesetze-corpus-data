@@ -4,9 +4,11 @@
   "bjnr": "BJNR248300013",
   "eli": null,
   "gii_slug": "karbv",
-  "ingested_at": "2026-04-18T20:35:14Z",
   "jurabk": "KARBV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 36
+  },
   "source_hashes": {
     "source_xml_sha256": "38ac05b51687c9ed4fbbebbed60cc5464ec4ffae99257e7d34587bac0a3ef829"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Inhalt, Umfang und Darstellung der Rechnungslegung von Sondervermögen, Investmentaktiengesellschaften und Investmentkommanditgesellschaften sowie über die Bewertung der zu dem Investmentvermögen gehörenden Vermögensgegenstände",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

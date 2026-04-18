@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR182700006",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -83,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -94,6 +103,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -105,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -116,6 +127,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -127,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -138,6 +151,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -149,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -160,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -171,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -182,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -193,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -204,6 +223,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -215,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -226,6 +247,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -237,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -248,6 +271,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -259,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -270,6 +295,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -281,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -292,6 +319,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -303,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -314,6 +343,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -325,6 +355,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -336,6 +367,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -347,6 +379,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -358,6 +391,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -369,6 +403,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -380,6 +415,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -391,6 +427,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -402,6 +439,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -413,6 +451,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -424,6 +463,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -435,6 +475,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -446,6 +487,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -457,6 +499,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -468,6 +511,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -479,6 +523,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -490,6 +535,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -501,6 +547,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -512,6 +559,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -523,6 +571,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -534,6 +583,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -545,6 +595,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -556,6 +607,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -567,6 +619,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 2 Prüfungsvorschriften",
@@ -578,6 +631,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 3 Der praktische Studienteil"
@@ -588,6 +642,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 3 Der praktische Studienteil",
@@ -599,6 +654,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 3 Der praktische Studienteil",
@@ -610,6 +666,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 3 Der praktische Studienteil",
@@ -621,6 +678,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 3 Der praktische Studienteil",
@@ -632,6 +690,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 3 Der praktische Studienteil",
@@ -643,6 +702,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 3 Der praktische Studienteil",
@@ -654,6 +714,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 3 Der praktische Studienteil",
@@ -665,6 +726,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 3 Der praktische Studienteil",
@@ -676,6 +738,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 4 Die Approbation"
@@ -686,6 +749,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 4 Die Approbation"
@@ -696,6 +760,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -706,6 +771,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -716,6 +782,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -726,6 +793,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -736,6 +804,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -746,6 +815,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -756,6 +826,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -766,6 +837,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -776,6 +848,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -786,6 +859,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -796,6 +870,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -806,6 +881,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -816,6 +892,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -826,6 +903,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -836,6 +914,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -846,6 +925,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -856,6 +936,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"
@@ -866,6 +947,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Die tierärztliche Ausbildung",
         "Abschnitt 5 Ergänzende Vorschriften"

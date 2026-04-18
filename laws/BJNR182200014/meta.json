@@ -4,9 +4,11 @@
   "bjnr": "BJNR182200014",
   "eli": null,
   "gii_slug": "luftvstfestv_2015",
-  "ingested_at": "2026-04-18T20:36:21Z",
   "jurabk": "LuftVStFestV 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "f0a12b68705739ca441f6d8333aaa45c4525835fa0f8270700957066d68f9a1b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Festlegung der Steuersätze im Jahr 2015 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

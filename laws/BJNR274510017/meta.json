@@ -4,9 +4,11 @@
   "bjnr": "BJNR274510017",
   "eli": null,
   "gii_slug": "vdg",
-  "ingested_at": "2026-04-18T20:41:42Z",
   "jurabk": "VDG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 21
+  },
   "source_hashes": {
     "source_xml_sha256": "b464c9cb6d78275a158616a0acbc50bf420ba48db6bdddd95cabd27b4b92e0b1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Vertrauensdienstegesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

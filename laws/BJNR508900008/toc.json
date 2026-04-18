@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR508900008",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Geltungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Notfallausrüstung *% (zu OPS 1.005 Abs. b und § 19 Abs. 2 LuftBO)",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Unfallverhütung und Flugsicherheitsprogramm *% (zu OPS 1.035 und 1.037)",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Zutritt zum Führerraum *% (zu OPS 1.100 Abs. a Nr. 3)",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Mindestsichten für den Flugbetrieb nach Sichtflugregeln *% (zu Anhang 1 zu OPS 1.465)",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Rückhaltesysteme für Kleinkinder *% (zu OPS 1.730)",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Instandhaltungsbestimmungen für Luftfahrtunternehmen mit einer Betriebsgenehmigung für gewerbsmäßige Rundflüge *% (zu OPS 1.875)",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Flug- und Dienstzeit-Begrenzung *% (zu OPS 1.1100)",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Höchstzulässige ununterbrochene Dienstzeit *% (zu OPS 1.1105)",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Höchstzulässige tägliche Flugdienstzeit für den Flugbetrieb mit nur einem Piloten und für medizinische Notfalleinsätze *% (zu OPS 1.1105)",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Unterbrochene Flugdienstzeit *% (zu OPS 1.1105)",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Ruhezeit - Berücksichtigung von Zeitzonenunterschieden *% (zu OPS 1.1110 Nr. 1.3)",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Verkürzte Ruhezeiten in besonderen Fällen *% (zu OPS 1.1110 Nr. 1.4.1 und 2.1)",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Verlängerung der Flugdienstzeit aufgrund einer Ruhezeit während des Flugs *% (zu OPS 1.1115)",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Bereitschaft *% (zu OPS 1.1125)",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Schulungsprogramme *% (zu OPS 1.1240)",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Inkrafttreten, Außerkrafttreten",

@@ -4,9 +4,11 @@
   "bjnr": "BJNR169810005",
   "eli": null,
   "gii_slug": "wppg",
-  "ingested_at": "2026-04-18T20:42:36Z",
   "jurabk": "WpPG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "c593d29bcf7fdb028433a8d0b66832978aa33861b93e92f2116f440774592896"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Erstellung, Billigung und Veröffentlichung des Prospekts, der beim öffentlichen Angebot von Wertpapieren oder bei der Zulassung von Wertpapieren zum Handel an einem organisierten Markt zu veröffentlichen ist",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

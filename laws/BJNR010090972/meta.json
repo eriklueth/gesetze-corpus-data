@@ -4,9 +4,11 @@
   "bjnr": "BJNR010090972",
   "eli": null,
   "gii_slug": "khg",
-  "ingested_at": "2026-04-18T20:35:18Z",
   "jurabk": "KHG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 61
+  },
   "source_hashes": {
     "source_xml_sha256": "94b119b67c86ebe9379f0edeb72f242b2f82ca047305a3bba45d0a25984f5316"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Gesetz zur wirtschaftlichen Sicherung der Krankenhäuser und zur Regelung der Krankenhauspflegesätze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

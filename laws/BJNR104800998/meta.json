@@ -4,9 +4,11 @@
   "bjnr": "BJNR104800998",
   "eli": null,
   "gii_slug": "kl_rev",
-  "ingested_at": "2026-04-18T20:35:22Z",
   "jurabk": "KlärEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "d9dcab3e7b16a64a9ced71307d83f4e867282b754e31325ab2cbd35ed6f94af3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über den Klärschlamm-Entschädigungsfonds",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

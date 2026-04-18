@@ -4,9 +4,9 @@
   "bjnr": "BJNR080110997",
   "eli": null,
   "gii_slug": "markeng_34abs2bek97",
-  "ingested_at": "2026-04-18T20:36:24Z",
   "jurabk": "MarkenG§34Abs2Bek97",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "262591b4aed710472fecbd845e02999425a06eadb486c1f0f1f9ccf55b763e81"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 34 Abs. 2 des Markengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

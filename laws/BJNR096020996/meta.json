@@ -4,9 +4,9 @@
   "bjnr": "BJNR096020996",
   "eli": null,
   "gii_slug": "grberichtvtrnld2zusprot",
-  "ingested_at": "2026-04-18T20:34:15Z",
   "jurabk": "GrBerichtVtrNLD2ZusProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5a2bbd6a49fac110a2b3087f042eed54963ab8a91948e4c260392dc8998a8208"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zusatzprotokoll zum Zweiten Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über Grenzberichtigungen (Zweiter Grenzberichtigungsvertrag)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

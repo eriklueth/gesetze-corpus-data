@@ -4,9 +4,11 @@
   "bjnr": "BJNR203820990",
   "eli": null,
   "gii_slug": "sozsichrheinschiff_bkvwvbgg",
-  "ingested_at": "2026-04-18T20:40:31Z",
   "jurabk": "SozSichRheinSchiffÜbkVwVbgG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "46f7c0c1ae5adb3d297152a8f9d59bfa6fcc69a9f30ba0b7ffc47bd852256a0e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu der Verwaltungsvereinbarung vom 26. November 1987 zur Durchführung des Übereinkommens vom 30. November 1979 über die Soziale Sicherheit der Rheinschiffer",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

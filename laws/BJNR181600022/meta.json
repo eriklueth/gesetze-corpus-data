@@ -4,9 +4,12 @@
   "bjnr": "BJNR181600022",
   "eli": null,
   "gii_slug": "tambv",
-  "ingested_at": "2026-04-18T20:41:02Z",
   "jurabk": "TAmbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "0ccaf917c1054e5455d0011b298095a7a20ddce2d085a3e0371b80c79b5ec69b"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die von den Traumaambulanzen in der Sozialen Entschädigung zu erfüllenden Qualitätskriterien und die Pflichten der Traumaambulanz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

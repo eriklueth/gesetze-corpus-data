@@ -4,9 +4,11 @@
   "bjnr": "BJNR287910016",
   "eli": null,
   "gii_slug": "emvg_2016",
-  "ingested_at": "2026-04-18T20:32:17Z",
   "jurabk": "EMVG 2016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 35
+  },
   "source_hashes": {
     "source_xml_sha256": "fb5a18315dbe5df42005abc59297705d937ca6d38ac7185fd24ad0a4ea3f8ada"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die elektromagnetische Verträglichkeit von Betriebsmitteln",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

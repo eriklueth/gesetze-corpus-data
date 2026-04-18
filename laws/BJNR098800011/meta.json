@@ -4,9 +4,12 @@
   "bjnr": "BJNR098800011",
   "eli": null,
   "gii_slug": "packmausbv",
-  "ingested_at": "2026-04-18T20:38:01Z",
   "jurabk": "PackmAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "8b6444bec730f8c6297d5aac82c2ce38465bb4d58d741980492535015550a1a1"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

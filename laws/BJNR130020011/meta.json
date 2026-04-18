@@ -4,9 +4,12 @@
   "bjnr": "BJNR130020011",
   "eli": null,
   "gii_slug": "rheinschpersev",
-  "ingested_at": "2026-04-18T20:39:00Z",
   "jurabk": "RheinSchPersEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "article": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "d92e0b9c35bf5f71f5e10fe3f1333852f6763ceffe388dccf17a9fcb29c28fc7"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Einführung der Verordnung über das Schiffspersonal auf dem Rhein",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

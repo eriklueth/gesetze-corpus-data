@@ -4,9 +4,11 @@
   "bjnr": "BJNR211389991",
   "eli": null,
   "gii_slug": "wismutagabkg",
-  "ingested_at": "2026-04-18T20:42:28Z",
   "jurabk": "WismutAGAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "4836f143091b9b7ebc7500a0b7e40ea69019b786aea87e7c773fade8a3eb1343"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Abkommen vom 16. Mai 1991 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Union der Sozialistischen Sowjetrepubliken über die Beendigung der Tätigkeit der Sowjetisch-Deutschen Aktiengesellschaft Wismut",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

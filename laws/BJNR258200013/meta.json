@@ -4,9 +4,11 @@
   "bjnr": "BJNR258200013",
   "eli": null,
   "gii_slug": "plfzv",
-  "ingested_at": "2026-04-18T20:38:25Z",
   "jurabk": "PlfZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "098406801fe08a5f83874c8f5eaf84508e4ec403da15b92d028aa564dad5b4ea"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Zuweisung der Planfeststellung für länderübergreifende und grenzüberschreitende Höchstspannungsleitungen auf die Bundesnetzagentur",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

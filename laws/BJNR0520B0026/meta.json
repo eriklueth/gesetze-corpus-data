@@ -4,9 +4,11 @@
   "bjnr": "BJNR0520B0026",
   "eli": null,
   "gii_slug": "kpang",
-  "ingested_at": "2026-04-18T20:35:30Z",
   "jurabk": "KPAnG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "10667793409f88b9cfb5fd5c019b77c7d2485986feba0f4c22dae4072c30a45a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Anpassung von Kraftstoffpreisen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

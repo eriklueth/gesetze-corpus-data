@@ -4,9 +4,11 @@
   "bjnr": "BJNR209610985",
   "eli": null,
   "gii_slug": "sozsichvorv",
-  "ingested_at": "2026-04-18T20:40:31Z",
   "jurabk": "SozSichVoRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "3ca86c79b5de0f9e1fc4ed7f5c179b0b63b4fa53ed63b0775554024dda99fa54"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung diplomatischer Vorrechte und Immunitäten im Bereich der Sozialen Sicherheit an durch zwischenstaatliche Vereinbarungen geschaffene Organisationen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

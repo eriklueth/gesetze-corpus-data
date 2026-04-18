@@ -4,9 +4,12 @@
   "bjnr": "BJNR050900014",
   "eli": null,
   "gii_slug": "ezhdlfachwprv",
-  "ingested_at": "2026-04-18T20:32:57Z",
   "jurabk": "EzHdlFachwPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "f6ffcc682a096460b4e8af79c343ddbe7cb80fc41519921be4250156ae5f8971"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Vertrieb im Einzelhandel und Geprüfte Fachwirtin für Vertrieb im Einzelhandel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

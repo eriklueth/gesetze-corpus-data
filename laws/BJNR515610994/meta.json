@@ -4,9 +4,9 @@
   "bjnr": "BJNR515610994",
   "eli": null,
   "gii_slug": "luftvodv_148",
-  "ingested_at": "2026-04-18T20:36:03Z",
   "jurabk": "LuftVODV 148",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9d0a380c974483171fe22a87fa5f2bde856554c245ad61a756a8bd33c4e55b28"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Hundertachtundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Verkehrslandeplatz Hof)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

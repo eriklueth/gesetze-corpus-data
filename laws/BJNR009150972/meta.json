@@ -4,9 +4,11 @@
   "bjnr": "BJNR009150972",
   "eli": null,
   "gii_slug": "rindtbv",
-  "ingested_at": "2026-04-18T20:39:03Z",
   "jurabk": "RindTbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "ca685c6b86dcc16557e4f8d3551bb99e74cc8feeb959471256a2c48d3a066371"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zum Schutz gegen die Tuberkulose des Rindes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

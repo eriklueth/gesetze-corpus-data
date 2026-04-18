@@ -4,9 +4,11 @@
   "bjnr": "BJNR003670959",
   "eli": null,
   "gii_slug": "sparsichsaarg",
-  "ingested_at": "2026-04-18T20:40:32Z",
   "jurabk": "SparSichSaarG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "8485cd150d91fa40eb7e5a70e861b2ae1fdc2249b596fad33991d45d0a61cce1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Sicherung von Ersparnissen im Saarland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

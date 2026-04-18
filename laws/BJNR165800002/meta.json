@@ -4,9 +4,12 @@
   "bjnr": "BJNR165800002",
   "eli": null,
   "gii_slug": "fovg",
-  "ingested_at": "2026-04-18T20:33:24Z",
   "jurabk": "FoVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 25
+  },
   "source_hashes": {
     "source_xml_sha256": "c9aac6d91fa0a34560506f1788cc4ca85985429645a6acb0956a57b5bf486527"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Forstvermehrungsgutgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

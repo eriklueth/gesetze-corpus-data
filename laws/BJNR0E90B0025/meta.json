@@ -4,9 +4,11 @@
   "bjnr": "BJNR0E90B0025",
   "eli": null,
   "gii_slug": "battdg",
-  "ingested_at": "2026-04-18T20:29:28Z",
   "jurabk": "BattDG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 64
+  },
   "source_hashes": {
     "source_xml_sha256": "637c035cdfeef896d0dc9e24e663a88a9a882c34950c6c3fe65363cbaf2f7c2d"
   },
@@ -34,5 +36,5 @@
     }
   ],
   "title": "Gesetz zur Durchführung der Verordnung (EU) 2023/1542 betreffend Batterien und Altbatterien",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

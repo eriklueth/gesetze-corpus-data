@@ -4,9 +4,9 @@
   "bjnr": "BJNR920110989",
   "eli": null,
   "gii_slug": "bkorgerl_1989-10",
-  "ingested_at": "2026-04-18T20:30:13Z",
   "jurabk": "BKOrgErl 1989-10",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "442892eb557e1a8754a3ad2a8c33f585fa731751e368c34c35ea1e0de74b9eeb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Organisationserlaß des Bundeskanzlers",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

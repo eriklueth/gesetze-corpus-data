@@ -4,9 +4,11 @@
   "bjnr": "BJNR148900007",
   "eli": null,
   "gii_slug": "glprzkaiserslauternv",
-  "ingested_at": "2026-04-18T20:34:04Z",
   "jurabk": "GlPrZKaiserslauternV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "9d637baa6514b403a696f494fa01625aa81e20b018bd6521a07ea19621383eef"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule - Handwerksberufe - an der Berufsbildenden Schule des Bezirksverbandes Pfalz in Kaiserslautern mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

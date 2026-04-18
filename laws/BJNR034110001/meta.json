@@ -4,9 +4,9 @@
   "bjnr": "BJNR034110001",
   "eli": null,
   "gii_slug": "patinfozbek_2001-02",
-  "ingested_at": "2026-04-18T20:38:06Z",
   "jurabk": "PatInfoZBek 2001-02",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6f02752026f0736b0e6e95acced2dfc9f3621769b905635a697242c11ce8382d"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der zur Entgegennahme von Patent- und Gebrauchsmusteranmeldungen befugten Patentinformationszentren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

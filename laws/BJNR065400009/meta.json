@@ -4,9 +4,12 @@
   "bjnr": "BJNR065400009",
   "eli": null,
   "gii_slug": "musikfachhausbv",
-  "ingested_at": "2026-04-18T20:37:26Z",
   "jurabk": "MusikfachhAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "d18ea81d6f4e15519b7ffd26859a63472f148c247bc9b7e5cb77c9ea19f0b7b8"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

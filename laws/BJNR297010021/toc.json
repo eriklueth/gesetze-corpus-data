@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR297010021",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 2 Anforderungen an die Barrierefreiheit"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 2 Anforderungen an die Barrierefreiheit"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 2 Anforderungen an die Barrierefreiheit"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 2 Anforderungen an die Barrierefreiheit"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 2 Anforderungen an die Barrierefreiheit"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 3 Pflichten der Wirtschaftsakteure"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 3 Pflichten der Wirtschaftsakteure"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 3 Pflichten der Wirtschaftsakteure"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 3 Pflichten der Wirtschaftsakteure"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 3 Pflichten der Wirtschaftsakteure"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 3 Pflichten der Wirtschaftsakteure"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 3 Pflichten der Wirtschaftsakteure"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 3 Pflichten der Wirtschaftsakteure"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 3 Pflichten der Wirtschaftsakteure"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 3 Pflichten der Wirtschaftsakteure"
@@ -171,6 +188,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 4 Grundlegende Veränderungen von Produkten oder Dienstleistungen und unverhältnismäßige Belastungen für die Wirtschaftsakteure"
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 4 Grundlegende Veränderungen von Produkten oder Dienstleistungen und unverhältnismäßige Belastungen für die Wirtschaftsakteure"
@@ -191,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 5 CE-Kennzeichnung"
@@ -201,6 +221,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 5 CE-Kennzeichnung"
@@ -211,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 6 Marktüberwachung von Produkten"
@@ -221,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 6 Marktüberwachung von Produkten"
@@ -231,6 +254,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 6 Marktüberwachung von Produkten"
@@ -241,6 +265,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 6 Marktüberwachung von Produkten"
@@ -251,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 6 Marktüberwachung von Produkten"
@@ -261,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 6 Marktüberwachung von Produkten"
@@ -271,6 +298,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 6 Marktüberwachung von Produkten"
@@ -281,6 +309,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 6 Marktüberwachung von Produkten"
@@ -291,6 +320,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 7 Marktüberwachung von Dienstleistungen"
@@ -301,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 7 Marktüberwachung von Dienstleistungen"
@@ -311,6 +342,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 7 Marktüberwachung von Dienstleistungen"
@@ -321,6 +353,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 7 Marktüberwachung von Dienstleistungen"
@@ -331,6 +364,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 8 Verwaltungsverfahren, Rechtsbehelfe, Schlichtung"
@@ -341,6 +375,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 8 Verwaltungsverfahren, Rechtsbehelfe, Schlichtung"
@@ -351,6 +386,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 8 Verwaltungsverfahren, Rechtsbehelfe, Schlichtung"
@@ -361,6 +397,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 9 Auskunftspflichten der Wirtschaftsakteure"
@@ -371,6 +408,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
@@ -381,6 +419,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
@@ -391,6 +430,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
@@ -401,6 +441,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
@@ -411,6 +452,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
@@ -421,6 +463,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"
@@ -431,6 +474,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zweck, Anwendungsbereich, Begriffsbestimmungen",
         "Abschnitt 10 Berichterstattung, Bußgeldvorschriften und Übergangsbestimmungen"

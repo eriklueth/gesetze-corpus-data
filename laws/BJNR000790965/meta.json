@@ -4,9 +4,11 @@
   "bjnr": "BJNR000790965",
   "eli": null,
   "gii_slug": "nsverbg",
-  "ingested_at": "2026-04-18T20:37:49Z",
   "jurabk": "NSVerbG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 35
+  },
   "source_hashes": {
     "source_xml_sha256": "543381c6d87e35692cc7e43abb3d52a87cdee675aea1c517d364f4d0e72bb04b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Regelung der Verbindlichkeiten nationalsozialistischer Einrichtungen und der Rechtsverhältnisse an deren Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

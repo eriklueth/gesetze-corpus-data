@@ -4,9 +4,12 @@
   "bjnr": "BJNR341500017",
   "eli": null,
   "gii_slug": "nsgpbrv",
-  "ingested_at": "2026-04-18T20:37:45Z",
   "jurabk": "NSGPBRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "9d086222e0b1dd205053dede71d0019674444c5bb8620952771450b5b4874f17"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Festsetzung des Naturschutzgebietes „Pommersche Bucht – Rönnebank“",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

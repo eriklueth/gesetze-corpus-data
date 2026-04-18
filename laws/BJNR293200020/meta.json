@@ -4,9 +4,11 @@
   "bjnr": "BJNR293200020",
   "eli": null,
   "gii_slug": "sgb7_178abs1v_2",
-  "ingested_at": "2026-04-18T20:39:56Z",
   "jurabk": "SGB7§178Abs1V 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "a11a72b317ee5c3992642eba357914389689d4325063f4d253e86fef7b638629"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Verordnung zur Neufestsetzung der Neurenten-Faktoren nach § 178 Absatz 1 des Siebten Buches Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

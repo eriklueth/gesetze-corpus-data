@@ -4,9 +4,9 @@
   "bjnr": "BJNR209010988",
   "eli": null,
   "gii_slug": "ozons_bkg",
-  "ingested_at": "2026-04-18T20:38:01Z",
   "jurabk": "OzonSÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "11f112704741b2fe27a4f3ce798c27db8a5119e548182af3720a0dd7d6d5927c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Übereinkommen vom 22. März 1985 zum Schutz der Ozonschicht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

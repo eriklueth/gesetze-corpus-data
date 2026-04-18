@@ -4,9 +4,11 @@
   "bjnr": "BJNR343500994",
   "eli": null,
   "gii_slug": "ebarbschv",
-  "ingested_at": "2026-04-18T20:31:55Z",
   "jurabk": "EBArbSchV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "3eed798654cd05dae164f0bcf8603e3d8e211940f12fc8fff48b5945a7864074"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Übertragung von Zuständigkeiten im Bereich des technischen Arbeitsschutzes bei Eisenbahnen des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

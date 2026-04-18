@@ -4,9 +4,11 @@
   "bjnr": "BJNR005700957",
   "eli": null,
   "gii_slug": "schiedsamtso",
-  "ingested_at": "2026-04-18T20:39:31Z",
   "jurabk": "SchiedsAmtsO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "f7d0ec6dba718814d5a4e5b0e055650cb66ac3a244df20230078cc64307c5389"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Schiedsämter für die vertragsärztliche (vertragszahnärztliche) Versorgung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

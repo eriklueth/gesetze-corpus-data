@@ -4,9 +4,9 @@
   "bjnr": "BJNR213600022",
   "eli": null,
   "gii_slug": "versorgausglumrfaktorbek_2023",
-  "ingested_at": "2026-04-18T20:41:54Z",
   "jurabk": "VersorgAusglUmrFaktorBek 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "10b27c65045131888d966dc100d54068e9ca53e06a8f6324eed65f5a68136dca"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Umrechnungsfaktoren für den Versorgungsausgleich in der Rentenversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

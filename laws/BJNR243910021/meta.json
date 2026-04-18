@@ -4,9 +4,11 @@
   "bjnr": "BJNR243910021",
   "eli": null,
   "gii_slug": "reifkennzv_2021",
-  "ingested_at": "2026-04-18T20:38:55Z",
   "jurabk": "ReifKennzV 2021",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "5141a9940b36a777610ed19f9477b134ced2eb49bcd3736c28d1d9ed2ce7f61f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung der Verordnung (EU) 2020/740 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere Parameter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

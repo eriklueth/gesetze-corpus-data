@@ -4,9 +4,11 @@
   "bjnr": "BJNR010820960",
   "eli": null,
   "gii_slug": "azg",
-  "ingested_at": "2026-04-18T20:29:17Z",
   "jurabk": "AZG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "393cbc17405699c1c9d12ed0025066f6d2c84c7086d3e65c98bac72d26079b33"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Anteilzollgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

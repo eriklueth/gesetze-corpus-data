@@ -4,9 +4,9 @@
   "bjnr": "BJNR207300999",
   "eli": null,
   "gii_slug": "bfarmsitzbek",
-  "ingested_at": "2026-04-18T20:29:54Z",
   "jurabk": "BfArMSitzBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "98d5a959bd8a3644d539825ff323a29cc9a958d680818d1fd0d637520e057aa3"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Dienstsitz des Bundesinstituts für Arzneimittel und Medizinprodukte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

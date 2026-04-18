@@ -4,9 +4,9 @@
   "bjnr": "BJNR007680968",
   "eli": null,
   "gii_slug": "bverkehrz_nderl",
-  "ingested_at": "2026-04-18T20:31:09Z",
   "jurabk": "BVerkEhrZÄndErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "33ebd937a52373a6d2fcd07aa8bc5518f2ce4531651e04a0b5c8671a20f85fa6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlaß über die Genehmigung einer Änderung der Benennung und der Form des \"Ehrenzeichens der Bundesverkehrswacht\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

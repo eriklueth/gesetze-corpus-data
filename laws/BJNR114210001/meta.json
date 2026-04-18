@@ -4,9 +4,11 @@
   "bjnr": "BJNR114210001",
   "eli": null,
   "gii_slug": "puag",
-  "ingested_at": "2026-04-18T20:38:38Z",
   "jurabk": "PUAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 36
+  },
   "source_hashes": {
     "source_xml_sha256": "7580d464dc5bdc324eebab22ea53b4fc8a8ad3504bab0fa429018cfe940faa6e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Regelung des Rechts der Untersuchungsausschüsse des Deutschen Bundestages",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

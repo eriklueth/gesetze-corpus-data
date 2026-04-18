@@ -4,9 +4,11 @@
   "bjnr": "BJNR014770965",
   "eli": null,
   "gii_slug": "fgo",
-  "ingested_at": "2026-04-18T20:33:05Z",
   "jurabk": "FGO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 167
+  },
   "source_hashes": {
     "source_xml_sha256": "c69ba0e365fb8437ba951109d865eb97a0a50d7fe2d6bb71b4d742d0b09559c7"
   },
@@ -42,5 +44,5 @@
     }
   ],
   "title": "Finanzgerichtsordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

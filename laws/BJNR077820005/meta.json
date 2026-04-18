@@ -4,9 +4,9 @@
   "bjnr": "BJNR077820005",
   "eli": null,
   "gii_slug": "gii050778",
-  "ingested_at": "2026-04-18T20:33:56Z",
   "jurabk": "GII050778",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "be9db95952104fa6de1a60964aee09b08c8c58814d99c571a3651b5f2a03d4fb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem OCCAR-Geheimschutzübereinkommen vom 24. September 2004",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

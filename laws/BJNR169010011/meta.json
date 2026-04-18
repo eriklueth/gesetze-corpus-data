@@ -4,9 +4,11 @@
   "bjnr": "BJNR169010011",
   "eli": null,
   "gii_slug": "nabeg",
-  "ingested_at": "2026-04-18T20:37:29Z",
   "jurabk": "NABEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 41
+  },
   "source_hashes": {
     "source_xml_sha256": "f2fd7c47d5a74a24da9cfa3901dd2ba67ccff40ec8002a39d3c9694b4521426a"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Netzausbaubeschleunigungsgesetz Übertragungsnetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

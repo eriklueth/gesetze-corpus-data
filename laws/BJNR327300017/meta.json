@@ -4,9 +4,11 @@
   "bjnr": "BJNR327300017",
   "eli": null,
   "gii_slug": "gfwtdbwvdv",
-  "ingested_at": "2026-04-18T20:34:19Z",
   "jurabk": "GfwtDBwVDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 64
+  },
   "source_hashes": {
     "source_xml_sha256": "adb133f4457695f1c8c6ce45d945e1d7da78d62532385774c71288bda670989c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über den Vorbereitungsdienst für den gehobenen technischen Verwaltungsdienst in der Bundeswehr im Verwendungsbereich Brandschutz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

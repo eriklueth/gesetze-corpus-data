@@ -4,9 +4,11 @@
   "bjnr": "BJNR0E40A0024",
   "eli": null,
   "gii_slug": "bbfestv_2024",
-  "ingested_at": "2026-04-18T20:29:29Z",
   "jurabk": "BBFestV 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "9f70b7a04810bc0997de9b11ca45980f2100422b991255920e5793bff513e5d4"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2024",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

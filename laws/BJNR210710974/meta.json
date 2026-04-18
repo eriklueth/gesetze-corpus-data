@@ -4,9 +4,9 @@
   "bjnr": "BJNR210710974",
   "eli": null,
   "gii_slug": "urkbefrvtr_ita",
-  "ingested_at": "2026-04-18T20:41:34Z",
   "jurabk": "UrkBefrVtr ITA",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "22a12fbf581d77d8a227b86f3e4a744d9251a4767d6b90ba04867ab73399f37e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Italienischen Republik über den Verzicht auf die Legalisation von Urkunden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

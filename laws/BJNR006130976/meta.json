@@ -4,9 +4,12 @@
   "bjnr": "BJNR006130976",
   "eli": null,
   "gii_slug": "ao_1977",
-  "ingested_at": "2026-04-18T20:28:50Z",
   "jurabk": "AO 1977",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 501
+  },
   "source_hashes": {
     "source_xml_sha256": "b3b07bd6b48d72160a2d8ef44a2654cfddede2aaeddd2c8fd26f4def2cdbfac1"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Abgabenordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

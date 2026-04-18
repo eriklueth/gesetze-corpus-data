@@ -4,9 +4,9 @@
   "bjnr": "BJNR512400962",
   "eli": null,
   "gii_slug": "bvwasozhzustano",
-  "ingested_at": "2026-04-18T20:31:13Z",
   "jurabk": "BVwASozHZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "972d73619d91c2a3485c6ee26dcea77cda7a5ec0f20fae15130c587721ab0511"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Wahrnehmung von Zuständigkeiten auf dem Gebiet der Sozialhilfe durch das Bundesverwaltungsamt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

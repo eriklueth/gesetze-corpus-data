@@ -4,9 +4,11 @@
   "bjnr": "BJNR203750929",
   "eli": null,
   "gii_slug": "mindlohn_bkg",
-  "ingested_at": "2026-04-18T20:36:35Z",
   "jurabk": "MindlohnÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "a6cfea3e95ccdfafa34edd466193a2cdf2e3dd5ecbf8926ea291388b5773ab73"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz betreffend das Internationale Übereinkommen über die Einrichtung von Verfahren zur Festsetzung von Mindestlöhnen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR157400007",
   "eli": null,
   "gii_slug": "gewebeg",
-  "ingested_at": "2026-04-18T20:33:52Z",
   "jurabk": "GewebeG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "792ba39b5713064a8ac7ed14a78e54b4642db6cc0d5ec2ab826b4c9306e0bba7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Qualität und Sicherheit von menschlichen Geweben und Zellen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

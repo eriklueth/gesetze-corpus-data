@@ -4,9 +4,11 @@
   "bjnr": "BJNR166400020",
   "eli": null,
   "gii_slug": "j_dmilseelsg",
-  "ingested_at": "2026-04-18T20:35:06Z",
   "jurabk": "JüdMilSeelsG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "98a821c300fc4014ef267b73aa5a906bd21b485b6b0651444a2ecd82e131f599"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 20. Dezember 2019 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des Öffentlichen Rechts – zur Regelung der jüdischen Militärseelsorge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

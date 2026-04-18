@@ -4,9 +4,9 @@
   "bjnr": "BJNR100810994",
   "eli": null,
   "gii_slug": "m_nz10dmbek_1994-02",
-  "ingested_at": "2026-04-18T20:36:50Z",
   "jurabk": "Münz10DMBek 1994-02",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "963812251b8f683cf5af7bbf8bcbef372947981438ed1b3c3da340b4325e7b68"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 50. Jahrestag des 20. Juli 1944)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0080A0023",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -45,6 +49,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -58,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -71,6 +77,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -84,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -97,6 +105,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -110,6 +119,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -123,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -136,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -149,6 +161,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -162,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -175,6 +189,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -188,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -201,6 +217,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -214,6 +231,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -227,6 +245,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -240,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -253,6 +273,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -266,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -279,6 +301,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -292,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -305,6 +329,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -318,6 +343,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -331,6 +357,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -344,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -357,6 +385,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -370,6 +399,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -383,6 +413,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -396,6 +427,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -409,6 +441,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -422,6 +455,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -435,6 +469,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -448,6 +483,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Feststellung der Eignung",
@@ -460,6 +496,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Feststellung der zu installierenden Leistung"
@@ -470,6 +507,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Schlussbestimmungen"

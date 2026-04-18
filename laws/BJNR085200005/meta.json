@@ -4,9 +4,11 @@
   "bjnr": "BJNR085200005",
   "eli": null,
   "gii_slug": "schrag",
-  "ingested_at": "2026-04-18T20:35:06Z",
   "jurabk": "SchrAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "1ba29a2ffde93943c9f5b79ddd3f0a6e7fe99b5686a4864c748992241537bc65"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Aufbewahrung und Speicherung von Akten der Gerichte und Staatsanwaltschaften nach Beendigung des Verfahrens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

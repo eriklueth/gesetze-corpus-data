@@ -4,9 +4,12 @@
   "bjnr": "DDNR009060990",
   "eli": null,
   "gii_slug": "altgaatvdbest",
-  "ingested_at": "2026-04-18T20:28:41Z",
   "jurabk": "AltgAATVDBest",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "36e4ca17b865dab0a169d3a110a128ed81e39c3bbe5833200184f6f60c5db224"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Durchführungsbestimmung zur Verordnung über die Tilgung der Anteilrechte von Inhabern mit Wohnsitz außerhalb der Deutschen Demokratischen Republik an der Altguthaben-Ablösungs-Anleihe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

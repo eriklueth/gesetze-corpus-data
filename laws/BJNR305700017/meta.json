@@ -4,9 +4,11 @@
   "bjnr": "BJNR305700017",
   "eli": null,
   "gii_slug": "bmiwidvertrano_2017",
-  "ingested_at": "2026-04-18T20:30:27Z",
   "jurabk": "BMIWidVertrAnO 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "a1f3ab03874b5e94d902795d0fff96a1bf4e65a1273f4e0d9cf65a8aa6e21de1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung der Bundesrepublik Deutschland bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums des Innern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

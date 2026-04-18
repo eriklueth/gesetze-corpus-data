@@ -4,9 +4,11 @@
   "bjnr": "BJNR000320020",
   "eli": null,
   "gii_slug": "sozsichabkg_ukr",
-  "ingested_at": "2026-04-18T20:40:24Z",
   "jurabk": "SozSichAbkG UKR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "238d034bd42d5317d570c1390a28a5641d49f072b9fe23689bb0111d1cdf9f60"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 7. November 2018 zwischen der Bundesrepublik Deutschland und der Ukraine über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

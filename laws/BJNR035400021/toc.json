@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR035400021",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Vorschriften"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Vorschriften"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Vorschriften"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 3 Zu errichtende Gebäude"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 3 Zu errichtende Gebäude"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 4 Bestehende Gebäude"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 4 Bestehende Gebäude"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 4 Bestehende Gebäude"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 5 Gemischt genutzte Gebäude, Lade- und Leitungsinfrastruktur im Quartier, Unternehmererklärung und Ausnahmen"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 5 Gemischt genutzte Gebäude, Lade- und Leitungsinfrastruktur im Quartier, Unternehmererklärung und Ausnahmen"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 5 Gemischt genutzte Gebäude, Lade- und Leitungsinfrastruktur im Quartier, Unternehmererklärung und Ausnahmen"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 5 Gemischt genutzte Gebäude, Lade- und Leitungsinfrastruktur im Quartier, Unternehmererklärung und Ausnahmen"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 6 Bußgeld- und Schlussvorschriften"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 6 Bußgeld- und Schlussvorschriften"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich; Begriffsbestimmungen",
         "Abschnitt 6 Bußgeld- und Schlussvorschriften"

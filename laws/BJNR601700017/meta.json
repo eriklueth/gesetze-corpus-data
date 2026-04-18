@@ -4,9 +4,11 @@
   "bjnr": "BJNR601700017",
   "eli": null,
   "gii_slug": "schsihafv",
-  "ingested_at": "2026-04-18T20:39:35Z",
   "jurabk": "SchSiHafV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 43
+  },
   "source_hashes": {
     "source_xml_sha256": "73ff84b46674661697e782a5f3e14535fe125c88fc3463f1b58e89ac8420f743"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Schutz- und Sicherheitshäfen, die Häfen der Deutschen Marine und der Bundespolizei der Bundesrepublik Deutschland an Seeschifffahrtsstraßen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

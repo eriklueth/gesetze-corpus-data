@@ -4,9 +4,9 @@
   "bjnr": "BJNR209260980",
   "eli": null,
   "gii_slug": "vollstrvtr_isr",
-  "ingested_at": "2026-04-18T20:42:02Z",
   "jurabk": "VollstrVtr ISR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "cb77c95f6c208501fed992c2442658542ed4ce97272b1487d90275d19bcee7f6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und dem Staat Israel über die gegenseitige Anerkennung und Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

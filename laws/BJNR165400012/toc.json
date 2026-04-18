@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR165400012",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 2 Form und Übermittlung von Eintragungsanordnungen und Entscheidungen"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 2 Form und Übermittlung von Eintragungsanordnungen und Entscheidungen"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 2 Form und Übermittlung von Eintragungsanordnungen und Entscheidungen"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 3 Einsicht in das Schuldnerverzeichnis"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 3 Einsicht in das Schuldnerverzeichnis"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 3 Einsicht in das Schuldnerverzeichnis"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 3 Einsicht in das Schuldnerverzeichnis"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 3 Einsicht in das Schuldnerverzeichnis"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 3 Einsicht in das Schuldnerverzeichnis"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 3 Einsicht in das Schuldnerverzeichnis"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 4 Schlussvorschriften"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 4 Schlussvorschriften"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Das Schuldnerverzeichnis",
         "Abschnitt 4 Schlussvorschriften"

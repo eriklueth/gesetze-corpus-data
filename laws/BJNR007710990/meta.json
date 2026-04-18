@@ -4,9 +4,12 @@
   "bjnr": "BJNR007710990",
   "eli": null,
   "gii_slug": "prfgzautv",
-  "ingested_at": "2026-04-18T20:38:33Z",
   "jurabk": "PrfgZAUTV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "6f605f50925c4f5e3b49d6b8ed312b56ae064d3031353ca3e7a4f3a90570d3aa"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Gleichstellung österreichischer Prüfungszeugnisse mit Zeugnissen über das Bestehen der Abschlußprüfung oder Gesellenprüfung in anerkannten Ausbildungsberufen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

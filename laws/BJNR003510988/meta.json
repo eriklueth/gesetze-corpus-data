@@ -4,9 +4,9 @@
   "bjnr": "BJNR003510988",
   "eli": null,
   "gii_slug": "wzg_35abs4bek_1988-03-09",
-  "ingested_at": "2026-04-18T20:42:48Z",
   "jurabk": "WZG§35Abs4Bek 1988-03-09",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9a7fc7dbf2f6d87d9345e501413e12d67fed3ad6ebcdcbf6420975014aacbd93"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 35 Abs. 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

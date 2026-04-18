@@ -4,9 +4,11 @@
   "bjnr": "BJNR0F60A0025",
   "eli": null,
   "gii_slug": "lukifg",
-  "ingested_at": "2026-04-18T20:36:21Z",
   "jurabk": "LuKIFG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "4d59ce493b6b939c420d4a2e0bbc38af60022194462af0b1451962dd08409944"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Finanzierung von Infrastrukturinvestitionen von Ländern und Kommunen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

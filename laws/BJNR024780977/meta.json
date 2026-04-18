@@ -4,9 +4,11 @@
   "bjnr": "BJNR024780977",
   "eli": null,
   "gii_slug": "hohseeeinbrv",
-  "ingested_at": "2026-04-18T20:34:31Z",
   "jurabk": "HohSeeEinbrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "dde0f44afc9b4025b85be63cdfa988f202c9efca7a57d474bb0065f3c33d688d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Gesetzes zu den Übereinkommen vom 15. Februar 1972 und 29. Dezember 1972 zur Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen durch Schiffe und Luftfahrzeuge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

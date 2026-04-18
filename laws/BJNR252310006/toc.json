@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR252310006",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Anforderungen"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Anforderungen"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Anforderungen"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Anforderungen"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Anforderungen"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Anforderungen"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Anforderungen"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Anforderungen"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Allgemeine Anforderungen"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft"
@@ -171,6 +188,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft"
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft"
@@ -191,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft"
@@ -201,6 +221,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Wirkstoffe nicht menschlicher Herkunft"
@@ -211,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Wirkstoffe nicht menschlicher Herkunft"
@@ -221,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Wirkstoffe nicht menschlicher Herkunft"
@@ -231,6 +254,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Wirkstoffe nicht menschlicher Herkunft"
@@ -241,6 +265,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Wirkstoffe nicht menschlicher Herkunft"
@@ -251,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Wirkstoffe nicht menschlicher Herkunft"
@@ -261,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Wirkstoffe nicht menschlicher Herkunft"
@@ -271,6 +298,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Wirkstoffe nicht menschlicher Herkunft"
@@ -281,6 +309,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Wirkstoffe nicht menschlicher Herkunft"
@@ -291,6 +320,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Sondervorschriften"
@@ -301,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 19,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Sondervorschriften"
@@ -311,6 +342,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Sondervorschriften"
@@ -321,6 +353,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5a Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
@@ -331,6 +364,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5a Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
@@ -341,6 +375,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5a Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
@@ -351,6 +386,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5a Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
@@ -361,6 +397,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5a Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
@@ -371,6 +408,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5a Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
@@ -381,6 +419,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5a Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
@@ -391,6 +430,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5a Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
@@ -401,6 +441,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5a Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
@@ -411,6 +452,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5a Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore"
@@ -421,6 +463,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5b Ergänzende Vorschriften für die Kodierung von Gewebe und Gewebezubereitungen"
@@ -431,6 +474,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5b Ergänzende Vorschriften für die Kodierung von Gewebe und Gewebezubereitungen"
@@ -441,6 +485,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5b Ergänzende Vorschriften für die Kodierung von Gewebe und Gewebezubereitungen"
@@ -451,6 +496,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5b Ergänzende Vorschriften für die Kodierung von Gewebe und Gewebezubereitungen"
@@ -461,6 +507,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5c Sondervorschriften für Einrichtungen mit einer Erlaubnis nach § 13 des Arzneimittelgesetzes oder § 72 des Arzneimittelgesetzes"
@@ -471,6 +518,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5c Sondervorschriften für Einrichtungen mit einer Erlaubnis nach § 13 des Arzneimittelgesetzes oder § 72 des Arzneimittelgesetzes"
@@ -481,6 +529,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5c Sondervorschriften für Einrichtungen mit einer Erlaubnis nach § 13 des Arzneimittelgesetzes oder § 72 des Arzneimittelgesetzes"
@@ -491,6 +540,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 6 Ordnungswidrigkeiten"
@@ -501,6 +551,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 7 Schlussvorschriften"
@@ -511,6 +562,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 7 Schlussvorschriften"

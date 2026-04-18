@@ -4,9 +4,11 @@
   "bjnr": "BJNR352000017",
   "eli": null,
   "gii_slug": "nlv_2018",
-  "ingested_at": "2026-04-18T20:37:41Z",
   "jurabk": "NLV 2018",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "c0454d4b18c30e28b6a335656f8c70cf04dae3bf9e03d445b912a88443cb35aa"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung unionsrechtlicher Vorschriften über neuartige Lebensmittel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

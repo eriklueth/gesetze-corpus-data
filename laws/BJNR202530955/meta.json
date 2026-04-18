@@ -4,9 +4,9 @@
   "bjnr": "BJNR202530955",
   "eli": null,
   "gii_slug": "strkraufenthvtrg",
-  "ingested_at": "2026-04-18T20:40:47Z",
   "jurabk": "StrKrAufenthVtrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "bab4316bd2b548759767d1ca12dd53d2cc84470ad2acec28a3f3e92928b43327"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz, betreffend den Vertrag vom 23. Oktober 1954 über den Aufenthalt ausländischer Streitkräfte in der Bundesrepublik Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

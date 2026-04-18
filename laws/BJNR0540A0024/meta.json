@@ -4,9 +4,9 @@
   "bjnr": "BJNR0540A0024",
   "eli": null,
   "gii_slug": "m_nz25eurobek_2024-02-20",
-  "ingested_at": "2026-04-18T20:37:14Z",
   "jurabk": "Münz25EuroBek 2024-02-20",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6a0f034c3359df90b1f40dbaa754ec4b79d385351be1d40c0f51091cf2dc21c5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 25 Euro (Gedenkmünze „Adventskranz“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

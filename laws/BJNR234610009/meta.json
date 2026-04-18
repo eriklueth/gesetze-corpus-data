@@ -4,9 +4,11 @@
   "bjnr": "BJNR234610009",
   "eli": null,
   "gii_slug": "pkgrg",
-  "ingested_at": "2026-04-18T20:38:23Z",
   "jurabk": "PKGrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "0de4d2c8f5c97daf5784cdec2960a1d31b6500446160b51b63c378a0abf10404"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die parlamentarische Kontrolle nachrichtendienstlicher Tätigkeit des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

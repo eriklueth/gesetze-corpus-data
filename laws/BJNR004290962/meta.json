@@ -4,9 +4,11 @@
   "bjnr": "BJNR004290962",
   "eli": null,
   "gii_slug": "baunvo",
-  "ingested_at": "2026-04-18T20:29:26Z",
   "jurabk": "BauNVO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 40
+  },
   "source_hashes": {
     "source_xml_sha256": "72a36f825be1b9b3ade5c9690850f06c8a668228edbe94398361fd1c2b61c467"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die bauliche Nutzung der Grundstücke",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

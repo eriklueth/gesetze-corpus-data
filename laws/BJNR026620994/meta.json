@@ -4,9 +4,9 @@
   "bjnr": "BJNR026620994",
   "eli": null,
   "gii_slug": "grabferlpolabk",
-  "ingested_at": "2026-04-18T20:34:09Z",
   "jurabk": "GrAbfErlPolAbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "27a8801d560bcf9d3f170d74dfda08400b22553fea9eea5f7508601f9b1b172e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über Erleichterungen der Grenzabfertigung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

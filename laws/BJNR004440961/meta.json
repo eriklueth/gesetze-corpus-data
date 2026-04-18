@@ -4,9 +4,12 @@
   "bjnr": "BJNR004440961",
   "eli": null,
   "gii_slug": "krwaffkontrg",
-  "ingested_at": "2026-04-18T20:35:38Z",
   "jurabk": "KrWaffKontrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "1404acf2c81e2dd72fcd490a3fca4013f86ee5729dd77873d0b48fc8680a9fc6"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Ausführungsgesetz zu Artikel 26 Abs. 2 des Grundgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

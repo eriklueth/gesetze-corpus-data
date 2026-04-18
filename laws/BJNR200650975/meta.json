@@ -4,9 +4,11 @@
   "bjnr": "BJNR200650975",
   "eli": null,
   "gii_slug": "intschverm_bkg",
-  "ingested_at": "2026-04-18T20:34:55Z",
   "jurabk": "IntSchVermÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "b1e4adf3b5956fa2921a8bcdf37d27bda514cc93d2121ab7585ad96582cc2933"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Internationalen Schiffsvermessungs-Übereinkommen vom 23. Juni 1969",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

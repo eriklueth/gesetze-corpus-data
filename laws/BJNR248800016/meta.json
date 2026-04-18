@@ -4,9 +4,11 @@
   "bjnr": "BJNR248800016",
   "eli": null,
   "gii_slug": "luftvstabsenkv_2017",
-  "ingested_at": "2026-04-18T20:36:20Z",
   "jurabk": "LuftVStAbsenkV 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "7737d82d1ead0636a20dac513d1ef3521ed5407f5aaa89a07fa275c9539bfbff"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Absenkung der Steuersätze im Jahr 2017 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

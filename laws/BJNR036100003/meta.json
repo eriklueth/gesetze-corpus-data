@@ -4,9 +4,11 @@
   "bjnr": "BJNR036100003",
   "eli": null,
   "gii_slug": "beglv_2003",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BeglV 2003",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "46be3f6bd861fcf14adbbf0e31396d64719d1806b7fa768ab54d8db1c8e7487f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die zu Beglaubigungen befugten Behörden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

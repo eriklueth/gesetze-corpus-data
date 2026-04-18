@@ -4,9 +4,12 @@
   "bjnr": "BJNR196400018",
   "eli": null,
   "gii_slug": "agozv_2018",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AGOZV 2018",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 25
+  },
   "source_hashes": {
     "source_xml_sha256": "25b156af84eb7b4f9683acfb935c42a63654dc0ab151b223b486073bb6482d1c"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über das Inverkehrbringen von Anbaumaterial von Gemüse-, Obst- und Zierpflanzenarten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

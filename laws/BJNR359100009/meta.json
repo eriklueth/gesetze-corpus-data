@@ -4,9 +4,12 @@
   "bjnr": "BJNR359100009",
   "eli": null,
   "gii_slug": "zagmonawv",
-  "ingested_at": "2026-04-18T20:43:08Z",
   "jurabk": "ZAGMonAwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "64c7322207871e22216c33baa988bbe75c02c0073394b900f7f247105d87becf"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Einreichung von Monatsausweisen nach dem Zahlungsdiensteaufsichtsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

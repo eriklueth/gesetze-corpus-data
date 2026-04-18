@@ -4,9 +4,11 @@
   "bjnr": "BJNR211590990",
   "eli": null,
   "gii_slug": "vermg",
-  "ingested_at": "2026-04-18T20:41:46Z",
   "jurabk": "VermG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 60
+  },
   "source_hashes": {
     "source_xml_sha256": "df1b1e9bc80cab26b4327f5d41d316370aa5ac4157b52c6c777a61ba98049653"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Regelung offener Vermögensfragen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

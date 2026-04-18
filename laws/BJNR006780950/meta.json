@@ -4,9 +4,11 @@
   "bjnr": "BJNR006780950",
   "eli": null,
   "gii_slug": "wivwauflv",
-  "ingested_at": "2026-04-18T20:42:28Z",
   "jurabk": "WiVwAuflV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "029369e7a5ee58cc68677df063947a07cf7cbcc2195064c72e3c2cdb2ec2359b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Auflösung oder Überführung von Einrichtungen der Verwaltung des Vereinigten Wirtschaftsgebietes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

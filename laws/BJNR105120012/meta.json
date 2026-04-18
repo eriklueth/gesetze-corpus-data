@@ -4,9 +4,9 @@
   "bjnr": "BJNR105120012",
   "eli": null,
   "gii_slug": "dba_mus",
-  "ingested_at": "2026-04-18T20:31:26Z",
   "jurabk": "DBA MUS",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f61684f749d4a489542abb10988c39e1daf01b5f3afa327d26745fd686dd357e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Mauritius zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

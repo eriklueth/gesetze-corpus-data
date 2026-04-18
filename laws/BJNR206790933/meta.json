@@ -4,9 +4,9 @@
   "bjnr": "BJNR206790933",
   "eli": null,
   "gii_slug": "rkonkordatbek",
-  "ingested_at": "2026-04-18T20:39:03Z",
   "jurabk": "RKonkordatBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "27a5e4663025fc35f42b06e64db5b4f3baf0762b61394880ecadb08a270e1cbb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über das Konkordat zwischen dem Deutschen Reich und dem Heiligen Stuhl",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

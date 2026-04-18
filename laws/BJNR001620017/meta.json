@@ -4,9 +4,9 @@
   "bjnr": "BJNR001620017",
   "eli": null,
   "gii_slug": "gii170016",
-  "ingested_at": "2026-04-18T20:34:00Z",
   "jurabk": "GII170016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "0c8aefa71954f95db8a3de6b7cf96fe643f92308f6a4f48a0b28793bbf970999"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 22. März 2016 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Serbien über die Zusammenarbeit im Sicherheitsbereich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

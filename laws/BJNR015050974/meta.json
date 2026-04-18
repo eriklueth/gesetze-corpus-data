@@ -4,9 +4,11 @@
   "bjnr": "BJNR015050974",
   "eli": null,
   "gii_slug": "ubag",
-  "ingested_at": "2026-04-18T20:41:25Z",
   "jurabk": "UBAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "6b5fed4f579f23ae8f6d2176bad3e4acaba3ae4d0d8206a72cca8bbdf158a611"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Errichtung eines Umweltbundesamtes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

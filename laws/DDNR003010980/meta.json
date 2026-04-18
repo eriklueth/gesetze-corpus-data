@@ -4,9 +4,12 @@
   "bjnr": "DDNR003010980",
   "eli": null,
   "gii_slug": "halderlano",
-  "ingested_at": "2026-04-18T20:34:23Z",
   "jurabk": "HaldeRlAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 31
+  },
   "source_hashes": {
     "source_xml_sha256": "3d742f11b1bc7b1c70ec4a5faba3e54ea5282244cd07513e7797585e8842b09a"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über Halden und Restlöcher",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

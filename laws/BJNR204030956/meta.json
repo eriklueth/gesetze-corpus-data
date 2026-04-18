@@ -4,9 +4,9 @@
   "bjnr": "BJNR204030956",
   "eli": null,
   "gii_slug": "luftverkusaabkg",
-  "ingested_at": "2026-04-18T20:35:59Z",
   "jurabk": "LuftVerkUSAAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "64b4fe25e9f16e98bb0849664779f2dd3a91ebc7b088fddbd336e31a6ec13781"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 7. Juli 1955 über den Luftverkehr zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR000870986",
   "eli": null,
   "gii_slug": "wzg_4nbek_1986",
-  "ingested_at": "2026-04-18T20:43:05Z",
   "jurabk": "WZG§4NBek 1986",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "de44e8d6d9e8f378c7adab40e60569ba68351f1b570bf512c0aedf6550352db8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

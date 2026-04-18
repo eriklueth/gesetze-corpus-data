@@ -4,9 +4,9 @@
   "bjnr": "BJNR1850A0024",
   "eli": null,
   "gii_slug": "gapkondg_27abs4s2bek",
-  "ingested_at": "2026-04-18T20:33:32Z",
   "jurabk": "GAPKondG§27Abs4S2Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "847139faea934b453a16108e1df51d5438e392272d640b3d5e6dfa289ea0d12b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung nach § 27 Absatz 4 Satz 2 des GAP-Konditionalitäten-Gesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

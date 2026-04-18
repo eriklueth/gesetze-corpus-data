@@ -4,9 +4,9 @@
   "bjnr": "BJNR001700996",
   "eli": null,
   "gii_slug": "nsopferbpr_sprok",
-  "ingested_at": "2026-04-18T20:37:45Z",
   "jurabk": "NSOpferBPräsProk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4399ee599b36c52b8126312178ee844f5814276e5e7ade2b0baded18ac3f556c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Proklamation des Bundespräsidenten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

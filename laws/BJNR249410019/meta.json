@@ -4,9 +4,12 @@
   "bjnr": "BJNR249410019",
   "eli": null,
   "gii_slug": "iregg",
-  "ingested_at": "2026-04-18T20:34:59Z",
   "jurabk": "IRegG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 37
+  },
   "source_hashes": {
     "source_xml_sha256": "496521303049360215d6b69c0579f63b2db93b69bc4e451caadec29f2a053247"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zum Implantateregister Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

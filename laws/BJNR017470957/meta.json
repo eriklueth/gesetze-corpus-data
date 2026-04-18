@@ -4,9 +4,12 @@
   "bjnr": "BJNR017470957",
   "eli": null,
   "gii_slug": "akg",
-  "ingested_at": "2026-04-18T20:28:36Z",
   "jurabk": "AKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 57
+  },
   "source_hashes": {
     "source_xml_sha256": "b491aa518bd5fab7d4e4c3164f54a469a0bafeb0ba34f997afdeb7bbc55bd11d"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen Reiches entstandener Schäden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

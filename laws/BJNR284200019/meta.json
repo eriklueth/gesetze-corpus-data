@@ -4,9 +4,11 @@
   "bjnr": "BJNR284200019",
   "eli": null,
   "gii_slug": "klacbmstrv_2020",
-  "ingested_at": "2026-04-18T20:35:22Z",
   "jurabk": "KlaCbMstrV 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "326e1f18a7ede2eff4111ff2f1ff1bc60122c25cea09ac8854aaa6efad2bb823"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Klavier- und Cembalobauer-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

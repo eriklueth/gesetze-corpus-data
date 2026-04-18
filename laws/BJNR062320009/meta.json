@@ -4,9 +4,11 @@
   "bjnr": "BJNR062320009",
   "eli": null,
   "gii_slug": "svabking",
-  "ingested_at": "2026-04-18T20:40:57Z",
   "jurabk": "SVAbkING",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "4c03141d04041bdbb159779e4d4c72a2dfa3a0e3e0cc9513ac5620a96cdb9e96"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 8. Oktober 2008 zwischen der Bundesrepublik Deutschland und der Republik Indien über Sozialversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

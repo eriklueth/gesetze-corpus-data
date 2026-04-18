@@ -4,9 +4,11 @@
   "bjnr": "BJNR103400009",
   "eli": null,
   "gii_slug": "viszg",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VISZG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "da2da0f40e91765e0ab76649995676236f2365816b51c992b23118edafd009c2"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über den Zugang von Polizei- und Strafverfolgungsbehörden sowie Nachrichtendiensten zum Visa-Informationssystem",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

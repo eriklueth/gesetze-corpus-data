@@ -4,9 +4,9 @@
   "bjnr": "BJNR203030988",
   "eli": null,
   "gii_slug": "intkakao_bk_1986",
-  "ingested_at": "2026-04-18T20:34:53Z",
   "jurabk": "IntKakaoÜbk 1986",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9c0cc4ddb55b3163124baa9c662bf8f2f4f17bfe575d8f4ee57921526e493bbb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Internationales Kakao-Übereinkommen von 1986",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

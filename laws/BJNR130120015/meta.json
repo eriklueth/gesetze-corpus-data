@@ -4,9 +4,11 @@
   "bjnr": "BJNR130120015",
   "eli": null,
   "gii_slug": "dbabkg_isr_2015",
-  "ingested_at": "2026-04-18T20:31:27Z",
   "jurabk": "DBAbkG ISR 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "56eca14798614eb1b57cfe12ccffc09d75c313e1b2de509258ee02d92cbefa39"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 21. August 2014 zwischen der Bundesrepublik Deutschland und dem Staat Israel zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

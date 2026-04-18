@@ -4,9 +4,11 @@
   "bjnr": "BJNR293200005",
   "eli": null,
   "gii_slug": "montanmitbestgerggwo_2005",
-  "ingested_at": "2026-04-18T20:36:40Z",
   "jurabk": "MontanMitbestGErgGWO 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 114
+  },
   "source_hashes": {
     "source_xml_sha256": "597953526cae70772d4ff9bcd5b63ec3454710640bbe78e1d27533da99155e2d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Wahlordnung zum Mitbestimmungsergänzungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

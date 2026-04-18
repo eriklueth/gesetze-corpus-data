@@ -4,9 +4,11 @@
   "bjnr": "BJNR118700021",
   "eli": null,
   "gii_slug": "poliov",
-  "ingested_at": "2026-04-18T20:38:29Z",
   "jurabk": "PolioV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "3069dad1679b9ab3b14c3f51be7c798f97a2c6b009422499ed854b1a2a4ec2c2"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Vernichtung und zum Laborcontainment des Poliovirus Typ 3",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

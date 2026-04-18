@@ -4,9 +4,12 @@
   "bjnr": "BJNR201730968",
   "eli": null,
   "gii_slug": "wastrg",
-  "ingested_at": "2026-04-18T20:42:18Z",
   "jurabk": "WaStrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 63
+  },
   "source_hashes": {
     "source_xml_sha256": "e1cf1fd37b720967c5ff07c19e236e046de1b07f11b249d1d2ba5a438894e807"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Bundeswasserstraßengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR204460986",
   "eli": null,
   "gii_slug": "dbag_chn",
-  "ingested_at": "2026-04-18T20:31:29Z",
   "jurabk": "DBAG CHN",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "adc3d499c202b88d758076a6e696c4bda24d97cc61880836a1eec649e96e89d8"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 10. Juni 1985 zwischen der Bundesrepublik Deutschland und der Volksrepublik China zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

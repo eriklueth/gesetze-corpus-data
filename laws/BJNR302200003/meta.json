@@ -4,9 +4,11 @@
   "bjnr": "BJNR302200003",
   "eli": null,
   "gii_slug": "sozhieinog",
-  "ingested_at": "2026-04-18T20:40:13Z",
   "jurabk": "SozhiEinOG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "9f106f61221fbfb286cf726603dc1a560d65497ad058a9717f0fc0109b22f0e9"
   },
@@ -38,5 +40,5 @@
     }
   ],
   "title": "Gesetz zur Einordnung des Sozialhilferechts in das Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

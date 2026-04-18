@@ -4,9 +4,9 @@
   "bjnr": "BJNR207860922",
   "eli": null,
   "gii_slug": "wzcanbek",
-  "ingested_at": "2026-04-18T20:42:46Z",
   "jurabk": "WZCANBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "17a9ce40597c2aae58108ab28f65b88a4e734451faa130399ee16c1f0112d5e6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Kanada",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

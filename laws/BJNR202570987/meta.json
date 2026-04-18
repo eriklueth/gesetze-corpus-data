@@ -4,9 +4,9 @@
   "bjnr": "BJNR202570987",
   "eli": null,
   "gii_slug": "eumetsat_bk",
-  "ingested_at": "2026-04-18T20:32:39Z",
   "jurabk": "EUMETSATÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7c1b5ad1479b974295d569e0038e59b0e235a2ec32a499ad566ac685694028c4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen zur Gründung einer europäischen Organisation für die Nutzung von meteorologischen Satelliten (\"EUMETSAT\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

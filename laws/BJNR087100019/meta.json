@@ -4,9 +4,11 @@
   "bjnr": "BJNR087100019",
   "eli": null,
   "gii_slug": "vag-infov",
-  "ingested_at": "2026-04-18T20:41:40Z",
   "jurabk": "VAG-InfoV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "8eb7a18149c83fe17dbe861d95db927805c1ebd259ab7685f729db0d323e66b8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Informationspflichten in der betrieblichen Altersversorgung, die von Pensionsfonds, Pensionskassen und anderen Lebensversicherungsunternehmen durchgeführt wird",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

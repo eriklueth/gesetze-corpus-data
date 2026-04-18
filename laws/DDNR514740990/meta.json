@@ -4,9 +4,12 @@
   "bjnr": "DDNR514740990",
   "eli": null,
   "gii_slug": "natsgmelbev",
-  "ingested_at": "2026-04-18T20:37:33Z",
   "jurabk": "NatSGmElbeV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "5c53078ce77ff6f31235a5ecff59fcbde6e9f32c175d850f1531cea38981bfb0"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Festsetzung von Naturschutzgebieten und einem Landschaftsschutzgebiet von zentraler Bedeutung \"Biosphärenreservat Mittlere Elbe\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

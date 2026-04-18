@@ -4,9 +4,12 @@
   "bjnr": "BJNR398200998",
   "eli": null,
   "gii_slug": "g_kkostv_1998",
-  "ingested_at": "2026-04-18T20:34:20Z",
   "jurabk": "GüKKostV 1998",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "0d7612d5e454adf290c8917846dee24ff4928a3e0da91d936bddbf97bbc950ae"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Kostenverordnung für den Güterkraftverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR194710017",
   "eli": null,
   "gii_slug": "fuag",
-  "ingested_at": "2026-04-18T20:33:28Z",
   "jurabk": "FuAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "2f06b5745b2b605e0309431ed5451fa8ca7c392c1fd057d4f64e76a7b1b08451"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Bereitstellung von Funkanlagen auf dem Markt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

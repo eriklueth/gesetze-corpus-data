@@ -4,9 +4,11 @@
   "bjnr": "BJNR373800021",
   "eli": null,
   "gii_slug": "mietneinv",
-  "ingested_at": "2026-04-18T20:36:33Z",
   "jurabk": "MietNEinV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "f6004b57d725761a576ac4ce6eda57651f9991134c6f119590e1d76da5ce596c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Einstufung der Gemeinden in eine Mietniveaustufe im Sinne des § 254 des Bewertungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

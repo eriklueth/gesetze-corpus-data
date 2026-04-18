@@ -4,9 +4,11 @@
   "bjnr": "BJNR006520957",
   "eli": null,
   "gii_slug": "wehrbbtg",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WehrbBTG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "bf1f041b2880824e1f99f04d000ef7b5a50673464e58329929f41112bf8f91e5"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über den Wehrbeauftragten des Deutschen Bundestages",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR104710951",
   "eli": null,
   "gii_slug": "rvermvg_6dv",
-  "ingested_at": "2026-04-18T20:39:13Z",
   "jurabk": "RVermVG§6DV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "a0f9506b64f964617d93623cf55ae2061a52fe4bdf091dbff8763e860ddbb660"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung des § 6 des Gesetzes zur vorläufigen Regelung der Rechtsverhältnisse des Reichsvermögens und der preußischen Beteiligungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

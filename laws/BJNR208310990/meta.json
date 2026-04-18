@@ -4,9 +4,11 @@
   "bjnr": "BJNR208310990",
   "eli": null,
   "gii_slug": "gdtwahlvdvtr_ndvtr",
-  "ingested_at": "2026-04-18T20:33:39Z",
   "jurabk": "GDtWahlVDVtrÄndVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "547af03790db95a5eb2ab3bbe98e156775697acdf0c2d8ad41fdf2351351fdfc"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zur Änderung des Vertrages zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

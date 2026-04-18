@@ -4,9 +4,11 @@
   "bjnr": "BJNR029110975",
   "eli": null,
   "gii_slug": "wzg_4nldbek_1975",
-  "ingested_at": "2026-04-18T20:43:05Z",
   "jurabk": "WZG§4NLDBek 1975",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "e28f688d7393d86ec8cd43e73112a513ccb6cbf0691f33fc5a95624cb177b654"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

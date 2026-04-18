@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR077800995",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt"
       ],
@@ -12,6 +13,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt"
       ],
@@ -21,6 +23,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt"
       ],
@@ -30,6 +33,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt",
         "Abschnitt 2 Meeresbergbau"
@@ -40,6 +44,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt",
         "Abschnitt 2 Meeresbergbau"
@@ -50,6 +55,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt",
         "Abschnitt 3 Wissenschaftliche Meeresforschung"
@@ -60,6 +66,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt",
         "Abschnitt 4 Umweltstrafrecht"
@@ -70,6 +77,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt",
         "Abschnitt 4 Umweltstrafrecht"
@@ -80,6 +88,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt",
         "Abschnitt 4 Umweltstrafrecht"
@@ -90,6 +99,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt",
         "Abschnitt 5 Vollstreckung seegerichtlicher Entscheidungen"
@@ -100,6 +110,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Seeschiffahrt",
         "Abschnitt 6 Schlußvorschrift"

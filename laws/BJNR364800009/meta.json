@@ -4,9 +4,12 @@
   "bjnr": "BJNR364800009",
   "eli": null,
   "gii_slug": "zahlpr_fbv",
-  "ingested_at": "2026-04-18T20:43:08Z",
   "jurabk": "ZahlPrüfbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "2d2b397f652210cc82bf346ff726530c3a10756472ca1a99ab8d0cecc2c8c27f"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung der Jahresabschlüsse der Zahlungsinstitute und E-Geld-Institute sowie die darüber zu erstellenden Berichte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

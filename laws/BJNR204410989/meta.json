@@ -4,9 +4,9 @@
   "bjnr": "BJNR204410989",
   "eli": null,
   "gii_slug": "iaeohil_bk",
-  "ingested_at": "2026-04-18T20:34:39Z",
   "jurabk": "IAEOHiLÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "76b473b453f801462fcfd299ba3699c3522628908573e3c18ebb1c7a99605303"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über Hilfeleistung bei nuklearen Unfällen oder radiologischen Notfällen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

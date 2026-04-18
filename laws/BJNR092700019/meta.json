@@ -4,9 +4,11 @@
   "bjnr": "BJNR092700019",
   "eli": null,
   "gii_slug": "glprzweilburgv",
-  "ingested_at": "2026-04-18T20:34:04Z",
   "jurabk": "GlPrZWeilburgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "f3b349cd8363362bb7fd396fe14eae9c67e55e58ecf77e0ed34bc1e404a944ea"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Gleichstellung von Prüfungszeugnissen der Staatlichen Fachschule Weilburg-Hadamar Standort: Staatliche Glasfachschule Hadamar mit den Zeugnissen über das Bestehen der Abschluss- und Gesellenprüfung in Ausbildungsberufen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

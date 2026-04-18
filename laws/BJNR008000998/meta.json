@@ -4,9 +4,11 @@
   "bjnr": "BJNR008000998",
   "eli": null,
   "gii_slug": "btmvv_1998",
-  "ingested_at": "2026-04-18T20:31:01Z",
   "jurabk": "BtMVV 1998",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 22
+  },
   "source_hashes": {
     "source_xml_sha256": "cf2c13a76b795241fc6f88e390c186b3d0d36795f6b17541b27dd49f8e75ebe0"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Verschreiben, die Abgabe und den Nachweis des Verbleibs von Betäubungsmitteln",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

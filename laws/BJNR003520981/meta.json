@@ -4,9 +4,12 @@
   "bjnr": "BJNR003520981",
   "eli": null,
   "gii_slug": "futtmv_1981",
-  "ingested_at": "2026-04-18T20:33:28Z",
   "jurabk": "FuttMV 1981",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 48
+  },
   "source_hashes": {
     "source_xml_sha256": "10a25105cadfe75732e0d45fe08d72d696caec5f59c205f61f737d74fe7584c3"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Futtermittelverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

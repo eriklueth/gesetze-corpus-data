@@ -4,9 +4,12 @@
   "bjnr": "BJNR130600997",
   "eli": null,
   "gii_slug": "ggkontrollv",
-  "ingested_at": "2026-04-18T20:33:56Z",
   "jurabk": "GGKontrollV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "dc49304c3546a5c59391edb74de3c22f7a52317ca4cc435a3be66133bf553976"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Kontrollen von Gefahrguttransporten auf der Straße und in den Unternehmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

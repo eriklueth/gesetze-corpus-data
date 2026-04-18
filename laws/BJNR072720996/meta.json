@@ -4,9 +4,11 @@
   "bjnr": "BJNR072720996",
   "eli": null,
   "gii_slug": "dbaveng",
-  "ingested_at": "2026-04-18T20:31:31Z",
   "jurabk": "DBAVENG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "a28564dfbd452eb67bc9b057f16b2fa891cc14f00f77857001946ce251fc1fd7"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 8. Februar 1995 zwischen der Bundesrepublik Deutschland und der Republik Venezuela zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

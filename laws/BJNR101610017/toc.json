@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR101610017",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Anwendungsbereich",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Begriffsbestimmungen",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Fahrerlaubnis für die Binnenschifffahrtsstraßen",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Fahrerlaubnis für die Seeschifffahrtsstraßen",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Besondere Regelungen",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Anforderungen für die Erteilung der Fahrerlaubnis",
@@ -45,6 +51,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0007.md",
       "heading": "Antrag auf Zulassung zur Prüfung",
@@ -52,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [],
       "file": "paragraphs/0008.md",
       "heading": "Prüfung",
@@ -59,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0009.md",
       "heading": "Prüfungsausschüsse",
@@ -66,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0010.md",
       "heading": "Voraussetzungen für die Bestellung der Prüfer; Entlassung der Prüfer",
@@ -73,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0011.md",
       "heading": "Ersatzausfertigung",
@@ -80,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0012.md",
       "heading": "Pflichten des Schiffseigentümers und des Schiffsführers",
@@ -87,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Entziehung der Fahrerlaubnis oder des Befähigungsnachweises",
@@ -94,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "paragraphs/0014.md",
       "heading": "Ruhen der Fahrerlaubnis",
@@ -101,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0015.md",
       "heading": "Sicherstellung von Befähigungszeugnissen",
@@ -108,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0016.md",
       "heading": "Zuständige Stellen",
@@ -115,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0017.md",
       "heading": "Datenverarbeitung",
@@ -122,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0018.md",
       "heading": "Ordnungswidrigkeiten",
@@ -129,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 3 Absatz 1 und § 4 Absatz 1)",
@@ -136,6 +155,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 7 Absatz 2 Nummer 4 und § 10 Absatz 1 Satz 2)",
@@ -143,6 +163,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 20,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 8 Absatz 1 Satz 4)",
@@ -150,6 +171,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 8 Absatz 1 Satz 4)",
@@ -157,6 +179,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 8 Absatz 5)",
@@ -164,6 +187,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "(zu § 10 Absatz 2 Nummer 2)",
@@ -171,6 +195,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "annexes/0007.md",
       "heading": "(zu § 10 Absatz 3 Satz 3)",
@@ -178,6 +203,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "annexes/0008.md",
       "heading": "(zu § 5 Absatz 2)",
@@ -185,6 +211,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0009.md",
       "heading": "(zu § 8 Absatz 8 Satz 2)",

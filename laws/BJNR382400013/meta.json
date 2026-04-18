@@ -4,9 +4,11 @@
   "bjnr": "BJNR382400013",
   "eli": null,
   "gii_slug": "finausglg2012dv_2",
-  "ingested_at": "2026-04-18T20:33:06Z",
   "jurabk": "FinAusglG2012DV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "8903b9881d8b41a5e8837f80c29772e03acc45d63c23915e9467f990be1ac619"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2012",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

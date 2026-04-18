@@ -4,9 +4,11 @@
   "bjnr": "BJNR0A00A0025",
   "eli": null,
   "gii_slug": "bbfestv_2025",
-  "ingested_at": "2026-04-18T20:29:33Z",
   "jurabk": "BBFestV 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "80aa890f4069328952b1e2cf802e6668573fff5b30f4ce298e6968ae2f0d819a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2025",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

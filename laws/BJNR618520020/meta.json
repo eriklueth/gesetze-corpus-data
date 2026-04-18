@@ -4,9 +4,11 @@
   "bjnr": "BJNR618520020",
   "eli": null,
   "gii_slug": "epiaappoabwv",
-  "ingested_at": "2026-04-18T20:32:23Z",
   "jurabk": "EpiAAppOAbwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "15694519257dfedea583e506f87eef8f872585ea232c7301a32fe4d07b6401dc"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Abweichung von der Approbationsordnung für Apotheker bei einer epidemischen Lage von nationaler Tragweite",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

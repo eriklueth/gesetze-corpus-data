@@ -4,9 +4,11 @@
   "bjnr": "BJNR081200996",
   "eli": null,
   "gii_slug": "_lmeldv",
-  "ingested_at": "2026-04-18T20:37:49Z",
   "jurabk": "ÖlmeldV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "2fa233aa1fbd24634cb04e1c19042f3779f0e5ffcedeeac37bfc1b8e30a3b38f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Ermittlung der zum Internationalen Entschädigungsfonds für Ölverschmutzungsschäden nach dem Ölschadengesetz beitragspflichtigen Ölmengen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

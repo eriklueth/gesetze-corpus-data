@@ -4,9 +4,9 @@
   "bjnr": "BJNR014819972",
   "eli": null,
   "gii_slug": "wdneuog",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WDNeuOG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "040445c053c8ec31fc511bdc7373d9e1f0bd007798f826faefa3385f2bd47b2c"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Gesetz zur Neuordnung des Wehrdisziplinarrechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

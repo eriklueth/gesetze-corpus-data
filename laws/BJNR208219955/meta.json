@@ -4,9 +4,11 @@
   "bjnr": "BJNR208219955",
   "eli": null,
   "gii_slug": "offshstabkg",
-  "ingested_at": "2026-04-18T20:37:53Z",
   "jurabk": "OffshStAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "e4155ce211d32b6f7ebd4212b24682e3a131b2a1b9ab18fac32c18bd5164d6fb"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz betreffend das Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika vom 15. Oktober 1954 über die von der Bundesrepublik zu gewährenden Abgabenvergünstigungen für die von den Vereinigten Staaten im Interesse der gemeinsamen Verteidigung geleisteten Ausgaben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

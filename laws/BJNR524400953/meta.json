@@ -4,9 +4,9 @@
   "bjnr": "BJNR524400953",
   "eli": null,
   "gii_slug": "preisls",
-  "ingested_at": "2026-04-18T20:38:33Z",
   "jurabk": "PreisLS",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d0f20adae4a2784cc6663237abb63c249ad8b00664bed516d48d258ce2d6ac68"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Leitsätze für die Preisermittlung auf Grund von Selbstkosten (Anlage zur Verordnung PR Nr. 30/53 vom 21. November 1953)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

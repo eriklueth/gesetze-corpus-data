@@ -4,9 +4,9 @@
   "bjnr": "BJNR009410958",
   "eli": null,
   "gii_slug": "begdv1_2_3_ndv",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BEGDV1/2/3ÄndV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9ae87aef218a797e4445d57a040d114fd22a91c62dc061b5204259abe6d322c3"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Änderung der Ersten, Zweiten und Dritten Verordnung zur Durchführung des Bundesentschädigungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

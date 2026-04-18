@@ -4,9 +4,11 @@
   "bjnr": "BJNR233700015",
   "eli": null,
   "gii_slug": "dbschichtzulerhv",
-  "ingested_at": "2026-04-18T20:31:38Z",
   "jurabk": "DBSchichtZulErhV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "a256fac0a6c0b3c40c297d937958ee80f8b5324c572da844f7b6f8d405096813"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Erhöhung der Schichtzulagen für Beamte des Bundeseisenbahnvermögens, die der Deutschen Bahn AG oder einer ihrer Tochtergesellschaften zugewiesen sind",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

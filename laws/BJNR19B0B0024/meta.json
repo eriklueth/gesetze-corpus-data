@@ -4,9 +4,9 @@
   "bjnr": "BJNR19B0B0024",
   "eli": null,
   "gii_slug": "sgb7_172cabs3s1_bertrv",
-  "ingested_at": "2026-04-18T20:39:55Z",
   "jurabk": "SGB7§172cAbs3S1ÜbertrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "bdc2d8305a5f0b6e41b68175c19ea212615d64da8f18ffc697b6864bfaab241c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Übertragung der Befugnis zum Erlass einer Rechtsverordnung nach § 172c Absatz 3 Satz 1 des Siebten Buches Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

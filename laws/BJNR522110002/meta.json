@@ -4,9 +4,9 @@
   "bjnr": "BJNR522110002",
   "eli": null,
   "gii_slug": "luftvodv_212",
-  "ingested_at": "2026-04-18T20:36:10Z",
   "jurabk": "LuftVODV 212",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "29dd6ef3a2858f4c7db730e60711e5031751760307db700bc9f42c94ce54147b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweihundertzwölfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Frankfurt am Main)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR210050972",
   "eli": null,
   "gii_slug": "binsch_bkg",
-  "ingested_at": "2026-04-18T20:30:08Z",
   "jurabk": "BinSchÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "08fc9fedf3930bd1497bfc1ce2e00ccd6b6d8def478f2ecf61a8790d199621e2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Übereinkommen vom 15. März 1960 zur Vereinheitlichung einzelner Regeln über den Zusammenstoß von Binnenschiffen sowie zur Änderung des Binnenschiffahrtsgesetzes und des Flößereigesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

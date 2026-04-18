@@ -4,9 +4,12 @@
   "bjnr": "BJNR185610008",
   "eli": null,
   "gii_slug": "wogg",
-  "ingested_at": "2026-04-18T20:42:30Z",
   "jurabk": "WoGG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 53
+  },
   "source_hashes": {
     "source_xml_sha256": "03f18a94df441e0fa06da30ba81c47d42125ffafc339e893781582ffb64d55b6"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Wohngeldgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR063520009",
   "eli": null,
   "gii_slug": "irenasa",
-  "ingested_at": "2026-04-18T20:34:59Z",
   "jurabk": "IRENASa",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "45ef55d36d0b2a6d992b2871cd608cd30d1683c855b1345ea6a543ff6919f269"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Satzung der Internationalen Organisation für erneuerbare Energien",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

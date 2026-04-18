@@ -4,9 +4,11 @@
   "bjnr": "BJNR086600005",
   "eli": null,
   "gii_slug": "stvoausnv_12",
-  "ingested_at": "2026-04-18T20:40:53Z",
   "jurabk": "StVOAusnV 12",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "17b1c0d07ba8bb69b5e01fa2995b7d4d202d7f0b7bb67916d491217e85a6f1cc"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Zwölfte Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Ordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

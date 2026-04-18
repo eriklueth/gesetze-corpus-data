@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR162700999",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Zahlungsverkehr"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Zahlungsverkehr"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Zahlungsverkehr"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Belege"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Belege"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Belege"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Belege"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Belege"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Buchführung und Rechnungslegung"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Buchführung und Rechnungslegung"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Buchführung und Rechnungslegung"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Buchführung und Rechnungslegung"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Buchführung und Rechnungslegung"
@@ -142,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Buchführung und Rechnungslegung"
@@ -152,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Buchführung und Rechnungslegung"
@@ -162,6 +178,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Buchführung und Rechnungslegung"
@@ -172,6 +189,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Buchführung und Rechnungslegung"
@@ -182,6 +200,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Durchführung von Aufgaben durch Verbände und Dritte"
@@ -192,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Durchführung von Aufgaben durch Verbände und Dritte"
@@ -202,6 +222,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Übergangs- und Schlußvorschriften"
@@ -212,6 +233,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Übergangs- und Schlußvorschriften"

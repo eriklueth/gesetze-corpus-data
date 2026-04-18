@@ -4,9 +4,9 @@
   "bjnr": "BJNR090800993",
   "eli": null,
   "gii_slug": "sortschbek_1993",
-  "ingested_at": "2026-04-18T20:40:12Z",
   "jurabk": "SortSchBek 1993",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c4df6ce854a207cb0f07e47f8a67640451c4e9b7675dbd083e8b27643a94a83f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Gewährung eines dem Sortenschutz entsprechenden Schutzes im Ausland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

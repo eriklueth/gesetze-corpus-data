@@ -4,9 +4,11 @@
   "bjnr": "BJNR005040973",
   "eli": null,
   "gii_slug": "kredaufnbegrv_1973",
-  "ingested_at": "2026-04-18T20:35:34Z",
   "jurabk": "KredAufnBegrV 1973",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "5712c7e4889a011bc3490f9524e201a0f851d58ca9ca2fbaf8384c69c92aeb0e"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Begrenzung der Kreditaufnahme durch Bund, Länder, Gemeinden und Gemeindeverbände im Haushaltsjahr 1973",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

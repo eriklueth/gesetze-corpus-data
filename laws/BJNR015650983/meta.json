@@ -4,9 +4,11 @@
   "bjnr": "BJNR015650983",
   "eli": null,
   "gii_slug": "perseinspg",
-  "ingested_at": "2026-04-18T20:38:10Z",
   "jurabk": "PersEinspG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "556a989d62aaf949625126fc3d3a42226c9759ac3203b254e8372100e582a75a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Einsparung von Personalausgaben in der mittelbaren Bundesverwaltung sowie bei der Deutschen Bundesbahn und der Deutschen Bundespost",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

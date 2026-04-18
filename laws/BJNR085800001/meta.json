@@ -4,9 +4,9 @@
   "bjnr": "BJNR085800001",
   "eli": null,
   "gii_slug": "m_nz10dmbek_2001-04",
-  "ingested_at": "2026-04-18T20:36:53Z",
   "jurabk": "Münz10DMBek 2001-04",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "13f021085f5725115328bf2c4002075a03a5a586c9863eb1aad54a71244c1128"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze \"750 Jahre Katharinenkloster - 50 Jahre Meeresmuseum Stralsund\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

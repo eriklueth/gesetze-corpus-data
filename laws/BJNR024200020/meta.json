@@ -4,9 +4,11 @@
   "bjnr": "BJNR024200020",
   "eli": null,
   "gii_slug": "strafakteinv",
-  "ingested_at": "2026-04-18T20:40:45Z",
   "jurabk": "StrafAktEinV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "c9f0eed4e7901871833c29db00938269fe466b6882cf9a3597fd63265efb8b14"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Standards für die Einsicht in elektronische Akten im Strafverfahren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

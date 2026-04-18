@@ -4,9 +4,11 @@
   "bjnr": "BJNR19D0A0024",
   "eli": null,
   "gii_slug": "kcanwisszustv",
-  "ingested_at": "2026-04-18T20:35:14Z",
   "jurabk": "KCanWissZustV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "b2267ce356bee40aa7728f59f0e0e2b530dd3f964bd1c741619cf4db046f3a97"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Festlegung der zuständigen Behörde für die Erlaubniserteilung und die Überwachung des Umgangs mit Cannabis zu wissenschaftlichen Zwecken nach dem Konsumcannabisgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

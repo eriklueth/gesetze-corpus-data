@@ -4,9 +4,11 @@
   "bjnr": "BJNR330600013",
   "eli": null,
   "gii_slug": "aschulg",
-  "ingested_at": "2026-04-18T20:28:52Z",
   "jurabk": "ASchulG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "b5262eacd99bf97d66a8eef8cde83536e998a0c07436094436a821758d27d2f3"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Förderung Deutscher Auslandsschulen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

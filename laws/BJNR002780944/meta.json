@@ -4,9 +4,11 @@
   "bjnr": "BJNR002780944",
   "eli": null,
   "gii_slug": "waskwv",
-  "ingested_at": "2026-04-18T20:42:14Z",
   "jurabk": "WasKwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "4b52803412ed67958569a7bbb47c508347ff85f0e05ad0f11e3222117992165a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die steuerliche Begünstigung von Wasserkraftwerken",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

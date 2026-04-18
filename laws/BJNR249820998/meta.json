@@ -4,9 +4,11 @@
   "bjnr": "BJNR249820998",
   "eli": null,
   "gii_slug": "wv_gelabkg",
-  "ingested_at": "2026-04-18T20:42:45Z",
   "jurabk": "WVögelAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "6d9660524f9e151b0a6bdb08addd484e77015ad92ee13a0cdd3b85f54dd363ac"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Abkommen vom 16. Juni 1995 zur Erhaltung der afrikanisch-eurasischen wandernden Wasservögel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

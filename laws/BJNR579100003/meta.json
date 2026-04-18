@@ -4,9 +4,9 @@
   "bjnr": "BJNR579100003",
   "eli": null,
   "gii_slug": "luftvodv_214",
-  "ingested_at": "2026-04-18T20:36:10Z",
   "jurabk": "LuftVODV 214",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4657d51d7596386a7fca895ccff27285d2813b6ed62b6a14c29660513764f4ae"
   },
@@ -26,5 +26,5 @@
     }
   ],
   "title": "Zweihundertvierzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Niederrhein)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

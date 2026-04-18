@@ -4,9 +4,11 @@
   "bjnr": "BJNR207910963",
   "eli": null,
   "gii_slug": "wgleistvtritag",
-  "ingested_at": "2026-04-18T20:42:25Z",
   "jurabk": "WGLeistVtrITAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "6bdef0be02ecc01a9ebd3fc5b23f6a6360a2b1847dd949c35a8980aded9cdc25"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 2. Juni 1961 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über Leistungen zugunsten italienischer Staatsangehöriger, die von nationalsozialistischen Verfolgungsmaßnahmen betroffen worden sind",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

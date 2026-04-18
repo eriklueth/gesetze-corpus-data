@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR112700019",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/art-0001.md",
       "heading": "Änderung des Vertrags über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0002.md",
       "heading": "Bekanntmachungserlaubnis",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/art-0003.md",
       "heading": "Inkrafttreten",

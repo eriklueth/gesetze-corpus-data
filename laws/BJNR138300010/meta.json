@@ -4,9 +4,12 @@
   "bjnr": "BJNR138300010",
   "eli": null,
   "gii_slug": "kartkrebs_kartzystv",
-  "ingested_at": "2026-04-18T20:35:11Z",
   "jurabk": "KartKrebs/KartZystV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "0abf7d504355a8dea17ef29367686be609b08e5f77545c5f9f0e61dd188fd813"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Bekämpfung des Kartoffelkrebses und der Kartoffelzystennematoden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

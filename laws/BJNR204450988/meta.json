@@ -4,9 +4,11 @@
   "bjnr": "BJNR204450988",
   "eli": null,
   "gii_slug": "grberkrac_malvtrbelg",
-  "ingested_at": "2026-04-18T20:34:15Z",
   "jurabk": "GrBerKrAC/MalVtrBELG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "1a1ce21bb980339e73550977be33ba45272f96cd8a5f5579ab772d35226432ac"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Vertrag vom 26. März 1982 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die Berichtigung der deutsch-belgischen Grenze im Bereich der regulierten Grenzgewässer Breitenbach und Schwarzbach, Kreise Aachen und Malmedy",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

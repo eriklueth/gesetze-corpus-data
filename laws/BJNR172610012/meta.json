@@ -4,9 +4,12 @@
   "bjnr": "BJNR172610012",
   "eli": null,
   "gii_slug": "kspg",
-  "ingested_at": "2026-04-18T20:35:38Z",
   "jurabk": "KSpG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 50
+  },
   "source_hashes": {
     "source_xml_sha256": "0df3f27aa969ff0be7a9b5de3f358afd777edc2d15db69b277619f1c4361b0e0"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur dauerhaften Speicherung und zum Transport von Kohlendioxid",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

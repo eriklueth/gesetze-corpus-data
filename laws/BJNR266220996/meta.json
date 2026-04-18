@@ -4,9 +4,11 @@
   "bjnr": "BJNR266220996",
   "eli": null,
   "gii_slug": "grbr_ckabkcesg",
-  "ingested_at": "2026-04-18T20:34:15Z",
   "jurabk": "GrBrückAbkCESG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "3a0f502467d33dba565e4aa82fbe227d6283f5fec9a10de892b4c5de74a3f40a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Bau einer Grenzbrücke an der gemeinsamen Staatsgrenze im Zuge der Europastraße E 49",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

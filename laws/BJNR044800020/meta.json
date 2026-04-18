@@ -4,9 +4,12 @@
   "bjnr": "BJNR044800020",
   "eli": null,
   "gii_slug": "psychthappro",
-  "ingested_at": "2026-04-18T20:38:38Z",
   "jurabk": "PsychThApprO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 10,
+    "paragraph": 85
+  },
   "source_hashes": {
     "source_xml_sha256": "5c608adc16ffc018088f60064131010fa30c2b0b7c3bd70ee6385a977bc87fd4"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

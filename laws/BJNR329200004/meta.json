@@ -4,9 +4,11 @@
   "bjnr": "BJNR329200004",
   "eli": null,
   "gii_slug": "rvbund_knerg",
-  "ingested_at": "2026-04-18T20:39:09Z",
   "jurabk": "RVBund/KnErG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "1a2104cd3dc9d3c4534441ac703f532770885a66db30811433453e3720189ab5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Errichtung der Deutschen Rentenversicherung Bund und der Deutschen Rentenversicherung Knappschaft-Bahn-See",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

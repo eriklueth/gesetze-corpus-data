@@ -4,9 +4,11 @@
   "bjnr": "BJNR396100002",
   "eli": null,
   "gii_slug": "bapauschv",
-  "ingested_at": "2026-04-18T20:29:21Z",
   "jurabk": "BAPauschV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "3b6a34aab2d5c3a569da433d3730d41582c6a3cff17fc028608f6a41cbbfd565"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Pauschalierung und Zahlung des Ausgleichsbetrags der Bundesagentur für Arbeit an die Träger der gesetzlichen Rentenversicherung für arbeitsmarktbedingte Renten wegen voller Erwerbsminderung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

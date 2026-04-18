@@ -4,9 +4,11 @@
   "bjnr": "BJNR092500019",
   "eli": null,
   "gii_slug": "glprzmichelstadtv_2019",
-  "ingested_at": "2026-04-18T20:34:04Z",
   "jurabk": "GlPrZMichelstadtV 2019",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "9b1031c292c1af5785b13cbdb2e61df9911e1719bf3e2ab437dacd8d58b94405"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Gleichstellung von Prüfungszeugnissen der Berufsfachschule für das Holz und Elfenbein verarbeitende Handwerk in Michelstadt mit den Zeugnissen über das Bestehen der Gesellenprüfung in Ausbildungsberufen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

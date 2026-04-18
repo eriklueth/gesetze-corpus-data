@@ -4,9 +4,11 @@
   "bjnr": "BJNR195000014",
   "eli": null,
   "gii_slug": "bmeldd_v_2_2015",
-  "ingested_at": "2026-04-18T20:28:04Z",
   "jurabk": "BMeldDÜV 2 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "a49608acc37755dcbeb8f5b030adf1fe24a7bbf101efbf47393d1b6409f89a41"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der Meldebehörden an Behörden oder sonstige öffentliche Stellen des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

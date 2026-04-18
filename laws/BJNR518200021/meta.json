@@ -4,9 +4,12 @@
   "bjnr": "BJNR518200021",
   "eli": null,
   "gii_slug": "zertverwv",
-  "ingested_at": "2026-04-18T20:43:10Z",
   "jurabk": "ZertVerwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "4af3bf194c83e0de63f5729c35093cfcf1e71174a4c0bbce891c2dbc5eafcaad"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Prüfung zum zertifizierten Verwalter nach dem Wohnungseigentumsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR006500965",
   "eli": null,
   "gii_slug": "ausglfog_1965",
-  "ingested_at": "2026-04-18T20:29:09Z",
   "jurabk": "AusglFoG 1965",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "8fe2779ef0513990909b50f4d3619dd0002c74c375ebbc3d0c69bba18e045e27"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Tilgung von Ausgleichsforderungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

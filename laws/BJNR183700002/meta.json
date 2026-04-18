@@ -4,9 +4,11 @@
   "bjnr": "BJNR183700002",
   "eli": null,
   "gii_slug": "pharmausberprobv",
-  "ingested_at": "2026-04-18T20:38:21Z",
   "jurabk": "PharmAusbErprobV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "39518cfd2d3cdeb00dbd2aa027b9d3818a13ed6f80e29702f4032e39cfda2baf"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Erprobung einer neuen Ausbildungsform für die Berufsausbildung zum Pharmakanten/zur Pharmakantin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR018240978",
   "eli": null,
   "gii_slug": "babrigeschwv_1978",
-  "ingested_at": "2026-04-18T20:29:17Z",
   "jurabk": "BABRiGeschwV 1978",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "7d7dcffa722101a2102f0b31cd39e47f46abda1e1ad31b7cef21c822b0a13aca"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über eine allgemeine Richtgeschwindigkeit auf Autobahnen und ähnlichen Straßen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

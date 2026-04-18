@@ -4,9 +4,9 @@
   "bjnr": "BJNR011620967",
   "eli": null,
   "gii_slug": "m_nz5dmbek_1967-11",
-  "ingested_at": "2026-04-18T20:37:20Z",
   "jurabk": "Münz5DMBek 1967-11",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "895c61ae1d0ea63ab1cb1eb6679bfdfda2489fa3fbfa02c0b1f9cdc9997c9108"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 Deutschen Mark (Humboldt-Gedenkmünze)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

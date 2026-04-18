@@ -4,9 +4,11 @@
   "bjnr": "BJNR004130979",
   "eli": null,
   "gii_slug": "euabgg",
-  "ingested_at": "2026-04-18T20:32:30Z",
   "jurabk": "EuAbgG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "8e14a1cea9f4a724e48dd310b02528f73536ded34d60e387dd6d4a973c8bc55d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Rechtsverhältnisse der Mitglieder des Europäischen Parlaments aus der Bundesrepublik Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

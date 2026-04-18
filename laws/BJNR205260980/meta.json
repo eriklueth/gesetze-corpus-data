@@ -4,9 +4,9 @@
   "bjnr": "BJNR205260980",
   "eli": null,
   "gii_slug": "seeschint_bk1974prot",
-  "ingested_at": "2026-04-18T20:39:45Z",
   "jurabk": "SeeSchIntÜbk1974Prot",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c4e2e72bc18cd22894874d1559930ab1dceef904c52213fd72e55f4faf7e1e3f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Protokoll von 1978 zu dem Internationalen Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

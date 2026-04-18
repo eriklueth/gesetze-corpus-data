@@ -4,9 +4,12 @@
   "bjnr": "BJNR215100003",
   "eli": null,
   "gii_slug": "konfv_2003",
-  "ingested_at": "2026-04-18T20:35:26Z",
   "jurabk": "KonfV 2003",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "1fe1aab93699cbc12bf7928edb8691b78416ed6fb0bb4d5c66f633d3e04cdef2"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über Konfitüren und einige ähnliche Erzeugnisse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

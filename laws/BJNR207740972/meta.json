@@ -4,9 +4,9 @@
   "bjnr": "BJNR207740972",
   "eli": null,
   "gii_slug": "vollstrzust_bk",
-  "ingested_at": "2026-04-18T20:42:06Z",
   "jurabk": "VollstrZustÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2f5913205165c5d08f570ee9f1b7a33d09cd4c8286e17c93a5b9ade77875756c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

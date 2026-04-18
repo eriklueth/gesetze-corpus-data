@@ -4,9 +4,11 @@
   "bjnr": "BJNR002030992",
   "eli": null,
   "gii_slug": "rechkredv",
-  "ingested_at": "2026-04-18T20:38:51Z",
   "jurabk": "RechKredV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 40
+  },
   "source_hashes": {
     "source_xml_sha256": "c32aca3a62fb73d49a93437598771762e44fc285164f52ced13ec4b78309bfbc"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Rechnungslegung der Kreditinstitute, Finanzdienstleistungsinstitute und Wertpapierinstitute",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

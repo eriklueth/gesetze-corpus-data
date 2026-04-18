@@ -4,9 +4,9 @@
   "bjnr": "BJNR506820008",
   "eli": null,
   "gii_slug": "luftvodv_237",
-  "ingested_at": "2026-04-18T20:36:17Z",
   "jurabk": "LuftVODV 237",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "fe4aa2c52063001a20ae837412f8d25f079ab7413c71b68e7d4ee146d0c4f9d8"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweihundertsiebenunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen München)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR014410997",
   "eli": null,
   "gii_slug": "buttv_1997",
-  "ingested_at": "2026-04-18T20:31:05Z",
   "jurabk": "ButtV 1997",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "105b73a4818cd9e139e5f9da1df67bc0e3fcc3d97812aa91b5d0855f690cdfb4"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über Butter und andere Milchstreichfette",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

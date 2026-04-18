@@ -4,9 +4,12 @@
   "bjnr": "BJNR013000015",
   "eli": null,
   "gii_slug": "agebv",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "dd18427a52499594bdd1ac66eb7e14e2cdaaa0b754d5dd565538376bb03728f3"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Allgemeine Gebührenverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR600800015",
   "eli": null,
   "gii_slug": "luftvodv_253",
-  "ingested_at": "2026-04-18T20:36:17Z",
   "jurabk": "LuftVODV 253",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f0b5d66191ec954be326c54028bb5ec0250874f45bf12faf314b22a96ddc5f2e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweihundertdreiundfünfzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrsflughafen Neubrandenburg)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

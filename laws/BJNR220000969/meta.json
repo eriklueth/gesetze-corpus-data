@@ -4,9 +4,9 @@
   "bjnr": "BJNR220000969",
   "eli": null,
   "gii_slug": "natohqprot",
-  "ingested_at": "2026-04-18T20:37:30Z",
   "jurabk": "NATOHQProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "30c74b42bd94f5d0e8c2fc40552dc7d982f2110743b261426a346c66d1a13f90"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Protokoll über die Rechtsstellung der auf Grund des Nordatlantikvertrags errichteten internationalen militärischen Hauptquartiere",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

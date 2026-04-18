@@ -4,9 +4,11 @@
   "bjnr": "BJNR002170901",
   "eli": null,
   "gii_slug": "verlg",
-  "ingested_at": "2026-04-18T20:41:46Z",
   "jurabk": "VerlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 50
+  },
   "source_hashes": {
     "source_xml_sha256": "2863175ae13d6feeb0ed6ec241c621ed70256af9e8afab1ddebe05b4dbfb48e5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das Verlagsrecht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

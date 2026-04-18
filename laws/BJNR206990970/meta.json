@@ -4,9 +4,9 @@
   "bjnr": "BJNR206990970",
   "eli": null,
   "gii_slug": "grabfertvtr_aut_1967",
-  "ingested_at": "2026-04-18T20:34:12Z",
   "jurabk": "GrAbfertVtr AUT 1967",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e67ead47b3d4c74e3291513a2c556a18d796135cf26a1d4b30cace7d9b8997c8"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über zoll- und paßrechtliche Fragen, die sich an der deutsch-österreichischen Grenze bei Staustufen und Grenzbrücken ergeben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

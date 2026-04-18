@@ -4,9 +4,9 @@
   "bjnr": "BJNR210490955",
   "eli": null,
   "gii_slug": "vghilabkusag",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VgHilAbkUSAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "61bf69ed6e8021a48dc64b657dad0895e90f7f35adcbd6da12bbae2d7c8dedfe"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über das Abkommen vom 30. Juni 1955 zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika über gegenseitige Verteidigungshilfe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

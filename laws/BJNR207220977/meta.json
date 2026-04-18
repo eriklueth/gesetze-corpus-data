@@ -4,9 +4,9 @@
   "bjnr": "BJNR207220977",
   "eli": null,
   "gii_slug": "sozsichabk2ergabk_esp",
-  "ingested_at": "2026-04-18T20:40:20Z",
   "jurabk": "SozSichAbk2ErgAbk ESP",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b6e734daab42458163cf5eda03715dacb43e5549cad6c9e1ea773e791d6b1574"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zur Ergänzung des Abkommens vom 4. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Spanischen Staat über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

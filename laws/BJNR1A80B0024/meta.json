@@ -4,9 +4,11 @@
   "bjnr": "BJNR1A80B0024",
   "eli": null,
   "gii_slug": "wdo_2025",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WDO 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 152
+  },
   "source_hashes": {
     "source_xml_sha256": "45f20f1b5bf5340be1c11678b2b9a4742a55a5962bf8fa8b13e9dfe25e5257ae"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Wehrdisziplinarordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

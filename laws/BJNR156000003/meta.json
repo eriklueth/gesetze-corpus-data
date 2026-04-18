@@ -4,9 +4,12 @@
   "bjnr": "BJNR156000003",
   "eli": null,
   "gii_slug": "k_chmeistprv",
-  "ingested_at": "2026-04-18T20:35:42Z",
   "jurabk": "KüchMeistPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "112399a4c0b731c1f06f02378297bb87f56ebdca6ccb01a0514a4d579a1e41dd"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Küchenmeister/Geprüfte Küchenmeisterin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

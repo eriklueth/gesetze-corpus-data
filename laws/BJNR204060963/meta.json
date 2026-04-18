@@ -4,9 +4,9 @@
   "bjnr": "BJNR204060963",
   "eli": null,
   "gii_slug": "sozsichabk_bel",
-  "ingested_at": "2026-04-18T20:40:16Z",
   "jurabk": "SozSichAbk BEL",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "71d4e487b686416df78d0ce02e74b4abcabba5e8b4e9e86eda55339f679a3449"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Allgemeines Abkommen zwischen der Bundesrepublik Deutschland und dem KÖnigreich Belgien über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

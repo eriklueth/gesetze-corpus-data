@@ -4,9 +4,9 @@
   "bjnr": "BJNR178500008",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2008-08-25",
-  "ingested_at": "2026-04-18T20:36:57Z",
   "jurabk": "Münz10EuroBek 2008-08-25",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7a5cdfc4b71798184c0ab167b11f3e0fb6d2c2faf3ca15273a27afaf329cb599"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Himmelsscheibe von Nebra“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

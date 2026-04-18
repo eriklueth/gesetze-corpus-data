@@ -4,9 +4,11 @@
   "bjnr": "BJNR113700017",
   "eli": null,
   "gii_slug": "eupag",
-  "ingested_at": "2026-04-18T20:32:42Z",
   "jurabk": "EuPAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 30
+  },
   "source_hashes": {
     "source_xml_sha256": "f9b25bfc7f6c8b224c3ec79b83f6632a0359ad380df59867550bf5ccc3ff4c42"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Tätigkeit europäischer Patentanwälte in Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

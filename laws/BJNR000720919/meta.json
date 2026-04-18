@@ -4,9 +4,11 @@
   "bjnr": "BJNR000720919",
   "eli": null,
   "gii_slug": "erbbauv",
-  "ingested_at": "2026-04-18T20:32:23Z",
   "jurabk": "ErbbauV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 40
+  },
   "source_hashes": {
     "source_xml_sha256": "5f2b1371847e07055931468363a4f807db6f5bf141653e5754679eda293952f1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das Erbbaurecht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

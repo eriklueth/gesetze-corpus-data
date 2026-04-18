@@ -4,9 +4,9 @@
   "bjnr": "BJNR210440962",
   "eli": null,
   "gii_slug": "finausglvtr_aut",
-  "ingested_at": "2026-04-18T20:33:07Z",
   "jurabk": "FinAusglVtr AUT",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "17b68a8be4484ff49c2f6acf6be89b7b410eb320b7425237395967d69820e19f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich zur Regelung von Schäden der Vertriebenen, Umsiedler und Verfolgten, über weitere finanzielle Fragen und Fragen aus dem sozialen Bereich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

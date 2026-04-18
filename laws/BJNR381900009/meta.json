@@ -4,9 +4,9 @@
   "bjnr": "BJNR381900009",
   "eli": null,
   "gii_slug": "btgo1980_bernbek",
-  "ingested_at": "2026-04-18T20:30:57Z",
   "jurabk": "BTGO1980ÜbernBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1edbf81a59c47bd314d275cbc694669dbab21176f3a4c604c265d5239508ec02"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zur Übernahme der Geschäftsordnung des Deutschen Bundestages",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

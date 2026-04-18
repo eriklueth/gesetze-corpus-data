@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR18D0B0023",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Abschnitt 1 Anwendungsbereich"
@@ -13,6 +14,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Abschnitt 1 Anwendungsbereich"
@@ -23,6 +25,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Abschnitt 1 Anwendungsbereich"
@@ -33,6 +36,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Abschnitt 1 Anwendungsbereich"
@@ -43,6 +47,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Abschnitt 1 Anwendungsbereich"
@@ -53,6 +58,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Abschnitt 1 Anwendungsbereich"
@@ -63,6 +69,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 40,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Abschnitt 1 Anwendungsbereich",
@@ -74,6 +81,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Ergänzungssteuer",
@@ -85,6 +93,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Ergänzungssteuer",
@@ -96,6 +105,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Ergänzungssteuer",
@@ -107,6 +117,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Ergänzungssteuer",
@@ -118,6 +129,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Ergänzungssteuer",
@@ -129,6 +141,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Ergänzungssteuer",
@@ -140,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Ergänzungssteuer",
@@ -151,6 +165,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -162,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -173,6 +189,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -184,6 +201,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -196,6 +214,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -208,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -220,6 +240,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -232,6 +253,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -244,6 +266,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -256,6 +279,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -268,6 +292,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -280,6 +305,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -292,6 +318,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -304,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -316,6 +344,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -328,6 +357,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -340,6 +370,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -352,6 +383,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -364,6 +396,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -376,6 +409,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -387,6 +421,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -398,6 +433,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -409,6 +445,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -420,6 +457,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -431,6 +469,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -442,6 +481,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -453,6 +493,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -464,6 +505,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -475,6 +517,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Ermittlung des Mindeststeuer-Gewinns oder Mindeststeuer-Verlusts",
@@ -486,6 +529,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Ermittlung der angepassten erfassten Steuern",
@@ -497,6 +541,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Ermittlung der angepassten erfassten Steuern",
@@ -508,6 +553,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Ermittlung der angepassten erfassten Steuern",
@@ -519,6 +565,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Ermittlung der angepassten erfassten Steuern",
@@ -530,6 +577,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Ermittlung der angepassten erfassten Steuern",
@@ -541,6 +589,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Ermittlung der angepassten erfassten Steuern",
@@ -552,6 +601,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Ermittlung der angepassten erfassten Steuern",
@@ -563,6 +613,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Ermittlung der angepassten erfassten Steuern",
@@ -574,6 +625,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Ermittlung der angepassten erfassten Steuern",
@@ -585,6 +637,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Ermittlung der angepassten erfassten Steuern",
@@ -596,6 +649,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags",
@@ -608,6 +662,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags",
@@ -620,6 +675,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags",
@@ -632,6 +688,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags",
@@ -644,6 +701,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags",
@@ -656,6 +714,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags",
@@ -667,6 +726,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags",
@@ -678,6 +738,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags",
@@ -689,6 +750,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags",
@@ -700,6 +762,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Ermittlung des effektiven Steuersatzes und des Steuererhöhungsbetrags",
@@ -711,6 +774,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Unternehmensumstrukturierungen und Beteiligungsstrukturen",
@@ -722,6 +786,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Unternehmensumstrukturierungen und Beteiligungsstrukturen",
@@ -733,6 +798,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Unternehmensumstrukturierungen und Beteiligungsstrukturen",
@@ -744,6 +810,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Unternehmensumstrukturierungen und Beteiligungsstrukturen",
@@ -755,6 +822,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Unternehmensumstrukturierungen und Beteiligungsstrukturen",
@@ -766,6 +834,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Unternehmensumstrukturierungen und Beteiligungsstrukturen",
@@ -777,6 +846,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Besonderheiten bei obersten Muttergesellschaften, Ausschüttungssystemen und Investmenteinheiten",
@@ -788,6 +858,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Besonderheiten bei obersten Muttergesellschaften, Ausschüttungssystemen und Investmenteinheiten",
@@ -799,6 +870,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Besonderheiten bei obersten Muttergesellschaften, Ausschüttungssystemen und Investmenteinheiten",
@@ -810,6 +882,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Besonderheiten bei obersten Muttergesellschaften, Ausschüttungssystemen und Investmenteinheiten",
@@ -821,6 +894,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Besonderheiten bei obersten Muttergesellschaften, Ausschüttungssystemen und Investmenteinheiten",
@@ -832,6 +906,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Besonderheiten bei obersten Muttergesellschaften, Ausschüttungssystemen und Investmenteinheiten",
@@ -843,6 +918,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Administration",
@@ -854,6 +930,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Administration",
@@ -865,6 +942,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Administration",
@@ -876,6 +954,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Administration",
@@ -887,6 +966,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Administration",
@@ -899,6 +979,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Administration",
@@ -911,6 +992,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Administration",
@@ -923,6 +1005,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Administration",
@@ -935,6 +1018,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -946,6 +1030,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -957,6 +1042,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -968,6 +1054,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -979,6 +1066,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -990,6 +1078,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -1001,6 +1090,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -1012,6 +1102,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -1023,6 +1114,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -1034,6 +1126,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -1045,6 +1138,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -1056,6 +1150,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -1067,6 +1162,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsregelungen",
@@ -1078,6 +1174,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 10 Nationale Ergänzungssteuer",
@@ -1089,6 +1186,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 10 Nationale Ergänzungssteuer",
@@ -1100,6 +1198,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 10 Nationale Ergänzungssteuer",
@@ -1111,6 +1210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 10 Nationale Ergänzungssteuer",
@@ -1122,6 +1222,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 10 Nationale Ergänzungssteuer",
@@ -1133,6 +1234,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 11 Besteuerungsverfahren und sonstige Bestimmungen",
@@ -1144,6 +1246,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 11 Besteuerungsverfahren und sonstige Bestimmungen",
@@ -1155,6 +1258,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 11 Besteuerungsverfahren und sonstige Bestimmungen",
@@ -1166,6 +1270,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 11 Besteuerungsverfahren und sonstige Bestimmungen",
@@ -1177,6 +1282,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 11 Besteuerungsverfahren und sonstige Bestimmungen",
@@ -1188,6 +1294,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 11 Besteuerungsverfahren und sonstige Bestimmungen",
@@ -1199,6 +1306,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 11 Besteuerungsverfahren und sonstige Bestimmungen",
@@ -1210,6 +1318,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 11 Besteuerungsverfahren und sonstige Bestimmungen",

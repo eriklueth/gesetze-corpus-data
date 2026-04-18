@@ -4,9 +4,11 @@
   "bjnr": "BJNR001940960",
   "eli": null,
   "gii_slug": "svorgsaarg",
-  "ingested_at": "2026-04-18T20:40:59Z",
   "jurabk": "SVOrgSaarG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 37
+  },
   "source_hashes": {
     "source_xml_sha256": "0badde0740fc51c0c02f4f97cfffa6e696d394bba7702596c57b3faa94792bd8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Neuordnung der Sozialversicherungsträger im Saarland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

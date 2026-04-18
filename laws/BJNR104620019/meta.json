@@ -4,9 +4,11 @@
   "bjnr": "BJNR104620019",
   "eli": null,
   "gii_slug": "dtgrjwabkv",
-  "ingested_at": "2026-04-18T20:31:51Z",
   "jurabk": "DtGrJWAbkV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "9f5e86c28aa8324122e9e6a17a31f8d0bf38f43ab139c4c7260f11e1325fcc69"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zu dem Abkommen vom 4. Juli 2019 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Hellenischen Republik über das Deutsch-Griechische Jugendwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR073100997",
   "eli": null,
   "gii_slug": "bvsauflg",
-  "ingested_at": "2026-04-18T20:31:09Z",
   "jurabk": "BVSAuflG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "743068eba51f54034fda6f0d32666b1c33b26223deeec38dba2795a336ee0f74"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Auflösung des Bundesverbandes für den Selbstschutz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

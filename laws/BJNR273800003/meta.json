@@ -4,9 +4,12 @@
   "bjnr": "BJNR273800003",
   "eli": null,
   "gii_slug": "kakaov_2003",
-  "ingested_at": "2026-04-18T20:35:10Z",
   "jurabk": "KakaoV 2003",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "3cdf30b0549fb4517e2a83c454b7fe6bd5028a2f274d782a9157220b106040ca"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Kakao- und Schokoladenerzeugnisse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

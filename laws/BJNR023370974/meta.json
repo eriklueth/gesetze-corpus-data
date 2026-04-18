@@ -4,9 +4,11 @@
   "bjnr": "BJNR023370974",
   "eli": null,
   "gii_slug": "bpersvwo",
-  "ingested_at": "2026-04-18T20:30:38Z",
   "jurabk": "BPersVWO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 55
+  },
   "source_hashes": {
     "source_xml_sha256": "ae3b227fd5576da8be1efd7e971247ccdd30b8ed8f2fc7c6f544b9d037ba6bee"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Wahlordnung zum Bundespersonalvertretungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

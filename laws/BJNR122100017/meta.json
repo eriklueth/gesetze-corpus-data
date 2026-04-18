@@ -4,9 +4,9 @@
   "bjnr": "BJNR122100017",
   "eli": null,
   "gii_slug": "m_nz50eurobek_2017-05-15",
-  "ingested_at": "2026-04-18T20:37:19Z",
   "jurabk": "Münz50EuroBek 2017-05-15",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a75a32de8dd68644bd48d41645ea1aea52a437554c2086212d5785c69b1f162b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 50 Euro (Goldmünze „Lutherrose“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

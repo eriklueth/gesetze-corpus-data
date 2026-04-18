@@ -4,9 +4,9 @@
   "bjnr": "BJNR212490985",
   "eli": null,
   "gii_slug": "egbeitresp_prtg",
-  "ingested_at": "2026-04-18T20:31:59Z",
   "jurabk": "EGBeitrESP/PRTG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "72aea5d14789de7a2e8cd89fa13bba040056c90e3355ed7a40b8e6d71d653ec8"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 12. Juni 1985 und dem Beitritt des Königreichs Spanien und der Portugiesischen Republik zur Europäischen Wirtschaftsgemeinschaft, zur Europäischen Atomgemeinschaft und zur Europäischen Gemeinschaft für Kohle und Stahl",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

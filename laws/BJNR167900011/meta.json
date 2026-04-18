@@ -4,9 +4,12 @@
   "bjnr": "BJNR167900011",
   "eli": null,
   "gii_slug": "geswfachwprv",
-  "ingested_at": "2026-04-18T20:33:48Z",
   "jurabk": "GesWFachwPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "2c6bf598152c85daa3f43f0f6569e9b7bbf71f324d4c832438623cd8847d366e"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt im Gesundheits- und Sozialwesen und Geprüfte Fachwirtin im Gesundheits- und Sozialwesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

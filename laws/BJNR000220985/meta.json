@@ -4,9 +4,11 @@
   "bjnr": "BJNR000220985",
   "eli": null,
   "gii_slug": "amwarnv",
-  "ingested_at": "2026-04-18T20:28:45Z",
   "jurabk": "AMWarnV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "5b6f19350e6d010495f422a8f6db465b10f4bb802b34ae4291694ed794cd668a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Arzneimittel-Warnhinweisverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

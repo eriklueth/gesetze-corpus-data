@@ -4,9 +4,11 @@
   "bjnr": "BJNR043000998",
   "eli": null,
   "gii_slug": "gefbeitrv_1998",
-  "ingested_at": "2026-04-18T20:33:40Z",
   "jurabk": "GefBeitrV 1998",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "245bc73379dd60405bca449b1cd963d48f89924302e5b8d481cdd1bd398efa2a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Pauschalberechnung der Beiträge zur Arbeitsförderung für Gefangene",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

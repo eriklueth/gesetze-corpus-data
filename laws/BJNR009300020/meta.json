@@ -4,9 +4,12 @@
   "bjnr": "BJNR009300020",
   "eli": null,
   "gii_slug": "trgebv_2020",
-  "ingested_at": "2026-04-18T20:41:20Z",
   "jurabk": "TrGebV 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "fb97ccf2152cd32ac8c877e1829ed35da21f1ec73341f351e16f820f879352c5"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Besondere Gebührenverordnung des Bundesministeriums der Finanzen zum Transparenzregister",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

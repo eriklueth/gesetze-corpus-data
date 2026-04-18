@@ -4,9 +4,11 @@
   "bjnr": "BJNR002300970",
   "eli": null,
   "gii_slug": "befbedv",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BefBedV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "cad8406b8e3f9bbc4bb35cc3c0090229bbf6655e91aed0e9950fe161bf121e1a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR077210022",
   "eli": null,
   "gii_slug": "nok-gefabwv",
-  "ingested_at": "2026-04-18T20:37:41Z",
   "jurabk": "NOK-GefAbwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "9cd4cebde77bd3188133e74db17ae3e086b18b6a4415edcaf70b3f466729a034"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Gefahrenabwehr in den bundeseigenen Schleusenanlagen im Nord-Ostsee-Kanal",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

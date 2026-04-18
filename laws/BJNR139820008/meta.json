@@ -4,9 +4,9 @@
   "bjnr": "BJNR139820008",
   "eli": null,
   "gii_slug": "dbarus_ndprotg",
-  "ingested_at": "2026-04-18T20:31:31Z",
   "jurabk": "DBARUSÄndProtG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "53eef52676017c5a90636413211b6df08ae5322ec58db12948179042de97afba"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Protokoll vom 15. Oktober 2007 zur Änderung des Abkommens zwischen der Bundesrepublik Deutschland und der Russischen Föderation zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen vom 29. Mai 1996 und des Protokolls hierzu vom 29. Mai 1996",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

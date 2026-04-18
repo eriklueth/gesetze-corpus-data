@@ -4,9 +4,12 @@
   "bjnr": "BJNR010050934",
   "eli": null,
   "gii_slug": "estg",
-  "ingested_at": "2026-04-18T20:32:29Z",
   "jurabk": "EStG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 239
+  },
   "source_hashes": {
     "source_xml_sha256": "d06110a8644e95fad36558c9aaa3c0801e24a1f5d1705f35b20f543435ce0a95"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Einkommensteuergesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

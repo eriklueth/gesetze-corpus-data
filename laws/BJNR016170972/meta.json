@@ -4,9 +4,12 @@
   "bjnr": "BJNR016170972",
   "eli": null,
   "gii_slug": "mog",
-  "ingested_at": "2026-04-18T20:36:40Z",
   "jurabk": "MOG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 56
+  },
   "source_hashes": {
     "source_xml_sha256": "e621df01c051e0acab937727db3b14be23b982a2d8f3830d81b34fe923d13e79"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz zur Durchführung der gemeinsamen Marktorganisationen und der Direktzahlungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

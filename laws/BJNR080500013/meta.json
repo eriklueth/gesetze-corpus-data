@@ -4,9 +4,12 @@
   "bjnr": "BJNR080500013",
   "eli": null,
   "gii_slug": "auswerlv",
-  "ingested_at": "2026-04-18T20:29:17Z",
   "jurabk": "AuswErlV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "066fb5ef97d24ba797e0db44ee65c7e1e49a726ce616928b8a7466c77172c4b2"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Erlaubnis zur Auswandererberatung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

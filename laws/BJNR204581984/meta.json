@@ -4,9 +4,9 @@
   "bjnr": "BJNR204581984",
   "eli": null,
   "gii_slug": "ecer_44",
-  "ingested_at": "2026-04-18T20:31:56Z",
   "jurabk": "ECER 44",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e46339ea087d955575b8214a4642f106e0043bbd50432db869d38671f2578301"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "ECE-Regelung Nr. 44 (Anlageband zur Verordnung über die Inkraftsetzung der Regelung Nr. 44 über Rückhalteeinrichtungen für Kinder in Kraftfahrzeugen nach dem Übereinkommen vom 20. März 1958 über die Annahme einheitlicher Bedingungen für die Genehmigung der Ausrüstungsgegenstände und Teile von Kraftfahrzeugen und über die gegenseitige Anerkennung der Genehmigung)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

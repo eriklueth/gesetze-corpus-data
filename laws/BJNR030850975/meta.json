@@ -4,9 +4,11 @@
   "bjnr": "BJNR030850975",
   "eli": null,
   "gii_slug": "ewgv1016_68dv",
-  "ingested_at": "2026-04-18T20:32:56Z",
   "jurabk": "EWGV1016/68DV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "a301e2ebd69d21765a94541dfc61280ff00f4d468ad8a7b3aa79d9c92c6ee2b7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung der Verordnung Nr. 117/66/EWG und der Verordnung (EWG) Nr. 1016/68 und des Übereinkommens über die Personenbeförderung im grenzüberschreitenden Gelegenheitsverkehr mit Kraftomnibussen (ASOR)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

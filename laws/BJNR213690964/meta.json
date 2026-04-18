@@ -4,9 +4,11 @@
   "bjnr": "BJNR213690964",
   "eli": null,
   "gii_slug": "euauslf_rhi_bkg",
-  "ingested_at": "2026-04-18T20:32:30Z",
   "jurabk": "EuAuslf/RHiÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "702882967cc9ad7268de26b61a87ba278c822be54d94e215f55ff94144c3d650"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Europäischen Auslieferungsübereinkommen vom 13. Dezember 1957 und zu dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

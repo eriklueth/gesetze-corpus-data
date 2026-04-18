@@ -4,9 +4,11 @@
   "bjnr": "BJNR094610995",
   "eli": null,
   "gii_slug": "nachwg",
-  "ingested_at": "2026-04-18T20:37:29Z",
   "jurabk": "NachwG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "dbed307d72da59a1a81d61a850087c1b73f46f594a20e03e3fdd7b6720827206"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über den Nachweis der für ein Arbeitsverhältnis geltenden wesentlichen Bedingungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

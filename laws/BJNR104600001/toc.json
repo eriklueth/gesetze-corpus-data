@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR104600001",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0001.md",
       "heading": "",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0063.md",
       "heading": "",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0064.md",
       "heading": "Rückkehr zum einheitlichen Verordnungsrang",
@@ -24,6 +27,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0065.md",
       "heading": "Neubekanntmachung",
@@ -31,6 +35,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0066.md",
       "heading": "",
@@ -38,6 +43,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/art-0067.md",
       "heading": "Übergangsvorschriften",
@@ -45,6 +51,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/art-0068.md",
       "heading": "Inkrafttreten",

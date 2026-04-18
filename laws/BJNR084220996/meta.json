@@ -4,9 +4,9 @@
   "bjnr": "BJNR084220996",
   "eli": null,
   "gii_slug": "abzusforstabkpolprot",
-  "ingested_at": "2026-04-18T20:28:25Z",
   "jurabk": "ABZusForstAbkPOLProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c12239ec1af28b7f69b4b1a63525a3ada4f3b4970c2af71bde0413687e3ac4f1"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Protokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß sowie über den Bau und den Umbau einer Grenzbrücke im Raum Forst und Erlenholz (Olszyna)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

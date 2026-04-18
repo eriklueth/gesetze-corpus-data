@@ -4,9 +4,9 @@
   "bjnr": "BJNR098320012",
   "eli": null,
   "gii_slug": "esmvtr",
-  "ingested_at": "2026-04-18T20:32:28Z",
   "jurabk": "ESMVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5ae01d7fa053e982cb51858b141d326b026becc83bed981a49187b778562e644"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zur Einrichtung des Europäischen Stabilitätsmechanismus zwischen dem Königreich Belgien, der Bundesrepublik Deutschland, der Republik Estland, Irland, der Hellenischen Republik, dem Königreich Spanien, der Französischen Republik, der Italienischen Republik, der Republik Zypern, dem Großherzogtum Luxemburg, Malta, dem Königreich der Niederlande, der Republik Österreich, der Portugiesischen Republik, der Republik Slowenien, der Slowakischen Republik und der Republik Finnland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

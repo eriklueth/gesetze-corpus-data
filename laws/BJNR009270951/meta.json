@@ -4,9 +4,9 @@
   "bjnr": "BJNR009270951",
   "eli": null,
   "gii_slug": "amtsscherl",
-  "ingested_at": "2026-04-18T20:28:45Z",
   "jurabk": "AmtsschErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "aadf228763a1c6b80eaeb9da61b2e3a1cfcda68ec3ff83cfb5529844bca0de6f"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Erlaß über die Amtsschilder der Bundesbehörden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

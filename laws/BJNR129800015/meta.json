@@ -4,9 +4,12 @@
   "bjnr": "BJNR129800015",
   "eli": null,
   "gii_slug": "orthopschuhmausbv",
-  "ingested_at": "2026-04-18T20:37:57Z",
   "jurabk": "OrthopschuhmAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "0d9949336aa471bf5895af8e9863bd6449e5e937902512d405ede770f73a4462"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Orthopädieschuhmacher und zur Orthopädieschuhmacherin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

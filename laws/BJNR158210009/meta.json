@@ -4,9 +4,12 @@
   "bjnr": "BJNR158210009",
   "eli": null,
   "gii_slug": "battg",
-  "ingested_at": "2026-04-18T20:29:28Z",
   "jurabk": "BattG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "c467df68b1ec5f1e6a66f08f6d9a8540b006864968af23b2f1c8dbbc739c257e"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Batterien und Akkumulatoren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

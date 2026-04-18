@@ -4,9 +4,12 @@
   "bjnr": "BJNR073400994",
   "eli": null,
   "gii_slug": "babwismarg",
-  "ingested_at": "2026-04-18T20:29:17Z",
   "jurabk": "BABWismarG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 12,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "a65d366092d940c8f26cf79809c9af3ae2f8d638b6569cd8c8fcd85f9f4453c4"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz über den Bau des Abschnitts Wismar West-Wismar Ost der Bundesautobahn A 20 Lübeck-Bundesgrenze (A 11)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

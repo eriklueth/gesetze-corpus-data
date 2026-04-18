@@ -4,9 +4,9 @@
   "bjnr": "BJNR201420987",
   "eli": null,
   "gii_slug": "emsschoabk",
-  "ingested_at": "2026-04-18T20:32:17Z",
   "jurabk": "EmsSchOAbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "56db104b08db1d67cc2d5d25bd3558864b2e1ce4b7f4e89f018e6af55fc9bb5b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung des Königreichs der Niederlande über die Schiffahrtsordnung in der Emsmündung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

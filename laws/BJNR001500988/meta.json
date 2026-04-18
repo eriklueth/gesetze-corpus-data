@@ -4,9 +4,11 @@
   "bjnr": "BJNR001500988",
   "eli": null,
   "gii_slug": "bshg_88abs2dv_1988",
-  "ingested_at": "2026-04-18T20:30:49Z",
   "jurabk": "BSHG§88Abs2DV 1988",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "33b895b445d28dcee5586e46fd2757f9b6d726d8d051626b8f952e6b084d9381"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des § 90 Abs. 2 Nr. 9 des Zwölften Buches Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

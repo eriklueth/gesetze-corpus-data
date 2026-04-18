@@ -4,9 +4,12 @@
   "bjnr": "BJNR12F0A0023",
   "eli": null,
   "gii_slug": "auslzustv_2024",
-  "ingested_at": "2026-04-18T20:29:17Z",
   "jurabk": "AuslZustV 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "651fdf087a99fc275aec9f2435540979a88d1aeabcc88fe7437df2d6da0d7631"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Zuständigkeit für Leistungen der Sozialen Entschädigung für Berechtigte im Ausland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

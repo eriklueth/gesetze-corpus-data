@@ -4,9 +4,11 @@
   "bjnr": "BJNR024600008",
   "eli": null,
   "gii_slug": "btm_ndv_21",
-  "ingested_at": "2026-04-18T20:28:09Z",
   "jurabk": "BtMÄndV 21",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "e56497a8c802ef61f1c094d422c0946cb76c4fde393ac0c0b479600bf2956810"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Einundzwanzigste Verordnung zur Änderung betäubungsmittelrechtlicher Vorschriften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR086400000",
   "eli": null,
   "gii_slug": "verfglasausbv",
-  "ingested_at": "2026-04-18T20:41:42Z",
   "jurabk": "VerfGlasAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "16f795d9d540e3c21587d9ea4cbe1624f3704d8891e1a294a1164231d7b2a135"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Verfahrensmechaniker Glastechnik/zur Verfahrensmechanikerin Glastechnik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

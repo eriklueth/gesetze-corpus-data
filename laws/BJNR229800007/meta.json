@@ -4,9 +4,9 @@
   "bjnr": "BJNR229800007",
   "eli": null,
   "gii_slug": "m_nz100eurobek_2007",
-  "ingested_at": "2026-04-18T20:36:48Z",
   "jurabk": "Münz100EuroBek 2007",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d172593066d3e0e39e55a14aa09ac231e3a74e073b8a0de598a74e24fdfd6bb5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

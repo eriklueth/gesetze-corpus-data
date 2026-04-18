@@ -4,9 +4,11 @@
   "bjnr": "BJNR11D0A0023",
   "eli": null,
   "gii_slug": "ustschlfestv_2024",
-  "ingested_at": "2026-04-18T20:41:38Z",
   "jurabk": "UStSchlFestV 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "46fc6324ab16b02720087461e030e978727855c909399985e59318ec83f56f47"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Festsetzung der Länderschlüsselzahlen und die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils an der Umsatzsteuer nach § 5a des Gemeindefinanzreformgesetzes für die Jahre 2024, 2025 und 2026",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

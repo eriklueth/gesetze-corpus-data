@@ -4,9 +4,9 @@
   "bjnr": "BJNR301500009",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2009-09-04",
-  "ingested_at": "2026-04-18T20:36:57Z",
   "jurabk": "Münz10EuroBek 2009-09-04",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ab77b45a49f6a71056a4799f728a4fe4611860f128496fead6afa92b2f856c76"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „100. Geburtstag Marion Gräfin Dönhoff“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

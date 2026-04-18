@@ -4,9 +4,12 @@
   "bjnr": "DDNR514700990",
   "eli": null,
   "gii_slug": "natpsschweizv",
-  "ingested_at": "2026-04-18T20:37:33Z",
   "jurabk": "NatPsSchweizV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "2a7d4e76e9cac24a751ad7c55c1fd460c9c9da4e8fab2e0ba78658432a6a8d42"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Festsetzung des Nationalparks Sächsische Schweiz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

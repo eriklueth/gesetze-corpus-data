@@ -4,9 +4,9 @@
   "bjnr": "BJNR050820999",
   "eli": null,
   "gii_slug": "auslstreitkrnotw",
-  "ingested_at": "2026-04-18T20:29:10Z",
   "jurabk": "AuslStreitkrNotW",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "efe985d3ee10944b3439004461a14661d4d9fab93d5e4140308eb9f1d204cece"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Notenwechsel vom 29. April 1998 über die Rechtsstellung der dänischen, griechischen, italienischen, luxemburgischen, norwegischen, portugiesischen, spanischen und türkischen Streitkräfte in der Bundesrepublik Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR017090970",
   "eli": null,
   "gii_slug": "niederlfrhewgdg_2",
-  "ingested_at": "2026-04-18T20:37:42Z",
   "jurabk": "NiederlFrhEWGDG 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "aa7a0fe902213367775799e28ff66b941466d20d48086c343d140abd35bf3d7b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Zweites Gesetz zur Durchführung von Richtlinien der Europäischen Wirtschaftsgemeinschaft über die Niederlassungsfreiheit und den freien Dienstleistungsverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR006860950",
   "eli": null,
   "gii_slug": "m_nz2pfbek_1950",
-  "ingested_at": "2026-04-18T20:37:19Z",
   "jurabk": "Münz2PfBek 1950",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4780bdc8ab2249cff52b3a51001f1b21e26c156f945498139e4423858fbdb1f0"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 Deutschen Pfennig",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR102050990",
   "eli": null,
   "gii_slug": "uvpg",
-  "ingested_at": "2026-04-18T20:41:39Z",
   "jurabk": "UVPG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 6,
+    "paragraph": 79
+  },
   "source_hashes": {
     "source_xml_sha256": "b1321f0620f38fd21bcb59e9105272639016fad9b12e9142568f45ec2bfef19d"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über die Umweltverträglichkeitsprüfung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

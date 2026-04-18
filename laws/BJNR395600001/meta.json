@@ -4,9 +4,11 @@
   "bjnr": "BJNR395600001",
   "eli": null,
   "gii_slug": "finausglg_2005",
-  "ingested_at": "2026-04-18T20:33:00Z",
   "jurabk": "FinAusglG 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "1f2ed4d49aefa777051ebfea7a7a750103a146fc994cc6ecf1c8b9f5032af1c5"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Gesetz über den Finanzausgleich zwischen Bund und Ländern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

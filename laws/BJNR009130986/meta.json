@@ -4,9 +4,11 @@
   "bjnr": "BJNR009130986",
   "eli": null,
   "gii_slug": "maindonwasstrg_2",
-  "ingested_at": "2026-04-18T20:36:23Z",
   "jurabk": "MainDonWasStrG 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "f502925bc54b8d952fbd57d5de3b71654c350c1f8a7f830b9e3a8636658a2ed6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Zweites Gesetz über den rechtlichen Status der Main-Donau-Wasserstraße",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

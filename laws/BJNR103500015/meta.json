@@ -4,9 +4,9 @@
   "bjnr": "BJNR103500015",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2015-06-23",
-  "ingested_at": "2026-04-18T20:37:01Z",
   "jurabk": "Münz10EuroBek 2015-06-23",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e22a906a35148765c60269862960164c109c37c8cf5146d932ce91aa3c27be73"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „300 Jahre Fahrenheit-Skala“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

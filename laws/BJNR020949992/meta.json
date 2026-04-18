@@ -4,9 +4,9 @@
   "bjnr": "BJNR020949992",
   "eli": null,
   "gii_slug": "kfbg",
-  "ingested_at": "2026-04-18T20:35:14Z",
   "jurabk": "KfbG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8b151eee6173f4877edfa8a11a22b425dbc1a2ddd8e58a9a78ac1724122e39a7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Bereinigung von Kriegsfolgengesetzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

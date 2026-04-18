@@ -4,9 +4,11 @@
   "bjnr": "BJNR015770977",
   "eli": null,
   "gii_slug": "schersr_ndg",
-  "ingested_at": "2026-04-18T20:39:31Z",
   "jurabk": "SchErsRÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "c474aea1f9b7ab7b940d77a54ff2b0a2ddc5868f2af423cdda7410db7f625197"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Änderung schadensersatzrechtlicher Vorschriften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

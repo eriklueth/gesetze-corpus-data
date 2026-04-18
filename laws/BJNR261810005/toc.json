@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR261810005",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -109,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -119,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -129,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -139,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -149,6 +164,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Verkehr mit Lebensmitteln"
@@ -159,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -169,6 +186,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -179,6 +197,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -189,6 +208,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -199,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -209,6 +230,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -219,6 +241,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -229,6 +252,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -239,6 +263,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -249,6 +274,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -259,6 +285,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -269,6 +296,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Verkehr mit Futtermitteln"
@@ -279,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Verkehr mit Mitteln zum Tätowieren und kosmetischen Mitteln"
@@ -289,6 +318,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Verkehr mit Mitteln zum Tätowieren und kosmetischen Mitteln"
@@ -299,6 +329,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Verkehr mit Mitteln zum Tätowieren und kosmetischen Mitteln"
@@ -309,6 +340,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Verkehr mit Mitteln zum Tätowieren und kosmetischen Mitteln"
@@ -319,6 +351,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Verkehr mit sonstigen Bedarfsgegenständen"
@@ -329,6 +362,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Verkehr mit sonstigen Bedarfsgegenständen"
@@ -339,6 +373,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Verkehr mit sonstigen Bedarfsgegenständen"
@@ -349,6 +384,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Verkehr mit sonstigen Bedarfsgegenständen"
@@ -359,6 +395,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Gemeinsame Vorschriften für alle Erzeugnisse"
@@ -369,6 +406,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Gemeinsame Vorschriften für alle Erzeugnisse"
@@ -379,6 +417,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Gemeinsame Vorschriften für alle Erzeugnisse"
@@ -389,6 +428,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Gemeinsame Vorschriften für alle Erzeugnisse"
@@ -399,6 +439,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -409,6 +450,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -419,6 +461,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -429,6 +472,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -439,6 +483,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -449,6 +494,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -459,6 +505,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -469,6 +516,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -479,6 +527,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -489,6 +538,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -499,6 +549,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -509,6 +560,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -519,6 +571,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -529,6 +582,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -539,6 +593,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -549,6 +604,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -559,6 +615,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -569,6 +626,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Überwachung"
@@ -579,6 +637,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 8 Monitoring"
@@ -589,6 +648,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 8 Monitoring"
@@ -599,6 +659,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 8 Monitoring"
@@ -609,6 +670,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 9 Verbringen in das und aus dem Inland"
@@ -619,6 +681,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 9 Verbringen in das und aus dem Inland"
@@ -629,6 +692,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 9 Verbringen in das und aus dem Inland"
@@ -639,6 +703,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 9 Verbringen in das und aus dem Inland"
@@ -649,6 +714,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 9 Verbringen in das und aus dem Inland"
@@ -659,6 +725,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 9a Besondere Regelungen zum Schutz vor ionisierender Strahlung"
@@ -669,6 +736,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 9a Besondere Regelungen zum Schutz vor ionisierender Strahlung"
@@ -679,6 +747,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 9a Besondere Regelungen zum Schutz vor ionisierender Strahlung"
@@ -689,6 +758,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 9a Besondere Regelungen zum Schutz vor ionisierender Strahlung"
@@ -699,6 +769,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 10 Straf- und Bußgeldvorschriften"
@@ -709,6 +780,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 10 Straf- und Bußgeldvorschriften"
@@ -719,6 +791,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 10 Straf- und Bußgeldvorschriften"
@@ -729,6 +802,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 10 Straf- und Bußgeldvorschriften"
@@ -739,6 +813,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 10 Straf- und Bußgeldvorschriften"
@@ -749,6 +824,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -759,6 +835,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -769,6 +846,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -779,6 +857,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -789,6 +868,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -799,6 +879,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -809,6 +890,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -819,6 +901,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 14,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -829,6 +912,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -839,6 +923,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -849,6 +934,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -859,6 +945,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"
@@ -869,6 +956,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 11 Schlussbestimmungen"

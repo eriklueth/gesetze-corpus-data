@@ -4,9 +4,9 @@
   "bjnr": "BJNR226500021",
   "eli": null,
   "gii_slug": "m_nz5eurobek_2021-06-21",
-  "ingested_at": "2026-04-18T20:37:25Z",
   "jurabk": "Münz5EuroBek 2021-06-21",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1823e6bfcc6214071ed433807c6c6818b8ae8903d2113d9faf1c18b50c83d148"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Polare Zone“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

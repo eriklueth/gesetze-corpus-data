@@ -4,9 +4,11 @@
   "bjnr": "BJNR001870966",
   "eli": null,
   "gii_slug": "begschlgverfv",
-  "ingested_at": "2026-04-18T20:29:45Z",
   "jurabk": "BEGSchlGVerfV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "02792acafcfdb1639f9498884f593ef596c3168197b6b7704a26ec4748b37819"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verfahrensverordnung zu Artikel VI des Zweiten Gesetzes zur Änderung des Bundesentschädigungsgesetzes (BEG-Schlußgesetz)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

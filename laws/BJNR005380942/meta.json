@@ -4,9 +4,11 @@
   "bjnr": "BJNR005380942",
   "eli": null,
   "gii_slug": "lmvitv",
-  "ingested_at": "2026-04-18T20:35:55Z",
   "jurabk": "LMvitV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "55853243c6ea7b7bb8dfce2515dee9fd7a826490cfadea5075c8bafa94204666"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über vitaminisierte Lebensmittel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

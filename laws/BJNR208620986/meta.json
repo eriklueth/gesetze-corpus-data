@@ -4,9 +4,9 @@
   "bjnr": "BJNR208620986",
   "eli": null,
   "gii_slug": "sozsichabkisr_ndabkg",
-  "ingested_at": "2026-04-18T20:40:28Z",
   "jurabk": "SozSichAbkISRÄndAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "812162e1ece093da8850e3f4ae4795d1b6b4826690bc1f51d20c2d1cab4e936d"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 7. Januar 1986 zur Änderung des Abkommens vom 17. Dezember 1973 zwischen der Bundesrepublik Deutschland und dem Staat Israel über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

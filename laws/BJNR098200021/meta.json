@@ -4,9 +4,9 @@
   "bjnr": "BJNR098200021",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2021-04-23",
-  "ingested_at": "2026-04-18T20:37:05Z",
   "jurabk": "Münz10EuroBek 2021-04-23",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7b5b8a559372f6a1a2e4aaefa61eb015bf0eb0f8228fae38273a03dec77028d2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Auf dem Wasser“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

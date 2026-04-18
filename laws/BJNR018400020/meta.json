@@ -4,9 +4,11 @@
   "bjnr": "BJNR018400020",
   "eli": null,
   "gii_slug": "waffrg",
-  "ingested_at": "2026-04-18T20:42:14Z",
   "jurabk": "WaffRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 34
+  },
   "source_hashes": {
     "source_xml_sha256": "cfec504e1d6c35654d0dd7bf0414af0f4cf50c03e1ec846c0c68c4e6cb761f85"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das Nationale Waffenregister",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

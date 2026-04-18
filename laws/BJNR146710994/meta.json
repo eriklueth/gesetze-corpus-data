@@ -4,9 +4,12 @@
   "bjnr": "BJNR146710994",
   "eli": null,
   "gii_slug": "weing_1994",
-  "ingested_at": "2026-04-18T20:42:23Z",
   "jurabk": "WeinG 1994",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 81
+  },
   "source_hashes": {
     "source_xml_sha256": "a051e8f70948d0853fce3f4f0a5ed0fb5edf804b8fc70af37ca0aea9f0c282e2"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Weingesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

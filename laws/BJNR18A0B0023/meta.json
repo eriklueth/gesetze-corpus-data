@@ -4,9 +4,12 @@
   "bjnr": "BJNR18A0B0023",
   "eli": null,
   "gii_slug": "wpg",
-  "ingested_at": "2026-04-18T20:42:34Z",
   "jurabk": "WPG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 36
+  },
   "source_hashes": {
     "source_xml_sha256": "cdc42d1b7e92da602be1fd661f09e9125536dfc231472f9b66655486b57659a3"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

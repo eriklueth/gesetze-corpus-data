@@ -4,9 +4,9 @@
   "bjnr": "BJNR016720989",
   "eli": null,
   "gii_slug": "bpr_skldgthwano",
-  "ingested_at": "2026-04-18T20:30:44Z",
   "jurabk": "BPräsKldgTHWAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6847724dcb4e42180001401e56147c6f8300b0f5c27f746f36fff0ac13ef3e49"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über die Übertragung der Befugnis zum Erlaß von Bestimmungen über die Dienstkleidung von hauptamtlichen Mitarbeitern der Bundesanstalt Technisches Hilfswerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR113180991",
   "eli": null,
   "gii_slug": "solzg",
-  "ingested_at": "2026-04-18T20:40:12Z",
   "jurabk": "SolZG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "32a2cb329fe3b348ce1a4dc6544a041960b6820e03513b7209b5b4852b1d6bbe"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Solidaritätszuschlaggesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR052620012",
   "eli": null,
   "gii_slug": "dbabkg_tur",
-  "ingested_at": "2026-04-18T20:31:31Z",
   "jurabk": "DBAbkG TUR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "959d864a9adb2a0adadb18a2df6fb4f1323b8f1ff1ce8a4fb754a03700e173e0"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 19. September 2011 zwischen der Bundesrepublik Deutschland und der Republik Türkei zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

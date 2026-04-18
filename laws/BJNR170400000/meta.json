@@ -4,9 +4,12 @@
   "bjnr": "BJNR170400000",
   "eli": null,
   "gii_slug": "fbeitrv_2000",
-  "ingested_at": "2026-04-18T20:33:02Z",
   "jurabk": "FBeitrV 2000",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "b114132da4fce5cfa10271afdcd3d1f89ed27300d8b03a332d33419b2d9dd293"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Frequenznutzungsbeitragsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

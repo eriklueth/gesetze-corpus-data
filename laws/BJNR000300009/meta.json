@@ -4,9 +4,11 @@
   "bjnr": "BJNR000300009",
   "eli": null,
   "gii_slug": "estzustv",
-  "ingested_at": "2026-04-18T20:32:29Z",
   "jurabk": "EStZustV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "866d7acf2a44c646ebef65b5575717692332084190027ea158bc57de7016cbc3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Einkommensteuer-Zuständigkeitsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

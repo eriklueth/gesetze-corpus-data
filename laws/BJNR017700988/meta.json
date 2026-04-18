@@ -4,9 +4,11 @@
   "bjnr": "BJNR017700988",
   "eli": null,
   "gii_slug": "_lsg",
-  "ingested_at": "2026-04-18T20:37:49Z",
   "jurabk": "ÖlSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "775466d5b47e01227a93acae98af47711b28959f4a66cc0442f64dcdd1d3ef4c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Haftung und Entschädigung für Ölverschmutzungsschäden durch Seeschiffe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

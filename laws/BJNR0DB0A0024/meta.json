@@ -4,9 +4,11 @@
   "bjnr": "BJNR0DB0A0024",
   "eli": null,
   "gii_slug": "bmfbdgano_2024",
-  "ingested_at": "2026-04-18T20:30:22Z",
   "jurabk": "BMFBDGAnO 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "0ff32ad6e777d81be7c112cf54e8d14eb345232c7b7e575bf017d25eb78f0e27"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Durchführung des Bundesdisziplinargesetzes im nachgeordneten Geschäftsbereich des Bundesministeriums der Finanzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

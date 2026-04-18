@@ -4,9 +4,12 @@
   "bjnr": "BJNR218900008",
   "eli": null,
   "gii_slug": "flgdv_2",
-  "ingested_at": "2026-04-18T20:28:05Z",
   "jurabk": "FlGDV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "17fb266854f6f185cf87f143d08c64d25a240691c98266f26234ed343e420dfc"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Anforderungen an die Zulassung von Klassifizierungsunternehmen und Klassifizierern für Schlachtkörper von Rindern, Schweinen und Schafen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

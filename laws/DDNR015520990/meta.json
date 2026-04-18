@@ -4,9 +4,9 @@
   "bjnr": "DDNR015520990",
   "eli": null,
   "gii_slug": "minrsozsbes",
-  "ingested_at": "2026-04-18T20:36:36Z",
   "jurabk": "MinRSozSBes",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9796c36ad3561a6971993404c4551201667210a0c01651a2b3a10aee79e299e4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Beschluß des Ministerrates der Deutschen Demokratischen Republik über Regelungen zur sozialen Sicherstellung für ausscheidende Mitglieder des Ministerrates vom 8. Februar 1990 in der Fassung des Beschlusses vom 8. August 1990",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

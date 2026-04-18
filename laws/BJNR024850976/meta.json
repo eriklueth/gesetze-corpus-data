@@ -4,9 +4,11 @@
   "bjnr": "BJNR024850976",
   "eli": null,
   "gii_slug": "beamtvg",
-  "ingested_at": "2026-04-18T20:29:38Z",
   "jurabk": "BeamtVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 126
+  },
   "source_hashes": {
     "source_xml_sha256": "28ef181e2a73456a5d4023fdf4453456b24896a9fc4fbb19f7724f1ccf017000"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Versorgung der Beamten und Richter des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

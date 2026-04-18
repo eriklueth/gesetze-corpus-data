@@ -4,9 +4,12 @@
   "bjnr": "BJNR003830956",
   "eli": null,
   "gii_slug": "bwahlg",
-  "ingested_at": "2026-04-18T20:31:13Z",
   "jurabk": "BWahlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 57
+  },
   "source_hashes": {
     "source_xml_sha256": "3a17afb6802b15e1452ba39567cc0184839f7dee2c164ce31dde85dd6ef82b52"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Bundeswahlgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

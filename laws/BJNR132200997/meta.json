@@ -4,9 +4,11 @@
   "bjnr": "BJNR132200997",
   "eli": null,
   "gii_slug": "luftnasig",
-  "ingested_at": "2026-04-18T20:35:59Z",
   "jurabk": "LuftNaSiG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "6cf8d594e3e9bced13fbbbd6e6dee3ef3104d0195d1020062507dc221f769d35"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Sicherung des Nachweises der Eigentümerstellung und der Kontrolle von Luftfahrtunternehmen für die Aufrechterhaltung der Luftverkehrsbetriebsgenehmigung und der Luftverkehrsrechte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

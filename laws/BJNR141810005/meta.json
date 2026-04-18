@@ -4,9 +4,11 @@
   "bjnr": "BJNR141810005",
   "eli": null,
   "gii_slug": "brkg_2005",
-  "ingested_at": "2026-04-18T20:30:45Z",
   "jurabk": "BRKG 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "2f1f6872dd447c5d7cf00d7d3d8c6183ee068b3da51b74070eaf34181016cd78"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Bundesreisekostengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

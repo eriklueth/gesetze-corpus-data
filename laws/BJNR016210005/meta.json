@@ -4,9 +4,11 @@
   "bjnr": "BJNR016210005",
   "eli": null,
   "gii_slug": "intfamrvg",
-  "ingested_at": "2026-04-18T20:34:53Z",
   "jurabk": "IntFamRVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 66
+  },
   "source_hashes": {
     "source_xml_sha256": "d28d1b012fcb3133a0f9b25f6037aed671a1e6c1a9521efabc18bc3ed82b936a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Aus- und Durchführung bestimmter Rechtsinstrumente auf dem Gebiet des internationalen Familienrechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

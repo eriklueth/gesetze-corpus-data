@@ -4,9 +4,11 @@
   "bjnr": "BJNR012140969",
   "eli": null,
   "gii_slug": "auslinvg",
-  "ingested_at": "2026-04-18T20:29:09Z",
   "jurabk": "AuslInvG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "86437bfdabf60a53f68bfc3c35c57a6d1470d8df081dd52d69ae625c73bf163d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über steuerliche Maßnahmen bei Auslandsinvestitionen der deutschen Wirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

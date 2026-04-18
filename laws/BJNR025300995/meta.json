@@ -4,9 +4,9 @@
   "bjnr": "BJNR025300995",
   "eli": null,
   "gii_slug": "bpr_sfestaktano",
-  "ingested_at": "2026-04-18T20:30:42Z",
   "jurabk": "BPräsFestaktAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3cb53d54ee30474890040ec7081e51021630cc516db809050eb6836cbb2857f6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Staatsaktes aus Anlaß des 50. Jahrestages des Endes des Zweiten Weltkrieges",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

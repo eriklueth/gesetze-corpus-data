@@ -4,9 +4,11 @@
   "bjnr": "BJNR302210009",
   "eli": null,
   "gii_slug": "intvg",
-  "ingested_at": "2026-04-18T20:34:55Z",
   "jurabk": "IntVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "daebb88b669f4cb4dff725982531757652366702fe025e438328933e413af31b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Wahrnehmung der Integrationsverantwortung des Bundestages und des Bundesrates in Angelegenheiten der Europäischen Union",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

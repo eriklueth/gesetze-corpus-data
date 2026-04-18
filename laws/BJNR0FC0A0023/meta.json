@@ -4,9 +4,12 @@
   "bjnr": "BJNR0FC0A0023",
   "eli": null,
   "gii_slug": "butmedienmstrbaprofv",
-  "ingested_at": "2026-04-18T20:31:05Z",
   "jurabk": "BuTMedienMstrBAProFV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "600da1a7a5b25ada1cedb6953ad2b201aed97c89b60ac61b6c1bf06548c88471"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Meister für Medienproduktion Bild und Ton oder Geprüfte Meisterin für Medienproduktion Bild und Ton – Bachelor Professional in Medienproduktion Bild und Ton",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

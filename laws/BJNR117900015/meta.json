@@ -4,9 +4,12 @@
   "bjnr": "BJNR117900015",
   "eli": null,
   "gii_slug": "betonfbausbv",
-  "ingested_at": "2026-04-18T20:29:51Z",
   "jurabk": "BetonFBAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 21
+  },
   "source_hashes": {
     "source_xml_sha256": "498ba194962dfea93a28635b26a91a8e229fee9b5fc683869332ab650ad9cb41"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Betonfertigteilbauer und zur Betonfertigteilbauerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

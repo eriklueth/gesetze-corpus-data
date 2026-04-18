@@ -4,9 +4,12 @@
   "bjnr": "BJNR038290976",
   "eli": null,
   "gii_slug": "flul_rmb_chv",
-  "ingested_at": "2026-04-18T20:33:16Z",
   "jurabk": "FluLärmBüchV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "7793f114e7faa5e2906a41129d0c83c8844c31e35c8d69d40f0f37b2025fe0ba"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Festsetzung des Lärmschutzbereichs für den militärischen Flugplatz Büchel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

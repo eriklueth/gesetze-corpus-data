@@ -4,9 +4,11 @@
   "bjnr": "BJNR070010009",
   "eli": null,
   "gii_slug": "versausglg",
-  "ingested_at": "2026-04-18T20:41:50Z",
   "jurabk": "VersAusglG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 55
+  },
   "source_hashes": {
     "source_xml_sha256": "f1e5a4c218c5cf53770c7d11a5334b3f6eed0f294d78d01e90f744cdb67f9fc9"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über den Versorgungsausgleich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR023160987",
   "eli": null,
   "gii_slug": "goz_1987",
-  "ingested_at": "2026-04-18T20:34:08Z",
   "jurabk": "GOZ 1987",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "cfc916c72f6dbf30ecd48fa143b7ce90a46750c3ae01cec8afdb2461999695d9"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gebührenordnung für Zahnärzte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR365200002",
   "eli": null,
   "gii_slug": "aufhfg",
-  "ingested_at": "2026-04-18T20:29:00Z",
   "jurabk": "AufhFG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "12e15274d1843064f1c715f5d32cff7ad9e27836af130ee880520dfa2069aa63"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Errichtung eines Fonds \"Aufbauhilfe\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

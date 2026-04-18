@@ -4,9 +4,11 @@
   "bjnr": "BJNR021800022",
   "eli": null,
   "gii_slug": "glash_ttev",
-  "ingested_at": "2026-04-18T20:34:00Z",
   "jurabk": "GlashütteV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "4d668ca2862f94550562536c39e7419f7d4aaf41853d37abbf10a50d4088fc6d"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zum Schutz der geografischen Herkunftsangabe „Glashütte“",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

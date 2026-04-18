@@ -4,9 +4,9 @@
   "bjnr": "BDNR000120949",
   "eli": null,
   "gii_slug": "m_nz1pfbek_bw",
-  "ingested_at": "2026-04-18T20:37:05Z",
   "jurabk": "Münz1PfBek BW",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "549ba269630404e284d01be460bc834df7401f39b959519eda9ca068f6187a47"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

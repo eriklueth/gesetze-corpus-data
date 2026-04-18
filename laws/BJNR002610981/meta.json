@@ -4,9 +4,11 @@
   "bjnr": "BJNR002610981",
   "eli": null,
   "gii_slug": "heizkostenv",
-  "ingested_at": "2026-04-18T20:34:28Z",
   "jurabk": "HeizkostenV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "836e3cfa2873350ffd700354f90197faa6ee745ba10423af4419dbb475626ded"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die verbrauchsabhängige Abrechnung der Heiz- und Warmwasserkosten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

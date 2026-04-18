@@ -4,9 +4,12 @@
   "bjnr": "BJNR225410002",
   "eli": null,
   "gii_slug": "vstgb",
-  "ingested_at": "2026-04-18T20:42:06Z",
   "jurabk": "VStGB",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "cea4a680fe6300e7b358c8318c4ade53408848e6aaaca125811dc2df5ed49a5d"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Völkerstrafgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR265910016",
   "eli": null,
   "gii_slug": "bgleisv",
-  "ingested_at": "2026-04-18T20:30:02Z",
   "jurabk": "BGleiSV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "f5ac35885fa6674fe400d52683e010884720c812232ce376ae5c6970bc137e9e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Schlichtungsstelle nach § 16 des Behindertengleichstellungsgesetzes und ihr Verfahren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

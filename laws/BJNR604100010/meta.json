@@ -4,9 +4,12 @@
   "bjnr": "BJNR604100010",
   "eli": null,
   "gii_slug": "eurhgausnahmv",
-  "ingested_at": "2026-04-18T20:32:42Z",
   "jurabk": "EURHGAusnahmV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "052b6b1e39645382772d3041a25673c7eba9cc461f624792aba3cf942569671f"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Ausnahmen hinsichtlich des Inverkehrbringens und der Verfütterung von bestimmten Erzeugnissen mit Pestizidrückständen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

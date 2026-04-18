@@ -4,9 +4,9 @@
   "bjnr": "BJNR297400005",
   "eli": null,
   "gii_slug": "bminuzustano",
-  "ingested_at": "2026-04-18T20:30:27Z",
   "jurabk": "BMinUZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f9e6e73ba1edd51568f895d9af5e409e231b490b632bdadafd9d74512d7395a7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

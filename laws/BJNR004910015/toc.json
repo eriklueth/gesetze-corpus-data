@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR004910015",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 15,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Gefährdungsbeurteilung und Schutzmaßnahmen"
@@ -141,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Zusätzliche Vorschriften für überwachungsbedürftige Anlagen"
@@ -151,6 +166,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Zusätzliche Vorschriften für überwachungsbedürftige Anlagen"
@@ -161,6 +177,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Zusätzliche Vorschriften für überwachungsbedürftige Anlagen"
@@ -171,6 +188,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Zusätzliche Vorschriften für überwachungsbedürftige Anlagen"
@@ -181,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Vollzugsregelungen und Ausschuss für Betriebssicherheit"
@@ -191,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Vollzugsregelungen und Ausschuss für Betriebssicherheit"
@@ -201,6 +221,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Vollzugsregelungen und Ausschuss für Betriebssicherheit"
@@ -211,6 +232,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Ordnungswidrigkeiten und Straftaten, Schlussvorschriften"
@@ -221,6 +243,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Ordnungswidrigkeiten und Straftaten, Schlussvorschriften"
@@ -231,6 +254,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Ordnungswidrigkeiten und Straftaten, Schlussvorschriften"

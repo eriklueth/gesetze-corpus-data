@@ -4,9 +4,12 @@
   "bjnr": "BJNR093200008",
   "eli": null,
   "gii_slug": "schsiausbv_2008",
-  "ingested_at": "2026-04-18T20:39:34Z",
   "jurabk": "SchSiAusbV 2008",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "b80ea59c9c35ec1913f235d0fc0bee80279ffc9d949075acf83d401d065b3603"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zur Fachkraft für Schutz und Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

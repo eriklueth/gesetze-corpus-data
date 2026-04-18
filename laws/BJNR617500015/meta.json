@@ -4,9 +4,9 @@
   "bjnr": "BJNR617500015",
   "eli": null,
   "gii_slug": "schkg_19abs2__24bek_2015",
-  "ingested_at": "2026-04-18T20:39:32Z",
   "jurabk": "SchKG§19Abs2/§24Bek 2015",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8ee10fcea58117bd8390ec8bce1b6efe697552fb6b8ef3fa166a100bc5ed4709"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die nach § 19 Absatz 2 in Verbindung mit § 24 des Schwangerschaftskonfliktgesetzes ab dem 1. Juli 2015 geltenden Beträge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

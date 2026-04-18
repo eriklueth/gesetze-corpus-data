@@ -4,9 +4,12 @@
   "bjnr": "BJNR208600020",
   "eli": null,
   "gii_slug": "epspv",
-  "ingested_at": "2026-04-18T20:32:23Z",
   "jurabk": "EPSPV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "9369e0d22950f163dfc5ea66d3c069ddeabc1acfdecfc7c9a432fcdf4e0c0831"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Prüfung zum Prüfsachverständigen im Eisenbahnbereich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

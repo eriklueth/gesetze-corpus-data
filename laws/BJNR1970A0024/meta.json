@@ -4,9 +4,11 @@
   "bjnr": "BJNR1970A0024",
   "eli": null,
   "gii_slug": "gr_bpauschv_2025_2026",
-  "ingested_at": "2026-04-18T20:34:12Z",
   "jurabk": "GräbPauschV 2025/2026",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "0d1058d2fa97d2dfc1757fc6d34d297863154b1b58f925a0a7dd5e22c53557ed"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Pauschalen für Anlegung, Instandsetzung und Pflege der Gräber, Verlegung und Identifizierung im Sinne des Gräbergesetzes für die Haushaltsjahre 2025 und 2026",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR001770960",
   "eli": null,
   "gii_slug": "auslwbentschg",
-  "ingested_at": "2026-04-18T20:29:13Z",
   "jurabk": "AuslWBEntschG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 22
+  },
   "source_hashes": {
     "source_xml_sha256": "fd0e32c9da64f2a53ebcd80bbb313ddcc61136640aa180d72c40844470a7b896"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur näheren Regelung der Entschädigungsansprüche für Auslandsbonds",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

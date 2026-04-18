@@ -4,9 +4,12 @@
   "bjnr": "BJNR227600013",
   "eli": null,
   "gii_slug": "hoai_2013",
-  "ingested_at": "2026-04-18T20:34:31Z",
   "jurabk": "HOAI 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 15,
+    "paragraph": 59
+  },
   "source_hashes": {
     "source_xml_sha256": "7fb8cca3871fd7b75195511a9345476ccbca99929be28a7ff2eb49bd167a2ca2"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Honorare für Architekten- und Ingenieurleistungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR000690955",
   "eli": null,
   "gii_slug": "invhsg",
-  "ingested_at": "2026-04-18T20:34:57Z",
   "jurabk": "InvHSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "47184b01a5de64dcf45183d0e66dbcdcd12c62265d92986cefce88ebd2220946"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über den Abschluß der Investitionshilfe der gewerblichen Wirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

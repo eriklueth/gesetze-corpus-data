@@ -4,9 +4,11 @@
   "bjnr": "BJNR036300001",
   "eli": null,
   "gii_slug": "agmahnvordrv_ndv",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AGMahnVordrVÄndV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "6297a16504d5e0ce9875c6a5e8854258f0ed94e2bbe5eddd7c1445526b1731c4"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Änderung von Vordrucken für das arbeitsgerichtliche Mahnverfahren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

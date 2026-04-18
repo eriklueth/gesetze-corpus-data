@@ -4,9 +4,9 @@
   "bjnr": "BJNR210210973",
   "eli": null,
   "gii_slug": "natotrstat_ndzabkg",
-  "ingested_at": "2026-04-18T20:40:30Z",
   "jurabk": "NATOTrStatÄndZAbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "bed4948ed7d8198ffbc4051a7d9cef790623b7168cbc92faaa3b98fb0e09fba7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 21. Oktober 1971 zur Änderung des Zusatzabkommens vom 3. August 1959 zu dem Abkommen zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

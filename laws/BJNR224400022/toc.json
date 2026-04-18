@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR224400022",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -23,6 +25,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -34,6 +37,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -45,6 +49,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -56,6 +61,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -67,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -78,6 +85,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -89,6 +97,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -100,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -111,6 +121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -122,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -133,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -144,6 +157,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -155,6 +169,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -166,6 +181,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -177,6 +193,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -188,6 +205,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -199,6 +217,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -210,6 +229,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -221,6 +241,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -232,6 +253,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 2 GLÖZ-Standards",
@@ -243,6 +265,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 3 Vorschriften der sozialen Konditionalität"
@@ -253,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -264,6 +288,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -275,6 +300,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -286,6 +312,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -297,6 +324,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -308,6 +336,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -319,6 +348,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -330,6 +360,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -341,6 +372,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -352,6 +384,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -363,6 +396,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -374,6 +408,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -385,6 +420,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 4 Kontrollen, Mitteilungen und Sanktionen",
@@ -396,6 +432,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 5 Schlussbestimmungen"
@@ -406,6 +443,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 5 Schlussbestimmungen"
@@ -416,6 +454,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 5 Schlussbestimmungen"
@@ -426,6 +465,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 5 Schlussbestimmungen"
@@ -436,6 +476,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 5 Schlussbestimmungen"
@@ -446,6 +487,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 5 Schlussbestimmungen"
@@ -456,6 +498,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 5 Schlussbestimmungen"
@@ -466,6 +509,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Vorschriften",
         "Kapitel 5 Schlussbestimmungen"

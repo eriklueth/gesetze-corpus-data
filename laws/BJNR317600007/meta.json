@@ -4,9 +4,12 @@
   "bjnr": "BJNR317600007",
   "eli": null,
   "gii_slug": "bodsch_tzg_2008",
-  "ingested_at": "2026-04-18T20:30:38Z",
   "jurabk": "BodSchätzG 2008",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "6d1f6c47c47b9e6a651c4a0cf63f9a9a92a965cefa46154a643f64a1f2b55680"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Schätzung des landwirtschaftlichen Kulturbodens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

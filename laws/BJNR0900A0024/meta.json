@@ -4,9 +4,9 @@
   "bjnr": "BJNR0900A0024",
   "eli": null,
   "gii_slug": "luftvodv_176_2024",
-  "ingested_at": "2026-04-18T20:36:07Z",
   "jurabk": "LuftVODV 176 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f6b576cb6d0429457bc6727fdcfaad878e37dea66de7f06cb3678f6e754c40c6"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Hundertsechsundsiebzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flugplatz Kiel-Holtenau)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

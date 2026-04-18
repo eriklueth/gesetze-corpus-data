@@ -4,9 +4,12 @@
   "bjnr": "BJNR066610007",
   "eli": null,
   "gii_slug": "uschadg",
-  "ingested_at": "2026-04-18T20:44:38Z",
   "jurabk": "USchadG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "922c7b52a0a4a449b0b94a9a4a4ffa9cab2aaa01b763c8dc681f71c982b257e1"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über die Vermeidung und Sanierung von Umweltschäden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

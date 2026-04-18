@@ -4,9 +4,11 @@
   "bjnr": "BJNR000880955",
   "eli": null,
   "gii_slug": "_blg1dv_1",
-  "ingested_at": "2026-04-18T20:41:25Z",
   "jurabk": "ÜblG1DV 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "d73bf9d41c95d540a023766ef2dcaa08eef716e9080745df92d1342b9f74d0f8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Erste Durchführungsverordnung zum Ersten Überleitungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

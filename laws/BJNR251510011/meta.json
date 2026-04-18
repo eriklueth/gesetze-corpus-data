@@ -4,9 +4,11 @@
   "bjnr": "BJNR251510011",
   "eli": null,
   "gii_slug": "bqfg",
-  "ingested_at": "2026-04-18T20:30:44Z",
   "jurabk": "BQFG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "b45c2f2c6572bb678452017d9a0908e936f5c79c0fd00ecb969eca75df60a900"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Feststellung der Gleichwertigkeit von Berufsqualifikationen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

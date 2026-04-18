@@ -4,9 +4,11 @@
   "bjnr": "BJNR18D0B0023",
   "eli": null,
   "gii_slug": "minstg",
-  "ingested_at": "2026-04-18T20:36:36Z",
   "jurabk": "MinStG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 109
+  },
   "source_hashes": {
     "source_xml_sha256": "2039aa4ee666f29449d0918075fe536448c067dd3c082888ff604ecf2f3d1245"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Gewährleistung einer globalen Mindestbesteuerung für Unternehmensgruppen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

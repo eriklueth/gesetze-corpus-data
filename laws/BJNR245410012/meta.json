@@ -4,9 +4,11 @@
   "bjnr": "BJNR245410012",
   "eli": null,
   "gii_slug": "eu-fahrgrschg",
-  "ingested_at": "2026-04-18T20:32:30Z",
   "jurabk": "EU-FahrgRSchG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "7ed3701760fe70d80cc14bf75ba9642ca588c0d89d5b77f585822d30fa5de886"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "EU-Fahrgastrechte-Schifffahrt-Gesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

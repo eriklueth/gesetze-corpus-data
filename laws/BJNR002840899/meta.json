@@ -4,9 +4,9 @@
   "bjnr": "BJNR002840899",
   "eli": null,
   "gii_slug": "wzmexbek",
-  "ingested_at": "2026-04-18T20:43:07Z",
   "jurabk": "WZMEXBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d90a2023ed72abddfa759dd3d934200d1efbfbf00f6ab92216e73cd1b9e243f9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung betreffend den Schutz deutscher Warenbezeichnungen in Mexiko",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

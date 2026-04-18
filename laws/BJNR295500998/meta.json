@@ -4,9 +4,11 @@
   "bjnr": "BJNR295500998",
   "eli": null,
   "gii_slug": "bioabfv",
-  "ingested_at": "2026-04-18T20:30:10Z",
   "jurabk": "BioAbfV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "c586f43a51b05764e6d831a07ec0fd519b3a57bff8b25b5cbe1d4950c57237e6"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Verwertung von Bioabfällen auf Böden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

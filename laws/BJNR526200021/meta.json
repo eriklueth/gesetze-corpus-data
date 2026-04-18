@@ -4,9 +4,9 @@
   "bjnr": "BJNR526200021",
   "eli": null,
   "gii_slug": "stromstg_10abs3uabek_2022",
-  "ingested_at": "2026-04-18T20:40:49Z",
   "jurabk": "StromStG§10Abs3uaBek 2022",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f42394da246f01d06cbd81dc34e2f778218f15533994d7a3d3b3688faeb3f0a7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung nach § 10 Absatz 3 des Stromsteuergesetzes sowie § 55 Absatz 4 des Energiesteuergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

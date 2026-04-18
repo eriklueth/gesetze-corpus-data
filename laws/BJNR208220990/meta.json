@@ -4,9 +4,12 @@
   "bjnr": "BJNR208220990",
   "eli": null,
   "gii_slug": "gdtwahlvdvtr",
-  "ingested_at": "2026-04-18T20:33:39Z",
   "jurabk": "GDtWahlVDVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "article": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "1b7f7e37f965c7f41dd0542edec897204a9d70b7e0cad7e92f29e4c4c539435b"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zur Vorbereitung und Durchführung der ersten gesamtdeutschen Wahl des Deutschen Bundestages zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

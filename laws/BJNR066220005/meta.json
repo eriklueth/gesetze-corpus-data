@@ -4,9 +4,9 @@
   "bjnr": "BJNR066220005",
   "eli": null,
   "gii_slug": "eu-rh_bkprot",
-  "ingested_at": "2026-04-18T20:32:30Z",
   "jurabk": "EU-RhÜbkProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "397829eb034d09d27ae411c1d35e46bfec554dcc29c83118788b3bb4f6480204"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Protokoll - vom Rat gemäß Artikel 34 des Vertrags über die Europäische Union erstellt - zu dem Übereinkommen über die Rechtshilfe in Strafsachen zwischen den Mitgliedstaaten der Europäischen Union",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR204280968",
   "eli": null,
   "gii_slug": "pflzsch_bkg",
-  "ingested_at": "2026-04-18T20:38:21Z",
   "jurabk": "PflZSchÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "16e05cbca451f759a349f50cfd0d4629711120211951465472cb7c049ef71963"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu den Internationalen Übereinkommen vom 2. Dezember 1961 zum Schutz von Pflanzenzüchtungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

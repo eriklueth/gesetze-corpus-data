@@ -4,9 +4,12 @@
   "bjnr": "BJNR1280C0024",
   "eli": null,
   "gii_slug": "insifprv",
-  "ingested_at": "2026-04-18T20:34:51Z",
   "jurabk": "InSiFPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "ca773e10f49f8a8e099e097782fb3c04e6c31dc5c40bc32da72c2dc255286413"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Informationssicherheit oder Geprüfte Berufsspezialistin für Informationssicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR001340957",
   "eli": null,
   "gii_slug": "lbg",
-  "ingested_at": "2026-04-18T20:35:47Z",
   "jurabk": "LBG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 77
+  },
   "source_hashes": {
     "source_xml_sha256": "22fcc3469d82d6fddd847495864e16dbba96077d68415c7ce2b7fc18a24e0875"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Landbeschaffung für Aufgaben der Verteidigung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

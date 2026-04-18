@@ -4,9 +4,11 @@
   "bjnr": "BJNR084610019",
   "eli": null,
   "gii_slug": "eidkg",
-  "ingested_at": "2026-04-18T20:32:07Z",
   "jurabk": "eIDKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 29
+  },
   "source_hashes": {
     "source_xml_sha256": "eeefa189dc98498e38f0c6f6b594e1ccb15399364e7233abcebcdba75cfdcf32"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über eine Karte für Unionsbürger und Angehörige des Europäischen Wirtschaftsraums mit Funktion zum elektronischen Identitätsnachweis",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

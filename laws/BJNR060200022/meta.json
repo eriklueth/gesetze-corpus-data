@@ -4,9 +4,9 @@
   "bjnr": "BJNR060200022",
   "eli": null,
   "gii_slug": "mfs_prrlbek_2022",
-  "ingested_at": "2026-04-18T20:36:32Z",
   "jurabk": "MfSÜPrRLBek 2022",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d67a88f6f155d8946cc98e3ae24a81a33d46f532017d38a8213ad65cf18da3eb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder politische Verantwortung für das Ministerium für Staatssicherheit/Amt für Nationale Sicherheit der ehemaligen Deutschen Demokratischen Republik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR332400997",
   "eli": null,
   "gii_slug": "meistprfrglv",
-  "ingested_at": "2026-04-18T20:36:32Z",
   "jurabk": "MeistPrFRGlV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "c3ca36f9272518804f68e7a5cb59bd9c024cd058e1466da116164134741fb221"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Gleichstellung französischer Meisterprüfungszeugnisse mit Meisterprüfungszeugnissen im Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

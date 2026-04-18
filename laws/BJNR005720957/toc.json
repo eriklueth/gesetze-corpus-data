@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR005720957",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Arztregister"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt I Arztregister"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Arztregister"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Arztregister"
       ],
@@ -75,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister"
       ],
@@ -84,6 +93,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister"
       ],
@@ -93,6 +103,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt II Bildung und Abgrenzung der Zulassungsbezirke"
@@ -103,6 +114,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt III Bedarfsplanung"
@@ -113,6 +125,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt III Bedarfsplanung"
@@ -123,6 +136,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt III Bedarfsplanung"
@@ -133,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt IV Unterversorgung"
@@ -143,6 +158,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt IV Unterversorgung"
@@ -153,6 +169,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt IV a Überversorgung"
@@ -163,6 +180,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt IV a Überversorgung"
@@ -173,6 +191,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt V Voraussetzungen für die Zulassung"
@@ -183,6 +202,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt V Voraussetzungen für die Zulassung"
@@ -193,6 +213,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VI Zulassung und Vertragsarztsitz"
@@ -203,6 +224,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VI Zulassung und Vertragsarztsitz"
@@ -213,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VI Zulassung und Vertragsarztsitz"
@@ -223,6 +246,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VI Zulassung und Vertragsarztsitz"
@@ -233,6 +257,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VI Zulassung und Vertragsarztsitz"
@@ -243,6 +268,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VI Zulassung und Vertragsarztsitz"
@@ -253,6 +279,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VII Ruhen, Entziehung und Ende der Zulassung"
@@ -263,6 +290,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VII Ruhen, Entziehung und Ende der Zulassung"
@@ -273,6 +301,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VII Ruhen, Entziehung und Ende der Zulassung"
@@ -283,6 +312,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VIII Ermächtigung"
@@ -293,6 +323,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt VIII Ermächtigung"
@@ -303,6 +334,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt IX Vertreter, Assistenten, angestellte Ärzte und Berufsausübungsgemeinschaft"
@@ -313,6 +345,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt IX Vertreter, Assistenten, angestellte Ärzte und Berufsausübungsgemeinschaft"
@@ -323,6 +356,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt IX Vertreter, Assistenten, angestellte Ärzte und Berufsausübungsgemeinschaft"
@@ -333,6 +367,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt IX Vertreter, Assistenten, angestellte Ärzte und Berufsausübungsgemeinschaft"
@@ -343,6 +378,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt X Zulassungs- und Berufungsausschüsse"
@@ -353,6 +389,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt X Zulassungs- und Berufungsausschüsse"
@@ -363,6 +400,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XI Verfahren vor den Zulassungs- und Berufungsausschüssen",
@@ -374,6 +412,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XI Verfahren vor den Zulassungs- und Berufungsausschüssen",
@@ -385,6 +424,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XI Verfahren vor den Zulassungs- und Berufungsausschüssen",
@@ -396,6 +436,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XI Verfahren vor den Zulassungs- und Berufungsausschüssen",
@@ -407,6 +448,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XI Verfahren vor den Zulassungs- und Berufungsausschüssen",
@@ -418,6 +460,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XI Verfahren vor den Zulassungs- und Berufungsausschüssen",
@@ -429,6 +472,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XI Verfahren vor den Zulassungs- und Berufungsausschüssen",
@@ -440,6 +484,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XI Verfahren vor den Zulassungs- und Berufungsausschüssen",
@@ -451,6 +496,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XI Verfahren vor den Zulassungs- und Berufungsausschüssen",
@@ -462,6 +508,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XI Verfahren vor den Zulassungs- und Berufungsausschüssen",
@@ -473,6 +520,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XII Gebühren"
@@ -483,6 +531,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XIII Übergangs- und Schlußbestimmungen"
@@ -493,6 +542,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XIII Übergangs- und Schlußbestimmungen"
@@ -503,6 +553,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XIII Übergangs- und Schlußbestimmungen"
@@ -513,6 +564,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XIII Übergangs- und Schlußbestimmungen"
@@ -523,6 +575,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Arztregister",
         "Abschnitt XIII Übergangs- und Schlußbestimmungen"

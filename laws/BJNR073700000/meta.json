@@ -4,9 +4,11 @@
   "bjnr": "BJNR073700000",
   "eli": null,
   "gii_slug": "markeng_8bek_2000-04",
-  "ingested_at": "2026-04-18T20:36:24Z",
   "jurabk": "MarkenG§8Bek 2000-04",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "6d77a1bbc661d5793d0880ec0a536619259e8bfde3bd1d6b0b24c4187dfbc578"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 8 des Markengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

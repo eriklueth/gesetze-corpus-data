@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR002850957",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I u. II",
         "Abschnitt III Inanspruchnahme von Berliner Altbanken und verlagerten Geldinstituten durch Gläubiger aus dem Saarland"
@@ -13,6 +14,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I u. II",
         "Abschnitt IV Schlußvorschriften"
@@ -23,6 +25,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I u. II",
         "Abschnitt IV Schlußvorschriften"
@@ -33,6 +36,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I u. II",
         "Abschnitt IV Schlußvorschriften"
@@ -43,6 +47,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I u. II",
         "Abschnitt IV Schlußvorschriften"

@@ -4,9 +4,12 @@
   "bjnr": "BJNR026250977",
   "eli": null,
   "gii_slug": "agmahnvordrv",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AGMahnVordrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "678caa3022a4eb8679e88b4b6466dc1e3f5defff7bb5465304d9f07c8a3fcc9a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Einführung von Vordrucken für das arbeitsgerichtliche Mahnverfahren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

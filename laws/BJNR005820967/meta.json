@@ -4,9 +4,11 @@
   "bjnr": "BJNR005820967",
   "eli": null,
   "gii_slug": "stabg",
-  "ingested_at": "2026-04-18T20:40:37Z",
   "jurabk": "StabG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 27
+  },
   "source_hashes": {
     "source_xml_sha256": "27892240f397bd9fca792584845685bf0ec63c10c6388e7736aff8c83babd01a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR005980985",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "Amtliche Prüf- und Gewährzeichen des Königreichs Schweden",
@@ -10,6 +11,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "Internationaler Währungsfonds",
@@ -17,6 +19,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "Internationale Seeschiffahrts-Organisation",

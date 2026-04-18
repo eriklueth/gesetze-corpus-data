@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR618520020",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0006.md",
       "heading": "Übergangsregelung",

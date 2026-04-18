@@ -4,9 +4,11 @@
   "bjnr": "BJNR225320998",
   "eli": null,
   "gii_slug": "euausl_bkg",
-  "ingested_at": "2026-04-18T20:32:34Z",
   "jurabk": "EUAuslÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "6706beb03af3f2af620ad55cda40e88e4cf91319fc4527b767a633ade63e0d31"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Übereinkommen vom 27. September 1996 über die Auslieferung zwischen den Mitgliedstaaten der Europäischen Union",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

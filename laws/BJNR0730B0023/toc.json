@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0730B0023",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Anzeige des Inverkehrbringens"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Kräuter- und Früchtetee für Säuglinge oder Kleinkinder"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Kräuter- und Früchtetee für Säuglinge oder Kleinkinder"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Sondervorschriften für bestimmte Lebensmittel"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Sondervorschriften für bestimmte Lebensmittel"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Sondervorschriften für bestimmte Lebensmittel"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 13,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Straftaten und Ordnungswidrigkeiten"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Straftaten und Ordnungswidrigkeiten"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Straftaten und Ordnungswidrigkeiten"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Straftaten und Ordnungswidrigkeiten"
@@ -121,6 +133,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Straftaten und Ordnungswidrigkeiten"

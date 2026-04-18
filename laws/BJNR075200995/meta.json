@@ -4,9 +4,12 @@
   "bjnr": "BJNR075200995",
   "eli": null,
   "gii_slug": "f_v",
-  "ingested_at": "2026-04-18T20:33:00Z",
   "jurabk": "FäV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "68036efe5afc938aa50f2b00f8508e56d19267d3dad71efbf0ca8818df976400"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über den Betrieb der Fähren auf Bundeswasserstraßen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

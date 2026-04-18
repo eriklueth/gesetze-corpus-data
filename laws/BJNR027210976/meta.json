@@ -4,9 +4,12 @@
   "bjnr": "BJNR027210976",
   "eli": null,
   "gii_slug": "abwag",
-  "ingested_at": "2026-04-18T20:28:21Z",
   "jurabk": "AbwAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "82e512d19462f234ad72de80f272616d3e8b27608d174f4c67a48425d3c926b7"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über Abgaben für das Einleiten von Abwasser in Gewässer",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

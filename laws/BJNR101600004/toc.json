@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR101600004",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Fruchtsaft, einige ähnliche Erzeugnisse und Fruchtnektar"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 2 Fruchtsaft, einige ähnliche Erzeugnisse und Fruchtnektar"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Koffeinhaltige Erfrischungsgetränke"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Koffeinhaltige Erfrischungsgetränke"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 3 Koffeinhaltige Erfrischungsgetränke"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"
@@ -102,6 +112,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"
@@ -112,6 +123,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"
@@ -122,6 +134,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"
@@ -132,6 +145,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"
@@ -142,6 +156,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"
@@ -152,6 +167,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"
@@ -162,6 +178,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich",
         "Abschnitt 4 Verkehrsverbote, Straftaten und Ordnungswidrigkeiten, Übergangsregelungen"

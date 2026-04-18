@@ -4,9 +4,12 @@
   "bjnr": "BJNR008730971",
   "eli": null,
   "gii_slug": "fstrausbaug",
-  "ingested_at": "2026-04-18T20:33:28Z",
   "jurabk": "FStrAusbauG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "126cf07b12ac4715951bf26209a92acc93ca80579227eafcfb6811aff8d330a2"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über den Ausbau der Bundesfernstraßen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

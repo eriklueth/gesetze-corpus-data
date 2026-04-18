@@ -4,9 +4,11 @@
   "bjnr": "BJNR044800012",
   "eli": null,
   "gii_slug": "hilfetelefong",
-  "ingested_at": "2026-04-18T20:34:29Z",
   "jurabk": "HilfetelefonG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "380d6acd6efa39e3e872e0b3e17cdc529b6b133d1b93bae494fd6b009fe71318"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Einrichtung und zum Betrieb eines bundesweiten Hilfetelefons „Gewalt gegen Frauen“",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

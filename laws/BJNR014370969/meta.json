@@ -4,9 +4,11 @@
   "bjnr": "BJNR014370969",
   "eli": null,
   "gii_slug": "wasversstatv",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WasVersStatV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "4e74165fa9cf792f9e17b2b78b9b071d05e9b7837f254e4f84e7c4487255e650"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Statistik in der öffentlichen Wasserversorgung und im öffentlichen Abwasserwesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR008210974",
   "eli": null,
   "gii_slug": "rag_17",
-  "ingested_at": "2026-04-18T20:28:04Z",
   "jurabk": "RAG 17",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "957c8a126d28d9a5b479897fb5f7f36d8c9a87324f2af0b4dcbfca3d62aa280b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Siebzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung und der Altersgelder in der Altershilfe für Landwirte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

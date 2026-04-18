@@ -4,9 +4,11 @@
   "bjnr": "BJNR160000015",
   "eli": null,
   "gii_slug": "brsekrzustano",
-  "ingested_at": "2026-04-18T20:30:49Z",
   "jurabk": "BRSekrZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "12662a5c2bfd925f85069ef26cbafc2e2027978bd162682b5c4e38ef62c440c5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Anordnung zur Übertragung von Zuständigkeiten im Widerspruchsverfahren und über die Vertretung von Klagen aus dem Beamtenverhältnis für die Beamtinnen und Beamten des Sekretariats des Bundesrates in Angelegenheiten der Besoldung, des Trennungsgelds, der Umzugskostenvergütung und der Beihilfe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

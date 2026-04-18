@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR181800020",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/art-0001.md",
       "heading": "Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung (Kohleverstromungsbeendigungsgesetz - KVBG)",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0010.md",
       "heading": "Beihilferechtlicher Vorbehalt",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/art-0011.md",
       "heading": "Inkrafttreten",

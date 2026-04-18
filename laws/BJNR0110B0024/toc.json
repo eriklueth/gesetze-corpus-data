@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0110B0024",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Maßnahmen zur Gleichstellung von Soldatinnen und Soldaten"
@@ -58,6 +64,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Maßnahmen zur Gleichstellung von Soldatinnen und Soldaten"
@@ -68,6 +75,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Maßnahmen zur Gleichstellung von Soldatinnen und Soldaten"
@@ -78,6 +86,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Maßnahmen zur Gleichstellung von Soldatinnen und Soldaten"
@@ -88,6 +97,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 2 Maßnahmen zur Gleichstellung von Soldatinnen und Soldaten"
@@ -98,6 +108,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Vereinbarkeit von Familie, Pflege und Dienst"
@@ -108,6 +119,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Vereinbarkeit von Familie, Pflege und Dienst"
@@ -118,6 +130,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Vereinbarkeit von Familie, Pflege und Dienst"
@@ -128,6 +141,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Vereinbarkeit von Familie, Pflege und Dienst"
@@ -138,6 +152,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Vereinbarkeit von Familie, Pflege und Dienst"
@@ -148,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Vereinbarkeit von Familie, Pflege und Dienst"
@@ -158,6 +174,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 3 Vereinbarkeit von Familie, Pflege und Dienst"
@@ -168,6 +185,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Gleichstellungsplan"
@@ -178,6 +196,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Gleichstellungsplan"
@@ -188,6 +207,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Gleichstellungsplan"
@@ -198,6 +218,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Gleichstellungsplan"
@@ -208,6 +229,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 4 Gleichstellungsplan"
@@ -218,6 +240,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -230,6 +253,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -242,6 +266,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -254,6 +279,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -266,6 +292,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -278,6 +305,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -290,6 +318,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -302,6 +331,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -314,6 +344,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -326,6 +357,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -338,6 +370,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -350,6 +383,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -362,6 +396,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -374,6 +409,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -386,6 +422,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -398,6 +435,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -410,6 +448,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -422,6 +461,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -434,6 +474,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -446,6 +487,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -458,6 +500,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -470,6 +513,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -482,6 +526,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -494,6 +539,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -506,6 +552,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -518,6 +565,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -530,6 +578,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -541,6 +590,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -552,6 +602,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -563,6 +614,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -574,6 +626,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -585,6 +638,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -596,6 +650,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -607,6 +662,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -618,6 +674,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -629,6 +686,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -640,6 +698,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 5 Gleichstellungsbeauftragte und Stellvertretung der Gleichstellungsbeauftragten",
@@ -651,6 +710,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Gleichstellungsvertrauensfrauen",
@@ -662,6 +722,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Gleichstellungsvertrauensfrauen",
@@ -673,6 +734,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Gleichstellungsvertrauensfrauen",
@@ -684,6 +746,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Gleichstellungsvertrauensfrauen",
@@ -695,6 +758,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Gleichstellungsvertrauensfrauen",
@@ -706,6 +770,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Gleichstellungsvertrauensfrauen",
@@ -717,6 +782,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Gleichstellungsvertrauensfrauen",
@@ -728,6 +794,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 6 Gleichstellungsvertrauensfrauen",
@@ -739,6 +806,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Einspruchs- und Klagerecht"
@@ -749,6 +817,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Einspruchs- und Klagerecht"
@@ -759,6 +828,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Einspruchs- und Klagerecht"
@@ -769,6 +839,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Einspruchs- und Klagerecht"
@@ -779,6 +850,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 7 Einspruchs- und Klagerecht"
@@ -789,6 +861,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Statistik, Bericht"
@@ -799,6 +872,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 8 Statistik, Bericht"
@@ -809,6 +883,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeine Vorschriften",
         "Teil 9 Übergangsbestimmungen"

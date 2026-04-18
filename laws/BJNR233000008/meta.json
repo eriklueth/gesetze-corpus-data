@@ -4,9 +4,11 @@
   "bjnr": "BJNR233000008",
   "eli": null,
   "gii_slug": "afig",
-  "ingested_at": "2026-04-18T20:28:29Z",
   "jurabk": "AFIG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "91342ca5c16871b65a3d9a14f2a6b9c68b45ff467cf86bcdee44982e334b7113"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Veröffentlichung von Informationen über die Zahlung von Mitteln aus den Agrar- und Fischereifonds der Europäischen Union",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

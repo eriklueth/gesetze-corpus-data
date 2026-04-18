@@ -4,9 +4,12 @@
   "bjnr": "BJNR019600971",
   "eli": null,
   "gii_slug": "tierseuchereinfv",
-  "ingested_at": "2026-04-18T20:41:14Z",
   "jurabk": "TierSeuchErEinfV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "05cb4f8179023336ac976a48b42b42a7ff66405b59e0519e38133a1e4b55722a"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über das innergemeinschaftliche Verbringen und die Einfuhr von Tierseuchenerregern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR107220017",
   "eli": null,
   "gii_slug": "dbseeluftabkg_pan",
-  "ingested_at": "2026-04-18T20:31:38Z",
   "jurabk": "DBSeeLuftAbkG PAN",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "fc61d95c838ec390d11bae9e506b8b7e10ebed3f2776a2b1c83361ce73c6c08c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 21. November 2016 zwischen der Bundesrepublik Deutschland und der Republik Panama zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen betreffend den Betrieb von Seeschiffen oder Luftfahrzeugen im internationalen Verkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

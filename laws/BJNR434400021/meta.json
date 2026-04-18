@@ -4,9 +4,12 @@
   "bjnr": "BJNR434400021",
   "eli": null,
   "gii_slug": "iregbv",
-  "ingested_at": "2026-04-18T20:34:59Z",
   "jurabk": "IRegBV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 26
+  },
   "source_hashes": {
     "source_xml_sha256": "e68a44847934d23924cbffc3b99f1ad2f52cf7c7352e5360204a047944407ea8"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zum Betrieb des Implantateregisters Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR010880969",
   "eli": null,
   "gii_slug": "wzg_35kutbek",
-  "ingested_at": "2026-04-18T20:42:54Z",
   "jurabk": "WZG§35KUTBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5f32d1e5f2b471e780ba86c18440fb96169a104958456e00311dba7137137440"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

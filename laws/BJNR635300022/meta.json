@@ -4,9 +4,12 @@
   "bjnr": "BJNR635300022",
   "eli": null,
   "gii_slug": "gapinvekosv",
-  "ingested_at": "2026-04-18T20:33:32Z",
   "jurabk": "GAPInVeKoSV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 51
+  },
   "source_hashes": {
     "source_xml_sha256": "2376ced3a43cce584180612496318ee471e3cd230ea60b735b2012720bc68876"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Integrierten Verwaltungs- und Kontrollsystems",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR003240966",
   "eli": null,
   "gii_slug": "bpr_samtsbezano_1966",
-  "ingested_at": "2026-04-18T20:30:39Z",
   "jurabk": "BPräsAmtsbezAnO 1966",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a83b53cea07ec08739b2fba0af7bd688d6a5bd3ccf8941e7589875a196ad4cd5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

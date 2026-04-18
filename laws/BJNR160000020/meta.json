@@ -4,9 +4,11 @@
   "bjnr": "BJNR160000020",
   "eli": null,
   "gii_slug": "bzev",
-  "ingested_at": "2026-04-18T20:31:17Z",
   "jurabk": "BZEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "b836ebebe615a426dd4ff27fac522ae520a79bf75c5cf982fc74bee3e63f2b15"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Erhebungen zum Zustand des Waldbodens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

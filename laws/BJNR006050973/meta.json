@@ -4,9 +4,11 @@
   "bjnr": "BJNR006050973",
   "eli": null,
   "gii_slug": "tierseuchschnokanv",
-  "ingested_at": "2026-04-18T20:41:14Z",
   "jurabk": "TierSeuchSchNOKanV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "b91a5a82aebfe4a0419cb1bfdb8ff1024f9c1a1023495e6eb97c9d77e0349b12"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Beförderung von Tieren, Teilen, Erzeugnissen und Rohstoffen von Tieren sowie von sonstigen Gegenständen, die Träger von Ansteckungsstoff sein können, durch den Nord-Ostsee-Kanal",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

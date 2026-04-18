@@ -4,9 +4,9 @@
   "bjnr": "BJNR165520004",
   "eli": null,
   "gii_slug": "grenzgnldzusprot3",
-  "ingested_at": "2026-04-18T20:34:16Z",
   "jurabk": "GrenzgNLDZusProt3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3edd885e02aaab77734cfd1022a51d1727ca28fed97cc07f08ddf79f92a457a4"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Drittes Zusatzprotokoll zum Abkommen vom 16. Juni 1959 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

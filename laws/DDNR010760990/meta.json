@@ -4,9 +4,11 @@
   "bjnr": "DDNR010760990",
   "eli": null,
   "gii_slug": "treuhgdv_1",
-  "ingested_at": "2026-04-18T20:41:19Z",
   "jurabk": "TreuhGDV 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "f75bb565e98986bdf56e3d14cd0b4359904e471dcb62cab1920e03b3a22bebdd"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erste Durchführungsverordnung zum Treuhandgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

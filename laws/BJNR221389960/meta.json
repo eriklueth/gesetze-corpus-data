@@ -4,9 +4,9 @@
   "bjnr": "BJNR221389960",
   "eli": null,
   "gii_slug": "ientworgabk",
-  "ingested_at": "2026-04-18T20:34:39Z",
   "jurabk": "IEntwOrgAbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "96645636237303f5731e4d78c62bfaa956f20e1e8faa2ec6832f3ea7cdbd7281"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen über die Internationale Entwicklungsorganisation",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

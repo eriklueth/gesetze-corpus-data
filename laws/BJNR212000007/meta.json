@@ -4,9 +4,11 @@
   "bjnr": "BJNR212000007",
   "eli": null,
   "gii_slug": "postszv",
-  "ingested_at": "2026-04-18T20:38:29Z",
   "jurabk": "PostSZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "dbfa0b3827b7ab0c146c895742a87b09295fba82580b549e489b85fd703f28fb"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung einer monatlichen Sonderzahlung an die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

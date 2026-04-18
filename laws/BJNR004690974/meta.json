@@ -4,9 +4,11 @@
   "bjnr": "BJNR004690974",
   "eli": null,
   "gii_slug": "stgbeg",
-  "ingested_at": "2026-04-18T20:32:00Z",
   "jurabk": "StGBEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 73
+  },
   "source_hashes": {
     "source_xml_sha256": "4c7ebfdc4bc413ad28461370bd7dd9298d42fba82e40290b1d7a416eaeb0092d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Einführungsgesetz zum Strafgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

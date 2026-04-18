@@ -4,9 +4,12 @@
   "bjnr": "BJNR215700009",
   "eli": null,
   "gii_slug": "agrarausbv",
-  "ingested_at": "2026-04-18T20:28:33Z",
   "jurabk": "AgrarAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "dd4e635af0fd67aaee7fb7f23493a491eb0c3204167181201c6222546b4e3639"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zur Fachkraft Agrarservice",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

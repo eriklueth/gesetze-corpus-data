@@ -4,9 +4,12 @@
   "bjnr": "BJNR0CE0B0023",
   "eli": null,
   "gii_slug": "_lg-dv",
-  "ingested_at": "2026-04-18T20:37:49Z",
   "jurabk": "ÖLG-DV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 21
+  },
   "source_hashes": {
     "source_xml_sha256": "13d34a014477019705c16896ee224da083f71e368b5b9437d0742b41450aea07"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung des Öko-Landbaugesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

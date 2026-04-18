@@ -4,9 +4,9 @@
   "bjnr": "BJNR101570991",
   "eli": null,
   "gii_slug": "bkorgerl_1991",
-  "ingested_at": "2026-04-18T20:30:13Z",
   "jurabk": "BKOrgErl 1991",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "86ea733ac18c4fedd6df95c92e40ca349f7f617d3b94b2fa0fdff982a1bca2b6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Organisationserlaß des Bundeskanzlers",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

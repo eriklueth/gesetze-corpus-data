@@ -4,9 +4,11 @@
   "bjnr": "BJNR208960986",
   "eli": null,
   "gii_slug": "ztv_1986",
-  "ingested_at": "2026-04-18T20:43:19Z",
   "jurabk": "ZTV 1986",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "4dd038796064b6afaeb2e0860eb792617312cdf9a6fc7a336814124b1c4e2140"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Zolltarifverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

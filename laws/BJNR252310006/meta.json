@@ -4,9 +4,11 @@
   "bjnr": "BJNR252310006",
   "eli": null,
   "gii_slug": "amwhv",
-  "ingested_at": "2026-04-18T20:28:45Z",
   "jurabk": "AMWHV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 52
+  },
   "source_hashes": {
     "source_xml_sha256": "db06ba28265446663fe668107ac560494d57b4c138691231f20bebbd52b39b24"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Anwendung der Guten Herstellungspraxis bei der Herstellung von Arzneimitteln und Wirkstoffen und über die Anwendung der Guten fachlichen Praxis bei der Herstellung von Produkten menschlicher Herkunft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

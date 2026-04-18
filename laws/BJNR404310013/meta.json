@@ -4,9 +4,12 @@
   "bjnr": "BJNR404310013",
   "eli": null,
   "gii_slug": "abfaev",
-  "ingested_at": "2026-04-18T20:28:21Z",
   "jurabk": "AbfAEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "070c8160a33d80550553e7f2c3aa41de744956306eb1b03e96362cec77d07ac6"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

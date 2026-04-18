@@ -4,9 +4,12 @@
   "bjnr": "BJNR008570971",
   "eli": null,
   "gii_slug": "krglaskennzg",
-  "ingested_at": "2026-04-18T20:35:34Z",
   "jurabk": "KrGlasKennzG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "a6cab6f2e0fd3f945647854f673d2cb0b16f872ebface8a6449c98bc48ecf64a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Kennzeichnung von Bleikristall und Kristallglas",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

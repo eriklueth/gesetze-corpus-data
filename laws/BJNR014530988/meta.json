@@ -4,9 +4,12 @@
   "bjnr": "BJNR014530988",
   "eli": null,
   "gii_slug": "euwo_1988",
-  "ingested_at": "2026-04-18T20:32:56Z",
   "jurabk": "EuWO 1988",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 39,
+    "paragraph": 91
+  },
   "source_hashes": {
     "source_xml_sha256": "600b0a493372a6ae271a1f12e59bfebfe2d98d6b844085c7643b1975a3934bfd"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Europawahlordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

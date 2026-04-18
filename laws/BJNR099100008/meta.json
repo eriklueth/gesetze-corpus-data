@@ -4,9 +4,11 @@
   "bjnr": "BJNR099100008",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2008-05-28",
-  "ingested_at": "2026-04-18T20:36:57Z",
   "jurabk": "Münz10EuroBek 2008-05-28",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "067f18a8e794ea40cfc9ccc89427a3631bfff6f6ad90a199d8e122168abaf017"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „50 Jahre Gorch Fock“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

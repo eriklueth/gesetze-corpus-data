@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR216700016",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern"
       ],
@@ -75,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 2 Gesamtverzeichnis der Bundesrechtsanwaltskammer"
@@ -85,6 +94,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 2 Gesamtverzeichnis der Bundesrechtsanwaltskammer"
@@ -95,6 +105,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 2 Gesamtverzeichnis der Bundesrechtsanwaltskammer"
@@ -105,6 +116,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 2 Gesamtverzeichnis der Bundesrechtsanwaltskammer"
@@ -115,6 +127,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 2 Gesamtverzeichnis der Bundesrechtsanwaltskammer"
@@ -125,6 +138,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 2 Gesamtverzeichnis der Bundesrechtsanwaltskammer"
@@ -135,6 +149,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 2 Gesamtverzeichnis der Bundesrechtsanwaltskammer"
@@ -145,6 +160,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 3 Europäisches Rechtsanwaltsverzeichnis"
@@ -155,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 3 Europäisches Rechtsanwaltsverzeichnis"
@@ -165,6 +182,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 3 Europäisches Rechtsanwaltsverzeichnis"
@@ -175,6 +193,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -185,6 +204,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -195,6 +215,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -205,6 +226,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -215,6 +237,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -225,6 +248,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -235,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -245,6 +270,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -255,6 +281,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -265,6 +292,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -275,6 +303,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 4 Besonderes elektronisches Anwaltspostfach"
@@ -285,6 +314,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 5 Schlussvorschriften"
@@ -295,6 +325,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 5 Schlussvorschriften"
@@ -305,6 +336,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Elektronische Verzeichnisse der Rechtsanwaltskammern",
         "Teil 5 Schlussvorschriften"

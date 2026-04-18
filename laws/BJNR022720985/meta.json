@@ -4,9 +4,12 @@
   "bjnr": "BJNR022720985",
   "eli": null,
   "gii_slug": "einhv",
-  "ingested_at": "2026-04-18T20:32:08Z",
   "jurabk": "EinhV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "d5d895784ba63c85e4993ea861d388b4b6124b80f041a26c6589c3e72bdd2d54"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Ausführungsverordnung zum Gesetz über die Einheiten im Messwesen und die Zeitbestimmung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

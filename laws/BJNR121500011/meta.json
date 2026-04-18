@@ -4,9 +4,12 @@
   "bjnr": "BJNR121500011",
   "eli": null,
   "gii_slug": "tpdesign_tsysplausbv",
-  "ingested_at": "2026-04-18T20:41:21Z",
   "jurabk": "TPDesign/TSysPlAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 29
+  },
   "source_hashes": {
     "source_xml_sha256": "d6382df8e96e253e012eb332780f2aed6b8d9e1ca169159205da8409325d5a07"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Technischen Produktdesigner und zur Technischen Produktdesignerin sowie zum Technischen Systemplaner und zur Technischen Systemplanerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

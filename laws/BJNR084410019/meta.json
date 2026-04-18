@@ -4,9 +4,11 @@
   "bjnr": "BJNR084410019",
   "eli": null,
   "gii_slug": "eufinschstg",
-  "ingested_at": "2026-04-18T20:32:38Z",
   "jurabk": "EUFinSchStG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "c14b4b565560dabbe524b687a8b6f95908bcd6dcff3703e712a27eeb4e3599e6"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Stärkung des Schutzes der finanziellen Interessen der Europäischen Union",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

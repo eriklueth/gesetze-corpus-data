@@ -4,9 +4,11 @@
   "bjnr": "BJNR011490982",
   "eli": null,
   "gii_slug": "ksksav",
-  "ingested_at": "2026-04-18T20:35:38Z",
   "jurabk": "KSKSaV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "7ff96cbaf28b1e03b0665aff33075e6d723ba8b57f9c3957de0431be6310d436"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über den Beirat und die Ausschüsse bei der Künstlersozialkasse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

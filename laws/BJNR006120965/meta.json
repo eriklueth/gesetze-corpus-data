@@ -4,9 +4,11 @@
   "bjnr": "BJNR006120965",
   "eli": null,
   "gii_slug": "fl_hg",
-  "ingested_at": "2026-04-18T20:33:14Z",
   "jurabk": "FlüHG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "f173cb70e666f5997cd8decff36feabee9513f28ccd64a86b2b6e4a20313dcf9"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Flüchtlingshilfegesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

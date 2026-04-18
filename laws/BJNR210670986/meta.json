@@ -4,9 +4,9 @@
   "bjnr": "BJNR210670986",
   "eli": null,
   "gii_slug": "intwarenbez_bkv",
-  "ingested_at": "2026-04-18T20:34:59Z",
   "jurabk": "IntWarenBezÜbkV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b8f3cd3260bf88120b3e1cda28ef3626c79179e18be476eed5b50d2c6b6ec171"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zu dem Internationalen Übereinkommen vom 14. Juni 1983 über das Harmonisierte System zur Bezeichnung und Codierung der Waren und zu dem Änderungsprotokoll vom 24. Juni 1986",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

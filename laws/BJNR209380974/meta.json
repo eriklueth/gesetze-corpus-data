@@ -4,9 +4,9 @@
   "bjnr": "BJNR209380974",
   "eli": null,
   "gii_slug": "rausk_bk",
-  "ingested_at": "2026-04-18T20:38:42Z",
   "jurabk": "RAuskÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "64689b78788626dfa264523340d0c60fe0e3ab4fb53ccde2d268c90c0c7859b2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Europäisches Übereinkommen betreffend Auskünfte über ausländisches Recht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

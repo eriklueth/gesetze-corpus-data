@@ -4,9 +4,11 @@
   "bjnr": "BJNR143400010",
   "eli": null,
   "gii_slug": "ausbberaufhv_4",
-  "ingested_at": "2026-04-18T20:29:05Z",
   "jurabk": "AusbBerAufhV 4",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "f550169d6eb9902ebb9a7f19b306d82616ee92e597e53c2de785cd9dd674d055"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vierte Verordnung über die Aufhebung der Anerkennung von Ausbildungsberufen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR005800012",
   "eli": null,
   "gii_slug": "mit_bermitv",
-  "ingested_at": "2026-04-18T20:36:36Z",
   "jurabk": "MitÜbermitV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "798aa04c8b1e4ab4e316f3c6bc2726e565811697c49778300cee454d33d3d396"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zu Mitteilungs- und Übermittlungspflichten zu gesundheitlich nicht erwünschten Stoffen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

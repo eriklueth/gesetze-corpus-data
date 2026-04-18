@@ -4,9 +4,11 @@
   "bjnr": "BJNR072710021",
   "eli": null,
   "gii_slug": "hbpolvdaufstv",
-  "ingested_at": "2026-04-18T20:34:24Z",
   "jurabk": "HBPolVDAufstV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 41
+  },
   "source_hashes": {
     "source_xml_sha256": "af8ed400a1bf4b2b860d6ebb3cbda2759de33652da950e83ce2b2c927405f364"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Ausbildung und Prüfung für den verkürzten Aufstieg in den höheren Polizeivollzugsdienst in der Bundespolizei",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

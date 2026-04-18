@@ -4,9 +4,12 @@
   "bjnr": "BJNR001920986",
   "eli": null,
   "gii_slug": "pflkartv_1986",
-  "ingested_at": "2026-04-18T20:38:17Z",
   "jurabk": "PflKartV 1986",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 37
+  },
   "source_hashes": {
     "source_xml_sha256": "fd35fc12364dd6486f0f3c9b940e99a905102609fe44ca126d090d87dd608cfe"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Pflanzkartoffelverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

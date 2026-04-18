@@ -4,9 +4,9 @@
   "bjnr": "BJNR006300998",
   "eli": null,
   "gii_slug": "ptstifternano",
-  "ingested_at": "2026-04-18T20:38:38Z",
   "jurabk": "PTStiftErnAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "19517d8df1ef10ef5149f626176ddc12778f4d48c395ce6eac17250cd49510f3"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung des Rechtes zur Ernennung und Entlassung der Beamten der Museumsstiftung Post und Telekommunikation",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

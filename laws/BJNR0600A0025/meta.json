@@ -4,9 +4,11 @@
   "bjnr": "BJNR0600A0025",
   "eli": null,
   "gii_slug": "biv",
-  "ingested_at": "2026-04-18T20:30:11Z",
   "jurabk": "BIV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "4c48b2f843a551b0018820d4d883e448cc505b82154577267bbb0470a6c1bcb9"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Stärkung einer integren Allfinanzaufsicht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

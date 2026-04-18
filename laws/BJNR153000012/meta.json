@@ -4,9 +4,9 @@
   "bjnr": "BJNR153000012",
   "eli": null,
   "gii_slug": "bmingwidano",
-  "ingested_at": "2026-04-18T20:30:23Z",
   "jurabk": "BMinGWidAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "72fcd83916f1d48cdaf391d4a4837c718438ff78d7d4f41f56bccbd8969de1a0"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis auf die Einrichtungen im Geschäftsbereich des Bundesministeriums für Gesundheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

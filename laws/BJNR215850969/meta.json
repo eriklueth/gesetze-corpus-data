@@ -4,9 +4,11 @@
   "bjnr": "BJNR215850969",
   "eli": null,
   "gii_slug": "kons_bkg",
-  "ingested_at": "2026-04-18T20:35:26Z",
   "jurabk": "KonsÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "50e53f7c9dd9c50248880f6bdefe045401058b345951ad68773faba7d7803ae7"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Wiener Übereinkommen vom 24. April 1963 über konsularische Beziehungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

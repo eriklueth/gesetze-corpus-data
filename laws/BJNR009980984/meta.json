@@ -4,9 +4,11 @@
   "bjnr": "BJNR009980984",
   "eli": null,
   "gii_slug": "dienstr_ndg_5",
-  "ingested_at": "2026-04-18T20:31:42Z",
   "jurabk": "DienstRÄndG 5",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "55d3b02aeeb894c034e00351702ee9df50dd1842c199cb55c5ee3d57d7bf44ad"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Fünftes Gesetz zur Änderung dienstrechtlicher Vorschriften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

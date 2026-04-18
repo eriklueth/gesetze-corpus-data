@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR512610021",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 34,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Nachhaltigkeitsanforderungen"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Nachhaltigkeitsanforderungen"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Nachhaltigkeitsanforderungen"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 2 Nachhaltigkeitsanforderungen"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -83,6 +91,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -94,6 +103,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -105,6 +115,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -116,6 +127,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -127,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -138,6 +151,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -149,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -160,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -171,6 +187,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -182,6 +199,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -193,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -204,6 +223,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -215,6 +235,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -226,6 +247,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -237,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -248,6 +271,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -259,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -270,6 +295,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -281,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -293,6 +320,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -305,6 +333,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -317,6 +346,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -329,6 +359,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -341,6 +372,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -353,6 +385,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -365,6 +398,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -377,6 +411,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -389,6 +424,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -401,6 +437,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -413,6 +450,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -425,6 +463,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -437,6 +476,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -449,6 +489,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -461,6 +502,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -473,6 +515,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 3 Nachweis",
@@ -485,6 +528,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Zentrales Register"
@@ -495,6 +539,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Zentrales Register"
@@ -505,6 +550,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 4 Zentrales Register"
@@ -515,6 +561,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -525,6 +572,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -535,6 +583,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -545,6 +594,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -555,6 +605,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -565,6 +616,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -575,6 +627,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 5 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -585,6 +638,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 6 Ordnungswidrigkeiten"
@@ -595,6 +649,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeine Bestimmungen",
         "Teil 7 Übergangs- und Schlussbestimmungen"

@@ -4,9 +4,9 @@
   "bjnr": "BJNR140820003",
   "eli": null,
   "gii_slug": "eubeitrvtrczeuag",
-  "ingested_at": "2026-04-18T20:32:34Z",
   "jurabk": "EUBeitrVtrCZEuaG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "765246ace5e3779a850e96364bbdc66fa1a3a9be3dd9d31b66d5e0c62fbffe37"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Gesetz zu dem Vertrag vom 16. April 2003 über den Beitritt der Tschechischen Republik, der Republik Estland, der Republik Zypern, der Republik Lettland, der Republik Litauen, der Republik Ungarn, der Republik Malta, der Republik Polen, der Republik Slowenien und der Slowakischen Republik zur Europäischen Union",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR212460960",
   "eli": null,
   "gii_slug": "zpvtr_aut",
-  "ingested_at": "2026-04-18T20:43:18Z",
   "jurabk": "ZPVtr AUT",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "035f53483e04b51ef0efe9031ccd9c9a971180daf633ccfc8b710560aa34935f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

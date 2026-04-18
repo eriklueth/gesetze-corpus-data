@@ -4,9 +4,9 @@
   "bjnr": "BJNR006410957",
   "eli": null,
   "gii_slug": "bpr_swehrdgerkldgano",
-  "ingested_at": "2026-04-18T20:30:44Z",
   "jurabk": "BPräsWehrDGerKldgAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7f36165ead439528f05834d46d29d0ce2d81deb0a713a2a40a06e747e7764163"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über die Amtstracht bei den Wehrdienstgerichten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

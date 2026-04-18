@@ -4,9 +4,11 @@
   "bjnr": "BJNR210300020",
   "eli": null,
   "gii_slug": "endlsiuntv",
-  "ingested_at": "2026-04-18T20:32:17Z",
   "jurabk": "EndlSiUntV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "fcf17fc16c339eb139707c85bb2650baef4c414a274b86609c4e3b083f8cbe87"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Anforderungen an die Durchführung der vorläufigen Sicherheitsuntersuchungen im Standortauswahlverfahren für die Endlagerung hochradioaktiver Abfälle",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR095500014",
   "eli": null,
   "gii_slug": "bbfestv_2014",
-  "ingested_at": "2026-04-18T20:29:29Z",
   "jurabk": "BBFestV 2014",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "bbb7147327da89be34e8a7156adaa03626434a34506730d0f32a0435289cc38a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Festlegung der der Revision unterliegenden Bundesbeteiligung an den Kosten der Unterkunft und Heizung für das Jahr 2014",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

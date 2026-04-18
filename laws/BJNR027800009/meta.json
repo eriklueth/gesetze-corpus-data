@@ -4,9 +4,11 @@
   "bjnr": "BJNR027800009",
   "eli": null,
   "gii_slug": "geozg",
-  "ingested_at": "2026-04-18T20:33:48Z",
   "jurabk": "GeoZG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "e0ec17b946e4341929b0764de8f00c4c0fe9ae4fafcf4de8fd960bbd46d5ca7a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über den Zugang zu digitalen Geodaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

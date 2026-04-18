@@ -4,9 +4,11 @@
   "bjnr": "BJNR200890974",
   "eli": null,
   "gii_slug": "kaffeeratvorrv",
-  "ingested_at": "2026-04-18T20:35:10Z",
   "jurabk": "KaffeeRatVorRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "164a35edbe9c4fa74ed60feeebefbda6b5ce5df1f63360853dbd7a4d68ff2e31"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an die Internationale Kaffee-Organisation nach der Entschließung Nr. 264 des Internationalen Kaffee-Rates vom 14. April 1973 zur Verlängerung des Internationalen Kaffee-Übereinkommens 1968",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

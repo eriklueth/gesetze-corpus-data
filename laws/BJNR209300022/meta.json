@@ -4,9 +4,11 @@
   "bjnr": "BJNR209300022",
   "eli": null,
   "gii_slug": "versausgl-anzv",
-  "ingested_at": "2026-04-18T20:41:50Z",
   "jurabk": "VersAusgl-AnzV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "236f80297c5d23e8321f26fffdfefde1c718d1a62a4d1f11b54b9f7a79ad15aa"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Anzeigen von Versicherungsunternehmen und Pensionsfonds zur Ausgliederung von Funktionen und Versicherungstätigkeiten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

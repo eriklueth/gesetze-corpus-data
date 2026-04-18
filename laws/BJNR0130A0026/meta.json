@@ -4,9 +4,11 @@
   "bjnr": "BJNR0130A0026",
   "eli": null,
   "gii_slug": "intschsiherkstbestv",
-  "ingested_at": "2026-04-18T20:34:55Z",
   "jurabk": "IntSchSiHerkStBestV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "26f20ef8f4414571bb64ea13d68e925ad521e757daed41c9de651dd99545c97b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Bestimmung von sicheren Herkunftsstaaten für den internationalen Schutz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

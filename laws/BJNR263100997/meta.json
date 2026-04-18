@@ -4,9 +4,11 @@
   "bjnr": "BJNR263100997",
   "eli": null,
   "gii_slug": "tpg",
-  "ingested_at": "2026-04-18T20:41:18Z",
   "jurabk": "TPG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 54
+  },
   "source_hashes": {
     "source_xml_sha256": "f6ceed4752ef2fa5aff07f979a714a9e421f85de9b6222ac573d42c0649190bf"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Gesetz über die Spende, Entnahme und Übertragung von Organen und Geweben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

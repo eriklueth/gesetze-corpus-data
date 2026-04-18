@@ -4,9 +4,11 @@
   "bjnr": "BJNR010140992",
   "eli": null,
   "gii_slug": "fverkwbv",
-  "ingested_at": "2026-04-18T20:33:28Z",
   "jurabk": "FVerkWBV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "5dba19a592f7a97d2e030110cc506684cbe8ed97e40aa35f45b066c2248197c6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Fernverkehrswegebestimmungsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

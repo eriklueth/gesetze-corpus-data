@@ -4,9 +4,11 @@
   "bjnr": "BJNR006820959",
   "eli": null,
   "gii_slug": "auslwbgdv_13",
-  "ingested_at": "2026-04-18T20:29:13Z",
   "jurabk": "AuslWBGDV 13",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "56b29c03f4759784615706962c1fb7ed6279d6743c0ea0c4200aae8d12e08e24"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Dreizehnte Durchführungsverordnung zum Bereinigungsgesetz für deutsche Auslandsbonds (Endgültige Verwaltungsabgabe)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

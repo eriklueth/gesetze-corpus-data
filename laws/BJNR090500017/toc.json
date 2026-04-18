@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR090500017",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 33,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 2 Einstufung von Stoffen und Gemischen",
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 2 Einstufung von Stoffen und Gemischen",
@@ -43,6 +47,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 2 Einstufung von Stoffen und Gemischen",
@@ -54,6 +59,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 2 Einstufung von Stoffen und Gemischen",
@@ -65,6 +71,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 2 Einstufung von Stoffen und Gemischen",
@@ -76,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 2 Einstufung von Stoffen und Gemischen",
@@ -87,6 +95,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 2 Einstufung von Stoffen und Gemischen",
@@ -98,6 +107,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 2 Einstufung von Stoffen und Gemischen",
@@ -109,6 +119,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 2 Einstufung von Stoffen und Gemischen",
@@ -120,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 2 Einstufung von Stoffen und Gemischen",
@@ -131,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -142,6 +155,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -153,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -164,6 +179,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -175,6 +191,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -186,6 +203,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -197,6 +215,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -208,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -219,6 +239,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -230,6 +251,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -241,6 +263,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -252,6 +275,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -263,6 +287,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -274,6 +299,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -285,6 +311,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -296,6 +323,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -307,6 +335,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -318,6 +347,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -329,6 +359,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -340,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -351,6 +383,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -362,6 +395,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -373,6 +407,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -384,6 +419,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -395,6 +431,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -406,6 +443,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -417,6 +455,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -428,6 +467,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -439,6 +479,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -450,6 +491,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -461,6 +503,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -472,6 +515,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -483,6 +527,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -494,6 +539,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -505,6 +551,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -516,6 +563,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -527,6 +575,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -538,6 +587,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -549,6 +599,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 3 Technische und organisatorische Anforderungen an Anlagen zum Umgang mit wassergefährdenden Stoffen",
@@ -560,6 +611,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -570,6 +622,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -580,6 +633,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -590,6 +644,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -600,6 +655,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -610,6 +666,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -620,6 +677,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -630,6 +688,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -640,6 +699,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -650,6 +710,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -660,6 +721,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -670,6 +732,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -680,6 +743,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 4 Sachverständigenorganisationen und Sachverständige; Güte- und Überwachungsgemeinschaften und Fachprüfer; Fachbetriebe"
@@ -690,6 +754,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -700,6 +765,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -710,6 +776,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -720,6 +787,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 10,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -730,6 +798,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -740,6 +809,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -750,6 +820,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -760,6 +831,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -770,6 +842,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -780,6 +853,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -790,6 +864,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -800,6 +875,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -810,6 +886,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -820,6 +897,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -830,6 +908,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"
@@ -840,6 +919,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Zweck; Anwendungsbereich; Begriffsbestimmungen",
         "Kapitel 5 Ordnungswidrigkeiten; Schlussvorschriften"

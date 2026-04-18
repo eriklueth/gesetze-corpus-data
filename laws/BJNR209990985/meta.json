@@ -4,9 +4,11 @@
   "bjnr": "BJNR209990985",
   "eli": null,
   "gii_slug": "euschulvorrv_1985",
-  "ingested_at": "2026-04-18T20:32:50Z",
   "jurabk": "EuSchulVorRV 1985",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "19e22259d94ecbd7103733285d7560c045377b44cb5ec3bb6bc5201331a1fbe1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an die Europäischen Schulen in Karlsruhe und München",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

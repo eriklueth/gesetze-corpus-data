@@ -4,9 +4,11 @@
   "bjnr": "BJNR023000011",
   "eli": null,
   "gii_slug": "revierjausbsteignv_2011",
-  "ingested_at": "2026-04-18T20:38:56Z",
   "jurabk": "RevierjAusbStEignV 2011",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "bee01d6e0b361b32e35fa67fa0575ae158b7ef5c860710573c5bc48bf21c7c76"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Revierjäger und zur Revierjägerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR211100993",
   "eli": null,
   "gii_slug": "beauftrv",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BeauftrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "4233d56bde5aa549ada699603ec7be507d56e5a7f111c2aa6bb6129d31007fb9"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Beauftragung von Luftsportverbänden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

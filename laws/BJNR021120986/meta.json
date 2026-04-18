@@ -4,9 +4,12 @@
   "bjnr": "BJNR021120986",
   "eli": null,
   "gii_slug": "leichtflbausbv",
-  "ingested_at": "2026-04-18T20:35:51Z",
   "jurabk": "LeichtflBAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "9cf43a9b4b7b55c223055bf90665ce816c11b3ae3afdf995076a4925e0304842"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Leichtflugzeugbauer/zur Leichtflugzeugbauerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

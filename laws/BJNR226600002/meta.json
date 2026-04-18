@@ -4,9 +4,11 @@
   "bjnr": "BJNR226600002",
   "eli": null,
   "gii_slug": "binschfondsg",
-  "ingested_at": "2026-04-18T20:30:06Z",
   "jurabk": "BinSchFondsG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "5c28920e3eeffecbf5398b5cecf0e0a37e9490fdb5105ac7be961a319642a87c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Errichtung des Deutschen Binnenschifffahrtsfonds",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR128100008",
   "eli": null,
   "gii_slug": "stmstbmstrv_2008",
-  "ingested_at": "2026-04-18T20:40:43Z",
   "jurabk": "StmStbMstrV 2008",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "a440f47d8e94296d8588f6ab405d6296f09fc26ef68c501fe6323792ef6a8021"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Steinmetz- und Steinbildhauer-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

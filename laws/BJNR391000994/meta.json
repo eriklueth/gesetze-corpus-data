@@ -4,9 +4,12 @@
   "bjnr": "BJNR391000994",
   "eli": null,
   "gii_slug": "treuhunt_v",
-  "ingested_at": "2026-04-18T20:41:20Z",
   "jurabk": "TreuhUntÜV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "7bccbd6a5f20127371801192c602a983471e39124758127e1954444b902203eb"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Übertragung von unternehmensbezogenen Aufgaben und Unternehmensbeteiligungen der Treuhandanstalt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

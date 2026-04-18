@@ -4,9 +4,12 @@
   "bjnr": "BJNR000580991",
   "eli": null,
   "gii_slug": "planzv_90",
-  "ingested_at": "2026-04-18T20:38:25Z",
   "jurabk": "PlanzV 90",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "56bed31396a0f6d1b80e2e4167688f7cf97b6b1a1e4ceb129b8f3912d34f6dcd"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Ausarbeitung der Bauleitpläne und die Darstellung des Planinhalts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

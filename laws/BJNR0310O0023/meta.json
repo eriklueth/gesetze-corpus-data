@@ -4,9 +4,11 @@
   "bjnr": "BJNR0310O0023",
   "eli": null,
   "gii_slug": "bizihecabkv",
-  "ingested_at": "2026-04-18T20:30:11Z",
   "jurabk": "BIZIHECAbkV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "7436f11d005d549fe04ee1d898bad8a6e76f0e4a7a4ae4ec05f377d2413ad5eb"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zu dem Abkommen vom 9. Dezember 2022 zwischen der Regierung der Bundesrepublik Deutschland und der Bank für Internationalen Zahlungsausgleich über das BIZ Innovation Hub Eurosystem Centre in Frankfurt am Main",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

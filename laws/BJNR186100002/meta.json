@@ -4,9 +4,12 @@
   "bjnr": "BJNR186100002",
   "eli": null,
   "gii_slug": "bodenlausbv",
-  "ingested_at": "2026-04-18T20:30:35Z",
   "jurabk": "BodenlAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "46a43335f8b2db07d7402b463bbafe026570aa3a7894a95df669b5328f476d92"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Bodenleger/zur Bodenlegerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

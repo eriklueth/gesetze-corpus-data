@@ -4,9 +4,11 @@
   "bjnr": "BJNR368500005",
   "eli": null,
   "gii_slug": "infogesstatg",
-  "ingested_at": "2026-04-18T20:34:47Z",
   "jurabk": "InfoGesStatG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "e9d2be3224b986c813944743b780d9c8d24c8747ca8ede2c6b9129b0a01859d2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Statistik zur Informationsgesellschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

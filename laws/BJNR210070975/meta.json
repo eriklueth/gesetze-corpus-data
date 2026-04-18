@@ -4,9 +4,9 @@
   "bjnr": "BJNR210070975",
   "eli": null,
   "gii_slug": "athaft_bkzprot",
-  "ingested_at": "2026-04-18T20:28:56Z",
   "jurabk": "AtHaftÜbkZProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "27e69ea4910ab86ec214589473487d62b1757a76558b8d1928711263a9b7639f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zusatzprotokoll zum Übereinkommen über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

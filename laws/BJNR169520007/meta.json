@@ -4,9 +4,9 @@
   "bjnr": "BJNR169520007",
   "eli": null,
   "gii_slug": "eibversorgabk",
-  "ingested_at": "2026-04-18T20:32:07Z",
   "jurabk": "EIBVersorgAbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1bb4822b09263b6fce6a5103a26efc82ba205e5aee42f8821528eed637f94cd9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Europäischen Investitionsbank über die Übertragung von Versorgungsanwartschaften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

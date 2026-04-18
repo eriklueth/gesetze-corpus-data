@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR223100014",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Zertifizierung von informationstechnischen Produkten oder Komponenten, informationstechnischen Systemen sowie Schutzprofilen"
@@ -76,6 +84,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Zertifizierung von informationstechnischen Produkten oder Komponenten, informationstechnischen Systemen sowie Schutzprofilen"
@@ -86,6 +95,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Zertifizierung von informationstechnischen Produkten oder Komponenten, informationstechnischen Systemen sowie Schutzprofilen"
@@ -96,6 +106,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Zertifizierung von informationstechnischen Produkten oder Komponenten, informationstechnischen Systemen sowie Schutzprofilen"
@@ -106,6 +117,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Zertifizierung von informationstechnischen Produkten oder Komponenten, informationstechnischen Systemen sowie Schutzprofilen"
@@ -116,6 +128,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 2 Zertifizierung von informationstechnischen Produkten oder Komponenten, informationstechnischen Systemen sowie Schutzprofilen"
@@ -126,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Zertifizierung von Personen"
@@ -136,6 +150,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 3 Zertifizierung von Personen"
@@ -146,6 +161,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Zertifizierung von IT-Sicherheitsdienstleistern"
@@ -156,6 +172,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Zertifizierung von IT-Sicherheitsdienstleistern"
@@ -166,6 +183,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 4 Zertifizierung von IT-Sicherheitsdienstleistern"
@@ -176,6 +194,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anerkennung von sachverständigen Stellen"
@@ -186,6 +205,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anerkennung von sachverständigen Stellen"
@@ -196,6 +216,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 5 Anerkennung von sachverständigen Stellen"
@@ -206,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 6 Nebenbestimmungen"
@@ -216,6 +238,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine Bestimmungen",
         "Abschnitt 7 Schlussbestimmungen"

@@ -4,9 +4,11 @@
   "bjnr": "BJNR003490933",
   "eli": null,
   "gii_slug": "auslverbindlg",
-  "ingested_at": "2026-04-18T20:29:13Z",
   "jurabk": "AuslVerbindlG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "4ec2322bb8c56eafdfdb1430656a8aef5dbf72a595dfdd0271d0a5d6930a24ee"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Zahlungsverbindlichkeiten gegenüber dem Ausland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

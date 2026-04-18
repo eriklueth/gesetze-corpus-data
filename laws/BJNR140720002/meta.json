@@ -4,9 +4,9 @@
   "bjnr": "BJNR140720002",
   "eli": null,
   "gii_slug": "espoo_bk",
-  "ingested_at": "2026-04-18T20:32:28Z",
   "jurabk": "EspooÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "607825d3bc2d162405a2869e8d43aba3bc6fea5ca6ba15335df1f1dcb462b4c0"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über die Umweltverträglichkeitsprüfung im grenzüberschreitenden Rahmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

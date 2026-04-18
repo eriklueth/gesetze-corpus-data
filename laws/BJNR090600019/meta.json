@@ -4,9 +4,11 @@
   "bjnr": "BJNR090600019",
   "eli": null,
   "gii_slug": "bbfestv_2019",
-  "ingested_at": "2026-04-18T20:29:29Z",
   "jurabk": "BBFestV 2019",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "7b5d4e2244ef7325ff3400992e82229028567022dd9c83548600d16cc15683a7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2019",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

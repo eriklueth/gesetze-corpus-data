@@ -4,9 +4,9 @@
   "bjnr": "BJNR100150954",
   "eli": null,
   "gii_slug": "bposternano",
-  "ingested_at": "2026-04-18T20:30:39Z",
   "jurabk": "BPostErnAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d0bfe7b6fc4fe32a3e27664a6e15a3b369661afd553e46910193c0488abdd068"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Ernennung und Entlassung von Beamten der Deutschen Bundespost und der Bundesdruckerei",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

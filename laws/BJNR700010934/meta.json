@@ -4,9 +4,9 @@
   "bjnr": "BJNR700010934",
   "eli": null,
   "gii_slug": "rausldrbest",
-  "ingested_at": "2026-04-18T20:38:46Z",
   "jurabk": "RAuslDRBest",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "35acf0c84627239db02bc5b5bac0c646afb11dfafaaaa57d0a13d002ee3db69e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Sonderbestimmungen für Auslandsdienstreisen der Reichsbeamten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

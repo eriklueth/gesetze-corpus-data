@@ -4,9 +4,11 @@
   "bjnr": "BJNR0790A0025",
   "eli": null,
   "gii_slug": "m_nz20eurobek_2025-04-22",
-  "ingested_at": "2026-04-18T20:37:13Z",
   "jurabk": "Münz20EuroBek 2025-04-22",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "58a4c4b0ed5cae611ecc85c4378d3b15e0320ee0898f14d86ac95332fa20c9b2"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „75. Berlinale“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

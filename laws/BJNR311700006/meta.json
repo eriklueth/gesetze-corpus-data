@@ -4,9 +4,12 @@
   "bjnr": "BJNR311700006",
   "eli": null,
   "gii_slug": "liqv",
-  "ingested_at": "2026-04-18T20:35:51Z",
   "jurabk": "LiqV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "0148b2503f14471f6c144d13624eb8b1d53ea8b18e6f81b54f8b8324f2a338ab"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Liquidität der Institute",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

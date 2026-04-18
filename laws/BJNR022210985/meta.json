@@ -4,9 +4,11 @@
   "bjnr": "BJNR022210985",
   "eli": null,
   "gii_slug": "cscgkosto_ndv",
-  "ingested_at": "2026-04-18T20:31:23Z",
   "jurabk": "CSCGKostOÄndV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "e1b3c0c228e3cc9917e37eefaacb14779cf7e9005d428a3b9f67b9f831184478"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zum Container-Sicherheits-Zulassungsschild und zur Änderung der Kostenordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

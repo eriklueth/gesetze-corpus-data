@@ -4,9 +4,11 @@
   "bjnr": "BJNR07C0A0024",
   "eli": null,
   "gii_slug": "bmfsfjbafzazustano",
-  "ingested_at": "2026-04-18T20:30:22Z",
   "jurabk": "BMFSFJBAFzAZustAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "6973968cb5a594a19d5d7630d28e5277cc25409257ce14d5ea5b20365bc4323c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

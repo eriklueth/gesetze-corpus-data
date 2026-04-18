@@ -4,9 +4,12 @@
   "bjnr": "BJNR148300021",
   "eli": null,
   "gii_slug": "braum_ausbv",
-  "ingested_at": "2026-04-18T20:30:45Z",
   "jurabk": "BrauMäAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "79734f6a09d06d9253cc45d30610430f43bc15907f8afc919418425e26f0547c"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Brauer und Mälzer und zur Brauerin und Mälzerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

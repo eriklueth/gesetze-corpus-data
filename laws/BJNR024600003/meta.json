@@ -4,9 +4,11 @@
   "bjnr": "BJNR024600003",
   "eli": null,
   "gii_slug": "rechpensv",
-  "ingested_at": "2026-04-18T20:38:51Z",
   "jurabk": "RechPensV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 41
+  },
   "source_hashes": {
     "source_xml_sha256": "07b7428e289145bd08626565ebb39e2ba0dcc88a7cda55f90294840a804133b2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Rechnungslegung von Pensionsfonds",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

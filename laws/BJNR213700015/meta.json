@@ -4,9 +4,11 @@
   "bjnr": "BJNR213700015",
   "eli": null,
   "gii_slug": "svbezgrv_2016",
-  "ingested_at": "2026-04-18T20:40:58Z",
   "jurabk": "SVBezGrV 2016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "a6aa662a3f15cd56d660415e98f1d76ba20cda47f6d96b8e39b86600f55ef54a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2016",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

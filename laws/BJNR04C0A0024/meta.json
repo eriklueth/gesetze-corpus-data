@@ -4,9 +4,9 @@
   "bjnr": "BJNR04C0A0024",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2024-02-20",
-  "ingested_at": "2026-04-18T20:37:05Z",
   "jurabk": "Münz10EuroBek 2024-02-20",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f869ed254a26822cc1e9062d75882209160b4d5b45366a5f0b03896b1acaba9f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"Polizei\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

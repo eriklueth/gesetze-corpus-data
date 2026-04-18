@@ -4,9 +4,11 @@
   "bjnr": "BJNR0300A0023",
   "eli": null,
   "gii_slug": "gastatausv",
-  "ingested_at": "2026-04-18T20:33:36Z",
   "jurabk": "GaStatAusV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "6f317a344f871d7b7b602dcd559ab72b608a43c959d0593b7c9ca154a2867106"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Aussetzung der Erhebung über Kinder in den Klassenstufen eins bis vier nach dem Achten Buch Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

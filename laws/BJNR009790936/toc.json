@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR009790936",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt I Allgemeines"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Allgemeines"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Allgemeines"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt II Bemessung der Gewerbesteuer"
@@ -76,6 +84,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt II Bemessung der Gewerbesteuer"
@@ -86,6 +95,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt II Bemessung der Gewerbesteuer"
@@ -96,6 +106,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt II Bemessung der Gewerbesteuer"
@@ -106,6 +117,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt II Bemessung der Gewerbesteuer"
@@ -116,6 +128,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt II Bemessung der Gewerbesteuer"
@@ -126,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt II Bemessung der Gewerbesteuer"
@@ -136,6 +150,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt II Bemessung der Gewerbesteuer"
@@ -146,6 +161,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt II Bemessung der Gewerbesteuer"
@@ -156,6 +172,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt IV Steuermessbetrag"
@@ -166,6 +183,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt IV Steuermessbetrag"
@@ -176,6 +194,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt IV Steuermessbetrag"
@@ -186,6 +205,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt IV Steuermessbetrag"
@@ -196,6 +216,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt V Entstehung, Festsetzung und Erhebung der Steuer"
@@ -206,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt V Entstehung, Festsetzung und Erhebung der Steuer"
@@ -216,6 +238,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt V Entstehung, Festsetzung und Erhebung der Steuer"
@@ -226,6 +249,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt V Entstehung, Festsetzung und Erhebung der Steuer"
@@ -236,6 +260,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt V Entstehung, Festsetzung und Erhebung der Steuer"
@@ -246,6 +271,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt V Entstehung, Festsetzung und Erhebung der Steuer"
@@ -256,6 +282,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt VI Zerlegung"
@@ -266,6 +293,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt VI Zerlegung"
@@ -276,6 +304,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt VI Zerlegung"
@@ -286,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt VI Zerlegung"
@@ -296,6 +326,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt VI Zerlegung"
@@ -306,6 +337,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt VI Zerlegung"
@@ -316,6 +348,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt VI Zerlegung"
@@ -326,6 +359,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt VI Zerlegung"
@@ -336,6 +370,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt VII Gewerbesteuer der Reisegewerbebetriebe"
@@ -346,6 +381,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt VIII Änderung des Gewerbesteuermessbescheids von Amts wegen"
@@ -356,6 +392,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt IX Durchführung"
@@ -366,6 +403,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 12,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt X Schlussvorschriften"
@@ -376,6 +414,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Allgemeines",
         "Abschnitt X Schlussvorschriften"

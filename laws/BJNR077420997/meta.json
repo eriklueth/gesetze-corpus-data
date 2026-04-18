@@ -4,9 +4,11 @@
   "bjnr": "BJNR077420997",
   "eli": null,
   "gii_slug": "persstdausz_bkg",
-  "ingested_at": "2026-04-18T20:38:10Z",
   "jurabk": "PersStdAuszÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "a62409d99cded7a8623691504c3dc8db1758b5cfc75916a1cd3b9264a6c7740f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 8. September 1976 über die Ausstellung mehrsprachiger Auszüge aus Personenstandsbüchern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

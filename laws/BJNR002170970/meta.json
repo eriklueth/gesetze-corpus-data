@@ -4,9 +4,12 @@
   "bjnr": "BJNR002170970",
   "eli": null,
   "gii_slug": "h_betrv",
-  "ingested_at": "2026-04-18T20:34:31Z",
   "jurabk": "HöBetrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "1557a9046cb340910a114d51793a41cf8c7076e9d1a4dd1be0c973cfcd0c0111"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Höchstbeträge der steuerlich begünstigten Herstellungskosten von Schutzräumen im Sinne der §§ 7 und 12 Abs. 3 des Schutzbaugesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

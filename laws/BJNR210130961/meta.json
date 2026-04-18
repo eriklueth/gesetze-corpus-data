@@ -4,9 +4,9 @@
   "bjnr": "BJNR210130961",
   "eli": null,
   "gii_slug": "uh_bk_haag",
-  "ingested_at": "2026-04-18T20:41:28Z",
   "jurabk": "UhÜbk Haag",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "fbf2fa125e862bb4d13d8d1a2434e378143bced03af9cecbe71713bf16914e08"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über das auf Unterhaltsverpflichtungen gegenüber Kindern anzuwendende Recht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

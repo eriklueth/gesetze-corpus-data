@@ -4,9 +4,12 @@
   "bjnr": "BJNR178400002",
   "eli": null,
   "gii_slug": "hurlv_2002",
-  "ingested_at": "2026-04-18T20:34:34Z",
   "jurabk": "HUrlV 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "6ed9bcb6679a62bee772787c291de29742f98015f6ab823c78dc21f0679b056b"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über den Heimaturlaub des Auswärtigen Dienstes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

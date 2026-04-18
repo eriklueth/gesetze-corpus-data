@@ -4,9 +4,9 @@
   "bjnr": "HENR001360946",
   "eli": null,
   "gii_slug": "nsahndgg_he",
-  "ingested_at": "2026-04-18T20:37:43Z",
   "jurabk": "NSAhndgG HE",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2ba87322aa1e8b5cb1302a68b1d59538b507895f58d49ea8e144e3da9a385634"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Ahndung nationalsozialistischer Straftaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

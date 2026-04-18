@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR215630967",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 11,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -79,6 +87,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -89,6 +98,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -99,6 +109,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -109,6 +120,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 16,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -119,6 +131,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -129,6 +142,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -139,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 17,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -149,6 +164,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -159,6 +175,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -169,6 +186,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Zweiter Abschnitt Bahnanlagen"
@@ -179,6 +197,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -189,6 +208,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -199,6 +219,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -209,6 +230,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -219,6 +241,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -229,6 +252,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -239,6 +263,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -249,6 +274,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -259,6 +285,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 14,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -269,6 +296,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -279,6 +307,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Dritter Abschnitt Fahrzeuge"
@@ -289,6 +318,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -299,6 +329,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -309,6 +340,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -319,6 +351,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -329,6 +362,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -339,6 +373,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -349,6 +384,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -359,6 +395,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -369,6 +406,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -379,6 +417,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -389,6 +428,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -399,6 +439,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -409,6 +450,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Vierter Abschnitt Bahnbetrieb"
@@ -419,6 +461,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Personal"
@@ -429,6 +472,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Personal"
@@ -439,6 +483,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Fünfter Abschnitt Personal"
@@ -449,6 +494,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -459,6 +505,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -469,6 +516,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -479,6 +527,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -489,6 +538,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -499,6 +549,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -509,6 +560,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -519,6 +571,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -529,6 +582,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -539,6 +593,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -549,6 +604,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -559,6 +615,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -569,6 +626,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -579,6 +637,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -589,6 +648,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -599,6 +659,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -609,6 +670,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"
@@ -619,6 +681,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Allgemeines",
         "Sechster Abschnitt Sicherheit und Ordnung auf dem Gebiet der Bahnanlagen"

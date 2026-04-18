@@ -4,9 +4,11 @@
   "bjnr": "BJNR066300010",
   "eli": null,
   "gii_slug": "ggart91cvtr",
-  "ingested_at": "2026-04-18T20:33:56Z",
   "jurabk": "GGArt91cVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "e8c345b57856e66b2c32e9625d90fa17e6e0bb16347a95d306258d3eef6d1bc0"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Vertrag über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG (Anlage des Gesetzes zum Vertrag über die Errichtung des IT-Planungsrats und über die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und Ländern – Vertrag zur Ausführung von Artikel 91c GG)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

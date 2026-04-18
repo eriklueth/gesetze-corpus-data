@@ -4,9 +4,9 @@
   "bjnr": "BJNR152900012",
   "eli": null,
   "gii_slug": "bmingernano",
-  "ingested_at": "2026-04-18T20:30:23Z",
   "jurabk": "BMinGErnAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5b2425701149f0d5083db11ec56688f8328dcb8626a19ff8da9e8597bcc1c6a2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR287400021",
   "eli": null,
   "gii_slug": "bmelbgebv",
-  "ingested_at": "2026-04-18T20:30:21Z",
   "jurabk": "BMELBGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "4fd12d6ee5350e19ea35ec191d1a7fedc7de5056959a065ab4b38d5f2ddb24be"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Besondere Gebührenverordnung des Bundesministeriums für Ernährung und Landwirtschaft für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

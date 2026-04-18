@@ -4,9 +4,11 @@
   "bjnr": "BJNR010180975",
   "eli": null,
   "gii_slug": "rag_18",
-  "ingested_at": "2026-04-18T20:28:04Z",
   "jurabk": "RAG 18",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "3da18b6feecaf91bcec9a29b7ecd738f6384fd297dcd8ec4e3df9c7d353dca5c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Achtzehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung und der Altersgelder in der Altershilfe für Landwirte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

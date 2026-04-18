@@ -4,9 +4,11 @@
   "bjnr": "BJNR0EF0A0023",
   "eli": null,
   "gii_slug": "raumausmstrv_2024",
-  "ingested_at": "2026-04-18T20:38:42Z",
   "jurabk": "RaumausMstrV 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "ec03b1726f74e56bda893ebb52146f4e1370e34c7ceb689cb1af72a140c8dbe6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Raumausstatter-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

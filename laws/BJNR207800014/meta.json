@@ -4,9 +4,11 @@
   "bjnr": "BJNR207800014",
   "eli": null,
   "gii_slug": "wgemrefkivtrg",
-  "ingested_at": "2026-04-18T20:42:25Z",
   "jurabk": "WGemRefKiVtrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "498b1b60412f60bb7fffbcd762e1c9d40b3ece4b62de7ab2c40645e367a19e08"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 14. April 2014 zwischen der Bundesrepublik Deutschland und der Weltgemeinschaft Reformierter Kirchen – Körperschaft des öffentlichen Rechts –",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

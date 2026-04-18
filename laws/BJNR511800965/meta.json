@@ -4,9 +4,12 @@
   "bjnr": "BJNR511800965",
   "eli": null,
   "gii_slug": "k_sev",
-  "ingested_at": "2026-04-18T20:35:10Z",
   "jurabk": "KäseV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 8,
+    "paragraph": 27
+  },
   "source_hashes": {
     "source_xml_sha256": "d28b1c9c0acbfa6ba2913f703f0594029cc8ad627924051f58c65c08b804eb6d"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Käseverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

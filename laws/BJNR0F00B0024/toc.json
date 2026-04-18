@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0F00B0024",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren"
       ],
@@ -75,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -85,6 +94,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -95,6 +105,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -105,6 +116,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -115,6 +127,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -125,6 +138,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -135,6 +149,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -145,6 +160,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -155,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -165,6 +182,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -175,6 +193,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -185,6 +204,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -195,6 +215,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -205,6 +226,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -215,6 +237,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -225,6 +248,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 2 Durchführung des Musterverfahrens"
@@ -235,6 +259,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 3 Wirkung des Musterentscheids und des Vergleichs; Kosten"
@@ -245,6 +270,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 3 Wirkung des Musterentscheids und des Vergleichs; Kosten"
@@ -255,6 +281,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 3 Wirkung des Musterentscheids und des Vergleichs; Kosten"
@@ -265,6 +292,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 3 Wirkung des Musterentscheids und des Vergleichs; Kosten"
@@ -275,6 +303,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 3 Wirkung des Musterentscheids und des Vergleichs; Kosten"
@@ -285,6 +314,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 4 Übergangs- und Schlussvorschriften"
@@ -295,6 +325,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Musterverfahrensantrag; Vorlageverfahren",
         "Abschnitt 4 Übergangs- und Schlussvorschriften"

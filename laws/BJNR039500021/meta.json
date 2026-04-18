@@ -4,9 +4,11 @@
   "bjnr": "BJNR039500021",
   "eli": null,
   "gii_slug": "finausglg2021dv_1",
-  "ingested_at": "2026-04-18T20:33:07Z",
   "jurabk": "FinAusglG2021DV 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "563172a4b02f6e85f9b7660022c2aa867f10d2820f1b7d30767a94eae304a289"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erste Verordnung zur Durchführung des Finanzausgleichsgesetzes im Ausgleichsjahr 2021",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

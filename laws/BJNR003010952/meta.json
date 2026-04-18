@@ -4,9 +4,11 @@
   "bjnr": "BJNR003010952",
   "eli": null,
   "gii_slug": "kredaufng",
-  "ingested_at": "2026-04-18T20:35:34Z",
   "jurabk": "KredAufnG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "f4eb05f55567a546b723720456317c5dd37279e02b4d8cc8872055975dcfd0c6"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Aufnahme eines Kredits durch den Bund im Rahmen der von den Vereinigten Staaten gewährten Wirtschaftshilfe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

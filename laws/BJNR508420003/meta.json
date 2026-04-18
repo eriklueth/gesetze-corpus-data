@@ -4,9 +4,9 @@
   "bjnr": "BJNR508420003",
   "eli": null,
   "gii_slug": "w_r_slotsv_2003",
-  "ingested_at": "2026-04-18T20:42:27Z",
   "jurabk": "W/R/SLotsV 2003",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f7867d410480cccd6564b72b4480babfcb79447fdd42d78b48d576ae0441c289"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Verwaltung und Ordnung des Seelotsreviers Wismar/Rostock/Stralsund",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

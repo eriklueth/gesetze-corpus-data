@@ -4,9 +4,12 @@
   "bjnr": "BJNR089600017",
   "eli": null,
   "gii_slug": "gewabfv_2017",
-  "ingested_at": "2026-04-18T20:33:48Z",
   "jurabk": "GewAbfV 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "5e36e0c29ddd992788f268a65bf067d201ced2c5ab36b900d57f5155a9fc5790"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Verordnung über die Bewirtschaftung von gewerblichen Siedlungsabfällen und von bestimmten Bau- und Abbruchabfällen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

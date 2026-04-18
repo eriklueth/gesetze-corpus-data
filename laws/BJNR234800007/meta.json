@@ -4,9 +4,12 @@
   "bjnr": "BJNR234800007",
   "eli": null,
   "gii_slug": "geflpestschv",
-  "ingested_at": "2026-04-18T20:33:40Z",
   "jurabk": "GeflPestSchV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 71
+  },
   "source_hashes": {
     "source_xml_sha256": "2a76aed2bf8298190fc89aaebaecdea278207dfd917aafe0614e592a15c39fec"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zum Schutz gegen die Geflügelpest",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR019300000",
   "eli": null,
   "gii_slug": "bankfachwprv",
-  "ingested_at": "2026-04-18T20:29:21Z",
   "jurabk": "BankFachwPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "816ebd8b3c65c2bebc5d8ea12f8d234714260b5c7145bf046be5f8756624ee5a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

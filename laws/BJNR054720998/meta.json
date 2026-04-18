@@ -4,9 +4,11 @@
   "bjnr": "BJNR054720998",
   "eli": null,
   "gii_slug": "dbaestg",
-  "ingested_at": "2026-04-18T20:31:28Z",
   "jurabk": "DBAESTG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "3790b5183906ab3c0b36703fff76f0df23f9cb08e916be7acadbda6abc461ef0"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 29. November 1996 zwischen der Bundesrepublik Deutschland und der Republik Estland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

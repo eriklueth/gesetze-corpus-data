@@ -4,9 +4,12 @@
   "bjnr": "BJNR172810020",
   "eli": null,
   "gii_slug": "geg",
-  "ingested_at": "2026-04-18T20:33:40Z",
   "jurabk": "GEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 11,
+    "paragraph": 136
+  },
   "source_hashes": {
     "source_xml_sha256": "e2ca4b512fb1af523d87df4c14f68d0d3bee3ee6ed314de6ebe4bfefb7c569a0"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur Wärme- und Kälteerzeugung in Gebäuden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR123520012",
   "eli": null,
   "gii_slug": "dbbankabk_gbr",
-  "ingested_at": "2026-04-18T20:31:34Z",
   "jurabk": "DBBankAbk GBR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d3fdd1de4147ecd5e6f511170c1c6684d3f6f82822747ba8e218d944c11ee82c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland zur Vermeidung der Doppelbelastung bei der Bankenabgabe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

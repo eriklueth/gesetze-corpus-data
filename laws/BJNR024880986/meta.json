@@ -4,9 +4,11 @@
   "bjnr": "BJNR024880986",
   "eli": null,
   "gii_slug": "ubgg",
-  "ingested_at": "2026-04-18T20:41:25Z",
   "jurabk": "UBGG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 28
+  },
   "source_hashes": {
     "source_xml_sha256": "9672c75f97d614cbdded3aae20aba5d57f7b8c7f4dda16c8e27440302a5bf6ea"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über Unternehmensbeteiligungsgesellschaften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

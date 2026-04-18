@@ -4,9 +4,11 @@
   "bjnr": "BJNR039800993",
   "eli": null,
   "gii_slug": "wzg_4ramsarbek",
-  "ingested_at": "2026-04-18T20:43:05Z",
   "jurabk": "WZG§4RAMSARBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "766719bbfdcc2ba9bb0b34f3f10e2f8fe8df349a14a8b4b69640e326a882d7ad"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

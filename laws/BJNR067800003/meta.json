@@ -4,9 +4,9 @@
   "bjnr": "BJNR067800003",
   "eli": null,
   "gii_slug": "bmgsernano_2003",
-  "ingested_at": "2026-04-18T20:30:23Z",
   "jurabk": "BMGSErnAnO 2003",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "52999d17a8d751c2fc446eba9fa649b1b8a5fca62475152cc5508b3aa465051e"
   },
@@ -30,5 +30,5 @@
     }
   ],
   "title": "Anordnung über die Ernennung und Entlassung der Bundesbeamtinnen und Bundesbeamten im Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

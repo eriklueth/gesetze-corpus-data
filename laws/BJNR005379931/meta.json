@@ -4,9 +4,11 @@
   "bjnr": "BJNR005379931",
   "eli": null,
   "gii_slug": "notv_3",
-  "ingested_at": "2026-04-18T20:37:45Z",
   "jurabk": "NotV 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "02cd755e6691ec470c292bd1213ea43675dfd13ded777b52d8a5f629fcc06b54"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Dritte Verordnung des Reichspräsidenten zur Sicherung von Wirtschaft und Finanzen und zur Bekämpfung politischer Ausschreitungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

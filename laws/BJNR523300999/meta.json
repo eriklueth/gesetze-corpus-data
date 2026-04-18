@@ -4,9 +4,9 @@
   "bjnr": "BJNR523300999",
   "eli": null,
   "gii_slug": "luftvodv_197",
-  "ingested_at": "2026-04-18T20:36:10Z",
   "jurabk": "LuftVODV 197",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "68838ab897c7c61caf7b69731a742b08db224de0d0604fe383954b029d883650"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Hundertsiebenundneunzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Frankfurt am Main)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

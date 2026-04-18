@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR018850973",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt",
         "Zweiter Abschnitt Betriebsärzte"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt",
         "Zweiter Abschnitt Betriebsärzte"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt",
         "Zweiter Abschnitt Betriebsärzte"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt",
         "Dritter Abschnitt Fachkräfte für Arbeitssicherheit"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt",
         "Dritter Abschnitt Fachkräfte für Arbeitssicherheit"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt",
         "Dritter Abschnitt Fachkräfte für Arbeitssicherheit"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -142,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -152,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -162,6 +178,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -172,6 +189,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -182,6 +200,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -192,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -202,6 +222,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -212,6 +233,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"
@@ -222,6 +244,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt",
         "Vierter Abschnitt Gemeinsame Vorschriften"

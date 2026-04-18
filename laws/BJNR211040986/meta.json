@@ -4,9 +4,9 @@
   "bjnr": "BJNR211040986",
   "eli": null,
   "gii_slug": "einheua",
-  "ingested_at": "2026-04-18T20:32:08Z",
   "jurabk": "EinhEuA",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "71bc82b7279ccf1996e8097a3f119d198de861a9df20a76fb46b6af931c555f6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Einheitliche Europäische Akte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

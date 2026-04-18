@@ -4,9 +4,11 @@
   "bjnr": "BJNR262410994",
   "eli": null,
   "gii_slug": "entschg",
-  "ingested_at": "2026-04-18T20:32:19Z",
   "jurabk": "EntschG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 14
+  },
   "source_hashes": {
     "source_xml_sha256": "6791d387bf563d03744e05b47437d8352e4e60a4b7c415ac93f5b5c7c4034c3f"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Gesetz über die Entschädigung nach dem Gesetz zur Regelung offener Vermögensfragen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

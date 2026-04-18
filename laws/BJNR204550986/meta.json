@@ -4,9 +4,9 @@
   "bjnr": "BJNR204550986",
   "eli": null,
   "gii_slug": "dbaprot_chn",
-  "ingested_at": "2026-04-18T20:31:30Z",
   "jurabk": "DBAProt CHN",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b6343bc6bce666d7b0f599a65b4a6c3ad01d410ccd84176f889d50a57cfa5d21"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Protokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Volksrepublik China zur Vermeidung der Doppelbesteuerung auf den Gebiet der Steuern vom Einkommen und vom Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

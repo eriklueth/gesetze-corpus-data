@@ -4,9 +4,9 @@
   "bjnr": "BJNR207210973",
   "eli": null,
   "gii_slug": "tierscht_bkg",
-  "ingested_at": "2026-04-18T20:41:13Z",
   "jurabk": "TierSchTÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6945d3b6f4f194b9e5a63e4f689be843d97d7193d1aa5586157fd82085dac763"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Europäischen Übereinkommen vom 13. Dezember 1968 über den Schutz von Tieren beim internationalen Transport",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

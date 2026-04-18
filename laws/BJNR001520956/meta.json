@@ -4,9 +4,11 @@
   "bjnr": "BJNR001520956",
   "eli": null,
   "gii_slug": "gewstdv_1955",
-  "ingested_at": "2026-04-18T20:33:52Z",
   "jurabk": "GewStDV 1955",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "9e7d43e2f5590bf59404d77a11088b344196de9d9c07b50be0363065c7f84b60"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gewerbesteuer-Durchführungsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

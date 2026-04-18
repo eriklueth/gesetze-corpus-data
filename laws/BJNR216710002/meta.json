@@ -4,9 +4,12 @@
   "bjnr": "BJNR216710002",
   "eli": null,
   "gii_slug": "hzvg_2002",
-  "ingested_at": "2026-04-18T20:34:35Z",
   "jurabk": "HZvG 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 33
+  },
   "source_hashes": {
     "source_xml_sha256": "1656017140c2fa81352093b889b1bd2e9894946c205acb363aee7fadef36d0f8"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Neuregelung der Hüttenknappschaftlichen Zusatzversicherung im Saarland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

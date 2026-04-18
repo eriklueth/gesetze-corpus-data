@@ -4,9 +4,11 @@
   "bjnr": "BJNR609100020",
   "eli": null,
   "gii_slug": "epi_appro2002abwv",
-  "ingested_at": "2026-04-18T20:32:23Z",
   "jurabk": "EpiÄApprO2002AbwV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "c3a4420360f66a1809f58a49c8b1a159292d92ad5bc575e844a6a2e4fee53c45"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Abweichung von der Approbationsordnung für Ärzte bei einer epidemischen Lage von nationaler Tragweite",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

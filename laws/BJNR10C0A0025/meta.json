@@ -4,9 +4,11 @@
   "bjnr": "BJNR10C0A0025",
   "eli": null,
   "gii_slug": "milov5",
-  "ingested_at": "2026-04-18T20:36:35Z",
   "jurabk": "MiLoV5",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "760b32a41e6f654e806dcab93107cadd565e403e2783a6d6ae7f32aee538c3ec"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Fünfte Verordnung zur Anpassung der Höhe des Mindestlohns",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR128800017",
   "eli": null,
   "gii_slug": "lwerzgschulproteilnv",
-  "ingested_at": "2026-04-18T20:36:22Z",
   "jurabk": "LwErzgSchulproTeilnV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "c9b90385da10c2a21086f9f4b4c8d7d995b7c5c5c7fcd500afda95949a8bf558"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung der Teilnahme der Länder am Schulprogramm für landwirtschaftliche Erzeugnisse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

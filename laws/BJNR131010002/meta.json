@@ -4,9 +4,11 @@
   "bjnr": "BJNR131010002",
   "eli": null,
   "gii_slug": "findag",
-  "ingested_at": "2026-04-18T20:33:07Z",
   "jurabk": "FinDAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 65
+  },
   "source_hashes": {
     "source_xml_sha256": "cffe10e0be0f7a62ddceb3adde166e4222a31dca504bf5b3377d7a696dbf6349"
   },
@@ -34,5 +36,5 @@
     }
   ],
   "title": "Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

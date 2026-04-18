@@ -4,9 +4,9 @@
   "bjnr": "BJNR154900011",
   "eli": null,
   "gii_slug": "gr_ndstvtrhe_ndbek",
-  "ingested_at": "2026-04-18T20:34:14Z",
   "jurabk": "GrÄndStVtrHE/NDBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "75edec98d45b51d262d1629ea4c10bf997c1b324dd8eed9a4d4453aa43392149"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertrages zwischen dem Land Hessen und dem Land Niedersachsen über die Änderung der gemeinsamen Landesgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

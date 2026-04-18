@@ -4,9 +4,9 @@
   "bjnr": "BJNR520200021",
   "eli": null,
   "gii_slug": "albeitrbek_2022",
-  "ingested_at": "2026-04-18T20:28:37Z",
   "jurabk": "ALBeitrBek 2022",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9f9edcc27905c74d66d891c9354928415c94aad7d5ee5f01cb4fea0c2254fd56"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Beiträge in der Alterssicherung der Landwirte für das Jahr 2022",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

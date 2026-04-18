@@ -4,9 +4,12 @@
   "bjnr": "BJNR252200005",
   "eli": null,
   "gii_slug": "tiermedfangausbv",
-  "ingested_at": "2026-04-18T20:41:13Z",
   "jurabk": "TiermedFAngAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "007dbe1bcdd25295d30cd6f2306fcd143b41f8433914581cb39e638fe67f715d"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

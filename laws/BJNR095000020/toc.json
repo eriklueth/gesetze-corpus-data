@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR095000020",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0001.md",
       "heading": "Befristete Maßnahme in Bezug auf die",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0002.md",
       "heading": "Befristete Maßnahme",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0003.md",
       "heading": "Inkrafttreten",

@@ -4,9 +4,9 @@
   "bjnr": "BJNR226400021",
   "eli": null,
   "gii_slug": "m_nz20eurobek_2021-06-21_2",
-  "ingested_at": "2026-04-18T20:37:11Z",
   "jurabk": "Münz20EuroBek 2021-06-21/2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c52b59a2bb3d44c6148288de43879ebfd8a4daadbfbf624c1613980ea67480c6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Goldmünze „Schwarzspecht“ der Serie „Heimische Vögel“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

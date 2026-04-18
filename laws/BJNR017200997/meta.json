@@ -4,9 +4,12 @@
   "bjnr": "BJNR017200997",
   "eli": null,
   "gii_slug": "bimschv_24",
-  "ingested_at": "2026-04-18T20:28:09Z",
   "jurabk": "BImSchV 24",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "5cf84dea6467fef3732e33b557b78a3782016b9781c47935e5aa3307fdc0d5a5"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Vierundzwanzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

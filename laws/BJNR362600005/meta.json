@@ -4,9 +4,11 @@
   "bjnr": "BJNR362600005",
   "eli": null,
   "gii_slug": "beitrlv_2006",
-  "ingested_at": "2026-04-18T20:29:45Z",
   "jurabk": "BeitrLV 2006",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "7bb7b84408be7194fe4f26e3793b8762d2a3207e8fb14c8a8da1351d3412c2c4"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Bestimmung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für 2006",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR131900007",
   "eli": null,
   "gii_slug": "euv",
-  "ingested_at": "2026-04-18T20:32:51Z",
   "jurabk": "EUV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "8e2e39cdca406064796289b6a25514bae389fb9fac69407bbff1218e1e0fc580"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Untersuchung gefährlicher Ereignisse im Eisenbahnbetrieb",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

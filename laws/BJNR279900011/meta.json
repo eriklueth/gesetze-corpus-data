@@ -4,9 +4,9 @@
   "bjnr": "BJNR279900011",
   "eli": null,
   "gii_slug": "albeitrbek_2012",
-  "ingested_at": "2026-04-18T20:28:37Z",
   "jurabk": "ALBeitrBek 2012",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "deaaf2452d34a733bf5ac41e4bcfa6fe63252638213664cf698db5ebfc685279"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Beiträge und der Beitragszuschüsse in der Alterssicherung der Landwirte für das Jahr 2012",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

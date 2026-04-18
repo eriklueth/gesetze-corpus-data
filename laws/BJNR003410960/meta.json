@@ -4,9 +4,12 @@
   "bjnr": "BJNR003410960",
   "eli": null,
   "gii_slug": "bbaug",
-  "ingested_at": "2026-04-18T20:29:26Z",
   "jurabk": "BBauG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 294
+  },
   "source_hashes": {
     "source_xml_sha256": "7c9ab8c103ae4c398dec0f9126ab88e337ddd54b1cbf319b7c1ce855713c2a93"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Baugesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR305000020",
   "eli": null,
   "gii_slug": "impmedbaproprfprv",
-  "ingested_at": "2026-04-18T20:34:43Z",
   "jurabk": "IMPMedBAProPrFPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "4fcf76757cf4a4cd374cdbc791fa7d7162e3929079790ede1ea765d6d75e56a9"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Industriemeister–Fachrichtung Printmedien und Geprüfte Industriemeisterin–Fachrichtung Printmedien-Bachelor Professional in Print",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

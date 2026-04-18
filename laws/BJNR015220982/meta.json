@@ -4,9 +4,12 @@
   "bjnr": "BJNR015220982",
   "eli": null,
   "gii_slug": "go__1982",
-  "ingested_at": "2026-04-18T20:34:08Z",
   "jurabk": "GOÄ 1982",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "dc97a244da0c1ddf4d16d09a5a56b67b1ebf8a70770e197f57dbd247004fe0f4"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gebührenordnung für Ärzte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR011910967",
   "eli": null,
   "gii_slug": "bewg_39dv_2",
-  "ingested_at": "2026-04-18T20:29:54Z",
   "jurabk": "BewG§39DV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "8ccb18a8cc49cfa8624fcd003a0c64f41b54689ae4f2b6ebc500eab3f1918593"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Verordnung zur Durchführung des § 39 Abs. 1 des Bewertungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

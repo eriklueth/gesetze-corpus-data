@@ -4,9 +4,9 @@
   "bjnr": "BJNR213710964",
   "eli": null,
   "gii_slug": "euauslf_bk",
-  "ingested_at": "2026-04-18T20:32:30Z",
   "jurabk": "EuAuslfÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9209d65ac91c640b006c431108e1a50917ae829f0b363908edbcd9d3a0220995"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Europäisches Auslieferungsübereinkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

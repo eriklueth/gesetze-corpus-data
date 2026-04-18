@@ -4,9 +4,11 @@
   "bjnr": "BJNR218800015",
   "eli": null,
   "gii_slug": "minuhv",
-  "ingested_at": "2026-04-18T20:36:36Z",
   "jurabk": "MinUhV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "697262f39a6176f8ffeb59a25a299ae10811c98befefafb6f0cedbb26b5bd40a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Festlegung des Mindestunterhalts minderjähriger Kinder nach § 1612a Absatz 1 des Bürgerlichen Gesetzbuchs",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

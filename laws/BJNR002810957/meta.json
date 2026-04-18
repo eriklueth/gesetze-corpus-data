@@ -4,9 +4,11 @@
   "bjnr": "BJNR002810957",
   "eli": null,
   "gii_slug": "begdv_4",
-  "ingested_at": "2026-04-18T20:28:13Z",
   "jurabk": "BEGDV 4",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "aa4a7b43ab8043fdb932b82fc19dbef8b0dead168a06b214fdec79ceccb2a2f4"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vierte Verordnung zur Durchführung des Bundesentschädigungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

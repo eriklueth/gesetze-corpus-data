@@ -4,9 +4,11 @@
   "bjnr": "DDNR005150990",
   "eli": null,
   "gii_slug": "awkzg",
-  "ingested_at": "2026-04-18T20:33:37Z",
   "jurabk": "AWKZG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "f7e23252080faeb4e2fa682a0a5ea57f2213d02e74965b60359402d1321f4cf9"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über den Außenwirtschafts-, Kapital- und Zahlungsverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

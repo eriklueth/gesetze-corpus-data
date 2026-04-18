@@ -4,9 +4,11 @@
   "bjnr": "BJNR207050956",
   "eli": null,
   "gii_slug": "rheinlotso",
-  "ingested_at": "2026-04-18T20:38:56Z",
   "jurabk": "RheinLotsO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "b808ffc331fb6478e6880a191803d919754eba3b9710addf90ec8ac439c41978"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen (Anlage 1 zu der Verordnung zur Einführung der Lotsenordnung für den Oberrhein)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

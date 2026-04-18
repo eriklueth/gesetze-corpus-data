@@ -4,9 +4,12 @@
   "bjnr": "BJNR520600021",
   "eli": null,
   "gii_slug": "bzkjbgebv",
-  "ingested_at": "2026-04-18T20:31:17Z",
   "jurabk": "BzKJBGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "09af54cf61e9c597d4a070408a8da6c1e2397a1f97422db7ebf3198727e393d3"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Besondere Gebührenverordnung des Bundesministeriums für Familie, Senioren, Frauen und Jugend für individuell zurechenbare öffentliche Leistungen der Bundeszentrale für Kinder- und Jugendmedienschutz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

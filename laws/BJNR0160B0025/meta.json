@@ -4,9 +4,11 @@
   "bjnr": "BJNR0160B0025",
   "eli": null,
   "gii_slug": "tvmindestlohngeb_ude_2024",
-  "ingested_at": "2026-04-18T20:41:21Z",
   "jurabk": "TVMindestlohnGebäude 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "32cf20cd517bda4bfd40f400883be9c5290ab2b913dd84a28423571c0da9e65c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR096010010",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 12,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Ermittlung und Bewertung der Gefährdungen durch künstliche optische Strahlung; Messungen"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Ermittlung und Bewertung der Gefährdungen durch künstliche optische Strahlung; Messungen"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 2 Ermittlung und Bewertung der Gefährdungen durch künstliche optische Strahlung; Messungen"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Expositionsgrenzwerte für und Schutzmaßnahmen gegen künstliche optische Strahlung"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 3 Expositionsgrenzwerte für und Schutzmaßnahmen gegen künstliche optische Strahlung"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Unterweisung der Beschäftigten bei Gefährdungen durch künstliche optische Strahlung; Beratung durch den Ausschuss für Betriebssicherheit"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 4 Unterweisung der Beschäftigten bei Gefährdungen durch künstliche optische Strahlung; Beratung durch den Ausschuss für Betriebssicherheit"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Ausnahmen; Straftaten und Ordnungswidrigkeiten"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Anwendungsbereich und Begriffsbestimmungen",
         "Abschnitt 5 Ausnahmen; Straftaten und Ordnungswidrigkeiten"

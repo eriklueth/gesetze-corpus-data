@@ -4,9 +4,12 @@
   "bjnr": "BJNR312900021",
   "eli": null,
   "gii_slug": "becv",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BECV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 28
+  },
   "source_hashes": {
     "source_xml_sha256": "c0d22f11529fbd954b2cba84719c0907f58b5802449abee789c6643e0b0b6082"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Maßnahmen zur Vermeidung von Carbon-Leakage durch den nationalen Brennstoffemissionshandel",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR0F60A0023",
   "eli": null,
   "gii_slug": "m_nz5eurobek_2023-08-11_2",
-  "ingested_at": "2026-04-18T20:37:25Z",
   "jurabk": "Münz5EuroBek 2023-08-11/2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "5bfcc98f4dfbb480b27af2e5de781b9eca42827ec6a961f595ef5e6fcbfe6003"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 5 Euro (Gedenkmünze „Schwalbenschwanz“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

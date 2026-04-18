@@ -4,9 +4,9 @@
   "bjnr": "BJNR004860984",
   "eli": null,
   "gii_slug": "bpr_ssportplerl",
-  "ingested_at": "2026-04-18T20:30:44Z",
   "jurabk": "BPräsSportplErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a495b1ec1d0ebb5db2b222cc87813cf69f40327e58e7019215a69196370278f5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlaß über die Stiftung der Sportplakette des Bundespräsidenten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

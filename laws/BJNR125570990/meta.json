@@ -4,9 +4,9 @@
   "bjnr": "BJNR125570990",
   "eli": null,
   "gii_slug": "btbrggo_ndergbek_1990",
-  "ingested_at": "2026-04-18T20:30:57Z",
   "jurabk": "BTBRGGOÄndErgBek 1990",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "935d0717dfb9590ac562947c0f82b0e1b3abbf9ead793856e41c97a9e82f6f87"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung des ergänzenden Beschlusses des Deutschen Bundestages zur Änderung der Gemeinsamen Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuß nach Artikel 77 des Grundgesetzes (Vermittlungsausschuß), den der Bundesrat am 12. Oktober 1990 zustimmend zur Kenntnis genommen hat",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

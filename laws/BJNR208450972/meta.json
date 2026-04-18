@@ -4,9 +4,11 @@
   "bjnr": "BJNR208450972",
   "eli": null,
   "gii_slug": "vollstrzustprotg",
-  "ingested_at": "2026-04-18T20:42:06Z",
   "jurabk": "VollstrZustProtG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "123deb8f580b28dc067370f6dd25a93962a47523bd2a38b75f7baef3c3b98d16"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Protokoll vom 3. Juni 1971 betreffend die Auslegung des Übereinkommens vom 27. September 1968 über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen durch den Gerichtshof",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

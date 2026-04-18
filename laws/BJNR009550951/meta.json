@@ -4,9 +4,11 @@
   "bjnr": "BJNR009550951",
   "eli": null,
   "gii_slug": "bbahng",
-  "ingested_at": "2026-04-18T20:29:27Z",
   "jurabk": "BBahnG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "dfdbc9f7c0cf85b565ff29c1088ddb4e3a0994dffab04e260604b842076b8812"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Bundesbahngesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

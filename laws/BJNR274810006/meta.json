@@ -4,9 +4,11 @@
   "bjnr": "BJNR274810006",
   "eli": null,
   "gii_slug": "beeg",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BEEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "79cb60c59e11d149b48dbbe372021bff31af4cb248bde001ae7f6e54de5b4d58"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zum Elterngeld und zur Elternzeit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

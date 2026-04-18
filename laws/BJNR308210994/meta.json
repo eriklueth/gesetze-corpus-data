@@ -4,9 +4,11 @@
   "bjnr": "BJNR308210994",
   "eli": null,
   "gii_slug": "markeng",
-  "ingested_at": "2026-04-18T20:36:24Z",
   "jurabk": "MarkenG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 190
+  },
   "source_hashes": {
     "source_xml_sha256": "4370bb09b5c9118479f7915f2a86d539236ccee69b97d71e07e20901281f643f"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über den Schutz von Marken und sonstigen Kennzeichen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

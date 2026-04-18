@@ -4,9 +4,11 @@
   "bjnr": "BJNR197500022",
   "eli": null,
   "gii_slug": "gbawidvertrano",
-  "ingested_at": "2026-04-18T20:33:37Z",
   "jurabk": "GBAWidVertrAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "8bc36ee41b91e1209af2210c322f11090e45c9eb4a11faf6c4b5dccb293a3cff"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung der Zuständigkeit für den Erlass von Widerspruchsbescheiden sowie der Vertretung bei Klagen von Beamtinnen und Beamten des Generalbundesanwalts beim Bundesgerichtshof in Angelegenheiten der Besoldung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

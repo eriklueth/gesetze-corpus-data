@@ -4,9 +4,11 @@
   "bjnr": "BJNR113930972",
   "eli": null,
   "gii_slug": "a_g",
-  "ingested_at": "2026-04-18T20:29:00Z",
   "jurabk": "AÜG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 31
+  },
   "source_hashes": {
     "source_xml_sha256": "09a736ec23bbb157dd013fc522518100c837dcb121c627aac84ae4b475ede3eb"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Regelung der Arbeitnehmerüberlassung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

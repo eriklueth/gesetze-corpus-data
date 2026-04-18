@@ -4,9 +4,11 @@
   "bjnr": "BJNR001900967",
   "eli": null,
   "gii_slug": "konjv_1",
-  "ingested_at": "2026-04-18T20:35:26Z",
   "jurabk": "KonjV 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "cebbb73920e4cb051c0f9a6a9096b5e6162d448ccf968bbed7593655771993c3"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erste Verordnung über steuerliche Konjunkturmaßnahmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

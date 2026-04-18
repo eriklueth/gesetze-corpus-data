@@ -4,9 +4,12 @@
   "bjnr": "BJNR172500014",
   "eli": null,
   "gii_slug": "pr_vofortkfmbf",
-  "ingested_at": "2026-04-18T20:38:37Z",
   "jurabk": "PrüVOFortkfmBf",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "2f81e8aa5aaac4b847e7e12c4b6ffc4a994db18419209193dfee9092a0f9b39d"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachmann für kaufmännische Betriebsführung nach der Handwerksordnung und Geprüfte Fachfrau für kaufmännische Betriebsführung nach der Handwerksordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

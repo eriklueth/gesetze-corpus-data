@@ -4,9 +4,11 @@
   "bjnr": "BJNR008850972",
   "eli": null,
   "gii_slug": "kirchenberufev",
-  "ingested_at": "2026-04-18T20:35:22Z",
   "jurabk": "KirchenberufeV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "41b3213c24164fa553f522fa43d6bbd1263f9bfa51b08adaa35c6bcd54ad3dd5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für kirchliche Berufe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

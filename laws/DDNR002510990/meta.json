@@ -4,9 +4,11 @@
   "bjnr": "DDNR002510990",
   "eli": null,
   "gii_slug": "genbkbeano",
-  "ingested_at": "2026-04-18T20:33:44Z",
   "jurabk": "GenBkBEAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "a64375a3ef3a9809157e358ba17de68724ece4d7aee1af40ef3c397613f27674"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über das Statut der Genossenschaftsbank Berlin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

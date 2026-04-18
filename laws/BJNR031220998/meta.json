@@ -4,9 +4,11 @@
   "bjnr": "BJNR031220998",
   "eli": null,
   "gii_slug": "sozsichabkaut1995g",
-  "ingested_at": "2026-04-18T20:40:20Z",
   "jurabk": "SozSichAbkAUT1995G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "620a7e4226fc673381d1f336d7b7c83995b8b18b56e6d0d2f4d739fc581aceab"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 4. Oktober 1995 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

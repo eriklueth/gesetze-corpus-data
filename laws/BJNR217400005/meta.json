@@ -4,9 +4,11 @@
   "bjnr": "BJNR217400005",
   "eli": null,
   "gii_slug": "agrarausbsteignv",
-  "ingested_at": "2026-04-18T20:28:36Z",
   "jurabk": "AgrarAusbStEignV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "9557e807fedb9e19c36880cd56ac12357ea39589c8a9d2655dc4686a891f6edf"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zur Fachkraft Agrarservice",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

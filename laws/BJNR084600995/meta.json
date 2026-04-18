@@ -4,9 +4,12 @@
   "bjnr": "BJNR084600995",
   "eli": null,
   "gii_slug": "schuv",
-  "ingested_at": "2026-04-18T20:39:39Z",
   "jurabk": "SchuV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "2c5d86bdf433649529d36d262bc55954ed8ca1a661a0dcd9ffc2cbeab98090ce"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Erfüllung von Entschädigungs- und Ausgleichsleistungsansprüchen durch Begebung und Zuteilung von Schuldverschreibungen des Entschädigungsfonds",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

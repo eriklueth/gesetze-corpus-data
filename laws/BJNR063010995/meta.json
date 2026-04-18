@@ -4,9 +4,12 @@
   "bjnr": "BJNR063010995",
   "eli": null,
   "gii_slug": "weinv_1995",
-  "ingested_at": "2026-04-18T20:42:24Z",
   "jurabk": "WeinV 1995",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 12,
+    "paragraph": 70
+  },
   "source_hashes": {
     "source_xml_sha256": "8426b9e2af0d2ca178bdb24998d04e9159af78d349c2a9031dac3154c2115784"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Weinverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

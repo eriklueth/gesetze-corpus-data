@@ -4,9 +4,11 @@
   "bjnr": "BJNR004700978",
   "eli": null,
   "gii_slug": "frg_15v_ndv_4",
-  "ingested_at": "2026-04-18T20:33:25Z",
   "jurabk": "FRG§15VÄndV 4",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "469bafd41d090a8df130c07a9e65bbf32e730a213cb57dddf42c5b15d6a6f3a0"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vierte Verordnung zur Änderung der Verordnung über die Anerkennung von Systemen und Einrichtungen der sozialen Sicherheit als gesetzliche Rentenversicherungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

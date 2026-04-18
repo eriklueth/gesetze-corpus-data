@@ -4,9 +4,9 @@
   "bjnr": "BJNR114000009",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2009-05-07",
-  "ingested_at": "2026-04-18T20:36:57Z",
   "jurabk": "Münz10EuroBek 2009-05-07",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1b59fc5a0a5c137d91acfa6d194f2d0bd13e648f8001bc92923e6316bdaf9a5a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „100 Jahre Internationale Luftfahrtausstellung“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

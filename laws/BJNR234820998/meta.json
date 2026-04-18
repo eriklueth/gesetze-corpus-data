@@ -4,9 +4,9 @@
   "bjnr": "BJNR234820998",
   "eli": null,
   "gii_slug": "intersputnikabk",
-  "ingested_at": "2026-04-18T20:34:53Z",
   "jurabk": "INTERSPUTNIKAbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a57be047e0f3c21393a4fc602d2b21186c2e681993524a03d235240f5a55be60"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen über die Schaffung des internationalen Systems und der Organisation für kosmische Fernmeldeverbindungen \"INTERSPUTNIK\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

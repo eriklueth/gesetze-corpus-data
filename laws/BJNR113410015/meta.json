@@ -4,9 +4,12 @@
   "bjnr": "BJNR113410015",
   "eli": null,
   "gii_slug": "gmausbv",
-  "ingested_at": "2026-04-18T20:34:04Z",
   "jurabk": "GMAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "b2aee0c43c9322c4f2e54008cf0029381349ca8b447ddd9fe071bd31d87dcf9c"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Gießereimechaniker und zur Gießereimechanikerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

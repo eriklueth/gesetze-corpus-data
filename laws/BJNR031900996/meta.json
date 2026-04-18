@@ -4,9 +4,11 @@
   "bjnr": "BJNR031900996",
   "eli": null,
   "gii_slug": "ewrabkav",
-  "ingested_at": "2026-04-18T20:32:56Z",
   "jurabk": "EWRAbkAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "350db942b33b1db7f5fbcfb9fa18a42fe4dac9305d535c5466da9a7069be8336"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Ausführung des Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum für die Anwendung von Vorschriften des Gesetzes über das Kreditwesen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

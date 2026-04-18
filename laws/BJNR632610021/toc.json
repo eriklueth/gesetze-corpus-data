@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR632610021",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0000n.md",
       "heading": "",

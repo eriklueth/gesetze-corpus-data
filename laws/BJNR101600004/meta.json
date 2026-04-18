@@ -4,9 +4,12 @@
   "bjnr": "BJNR101600004",
   "eli": null,
   "gii_slug": "frsaftv_2004",
-  "ingested_at": "2026-04-18T20:33:27Z",
   "jurabk": "FrSaftV 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 8,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "d15ceccc3cce3ccc0d3ae8999a078f66d849c3a3b59c8e8bed2d5f2d33913a86"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über Fruchtsaft, Fruchtnektar und koffeinhaltige Erfrischungsgetränke",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

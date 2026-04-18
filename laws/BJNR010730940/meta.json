@@ -4,9 +4,9 @@
   "bjnr": "BJNR010730940",
   "eli": null,
   "gii_slug": "rbkpr_serl",
-  "ingested_at": "2026-04-18T20:38:50Z",
   "jurabk": "RBkPräsErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ba92478f64a4f5ca950c0b965ad5523ebfd85863792d9210e05e7b6e373b79ac"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlaß über die Ermächtigung des Präsidenten der Deutschen Reichsbank zur Bestellung von ständigen Vertretern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR201970970",
   "eli": null,
   "gii_slug": "kovzusvtrautg",
-  "ingested_at": "2026-04-18T20:35:30Z",
   "jurabk": "KOVZusVtrAUTG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "40762e6c358d5a7a5525e0bdb1acae4fa7921d59046e59908ccfc8abab2ea9ab"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Zusatzvertrag vom 7. Februar 1969 zur Durchführung und Ergänzung des Vertrags vom 7. Mai 1963 zwischen der Bundesrepublik Deutschland und der Republik Österreich über Kriegsopferversorgung und Beschäftigung Schwerbeschädigter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

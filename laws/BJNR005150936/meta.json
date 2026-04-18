@@ -4,9 +4,11 @@
   "bjnr": "BJNR005150936",
   "eli": null,
   "gii_slug": "schverschrfrdw_g",
-  "ingested_at": "2026-04-18T20:39:39Z",
   "jurabk": "SchVerschrFrdWäG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "8a17285b8ffac905dff0c54b62b25e7a87eb1908dd69c5ec6fbc4612808e9965"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Fremdwährungs-Schuldverschreibungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

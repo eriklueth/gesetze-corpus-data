@@ -4,9 +4,12 @@
   "bjnr": "BJNR130510017",
   "eli": null,
   "gii_slug": "d_v_2017",
-  "ingested_at": "2026-04-18T20:31:54Z",
   "jurabk": "DüV 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 9,
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "f7fb5314ac7b1fde90c4523fbbb9ffd2eef07cc5e4189df3b5071235b1f8c6bf"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Anwendung von Düngemitteln, Bodenhilfsstoffen, Kultursubstraten und Pflanzenhilfsmitteln nach den Grundsätzen der guten fachlichen Praxis beim Düngen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

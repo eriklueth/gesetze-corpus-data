@@ -4,9 +4,9 @@
   "bjnr": "BJNR505110007",
   "eli": null,
   "gii_slug": "luftvodv_232",
-  "ingested_at": "2026-04-18T20:36:14Z",
   "jurabk": "LuftVODV 232",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "eff08842ce4be65bb58e9a53577ab3c8f15f0bac1244509c93d6b063c18f12f9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweihundertzweiunddreißigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Hubschrauberlandeplatz Donauwörth)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

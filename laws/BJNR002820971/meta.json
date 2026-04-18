@@ -4,9 +4,12 @@
   "bjnr": "BJNR002820971",
   "eli": null,
   "gii_slug": "flul_rmg",
-  "ingested_at": "2026-04-18T20:33:15Z",
   "jurabk": "FluLärmG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "128c8e0b3fb9eeda93bc0187c26841f09b9c838b8a1de9e66e70fe16f988926a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zum Schutz gegen Fluglärm",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR021820007",
   "eli": null,
   "gii_slug": "unhcrb_roabkv",
-  "ingested_at": "2026-04-18T20:41:30Z",
   "jurabk": "UNHCRBüroAbkV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "b75a14e80d0ce0aa1c670218682f25bc49646c75371f64d5e4c3d4290ee80a3b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zu dem Abkommen vom 1. Juli 2005 zwischen der Regierung der Bundesrepublik Deutschland und dem Amt des Hohen Flüchtlingskommissars der Vereinten Nationen über das Büro des Hohen Flüchtlingskommissars der Vereinten Nationen in Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

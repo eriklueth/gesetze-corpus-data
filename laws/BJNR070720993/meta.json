@@ -4,9 +4,11 @@
   "bjnr": "BJNR070720993",
   "eli": null,
   "gii_slug": "stgrenzvtraut1989g",
-  "ingested_at": "2026-04-18T20:40:42Z",
   "jurabk": "StGrenzVtrAUT1989G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "c158f4329b3648500adf6edd7bd8c7e044622479dce600d6497bd171d3b9e3e7"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 3. April 1989 zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Verlauf der gemeinsamen Staatsgrenze in der Sektion III des Grenzabschnittes \"Scheibelberg-Bodensee\" sowie in einem Teil des Grenzabschnittes \"Dreieckmark-Dandlbachmündung\" und des Grenzabschnittes \"Saalach-Scheibelberg\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

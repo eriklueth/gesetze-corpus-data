@@ -4,9 +4,11 @@
   "bjnr": "BJNR209200012",
   "eli": null,
   "gii_slug": "einsatzuv",
-  "ingested_at": "2026-04-18T20:32:09Z",
   "jurabk": "EinsatzUV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "87ec1b1313a2115577956ba1db31734ddc39c0a8b6e30c67566e7c811a616a21"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Vermutung der Verursachung einer psychischen Störung durch einen Einsatzunfall",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

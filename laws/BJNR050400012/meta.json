@@ -4,9 +4,11 @@
   "bjnr": "BJNR050400012",
   "eli": null,
   "gii_slug": "azav",
-  "ingested_at": "2026-04-18T20:29:17Z",
   "jurabk": "AZAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "e8e406ef1f50b464a46b713f5f2b65955a578983e3bb3059492c0e00281b67a5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Voraussetzungen und das Verfahren zur Akkreditierung von fachkundigen Stellen und zur Zulassung von Trägern und Maßnahmen der Arbeitsförderung nach dem Dritten Buch Sozialgesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

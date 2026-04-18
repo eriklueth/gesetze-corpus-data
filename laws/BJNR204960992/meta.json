@@ -4,9 +4,9 @@
   "bjnr": "BJNR204960992",
   "eli": null,
   "gii_slug": "seeschsi_bk",
-  "ingested_at": "2026-04-18T20:39:45Z",
   "jurabk": "SeeSchSiÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "785ff35e777f932158d58330bdeff489ba7099902eff7e8083eae4f630818c9e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Seeschiffahrt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

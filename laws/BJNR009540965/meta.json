@@ -4,9 +4,11 @@
   "bjnr": "BJNR009540965",
   "eli": null,
   "gii_slug": "wobindg",
-  "ingested_at": "2026-04-18T20:42:29Z",
   "jurabk": "WoBindG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "5cda8dbe36ca9da2d9e34f4e6e0bae18c26c5ecb1e8c9a81961407c0a5a4740a"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Sicherung der Zweckbestimmung von Sozialwohnungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

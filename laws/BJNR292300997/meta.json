@@ -4,9 +4,12 @@
   "bjnr": "BJNR292300997",
   "eli": null,
   "gii_slug": "indmetmeistv_1997",
-  "ingested_at": "2026-04-18T20:34:47Z",
   "jurabk": "IndMetMeistV 1997",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "d8cfb2792e15658e4ebdd940db9187779e6dd04c3c045a3d62b099f484140a9b"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Metall",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

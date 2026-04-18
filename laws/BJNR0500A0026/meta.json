@@ -4,9 +4,9 @@
   "bjnr": "BJNR0500A0026",
   "eli": null,
   "gii_slug": "pf_ndfreigrbek_2026",
-  "ingested_at": "2026-04-18T20:38:15Z",
   "jurabk": "PfändfreiGrBek 2026",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f5d23fe30fd428d17f05cda8c1d14d1ef571a9610b030414f69b966b5cb91876"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu den Pfändungsfreigrenzen 2026 nach § 850c der Zivilprozessordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

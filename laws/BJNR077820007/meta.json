@@ -4,9 +4,9 @@
   "bjnr": "BJNR077820007",
   "eli": null,
   "gii_slug": "grenzgabknldv_1",
-  "ingested_at": "2026-04-18T20:34:16Z",
   "jurabk": "GrenzgAbkNLDV 1",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "611ec653962983e003d3b410341dd08f6963734ecb4cef39142722c25773fb0a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erste Verordnung zur Bestimmung eines Gebietes als grenzüberschreitendes Gewerbegebiet im Sinne des Artikels 2 Abs. 1 Nr. 6 des Abkommens vom 16. Juni 1959 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande zur Vermeidung der Doppelbesteuerung auf dem Gebiete der Steuern vom Einkommen und vom Vermögen sowie verschiedener sonstiger Steuern und zur Regelung anderer Fragen auf steuerlichem Gebiete",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR078620997",
   "eli": null,
   "gii_slug": "abzusgrbr_ckvtr_ces",
-  "ingested_at": "2026-04-18T20:28:25Z",
   "jurabk": "ABZusGrBrückVtr CES",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2b9020cb4bb02b4ab4815637d026040b30f6a7a6bafaa44653e1d7b3f7a73a4f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Republik über den Zusammenschluß der deutschen Autobahn A 6 und der tschechischen Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

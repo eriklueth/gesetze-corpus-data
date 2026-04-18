@@ -4,9 +4,11 @@
   "bjnr": "BJNR1120A0024",
   "eli": null,
   "gii_slug": "ksabg2025v",
-  "ingested_at": "2026-04-18T20:35:38Z",
   "jurabk": "KSAbg2025V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "6f3833b0e138938c332e62732f3b83b16dec71793808c0c30915060e938969f3"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Künstlersozialabgabe-Verordnung 2025",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR105700005",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2005-04",
-  "ingested_at": "2026-04-18T20:36:56Z",
   "jurabk": "Münz10EuroBek 2005-04",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "336d23e98322a80f1d166895ce75eca0d6ff26b81c857adcc4d24aab9a2810a6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze \"200. Todestag des Dichters Friedrich von Schiller\")",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

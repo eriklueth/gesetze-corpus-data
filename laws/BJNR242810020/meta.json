@@ -4,9 +4,11 @@
   "bjnr": "BJNR242810020",
   "eli": null,
   "gii_slug": "uvpportv",
-  "ingested_at": "2026-04-18T20:41:39Z",
   "jurabk": "UVPPortV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "05ec16237516e3104d3ee2a9d2d68b8741a9eead4eb278fc2897c0fa25c1265f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über zentrale Internetportale des Bundes und der Länder im Rahmen der Umweltverträglichkeitsprüfung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

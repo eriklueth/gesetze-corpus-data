@@ -4,9 +4,9 @@
   "bjnr": "BJNR209260974",
   "eli": null,
   "gii_slug": "svabk_pol",
-  "ingested_at": "2026-04-18T20:40:57Z",
   "jurabk": "SVAbk POL",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "687361a3149c3e0408af68052f7615523cd6719b67140afae76217ac0290b34f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Volksrepublik Polen über die Sozialversicherung von Arbeitnehmern, die in das Gebiet des anderen Staates vorübergehend entsandt werden",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

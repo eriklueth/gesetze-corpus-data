@@ -4,9 +4,12 @@
   "bjnr": "BJNR278900016",
   "eli": null,
   "gii_slug": "abfbeauftrv_2017",
-  "ingested_at": "2026-04-18T20:28:21Z",
   "jurabk": "AbfBeauftrV 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "5ce8d8038d433bd9cf90db49142dc69234a1a076274235fc196c759f1c3277e7"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über Betriebsbeauftragte für Abfall",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

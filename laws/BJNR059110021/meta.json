@@ -4,9 +4,12 @@
   "bjnr": "BJNR059110021",
   "eli": null,
   "gii_slug": "idnrg",
-  "ingested_at": "2026-04-18T20:34:39Z",
   "jurabk": "IDNrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "3e8a2755aded725f799f5585f1bd409c840f792160801d5d11008dbd4cbff69f"
   },
@@ -30,5 +33,5 @@
     }
   ],
   "title": "Gesetz zur Einführung und Verwendung einer Identifikationsnummer in der öffentlichen Verwaltung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

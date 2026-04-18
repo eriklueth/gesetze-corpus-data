@@ -4,9 +4,11 @@
   "bjnr": "BJNR089800015",
   "eli": null,
   "gii_slug": "emog",
-  "ingested_at": "2026-04-18T20:32:14Z",
   "jurabk": "EmoG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "c6fee799bef1a3165477d07cbccfaf180fabb07f589f9650998290b1a40c5501"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

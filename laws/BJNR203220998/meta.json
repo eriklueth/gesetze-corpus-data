@@ -4,9 +4,11 @@
   "bjnr": "BJNR203220998",
   "eli": null,
   "gii_slug": "sozsichabkhrvg",
-  "ingested_at": "2026-04-18T20:40:24Z",
   "jurabk": "SozSichAbkHRVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "2eafc749da0cb8783bf87c599423dcf05fa9f5e2f3ebb0a0047eb1c782a19ca1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Abkommen vom 24. November 1997 zwischen der Bundesrepublik Deutschland und der Republik Kroatien über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

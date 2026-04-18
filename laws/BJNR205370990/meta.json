@@ -4,9 +4,12 @@
   "bjnr": "BJNR205370990",
   "eli": null,
   "gii_slug": "wwsuvtr",
-  "ingested_at": "2026-04-18T20:42:48Z",
   "jurabk": "WWSUVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 9,
+    "article": 38
+  },
   "source_hashes": {
     "source_xml_sha256": "9177c301a172fff95f8ee41dcca5ffebd2ef5365f42ecb17633f9b6411caaeef"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Vertrag über die Schaffung einer Währungs-, Wirtschafts- und Sozialunion zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

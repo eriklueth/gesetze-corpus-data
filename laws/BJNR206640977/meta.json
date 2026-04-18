@@ -4,9 +4,11 @@
   "bjnr": "BJNR206640977",
   "eli": null,
   "gii_slug": "sozsichabksweg",
-  "ingested_at": "2026-04-18T20:40:28Z",
   "jurabk": "SozSichAbkSWEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "5e5294df71fed80f90a6c37681d505d2954c7904565e3f282b55e0e91e491ce8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Abkommen vom 27. Februar 1976 zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR110930988",
   "eli": null,
   "gii_slug": "strbeg",
-  "ingested_at": "2026-04-18T20:40:45Z",
   "jurabk": "StrbEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "a13bf111f94a645520b8750cc209c54b35e4c60b339182742c3372fae8f1fa8c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die strafbefreiende Erklärung von Einkünften aus Kapitalvermögen und von Kapitalvermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR250110998",
   "eli": null,
   "gii_slug": "ns-aufhg",
-  "ingested_at": "2026-04-18T20:37:43Z",
   "jurabk": "NS-AufhG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "d90f69942030de448969bd39ec103bbe8a56343f2c4e82caf967eb09c79706ac"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Aufhebung nationalsozialistischer Unrechtsurteile in der Strafrechtspflege",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

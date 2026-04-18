@@ -4,9 +4,11 @@
   "bjnr": "BJNR040800008",
   "eli": null,
   "gii_slug": "transprldv",
-  "ingested_at": "2026-04-18T20:41:19Z",
   "jurabk": "TranspRLDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 21
+  },
   "source_hashes": {
     "source_xml_sha256": "55fead7d3b49aa1edaf49fbd5b253f7034a6e1f239414604b1f34b040fe17456"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Umsetzung der Richtlinie 2007/14/EG der Kommission vom 8. März 2007 mit Durchführungsbestimmungen zu bestimmten Vorschriften der Richtlinie 2004/109/EG zur Harmonisierung der Transparenzanforderungen in Bezug auf Informationen über Emittenten, deren Wertpapiere zum Handel an einem geregelten Markt zugelassen sind",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR1050A0023",
   "eli": null,
   "gii_slug": "kfzstfprv",
-  "ingested_at": "2026-04-18T20:35:18Z",
   "jurabk": "KfzSTFPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "0e1f40dc0cfdb4f1640e1712d29b4fa6e347f50a23ea19d40eea946208026d03"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Kraftfahrzeug-Servicetechnik oder Geprüfte Berufsspezialistin für Kraftfahrzeug-Servicetechnik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

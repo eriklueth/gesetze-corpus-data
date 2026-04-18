@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR312900017",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Grundsätze des Zusammenwirkens"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Grundsätze des Zusammenwirkens"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Grundsätze des Zusammenwirkens"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Grundsätze des Zusammenwirkens"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 2 Grundsätze des Zusammenwirkens"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -93,6 +102,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -104,6 +114,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -115,6 +126,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -126,6 +138,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -137,6 +150,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -148,6 +162,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -159,6 +174,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -170,6 +186,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -181,6 +198,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -192,6 +210,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -203,6 +222,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -214,6 +234,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -225,6 +246,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 3 Organisationsstruktur des Gesamtvorhabens KONSENS",
@@ -236,6 +258,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 4 Budget und Kostentragung"
@@ -246,6 +269,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 4 Budget und Kostentragung"
@@ -256,6 +280,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 4 Budget und Kostentragung"
@@ -266,6 +291,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 4 Budget und Kostentragung"
@@ -276,6 +302,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 5 Übergangs- und Schlussvorschriften"
@@ -286,6 +313,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 5 Übergangs- und Schlussvorschriften"
@@ -296,6 +324,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeines",
         "Abschnitt 5 Übergangs- und Schlussvorschriften"

@@ -4,9 +4,9 @@
   "bjnr": "BJNR319990976",
   "eli": null,
   "gii_slug": "nordsfischzprok",
-  "ingested_at": "2026-04-18T20:37:41Z",
   "jurabk": "NordSFischZProk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "31c765aba535a2a16e7e873455119aa3a6fc18a2baa52f63f100e3bc096d4531"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Nordsee",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

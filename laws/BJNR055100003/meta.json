@@ -4,9 +4,11 @@
   "bjnr": "BJNR055100003",
   "eli": null,
   "gii_slug": "dw-svv",
-  "ingested_at": "2026-04-18T20:31:54Z",
   "jurabk": "DW-SVV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "ce4253009f8ca4abbe2d780d87e212c6bfee8b65868f69ad671022bc040be3db"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über den Zeitpunkt der Verlegung des Sitzes der Rundfunkanstalt des Bundesrechts Deutsche Welle von Köln nach Bonn",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

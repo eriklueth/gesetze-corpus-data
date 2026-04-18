@@ -4,9 +4,9 @@
   "bjnr": "BJNR200160927",
   "eli": null,
   "gii_slug": "wzirnbek",
-  "ingested_at": "2026-04-18T20:43:07Z",
   "jurabk": "WZIRNBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9236e45ae01c1e52642b7bee8610662c645ef4c1f6a49e1616896d9c9e9e3d7a"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Persien",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

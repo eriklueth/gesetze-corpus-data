@@ -4,9 +4,9 @@
   "bjnr": "BJNR208480939",
   "eli": null,
   "gii_slug": "rhigrcabkbek",
-  "ingested_at": "2026-04-18T20:39:01Z",
   "jurabk": "RHiGRCAbkBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8f950e885f5f796b436d0952a6eeb9251c46e391e18ec141feec9d1ba0bd5bcd"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über das deutsch-griechische Abkommen über die gegenseitige Rechtshilfe in Angelegenheiten des bürgerlichen und Handels-Rechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

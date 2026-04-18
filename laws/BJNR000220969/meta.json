@@ -4,9 +4,9 @@
   "bjnr": "BJNR000220969",
   "eli": null,
   "gii_slug": "bvarkano",
-  "ingested_at": "2026-04-18T20:31:05Z",
   "jurabk": "BVARKAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ad60e584fd6378af9ae7a50e62be36dbd258bb7566b8670c8280ad5178a38be2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Allgemeine Anordnung über die Zuständigkeit des Bundesversicherungsamtes auf dem Gebiete des Reisekostenrechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

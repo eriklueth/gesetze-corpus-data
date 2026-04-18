@@ -4,9 +4,12 @@
   "bjnr": "BJNR017950980",
   "eli": null,
   "gii_slug": "strverksiv",
-  "ingested_at": "2026-04-18T20:40:49Z",
   "jurabk": "StrVerkSiV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "5014fedbb666ae6fcee6966550613bb19a5bb1ce8368b48e0c5b7f49a531fc5d"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zur Sicherstellung des Straßenverkehrs",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

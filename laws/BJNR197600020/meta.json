@@ -4,9 +4,11 @@
   "bjnr": "BJNR197600020",
   "eli": null,
   "gii_slug": "aentgmeldstellv_2020",
-  "ingested_at": "2026-04-18T20:28:29Z",
   "jurabk": "AEntGMeldStellV 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "72c8c1dae5b37045ae912a693cd1870b04a546640b1551189bdfa562a899a2cb"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Bestimmung der zuständigen Behörde bei Mitteilungen und Anmeldungen nach dem Arbeitnehmer-Entsendegesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

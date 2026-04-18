@@ -4,9 +4,11 @@
   "bjnr": "BJNR211800022",
   "eli": null,
   "gii_slug": "hzazustv_2023",
-  "ingested_at": "2026-04-18T20:34:35Z",
   "jurabk": "HZAZustV 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 42
+  },
   "source_hashes": {
     "source_xml_sha256": "b24e9561ce5e58bf5d4435ee5e1f5aed919f465a461cecd896b2ace8e5d98468"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Übertragung von Zuständigkeiten auf Hauptzollämter für den Bereich mehrerer Hauptzollämter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

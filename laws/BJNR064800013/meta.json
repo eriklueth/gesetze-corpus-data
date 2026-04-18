@@ -4,9 +4,12 @@
   "bjnr": "BJNR064800013",
   "eli": null,
   "gii_slug": "fertigungsmechausbv",
-  "ingested_at": "2026-04-18T20:33:03Z",
   "jurabk": "FertigungsMechAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "915556e9ee3c0725ccfe53a6085155ae646aeed08ad27169b39fcaf9d2a1cb1d"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Fertigungsmechaniker und zur Fertigungsmechanikerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

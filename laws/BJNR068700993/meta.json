@@ -4,9 +4,9 @@
   "bjnr": "BJNR068700993",
   "eli": null,
   "gii_slug": "m_nz10dmbek_1993-05",
-  "ingested_at": "2026-04-18T20:36:49Z",
   "jurabk": "Münz10DMBek 1993-05",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e9232e672878f606a06d760d4d1a33fa2dfaf14e40c6ec8568f1ba6adcfc0c2b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze 1000 Jahre Potsdam)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

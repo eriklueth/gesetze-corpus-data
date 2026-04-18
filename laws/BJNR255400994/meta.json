@@ -4,9 +4,11 @@
   "bjnr": "BJNR255400994",
   "eli": null,
   "gii_slug": "kredanstwia_v",
-  "ingested_at": "2026-04-18T20:35:33Z",
   "jurabk": "KredAnstWiAÜV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "e89092dcd0f6d4b7bdc9a4b65aa7c0f9802e6bb868fdc164206281925e555303"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Übertragung des Vermögens der Staatsbank Berlin auf die Kreditanstalt für Wiederaufbau",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

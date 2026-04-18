@@ -4,9 +4,12 @@
   "bjnr": "BJNR009900008",
   "eli": null,
   "gii_slug": "papkuverarbindmeistprv",
-  "ingested_at": "2026-04-18T20:38:02Z",
   "jurabk": "PapKuVerarbIndMeistPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "117d91d0ce6b7106aafca690f02c94a346bf775c0878d872d199fc36cc440dfd"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung Papier- und Kunststoffverarbeitung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

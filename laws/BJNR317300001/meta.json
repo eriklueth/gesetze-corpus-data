@@ -4,9 +4,11 @@
   "bjnr": "BJNR317300001",
   "eli": null,
   "gii_slug": "uklag",
-  "ingested_at": "2026-04-18T20:41:29Z",
   "jurabk": "UKlaG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 33
+  },
   "source_hashes": {
     "source_xml_sha256": "48e4520dd9ce95dbc421e14140107786c96bcce263109ed86962a8929ab565ab"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über Unterlassungsklagen bei Verbraucherrechts- und anderen Verstößen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

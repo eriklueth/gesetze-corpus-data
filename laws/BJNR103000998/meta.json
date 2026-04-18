@@ -4,9 +4,12 @@
   "bjnr": "BJNR103000998",
   "eli": null,
   "gii_slug": "avmedkfausbv",
-  "ingested_at": "2026-04-18T20:29:15Z",
   "jurabk": "AVMedKfAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "342060fb4e6335fa08f2be91e6927917c11a28d80dcb5ff53499a35b70242037"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Kaufmann für audiovisuelle Medien/zur Kauffrau für audiovisuelle Medien",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR011800016",
   "eli": null,
   "gii_slug": "bverfgbes_2015-11-24",
-  "ingested_at": "2026-04-18T20:31:09Z",
   "jurabk": "BVerfGBes 2015-11-24",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9e95bd090b93b7982e46ac6f8c7c8cebf078ce0bdc862487a5c28e3233e7f292"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Beschluss des Plenums des Bundesverfassungsgerichts vom 24. November 2015 gemäß § 14 Absatz 4 des Gesetzes über das Bundesverfassungsgericht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

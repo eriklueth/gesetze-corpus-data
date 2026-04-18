@@ -4,9 +4,11 @@
   "bjnr": "BJNR344100001",
   "eli": null,
   "gii_slug": "_kokennzg",
-  "ingested_at": "2026-04-18T20:37:49Z",
   "jurabk": "ÖkoKennzG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "e5a6aba67a64501436ae5f57afc49be4f0083186f5203e46b2bf2ce551b2ec21"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse des ökologischen Landbaus",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

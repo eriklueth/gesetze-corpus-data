@@ -4,9 +4,9 @@
   "bjnr": "BJNR208670978",
   "eli": null,
   "gii_slug": "ostsfischzprokbek",
-  "ingested_at": "2026-04-18T20:38:01Z",
   "jurabk": "OstSFischZProkBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b4e50c6d211069b9e73d3fab1af21a5444aa613778d6c3dd15736da8d2200978"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Proklamation der Bundesrepublik Deutschland über die Errichtung einer Fischereizone der Bundesrepublik Deutschland in der Ostsee",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

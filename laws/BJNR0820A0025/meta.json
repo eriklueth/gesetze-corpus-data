@@ -4,9 +4,11 @@
   "bjnr": "BJNR0820A0025",
   "eli": null,
   "gii_slug": "gasspf_llstv_2025",
-  "ingested_at": "2026-04-18T20:33:36Z",
   "jurabk": "GasSpFüllstV 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "5dead1226d57c370f92572af808429886b5b2944566b169294f908d566977a1a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Anpassung der Füllstandsvorgaben für Gasspeicheranlagen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR007500963",
   "eli": null,
   "gii_slug": "bpr_skldgpatano",
-  "ingested_at": "2026-04-18T20:30:43Z",
   "jurabk": "BPräsKldgPatAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "04a5f46c0a7a0116bc908e2279a1f37324ec9b6635c2b317f5601fa27c1eb127"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der beamteten Patentinhaber auf Hilfsschiffen der Bundeswehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

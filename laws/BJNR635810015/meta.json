@@ -4,9 +4,9 @@
   "bjnr": "BJNR635810015",
   "eli": null,
   "gii_slug": "_77abs3__145abs1__54abs3sgb9bek",
-  "ingested_at": "2026-04-18T20:43:24Z",
   "jurabk": "§77Abs3/§145Abs1/§54Abs3SGB9Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a2201755acf8621949b5e343c75f00c28676d68392bbb3876f3598681ab6a6ec"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Anpassung der Ausgleichsabgabe (§ 77 Absatz 3 des Neunten Buches Sozialgesetzbuch [SGB IX]), der Eigenbeteiligung für die unentgeltliche Beförderung (§ 145 Absatz 1 Satz 4 SGB IX) und der übernahmefähigen Kinderbetreuungskosten (§ 54 Absatz 3 SGB IX)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

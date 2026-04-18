@@ -4,9 +4,12 @@
   "bjnr": "BJNR003460984",
   "eli": null,
   "gii_slug": "luftkostv",
-  "ingested_at": "2026-04-18T20:35:59Z",
   "jurabk": "LuftKostV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "93087a18f0b7d225d66d8e36dbf8955ccaf6999b169bc1628f1ba8bc72ff4e38"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Kostenverordnung der Luftfahrtverwaltung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

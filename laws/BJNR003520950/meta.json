@@ -4,9 +4,11 @@
   "bjnr": "BJNR003520950",
   "eli": null,
   "gii_slug": "ghfbetrg",
-  "ingested_at": "2026-04-18T20:33:56Z",
   "jurabk": "GHfBetrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "50b8e6e630a38095ed397add8bb36cbf69a26f44aec5c49f85664b365825627d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Schaffung eines besonderen Arbeitgebers für Hafenarbeiter (Gesamthafenbetrieb)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

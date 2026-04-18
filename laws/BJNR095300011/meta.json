@@ -4,9 +4,12 @@
   "bjnr": "BJNR095300011",
   "eli": null,
   "gii_slug": "reisekfmausbv_2011",
-  "ingested_at": "2026-04-18T20:38:55Z",
   "jurabk": "ReiseKfmAusbV 2011",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "98d170b45077452de4939b7cce1941199dec56304450abdaf886148ca821b6a0"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Tourismuskaufmann (Kaufmann für Privat- und Geschäftsreisen) und zur Tourismuskauffrau (Kauffrau für Privat- und Geschäftsreisen)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

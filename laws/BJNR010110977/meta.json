@@ -4,9 +4,11 @@
   "bjnr": "BJNR010110977",
   "eli": null,
   "gii_slug": "beamtvg_43abs3v",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BeamtVG§43Abs3V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "566b04918a12ad3f75692bc15f226b6897867f6d2e9a7011110c4714b5e6862b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die einmalige Unfallentschädigung nach § 43 Abs. 3 des Beamtenversorgungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

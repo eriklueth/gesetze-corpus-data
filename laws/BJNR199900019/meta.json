@@ -4,9 +4,9 @@
   "bjnr": "BJNR199900019",
   "eli": null,
   "gii_slug": "rvbeitrsbek_2020",
-  "ingested_at": "2026-04-18T20:39:09Z",
   "jurabk": "RVBeitrSBek 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ee961d836565ee5d3aafae9adecfdac6dd78f2d870082220409271d5811a34d2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2020",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

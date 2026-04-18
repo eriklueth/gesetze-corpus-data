@@ -4,9 +4,12 @@
   "bjnr": "BJNR026310986",
   "eli": null,
   "gii_slug": "markschbergv",
-  "ingested_at": "2026-04-18T20:36:26Z",
   "jurabk": "MarkschBergV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "2d61ce2d45f3b9e9e1a41f0dbbc65841c7cea619bfb21937dbe31b71070d8622"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR184200996",
   "eli": null,
   "gii_slug": "lasthandhabv",
-  "ingested_at": "2026-04-18T20:35:47Z",
   "jurabk": "LasthandhabV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "cf3e4a02b557970136362793a64e9383ac45415004a9c06bc1a1a5e0d45fd9fa"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Sicherheit und Gesundheitsschutz bei der manuellen Handhabung von Lasten bei der Arbeit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

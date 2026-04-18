@@ -4,9 +4,11 @@
   "bjnr": "BJNR179400996",
   "eli": null,
   "gii_slug": "cw_v",
-  "ingested_at": "2026-04-18T20:31:23Z",
   "jurabk": "CWÜV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "ac9d9efc9b6bd48d08d22dc037abd7049cc1faa859f06ae3fda3cef485f58097"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Ausführungsverordnung zum Chemiewaffenübereinkommen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

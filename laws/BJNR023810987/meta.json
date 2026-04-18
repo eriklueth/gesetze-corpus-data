@@ -4,9 +4,9 @@
   "bjnr": "BJNR023810987",
   "eli": null,
   "gii_slug": "aug_1abs2bek_11-1987",
-  "ingested_at": "2026-04-18T20:29:01Z",
   "jurabk": "AUG§1Abs2Bek 11-1987",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "bf4b337fdb11acf6fc29c253c821b62053b6baa40a0f83432e63a0ed040a2f09"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

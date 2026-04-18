@@ -4,9 +4,9 @@
   "bjnr": "BJNR100800011",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2011-05-25",
-  "ingested_at": "2026-04-18T20:37:01Z",
   "jurabk": "Münz10EuroBek 2011-05-25",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "130c290b9400784d2c2f8e2f15a07d054f14dcdf212c9d3ac3fa403d015d2a90"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „150 Jahre Entdeckung des Urvogels Archaeopteryx“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

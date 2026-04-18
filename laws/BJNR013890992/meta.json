@@ -4,9 +4,11 @@
   "bjnr": "BJNR013890992",
   "eli": null,
   "gii_slug": "kgugeg",
-  "ingested_at": "2026-04-18T20:35:18Z",
   "jurabk": "KGUGEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "fef98539acd554bf3ded289f1d0c5632fd661eec8b6ed4bd08bdda5e35eac82c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die nachträgliche Umstellung von Kontoguthaben, über die Tilgung von Anteilrechten an der Altguthaben-Ablösungs-Anleihe, zur Änderung lastenausgleichsrechtlicher Bestimmungen und zur Ergänzung des Gesetzes über die Errichtung der \"Staatlichen Versicherung der DDR in Abwicklung\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

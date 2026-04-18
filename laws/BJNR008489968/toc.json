@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR008489968",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Regelung des Zusammentreffens von deutschen Dienst- und Versorgungsbezügen mit einer Versorgung aus der Verwendung bei einer zwischenstaatlichen oder überstaatlichen Einrichtung",
         "Art I bis Art IX",
@@ -14,6 +15,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Regelung des Zusammentreffens von deutschen Dienst- und Versorgungsbezügen mit einer Versorgung aus der Verwendung bei einer zwischenstaatlichen oder überstaatlichen Einrichtung",
         "Art I bis Art IX",

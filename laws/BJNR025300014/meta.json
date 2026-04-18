@@ -4,9 +4,9 @@
   "bjnr": "BJNR025300014",
   "eli": null,
   "gii_slug": "m_nz2eurobek_2014-02-28",
-  "ingested_at": "2026-04-18T20:37:18Z",
   "jurabk": "Münz2EuroBek 2014-02-28",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "791deb96da44711e5340990091b1ebeb92e0e9167afef92bdd3e44efe71dffd7"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Niedersachsen“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

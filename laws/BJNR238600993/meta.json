@@ -4,9 +4,11 @@
   "bjnr": "BJNR238600993",
   "eli": null,
   "gii_slug": "dbgrg",
-  "ingested_at": "2026-04-18T20:31:34Z",
   "jurabk": "DBGrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 27
+  },
   "source_hashes": {
     "source_xml_sha256": "e8e2d8d5d84a62ea2f2ea4a83c66f3ce5c837e7a27a7dcba8b4463ee473391ec"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Gründung einer Deutsche Bahn Aktiengesellschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

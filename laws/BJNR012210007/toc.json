@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR012210007",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 2 Führung der Personenstandsregister"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 2 Führung der Personenstandsregister"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 2 Führung der Personenstandsregister"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 2 Führung der Personenstandsregister"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 2 Führung der Personenstandsregister"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 2 Führung der Personenstandsregister"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 2 Führung der Personenstandsregister"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 2 Führung der Personenstandsregister"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 3 Eheschließung",
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 3 Eheschließung",
@@ -123,6 +135,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 3 Eheschließung",
@@ -134,6 +147,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 3 Eheschließung",
@@ -145,6 +159,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 3 Eheschließung",
@@ -156,6 +171,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 3 Eheschließung",
@@ -167,6 +183,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 3 Eheschließung",
@@ -178,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 4 Lebenspartnerschaft"
@@ -188,6 +206,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 4 Lebenspartnerschaft"
@@ -198,6 +217,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 5 Geburt",
@@ -209,6 +229,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 5 Geburt",
@@ -220,6 +241,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 5 Geburt",
@@ -231,6 +253,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 5 Geburt",
@@ -242,6 +265,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 5 Geburt",
@@ -253,6 +277,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 5 Geburt",
@@ -264,6 +289,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 5 Geburt",
@@ -275,6 +301,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 5 Geburt",
@@ -286,6 +313,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 5 Geburt",
@@ -297,6 +325,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 5 Geburt",
@@ -308,6 +337,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 6 Sterbefall",
@@ -319,6 +349,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 6 Sterbefall",
@@ -330,6 +361,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 6 Sterbefall",
@@ -341,6 +373,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 6 Sterbefall",
@@ -352,6 +385,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 6 Sterbefall",
@@ -363,6 +397,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 6 Sterbefall",
@@ -374,6 +409,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -385,6 +421,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -396,6 +433,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -407,6 +445,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -418,6 +457,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -429,6 +469,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -440,6 +481,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -451,6 +493,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -462,6 +505,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -473,6 +517,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -484,6 +529,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -495,6 +541,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -506,6 +553,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -517,6 +565,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -528,6 +577,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 7 Besondere Beurkundungen",
@@ -539,6 +589,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
@@ -550,6 +601,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
@@ -561,6 +613,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
@@ -572,6 +625,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
@@ -583,6 +637,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
@@ -594,6 +649,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
@@ -605,6 +661,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
@@ -616,6 +673,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 8 Berichtigungen und gerichtliches Verfahren",
@@ -627,6 +685,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -638,6 +697,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -649,6 +709,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -660,6 +721,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -671,6 +733,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -682,6 +745,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -693,6 +757,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -704,6 +769,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -715,6 +781,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -726,6 +793,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -737,6 +805,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -748,6 +817,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -759,6 +829,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -770,6 +841,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -781,6 +853,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -792,6 +865,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister",
@@ -803,6 +877,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 10 Zwangsmittel, Bußgeldvorschriften, Besonderheiten"
@@ -813,6 +888,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 10 Zwangsmittel, Bußgeldvorschriften, Besonderheiten"
@@ -823,6 +899,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 10 Zwangsmittel, Bußgeldvorschriften, Besonderheiten"
@@ -833,6 +910,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 10 Zwangsmittel, Bußgeldvorschriften, Besonderheiten"
@@ -843,6 +921,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 11 Verordnungsermächtigungen"
@@ -853,6 +932,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 11 Verordnungsermächtigungen"
@@ -863,6 +943,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 12 Übergangsvorschriften"
@@ -873,6 +954,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 12 Übergangsvorschriften"
@@ -883,6 +965,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 12 Übergangsvorschriften"
@@ -893,6 +976,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 12 Übergangsvorschriften"
@@ -903,6 +987,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Kapitel 1 Allgemeine Bestimmungen",
         "Kapitel 12 Übergangsvorschriften"

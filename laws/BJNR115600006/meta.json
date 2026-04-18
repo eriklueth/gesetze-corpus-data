@@ -4,9 +4,11 @@
   "bjnr": "BJNR115600006",
   "eli": null,
   "gii_slug": "vulkreifmechmstrv",
-  "ingested_at": "2026-04-18T20:42:10Z",
   "jurabk": "VulkReifMechMstrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "8aa7e12abc9e7b1ba1fd08bd009a8500c403dacf133218e298ea01706ddb0697"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Vulkaniseur- und Reifenmechaniker-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR0C40A0024",
   "eli": null,
   "gii_slug": "sev",
-  "ingested_at": "2026-04-18T20:39:48Z",
   "jurabk": "SEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "757b3c1bac8a6a8e8ec665c1d3e7cf138d51b72afd98086d0091aee738b9cbb9"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zum Soldatenentschädigungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

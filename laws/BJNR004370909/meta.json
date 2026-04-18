@@ -4,9 +4,12 @@
   "bjnr": "BJNR004370909",
   "eli": null,
   "gii_slug": "stvg",
-  "ingested_at": "2026-04-18T20:40:53Z",
   "jurabk": "StVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 122
+  },
   "source_hashes": {
     "source_xml_sha256": "02fddf4a4b48db1b9f5ff22dde164ec14ec6a7f9b0329af3536ed5522721e357"
   },
@@ -42,5 +45,5 @@
     }
   ],
   "title": "Straßenverkehrsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR206600020",
   "eli": null,
   "gii_slug": "bmfbdgano_2020",
-  "ingested_at": "2026-04-18T20:30:22Z",
   "jurabk": "BMFBDGAnO 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "d744335db31e9f75d720d9a85855653db1145c57209cc031a938c33c8d0d9346"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Anordnung zur Durchführung des Bundesdisziplinargesetzes im nachgeordneten Geschäftsbereich des Bundesministeriums der Finanzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

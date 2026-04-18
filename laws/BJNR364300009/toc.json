@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR364300009",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 2 Regelungen für die Eigenmittelberechnung von Zahlungsinstituten"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 2 Regelungen für die Eigenmittelberechnung von Zahlungsinstituten"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 2 Regelungen für die Eigenmittelberechnung von Zahlungsinstituten"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 2 Regelungen für die Eigenmittelberechnung von Zahlungsinstituten"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 2 Regelungen für die Eigenmittelberechnung von Zahlungsinstituten"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 3 Regelungen für die Eigenmittelberechnung von E-Geld-Instituten"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 3 Regelungen für die Eigenmittelberechnung von E-Geld-Instituten"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 3 Regelungen für die Eigenmittelberechnung von E-Geld-Instituten"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 4 Kriterien für die erforderliche Absicherung für den Haftungsfall bei Zahlungsauslöse- und Kontoinformationsdiensten"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 4 Kriterien für die erforderliche Absicherung für den Haftungsfall bei Zahlungsauslöse- und Kontoinformationsdiensten"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 5 Melde- und Anzeigepflichten"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 5 Melde- und Anzeigepflichten"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 5 Melde- und Anzeigepflichten"
@@ -142,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Angemessenheit und Erforderlichkeit",
         "Abschnitt 5 Melde- und Anzeigepflichten"

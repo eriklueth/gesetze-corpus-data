@@ -4,9 +4,11 @@
   "bjnr": "BJNR193910007",
   "eli": null,
   "gii_slug": "rzv",
-  "ingested_at": "2026-04-18T20:39:18Z",
   "jurabk": "RZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "32ad1149f43f986d08dd369577cca0e655ac3cc0047bf7b2a33acbc29ed4be79"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Zuweisung der Funktion eines nationalen Referenzlaboratoriums",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR001490962",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt I Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt I Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt I Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960",
         "Abschnitt II"
@@ -49,6 +54,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960",
         "Abschnitt III Schlußvorschriften"
@@ -59,6 +65,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960",
         "Abschnitt III Schlußvorschriften"
@@ -69,6 +76,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt I Rückstellungen auf Grund des Gesetzes vom 21. Dezember 1960",
         "Abschnitt III Schlußvorschriften"

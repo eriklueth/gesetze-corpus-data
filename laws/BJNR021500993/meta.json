@@ -4,9 +4,9 @@
   "bjnr": "BJNR021500993",
   "eli": null,
   "gii_slug": "gr_ndstvtrsn_thbek",
-  "ingested_at": "2026-04-18T20:34:14Z",
   "jurabk": "GrÄndStVtrSN/THBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8ab08a6e318ab744ec4bb29d9004dbd300bb31f5ddf6ae8c12ac8ad6fe8a56cc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertrages zwischen dem Freistaat Sachsen und dem Land Thüringen über die Änderung der gemeinsamen Landesgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

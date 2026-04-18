@@ -4,9 +4,12 @@
   "bjnr": "BJNR021210012",
   "eli": null,
   "gii_slug": "krwg",
-  "ingested_at": "2026-04-18T20:35:38Z",
   "jurabk": "KrWG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 75
+  },
   "source_hashes": {
     "source_xml_sha256": "1ed8dad98027cf5c4ed2f1ba3e9c3b21fb8099b8353ac8585d5a04da12c2f42a"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

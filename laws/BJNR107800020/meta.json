@@ -4,9 +4,11 @@
   "bjnr": "BJNR107800020",
   "eli": null,
   "gii_slug": "parkettlmstrv",
-  "ingested_at": "2026-04-18T20:38:02Z",
   "jurabk": "ParkettlMstrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "52619ec5f926faba62b4c660bd12f90ae31cfbf3d05e6a1bd9bbad02c4b27396"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Meisterprüfung in den Teilen I und II im Parkettleger-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR297510011",
   "eli": null,
   "gii_slug": "kkg",
-  "ingested_at": "2026-04-18T20:35:22Z",
   "jurabk": "KKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "a8c67966d2b2ac798245a7532d6b359324a5cc1ad20bb1660712d02b261e3449"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Kooperation und Information im Kinderschutz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

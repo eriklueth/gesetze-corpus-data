@@ -4,9 +4,9 @@
   "bjnr": "BJNR616300012",
   "eli": null,
   "gii_slug": "sperrwarngebv",
-  "ingested_at": "2026-04-18T20:40:32Z",
   "jurabk": "SperrWarngebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f15838d74661b91dd9830823f9ac88a997d0f5de495d21e1e25bfe176ae07404"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über Sicherungsmaßnahmen für militärische Sperr- und Warngebiete an der schleswig-holsteinischen Ost- und Westküste und im Nord-Ostsee-Kanal",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

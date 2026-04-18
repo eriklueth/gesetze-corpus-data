@@ -4,9 +4,11 @@
   "bjnr": "BJNR000550889",
   "eli": null,
   "gii_slug": "geng",
-  "ingested_at": "2026-04-18T20:33:44Z",
   "jurabk": "GenG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 193
+  },
   "source_hashes": {
     "source_xml_sha256": "2316308ad9955055f0cb080abd3565e287d0a315f8ba39134fa2495ea8c448c7"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

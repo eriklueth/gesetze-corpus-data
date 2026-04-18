@@ -4,9 +4,11 @@
   "bjnr": "BJNR020730978",
   "eli": null,
   "gii_slug": "fischwimeistprv",
-  "ingested_at": "2026-04-18T20:33:10Z",
   "jurabk": "FischWiMeistPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "5a2aafd2ec1e419228dec9142a7b205b3169d0a88cf5a74862e7ecc2e9b04fde"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Anforderungen in der Meisterprüfung für den Beruf Fischwirt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

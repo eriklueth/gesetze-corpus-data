@@ -4,9 +4,11 @@
   "bjnr": "BJNR171100008",
   "eli": null,
   "gii_slug": "bwbdsgowizustv",
-  "ingested_at": "2026-04-18T20:31:13Z",
   "jurabk": "BwBDSGOWiZustV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "a9b2df075e40f9f25d0529a99bcfa38cc0b91b6a40278d11466147bd1702344f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesdatenschutzgesetz im Bereich der Bundeswehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR207330977",
   "eli": null,
   "gii_slug": "euwaktg",
-  "ingested_at": "2026-04-18T20:32:54Z",
   "jurabk": "EuWAktG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "0b8fc06591ec64cf452e5ad6c3e46efb599fb940382bddd1436a0e7a1e7c4f09"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Beschluß und Akt des Rates der Europäischen Gemeinschaften vom 20. September 1976 zur Einführung allgemeiner unmittelbarer Wahlen der Abgeordneten der Versammlung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

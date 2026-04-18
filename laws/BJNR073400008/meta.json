@@ -4,9 +4,11 @@
   "bjnr": "BJNR073400008",
   "eli": null,
   "gii_slug": "unbilligkeitsv",
-  "ingested_at": "2026-04-18T20:41:30Z",
   "jurabk": "UnbilligkeitsV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "df4e4b974caefa2683d9a907e2d47123ead707d290637a44dc7b3068cb2dd11c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Vermeidung unbilliger Härten durch Inanspruchnahme einer vorgezogenen Altersrente",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

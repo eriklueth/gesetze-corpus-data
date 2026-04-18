@@ -4,9 +4,9 @@
   "bjnr": "BJNR017500997",
   "eli": null,
   "gii_slug": "m_nz10dmbek_1997-02",
-  "ingested_at": "2026-04-18T20:36:53Z",
   "jurabk": "Münz10DMBek 1997-02",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "accc961c3bc7f67f4d0dc76022f79238d19275350cbeebd6470cfbb8cb09fe34"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze zum 500. Geburtstag des Reformators Philipp Melanchthon)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

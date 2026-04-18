@@ -4,9 +4,9 @@
   "bjnr": "BJNR200170927",
   "eli": null,
   "gii_slug": "wzhtibek",
-  "ingested_at": "2026-04-18T20:43:07Z",
   "jurabk": "WZHTIBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b8058207bfb8910155405894a4a22f35b91a2b0b4c99727abc99bc2931670aa9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über den Schutz deutscher Warenbezeichnungen in Haiti",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

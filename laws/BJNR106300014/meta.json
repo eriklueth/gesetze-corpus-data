@@ -4,9 +4,9 @@
   "bjnr": "BJNR106300014",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2014-07-08",
-  "ingested_at": "2026-04-18T20:37:01Z",
   "jurabk": "Münz10EuroBek 2014-07-08",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "5c596baf3170f59d79912d856cd016003fbf577d44182999308d3ef6e8b4cd55"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „150. Geburtstag Richard Strauss“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

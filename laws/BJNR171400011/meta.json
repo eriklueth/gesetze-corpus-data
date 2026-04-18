@@ -4,9 +4,11 @@
   "bjnr": "BJNR171400011",
   "eli": null,
   "gii_slug": "vkfv",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VKFV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "70c847b9674396ff3d858a8c370d22fb35f031c4011c70ff366a8b68dc8cc1e1"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Feststellung der Gesamtverwaltungskosten der gemeinsamen Einrichtung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

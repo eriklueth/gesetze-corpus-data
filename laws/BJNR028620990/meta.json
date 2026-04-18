@@ -4,9 +4,11 @@
   "bjnr": "BJNR028620990",
   "eli": null,
   "gii_slug": "zust_blg",
-  "ingested_at": "2026-04-18T20:43:23Z",
   "jurabk": "ZustÜblG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "aa0e4a4887537bcbc375049a779acdc06902a99496fe8afb72bd4603bb4ace59"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Überleitung der Zuständigkeit der Obersten Rückerstattungsgerichte auf den Bundesgerichtshof (Artikel 9 d. Rechtspflege-Vereinfachungsgesetzes)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

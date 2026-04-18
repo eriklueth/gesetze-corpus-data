@@ -4,9 +4,12 @@
   "bjnr": "BJNR389200017",
   "eli": null,
   "gii_slug": "bimschv_38_2017",
-  "ingested_at": "2026-04-18T20:28:13Z",
   "jurabk": "BImSchV 38 2017",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "d119e5e5a90a1d6bd2674121761e4bbf513b08b94424f5a7f6132ef4182fe285"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Achtunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

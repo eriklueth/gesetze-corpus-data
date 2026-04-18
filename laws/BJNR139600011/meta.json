@@ -4,9 +4,11 @@
   "bjnr": "BJNR139600011",
   "eli": null,
   "gii_slug": "kk-altr_ckv",
-  "ingested_at": "2026-04-18T20:35:22Z",
   "jurabk": "KK-AltRückV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "f1034ee5cb178895dc6a30dac606d82be5a466f60fae4a13941e919b2c93b22b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Bildung von Altersrückstellungen durch die gesetzlichen Krankenkassen und ihre Verbände",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

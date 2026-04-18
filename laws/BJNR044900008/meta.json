@@ -4,9 +4,11 @@
   "bjnr": "BJNR044900008",
   "eli": null,
   "gii_slug": "wastrnokanal_bgv",
-  "ingested_at": "2026-04-18T20:42:18Z",
   "jurabk": "WaStrNOKanalÜbgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "a4adad07064cfbd9829775de2b5193c5e4dce74f4a46517bdbf2b825ec8a44ec"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über den Übergang von der zur Bundeswasserstraße Nord-Ostsee-Kanal gehörenden Nebenstrecke Obereidersee mit Enge auf die Städte Rendsburg und Büdelsdorf",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

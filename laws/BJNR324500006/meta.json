@@ -4,9 +4,12 @@
   "bjnr": "BJNR324500006",
   "eli": null,
   "gii_slug": "anzv_2006",
-  "ingested_at": "2026-04-18T20:28:50Z",
   "jurabk": "AnzV 2006",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 28,
+    "paragraph": 26
+  },
   "source_hashes": {
     "source_xml_sha256": "0e05cc7fba8967971d9834fa67509e86d48501d6be403826cf992b475b327598"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Kreditwesengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR1720B0023",
   "eli": null,
   "gii_slug": "ireggebv",
-  "ingested_at": "2026-04-18T20:34:59Z",
   "jurabk": "IRegGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "7ef05b5063c82a9487330cff6d367c2a48d553fec8d3f927d402b92aaa2999c2"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Erhebung von Gebühren für individuell zurechenbare öffentliche Leistungen nach dem Implantateregistergesetz und der Implantateregister-Betriebsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

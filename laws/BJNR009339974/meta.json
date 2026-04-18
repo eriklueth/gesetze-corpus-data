@@ -4,9 +4,9 @@
   "bjnr": "BJNR009339974",
   "eli": null,
   "gii_slug": "erbstrg",
-  "ingested_at": "2026-04-18T20:32:23Z",
   "jurabk": "ErbStRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4ce7babf0dc2cf0a596719ac2b291c362d2fe14d40dfdd0304dc8154f010dcf6"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Gesetz zur Reform des Erbschaftsteuer- und Schenkungsteuerrechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

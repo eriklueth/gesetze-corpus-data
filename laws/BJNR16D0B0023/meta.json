@@ -4,9 +4,11 @@
   "bjnr": "BJNR16D0B0023",
   "eli": null,
   "gii_slug": "dechpolvtrug",
-  "ingested_at": "2026-04-18T20:31:38Z",
   "jurabk": "DECHPolVtrUG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "1778a736f812031829e1665065d0a3412b75738d55e4fee0fe02896130239f1d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Umsetzung der vollstreckungshilferechtlichen Regelungen des Vertrages vom 5. April 2022 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die grenzüberschreitende polizeiliche und justizielle Zusammenarbeit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

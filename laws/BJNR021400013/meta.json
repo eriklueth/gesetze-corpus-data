@@ -4,9 +4,12 @@
   "bjnr": "BJNR021400013",
   "eli": null,
   "gii_slug": "zweiradfortbv",
-  "ingested_at": "2026-04-18T20:43:24Z",
   "jurabk": "ZweiradFortbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "313ef3dae7024f06aa219de36cc9c2eff33e409131623c4f8614fd0f33180680"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Zweirad-Servicetechniker – nichtmotorisierte Zweiradtechnik und Geprüfte Zweirad-Servicetechnikerin – nichtmotorisierte Zweiradtechnik und Geprüfter Zweirad-Servicetechniker – motorisierte Zweiradtechnik und Geprüfte Zweirad-Servicetechnikerin – motorisierte Zweiradtechnik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

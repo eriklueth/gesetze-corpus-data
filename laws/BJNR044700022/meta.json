@@ -4,9 +4,12 @@
   "bjnr": "BJNR044700022",
   "eli": null,
   "gii_slug": "zvsausbv",
-  "ingested_at": "2026-04-18T20:43:24Z",
   "jurabk": "ZVSAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "eba870ee20cef5dd8c63d991de9ccfb2cdd1af3b97ef208a57d5f34fb1d211d4"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Eisenbahner in der Zugverkehrssteuerung und zur Eisenbahnerin in der Zugverkehrssteuerung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

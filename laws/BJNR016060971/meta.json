@@ -4,9 +4,11 @@
   "bjnr": "BJNR016060971",
   "eli": null,
   "gii_slug": "af_gltav",
-  "ingested_at": "2026-04-18T20:28:29Z",
   "jurabk": "AfögLTAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "406726ed069f683f2340c063024f8acf7074679d695988f91cda0523452bf2bb"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Ausbildungsförderung für den Besuch von Ausbildungsstätten für landwirtschaftlich-technische, milchwirtschaftlich-technische und biologisch-technische Assistentinnen und Assistenten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

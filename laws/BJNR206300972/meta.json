@@ -4,9 +4,9 @@
   "bjnr": "BJNR206300972",
   "eli": null,
   "gii_slug": "eukrschwausb_bk",
-  "ingested_at": "2026-04-18T20:32:38Z",
   "jurabk": "EuKrSchwAusbÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "610f09057a083fb92c37fffa43b1d9efac9691fab12a50118e44f00cf3750fdf"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Europäisches Übereinkommen über die theoretische und praktische Ausbildung von Krankenschwestern und Krankenpflegern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

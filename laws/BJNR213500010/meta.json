@@ -4,9 +4,11 @@
   "bjnr": "BJNR213500010",
   "eli": null,
   "gii_slug": "anwzpvv",
-  "ingested_at": "2026-04-18T20:28:49Z",
   "jurabk": "AnwZpvV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "b2ebb8ca0468144cc3bd177b3fdb1a2657fdce25873624611e4cf853ef77270f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Festlegung eines späteren Anwendungszeitpunktes der Verpflichtungen nach § 5b des Einkommensteuergesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR000200011",
   "eli": null,
   "gii_slug": "batzv",
-  "ingested_at": "2026-04-18T20:29:25Z",
   "jurabk": "BATZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "c92480b38cf777f77d699905882ec5227c567b1bb23cdd5c3cf562b60f90ec65"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Altersteilzeit von Beamtinnen und Beamten des Bundes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

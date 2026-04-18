@@ -4,9 +4,12 @@
   "bjnr": "BJNR125410996",
   "eli": null,
   "gii_slug": "sgb_7",
-  "ingested_at": "2026-04-18T20:39:54Z",
   "jurabk": "SGB 7",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 251
+  },
   "source_hashes": {
     "source_xml_sha256": "ee6277d0f6d0010ee8d97e6d53972b490548cf4f65d7bb842110a67642948659"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR0CE0B0024",
   "eli": null,
   "gii_slug": "sbgg",
-  "ingested_at": "2026-04-18T20:39:24Z",
   "jurabk": "SBGG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "d9e90aa7d5b0e4791b0b50d831b18e0eef5d5e3087536fa82b5cb1d8bf641635"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

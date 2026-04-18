@@ -4,9 +4,11 @@
   "bjnr": "BJNR179100005",
   "eli": null,
   "gii_slug": "telekomjubv",
-  "ingested_at": "2026-04-18T20:41:04Z",
   "jurabk": "TelekomJubV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "6cd96f1fc2e01349ca45157b864bc1e403017a4a94f147a2945bb8fa433348e8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung von Jubiläumszuwendungen an Beamtinnen und Beamte bei der Deutschen Telekom AG",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

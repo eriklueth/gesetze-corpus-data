@@ -4,9 +4,11 @@
   "bjnr": "BJNR076500020",
   "eli": null,
   "gii_slug": "bu_akt_bv",
-  "ingested_at": "2026-04-18T20:31:05Z",
   "jurabk": "BußAktÜbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "61671ed6c40e7849620b7776e4ce8530a5c4fb612db82943fa1a780f412dfd10"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Standards für die Übermittlung elektronischer Akten zwischen Behörden und Gerichten im Bußgeldverfahren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

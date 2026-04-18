@@ -4,9 +4,11 @@
   "bjnr": "BJNR1330A0024",
   "eli": null,
   "gii_slug": "bt_ep_bertrano",
-  "ingested_at": "2026-04-18T20:30:53Z",
   "jurabk": "BT/EPÜbertrAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "290bdae85356162f702c45a5c13c7b45ec134e858646751aa5799aa50a2defda"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Bescheiden und Widerspruchsbescheiden und die Vertretung der Bundesrepublik Deutschland bei Klagen, Klageerwiderungen oder Rechtsmitteln von beihilfeberechtigten Mitgliedern des Bundestages sowie beihilfeberechtigten ehemaligen Mitgliedern des Bundestages und des Europäischen Parlaments sowie ihren Hinterbliebenen auf das Bundesverwaltungsamt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

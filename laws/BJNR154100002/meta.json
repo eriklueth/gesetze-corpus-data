@@ -4,9 +4,9 @@
   "bjnr": "BJNR154100002",
   "eli": null,
   "gii_slug": "bdgbmingano",
-  "ingested_at": "2026-04-18T20:29:37Z",
   "jurabk": "BDGBMinGAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "339799d25a7231f13d023c8a2e930d0fc553d98a026e2a88b0ff760a69ea1223"
   },
@@ -26,5 +26,5 @@
     }
   ],
   "title": "Anordnung zur Durchführung des Bundesdisziplinargesetzes für den Geschäftsbereich des Bundesministeriums für Gesundheit und Soziale Sicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

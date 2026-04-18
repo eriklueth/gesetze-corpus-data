@@ -4,9 +4,11 @@
   "bjnr": "BJNR204530964",
   "eli": null,
   "gii_slug": "laabkergabkcheg",
-  "ingested_at": "2026-04-18T20:35:46Z",
   "jurabk": "LAAbkErgAbkCHEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "02ca1fd64ed22f6af4e166095f3d3d69b86ac5cfdf83609db99ab405ffff6928"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 16. März 1962 zur Ergänzung des Abkommens vom 26. August 1952 zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft zum deutschen Lastenausgleich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

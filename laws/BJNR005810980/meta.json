@@ -4,9 +4,11 @@
   "bjnr": "BJNR005810980",
   "eli": null,
   "gii_slug": "sg_ndg_13",
-  "ingested_at": "2026-04-18T20:39:49Z",
   "jurabk": "SGÄndG 13",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "ee51a39a38917101db9042e42e6a8d9704254197696fe4cfaf5ec84fb3fdae56"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Dreizehntes Gesetz zur Änderung des Soldatengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

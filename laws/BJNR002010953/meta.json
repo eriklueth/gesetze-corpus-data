@@ -4,9 +4,11 @@
   "bjnr": "BJNR002010953",
   "eli": null,
   "gii_slug": "bvfg",
-  "ingested_at": "2026-04-18T20:31:09Z",
   "jurabk": "BVFG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 34
+  },
   "source_hashes": {
     "source_xml_sha256": "db2459bda06c7fdae496f11b0f2362ecd5bced439e42af211eda7a5834c3634a"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Angelegenheiten der Vertriebenen und Flüchtlinge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

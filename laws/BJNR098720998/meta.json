@@ -4,9 +4,9 @@
   "bjnr": "BJNR098720998",
   "eli": null,
   "gii_slug": "rheinbr_ckeschauvtr",
-  "ingested_at": "2026-04-18T20:38:56Z",
   "jurabk": "RheinBrückEschauVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "3ee78067e52482a1483645d592723a705e5951cd4cfa2b8ab0a3276029939130"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Republik über den Bau einer Straßenbrücke über den Rhein zwischen Altenheim und Eschau",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

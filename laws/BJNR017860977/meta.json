@@ -4,9 +4,11 @@
   "bjnr": "BJNR017860977",
   "eli": null,
   "gii_slug": "begdv6_ndv_2",
-  "ingested_at": "2026-04-18T20:28:04Z",
   "jurabk": "BEGDV6ÄndV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "31aa0cbdfbf102472e26544b43d09c41add633e6ec9a44f60f3fdeff8712c3bb"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des Bundesentschädigungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

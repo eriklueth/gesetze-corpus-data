@@ -4,9 +4,9 @@
   "bjnr": "BJNR007210991",
   "eli": null,
   "gii_slug": "btgo1980anl6bek_1991",
-  "ingested_at": "2026-04-18T20:30:57Z",
   "jurabk": "BTGO1980Anl6Bek 1991",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e1653bc2e3cb212fe551cdb68de57eb2e89077aaf8ebe0eae4de54cca4f4b054"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Übernahme der Grundsätze in Immunitätsangelegenheiten von Mitgliedern des Deutschen Bundestages",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

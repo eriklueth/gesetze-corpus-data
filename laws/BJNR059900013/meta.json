@@ -4,9 +4,11 @@
   "bjnr": "BJNR059900013",
   "eli": null,
   "gii_slug": "pflebeteiligungsv",
-  "ingested_at": "2026-04-18T20:38:17Z",
   "jurabk": "PfleBeteiligungsV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "899996c9f7dbbf07b1f4376bf90cfebcb0b720651ec5c17bd0a3fdfe31b49580"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Beteiligung der auf Bundesebene maßgeblichen Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen und behinderten Menschen sowie der pflegenden Angehörigen im Bereich der Begutachtung und Qualitätssicherung der Sozialen Pflegeversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

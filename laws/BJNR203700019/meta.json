@@ -4,9 +4,12 @@
   "bjnr": "BJNR203700019",
   "eli": null,
   "gii_slug": "ecomfprv",
-  "ingested_at": "2026-04-18T20:31:57Z",
   "jurabk": "EComFPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "0ef09daca9532113fcc8b999bb15b0fd8a0e3cc1fbb95fb366530a72096a9ef7"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt im E-Commerce oder Geprüfte Fachwirtin im E-Commerce",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

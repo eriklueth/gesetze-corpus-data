@@ -4,9 +4,12 @@
   "bjnr": "BJNR045700008",
   "eli": null,
   "gii_slug": "fotomedfachausbv",
-  "ingested_at": "2026-04-18T20:33:24Z",
   "jurabk": "FotoMedFachAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "cf1e434034c1b9e625f1e6e1ba3c848d9e18a72c987f229ca671593457db5bef"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Fotomedienfachmann/zur Fotomedienfachfrau",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

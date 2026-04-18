@@ -4,9 +4,11 @@
   "bjnr": "BJNR037090974",
   "eli": null,
   "gii_slug": "binschowizustv_1974",
-  "ingested_at": "2026-04-18T20:30:07Z",
   "jurabk": "BinSchOWiZustV 1974",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "f16c129e9f2db24fd124f2e561eab9bc84725c070c4f6a8c1d80c8e38326bace"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Zuständigkeit der Generaldirektion Wasserstraßen und Schifffahrt für die Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

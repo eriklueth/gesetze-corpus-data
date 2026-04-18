@@ -4,9 +4,11 @@
   "bjnr": "BJNR229800010",
   "eli": null,
   "gii_slug": "morvaufhv",
-  "ingested_at": "2026-04-18T20:36:40Z",
   "jurabk": "MORVAufhV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "d34be69ed939551c0bb7e00109cb19176393158da5661f36e5d50460b6598108"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Aufhebung marktordnungsrechtlicher Vorschriften im Bereich Zucker",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR084320996",
   "eli": null,
   "gii_slug": "strzusgubenabkpolg",
-  "ingested_at": "2026-04-18T20:40:49Z",
   "jurabk": "StrZusGubenAbkPOLG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "05b339cbcc2b7c06e26a2966bf2a923c8576a8122ec34495c89bafd58a1330d0"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Zusammenschluß der deutschen Bundesstraße B 97 und der polnischen Landesstraße 274 sowie über den Bau einer Grenzbrücke im Raum Guben und Gubinek",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

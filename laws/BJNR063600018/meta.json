@@ -4,9 +4,12 @@
   "bjnr": "BJNR063600018",
   "eli": null,
   "gii_slug": "edschleifausbv",
-  "ingested_at": "2026-04-18T20:31:58Z",
   "jurabk": "EdSchleifAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 31
+  },
   "source_hashes": {
     "source_xml_sha256": "d92618e6d3c53f44385d654ce7aee545e7c8d19f52d41d7318934c7ef1556dac"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Edelsteinschleifer und zur Edelsteinschleiferin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

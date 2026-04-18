@@ -4,9 +4,9 @@
   "bjnr": "BJNR214910969",
   "eli": null,
   "gii_slug": "adr",
-  "ingested_at": "2026-04-18T20:28:25Z",
   "jurabk": "ADR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "d65e0313a283486a40ae66c45c4f05f064fc30578e1aa3602247407933bf05a9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Europäisches Übereinkommen über die internationale Beförderung gefährlicher Güter auf der Straße",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

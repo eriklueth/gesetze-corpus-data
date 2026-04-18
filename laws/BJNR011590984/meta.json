@@ -4,9 +4,11 @@
   "bjnr": "BJNR011590984",
   "eli": null,
   "gii_slug": "wzg_4tunbek",
-  "ingested_at": "2026-04-18T20:43:05Z",
   "jurabk": "WZG§4TUNBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "3eb8481ea971a6ea019da346693f21c51e1a668f16b6cc1bbc88ac2a6241ab7b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

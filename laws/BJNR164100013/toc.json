@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR164100013",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0001.md",
       "heading": "Zuständigkeit der Ausgangsbehörde",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0002.md",
       "heading": "Besondere Zuständigkeiten",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0003.md",
       "heading": "Vorbehaltsklausel",
@@ -24,6 +27,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0004.md",
       "heading": "Inkrafttreten, Außerkrafttreten",

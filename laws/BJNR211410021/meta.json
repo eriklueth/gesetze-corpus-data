@@ -4,9 +4,11 @@
   "bjnr": "BJNR211410021",
   "eli": null,
   "gii_slug": "rsg",
-  "ingested_at": "2026-04-18T20:39:05Z",
   "jurabk": "RSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "398e0e32c0e73082f7801d082bdd1d9722268f438455bbb384dd87f5170afd3a"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Insolvenzsicherung durch Reisesicherungsfonds",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

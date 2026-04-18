@@ -4,9 +4,11 @@
   "bjnr": "BJNR332200017",
   "eli": null,
   "gii_slug": "gbankdvdv",
-  "ingested_at": "2026-04-18T20:33:40Z",
   "jurabk": "GBankDVDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 30
+  },
   "source_hashes": {
     "source_xml_sha256": "6fc7cc7395b118a7b4aa9f13574a29572e26081cdeab2404f6059ab6681350d7"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über den Vorbereitungsdienst für den gehobenen Bankdienst der Deutschen Bundesbank",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

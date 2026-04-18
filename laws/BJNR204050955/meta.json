@@ -4,9 +4,9 @@
   "bjnr": "BJNR204050955",
   "eli": null,
   "gii_slug": "krbesreglvtr",
-  "ingested_at": "2026-04-18T20:35:33Z",
   "jurabk": "KrBesReglVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ee5cc27a04880f20f017ee7d8c9301f7c0f00633726f1bd6e6ad1fb21ffa0ec8"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zur Regelung aus Krieg und Besatzung entstandener Fragen (in der gemäß Liste IV zu dem am 23. Oktober 1954 in Paris unterzeichneten Protokoll über die Beendigung des Besatzungsregimes in der Bundesrepublik Deutschland geänderten Fassung)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

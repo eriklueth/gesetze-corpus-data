@@ -4,9 +4,9 @@
   "bjnr": "BJNR235100004",
   "eli": null,
   "gii_slug": "bminuwidano_2004",
-  "ingested_at": "2026-04-18T20:30:23Z",
   "jurabk": "BMinUWidAnO 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "83fe806d67183af3a7d9b796aa2bd20a71f3238e62a75051505527d44a1ae2c3"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten in Angelegenheiten der Unfallfürsorge nach dem Beamtenversorgungsgesetz einschließlich des Erlasses von Widerspruchsbescheiden und der Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

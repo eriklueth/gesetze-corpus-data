@@ -4,9 +4,9 @@
   "bjnr": "BJNR205660974",
   "eli": null,
   "gii_slug": "atp",
-  "ingested_at": "2026-04-18T20:28:57Z",
   "jurabk": "ATP",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "12ec0758185752d69d2922ed771f8e99648e040d3b3cd8b14f4f5366b7b5ac87"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen über internationale Beförderungen leicht verderblicher Lebensmittel und über die besonderen Beförderungsmittel, die für diese Beförderungen zu verwenden sind",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR0FA0F0025",
   "eli": null,
   "gii_slug": "btgo2025anl_4",
-  "ingested_at": "2026-04-18T20:30:57Z",
   "jurabk": "BTGO2025Anl 4",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e12b8d756d34febb33aa37d0f1a739dfaeb383ef9928badb5e67fdf2e4455b6b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Richtlinien für die Befragung der Bundesregierung (Anlage 4 der Geschäftsordnung des Deutschen Bundestages, BGBl 2025 I Nr 250)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

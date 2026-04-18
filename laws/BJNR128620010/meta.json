@@ -4,9 +4,9 @@
   "bjnr": "BJNR128620010",
   "eli": null,
   "gii_slug": "dbaabkbgrg",
-  "ingested_at": "2026-04-18T20:31:27Z",
   "jurabk": "DBAAbkBGRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "0bf8a2ce659c04b280e6cd522d0b7f5b1a066eef91b4fb9d5d67c94d154fb67b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zum Abkommen vom 25. Januar 2010 zwischen der Bundesrepublik Deutschland und der Republik Bulgarien zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

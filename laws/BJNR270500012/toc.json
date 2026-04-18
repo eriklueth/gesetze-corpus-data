@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR270500012",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Stichprobenentnahme bei Prüfungen",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Berichte nach § 36 Absatz 2 und 3 Satz 1 des Gesetzes über die Deutsche Bundesbank",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Meldepflichten",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Inkrafttreten",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung",
@@ -38,6 +43,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung",
@@ -45,6 +51,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "Meldung statistischer Daten an die Deutsche Bundesbank nach § 3 der Bargeldprüfungsverordnung",

@@ -4,9 +4,11 @@
   "bjnr": "BJNR0C20A0024",
   "eli": null,
   "gii_slug": "rwbestv_2024",
-  "ingested_at": "2026-04-18T20:39:18Z",
   "jurabk": "RWBestV 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "232717e2f8d4c2b9de6fe1aab23ab414057f9861023dfb3271e220ffd31102a9"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Bestimmung des Rentenwerts in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2024",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

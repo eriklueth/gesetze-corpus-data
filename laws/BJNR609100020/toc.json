@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR609100020",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0013.md",
       "heading": "Übergangsregelung",

@@ -4,9 +4,12 @@
   "bjnr": "BJNR0090A0024",
   "eli": null,
   "gii_slug": "wpi-inhkontrollv",
-  "ingested_at": "2026-04-18T20:42:35Z",
   "jurabk": "WpI-InhKontrollV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "81b12bc7484161416891a257a6ad92d26d2fdb5c1edf0bd94457defba19ecd1f"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Anzeigen nach § 24 des Wertpapierinstitutsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

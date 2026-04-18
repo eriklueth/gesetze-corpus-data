@@ -4,9 +4,9 @@
   "bjnr": "BJNR013200020",
   "eli": null,
   "gii_slug": "m_nz2eurobek_2020-01-22",
-  "ingested_at": "2026-04-18T20:37:19Z",
   "jurabk": "Münz2EuroBek 2020-01-22",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "ffbd2f50c51daaf2ab14c98c1a546fede2f3a819a56438176aba0f38834f9026"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze „Brandenburg“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

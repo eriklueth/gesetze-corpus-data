@@ -4,9 +4,11 @@
   "bjnr": "BJNR126300006",
   "eli": null,
   "gii_slug": "dachdmstrv_2006",
-  "ingested_at": "2026-04-18T20:31:23Z",
   "jurabk": "DachdMstrV 2006",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "892330bcd49c5f073eff546c4ee4bcdf3a316f04deea643a86e510c9c21eb49b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Dachdecker-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

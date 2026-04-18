@@ -4,9 +4,9 @@
   "bjnr": "BJNR210680986",
   "eli": null,
   "gii_slug": "intwarenbez_bk",
-  "ingested_at": "2026-04-18T20:34:55Z",
   "jurabk": "IntWarenBezÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "78a45109d1fbd5f95dd7af3c921b23266f554138955f5f0e5e71ce309cfa90bb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Internationales Übereinkommen über das Harmonisierte System zur Bezeichnung und Codierung der Waren",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

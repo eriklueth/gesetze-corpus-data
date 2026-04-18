@@ -4,9 +4,12 @@
   "bjnr": "BJNR1350B0023",
   "eli": null,
   "gii_slug": "enefg",
-  "ingested_at": "2026-04-18T20:32:17Z",
   "jurabk": "EnEfG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 21
+  },
   "source_hashes": {
     "source_xml_sha256": "490d3fc4cf2a66142caafdeb799bea38810f843ec166bf03295db49c8f31c53f"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Steigerung der Energieeffizienz in Deutschland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

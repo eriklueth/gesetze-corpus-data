@@ -4,9 +4,12 @@
   "bjnr": "BJNR008370979",
   "eli": null,
   "gii_slug": "bergmausbv",
-  "ingested_at": "2026-04-18T20:29:49Z",
   "jurabk": "BergMAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "cc82aba8d83f9460483f6961b049f1b644a324c624f71073112e0f2edd604465"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Berg- und Maschinenmann und zur Berg- und Maschinenfrau",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR054000010",
   "eli": null,
   "gii_slug": "wastroste_bgv",
-  "ingested_at": "2026-04-18T20:42:18Z",
   "jurabk": "WaStrOsteÜbgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "1cfbb104f024dd9c74af0580b61e3b4ab7f1fde2676b3f4e4b7cb36abd3fbfe2"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zum Übergang einer Teilstrecke der Bundeswasserstraße Oste auf das Land Niedersachsen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

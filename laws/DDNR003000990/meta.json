@@ -4,9 +4,11 @@
   "bjnr": "DDNR003000990",
   "eli": null,
   "gii_slug": "treuhg",
-  "ingested_at": "2026-04-18T20:41:19Z",
   "jurabk": "TreuhG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 27
+  },
   "source_hashes": {
     "source_xml_sha256": "2b37f8a1c1f1e598d580e85c0f2f44cc6fd76e9186f73b15ee2c33d8a0783caf"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Privatisierung und Reorganisation des volkseigenen Vermögens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

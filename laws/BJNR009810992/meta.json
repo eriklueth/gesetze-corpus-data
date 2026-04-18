@@ -4,9 +4,9 @@
   "bjnr": "BJNR009810992",
   "eli": null,
   "gii_slug": "telekomernanoergano",
-  "ingested_at": "2026-04-18T20:41:04Z",
   "jurabk": "TELEKOMErnAnOErgAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "26cd250027b6a32622b0fdc8bde484f4c90bd8c750fbe60d9b8cea3d0a1a5f6d"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Ergänzung der Anordnung über die Ernennung und Entlassung von Beamten und Beamtinnen im Bereich der Deutschen Bundespost Telekom",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

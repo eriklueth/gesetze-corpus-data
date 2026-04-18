@@ -4,9 +4,11 @@
   "bjnr": "BJNR267810020",
   "eli": null,
   "gii_slug": "ausgstg",
-  "ingested_at": "2026-04-18T20:29:09Z",
   "jurabk": "AusgStG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "11e7a69cbf25f4775b59791f9c52885814d706056bcd9299d45917ceafb6f738"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Durchführung der EU-Verordnung über die Vermarktung und Verwendung von Ausgangsstoffen für Explosivstoffe",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

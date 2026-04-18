@@ -4,9 +4,11 @@
   "bjnr": "BJNR005800022",
   "eli": null,
   "gii_slug": "windseev_2",
-  "ingested_at": "2026-04-18T20:28:09Z",
   "jurabk": "WindSeeV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 41
+  },
   "source_hashes": {
     "source_xml_sha256": "fbb5c772b29cf6cdded48bcb428b12069b237aa5023871aebb80d605bbd2b119"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Verordnung zur Durchführung des Windenergie-auf-See-Gesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

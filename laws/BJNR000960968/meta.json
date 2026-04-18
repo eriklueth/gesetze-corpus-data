@@ -4,9 +4,9 @@
   "bjnr": "BJNR000960968",
   "eli": null,
   "gii_slug": "wzg_35hkgbek_1968",
-  "ingested_at": "2026-04-18T20:42:53Z",
   "jurabk": "WZG§35HKGBek 1968",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f0e6babf624dcd88d90df15c71bc5afa467d4d125dd937bd99b9bc4b161b9bb9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

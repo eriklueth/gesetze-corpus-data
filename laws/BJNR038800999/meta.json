@@ -4,9 +4,11 @@
   "bjnr": "BJNR038800999",
   "eli": null,
   "gii_slug": "beschneurg",
-  "ingested_at": "2026-04-18T20:29:49Z",
   "jurabk": "BeschNeuRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "c4537a49f6b16b5c09f96b2a3a2bb3fb36a0ae25396eca4982e9588f8fa8ca24"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Neuregelung der geringfügigen Beschäftigungsverhältnisse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

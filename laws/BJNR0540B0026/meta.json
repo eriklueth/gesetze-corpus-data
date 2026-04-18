@@ -4,9 +4,11 @@
   "bjnr": "BJNR0540B0026",
   "eli": null,
   "gii_slug": "wasserstoffbg",
-  "ingested_at": "2026-04-18T20:42:18Z",
   "jurabk": "WasserstoffBG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "2af39972848b49d8b395e9c9665c32a55ae40521f24db3114a4c02e6c2369e4f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur planungs- und genehmigungsrechtlichen Beschleunigung von Erzeugung, Speicherung, Import und Transport von Wasserstoff",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

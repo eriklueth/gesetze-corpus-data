@@ -4,9 +4,12 @@
   "bjnr": "BJNR139000022",
   "eli": null,
   "gii_slug": "stfachangausbv_2023",
-  "ingested_at": "2026-04-18T20:40:41Z",
   "jurabk": "StFachAngAusbV 2023",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "bb82c8a76019fb46535b655f5671148ad699d037aa00ae142a6f6f77642e0d10"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Steuerfachangestellten und zur Steuerfachangestellten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

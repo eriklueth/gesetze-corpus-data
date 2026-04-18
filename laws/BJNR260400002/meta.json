@@ -4,9 +4,12 @@
   "bjnr": "BJNR260400002",
   "eli": null,
   "gii_slug": "strwausbv_2002",
-  "ingested_at": "2026-04-18T20:40:49Z",
   "jurabk": "StrWAusbV 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "47c922b4780ba42e7edfdcd9a1448e8b45c3df809f763ad7002927190047885b"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Straßenwärter/zur Straßenwärterin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

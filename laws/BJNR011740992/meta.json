@@ -4,9 +4,11 @@
   "bjnr": "BJNR011740992",
   "eli": null,
   "gii_slug": "sverslv",
-  "ingested_at": "2026-04-18T20:40:58Z",
   "jurabk": "SVersLV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "d265bab1780fc643bcb1aae6353adf61fb2412e5ac59d16a71f09a3804822336"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über nicht überführte Leistungen der Sonderversorgungssysteme der DDR",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

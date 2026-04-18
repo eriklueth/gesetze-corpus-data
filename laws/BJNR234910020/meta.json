@@ -4,9 +4,11 @@
   "bjnr": "BJNR234910020",
   "eli": null,
   "gii_slug": "heilvfv_2020",
-  "ingested_at": "2026-04-18T20:34:24Z",
   "jurabk": "HeilVfV 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "ffb595db320359ab6c3f452aad8ea22d0a9203327f7c944253628b1eda12cda8"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Durchführung von Heilverfahren nach § 33 des Beamtenversorgungsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

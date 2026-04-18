@@ -4,9 +4,11 @@
   "bjnr": "BJNR208430965",
   "eli": null,
   "gii_slug": "italkultinstvorrv",
-  "ingested_at": "2026-04-18T20:35:02Z",
   "jurabk": "ItalKultInstVorRV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "4be1d5f7255cc331ce9a3fb47040e5295d1b3408f53220fdcd7d239bbb1a3b09"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Gewährung von Vorrechten und Befreiungen an die italienischen Kulturinstitute",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

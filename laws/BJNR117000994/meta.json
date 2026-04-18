@@ -4,9 +4,11 @@
   "bjnr": "BJNR117000994",
   "eli": null,
   "gii_slug": "arbzrg",
-  "ingested_at": "2026-04-18T20:28:51Z",
   "jurabk": "ArbZRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "ec9dbd7458b020e781bd5a907c32c11c83c69a850a47dff389f5e4dbfbb57498"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Vereinheitlichung und Flexibilisierung des Arbeitszeitrechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

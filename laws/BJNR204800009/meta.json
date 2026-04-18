@@ -4,9 +4,11 @@
   "bjnr": "BJNR204800009",
   "eli": null,
   "gii_slug": "ehvv_2012",
-  "ingested_at": "2026-04-18T20:32:07Z",
   "jurabk": "EHVV 2012",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "0055856bf2c8f71a0b695c60e635db8f7f57b9bc4075117c15896951dcbf1f4b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Versteigerung von Emissionsberechtigungen nach dem Zuteilungsgesetz 2012",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

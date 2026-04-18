@@ -4,9 +4,11 @@
   "bjnr": "BJNR087200004",
   "eli": null,
   "gii_slug": "markenv_2004",
-  "ingested_at": "2026-04-18T20:36:28Z",
   "jurabk": "MarkenV 2004",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 65
+  },
   "source_hashes": {
     "source_xml_sha256": "c0fd92f114274f447575320e220ea7727ac173f2eaea1024ffea1dbaee14fa3b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Ausführung des Markengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

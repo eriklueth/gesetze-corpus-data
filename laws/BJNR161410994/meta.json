@@ -4,9 +4,11 @@
   "bjnr": "BJNR161410994",
   "eli": null,
   "gii_slug": "blutzv",
-  "ingested_at": "2026-04-18T20:30:20Z",
   "jurabk": "BlutZV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "15dd04ccd1613d0c8dc9719c2b26f6102e1fc959719c41120f84619d86df36ce"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Ausdehnung der Vorschriften über die staatliche Chargenprüfung auf Blutzubereitungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

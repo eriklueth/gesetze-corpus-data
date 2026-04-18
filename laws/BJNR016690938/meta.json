@@ -4,9 +4,9 @@
   "bjnr": "BJNR016690938",
   "eli": null,
   "gii_slug": "rrherl",
-  "ingested_at": "2026-04-18T20:39:04Z",
   "jurabk": "RRHErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "471f862479ad53aff0704ab95bdce0538fec614d48126e45ee1c29a7191dabef"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlaß über die Ernennung der Beamten und die Beendigung des Beamtenverhältnisses im Geschäftsbereich des Rechnungshofs des Deutschen Reichs",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

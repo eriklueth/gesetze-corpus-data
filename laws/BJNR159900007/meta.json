@@ -4,9 +4,12 @@
   "bjnr": "BJNR159900007",
   "eli": null,
   "gii_slug": "indmetausbv_2007",
-  "ingested_at": "2026-04-18T20:34:47Z",
   "jurabk": "IndMetAusbV 2007",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 7,
+    "paragraph": 38
+  },
   "source_hashes": {
     "source_xml_sha256": "5046c821e090ad0a37ef2d9c16672d33ff89ad81df6462be6b1bbdb65d2fdc7f"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung in den industriellen Metallberufen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR009890979",
   "eli": null,
   "gii_slug": "unbefg_1979",
-  "ingested_at": "2026-04-18T20:41:30Z",
   "jurabk": "UnBefG 1979",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "e883c925a288dbc5e2ba914a973a2f0e3f8a3b356541c6afd74e51671e65f80c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die unentgeltliche Beförderung Schwerbehinderter im öffentlichen Personenverkehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

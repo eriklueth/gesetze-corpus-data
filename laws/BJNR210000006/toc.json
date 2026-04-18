@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR210000006",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Verzinsung und Tilgung der den Ländern zur Förderung des Wohnungsbaus gewährten Darlehen des Bundes",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Wohnungsfürsorge des Bundes, Bergarbeiterwohnungsbau",

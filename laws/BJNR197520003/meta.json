@@ -4,9 +4,9 @@
   "bjnr": "BJNR197520003",
   "eli": null,
   "gii_slug": "skaufv_cze",
-  "ingested_at": "2026-04-18T20:40:01Z",
   "jurabk": "SkAufV CZE",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "26016751c27154c797914aeedf1563ccd1b88ea1b5faeb626bbdf8aa4b88f034"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zu dem Abkommen vom 31. Juli 2003 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Tschechischen Republik über den vorübergehenden Aufenthalt von Mitgliedern der Streitkräfte der Bundesrepublik Deutschland und der Streitkräfte der Tschechischen Republik auf dem Gebiet des jeweils anderen Staats",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

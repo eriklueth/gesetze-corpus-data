@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR013170979",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -75,6 +83,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -84,6 +93,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -93,6 +103,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -102,6 +113,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -111,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -120,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -129,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -138,6 +153,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -147,6 +163,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid"
       ],
@@ -156,6 +173,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -166,6 +184,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -176,6 +195,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -186,6 +206,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -196,6 +217,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -206,6 +228,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -216,6 +239,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -226,6 +250,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -236,6 +261,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -246,6 +272,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -256,6 +283,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -266,6 +294,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -276,6 +305,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -286,6 +316,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -296,6 +327,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -306,6 +338,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -316,6 +349,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -326,6 +360,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -336,6 +371,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -346,6 +382,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Zweiter Abschnitt Volksbegehren"
@@ -356,6 +393,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Dritter Abschnitt Volksbefragung"
@@ -366,6 +404,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Dritter Abschnitt Volksbefragung"
@@ -376,6 +415,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Vierter Abschnitt Schlußbestimmungen"
@@ -386,6 +426,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Vierter Abschnitt Schlußbestimmungen"
@@ -396,6 +437,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Erster Abschnitt Volksentscheid",
         "Vierter Abschnitt Schlußbestimmungen"

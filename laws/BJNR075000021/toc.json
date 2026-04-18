@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR075000021",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 0,
       "breadcrumb": [],
       "file": "paragraphs/art-0003.md",
       "heading": "Gesetz über die Bundesbeauftragte oder den Bundesbeauftragten für die Opfer der SED-Diktatur beim Deutschen Bundestag (SED-Opferbeauftragtengesetz - OpfBG)",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [],
       "file": "paragraphs/art-0004.md",
       "heading": "Übergangsregelung für die Interessenvertretungen und die Gleichstellungsbeauftragte",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0005.md",
       "heading": "Bekanntmachungserlaubnis",
@@ -24,6 +27,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0006.md",
       "heading": "Inkrafttreten",

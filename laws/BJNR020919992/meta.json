@@ -4,9 +4,11 @@
   "bjnr": "BJNR020919992",
   "eli": null,
   "gii_slug": "verwf_g",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VerwFöG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "ae38284121710b625b39fedf3693be54c6c0ee2c9ebade4edc20f6330e2f4a5d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Förderung der anderweitigen Verwendung von Berufssoldaten und Beamten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

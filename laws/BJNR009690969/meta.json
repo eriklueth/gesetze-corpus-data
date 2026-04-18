@@ -4,9 +4,11 @@
   "bjnr": "BJNR009690969",
   "eli": null,
   "gii_slug": "rag_12",
-  "ingested_at": "2026-04-18T20:28:01Z",
   "jurabk": "RAG 12",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 15
+  },
   "source_hashes": {
     "source_xml_sha256": "b258a54c08f769e174e71288b02fb06272ff660a5d5e7de59ca6b2bcc4296d49"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zwölftes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung (Art. 4 d. Dritten Rentenversicherungs- Änderungsgesetzes - 3. RVÄndG)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

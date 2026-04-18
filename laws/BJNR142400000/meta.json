@@ -4,9 +4,9 @@
   "bjnr": "BJNR142400000",
   "eli": null,
   "gii_slug": "bminbf_bibbwidano",
-  "ingested_at": "2026-04-18T20:30:23Z",
   "jurabk": "BMinBF/BIBBWidAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "17c76a9b90a0e45f1d9fbf8d0f978e97e08a39c789b924f58299ace9b52b7544"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesministeriums für Bildung und Forschung und des Bundesinstituts für Berufsbildung in Angelegenheiten nach dem Bundesumzugskostengesetz einschließlich der hierzu ergangenen Trennungsgeldverordnung in Verbindung mit dem Dienstrechtlichen Begleitgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

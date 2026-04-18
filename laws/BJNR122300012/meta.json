@@ -4,9 +4,11 @@
   "bjnr": "BJNR122300012",
   "eli": null,
   "gii_slug": "zjdvtr_ndvtr_2011",
-  "ingested_at": "2026-04-18T20:43:14Z",
   "jurabk": "ZJDVtrÄndVtr 2011",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "5356cc4f10963963089073309f7c0f30f57aa46b754ea60e6bd4324e77ad2caf"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bundesminister des Innern, und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts –, vertreten durch den Präsidenten und die Vizepräsidenten, zur Änderung des Vertrages vom 27. Januar 2003, in der Fassung des Änderungsvertrages vom 3. März 2008 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland – Körperschaft des öffentlichen Rechts –",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

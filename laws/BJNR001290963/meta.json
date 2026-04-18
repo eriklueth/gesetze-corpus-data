@@ -4,9 +4,11 @@
   "bjnr": "BJNR001290963",
   "eli": null,
   "gii_slug": "vollstrvtrgrcag",
-  "ingested_at": "2026-04-18T20:42:02Z",
   "jurabk": "VollstrVtrGRCAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "8be441e8dbc5d453f846ff77a6e7c6dee6cc917fbf5771916b06996055fd26f3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Ausführung des Vertrages vom 4. November 1961 zwischen der Bundesrepublik Deutschland und dem Königreich Griechenland über die gegenseitige Anerkennung und Vollstreckung von gerichtlichen Entscheidungen, Vergleichen und öffentlichen Urkunden in Zivil- und Handelssachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR014310991",
   "eli": null,
   "gii_slug": "stvzoausnv_39",
-  "ingested_at": "2026-04-18T20:40:54Z",
   "jurabk": "StVZOAusnV 39",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "ff9c2ed01613e653c7bc84586b6a5a232768e464290309e60f65e6f0c11c8a5d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Neununddreißigste Verordnung über Ausnahmen von den Vorschriften der Straßenverkehrs-Zulassungs-Ordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

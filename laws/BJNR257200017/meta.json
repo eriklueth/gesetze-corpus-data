@@ -4,9 +4,11 @@
   "bjnr": "BJNR257200017",
   "eli": null,
   "gii_slug": "safleischwig",
-  "ingested_at": "2026-04-18T20:34:19Z",
   "jurabk": "SAFleischWiG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "447c4dd5ec3137810669ce3ea5054957fa01598e91af9f4bf10216d7caf29c64"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

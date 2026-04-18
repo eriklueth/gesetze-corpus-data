@@ -4,9 +4,9 @@
   "bjnr": "BJNR159320998",
   "eli": null,
   "gii_slug": "dba_kaz",
-  "ingested_at": "2026-04-18T20:31:26Z",
   "jurabk": "DBA KAZ",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "10b8ad54d8bb41c17cb51beadb72a4fe1388c03dc1b6b660e969ef3cab4108a1"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Republik Kasachstan zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

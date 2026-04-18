@@ -4,9 +4,11 @@
   "bjnr": "BJNR002860983",
   "eli": null,
   "gii_slug": "zuckprodabgv_1983",
-  "ingested_at": "2026-04-18T20:43:19Z",
   "jurabk": "ZuckProdAbgV 1983",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "26fc38045cef8376c58a6f9986616a8bd3e5ec076228c13ecd1023c6df785242"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die im Rahmen der Produktionsregelung für Zucker zu erhebenden Abgaben",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

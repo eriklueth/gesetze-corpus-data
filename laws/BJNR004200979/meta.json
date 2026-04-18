@@ -4,9 +4,11 @@
   "bjnr": "BJNR004200979",
   "eli": null,
   "gii_slug": "hzvv_3",
-  "ingested_at": "2026-04-18T20:34:35Z",
   "jurabk": "HZvV 3",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "3f5d93b803028cf4bc1816a2ea3a587ac80e9a4d8e76edfa32d0c4234c8c7893"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Dritte Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen Zusatzversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

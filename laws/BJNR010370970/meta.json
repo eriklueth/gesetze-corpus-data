@@ -4,9 +4,11 @@
   "bjnr": "BJNR010370970",
   "eli": null,
   "gii_slug": "rag_13",
-  "ingested_at": "2026-04-18T20:28:02Z",
   "jurabk": "RAG 13",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "ec68f8800599e0d1001d37fe0b7d6ea58aac90782ac2c0ee1b33ce2aa36aa7bd"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Dreizehntes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen sowie über die Anpassung der Geldleistungen aus der gesetzlichen Unfallversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

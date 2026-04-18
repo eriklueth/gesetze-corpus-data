@@ -4,9 +4,11 @@
   "bjnr": "BJNR023160988",
   "eli": null,
   "gii_slug": "spraug",
-  "ingested_at": "2026-04-18T20:40:33Z",
   "jurabk": "SprAuG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "c21735f81c34faefa22e2b0a5d2e8d6cece07e17af022876b4c6e1e983cf08b0"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Sprecherausschüsse der leitenden Angestellten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR001010956",
   "eli": null,
   "gii_slug": "ebpensnog",
-  "ingested_at": "2026-04-18T20:31:56Z",
   "jurabk": "EBPensNOG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "4618b0dd60766a707577969efacf47a44aed3467f73447dcefd5be097ca815ba"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Neuordnung der Pensionskasse Deutscher Eisenbahnen und Straßenbahnen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

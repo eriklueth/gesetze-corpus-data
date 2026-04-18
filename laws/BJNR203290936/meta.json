@@ -4,9 +4,9 @@
   "bjnr": "BJNR203290936",
   "eli": null,
   "gii_slug": "rhistabkfindv",
-  "ingested_at": "2026-04-18T20:39:01Z",
   "jurabk": "RHiStAbkFINDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "245dd73d6e47468943651200450b3ece6263f5e92f70a119c42e69973663d4df"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung des Abkommens zwischen dem Deutschen Reich und der Republik Finnland über Rechtsschutz und Rechtshilfe in Steuersachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

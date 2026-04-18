@@ -4,9 +4,12 @@
   "bjnr": "BJNR072010016",
   "eli": null,
   "gii_slug": "zkg",
-  "ingested_at": "2026-04-18T20:43:15Z",
   "jurabk": "ZKG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 53
+  },
   "source_hashes": {
     "source_xml_sha256": "49370e1bfa650dd0ca419fd69c098255a6a558090ec166df56f4044ac9536aac"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gesetz über die Vergleichbarkeit von Zahlungskontoentgelten, den Wechsel von Zahlungskonten sowie den Zugang zu Zahlungskonten mit grundlegenden Funktionen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

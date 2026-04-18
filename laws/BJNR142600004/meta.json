@@ -4,9 +4,11 @@
   "bjnr": "BJNR142600004",
   "eli": null,
   "gii_slug": "egbes725_2003umsg",
-  "ingested_at": "2026-04-18T20:31:59Z",
   "jurabk": "EGBes725/2003UmsG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "56a08f3d9337b360f28dc9fd09b8bd19cd62133a2a83915fd3515ebeff7aa0aa"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Umsetzung des Beschlusses des Rates (2003/725/JI) vom 2. Oktober 2003 zur Änderung von Artikel 40 Abs. 1 und 7 des Übereinkommens zur Durchführung des Schengener Übereinkommens vom 14. Juni 1985 betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

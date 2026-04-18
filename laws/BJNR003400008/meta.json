@@ -4,9 +4,11 @@
   "bjnr": "BJNR003400008",
   "eli": null,
   "gii_slug": "babefugv_2008",
-  "ingested_at": "2026-04-18T20:29:17Z",
   "jurabk": "BABefugV 2008",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "1c136d097929c89f3567ca386a7765a035f65dd4d5b3354ce739111a3a211c2f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Übertragung der Befugnis zum Erlass von Rechtsverordnungen nach dem Dritten Buch Sozialgesetzbuch auf den Vorstand der Bundesagentur für Arbeit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

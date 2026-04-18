@@ -4,9 +4,11 @@
   "bjnr": "BJNR011920987",
   "eli": null,
   "gii_slug": "holzbhmstrv",
-  "ingested_at": "2026-04-18T20:34:31Z",
   "jurabk": "HolzbhMstrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "621c7bc69fcc959439b348d3527689b3f647fdbee4dc97b1fdda4a578daeac6b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Holzbildhauer-Handwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

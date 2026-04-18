@@ -4,9 +4,11 @@
   "bjnr": "BJNR200120930",
   "eli": null,
   "gii_slug": "schlheim_bkg",
-  "ingested_at": "2026-04-18T20:39:33Z",
   "jurabk": "SchLHeimÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "2b697aeb79747749237ffcbe67df2a16a8b120a2a6486a590661a0cf63d9049b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz betreffend das Internationale Übereinkommen über die Heimschaffung der Schiffsleute",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

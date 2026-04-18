@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR158700995",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "Estnisches Kontrollzeichen für Gegenstände aus Edelmetall",
@@ -10,6 +11,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "Estnisches Sicherheitszeichen für elektrische Geräte (blau oder schwarz)",

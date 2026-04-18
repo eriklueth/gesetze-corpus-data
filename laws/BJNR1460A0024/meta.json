@@ -4,9 +4,11 @@
   "bjnr": "BJNR1460A0024",
   "eli": null,
   "gii_slug": "ggart91c_ndvtr2g",
-  "ingested_at": "2026-04-18T20:33:56Z",
   "jurabk": "GGArt91cÄndVtr2G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "76440ae352df999f0705bf7ab4d9b9691c721b4561d76cda7c4a4b6e5fc1b7da"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zum Zweiten IT-Änderungsstaatsvertrag",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

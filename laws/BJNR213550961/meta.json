@@ -4,9 +4,9 @@
   "bjnr": "BJNR213550961",
   "eli": null,
   "gii_slug": "natotrstatzabkart45abs5abk",
-  "ingested_at": "2026-04-18T20:37:33Z",
   "jurabk": "NATOTrStatZAbkArt45Abs5Abk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f9b6b5e552a5ecfaf9b6942fa80b06c2f22f16ef2c8cad63eae8384efd445f9b"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zu Artikel 45 Abs. 5 des Zusatzabkommens zu dem Abkommen zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

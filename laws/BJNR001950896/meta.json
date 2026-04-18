@@ -4,9 +4,11 @@
   "bjnr": "BJNR001950896",
   "eli": null,
   "gii_slug": "bgb",
-  "ingested_at": "2026-04-18T20:30:00Z",
   "jurabk": "BGB",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2518
+  },
   "source_hashes": {
     "source_xml_sha256": "1cce54f5d6da2a40cd07f853c7d8f006a7a92c88707f5f4d868e95cfa1605230"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Bürgerliches Gesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

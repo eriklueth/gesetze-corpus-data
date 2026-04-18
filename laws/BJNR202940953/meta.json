@@ -4,9 +4,11 @@
   "bjnr": "BJNR202940953",
   "eli": null,
   "gii_slug": "jao_bk99g",
-  "ingested_at": "2026-04-18T20:35:06Z",
   "jurabk": "JAOÜbk99G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "0561bfc9358b8de85c68166e10deab91f6bb7f2298ea5aab805b49666a2123db"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz betreffend das Übereinkommen der Internationalen Arbeitsorganisation vom 28. Juni 1951 (Nr. 99) über die Verfahren zur Festsetzung von Mindestlöhnen in der Landwirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

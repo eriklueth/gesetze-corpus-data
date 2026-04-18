@@ -4,9 +4,11 @@
   "bjnr": "BJNR012840969",
   "eli": null,
   "gii_slug": "bho",
-  "ingested_at": "2026-04-18T20:30:03Z",
   "jurabk": "BHO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 124
+  },
   "source_hashes": {
     "source_xml_sha256": "b5e8448cdde9d51e03ada0e15ad5378fa9950590aa8d2111f7e9e03523e0a558"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Bundeshaushaltsordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

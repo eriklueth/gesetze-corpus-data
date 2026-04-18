@@ -4,9 +4,12 @@
   "bjnr": "BJNR392000021",
   "eli": null,
   "gii_slug": "aabgebv",
-  "ingested_at": "2026-04-18T20:28:17Z",
   "jurabk": "AABGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "611ba70362d5c5db40cfc92b5102628542005889cbd69f09bcb05c27acebc421"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Besondere Gebührenverordnung des Auswärtigen Amts für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

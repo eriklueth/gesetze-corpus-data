@@ -4,9 +4,11 @@
   "bjnr": "BJNR097500993",
   "eli": null,
   "gii_slug": "solzg_1995",
-  "ingested_at": "2026-04-18T20:40:12Z",
   "jurabk": "SolZG 1995",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "b0a238df0446b7cdea62eb0733389891a26f02596f6f75f350d9d3b9fb45b3a7"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Solidaritätszuschlaggesetz 1995",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR017620976",
   "eli": null,
   "gii_slug": "advermig_1976",
-  "ingested_at": "2026-04-18T20:28:25Z",
   "jurabk": "AdVermiG 1976",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "394f23456a44f21027d0c28f20ebcaa31ba1c2b412828911c64b11ff607a2216"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Vermittlung und Begleitung der Adoption und über das Verbot der Vermittlung von Ersatzmüttern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

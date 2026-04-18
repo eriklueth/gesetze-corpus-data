@@ -4,9 +4,12 @@
   "bjnr": "BJNR177600015",
   "eli": null,
   "gii_slug": "elektroggebv",
-  "ingested_at": "2026-04-18T20:32:13Z",
   "jurabk": "ElektroGGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "5c9d14d842e11a4b61161477a54b06878c4b2ab776d6694dae2c36277fca7b84"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Gebührenverordnung zum Elektro- und Elektronikgerätegesetz und zum Batterierecht-Durchführungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

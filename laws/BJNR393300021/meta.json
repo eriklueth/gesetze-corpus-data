@@ -4,9 +4,11 @@
   "bjnr": "BJNR393300021",
   "eli": null,
   "gii_slug": "seg",
-  "ingested_at": "2026-04-18T20:39:47Z",
   "jurabk": "SEG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 89
+  },
   "source_hashes": {
     "source_xml_sha256": "1bde175c037cf78bb16b1b9fa0a75502a426bbbd63da0646df5487ff2b0b5bb3"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Entschädigung der Soldatinnen und Soldaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

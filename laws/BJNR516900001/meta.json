@@ -4,9 +4,9 @@
   "bjnr": "BJNR516900001",
   "eli": null,
   "gii_slug": "luftvodv_205",
-  "ingested_at": "2026-04-18T20:36:10Z",
   "jurabk": "LuftVODV 205",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a4dc401c2b0d7d48239f20b6d1ee9d836c51ca7eb9ae24bfe028e22577b3f85f"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweihundertfünfte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Coburg-Brandensteinsebene)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

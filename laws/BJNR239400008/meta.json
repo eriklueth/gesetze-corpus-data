@@ -4,9 +4,12 @@
   "bjnr": "BJNR239400008",
   "eli": null,
   "gii_slug": "khfeverbg",
-  "ingested_at": "2026-04-18T20:41:09Z",
   "jurabk": "KHfEVerbG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "62e451b2f01b57cd21fc90f979ed35b28e8a279a846c1e4308d11882e4d5b7ba"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Durchführung unionsrechtlicher Vorschriften über Verbote und Beschränkungen hinsichtlich des Handels mit bestimmten tierischen Erzeugnissen sowie zu Haltungs- und Abgabeverboten in bestimmten Fällen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR002150951",
   "eli": null,
   "gii_slug": "eheschlrwirkgg",
-  "ingested_at": "2026-04-18T20:32:03Z",
   "jurabk": "EheschlRWirkgG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "68efc99260e46e34767efd9e7205cf00cd2e152e95d054b5cf8ce4c5d4450a8d"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Rechtswirkungen des Ausspruchs einer nachträglichen Eheschließung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

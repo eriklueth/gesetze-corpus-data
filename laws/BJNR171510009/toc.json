@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR171510009",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit",
         "Abschnitt 3 Etikettierung von Fleisch von weniger als zwölf Monate alten Rindern"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit",
         "Abschnitt 3 Etikettierung von Fleisch von weniger als zwölf Monate alten Rindern"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit",
         "Abschnitt 4 Ordnungswidrigkeiten, Schlussbestimmungen"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit",
         "Abschnitt 4 Ordnungswidrigkeiten, Schlussbestimmungen"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit",
         "Abschnitt 4 Ordnungswidrigkeiten, Schlussbestimmungen"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Begriffsbestimmungen, Nachweise zur Rückverfolgbarkeit",
         "Abschnitt 4 Ordnungswidrigkeiten, Schlussbestimmungen"

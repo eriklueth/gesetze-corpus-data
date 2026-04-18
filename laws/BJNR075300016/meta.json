@@ -4,9 +4,9 @@
   "bjnr": "BJNR075300016",
   "eli": null,
   "gii_slug": "m_nz20eurobek_2016-04-04_2",
-  "ingested_at": "2026-04-18T20:37:06Z",
   "jurabk": "Münz20EuroBek 2016-04-04/2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6af4caed73a9f4cc796b39e4b2259ec8ed4440af02b3100bd795c5a1dc1618a9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „125. Geburtstag Nelly Sachs“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

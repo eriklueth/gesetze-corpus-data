@@ -4,9 +4,11 @@
   "bjnr": "BJNR250140998",
   "eli": null,
   "gii_slug": "sterilentschaufhg",
-  "ingested_at": "2026-04-18T20:40:41Z",
   "jurabk": "SterilEntschAufhG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "555e7122e733b350fec0805f45fd5b80e803aabdeea7c4e8eaec31be1cdd50d1"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Aufhebung von Sterilisationsentscheidungen der ehemaligen Erbgesundheitsgerichte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

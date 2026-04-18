@@ -4,9 +4,12 @@
   "bjnr": "BJNR004710021",
   "eli": null,
   "gii_slug": "rohmilchg_tv",
-  "ingested_at": "2026-04-18T20:39:03Z",
   "jurabk": "RohmilchGütV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 39
+  },
   "source_hashes": {
     "source_xml_sha256": "159853a0bb8aeb6f2633584b1f0e24a9d40dded3b3244551086ef743e2e1f457"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung zur Förderung der Güte von Rohmilch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

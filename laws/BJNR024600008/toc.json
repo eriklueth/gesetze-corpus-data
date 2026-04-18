@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR024600008",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0001.md",
       "heading": "Änderung der Anlagen des Betäubungsmittelgesetzes",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0002.md",
       "heading": "Übergangsvorschrift",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0003.md",
       "heading": "Inkrafttreten",

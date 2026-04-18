@@ -4,9 +4,9 @@
   "bjnr": "BJNR503300960",
   "eli": null,
   "gii_slug": "bvwawehrpflano",
-  "ingested_at": "2026-04-18T20:31:13Z",
   "jurabk": "BVwAWehrpflAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2a459925990fe9eb87994d2f4df9e2e40cbe7acb1cdba3cf7c988f68ddd1dc42"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Wahrnehmung von Aufgaben durch das Bundesverwaltungsamt bei der Ermittlung von Wehrpflichtigen, die sich der Erfassung entziehen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

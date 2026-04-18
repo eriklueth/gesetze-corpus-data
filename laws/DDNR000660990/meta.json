@@ -4,9 +4,11 @@
   "bjnr": "DDNR000660990",
   "eli": null,
   "gii_slug": "partg_ddr",
-  "ingested_at": "2026-04-18T20:38:03Z",
   "jurabk": "PartG DDR",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "a478d630ae28628255740b2d09facb9c6e1608b412a9fe7127aba3144534ff44"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Parteien und andere politische Vereinigungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

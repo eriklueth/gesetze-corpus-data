@@ -4,9 +4,11 @@
   "bjnr": "BJNR207340982",
   "eli": null,
   "gii_slug": "grberichtvtrnld1g",
-  "ingested_at": "2026-04-18T20:34:15Z",
   "jurabk": "GrBerichtVtrNLD1G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "978abb2dcc9705a81f474dd610b95883352180dbe563ac9abd6a6c0cbaccb487"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Vertrag vom 30. Oktober 1980 zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande über Grenzberichtigungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

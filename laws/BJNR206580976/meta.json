@@ -4,9 +4,9 @@
   "bjnr": "BJNR206580976",
   "eli": null,
   "gii_slug": "erfpat_bk",
-  "ingested_at": "2026-04-18T20:32:24Z",
   "jurabk": "ErfPatÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "01a53a55cd70758a37444a1c4f8deaf57cf9e8d91ff79ed1411ca23d30d2cc72"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen zur Vereinheitlichung gewisser Begriffe des materiellen Rechts der Erfindungspatente",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

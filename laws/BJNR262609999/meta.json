@@ -4,9 +4,11 @@
   "bjnr": "BJNR262609999",
   "eli": null,
   "gii_slug": "gkvrefg_2000",
-  "ingested_at": "2026-04-18T20:34:00Z",
   "jurabk": "GKVRefG 2000",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "c56991ad60abb36e097e79f58254932115e88d749281a78d023ba0e9302e1e6e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Reform der gesetzlichen Krankenversicherung ab dem Jahr 2000",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

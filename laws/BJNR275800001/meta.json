@@ -4,9 +4,11 @@
   "bjnr": "BJNR275800001",
   "eli": null,
   "gii_slug": "tierschnutztv",
-  "ingested_at": "2026-04-18T20:41:13Z",
   "jurabk": "TierSchNutztV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 43
+  },
   "source_hashes": {
     "source_xml_sha256": "c246b8a99f70e32da935b6068aac4fa6a9d0de062798a9e76314736a3bba782d"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zum Schutz landwirtschaftlicher Nutztiere und anderer zur Erzeugung tierischer Produkte gehaltener Tiere bei ihrer Haltung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

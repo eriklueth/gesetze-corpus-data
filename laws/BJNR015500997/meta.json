@@ -4,9 +4,9 @@
   "bjnr": "BJNR015500997",
   "eli": null,
   "gii_slug": "aug_1abs2bek_21",
-  "ingested_at": "2026-04-18T20:29:05Z",
   "jurabk": "AUG§1Abs2Bek 21",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "90e611dfcc314dad69b9177fa771f44da4c6939ee99830f42050330c4c83b222"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Einundzwanzigste Bekanntmachung über die Feststellung der Gegenseitigkeit gemäß § 1 Abs. 2 des Auslandsunterhaltsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

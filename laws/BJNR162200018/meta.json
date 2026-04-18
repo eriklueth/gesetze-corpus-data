@@ -4,9 +4,12 @@
   "bjnr": "BJNR162200018",
   "eli": null,
   "gii_slug": "pflafinv",
-  "ingested_at": "2026-04-18T20:38:16Z",
   "jurabk": "PflAFinV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 29
+  },
   "source_hashes": {
     "source_xml_sha256": "6a373ffabeb8fdceb70d2c8fab7a578f5576975f9f60b8d6211c65392cb2b8e6"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Finanzierung der Ausbildungen nach dem Pflegeberufegesetz und nach dem Pflegefachassistenzgesetz sowie zur Durchführung statistischer Erhebungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

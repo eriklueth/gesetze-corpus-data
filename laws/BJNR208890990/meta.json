@@ -4,9 +4,12 @@
   "bjnr": "BJNR208890990",
   "eli": null,
   "gii_slug": "einigvtr",
-  "ingested_at": "2026-04-18T20:32:09Z",
   "jurabk": "EinigVtr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 237,
+    "article": 45
+  },
   "source_hashes": {
     "source_xml_sha256": "56b67b9da6f1d2859921ab9bd3b81ff11ee8777238fa4a06e900ce000904d262"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR006290984",
   "eli": null,
   "gii_slug": "fsstreckengv",
-  "ingested_at": "2026-04-18T20:33:27Z",
   "jurabk": "FSStreckenGV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "f479e98e4eae6e5b764b7ab9ecd564b01ebee1b6a42709a73ff4ab780276b23a"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Erhebung von Kosten für die Inanspruchnahme von Streckennavigations-Diensten und Streckennavigations-Einrichtungen der Flugsicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

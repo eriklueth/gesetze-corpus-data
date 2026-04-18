@@ -4,9 +4,11 @@
   "bjnr": "BJNR123400001",
   "eli": null,
   "gii_slug": "biomassev",
-  "ingested_at": "2026-04-18T20:30:10Z",
   "jurabk": "BiomasseV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "c90d1cf8a377c3d3d2a143393f0adfbf2e964d4d669e1f26a7b58fd63849a307"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Erzeugung von Strom aus Biomasse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

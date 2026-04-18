@@ -4,9 +4,12 @@
   "bjnr": "BJNR14D0A0025",
   "eli": null,
   "gii_slug": "dachdarbbv_13",
-  "ingested_at": "2026-04-18T20:28:01Z",
   "jurabk": "DachdArbbV 13",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "64d6223997664f18a51dc7709e177bef8926f9c564301da92f8d987c362e6ab8"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Dreizehnte Verordnung über zwingende Arbeitsbedingungen im Dachdeckerhandwerk",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

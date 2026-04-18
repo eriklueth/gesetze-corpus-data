@@ -4,9 +4,11 @@
   "bjnr": "BJNR293700007",
   "eli": null,
   "gii_slug": "wei_zuckerbhv",
-  "ingested_at": "2026-04-18T20:42:24Z",
   "jurabk": "WeißzuckerBhV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "2308a240d35ec1ef7f83d216477aaa6973f5667c03ce60b82cc3456e60de3300"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von Weißzucker",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

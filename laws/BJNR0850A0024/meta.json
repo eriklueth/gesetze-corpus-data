@@ -4,9 +4,11 @@
   "bjnr": "BJNR0850A0024",
   "eli": null,
   "gii_slug": "gapausnv_2",
-  "ingested_at": "2026-04-18T20:28:05Z",
   "jurabk": "GAPAusnV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "951187d32687dfb19595e0c6cf374b74d90bc3ecfb0a048352f79a145f8b7586"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung der im Rahmen der Gemeinsamen Agrarpolitik geltenden Ausnahmeregelung hinsichtlich der Anwendung des Standards Nummer 8 für den guten landwirtschaftlichen und ökologischen Zustand für das Antragsjahr 2024",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR149400022",
   "eli": null,
   "gii_slug": "ordenerl_2022",
-  "ingested_at": "2026-04-18T20:37:57Z",
   "jurabk": "OrdenErl 2022",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "35361d95cd1a0123591d39b8b6ce54e8b7d7553d2fb2f002c9d1b2b9489b2cb6"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlass über die Genehmigung der Stiftung und Verleihung von Orden und Ehrenzeichen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

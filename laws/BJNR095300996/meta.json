@@ -4,9 +4,9 @@
   "bjnr": "BJNR095300996",
   "eli": null,
   "gii_slug": "m_nz10dmbek_1996-05",
-  "ingested_at": "2026-04-18T20:36:56Z",
   "jurabk": "Münz10DMBek 1996-05",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f31a653e916e80323e588b9f3bcfca43e383cd665a9279d63f0302e5f854baa2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10 Deutschen Mark (Gedenkmünze zum 150. Jahrestag der Gründung des ersten katholischen Gesellenvereins in Elberfeld/das Lebenswerk von Adolph Kolping)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

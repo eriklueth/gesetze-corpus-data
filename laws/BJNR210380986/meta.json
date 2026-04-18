@@ -4,9 +4,11 @@
   "bjnr": "BJNR210380986",
   "eli": null,
   "gii_slug": "sozsichabk_ndabk2zabkturg",
-  "ingested_at": "2026-04-18T20:40:20Z",
   "jurabk": "SozSichAbkÄndAbk2ZAbkTURG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "c5ada90ff936319d7c627d07066ce84e4f448ce433403b94cd060dbf8ddda606"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Zusatzabkommen vom 2. November 1984 zum Abkommen vom 30. April 1964 zwischen der Bundesrepublik Deutschland und der Republik Türkei über Soziale Sicherheit und zu der Vereinbarung vom 2. November 1984 zur Durchführung des Abkommens",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

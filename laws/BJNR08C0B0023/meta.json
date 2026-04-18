@@ -4,9 +4,11 @@
   "bjnr": "BJNR08C0B0023",
   "eli": null,
   "gii_slug": "hinschg",
-  "ingested_at": "2026-04-18T20:34:29Z",
   "jurabk": "HinSchG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 42
+  },
   "source_hashes": {
     "source_xml_sha256": "35d3235a4e87cbc50f4cf028661f4bfc848b9c7f332218bda5d566c1be6d4de1"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz für einen besseren Schutz hinweisgebender Personen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

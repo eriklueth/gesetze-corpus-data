@@ -4,9 +4,11 @@
   "bjnr": "BJNR019210975",
   "eli": null,
   "gii_slug": "ggart45cg",
-  "ingested_at": "2026-04-18T20:33:52Z",
   "jurabk": "GGArt45cG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "cc2c1b58e5b9fcfa1e984c0dd25c56260a2f13d42a7152e36e180a5fb2b01a31"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Befugnisse des Petitionsausschusses des Deutschen Bundestages",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

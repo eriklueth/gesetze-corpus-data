@@ -4,9 +4,12 @@
   "bjnr": "BJNR163800004",
   "eli": null,
   "gii_slug": "sch_dlbekausbv",
-  "ingested_at": "2026-04-18T20:39:27Z",
   "jurabk": "SchädlBekAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 10
+  },
   "source_hashes": {
     "source_xml_sha256": "eca1a0c94793916d98d63816b3afb980e811d60fdde16a28e1ad45733702e640"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Schädlingsbekämpfer/zur Schädlingsbekämpferin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

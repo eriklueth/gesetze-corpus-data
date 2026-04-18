@@ -4,9 +4,12 @@
   "bjnr": "BJNR083000015",
   "eli": null,
   "gii_slug": "wfausbv",
-  "ingested_at": "2026-04-18T20:42:25Z",
   "jurabk": "WFAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "94e980e5f342da2478955ae2b9560553129b4fe26aac8b9789a6adde505efab1"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Werkfeuerwehrmann und zur Werkfeuerwehrfrau",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

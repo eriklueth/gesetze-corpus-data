@@ -4,9 +4,11 @@
   "bjnr": "BJNR507800968",
   "eli": null,
   "gii_slug": "tarifoaufhv",
-  "ingested_at": "2026-04-18T20:41:01Z",
   "jurabk": "TarifOAufhV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "52d8f25e2a07d5bd835033ff5e522e9c6ba3b0d2a9be90ce8f53f4ae92dc26e5"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Aufhebung von Tarifordnungen und Lohngestaltungsanordnungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

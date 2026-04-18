@@ -4,9 +4,9 @@
   "bjnr": "BJNR1980A0024",
   "eli": null,
   "gii_slug": "luftvodv_166_2025",
-  "ingested_at": "2026-04-18T20:36:06Z",
   "jurabk": "LuftVODV 166 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "0abb10549dff21a2640176dd622f66500ad6f756ffe664f4556cb2f1bcfdea04"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Hundertsechsundsechzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln zum und vom Flughafen Hamburg)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

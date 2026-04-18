@@ -4,9 +4,9 @@
   "bjnr": "BJNR631300024",
   "eli": null,
   "gii_slug": "vkfv_ndbek_2025",
-  "ingested_at": "2026-04-18T20:42:02Z",
   "jurabk": "VKFVÄndBek 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "dfb9217a05cd0c77b03109683625cf8aa3ccbc7c2b0c1c88c00bb39f1b066e33"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "DDNR115570990",
   "eli": null,
   "gii_slug": "feuao",
-  "ingested_at": "2026-04-18T20:33:03Z",
   "jurabk": "FeuAO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "13db365c571b610264170cd8ab8c41a08136ccf5dc4abb758b288aecd62e0d9f"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über Feuerungsanlagen, Anlagen zur Verteilung von Wärme und zur Warmwasserversorgung sowie Brennstofflagerung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

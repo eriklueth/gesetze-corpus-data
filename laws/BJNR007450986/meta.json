@@ -4,9 +4,11 @@
   "bjnr": "BJNR007450986",
   "eli": null,
   "gii_slug": "tgv_1986",
-  "ingested_at": "2026-04-18T20:41:09Z",
   "jurabk": "TGV 1986",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "3222150adaabd92a7759f29c392df8db1293afea21b9300ddcdc268052faeb01"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über das Trennungsgeld bei Versetzungen und Abordnungen im Inland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

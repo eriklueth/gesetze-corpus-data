@@ -4,9 +4,11 @@
   "bjnr": "BJNR354000002",
   "eli": null,
   "gii_slug": "ofdkoaufg_bertrv",
-  "ingested_at": "2026-04-18T20:37:53Z",
   "jurabk": "OFDKOAufgÜbertrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "b9c92b248a4be2896e10fcd83f76564208be3a7b20b2f3111ee3d311eb2cd4ad"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Koblenz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

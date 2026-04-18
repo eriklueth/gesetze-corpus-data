@@ -4,9 +4,11 @@
   "bjnr": "BJNR001930968",
   "eli": null,
   "gii_slug": "jabschlvuv",
-  "ingested_at": "2026-04-18T20:35:06Z",
   "jurabk": "JAbschlVUV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "ca71d65dc695e0d6a2bd8900cf86ea67ddf9bc78d889994c645d58fdd2344145"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gliederung des Jahresabschlusses von Verkehrsunternehmen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

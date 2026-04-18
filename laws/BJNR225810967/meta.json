@@ -4,9 +4,11 @@
   "bjnr": "BJNR225810967",
   "eli": null,
   "gii_slug": "sozsichabkgbrdvbgv",
-  "ingested_at": "2026-04-18T20:40:24Z",
   "jurabk": "SozSichAbkGBRDVbgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "983161406e3f7a7f75257a3b662c81ce8a097253a021606f094219be5d66dd81"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Durchführung der Vereinbarung vom 10. Dezember 1964 zur Durchführung des Abkommens vom 20. April 1960 zwischen der Bundesrepublik Deutschland und dem Vereinigten Königreich Großbritannien und Nordirland über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

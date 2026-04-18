@@ -4,9 +4,11 @@
   "bjnr": "BJNR025570988",
   "eli": null,
   "gii_slug": "kvlg_1989",
-  "ingested_at": "2026-04-18T20:35:42Z",
   "jurabk": "KVLG 1989",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 71
+  },
   "source_hashes": {
     "source_xml_sha256": "eb248d12638b58e841ee2425faf2b8d2182a1a18a635dce0868f2824b63596e4"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Zweites Gesetz über die Krankenversicherung der Landwirte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

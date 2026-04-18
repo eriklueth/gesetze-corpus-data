@@ -4,9 +4,12 @@
   "bjnr": "BJNR114800015",
   "eli": null,
   "gii_slug": "ledergerbausbv",
-  "ingested_at": "2026-04-18T20:35:47Z",
   "jurabk": "LederGerbAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "d93b9a77cf66e868931a10de0339a9a7de696b1daa5db8644b1926fac5e6abc6"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zur Fachkraft für Lederherstellung und Gerbereitechnik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

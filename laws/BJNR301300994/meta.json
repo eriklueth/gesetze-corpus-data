@@ -4,9 +4,11 @@
   "bjnr": "BJNR301300994",
   "eli": null,
   "gii_slug": "wzg_4efta_finbek",
-  "ingested_at": "2026-04-18T20:43:00Z",
   "jurabk": "WZG§4EFTA/FINBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "87b0a62f5e8814e340bc4832f90316698a700a21aa62557a935f5ecafa78815a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 4 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

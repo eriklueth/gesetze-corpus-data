@@ -4,9 +4,11 @@
   "bjnr": "BJNR275610020",
   "eli": null,
   "gii_slug": "itzbundg",
-  "ingested_at": "2026-04-18T20:35:02Z",
   "jurabk": "ITZBundG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "ef9f511a70636858070feb8c615e9aa7ccbcdc25bc2cc2e91724df935a944ac2"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Umwandlung des Informationstechnikzentrums Bund in eine nichtrechtsfähige Anstalt des öffentlichen Rechts",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

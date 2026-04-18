@@ -4,9 +4,9 @@
   "bjnr": "BJNR203790979",
   "eli": null,
   "gii_slug": "stgrenzvtr_aut",
-  "ingested_at": "2026-04-18T20:40:41Z",
   "jurabk": "StGrenzVtr AUT",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4a58124e4a68a638b7d5a166621af30c95e2ce9fc76afe855ffef1723a9cbfeb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österreich über den Verlauf der gemeinsamen Staatsgrenze im Grenzabschnitt \"Dreieckmark-Dandlbachmündung\" und in einem Teil des Grenzabschnittes \"Scheibelberg-Bodensee\" sowie über Befugnisse der Grenzkommission",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

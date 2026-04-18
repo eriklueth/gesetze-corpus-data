@@ -4,9 +4,11 @@
   "bjnr": "BJNR201060989",
   "eli": null,
   "gii_slug": "natkautschorgvorrv_1989",
-  "ingested_at": "2026-04-18T20:37:29Z",
   "jurabk": "NatKautschOrgVorRV 1989",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "fe5a7aa3d1ef7c35f6479e17bbe7f1a65f717f029249bc9903e95064690ff6f9"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung von Vorrechten und Immunitäten an die Internationale Naturkautschukorganisation",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

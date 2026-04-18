@@ -4,9 +4,9 @@
   "bjnr": "BJNR147020002",
   "eli": null,
   "gii_slug": "wpostvtr_1999",
-  "ingested_at": "2026-04-18T20:42:36Z",
   "jurabk": "WPostVtr 1999",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "1db4e772b3aaea42e2e92c80c1fe7b487c8bf9175d0344e72a045bd33ff880dc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Weltpostvertrag",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

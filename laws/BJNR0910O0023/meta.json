@@ -4,9 +4,11 @@
   "bjnr": "BJNR0910O0023",
   "eli": null,
   "gii_slug": "unaidsb_rovbgv",
-  "ingested_at": "2026-04-18T20:41:30Z",
   "jurabk": "UNAIDSBüroVbgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "cf54278b4b8e1e72f2a7ccb96fddf0d096b6c2a27c937ce215b5a18f134f0242"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen (UNV) über die Errichtung eines Büros des Gemeinsamen Programms der Vereinten Nationen für HIV/Aids (UNAIDS) in Bonn",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

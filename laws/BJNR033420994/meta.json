@@ -4,9 +4,9 @@
   "bjnr": "BJNR033420994",
   "eli": null,
   "gii_slug": "doping_bkg",
-  "ingested_at": "2026-04-18T20:31:50Z",
   "jurabk": "DopingÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6e68401bff5689efe21eacbfa5fd1181653c8dd7af364fde2db68f21837215dc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Übereinkommen vom 16. November 1989 gegen Doping",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

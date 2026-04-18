@@ -4,9 +4,11 @@
   "bjnr": "BJNR100150992",
   "eli": null,
   "gii_slug": "gr_ndstvtr_nw_rp",
-  "ingested_at": "2026-04-18T20:34:13Z",
   "jurabk": "GrÄndStVtr NW/RP",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "8938d798560aadb5d82d8923a76603f0c777fb682f1683037546bf3e302eb32c"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Staatsvertrag zwischen dem Land Nordrhein-Westfalen und dem Land Rheinland-Pfalz über die Änderung der gemeinsamen Landesgrenze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

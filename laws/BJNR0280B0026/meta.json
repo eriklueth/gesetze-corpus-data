@@ -4,9 +4,11 @@
   "bjnr": "BJNR0280B0026",
   "eli": null,
   "gii_slug": "bwbbg_2026",
-  "ingested_at": "2026-04-18T20:31:13Z",
   "jurabk": "BwBBG 2026",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "c949e072e9efb1205a1583d44ada266e650d2108813b50c83d9cfea5a316f85b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Beschleunigung von Beschaffungsmaßnahmen für die Bundeswehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR027410021",
   "eli": null,
   "gii_slug": "mtbg",
-  "ingested_at": "2026-04-18T20:36:44Z",
   "jurabk": "MTBG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 77
+  },
   "source_hashes": {
     "source_xml_sha256": "762c0451d76fb4ce5d68a1f285473463a6a7c6aedd43bb04040c0b519dd3fe09"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz über die Berufe in der medizinischen Technologie",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

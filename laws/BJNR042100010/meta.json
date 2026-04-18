@@ -4,9 +4,12 @@
   "bjnr": "BJNR042100010",
   "eli": null,
   "gii_slug": "milchtausbv",
-  "ingested_at": "2026-04-18T20:36:34Z",
   "jurabk": "MilchTAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "72b0320cae7a7e0c8448db4655c412a312df9bdd7853dfa4d022eb013f3e59b0"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Milchtechnologen/zur Milchtechnologin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

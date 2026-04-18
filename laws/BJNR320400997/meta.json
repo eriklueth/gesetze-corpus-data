@@ -4,9 +4,12 @@
   "bjnr": "BJNR320400997",
   "eli": null,
   "gii_slug": "frhfgrdegv_2",
-  "ingested_at": "2026-04-18T20:33:26Z",
   "jurabk": "FrHfGrDEGV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "f337e2a8e21e1b32d07ba809c5aa8936467c9fbab6750f69735f408d1ab2a57f"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Verordnung zur Änderung der Grenze des Freihafens Deggendorf",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

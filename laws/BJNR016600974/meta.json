@@ -4,9 +4,11 @@
   "bjnr": "BJNR016600974",
   "eli": null,
   "gii_slug": "zvalg",
-  "ingested_at": "2026-04-18T20:43:24Z",
   "jurabk": "ZVALG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "b8c749513627a205d176577755c81bb5e1bf24329bd42c738454fe394432f7b0"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Errichtung einer Zusatzversorgungskasse für Arbeitnehmer in der Land- und Forstwirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

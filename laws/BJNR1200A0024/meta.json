@@ -4,9 +4,9 @@
   "bjnr": "BJNR1200A0024",
   "eli": null,
   "gii_slug": "luftvodv_243_2025",
-  "ingested_at": "2026-04-18T20:36:17Z",
   "jurabk": "LuftVODV 243 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "dd178744cbfed3b0325090952db38e8a384fb9026e9c109ed626e431e947f7da"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Zweihundertdreiundvierzigste Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Regionalflughafen Magdeburg/Cochstedt)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

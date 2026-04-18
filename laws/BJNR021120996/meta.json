@@ -4,9 +4,9 @@
   "bjnr": "BJNR021120996",
   "eli": null,
   "gii_slug": "intzluftabkprot",
-  "ingested_at": "2026-04-18T20:34:57Z",
   "jurabk": "IntZLuftAbkProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4ebc9c09008671d9f49b4b0e23352305b6fce62da48c5bf37129545a05362d9d"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Protokoll zur Änderung des Abkommens über die internationale Zivilluftfahrt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

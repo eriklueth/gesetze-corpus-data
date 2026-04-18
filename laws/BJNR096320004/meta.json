@@ -4,9 +4,9 @@
   "bjnr": "BJNR096320004",
   "eli": null,
   "gii_slug": "rhivtr_can",
-  "ingested_at": "2026-04-18T20:39:01Z",
   "jurabk": "RHiVtr CAN",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b5e68759822902792000317bc73b22305291e8f2e4b01111547ef8249938b5a5"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und Kanada über die Rechtshilfe in Strafsachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

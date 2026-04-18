@@ -4,9 +4,12 @@
   "bjnr": "BJNR318210021",
   "eli": null,
   "gii_slug": "ebabgebv",
-  "ingested_at": "2026-04-18T20:31:55Z",
   "jurabk": "EBABGebV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "b3de236db4c5f9f8848d2e94361a1769398df603fca900e1ead1a30530a2ce03"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Besondere Gebührenverordnung des Bundesministeriums für Verkehr und digitale Infrastruktur für individuell zurechenbare öffentliche Leistungen des Eisenbahn-Bundesamtes, der benannten Stelle und der bestimmten Stelle",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

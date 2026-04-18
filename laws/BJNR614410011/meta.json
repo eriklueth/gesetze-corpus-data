@@ -4,9 +4,12 @@
   "bjnr": "BJNR614410011",
   "eli": null,
   "gii_slug": "lkw_berlstvausnv",
-  "ingested_at": "2026-04-18T20:35:51Z",
   "jurabk": "LKWÜberlStVAusnV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "734c2de03e2392ba6cf6ab94b7fc3307644263cb6d9425f81ddd79780e3c5825"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für Fahrzeuge und Fahrzeugkombinationen mit Überlänge",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

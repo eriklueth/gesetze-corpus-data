@@ -4,9 +4,12 @@
   "bjnr": "BJNR435000002",
   "eli": null,
   "gii_slug": "ggav_2002",
-  "ingested_at": "2026-04-18T20:33:56Z",
   "jurabk": "GGAV 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "0698cb338791a0d83a5a2d50e6a4d7fae063d6b646975785bb7aeb9df5910d7b"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über Ausnahmen von den Vorschriften über die Beförderung gefährlicher Güter",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

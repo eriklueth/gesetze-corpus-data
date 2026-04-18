@@ -4,9 +4,11 @@
   "bjnr": "BJNR196400020",
   "eli": null,
   "gii_slug": "wdobezv_2020",
-  "ingested_at": "2026-04-18T20:42:22Z",
   "jurabk": "WDOBezV 2020",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "440b9544203a8b45af8970ada94d3b6b852ed68a8fb2d17c455a69fa765ff8f3"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur Bestimmung der Bezüge im Sinne der Wehrdisziplinarordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR002510995",
   "eli": null,
   "gii_slug": "patg_41abs2bek",
-  "ingested_at": "2026-04-18T20:38:06Z",
   "jurabk": "PatG§41Abs2Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "f292c4a1d1e0f6891b3b9069924ac335b91e56d3ef5d2d7c7e166a6a5d071e95"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 41 Abs. 2 des Patentgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

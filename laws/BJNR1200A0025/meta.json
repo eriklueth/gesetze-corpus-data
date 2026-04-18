@@ -4,9 +4,11 @@
   "bjnr": "BJNR1200A0025",
   "eli": null,
   "gii_slug": "bapoerm_v",
-  "ingested_at": "2026-04-18T20:29:24Z",
   "jurabk": "BAPOErmÜV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "5892370e1c5920ffd2b7b0b6e7ba620eac85a3e99bff8320b990c494274c8020"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Übertragung der Ermächtigung zum Erlass von Prüfungsordnungen durch die Zentrale der Bundesagentur für Arbeit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

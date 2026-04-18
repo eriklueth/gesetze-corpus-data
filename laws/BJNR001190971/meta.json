@@ -4,9 +4,9 @@
   "bjnr": "BJNR001190971",
   "eli": null,
   "gii_slug": "bpr_samtsbezano_1971-02",
-  "ingested_at": "2026-04-18T20:30:40Z",
   "jurabk": "BPräsAmtsbezAnO 1971-02",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "937bc89a33add8bcece694360c8121a0a9424ba1345c1fd849ae2ec67c95ed33"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über die Festsetzung von Amtsbezeichnungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

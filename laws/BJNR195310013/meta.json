@@ -4,9 +4,12 @@
   "bjnr": "BJNR195310013",
   "eli": null,
   "gii_slug": "pflschsachkv_2013",
-  "ingested_at": "2026-04-18T20:38:21Z",
   "jurabk": "PflSchSachkV 2013",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 5,
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "a490fe52f1a55de8fce240f3d725c25a79708e0dd8dbaf3205efeeac5985a48b"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Pflanzenschutz-Sachkundeverordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

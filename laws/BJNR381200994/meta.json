@@ -4,9 +4,11 @@
   "bjnr": "BJNR381200994",
   "eli": null,
   "gii_slug": "wahrnv_1994",
-  "ingested_at": "2026-04-18T20:42:14Z",
   "jurabk": "WahrnV 1994",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "1fb5857256c6ec714a4252807a878d60ba7d11496d5da1c3df0171f09b5c23a6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Wahrnehmung einzelner den Prüfungsstellen, der Gebrauchsmusterstelle, den Markenstellen und den Abteilungen des Patentamts obliegender Geschäfte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

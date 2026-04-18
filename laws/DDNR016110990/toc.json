@@ -1,8 +1,9 @@
 {
   "bjnr": "DDNR016110990",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -52,6 +57,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -62,6 +68,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -72,6 +79,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -82,6 +90,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -92,6 +101,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -102,6 +112,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -112,6 +123,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -122,6 +134,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -132,6 +145,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -142,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -152,6 +167,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -162,6 +178,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil II Bauvorschriften"
@@ -172,6 +189,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil III Betriebsvorschriften"
@@ -182,6 +200,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil III Betriebsvorschriften"
@@ -192,6 +211,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil IV Zusätzliche Bauvorlagen, Prüfungen"
@@ -202,6 +222,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil IV Zusätzliche Bauvorlagen, Prüfungen"
@@ -212,6 +233,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil V Schlußvorschriften"
@@ -222,6 +244,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil V Schlußvorschriften"
@@ -232,6 +255,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil V Schlußvorschriften"
@@ -242,6 +266,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil I Allgemeine Vorschriften",
         "Teil V Schlußvorschriften"

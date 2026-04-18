@@ -4,9 +4,11 @@
   "bjnr": "BJNR082800016",
   "eli": null,
   "gii_slug": "sichlvfinv_2016",
-  "ingested_at": "2026-04-18T20:40:00Z",
   "jurabk": "SichLVFinV 2016",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "36baa8560473c9ab8e2ac8b4035e872cca8afebdc7d831fcfce373831c1d8282"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Finanzierung des Sicherungsfonds für die Lebensversicherer",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

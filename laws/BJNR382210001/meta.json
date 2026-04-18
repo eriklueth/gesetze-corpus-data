@@ -4,9 +4,11 @@
   "bjnr": "BJNR382210001",
   "eli": null,
   "gii_slug": "wp_g",
-  "ingested_at": "2026-04-18T20:42:37Z",
   "jurabk": "WpÜG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 76
+  },
   "source_hashes": {
     "source_xml_sha256": "aff8bf4b0776c19e1c8d74084f4690ed0235af748411106e11ff8cf4292b549e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Wertpapiererwerbs- und Übernahmegesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

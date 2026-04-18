@@ -4,9 +4,11 @@
   "bjnr": "BJNR113890992",
   "eli": null,
   "gii_slug": "kgug",
-  "ingested_at": "2026-04-18T20:35:18Z",
   "jurabk": "KGUG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "92568e7eea4a5623d015ac7957cf66d8783164c5cab4a1c87b7e8a149b4aa7fe"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die nachträgliche Umstellung von Mark der Deutschen Demokratischen Republik auf Deutsche Mark für Kontoguthaben natürlicher Personen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR033700993",
   "eli": null,
   "gii_slug": "wostatg",
-  "ingested_at": "2026-04-18T20:42:30Z",
   "jurabk": "WoStatG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "55c284b496ab3320afc7c20e27a349308cd43710d86d998161373241fba809bd"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über gebäude- und wohnungsstatistische Erhebungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

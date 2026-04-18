@@ -4,9 +4,11 @@
   "bjnr": "BJNR203260990",
   "eli": null,
   "gii_slug": "atsch_bkg",
-  "ingested_at": "2026-04-18T20:29:00Z",
   "jurabk": "AtSchÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "d115160bc954db0630ab5447d6d2e7707c476ebb177d6a550c08f5f54c307e68"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 26. Oktober 1979 über den physischen Schutz von Kernmaterial",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

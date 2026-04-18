@@ -4,9 +4,11 @@
   "bjnr": "BJNR022200018",
   "eli": null,
   "gii_slug": "hdbalbv",
-  "ingested_at": "2026-04-18T20:34:24Z",
   "jurabk": "HdBALBV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "1e1aebae8c8eedd04df3348c10d4e4d6c1eb82bd095adfbcd2957069fc72b169"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Leistungsbezüge und Zulagen an der Hochschule der Bundesagentur für Arbeit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

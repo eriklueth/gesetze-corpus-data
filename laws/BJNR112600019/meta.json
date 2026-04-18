@@ -4,9 +4,11 @@
   "bjnr": "BJNR112600019",
   "eli": null,
   "gii_slug": "ggart91c_ndvtr1g",
-  "ingested_at": "2026-04-18T20:33:56Z",
   "jurabk": "GGArt91cÄndVtr1G",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "f0d969943cbe376308dd6b5071deba7cea9318761db6eb273e7fe7a15c4937a9"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zum Ersten IT-Änderungsstaatsvertrag",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

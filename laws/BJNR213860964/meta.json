@@ -4,9 +4,9 @@
   "bjnr": "BJNR213860964",
   "eli": null,
   "gii_slug": "eurhi_bk",
-  "ingested_at": "2026-04-18T20:32:42Z",
   "jurabk": "EuRHiÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "e426c7c19cc538b222af8c3065e68724b21b9018897564d65cee53e97b8c5359"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Europäische Übereinkommen über die Rechtshilfe in Strafsachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

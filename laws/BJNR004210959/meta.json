@@ -4,9 +4,11 @@
   "bjnr": "BJNR004210959",
   "eli": null,
   "gii_slug": "versansprreglg_ndg",
-  "ingested_at": "2026-04-18T20:41:50Z",
   "jurabk": "VersAnsprReglGÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "26f454e6940a744754bb9998f02985a19e8eeb1d6972c8965986d04696f1c934"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Änderung und Ergänzung des Gesetzes zur Regelung von Ansprüchen aus Lebens- und Rentenversicherungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

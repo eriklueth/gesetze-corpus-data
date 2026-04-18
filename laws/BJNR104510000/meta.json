@@ -4,9 +4,12 @@
   "bjnr": "BJNR104510000",
   "eli": null,
   "gii_slug": "ifsg",
-  "ingested_at": "2026-04-18T20:34:43Z",
   "jurabk": "IfSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 89
+  },
   "source_hashes": {
     "source_xml_sha256": "3a168b1bc9df6a0df6b9a06f9c5a17a8b66241f7be1828661514c64fe72f3ff9"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

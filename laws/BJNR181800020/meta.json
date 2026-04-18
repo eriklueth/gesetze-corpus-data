@@ -4,9 +4,11 @@
   "bjnr": "BJNR181800020",
   "eli": null,
   "gii_slug": "kohleausg",
-  "ingested_at": "2026-04-18T20:35:26Z",
   "jurabk": "KohleAusG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "efd29a6bcfda9e7bbb593e8de1c6c3847524ab1a6405db167e2771d9cc84947f"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung und zur Änderung weiterer Gesetze",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

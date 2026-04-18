@@ -4,9 +4,9 @@
   "bjnr": "BJNR201060961",
   "eli": null,
   "gii_slug": "vermrglabk_irn",
-  "ingested_at": "2026-04-18T20:41:46Z",
   "jurabk": "VermRglAbk IRN",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b7f041e09f983600ac186d1b424386944642c52288334f0148af58fab03a6915"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Kaiserreich Iran über die Liquidation des früheren deutsch-iranischen Verrechnungsverkehrs",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR003540954",
   "eli": null,
   "gii_slug": "lfbag",
-  "ingested_at": "2026-04-18T20:35:51Z",
   "jurabk": "LFBAG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "4c1ee1e7b7559b6736a55058bdffddc9c35f088cb7d50ce9f3408d46f506175b"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das Luftfahrt-Bundesamt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

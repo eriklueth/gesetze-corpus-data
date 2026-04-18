@@ -4,9 +4,11 @@
   "bjnr": "BJNR1070O0025",
   "eli": null,
   "gii_slug": "unfrb_rovbgv",
-  "ingested_at": "2026-04-18T20:41:30Z",
   "jurabk": "UNFrBüroVbgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "72e664a9296dcfec48629b9cfd10defb7aaf2237edc881a4d036ebf36c816a97"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen über die Errichtung eines Büros der Einheit der Vereinten Nationen für Gleichstellung und Stärkung der Frauen (UN-Frauen) in Bonn",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

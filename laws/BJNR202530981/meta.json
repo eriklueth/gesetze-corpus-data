@@ -4,9 +4,11 @@
   "bjnr": "BJNR202530981",
   "eli": null,
   "gii_slug": "afrentwbk_bkg",
-  "ingested_at": "2026-04-18T20:28:29Z",
   "jurabk": "AfrEntwBkÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "b825a553c5d99b397d24c9623f8b0c1461debd7e149e4bf0f2dafc899b5fddfd"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Übereinkommen vom 4. August 1963 zur Errichtung der Afrikanischen Entwicklungsbank",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

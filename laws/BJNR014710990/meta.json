@@ -4,9 +4,11 @@
   "bjnr": "BJNR014710990",
   "eli": null,
   "gii_slug": "milchmargg",
-  "ingested_at": "2026-04-18T20:36:33Z",
   "jurabk": "MilchMargG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 17
+  },
   "source_hashes": {
     "source_xml_sha256": "f2d6b25b0cf26de0befe84381d039bb9ac3436d8e32ece12b59c26d295596296"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über Milch, Milcherzeugnisse, Margarineerzeugnisse und ähnliche Erzeugnisse",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

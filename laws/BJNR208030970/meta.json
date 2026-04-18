@@ -4,9 +4,9 @@
   "bjnr": "BJNR208030970",
   "eli": null,
   "gii_slug": "iao_bk_118",
-  "ingested_at": "2026-04-18T20:34:39Z",
   "jurabk": "IAOÜbk 118",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "265591c252898b52ccc73367bea90b33888cd0a18da96324d94e3bd15b147e80"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen Nr. 118 (der Internationalen Arbeitsorganisation) über die Gleichbehandlung von Inländern und Ausländern in der Sozialen Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

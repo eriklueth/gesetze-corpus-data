@@ -4,9 +4,11 @@
   "bjnr": "BJNR254800994",
   "eli": null,
   "gii_slug": "erholnutzg",
-  "ingested_at": "2026-04-18T20:32:24Z",
   "jurabk": "ErholNutzG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "745a5bcee61bfa0f10ceb84b42af784bcfd2485f191f3a3b06eb9e7a56069461"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Bereinigung der im Beitrittsgebiet zu Erholungszwecken verliehenen Nutzungsrechte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

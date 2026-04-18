@@ -4,9 +4,11 @@
   "bjnr": "BJNR006410952",
   "eli": null,
   "gii_slug": "binschgerg",
-  "ingested_at": "2026-04-18T20:30:06Z",
   "jurabk": "BinSchGerG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 30
+  },
   "source_hashes": {
     "source_xml_sha256": "cda0c5a9a39cccce33838f07d14a8bfaec3be65396f8f98dbc1b981a8a0fa3ce"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über das gerichtliche Verfahren in Binnenschiffahrtssachen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR060500016",
   "eli": null,
   "gii_slug": "prodsg2011v_12",
-  "ingested_at": "2026-04-18T20:28:01Z",
   "jurabk": "ProdSG2011V 12",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "8f5720aff83dba7c43ec3bbfa09e241ea3408489275ebd7aaa28524c85918f0b"
   },
@@ -30,5 +32,5 @@
     }
   ],
   "title": "Zwölfte Verordnung zum Produktsicherheitsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

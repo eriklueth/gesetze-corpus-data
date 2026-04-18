@@ -4,9 +4,12 @@
   "bjnr": "BJNR0910B0025",
   "eli": null,
   "gii_slug": "auslzuschlv_2025",
-  "ingested_at": "2026-04-18T20:29:13Z",
   "jurabk": "AuslZuschlV 2025",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "bf4b872ee42a9de90d9e817ea8cb66d676d5abe8cf17f81c1b833f65b1873435"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung von Auslandszuschlägen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

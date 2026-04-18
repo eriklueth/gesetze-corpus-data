@@ -4,9 +4,11 @@
   "bjnr": "BJNR215210017",
   "eli": null,
   "gii_slug": "entgtranspg",
-  "ingested_at": "2026-04-18T20:32:18Z",
   "jurabk": "EntgTranspG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 25
+  },
   "source_hashes": {
     "source_xml_sha256": "2d6205ff3d383996580f1e1eb42f34ec6091ecc90e18524d6a89d3d36e8adda6"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Förderung der Entgelttransparenz zwischen Frauen und Männern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

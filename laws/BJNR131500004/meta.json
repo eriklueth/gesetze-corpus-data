@@ -4,9 +4,11 @@
   "bjnr": "BJNR131500004",
   "eli": null,
   "gii_slug": "hwo_5aabs2v",
-  "ingested_at": "2026-04-18T20:34:35Z",
   "jurabk": "HwO§5aAbs2V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "a7be77302ec004b316a504f811eacc3b55900c66a496e58aeaf3f04cce83a763"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über den automatisierten Datenabruf der Handwerkskammern nach § 5a Abs. 2 der Handwerksordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

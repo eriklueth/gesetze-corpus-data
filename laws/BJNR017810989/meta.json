@@ -4,9 +4,11 @@
   "bjnr": "BJNR017810989",
   "eli": null,
   "gii_slug": "hzvv_7",
-  "ingested_at": "2026-04-18T20:34:39Z",
   "jurabk": "HZvV 7",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "9bd6c06c4d39e6f786219068353f285e0fed96da28cef5e8a63f709c3ececeb5"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Siebte Verordnung über die Versicherung von Arbeitnehmern in der hüttenknappschaftlichen Zusatzversicherung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

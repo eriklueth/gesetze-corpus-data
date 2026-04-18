@@ -4,9 +4,11 @@
   "bjnr": "BJNR216700016",
   "eli": null,
   "gii_slug": "ravpv",
-  "ingested_at": "2026-04-18T20:38:46Z",
   "jurabk": "RAVPV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "83a17c38323b634c990aa76280b97f11a555fbc8c14d74140780dfeff359c2ee"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Rechtsanwaltsverzeichnisse und die besonderen elektronischen Anwaltspostfächer",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

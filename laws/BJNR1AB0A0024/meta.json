@@ -4,9 +4,12 @@
   "bjnr": "BJNR1AB0A0024",
   "eli": null,
   "gii_slug": "heimeinv",
-  "ingested_at": "2026-04-18T20:34:24Z",
   "jurabk": "HeimEinV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "cf43312d7f7c7dc2081762d542b63635042fb621a1d05affe1a17bc127da99e1"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Einreiseorte gemäß Artikel 34 Absatz 3 der Verordnung (EU) Nr. 576/2013",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

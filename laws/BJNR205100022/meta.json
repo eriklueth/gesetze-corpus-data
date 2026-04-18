@@ -4,9 +4,11 @@
   "bjnr": "BJNR205100022",
   "eli": null,
   "gii_slug": "ewsg",
-  "ingested_at": "2026-04-18T20:32:56Z",
   "jurabk": "EWSG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "931568ce836c649c804be940d0f9edde033c62f962a423e5427445d8fd9c6d55"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über eine Soforthilfe für Letztverbraucher von leitungsgebundenem Erdgas und Kunden von Wärme",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

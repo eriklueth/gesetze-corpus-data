@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR235300994",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen"
       ],
@@ -39,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen"
       ],
@@ -48,6 +53,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen"
       ],
@@ -57,6 +63,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen"
       ],
@@ -66,6 +73,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 2 Besoldungsrechtliche Regelungen"
@@ -76,6 +84,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 2 Besoldungsrechtliche Regelungen"
@@ -86,6 +95,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 2 Besoldungsrechtliche Regelungen"
@@ -96,6 +106,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 2 Besoldungsrechtliche Regelungen"
@@ -106,6 +117,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 3 Reise- und umzugskostenrechtliche Regelungen"
@@ -116,6 +128,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 3 Reise- und umzugskostenrechtliche Regelungen"
@@ -126,6 +139,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 4 Versorgungs- und beihilferechtliche Regelungen"
@@ -136,6 +150,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 4 Versorgungs- und beihilferechtliche Regelungen"
@@ -146,6 +161,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 4 Versorgungs- und beihilferechtliche Regelungen"
@@ -156,6 +172,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 4 Versorgungs- und beihilferechtliche Regelungen"
@@ -166,6 +183,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 4 Versorgungs- und beihilferechtliche Regelungen"
@@ -176,6 +194,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 4 Versorgungs- und beihilferechtliche Regelungen"
@@ -186,6 +205,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 5 (weggefallen)"
@@ -196,6 +216,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 6 Rechtsaufsicht"
@@ -206,6 +227,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 7 (weggefallen)"
@@ -216,6 +238,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 7 (weggefallen)"
@@ -226,6 +249,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 7 (weggefallen)"
@@ -236,6 +260,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -246,6 +271,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 0,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -256,6 +282,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -266,6 +293,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -276,6 +304,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -286,6 +315,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 9,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -296,6 +326,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -306,6 +337,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -316,6 +348,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -326,6 +359,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -336,6 +370,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -346,6 +381,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -356,6 +392,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -366,6 +403,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 8 Betriebliche Interessenvertretungen"
@@ -376,6 +414,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 9 Rechtsverhältnisse der Postnachfolgeunternehmen"
@@ -386,6 +425,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Allgemeine dienstrechtliche Regelungen",
         "Abschnitt 9 Rechtsverhältnisse der Postnachfolgeunternehmen"

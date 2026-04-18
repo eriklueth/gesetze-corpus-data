@@ -4,9 +4,11 @@
   "bjnr": "BJNR109650973",
   "eli": null,
   "gii_slug": "grstg_1973",
-  "ingested_at": "2026-04-18T20:34:18Z",
   "jurabk": "GrStG 1973",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 38
+  },
   "source_hashes": {
     "source_xml_sha256": "9fd3a1f29a62e03d7478df6c1962a66658659a0ab4dd08f0042d2c99c6fec817"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Grundsteuergesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

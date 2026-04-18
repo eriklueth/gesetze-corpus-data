@@ -4,9 +4,12 @@
   "bjnr": "BJNR05D0B0025",
   "eli": null,
   "gii_slug": "gosiausbv",
-  "ingested_at": "2026-04-18T20:34:08Z",
   "jurabk": "GoSiAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 27
+  },
   "source_hashes": {
     "source_xml_sha256": "ae2822ff250c550f4e654bee15490827c590ce61988fa55d6a83a3b66f61b368"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Gold- und Silberschmied und zur Gold- und Silberschmiedin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR416800013",
   "eli": null,
   "gii_slug": "solvv_2014",
-  "ingested_at": "2026-04-18T20:40:12Z",
   "jurabk": "SolvV 2014",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 33
+  },
   "source_hashes": {
     "source_xml_sha256": "210f8713b98fe17e8e8a2eae6b1b089fb22d6ab1a7d213251532fc3b3b5c53c5"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur angemessenen Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

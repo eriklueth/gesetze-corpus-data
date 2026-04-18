@@ -4,9 +4,12 @@
   "bjnr": "BJNR392600017",
   "eli": null,
   "gii_slug": "ecomkflausbv",
-  "ingested_at": "2026-04-18T20:31:56Z",
   "jurabk": "EComKflAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "20352cf42ebaf4e9da609650c46ffcc6a47c478d5d8851818f156a4126b8694f"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Berufsausbildung zum Kaufmann im E-Commerce und zur Kauffrau im E-Commerce",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

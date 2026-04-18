@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR350800998",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(Anlage VIII des BBesG)",
@@ -10,6 +11,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(Anlage IX des BBesG)",

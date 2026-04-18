@@ -4,9 +4,11 @@
   "bjnr": "BJNR256410011",
   "eli": null,
   "gii_slug": "fpfzg",
-  "ingested_at": "2026-04-18T20:33:24Z",
   "jurabk": "FPfZG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "491b3d7a1a5543b5fa7b335b9dd253491ecd49a3d455d90e4a973789a4637b8a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Familienpflegezeit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

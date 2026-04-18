@@ -4,9 +4,9 @@
   "bjnr": "BJNR200220953",
   "eli": null,
   "gii_slug": "fordrglabk_che",
-  "ingested_at": "2026-04-18T20:33:20Z",
   "jurabk": "FordRglAbk CHE",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "11414871c1d50dfcc6b56e55f31562337ecf7dec5013ff2fe9ef98400ee9acdb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und der Schweizerischen Eidgenossenschaft über die Regelung der Forderungen der Schweizerischen Eidgenossenschaft gegen das ehemalige Deutsche Reich",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR041700009",
   "eli": null,
   "gii_slug": "kbnanrg",
-  "ingested_at": "2026-04-18T20:35:13Z",
   "jurabk": "KBNAnrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "80fe76b1332960c35a38b82fbebdee4239bcc5575519f7a96bacb46765074c86"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Gesetz zur Nichtanrechnung und Nichtberücksichtigung des Kinderbonus",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

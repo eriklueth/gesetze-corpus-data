@@ -4,9 +4,11 @@
   "bjnr": "BJNR063800998",
   "eli": null,
   "gii_slug": "sgg_ndg_5",
-  "ingested_at": "2026-04-18T20:28:17Z",
   "jurabk": "SGGÄndG 5",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "bb2af4cf751563e4a57ce788e9aae89c83f38992b6d8665f141e2888b02d3b77"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Fünftes Gesetz zur Änderung des Sozialgerichtsgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

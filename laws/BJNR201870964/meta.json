@@ -4,9 +4,9 @@
   "bjnr": "BJNR201870964",
   "eli": null,
   "gii_slug": "unsorgvorrabkg_ndg_2",
-  "ingested_at": "2026-04-18T20:41:33Z",
   "jurabk": "UNSOrgVorRAbkGÄndG 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c66bdc87dd6f9d6c8b76d96256ce9f6e2ebb5cf290652afda9952276ca6fd277"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweites Gesetz zur Änderung des Gesetzes vom 22. Juni 1954 über den Beitritt der Bundesrepublik Deutschland zum Abkommen über die Vorrechte und Befreiungen der Sonderorganisationen der Vereinten Nationen vom 21. November 1947 und über die Gewährung von Vorrechten und Befreiungen an andere zwischen-staatliche Organisationen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

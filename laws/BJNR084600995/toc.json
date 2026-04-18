@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR084600995",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Abschnitt 1 Begebung"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begebung"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Begebung",
         "Abschnitt 2 Zuteilung und Verwaltung"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begebung",
         "Abschnitt 2 Zuteilung und Verwaltung"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Begebung",
         "Abschnitt 2 Zuteilung und Verwaltung"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begebung",
         "Abschnitt 2 Zuteilung und Verwaltung"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begebung",
         "Abschnitt 2 Zuteilung und Verwaltung"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begebung",
         "Abschnitt 2 Zuteilung und Verwaltung"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Begebung",
         "Abschnitt 2 Zuteilung und Verwaltung"

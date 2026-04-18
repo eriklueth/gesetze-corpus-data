@@ -4,9 +4,11 @@
   "bjnr": "BJNR270500009",
   "eli": null,
   "gii_slug": "konshilfg",
-  "ingested_at": "2026-04-18T20:35:26Z",
   "jurabk": "KonsHilfG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "174646cf8febce27105c0b0aaf101321fcb380cf8f9d3e558d0c2c48a5827553"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Gewährung von Konsolidierungshilfen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

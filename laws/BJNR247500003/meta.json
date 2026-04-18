@@ -4,9 +4,11 @@
   "bjnr": "BJNR247500003",
   "eli": null,
   "gii_slug": "altfabwg",
-  "ingested_at": "2026-04-18T20:28:41Z",
   "jurabk": "AltfAbwG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "6f8e4c30d73f8e4b5aa960533266e32d4e945a74a35b43d2c94868c11e20c155"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur beschleunigten Abwicklung einiger Altforderungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

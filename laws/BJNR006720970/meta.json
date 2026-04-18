@@ -4,9 +4,9 @@
   "bjnr": "BJNR006720970",
   "eli": null,
   "gii_slug": "bpr_skldgbwschano",
-  "ingested_at": "2026-04-18T20:30:43Z",
   "jurabk": "BPräsKldgBWSchAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b0d41948bb88bdd1643a35cba84fb0cb586626c2ebe7a89694ec4974710d8274"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der beamteten Besatzungsangehörigen auf Hilfsschiffen der Bundeswehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,11 @@
   "bjnr": "BJNR052700995",
   "eli": null,
   "gii_slug": "anerksparkausbaufhv",
-  "ingested_at": "2026-04-18T20:28:49Z",
   "jurabk": "AnerkSparkAusbAufhV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "557475237fafd22cfe283e1efa4b58444a8a51a1ac5b943b2bac69ac03880a6b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Aufhebung der staatlichen Anerkennung des Ausbildungsberufs Sparkassenkaufmann/Sparkassenkauffrau",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

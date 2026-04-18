@@ -4,9 +4,11 @@
   "bjnr": "BJNR174220998",
   "eli": null,
   "gii_slug": "intelsat_bk_ndg",
-  "ingested_at": "2026-04-18T20:34:52Z",
   "jurabk": "INTELSATÜbkÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "cd81717b86b6e0eeb3afb2069e552bdd2eb97585afbb0bb23ae9bcdd526622ae"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu den Änderungen vom 1. September 1995 des Übereinkommens über die Internationale Fernmeldesatellitenorganisation \"INTELSAT\"",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR105320967",
   "eli": null,
   "gii_slug": "beamthaftnorbek",
-  "ingested_at": "2026-04-18T20:29:37Z",
   "jurabk": "BeamtHaftNORBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "2c32829edaf4bd36bcea0db4c19674b92aba1ac7e9a91e885ab3ebd594a9a487"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Haftung der Bundesrepublik Deutschland für ihre Beamten gegenüber den Angehörigen des Königreichs Norwegen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR505500961",
   "eli": null,
   "gii_slug": "baasaareinfdv",
-  "ingested_at": "2026-04-18T20:29:17Z",
   "jurabk": "BAASaarEinfDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "4ccad187855c52a6cabf58b473f2ec514e2bcb8c21a1b4fa31897aa89c68454c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Rechtsverordnung des Präsidenten des Bundesausgleichsamtes zur Einführung von Rechtsverordnungen im Saarland",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

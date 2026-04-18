@@ -4,9 +4,12 @@
   "bjnr": "BJNR0CD0A0025",
   "eli": null,
   "gii_slug": "bapronotfprv",
-  "ingested_at": "2026-04-18T20:29:25Z",
   "jurabk": "BAProNotFPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "8e73ed9b91d3b77ed07bdec9ff78d6983eb3a710eec6b80b78ebfa0c0b979b52"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Bachelor Professional im Notariat",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

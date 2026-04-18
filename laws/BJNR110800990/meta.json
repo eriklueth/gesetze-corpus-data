@@ -4,9 +4,11 @@
   "bjnr": "BJNR110800990",
   "eli": null,
   "gii_slug": "gentg",
-  "ingested_at": "2026-04-18T20:33:44Z",
   "jurabk": "GenTG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 54
+  },
   "source_hashes": {
     "source_xml_sha256": "2b0ed3b2c18cd50105c9c9ab29d6a0d40704642eb1c361247004fffcb205ab86"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz zur Regelung der Gentechnik",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

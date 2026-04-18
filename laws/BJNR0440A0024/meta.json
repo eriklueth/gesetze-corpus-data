@@ -4,9 +4,12 @@
   "bjnr": "BJNR0440A0024",
   "eli": null,
   "gii_slug": "vglwebmv",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VglWebMV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "4f9fbd425abcd2940589d3d0fc282c025b8dda8c99de854531d39bea3034fc8d"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Meldungen zu Zahlungskonten für die Vergleichswebsite nach dem Zahlungskontengesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR06A0B0023",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Zuständigkeiten des Bundesverwaltungsamts",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Zugang zum EES zum Zwecke der Verhütung, Aufdeckung und Untersuchung terroristischer und sonstiger schwerer Straftaten; Verordnungsermächtigung",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Sicherheits- und Qualitätsniveau der EES-Registrierung und der EES-Abfrage",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Nationale Sicherheits- und Qualitätsstatistik für das Einreise-/Ausreisesystem und Bewältigung von Sicherheitsvorfällen",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Nationale Erleichterungsprogramme für Vielreisende",

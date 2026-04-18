@@ -4,9 +4,9 @@
   "bjnr": "BJNR216700973",
   "eli": null,
   "gii_slug": "tontr_bk",
-  "ingested_at": "2026-04-18T20:41:21Z",
   "jurabk": "TonTrÜbk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "08e0aa1a729ebba94efe6514f4f41b9b75278238778ec3e2c49cee6e47271b5c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Übereinkommen zum Schutz der Hersteller von Tonträgern gegen die unerlaubte Vervielfältigung ihrer Tonträger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

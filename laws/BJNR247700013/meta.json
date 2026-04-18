@@ -4,9 +4,11 @@
   "bjnr": "BJNR247700013",
   "eli": null,
   "gii_slug": "eakav",
-  "ingested_at": "2026-04-18T20:31:55Z",
   "jurabk": "EAKAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "44de1fbe6501d9113727451439c9fb661fb987a682b4d65b10e9fc98bc146453"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zum elektronischen Anzeigeverfahren für inländische Investmentvermögen und EU-Investmentvermögen nach dem Kapitalanlagegesetzbuch",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

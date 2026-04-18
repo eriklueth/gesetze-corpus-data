@@ -4,9 +4,11 @@
   "bjnr": "BJNR308210002",
   "eli": null,
   "gii_slug": "bfrg",
-  "ingested_at": "2026-04-18T20:29:57Z",
   "jurabk": "BfRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "1bab7432d9aad6e51e27b13e93b4684c9eabfe04fb4cfa5b4c40d3ec34a7140e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Errichtung eines Bundesinstitutes für Risikobewertung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

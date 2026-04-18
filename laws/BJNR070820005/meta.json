@@ -4,9 +4,9 @@
   "bjnr": "BJNR070820005",
   "eli": null,
   "gii_slug": "gii050708",
-  "ingested_at": "2026-04-18T20:33:56Z",
   "jurabk": "GII050708",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8c8e07ccdabf369e7894fce04acdb9661b3eca29811ea931875c84b9b9ac375c"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 30. Oktober 2003 zwischen der Bundesrepublik Deutschland und der Republik Angola über die Förderung und den gegenseitigen Schutz von Kapitalanlagen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

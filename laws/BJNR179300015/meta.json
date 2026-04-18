@@ -4,9 +4,9 @@
   "bjnr": "BJNR179300015",
   "eli": null,
   "gii_slug": "asylblg_3abs4bek",
-  "ingested_at": "2026-04-18T20:28:55Z",
   "jurabk": "AsylbLG§3Abs4Bek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "14daf264e7e38fdea5054c7c2dad023ae21b443dd5c3d020589758c1b7751f34"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Höhe der Leistungssätze nach § 3 Absatz 4 des Asylbewerberleistungsgesetzes für die Zeit ab 1. Januar 2016",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

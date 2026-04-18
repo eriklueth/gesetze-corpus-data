@@ -4,9 +4,11 @@
   "bjnr": "BJNR011860939",
   "eli": null,
   "gii_slug": "verschg",
-  "ingested_at": "2026-04-18T20:41:50Z",
   "jurabk": "VerschG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 55
+  },
   "source_hashes": {
     "source_xml_sha256": "d3c09c060914adccedb77692b54c4a1e7ff471fe617fac32e6ee6d811ecfcbe2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verschollenheitsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

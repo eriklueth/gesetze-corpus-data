@@ -4,9 +4,11 @@
   "bjnr": "BJNR071200020",
   "eli": null,
   "gii_slug": "ehrenamtstiftg",
-  "ingested_at": "2026-04-18T20:32:03Z",
   "jurabk": "EhrenamtStiftG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "9a6cb59a5658bbf881d0707e20950b5908bd3e2d5e378e1ac67c1a56ba6ef9ee"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Errichtung der Deutschen Stiftung für Engagement und Ehrenamt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR360300009",
   "eli": null,
   "gii_slug": "zaganzv",
-  "ingested_at": "2026-04-18T20:43:08Z",
   "jurabk": "ZAGAnzV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 8,
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "465a3e5873d92ad00e9a35b1ad9c3bb5ec5ca29686050425ce5759a84a242bea"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Zahlungsdiensteaufsichtsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

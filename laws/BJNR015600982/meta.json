@@ -4,9 +4,11 @@
   "bjnr": "BJNR015600982",
   "eli": null,
   "gii_slug": "bergbversstrv",
-  "ingested_at": "2026-04-18T20:29:49Z",
   "jurabk": "BergbVersStrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "7109bad1460ab13754cfda51c7bad0e8a80ba7d70f2f7f05ed30ee5a129f1c06"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Anwendung von Vorschriften des Bundesberggesetzes auf die Bergbau-Versuchsstrecke",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

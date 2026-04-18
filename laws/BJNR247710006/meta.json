@@ -4,9 +4,11 @@
   "bjnr": "BJNR247710006",
   "eli": null,
   "gii_slug": "nav",
-  "ingested_at": "2026-04-18T20:37:37Z",
   "jurabk": "NAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 29
+  },
   "source_hashes": {
     "source_xml_sha256": "79ecff193d06513a53fbc337080fb53ccaab273cf6409e5d8d5a0bcfffff5c74"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über Allgemeine Bedingungen für den Netzanschluss und dessen Nutzung für die Elektrizitätsversorgung in Niederspannung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

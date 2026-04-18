@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR0830A0024",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 18,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 8,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs"
@@ -31,6 +34,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs"
@@ -41,6 +45,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs"
@@ -51,6 +56,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs"
@@ -61,6 +67,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs"
@@ -71,6 +78,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs"
@@ -81,6 +89,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs"
@@ -91,6 +100,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs"
@@ -101,6 +111,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 2 Anforderungen an erneuerbare Kraftstoffe nicht biogenen Ursprungs"
@@ -111,6 +122,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 3 Anforderungen an mitverarbeitete biogene Öle und biogenen Wasserstoff"
@@ -121,6 +133,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 3 Anforderungen an mitverarbeitete biogene Öle und biogenen Wasserstoff"
@@ -131,6 +144,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -142,6 +156,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -153,6 +168,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 7,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -164,6 +180,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -175,6 +192,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -186,6 +204,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -197,6 +216,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -208,6 +228,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -219,6 +240,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -230,6 +252,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -241,6 +264,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -252,6 +276,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -263,6 +288,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -274,6 +300,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -285,6 +312,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -296,6 +324,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -307,6 +336,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -319,6 +349,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -331,6 +362,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -343,6 +375,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -355,6 +388,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -367,6 +401,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -379,6 +414,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -391,6 +427,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -403,6 +440,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -415,6 +453,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -427,6 +466,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -439,6 +479,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -451,6 +492,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -463,6 +505,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 4 Nachweise",
@@ -475,6 +518,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 5 Zentrales Register und elektronische Datenbank"
@@ -485,6 +529,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 5 Zentrales Register und elektronische Datenbank"
@@ -495,6 +540,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -505,6 +551,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -515,6 +562,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -525,6 +573,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -535,6 +584,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -545,6 +595,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -555,6 +606,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -565,6 +617,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -575,6 +628,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"
@@ -585,6 +639,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Teil 1 Allgemeiner Teil",
         "Teil 6 Datenverarbeitung, Berichtspflichten, behördliches Verfahren"

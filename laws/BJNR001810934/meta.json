@@ -4,9 +4,9 @@
   "bjnr": "BJNR001810934",
   "eli": null,
   "gii_slug": "mietpfg",
-  "ingested_at": "2026-04-18T20:36:32Z",
   "jurabk": "MietPfG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "b12cdfa97068ac37331b8afb693e3202243fbef2e6ebd37d28ccce08f89a726f"
   },
@@ -22,5 +22,5 @@
     }
   ],
   "title": "Gesetz über die Pfändung von Miet- und Pachtzinsforderungen wegen Ansprüche aus öffentlichen Grundstückslasten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

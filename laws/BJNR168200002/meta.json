@@ -4,9 +4,11 @@
   "bjnr": "BJNR168200002",
   "eli": null,
   "gii_slug": "mitbestgwo_1_2002",
-  "ingested_at": "2026-04-18T20:28:01Z",
   "jurabk": "MitbestGWO 1 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 102
+  },
   "source_hashes": {
     "source_xml_sha256": "98698ca183be88b8ec9cbc8ca0d0f6c8d98ce55add4da4d4b43c7f11cfaa9e7e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Erste Wahlordnung zum Mitbestimmungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,12 @@
   "bjnr": "BJNR181700007",
   "eli": null,
   "gii_slug": "lmhv_2007",
-  "ingested_at": "2026-04-18T20:35:51Z",
   "jurabk": "LMHV 2007",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "78d7a7522e64b191609232d83c02650a0f47c0086fc6e0c074e2fe7a238de491"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über Anforderungen an die Hygiene beim Herstellen, Behandeln und Inverkehrbringen von Lebensmitteln",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

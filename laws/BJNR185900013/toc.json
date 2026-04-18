@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR185900013",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0001.md",
       "heading": "Regelungsgegenstand",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/art-0002.md",
       "heading": "Vermögensaufteilung",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0003.md",
       "heading": "Sanierungsaufwendungen der Wismut GmbH",
@@ -24,6 +27,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0004.md",
       "heading": "Finanzierung der ehemaligen Staatlichen Versicherung der DDR in Abwicklung (SinA)",
@@ -31,6 +35,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0005.md",
       "heading": "Entschädigungsfonds",
@@ -38,6 +43,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [],
       "file": "paragraphs/art-0006.md",
       "heading": "Ansprüche nach § 8 Absatz 4 des Vermögenszuordnungsgesetzes",
@@ -45,6 +51,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0007.md",
       "heading": "Nicht zugeordnetes Finanzvermögen",
@@ -52,6 +59,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/art-0008.md",
       "heading": "",
@@ -59,6 +67,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0009.md",
       "heading": "Ratifikation, Inkrafttreten",

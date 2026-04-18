@@ -4,9 +4,12 @@
   "bjnr": "BJNR311700005",
   "eli": null,
   "gii_slug": "medaillenv",
-  "ingested_at": "2026-04-18T20:36:28Z",
   "jurabk": "MedaillenV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 6
+  },
   "source_hashes": {
     "source_xml_sha256": "84fbf339c1a5fde8033537dfa829e0634ab2207cd92c49a35be071bd41b7bf33"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Herstellung und den Vertrieb von Medaillen und Münzstücken zum Schutz deutscher Euro-Gedenkmünzen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

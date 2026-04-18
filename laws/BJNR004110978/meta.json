@@ -4,9 +4,11 @@
   "bjnr": "BJNR004110978",
   "eli": null,
   "gii_slug": "flbeihv",
-  "ingested_at": "2026-04-18T20:33:13Z",
   "jurabk": "FlBeihV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "2c9c71e20ec6c258daa8c66bcc8f077a5b9b8cb16a7b108daac9a7920accef60"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gewährung von Beihilfen für die private Lagerhaltung von Fleisch und Fleischerzeugnissen von Schweinen, Rindern und Schafen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

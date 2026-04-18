@@ -4,9 +4,12 @@
   "bjnr": "BJNR037500009",
   "eli": null,
   "gii_slug": "tierschtrv_2009",
-  "ingested_at": "2026-04-18T20:41:13Z",
   "jurabk": "TierSchTrV 2009",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 3,
+    "paragraph": 24
+  },
   "source_hashes": {
     "source_xml_sha256": "2a90d4ef8854c6f4d1240c54c44800df8d26309ddebc9bee96664792e00609ae"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung zum Schutz von Tieren beim Transport und zur Durchführung der Verordnung (EG) Nr. 1/2005 des Rates",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

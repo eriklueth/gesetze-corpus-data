@@ -4,9 +4,11 @@
   "bjnr": "BJNR010419961",
   "eli": null,
   "gii_slug": "wobaug2_ndg",
-  "ingested_at": "2026-04-18T20:42:29Z",
   "jurabk": "WoBauG2ÄndG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 13
+  },
   "source_hashes": {
     "source_xml_sha256": "40c7853811519f4f89ac807bfe0d7e5d5408c1a98f314175165ee4ecedad29c3"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Änderung des Zweiten Wohnungsbaugesetzes, anderer wohnungsbaurechtlicher Vorschriften und über die Rückerstattung von Baukostenzuschüssen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

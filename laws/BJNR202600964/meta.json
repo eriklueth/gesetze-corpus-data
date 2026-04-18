@@ -4,9 +4,9 @@
   "bjnr": "BJNR202600964",
   "eli": null,
   "gii_slug": "vermrglabkcolzprot",
-  "ingested_at": "2026-04-18T20:41:46Z",
   "jurabk": "VermRglAbkCOLZProt",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7722fb370b7063128cc32674bade5aab13bc2ff2ccf4b61b0eebd8c43bedd042"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zusatzprotokoll zum Abkommen zwischen der Bundesrepublik Deutschland und der Republik Kolumbien über deutsche Vermögenswerte in Kolumbien",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

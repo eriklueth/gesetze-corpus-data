@@ -4,9 +4,12 @@
   "bjnr": "BJNR234910011",
   "eli": null,
   "gii_slug": "odv",
-  "ingested_at": "2026-04-18T20:37:49Z",
   "jurabk": "ODV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 32
+  },
   "source_hashes": {
     "source_xml_sha256": "7b54e04d24b3fbc43243cd3b570504e0e0eec85d8901d0eb32cabf999dc07330"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Ortsbewegliche-Druckgeräte-Verordnung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

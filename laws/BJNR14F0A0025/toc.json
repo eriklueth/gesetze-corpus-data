@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR14F0A0025",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 8,
       "breadcrumb": [],
       "file": "paragraphs/0001.md",
       "heading": "Verteilungsmaßstäbe für die Mittel für Eingliederungsleistungen",
@@ -10,6 +11,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [],
       "file": "paragraphs/0002.md",
       "heading": "Verteilungsmaßstäbe für die Mittel für Verwaltungskosten",
@@ -17,6 +19,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0003.md",
       "heading": "Neuberechnung der Anteile der Mittel nach Veränderung der Zuständigkeit von Jobcentern",
@@ -24,6 +27,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0004.md",
       "heading": "Außerkrafttreten",
@@ -31,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/0005.md",
       "heading": "Inkrafttreten",
@@ -38,6 +43,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0001.md",
       "heading": "(zu § 1 Absatz 5 Satz 5)",
@@ -45,6 +51,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0002.md",
       "heading": "(zu § 1 Absatz 6 Satz 6)",
@@ -52,6 +59,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0003.md",
       "heading": "(zu § 1 Absatz 8 Satz 4)",
@@ -59,6 +67,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0004.md",
       "heading": "(zu § 1 Absatz 8 Satz 4)",
@@ -66,6 +75,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0005.md",
       "heading": "(zu § 2 Absatz 4 Satz 4)",
@@ -73,6 +83,7 @@
       "type": "annex"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "annexes/0006.md",
       "heading": "(zu § 2 Absatz 5 Satz 4)",

@@ -4,9 +4,9 @@
   "bjnr": "BJNR009459965",
   "eli": null,
   "gii_slug": "wobau_ndg_1965",
-  "ingested_at": "2026-04-18T20:42:28Z",
   "jurabk": "WoBauÄndG 1965",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "c357e0016f3e6231544d1d47272e514e64df17c2d928d83b2e44f481caef2416"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur verstärkten Eigentumsbildung im Wohnungsbau und zur Sicherung der Zweckbestimmung von Sozialwohnungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

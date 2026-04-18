@@ -4,9 +4,9 @@
   "bjnr": "BJNR1230A0025",
   "eli": null,
   "gii_slug": "rvbeitrsbek_2026",
-  "ingested_at": "2026-04-18T20:39:09Z",
   "jurabk": "RVBeitrSBek 2026",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "24f101ffb52faac3e18f258dc4affd3f3b05d43db8b0f753ad9bed8f2c3541fc"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung der Beitragssätze in der allgemeinen Rentenversicherung und der knappschaftlichen Rentenversicherung für das Jahr 2026",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

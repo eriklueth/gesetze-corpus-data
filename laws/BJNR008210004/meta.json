@@ -4,9 +4,11 @@
   "bjnr": "BJNR008210004",
   "eli": null,
   "gii_slug": "tiernebg",
-  "ingested_at": "2026-04-18T20:41:13Z",
   "jurabk": "TierNebG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "e41f7e2a381e371fad099d32670e5f7aa66f2f814403126e92094510c09d0f63"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Tierische Nebenprodukte-Beseitigungsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

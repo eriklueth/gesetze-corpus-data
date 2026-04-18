@@ -4,9 +4,9 @@
   "bjnr": "BJNR098600993",
   "eli": null,
   "gii_slug": "trverjg",
-  "ingested_at": "2026-04-18T20:41:20Z",
   "jurabk": "TrVerjG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "db6ff6894bad6a4693ee07d426640fb5f261c75d308a00e8f8ef1db0bf89251e"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Regelung der Verjährung von Ansprüchen wegen unberechtigter oder rechtswidriger Erlangung von Gegenwerten aus Transferrubelgeschäften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

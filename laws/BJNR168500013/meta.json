@@ -4,9 +4,11 @@
   "bjnr": "BJNR168500013",
   "eli": null,
   "gii_slug": "baiudbwowizustv",
-  "ingested_at": "2026-04-18T20:29:21Z",
   "jurabk": "BAIUDBwOWiZustV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "1407321ec42b92d07e99a20f3493d98d28158a315d78b1bdf8720e1a55a1282c"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Zuständigkeit des Bundesamtes für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr für die Verfolgung und Ahndung von Ordnungswidrigkeiten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

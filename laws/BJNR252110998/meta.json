@@ -4,9 +4,11 @@
   "bjnr": "BJNR252110998",
   "eli": null,
   "gii_slug": "gwb",
-  "ingested_at": "2026-04-18T20:34:21Z",
   "jurabk": "GWB",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 239
+  },
   "source_hashes": {
     "source_xml_sha256": "1a44accb4c0d1529c65431da4cdb9273330bb73eb77600ef34751181e347c185"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Gesetz gegen Wettbewerbsbeschränkungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

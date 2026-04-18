@@ -4,9 +4,11 @@
   "bjnr": "BJNR025700005",
   "eli": null,
   "gii_slug": "sstellv-vvg",
-  "ingested_at": "2026-04-18T20:40:33Z",
   "jurabk": "SStellV-VVG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "5f68a7b8a8cbe72defd466cb2f79d73c475e07bfd56335744eb3a30d10646f3a"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Schlichtungsstelle für die Beilegung von Verbraucherstreitigkeiten bei Fernabsatzverträgen über Versicherungen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

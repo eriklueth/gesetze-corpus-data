@@ -4,9 +4,11 @@
   "bjnr": "BJNR014520011",
   "eli": null,
   "gii_slug": "kyotoprotanpfondsg",
-  "ingested_at": "2026-04-18T20:35:46Z",
   "jurabk": "KyotoProtAnpfondsG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "494f312031e9fac408c7f52599d467f37f7d7c48e6e7f4f464168ae4ac6fe874"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Verleihung der Rechtsfähigkeit an den Rat des Anpassungsfonds",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

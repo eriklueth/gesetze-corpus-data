@@ -4,9 +4,11 @@
   "bjnr": "BJNR338510006",
   "eli": null,
   "gii_slug": "svev",
-  "ingested_at": "2026-04-18T20:40:58Z",
   "jurabk": "SvEV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "a74a44709aa0deb40940a530b8c2a73b672fe94904d74aa7ca3816ee2f4cd129"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

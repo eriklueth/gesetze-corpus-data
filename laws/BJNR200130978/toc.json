@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR200130978",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0001.md",
       "heading": "",
@@ -10,6 +11,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0002.md",
       "heading": "",
@@ -17,6 +19,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/art-0003.md",
       "heading": "",
@@ -24,6 +27,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0004.md",
       "heading": "",
@@ -31,6 +35,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/art-0005.md",
       "heading": "",
@@ -38,6 +43,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [],
       "file": "paragraphs/art-0006.md",
       "heading": "",
@@ -45,6 +51,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0007.md",
       "heading": "",
@@ -52,6 +59,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0008.md",
       "heading": "",
@@ -59,6 +67,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0009.md",
       "heading": "",
@@ -66,6 +75,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [],
       "file": "paragraphs/art-0010.md",
       "heading": "",
@@ -73,6 +83,7 @@
       "type": "article"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [],
       "file": "paragraphs/art-0011.md",
       "heading": "",

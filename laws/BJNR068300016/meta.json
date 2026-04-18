@@ -4,9 +4,11 @@
   "bjnr": "BJNR068300016",
   "eli": null,
   "gii_slug": "konzvgv",
-  "ingested_at": "2026-04-18T20:35:30Z",
   "jurabk": "KonzVgV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 38
+  },
   "source_hashes": {
     "source_xml_sha256": "48ec14e45f5fe414bcbf5bf3304ae826c7f08b33b964749bf93289b03012f722"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Vergabe von Konzessionen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

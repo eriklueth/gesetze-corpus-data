@@ -4,9 +4,11 @@
   "bjnr": "BJNR020370976",
   "eli": null,
   "gii_slug": "subvg",
-  "ingested_at": "2026-04-18T20:40:56Z",
   "jurabk": "SubvG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "c0f4eea85958f6307ba9da8625cb35fa46a5a5010d21a07ba2b4c49a2108d8f7"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz gegen mißbräuchliche Inanspruchnahme von Subventionen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

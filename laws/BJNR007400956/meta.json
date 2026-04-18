@@ -4,9 +4,9 @@
   "bjnr": "BJNR007400956",
   "eli": null,
   "gii_slug": "zelterplerl",
-  "ingested_at": "2026-04-18T20:43:09Z",
   "jurabk": "ZelterPlErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "74c999e8dd458994807006e29850ed9c5089d3324c6f70c027870897a79be8f2"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlaß über die Stiftung der Zelter-Plakette",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

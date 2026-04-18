@@ -4,9 +4,11 @@
   "bjnr": "BJNR138500007",
   "eli": null,
   "gii_slug": "ethrg",
-  "ingested_at": "2026-04-18T20:32:29Z",
   "jurabk": "EthRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "2b622cdd699cdc8b59760328b3c52efaa017f0f14aba7b79f4ffd46e73ebb628"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Einrichtung des Deutschen Ethikrats",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

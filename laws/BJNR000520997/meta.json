@@ -4,9 +4,9 @@
   "bjnr": "BJNR000520997",
   "eli": null,
   "gii_slug": "echvertr",
-  "ingested_at": "2026-04-18T20:31:56Z",
   "jurabk": "ECHVertr",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "afd8e25aa109136ccb871d5dfddc624e9ae82c87db49f5ff8ae69988014703ef"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag über die Energiecharta",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

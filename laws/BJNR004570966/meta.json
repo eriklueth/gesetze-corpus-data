@@ -4,9 +4,11 @@
   "bjnr": "BJNR004570966",
   "eli": null,
   "gii_slug": "vereinsgdv",
-  "ingested_at": "2026-04-18T20:41:42Z",
   "jurabk": "VereinsGDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 25
+  },
   "source_hashes": {
     "source_xml_sha256": "19c68b4064725ced4d3fca2d22164e9203d1be0edb755e595a9123a232222fc8"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Durchführung des Gesetzes zur Regelung des öffentlichen Vereinsrechts (Vereinsgesetz)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

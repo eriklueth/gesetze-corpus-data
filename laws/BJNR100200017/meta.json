@@ -4,9 +4,12 @@
   "bjnr": "BJNR100200017",
   "eli": null,
   "gii_slug": "m_hgetreiwitechausbv",
-  "ingested_at": "2026-04-18T20:36:44Z",
   "jurabk": "MühGetreiWiTechAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 23
+  },
   "source_hashes": {
     "source_xml_sha256": "8aae9390d31eea40dd3f8ae7c9eab73a34b32a52350b7e2f2a42657c4ab9d019"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Verfahrenstechnologen Mühlen- und Getreidewirtschaft und zur Verfahrenstechnologin Mühlen- und Getreidewirtschaft",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

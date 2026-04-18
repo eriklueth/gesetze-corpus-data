@@ -4,9 +4,11 @@
   "bjnr": "BJNR14D0B0025",
   "eli": null,
   "gii_slug": "tvmindestlohndachd_13",
-  "ingested_at": "2026-04-18T20:41:21Z",
   "jurabk": "TVMindestlohnDachd 13",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "6d5fe25d6a424587163fdf594e86c5673f54d5450f9a90606d0f0dcd165d085e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Oktober 2025",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

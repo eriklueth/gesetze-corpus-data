@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR181200012",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zu § 2 des Gesetzes"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zu § 2 des Gesetzes",
         "Abschnitt 2 Zu § 8 des Gesetzes"
@@ -22,6 +24,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zu § 2 des Gesetzes",
         "Abschnitt 3 Zu § 9 des Gesetzes"
@@ -32,6 +35,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Zu § 2 des Gesetzes",
         "Abschnitt 5 Zu § 156 Absatz 1 der Abgabenordnung"
@@ -42,6 +46,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Zu § 2 des Gesetzes",
         "Abschnitt 6 Inkrafttreten"

@@ -4,9 +4,11 @@
   "bjnr": "BJNR066620003",
   "eli": null,
   "gii_slug": "sozsichabk1985zusabkcang",
-  "ingested_at": "2026-04-18T20:40:20Z",
   "jurabk": "SozSichAbk1985ZusAbkCANG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "389b48f49ef81c0878b257248964e6f197ea638b369ed7596957bf3541e350bf"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Zusatzabkommen vom 27. August 2002 zum Abkommen vom 14. November 1985 zwischen der Bundesrepublik Deutschland und Kanada über Soziale Sicherheit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

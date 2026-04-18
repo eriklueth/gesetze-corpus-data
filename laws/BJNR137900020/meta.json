@@ -4,9 +4,11 @@
   "bjnr": "BJNR137900020",
   "eli": null,
   "gii_slug": "mbverfv",
-  "ingested_at": "2026-04-18T20:36:28Z",
   "jurabk": "MBVerfV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 9
+  },
   "source_hashes": {
     "source_xml_sha256": "53ff45f76123babf6c9fd0e11034e18e4b054dd33701cd935a834efae7c013f8"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Verfahrensgrundsätze der Bewertung von Untersuchungs- und Behandlungsmethoden in der vertragsärztlichen Versorgung und im Krankenhaus",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

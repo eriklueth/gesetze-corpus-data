@@ -4,9 +4,12 @@
   "bjnr": "BJNR083500003",
   "eli": null,
   "gii_slug": "warnowmauthv",
-  "ingested_at": "2026-04-18T20:42:14Z",
   "jurabk": "WarnowMautHV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "049e096f4610eefecbc54cb0a6f8a9c416f62b766cf7430ef13d0b2cdf374d1b"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung über die Höhe der Maut für die Benutzung des Warnowtunnels",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

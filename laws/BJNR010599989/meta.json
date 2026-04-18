@@ -4,9 +4,11 @@
   "bjnr": "BJNR010599989",
   "eli": null,
   "gii_slug": "stgbua_ndg_1989",
-  "ingested_at": "2026-04-18T20:40:41Z",
   "jurabk": "StGBuaÄndG 1989",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "0a5213d47f0d9d008677a0107d33a2fb55af56ebe4d155748539e2a5910d69c7"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zur Änderung des Strafgesetzbuches, der Strafprozeßordnung und des Versammlungsgesetzes und zur Einführung einer Kronzeugenregelung bei terroristischen Straftaten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

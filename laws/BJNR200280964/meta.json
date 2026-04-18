@@ -4,9 +4,9 @@
   "bjnr": "BJNR200280964",
   "eli": null,
   "gii_slug": "aaustvorhabk_usa",
-  "ingested_at": "2026-04-18T20:28:21Z",
   "jurabk": "AAustVorhAbk USA",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "11053e2ead3ca226783db5668647356314523b9fccebbc20f7a828fac99296f6"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Vereinigten Staaten von Amerika über die Durchführung von Austauschvorhaben zum Zwecke der Aus- und Weiterbildung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

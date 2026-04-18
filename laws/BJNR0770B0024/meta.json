@@ -4,9 +4,11 @@
   "bjnr": "BJNR0770B0024",
   "eli": null,
   "gii_slug": "auslpflvg_2024",
-  "ingested_at": "2026-04-18T20:29:09Z",
   "jurabk": "AuslPflVG 2024",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 20
+  },
   "source_hashes": {
     "source_xml_sha256": "fb92243476bf797d37729a4af2f2cf5fe769a6f83500a0251037a3f0143443be"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

@@ -4,9 +4,9 @@
   "bjnr": "BJNR003970963",
   "eli": null,
   "gii_slug": "tddteinhbpr_sprok",
-  "ingested_at": "2026-04-18T20:41:03Z",
   "jurabk": "TdDtEinhBPräsProk",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "08a626deae22ec002d424e02f856e332d90054e1245149a3d641d5cfa6f22078"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Proklamation des Bundespräsidenten",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

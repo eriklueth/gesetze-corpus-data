@@ -4,9 +4,11 @@
   "bjnr": "BJNR202100020",
   "eli": null,
   "gii_slug": "gntvddvcsvdv",
-  "ingested_at": "2026-04-18T20:34:05Z",
   "jurabk": "GntVDDVCSVDV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 81
+  },
   "source_hashes": {
     "source_xml_sha256": "550f9eacc7a161d99328e0e1c192c6446e1081bc9dd8434c39a999d4fbddb04e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Verwaltungsdienst des Bundes – Fachrichtung digitale Verwaltung und Cyber-Sicherheit –",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

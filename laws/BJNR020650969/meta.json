@@ -4,9 +4,11 @@
   "bjnr": "BJNR020650969",
   "eli": null,
   "gii_slug": "rpflg_1969",
-  "ingested_at": "2026-04-18T20:39:04Z",
   "jurabk": "RPflG 1969",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 50
+  },
   "source_hashes": {
     "source_xml_sha256": "8a026fb2a35fb7c2163b93cd86a951ad475d94135c2ede4cb4be91a106a39404"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Rechtspflegergesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

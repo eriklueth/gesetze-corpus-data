@@ -4,9 +4,9 @@
   "bjnr": "BJNR003320954",
   "eli": null,
   "gii_slug": "wzg_35phibek",
-  "ingested_at": "2026-04-18T20:42:55Z",
   "jurabk": "WZG§35PHIBek",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9e3a9f7ed2d63134e85d8e1c57f761636b33beeb330f3ae002146c73743d10fb"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung zu § 35 des Warenzeichengesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

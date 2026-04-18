@@ -4,9 +4,11 @@
   "bjnr": "BJNR211570975",
   "eli": null,
   "gii_slug": "eurhiaut_bkergvtrg",
-  "ingested_at": "2026-04-18T20:32:42Z",
   "jurabk": "EuRHiAUTÜbkErgVtrG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "ab113bfc69298decb381133c5a155fdbeabfd4874b3e073b3098d6e87f1774d7"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Vertrag vom 31. Januar 1972 zwischen der Bundesrepublik Deutschland und der Republik Österreich über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

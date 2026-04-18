@@ -4,9 +4,11 @@
   "bjnr": "BJNR0F20A0023",
   "eli": null,
   "gii_slug": "m_nz10eurobek_2023-08-11",
-  "ingested_at": "2026-04-18T20:37:05Z",
   "jurabk": "Münz10EuroBek 2023-08-11",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "0b4f5c5b79e7ce6c4fd9f25e14e398c1d7898bd52bf9e73449c78022ad0185d2"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze „Feuerwehr“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

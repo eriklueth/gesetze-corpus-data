@@ -1,8 +1,9 @@
 {
   "bjnr": "BJNR141400013",
-  "schema_version": "v1",
+  "schema_version": "v2",
   "sections": [
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei"
       ],
@@ -12,6 +13,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei"
       ],
@@ -21,6 +23,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 2,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei"
       ],
@@ -30,6 +33,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 2 Datenübermittlung an das Bundesverwaltungsamt"
@@ -40,6 +44,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 2 Datenübermittlung an das Bundesverwaltungsamt"
@@ -50,6 +55,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 6,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 2 Datenübermittlung an das Bundesverwaltungsamt"
@@ -60,6 +66,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 3 Datenübermittlung durch das Bundesverwaltungsamt"
@@ -70,6 +77,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 3 Datenübermittlung durch das Bundesverwaltungsamt"
@@ -80,6 +88,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 4,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 3 Datenübermittlung durch das Bundesverwaltungsamt"
@@ -90,6 +99,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 5,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 4 Auskunft an die betroffene Person"
@@ -100,6 +110,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 5 Protokollierung bei Datenübermittlungen, Sperrung und Löschung von Daten"
@@ -110,6 +121,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 3,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 5 Protokollierung bei Datenübermittlungen, Sperrung und Löschung von Daten"
@@ -120,6 +132,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 6 Inkrafttreten"
@@ -130,6 +143,7 @@
       "type": "paragraph"
     },
     {
+      "absatz_count": 1,
       "breadcrumb": [
         "Abschnitt 1 Inhalt der Datei",
         "Abschnitt 6 Inkrafttreten"

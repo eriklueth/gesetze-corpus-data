@@ -4,9 +4,11 @@
   "bjnr": "BJNR004570979",
   "eli": null,
   "gii_slug": "befzustv_1979",
-  "ingested_at": "2026-04-18T20:29:41Z",
   "jurabk": "BEFZustV 1979",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "c236846cf5399067043f0a3d501156007b53a898a924cec4e838fa1e198efda2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Zuständigkeit der Bundesanstalt für Landwirtschaft und Ernährung für die Registrierung der Vermehrungsverträge für Saatgut in Drittländern",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

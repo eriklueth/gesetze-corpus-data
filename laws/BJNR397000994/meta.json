@@ -4,9 +4,11 @@
   "bjnr": "BJNR397000994",
   "eli": null,
   "gii_slug": "stvunfstatg1990v",
-  "ingested_at": "2026-04-18T20:40:54Z",
   "jurabk": "StVUnfStatG1990V",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 2
+  },
   "source_hashes": {
     "source_xml_sha256": "014e27bc5fa4ddb699cda8f213bd0e193de5715a8d21168867741646128c7b34"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur näheren Bestimmung des schwerwiegenden Unfalls mit Sachschaden im Sinne des Straßenverkehrsunfallstatistikgesetzes",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

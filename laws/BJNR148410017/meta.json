@@ -4,9 +4,11 @@
   "bjnr": "BJNR148410017",
   "eli": null,
   "gii_slug": "flugdag",
-  "ingested_at": "2026-04-18T20:33:14Z",
   "jurabk": "FlugDaG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 18
+  },
   "source_hashes": {
     "source_xml_sha256": "0d1e174d6f47930a63fb65911a3c205a09f6df9dda15e0d90fda2862aa1645da"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz über die Verarbeitung von Fluggastdaten zur Umsetzung der Richtlinie (EU) 2016/681",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

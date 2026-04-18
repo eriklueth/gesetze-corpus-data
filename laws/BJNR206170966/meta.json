@@ -4,9 +4,11 @@
   "bjnr": "BJNR206170966",
   "eli": null,
   "gii_slug": "asentwbk_bkg",
-  "ingested_at": "2026-04-18T20:28:52Z",
   "jurabk": "AsEntwBkÜbkG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "a15465e20f62c0bd027f53467f0d472a0974d69ee01d7cffc163d3906685fd7e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Gesetz zu dem Übereinkommen vom 4. Dezember 1965 zur Errichtung der Asiatischen Entwicklungsbank",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

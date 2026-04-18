@@ -4,9 +4,9 @@
   "bjnr": "BJNR138200019",
   "eli": null,
   "gii_slug": "m_nz20eurobek_2019-08-07_5",
-  "ingested_at": "2026-04-18T20:37:10Z",
   "jurabk": "Münz20EuroBek 2019-08-07/5",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "79ee56f795ebed5e4931d6c588ece282c30e9c96896193a1396f4e8d16564d09"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 20 Euro (Gedenkmünze „100 Jahre Weimarer Reichsverfassung“)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

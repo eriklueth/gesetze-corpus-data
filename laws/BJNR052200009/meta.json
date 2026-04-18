@@ -4,9 +4,9 @@
   "bjnr": "BJNR052200009",
   "eli": null,
   "gii_slug": "ordenerl4_nderl_2009",
-  "ingested_at": "2026-04-18T20:37:57Z",
   "jurabk": "OrdenErl4ÄndErl 2009",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "db0478f90d210382677db24fcbc9a3b265a99a03f84c97bca72081416c3035c9"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlass über die Genehmigung einer Änderung des Erlasses über die Stiftung und Verleihung der Goethe-Medaille",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

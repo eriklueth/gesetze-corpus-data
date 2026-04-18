@@ -4,9 +4,12 @@
   "bjnr": "BJNR030200012",
   "eli": null,
   "gii_slug": "tourfachwprv",
-  "ingested_at": "2026-04-18T20:41:18Z",
   "jurabk": "TourFachwPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 12
+  },
   "source_hashes": {
     "source_xml_sha256": "266191126a709acaec952ab69346b5b237f9c55d2f5c324675f59be23a7a0521"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Tourismusfachwirt und Geprüfte Tourismusfachwirtin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

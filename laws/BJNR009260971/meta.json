@@ -4,9 +4,11 @@
   "bjnr": "BJNR009260971",
   "eli": null,
   "gii_slug": "weinv",
-  "ingested_at": "2026-04-18T20:42:23Z",
   "jurabk": "WeinV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "3085908807c99e837192e9a980097cee099872b501497a7b18b3493d8ab55e58"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung zur vorläufigen Aufrechterhaltung weinrechtlicher Vorschriften",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

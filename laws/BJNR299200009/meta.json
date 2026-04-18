@@ -4,9 +4,11 @@
   "bjnr": "BJNR299200009",
   "eli": null,
   "gii_slug": "fluglsv_2",
-  "ingested_at": "2026-04-18T20:28:05Z",
   "jurabk": "FlugLSV 2",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "dee43e0cdf5aa40591a8cc499b33e11c5df80cc80b64aee4803bdab7221c4b84"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Zweite Verordnung zur Durchführung des Gesetzes zum Schutz gegen Fluglärm",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

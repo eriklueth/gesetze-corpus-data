@@ -4,9 +4,11 @@
   "bjnr": "BJNR008090957",
   "eli": null,
   "gii_slug": "lag_ndg_8",
-  "ingested_at": "2026-04-18T20:28:17Z",
   "jurabk": "LAGÄndG 8",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "0dfc431b44103b0fbffe49b45ca27f39395f21fed6fecfc46a5f0d691d1d0a64"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Achtes Gesetz zur Änderung des Lastenausgleichsgesetzes (Gesetz nach § 246 LAG - 8. ÄndG LAG)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

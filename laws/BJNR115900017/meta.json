@@ -4,9 +4,12 @@
   "bjnr": "BJNR115900017",
   "eli": null,
   "gii_slug": "_bprv",
-  "ingested_at": "2026-04-18T20:41:29Z",
   "jurabk": "ÜbPrV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "cd8bd7f34fc8444a824fba956aeeb725c4f4545c36198339966ce73f1dd846a5"
   },
@@ -26,5 +29,5 @@
     }
   ],
   "title": "Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Übersetzer und Geprüfte Übersetzerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

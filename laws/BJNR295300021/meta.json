@@ -4,9 +4,11 @@
   "bjnr": "BJNR295300021",
   "eli": null,
   "gii_slug": "stiftrg",
-  "ingested_at": "2026-04-18T20:40:43Z",
   "jurabk": "StiftRG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 1
+  },
   "source_hashes": {
     "source_xml_sha256": "3c1bdedcf69364e919dce5f5823dd0e253a3b30f6ddf2f18c64d3f4174bcdc90"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Stiftungsregistergesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

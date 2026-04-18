@@ -4,9 +4,9 @@
   "bjnr": "BJNR053120004",
   "eli": null,
   "gii_slug": "eurhi_bkergvtr_pol",
-  "ingested_at": "2026-04-18T20:32:46Z",
   "jurabk": "EuRHiÜbkErgVtr POL",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "7ecaec072beb5e1d7a3cc3d016e46dfbc50814249fe5e9220992b6bfeae4d429"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Vertrag zwischen der Bundesrepublik Deutschland und der Republik Polen über die Ergänzung des Europäischen Übereinkommens vom 20. April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

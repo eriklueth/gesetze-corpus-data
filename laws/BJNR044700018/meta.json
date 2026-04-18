@@ -4,9 +4,12 @@
   "bjnr": "BJNR044700018",
   "eli": null,
   "gii_slug": "stmstbausbv",
-  "ingested_at": "2026-04-18T20:40:43Z",
   "jurabk": "StmStbAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 27
+  },
   "source_hashes": {
     "source_xml_sha256": "fce0a24976411443c25c123645b5bcb28a9f058e1dbf605bf8c6943b6371c4d8"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Steinmetz und Steinbildhauer und zur Steinmetzin und Steinbildhauerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

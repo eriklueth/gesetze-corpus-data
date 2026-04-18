@@ -4,9 +4,11 @@
   "bjnr": "BJNR234600012",
   "eli": null,
   "gii_slug": "viggebv_2012",
-  "ingested_at": "2026-04-18T20:41:58Z",
   "jurabk": "VIGGebV 2012",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "54bc88284e57e076cbeb26c7d2604a56fabda637b8e4f41a0e4501cc2206a17a"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Gebühren nach dem Verbraucherinformationsgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

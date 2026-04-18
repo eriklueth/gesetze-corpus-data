@@ -4,9 +4,11 @@
   "bjnr": "BJNR184600000",
   "eli": null,
   "gii_slug": "heizkzg",
-  "ingested_at": "2026-04-18T20:34:28Z",
   "jurabk": "HeizkZG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 7
+  },
   "source_hashes": {
     "source_xml_sha256": "b3ce3d2c86ce0be5ee6997a19f0cbc6292e89016f91b0fb350a73cbe1fd1e747"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zur Gewährung eines einmaligen Heizkostenzuschusses",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

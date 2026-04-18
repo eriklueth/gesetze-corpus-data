@@ -4,9 +4,12 @@
   "bjnr": "BJNR089800005",
   "eli": null,
   "gii_slug": "fleiausbv_2005",
-  "ingested_at": "2026-04-18T20:33:13Z",
   "jurabk": "FleiAusbV 2005",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 11
+  },
   "source_hashes": {
     "source_xml_sha256": "d3780ae3df63b05b677fb2a0d6e1ce008dce947b1bb58c587e6971563302205d"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Fleischer/zur Fleischerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

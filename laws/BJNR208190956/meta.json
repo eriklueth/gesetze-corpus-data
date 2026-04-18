@@ -4,9 +4,9 @@
   "bjnr": "BJNR208190956",
   "eli": null,
   "gii_slug": "schutzrabk_swe",
-  "ingested_at": "2026-04-18T20:39:39Z",
   "jurabk": "SchutzRAbk SWE",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "a415645331d75ddb4cd9825fd2ac1a6b985198e4e8b8d905635bae53c027dbe1"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Abkommen zwischen der Bundesrepublik Deutschland und dem Königreich Schweden über die Wiederherstellung gewerblicher Schutzrechte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

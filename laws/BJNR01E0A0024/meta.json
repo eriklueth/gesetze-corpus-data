@@ -4,9 +4,11 @@
   "bjnr": "BJNR01E0A0024",
   "eli": null,
   "gii_slug": "rent_av",
-  "ingested_at": "2026-04-18T20:38:55Z",
   "jurabk": "RentÜAV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 4
+  },
   "source_hashes": {
     "source_xml_sha256": "22236dd94d2945d434633fc075871b306802e5a40dfd2d57a364b93ceb4fd65b"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Verordnung zur Regelung des Stichtags zur verpflichtenden Anbindung der Vorsorgeeinrichtungen und des Anbindungsverfahrens an die Zentrale Stelle für die Digitale Rentenübersicht",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

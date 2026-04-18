@@ -4,9 +4,9 @@
   "bjnr": "BJNR007640991",
   "eli": null,
   "gii_slug": "bwehrzerl_nderl",
-  "ingested_at": "2026-04-18T20:31:13Z",
   "jurabk": "BwEhrZErlÄndErl",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "8d7dd3f13a7f5b49cc6bc73e6093d292eebfe0106f7238405f0b03ffa3539046"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Erlaß über die Genehmigung einer Änderung des Erlasses über die Stiftung des Ehrenzeichens der Bundeswehr",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

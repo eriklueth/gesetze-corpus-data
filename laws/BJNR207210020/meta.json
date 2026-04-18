@@ -4,9 +4,11 @@
   "bjnr": "BJNR207210020",
   "eli": null,
   "gii_slug": "cov19gewstausglg",
-  "ingested_at": "2026-04-18T20:31:23Z",
   "jurabk": "COV19GewStAusglG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "8c6e2ad843ed503332ee9010d6ff1b843ccd05ec8403199326fdb2bcba5e54d6"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zum Ausgleich von Gewerbesteuermindereinnahmen der Gemeinden infolge der COVID-19-Pandemie durch Bund und Länder",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

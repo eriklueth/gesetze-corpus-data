@@ -4,9 +4,12 @@
   "bjnr": "BJNR196610017",
   "eli": null,
   "gii_slug": "strlschg",
-  "ingested_at": "2026-04-18T20:40:47Z",
   "jurabk": "StrlSchG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 9,
+    "paragraph": 230
+  },
   "source_hashes": {
     "source_xml_sha256": "a1bc7a999232fb8688600f5bc7aca659da61db8c594476677ca9a336cd6d5c0e"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

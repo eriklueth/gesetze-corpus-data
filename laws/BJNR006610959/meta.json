@@ -4,9 +4,9 @@
   "bjnr": "BJNR006610959",
   "eli": null,
   "gii_slug": "bpr_skldgamtsgehano",
-  "ingested_at": "2026-04-18T20:30:43Z",
   "jurabk": "BPräsKldgAmtsgehAnO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "6b5b3ce6198d478779d010721b4355d6c07ef52f12f6d5d9eb9a0902bec8d698"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für die Dienstkleidung der Amtsgehilfen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

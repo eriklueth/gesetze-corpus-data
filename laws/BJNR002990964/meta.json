@@ -4,9 +4,11 @@
   "bjnr": "BJNR002990964",
   "eli": null,
   "gii_slug": "bnv",
-  "ingested_at": "2026-04-18T20:30:35Z",
   "jurabk": "BNV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 16
+  },
   "source_hashes": {
     "source_xml_sha256": "a9808a4bcb573a4db3e0eb89883fa87a19ef738f1d9e0d881df34ef17f2402ab"
   },
@@ -26,5 +28,5 @@
     }
   ],
   "title": "Verordnung über die Nebentätigkeit der Bundesbeamten, Berufssoldaten und Soldaten auf Zeit",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

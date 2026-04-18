@@ -4,9 +4,11 @@
   "bjnr": "BJNR098000022",
   "eli": null,
   "gii_slug": "postschliv",
-  "ingested_at": "2026-04-18T20:38:29Z",
   "jurabk": "PostSchliV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 19
+  },
   "source_hashes": {
     "source_xml_sha256": "e62dbda83a489da568940ae8f5af8a0754157670e73e901ef26ad31d98939fc2"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung zur Regelung des Verfahrens der außergerichtlichen Streitbeilegung bei der Schlichtungsstelle Post der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

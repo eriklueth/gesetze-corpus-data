@@ -4,9 +4,12 @@
   "bjnr": "BJNR000190954",
   "eli": null,
   "gii_slug": "zhg_10pro",
-  "ingested_at": "2026-04-18T20:43:13Z",
   "jurabk": "ZHG§10PrO",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 4,
+    "paragraph": 42
+  },
   "source_hashes": {
     "source_xml_sha256": "d86ee136ee0f340c3042e04b6a11dcc2d8450c272870ddd930f13565dbae309d"
   },
@@ -17,5 +20,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Prüfungsordnung nach § 10 des Gesetzes über die Ausübung der Zahnheilkunde",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

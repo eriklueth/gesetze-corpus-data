@@ -4,9 +4,12 @@
   "bjnr": "BJNR172400996",
   "eli": null,
   "gii_slug": "mnrval",
-  "ingested_at": "2026-04-18T20:36:36Z",
   "jurabk": "MNrVAL",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 2,
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "b8c9b7a6f88b858e95d7bd23c85d7a88d05fe1bcc60c89010b00db017e61a648"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Vergabe und Zusammensetzung der Mitgliedsnummer in der Alterssicherung der Landwirte",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

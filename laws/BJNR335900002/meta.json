@@ -4,9 +4,12 @@
   "bjnr": "BJNR335900002",
   "eli": null,
   "gii_slug": "emvbeitrv_2002",
-  "ingested_at": "2026-04-18T20:32:17Z",
   "jurabk": "EMVBeitrV 2002",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 8
+  },
   "source_hashes": {
     "source_xml_sha256": "2492dfa36ace00c8809616016db53843e7b0a27bcf65d8898d6369c23bf90bb4"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über Beiträge nach dem Gesetz über die elektromagnetische Verträglichkeit von Geräten für die Jahre 1999, 2000, 2001 und 2002",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

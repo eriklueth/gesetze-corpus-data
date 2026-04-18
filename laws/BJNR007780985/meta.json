@@ -4,9 +4,9 @@
   "bjnr": "BJNR007780985",
   "eli": null,
   "gii_slug": "dbpbeamtrano_1985",
-  "ingested_at": "2026-04-18T20:31:34Z",
   "jurabk": "DBPBeamtRAnO 1985",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {},
   "source_hashes": {
     "source_xml_sha256": "9fe4a213f978fe4b9ae549339eef14f924b63fa0e2c22c4d8bf240dd0b00fb64"
   },
@@ -17,5 +17,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Anordnung über die Übertragung von Befugnissen auf dem Gebiete des Beamtenrechts im Bereich der Deutschen Bundespost und der Bundesdruckerei",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

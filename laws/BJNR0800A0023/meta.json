@@ -4,9 +4,12 @@
   "bjnr": "BJNR0800A0023",
   "eli": null,
   "gii_slug": "dupmedausbv",
-  "ingested_at": "2026-04-18T20:31:54Z",
   "jurabk": "DuPMedAusbV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "annex": 1,
+    "paragraph": 47
+  },
   "source_hashes": {
     "source_xml_sha256": "f2537e478b9b849cd28dc34586d0b9c64de32b0953ed152921064af95b6680b9"
   },
@@ -22,5 +25,5 @@
     }
   ],
   "title": "Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

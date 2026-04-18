@@ -4,9 +4,11 @@
   "bjnr": "BJNR204400997",
   "eli": null,
   "gii_slug": "gartausbsteignv",
-  "ingested_at": "2026-04-18T20:33:36Z",
   "jurabk": "GartAusbStEignV",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 5
+  },
   "source_hashes": {
     "source_xml_sha256": "2a8b6d70d434071d72dff73032f680402c3675e1785a83e4bd3c72e5fc69a32e"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Gärtner/zur Gärtnerin",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

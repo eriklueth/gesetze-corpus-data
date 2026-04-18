@@ -4,9 +4,11 @@
   "bjnr": "BJNR012880921",
   "eli": null,
   "gii_slug": "versaillervtrabkbelgabest",
-  "ingested_at": "2026-04-18T20:41:50Z",
   "jurabk": "VersaillerVtrAbkBELGABest",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "paragraph": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "fca12a89d8855e9d01a92474a28e782cff7e4fc4a3b1f6bdfdba0533d747d78e"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Ausführungsbestimmungen zum Gesetz betreffend das deutsch-belgische Abkommen zu Artikel 312 des Friedensvertrags vom 20. Juli 1921 (Reichsgesetzbl. S. 1177)",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

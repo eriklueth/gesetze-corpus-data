@@ -4,9 +4,11 @@
   "bjnr": "BJNR157120998",
   "eli": null,
   "gii_slug": "dbag_ltu",
-  "ingested_at": "2026-04-18T20:31:29Z",
   "jurabk": "DBAG LTU",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 3
+  },
   "source_hashes": {
     "source_xml_sha256": "8bab5fedd17868184bd9becc252cd742bf8a11ceb3caf3c359f1034ec1171d8d"
   },
@@ -17,5 +19,5 @@
   "stand_datum": null,
   "standangabe": [],
   "title": "Gesetz zu dem Abkommen vom 22. Juli 1997 zwischen der Bundesrepublik Deutschland und der Republik Litauen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }

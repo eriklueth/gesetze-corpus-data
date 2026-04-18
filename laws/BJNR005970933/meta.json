@@ -4,9 +4,11 @@
   "bjnr": "BJNR005970933",
   "eli": null,
   "gii_slug": "scheckg",
-  "ingested_at": "2026-04-18T20:39:31Z",
   "jurabk": "ScheckG",
-  "schema_version": "v1",
+  "schema_version": "v2",
+  "section_counts": {
+    "article": 67
+  },
   "source_hashes": {
     "source_xml_sha256": "97b0f92595508ad501a3ed1769602af8d513b1bcd8f1e7989620382f6c34b135"
   },
@@ -22,5 +24,5 @@
     }
   ],
   "title": "Scheckgesetz",
-  "tooling_version": "gesetze-corpus-tools@0.1.0"
+  "tooling_version": "gesetze-corpus-tools@0.2.0"
 }
