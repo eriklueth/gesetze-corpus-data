@@ -134,7 +134,7 @@
     },
     "_daprv": {
       "bjnr": "BJNR16E0A0023",
-      "source_xml_sha256": "fad95a5a86759fef4911fa58988d506840655b85314d7a3a47a8ef31e51aa4aa",
+      "source_xml_sha256": "9fe0420de1039e29ed015909be363d0da314906ca923a117fc0deddfe6e596bc",
       "title": "Verordnung über die Durchführung der Abschlussprüfung in den staatlich anerkannten Ausbildungsberufen des öffentlichen Dienstes",
       "zip_url": "https://www.gesetze-im-internet.de/_daprv/xml.zip"
     },
@@ -6888,6 +6888,12 @@
       "title": "Anordnung über die Übertragung beamtenrechtlicher Zuständigkeiten im Geschäftsbereich des Bundesministeriums für Verkehr, Bau und Stadtentwicklung",
       "zip_url": "https://www.gesetze-im-internet.de/bmvbsdelegatano_2013/xml.zip"
     },
+    "bmvbverfpaktv": {
+      "bjnr": "BJNR0680A0026",
+      "source_xml_sha256": "b422b521a0e1ac2a8ffd6d8872d6ed0f118ed1180d744e6e3e479850bd7ef57b",
+      "title": "Verordnung zur Ermöglichung der Anlegung, Führung oder Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Verkehr",
+      "zip_url": "https://www.gesetze-im-internet.de/bmvbverfpaktv/xml.zip"
+    },
     "bmvg-arbschganwv": {
       "bjnr": "BJNR185000002",
       "source_xml_sha256": "f5049563573b90aeaa6e4fdf1ec041d055b6677cc558ab8779e671c7fbe03465",
@@ -8912,7 +8918,7 @@
     },
     "chemverbotsv_2017": {
       "bjnr": "BJNR009410017",
-      "source_xml_sha256": "78c227680c051de7042e36a8ee55cc293ab12bc41ca683ba5c65fd04abcf3221",
+      "source_xml_sha256": "4f3273dbe04c32071fa807544ce6d9ceeb46e7a107c21bb3672aa630110856f1",
       "title": "Verordnung über Verbote und Beschränkungen des Inverkehrbringens und über die Abgabe bestimmter Stoffe, Gemische und Erzeugnisse nach dem Chemikaliengesetz",
       "zip_url": "https://www.gesetze-im-internet.de/chemverbotsv_2017/xml.zip"
     },
@@ -11486,13 +11492,13 @@
     },
     "enwg_2005": {
       "bjnr": "BJNR197010005",
-      "source_xml_sha256": "50f3e5ea3df794dd8378cfdcf84278408812ce5a07d978fc7041a559a0fde96d",
+      "source_xml_sha256": "6088056c160cb9bb292dbf69bfd7c11fb27acde383fb935b3d990027808edc80",
       "title": "Gesetz über die Elektrizitäts- und Gasversorgung",
       "zip_url": "https://www.gesetze-im-internet.de/enwg_2005/xml.zip"
     },
     "enwgkostv": {
       "bjnr": "BJNR054000006",
-      "source_xml_sha256": "f8f1199d48ddefd8e4223d2b4c64da479a9aa357f0bee98c539b3257c188a64a",
+      "source_xml_sha256": "ab1eb8f6798dabefb256dfb56dab5619cca55713c16b2251a1112b1d7c4a88a3",
       "title": "Verordnung über die Gebühren und Auslagen für Amtshandlungen der Bundesnetzagentur nach dem Energiewirtschaftsgesetz",
       "zip_url": "https://www.gesetze-im-internet.de/enwgkostv/xml.zip"
     },
@@ -26000,7 +26006,7 @@
     },
     "nabeg": {
       "bjnr": "BJNR169010011",
-      "source_xml_sha256": "f2fd7c47d5a74a24da9cfa3901dd2ba67ccff40ec8002a39d3c9694b4521426a",
+      "source_xml_sha256": "23adf16ea78b52b60bafcfbb044d3d8ab0319d6aff74dba68c4a49be59317c19",
       "title": "Netzausbaubeschleunigungsgesetz Übertragungsnetz",
       "zip_url": "https://www.gesetze-im-internet.de/nabeg/xml.zip"
     },
@@ -30722,7 +30728,7 @@
     },
     "safleischwig": {
       "bjnr": "BJNR257200017",
-      "source_xml_sha256": "447c4dd5ec3137810669ce3ea5054957fa01598e91af9f4bf10216d7caf29c64",
+      "source_xml_sha256": "bdf5b11c7db2a38c156a1c234f422f475b499c3c9dbf4d01dfc8d28247d15dab",
       "title": "Gesetz zur Sicherung von Arbeitnehmerrechten in der Fleischwirtschaft",
       "zip_url": "https://www.gesetze-im-internet.de/safleischwig/xml.zip"
     },
@@ -32216,7 +32222,7 @@
     },
     "sgb_12": {
       "bjnr": "BJNR302300003",
-      "source_xml_sha256": "2e18c2b9f6e8586de215375e8955c4a1b021d742e1ba75e036c31cf3a4d3c3e3",
+      "source_xml_sha256": "066c1b907e4ba07e94b35f4ad319903780a225331fa724385691119d01f2ddac",
       "title": "Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022)",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_12/xml.zip"
     },
@@ -33944,7 +33950,7 @@
     },
     "stpo": {
       "bjnr": "BJNR006290950",
-      "source_xml_sha256": "f38141ffd602351c2cabb19228350c83cdb243fe238d63278926480b02fed3df",
+      "source_xml_sha256": "1a5dfb8823aff6c4587f347569ad40010a2eb046df1ed6842c1c6ee82ead7190",
       "title": "Strafprozeßordnung",
       "zip_url": "https://www.gesetze-im-internet.de/stpo/xml.zip"
     },
@@ -41259,5 +41265,5 @@
   },
   "schema_version": "v2",
   "toc_source_url": "https://www.gesetze-im-internet.de/gii-toc.xml",
-  "updated_at": "2026-04-20T20:56:52Z"
+  "updated_at": "2026-04-22T21:39:50Z"
 }
