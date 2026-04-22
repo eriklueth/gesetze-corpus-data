@@ -5,26 +5,17 @@
       "changed_paths": [
         "laws/BJNR439100021/annexes/0000.md",
         "laws/BJNR439100021/meta.json",
-        "laws/BJNR439100021/paragraphs/0001.md",
-        "laws/BJNR439100021/paragraphs/0002.md",
-        "laws/BJNR439100021/paragraphs/0003.md",
-        "laws/BJNR439100021/paragraphs/0004.md",
-        "laws/BJNR439100021/paragraphs/0005.md",
-        "laws/BJNR439100021/source.xml"
+        "laws/BJNR439100021/source.xml",
+        "laws/BJNR439100021/toc.json"
       ],
       "jurabk": "BMGBGebV",
       "sections_added": [],
-      "sections_modified": [
-        "Anlage",
-        "§ 1",
-        "§ 2",
-        "§ 3",
-        "§ 4",
-        "§ 5"
+      "sections_modified": [],
+      "sections_removed": [
+        "Anlage"
       ],
-      "sections_removed": [],
-      "source_xml_sha256_after": "f5adf70c127424de1bbb853c4a7d63217f288ad2d3a7f32a7752bcf01fce38fe",
-      "source_xml_sha256_before": "e16414cc5ed3d432a2c257032a04b1662013d3506b789b6d074abd38ccbf4b75",
+      "source_xml_sha256_after": "5b586c94240c97eacf1597bb70bd038d30fba47d8f58dcf1277fff6a9c1404cf",
+      "source_xml_sha256_before": "f5adf70c127424de1bbb853c4a7d63217f288ad2d3a7f32a7752bcf01fce38fe",
       "stand_datum": "2026-04-22",
       "title": "Besondere Gebührenverordnung des Bundesministeriums für Gesundheit für die individuell zurechenbaren Leistungen in seinem Zuständigkeitsbereich"
     }
