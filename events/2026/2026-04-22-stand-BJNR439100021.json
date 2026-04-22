@@ -1,0 +1,41 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR439100021",
+      "changed_paths": [
+        "laws/BJNR439100021/annexes/0000.md",
+        "laws/BJNR439100021/meta.json",
+        "laws/BJNR439100021/paragraphs/0001.md",
+        "laws/BJNR439100021/paragraphs/0002.md",
+        "laws/BJNR439100021/paragraphs/0003.md",
+        "laws/BJNR439100021/paragraphs/0004.md",
+        "laws/BJNR439100021/paragraphs/0005.md",
+        "laws/BJNR439100021/source.xml"
+      ],
+      "jurabk": "BMGBGebV",
+      "sections_added": [],
+      "sections_modified": [
+        "Anlage",
+        "§ 1",
+        "§ 2",
+        "§ 3",
+        "§ 4",
+        "§ 5"
+      ],
+      "sections_removed": [],
+      "source_xml_sha256_after": "f5adf70c127424de1bbb853c4a7d63217f288ad2d3a7f32a7752bcf01fce38fe",
+      "source_xml_sha256_before": "e16414cc5ed3d432a2c257032a04b1662013d3506b789b6d074abd38ccbf4b75",
+      "stand_datum": "2026-04-22",
+      "title": "Besondere Gebührenverordnung des Bundesministeriums für Gesundheit für die individuell zurechenbaren Leistungen in seinem Zuständigkeitsbereich"
+    }
+  ],
+  "effective_date": "2026-04-22",
+  "event_id": "2026-04-22-stand-BJNR439100021",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
