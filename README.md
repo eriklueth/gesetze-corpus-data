@@ -6,7 +6,7 @@
 git log --follow --oneline -- laws/BJNR010050934/paragraphs/0007g.md
 ```
 
-Dieses Repo enthält **ausschließlich Daten**, niemals Code. Die Pipeline, die die Daten erzeugt, liegt im Sibling-Repo [`gesetze-online-corpus`](https://github.com/eriklueth/gesetze-online-corpus).
+Dieses Repo enthält **ausschließlich Daten**, niemals Code. Die Pipeline, die die Daten erzeugt, liegt im Sibling-Repo [`gesetze-online-corpus`](https://github.com/eriklueth/gesetze-online-corpus). Die Webapp, die auf dem Korpus Suche und AI-Reasoning aufsetzt, liegt in [`gesetze-online-app`](https://github.com/eriklueth/gesetze-online-app).
 
 ## Kennzahlen
 
@@ -103,6 +103,10 @@ git log --since=2026-04-01 --until=2026-04-10 --oneline
 git show <commit>:laws/BJNR001950896/paragraphs/0014a.md
 ```
 
+### In eigenen Projekten konsumieren
+
+Die Webapp [`gesetze-online-app`](https://github.com/eriklueth/gesetze-online-app) zeigt, wie man `derived/corpus.jsonl` + `derived/by-bjnr.json` als Quelle für einen Importer in Postgres / Supabase verwendet.
+
 ## Automatisierung
 
 Dieses Repo wird **vollautomatisch** befüllt:
@@ -110,6 +114,7 @@ Dieses Repo wird **vollautomatisch** befüllt:
 - Jeder Commit stammt aus der Pipeline (`law(...): stand <datum>` für Inhalt, `chore(sync): …` für Bookkeeping).
 - Die History wird nach dem initialen Snapshot **niemals rebased** — Commit-SHAs sind dauerhaft stabil.
 - Pull Requests auf die Daten selbst werden nicht angenommen. Datenfehler bitte als Issue im Tools-Repo melden: [`gesetze-online-corpus/issues`](https://github.com/eriklueth/gesetze-online-corpus/issues).
+- Diese README-Datei wird bei jedem `gesetze-corpus export`-Lauf automatisch neu geschrieben; manuelle Änderungen gehen beim nächsten Sync verloren. Quelle des Templates: `gesetze-online-corpus/gesetze_corpus/ingest/export.py`.
 
 ## Lizenz
 
