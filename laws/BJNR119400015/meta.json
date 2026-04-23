@@ -10,14 +10,18 @@
     "paragraph": 8
   },
   "source_hashes": {
-    "source_xml_sha256": "dad653b4dacbcc958ba166d2cf6af8b5770e0881b0673e999afac22b5dc555f6"
+    "source_xml_sha256": "5d5bffc05c8db992a2206f2e7d9eb78615d147f4d20a8e91bd33dd2f4cf85d39"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/dimrg/",
     "gii_xml_zip": "https://www.gesetze-im-internet.de/dimrg/xml.zip"
   },
-  "stand_datum": "2016-01-01",
+  "stand_datum": "2026-04-23",
   "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 12 G v. 23.4.2026 I Nr. 111",
+      "typ": "Stand"
+    },
     {
       "kommentar": "§ 1 Abs. 1 Satz 2 ist gem. § 8 Satz 2 dieses G am 1.1.2016 in Kraft getreten",
       "typ": "Sonst"
