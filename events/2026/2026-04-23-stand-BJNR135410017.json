@@ -1,0 +1,50 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR135410017",
+      "changed_paths": [
+        "laws/BJNR135410017/meta.json",
+        "laws/BJNR135410017/paragraphs/0003.md",
+        "laws/BJNR135410017/paragraphs/0004.md",
+        "laws/BJNR135410017/paragraphs/0012.md",
+        "laws/BJNR135410017/paragraphs/0026a.md",
+        "laws/BJNR135410017/paragraphs/0028.md",
+        "laws/BJNR135410017/paragraphs/0029.md",
+        "laws/BJNR135410017/paragraphs/0032.md",
+        "laws/BJNR135410017/paragraphs/0033a.md",
+        "laws/BJNR135410017/paragraphs/0033b.md",
+        "laws/BJNR135410017/paragraphs/0077.md",
+        "laws/BJNR135410017/source.xml",
+        "laws/BJNR135410017/toc.json"
+      ],
+      "jurabk": "BKAG 2018",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [
+        "§ 12",
+        "§ 26a",
+        "§ 28",
+        "§ 29",
+        "§ 3",
+        "§ 32",
+        "§ 33a",
+        "§ 33b",
+        "§ 4",
+        "§ 77"
+      ],
+      "source_xml_sha256_after": "5be4c3f819c98ccaa1c16912106b72ed40a88abf00558967e38432e1c09516ea",
+      "source_xml_sha256_before": "fe1cfd4f5b857e809b8341fcadb1bbfc856d88730fe3f6add851c8bdef470944",
+      "stand_datum": "2026-04-23",
+      "title": "Gesetz über das Bundeskriminalamt und die Zusammenarbeit des Bundes und der Länder in kriminalpolizeilichen Angelegenheiten"
+    }
+  ],
+  "effective_date": "2026-04-23",
+  "event_id": "2026-04-23-stand-BJNR135410017",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
