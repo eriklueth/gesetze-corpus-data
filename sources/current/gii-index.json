@@ -1112,14 +1112,14 @@
     },
     "alg": {
       "bjnr": "BJNR189100994",
-      "source_xml_sha256": "c59ae92cc7e88f8af6f2bcb6208321866167f22c45e4fb3d96f2d36cad526938",
+      "source_xml_sha256": "a601d211b003b84de4cbd2c12258d37dc0e4bd5c2f63da93247de354230d372f",
       "title": "Gesetz über die Alterssicherung der Landwirte",
       "zip_url": "https://www.gesetze-im-internet.de/alg/xml.zip"
     },
     "algiiv_2008": {
       "bjnr": "BJNR294200007",
-      "source_xml_sha256": "6faac29f3fcf69d277b92d7948736720b5c3782af83cc9bfedee737bab81de17",
-      "title": "Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld",
+      "source_xml_sha256": "43a42f6372fa29e8561866f302a3c87f518f0ba8592a3759c9adab396f9a1185",
+      "title": "Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen beim Bürgergeld *",
       "zip_url": "https://www.gesetze-im-internet.de/algiiv_2008/xml.zip"
     },
     "alkopopstg": {
@@ -1226,7 +1226,7 @@
     },
     "alttzg_1996": {
       "bjnr": "BJNR107810996",
-      "source_xml_sha256": "a05ba464fa0b5c96ae492aa3891ba5ad7a563eb3ac214a9c7935641cf3002088",
+      "source_xml_sha256": "ec8dbec55d0b908849e2fb590d03a39d240b4f70ad4244635695fd83a303a167",
       "title": "Altersteilzeitgesetz",
       "zip_url": "https://www.gesetze-im-internet.de/alttzg_1996/xml.zip"
     },
@@ -1532,7 +1532,7 @@
     },
     "ao_1977": {
       "bjnr": "BJNR006130976",
-      "source_xml_sha256": "b3b07bd6b48d72160a2d8ef44a2654cfddede2aaeddd2c8fd26f4def2cdbfac1",
+      "source_xml_sha256": "aae556f849d1c015e40602bcfe0d2f453594ba6f674085097d382eadb9bb8f69",
       "title": "Abgabenordnung",
       "zip_url": "https://www.gesetze-im-internet.de/ao_1977/xml.zip"
     },
@@ -2096,7 +2096,7 @@
     },
     "aufenthg_2004": {
       "bjnr": "BJNR195010004",
-      "source_xml_sha256": "98fd288e67e9b88cc7b1d8d43762b645e0a87cf75a4c739b534cac509852657b",
+      "source_xml_sha256": "aefab46bddfee5ae20bb8daa8c11cae95b814436afde3363c4d4bd928281213a",
       "title": "Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet 1)",
       "zip_url": "https://www.gesetze-im-internet.de/aufenthg_2004/xml.zip"
     },
@@ -2996,7 +2996,7 @@
     },
     "baf_g": {
       "bjnr": "BJNR014090971",
-      "source_xml_sha256": "b34ed2267d66570ec7bcd08d7e967f6b3db2564369a5116555efef8e1889edfb",
+      "source_xml_sha256": "6b10c745601bddfbaf6e45ca9c4337f719abfad4f9df01c72b39f970bf85343b",
       "title": "Bundesgesetz über individuelle Förderung der Ausbildung",
       "zip_url": "https://www.gesetze-im-internet.de/baf_g/xml.zip"
     },
@@ -5972,7 +5972,7 @@
     },
     "bjagdg": {
       "bjnr": "BJNR007800952",
-      "source_xml_sha256": "2c1554399a120eed34e770c848ee55c96de414afe301852c6872f033a6f129b3",
+      "source_xml_sha256": "a871ecbda52ba7cd895fb94e595120ac435b7f4087ccefb34080acb9d846a2f8",
       "title": "Bundesjagdgesetz",
       "zip_url": "https://www.gesetze-im-internet.de/bjagdg/xml.zip"
     },
@@ -6020,7 +6020,7 @@
     },
     "bkgg_1996": {
       "bjnr": "BJNR137800995",
-      "source_xml_sha256": "533f3cb6121355b302d555be45e09599b04c709556a8b4573679121c475e998f",
+      "source_xml_sha256": "ca09329cec78acc4a264f99e16d98437d49a248ed8fb1a8e5ed9c138ad4c7a8c",
       "title": "Bundeskindergeldgesetz",
       "zip_url": "https://www.gesetze-im-internet.de/bkgg_1996/xml.zip"
     },
@@ -9740,7 +9740,7 @@
     },
     "de_v": {
       "bjnr": "BJNR034310998",
-      "source_xml_sha256": "abfadfebef7eadaea1b693a0ddf1a06b24eb05d4b094839bbe90c1f4b8c77c07",
+      "source_xml_sha256": "50175f242264506615e95bf2178b3fe5d868ccf3da1333d29a78216f980f28ca",
       "title": "Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung",
       "zip_url": "https://www.gesetze-im-internet.de/de_v/xml.zip"
     },
@@ -9812,7 +9812,7 @@
     },
     "deuf_v": {
       "bjnr": "BJNR612500016",
-      "source_xml_sha256": "3eb4e706557785b6cfa1d36238cc7a2687c8a52a8c07936c85f0a29c504a5963",
+      "source_xml_sha256": "01b71f057deb538f7b704645533d542e8a279917745e399870b9d4de6103b2f6",
       "title": "Verordnung über die berufsbezogene Deutschsprachförderung",
       "zip_url": "https://www.gesetze-im-internet.de/deuf_v/xml.zip"
     },
@@ -11744,7 +11744,7 @@
     },
     "erreichbv": {
       "bjnr": "BJNR0CF0A0023",
-      "source_xml_sha256": "a0bc9a7832846ff3dbfaa147bec9c07eea4b30326f268f15e9185c3e1562c0ee",
+      "source_xml_sha256": "d1b884060faf3d0533957bdee233ce070adfaad25333c028c28e4980515b49aa",
       "title": "Verordnung zur Regelung weiterer Voraussetzungen der Erreichbarkeit erwerbsfähiger Leistungsberechtigter nach dem Zweiten Buch Sozialgesetzbuch",
       "zip_url": "https://www.gesetze-im-internet.de/erreichbv/xml.zip"
     },
@@ -13100,7 +13100,7 @@
     },
     "famfg": {
       "bjnr": "BJNR258700008",
-      "source_xml_sha256": "a97c7c6ed39a3335b27c712c103c2cd3894168c03c559b0da0a1ceb9b07c03ba",
+      "source_xml_sha256": "178d884a7e67b490ee2e3b3ef69e7f64dfe504a0753ec1da5353d4c4dfc9022a",
       "title": "Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
       "zip_url": "https://www.gesetze-im-internet.de/famfg/xml.zip"
     },
@@ -14570,7 +14570,7 @@
     },
     "futtmv_1981": {
       "bjnr": "BJNR003520981",
-      "source_xml_sha256": "10a25105cadfe75732e0d45fe08d72d696caec5f59c205f61f737d74fe7584c3",
+      "source_xml_sha256": "e89b8ebdd9077995adf229ba93ef2484533c0cf838a374deaece7f1bd684eff9",
       "title": "Futtermittelverordnung",
       "zip_url": "https://www.gesetze-im-internet.de/futtmv_1981/xml.zip"
     },
@@ -14840,7 +14840,7 @@
     },
     "gapdzv": {
       "bjnr": "BJNR013900022",
-      "source_xml_sha256": "1b0dd1dd0d18953e1f50357f369489d11f06e8d533d032efba3e04a2cd501dcb",
+      "source_xml_sha256": "1c86fa04c5b935669791c8434a9274ed07692edced058a926fd080d5f4af8327",
       "title": "Verordnung zur Durchführung der GAP-Direktzahlungen",
       "zip_url": "https://www.gesetze-im-internet.de/gapdzv/xml.zip"
     },
@@ -16754,7 +16754,7 @@
     },
     "grsidav": {
       "bjnr": "BJNR227310005",
-      "source_xml_sha256": "d30fd6539ffd68615cc2852b85beeb9d54c04dcc0c57593d9c7f20906b504908",
+      "source_xml_sha256": "cf87db0f42219fae041d330503274a8bacc89f9d2122221d14ab3fb3be5c7699",
       "title": "Verordnung über den automatisierten Datenabgleich bei Leistungen der Grundsicherung für Arbeitsuchende",
       "zip_url": "https://www.gesetze-im-internet.de/grsidav/xml.zip"
     },
@@ -19952,7 +19952,7 @@
     },
     "kinduvv": {
       "bjnr": "BJNR136410998",
-      "source_xml_sha256": "feddf43c5b8199219810887ceeb84b21c990e47765b02cd2e2f138d37e6deb40",
+      "source_xml_sha256": "c1d2549d463a444b57c936907b17557493fa314da51992dad33036a8b59e281c",
       "title": "Verordnung zur Einführung von Vordrucken für das vereinfachte Verfahren über den Unterhalt minderjähriger Kinder",
       "zip_url": "https://www.gesetze-im-internet.de/kinduvv/xml.zip"
     },
@@ -20984,7 +20984,7 @@
     },
     "kvlg_1989": {
       "bjnr": "BJNR025570988",
-      "source_xml_sha256": "eb248d12638b58e841ee2425faf2b8d2182a1a18a635dce0868f2824b63596e4",
+      "source_xml_sha256": "435c9f562f5fcc4008e08c1ec4a3264741f9be74994bf35dbf5f419a90b249d0",
       "title": "Zweites Gesetz über die Krankenversicherung der Landwirte",
       "zip_url": "https://www.gesetze-im-internet.de/kvlg_1989/xml.zip"
     },
@@ -25994,7 +25994,7 @@
     },
     "mzg": {
       "bjnr": "BJNR282610016",
-      "source_xml_sha256": "108b76f1daf11a99a452978142e56a24656259534f662bd325ebf22343e98959",
+      "source_xml_sha256": "0bd6a54f901598cf24cc96a57b88784eee58ac8d37176ae828b107f626a6d638",
       "title": "Gesetz zur Durchführung einer Repräsentativstatistik über die Bevölkerung und die Arbeitsmarktbeteiligung sowie die Wohnsituation der Haushalte",
       "zip_url": "https://www.gesetze-im-internet.de/mzg/xml.zip"
     },
@@ -28880,7 +28880,7 @@
     },
     "pstg": {
       "bjnr": "BJNR012210007",
-      "source_xml_sha256": "62f6d49f712da8d8e7639f1ca47c84d2da43f0d22722dd879e69f7d38e0c8e5c",
+      "source_xml_sha256": "b4c6c1cbb76ea6e25ad0cd0778af8b1c205e77c77540b9cb3ce03408961520d4",
       "title": "Personenstandsgesetz",
       "zip_url": "https://www.gesetze-im-internet.de/pstg/xml.zip"
     },
@@ -29444,7 +29444,7 @@
     },
     "rbeg_2021": {
       "bjnr": "BJNR285510020",
-      "source_xml_sha256": "729c4463331b7ee185b45937aea5d17e815fcf3963882b381f4644ce0126dda2",
+      "source_xml_sha256": "4b105a3fdc7c196c9d8eeba0d7796f78a1700cc5ba91e9165e14cf552c20c068",
       "title": "Gesetz zur Ermittlung der Regelbedarfe nach § 28 des Zwölften Buches Sozialgesetzbuch ab dem Jahr 2021",
       "zip_url": "https://www.gesetze-im-internet.de/rbeg_2021/xml.zip"
     },
@@ -29618,7 +29618,7 @@
     },
     "regzenserpg": {
       "bjnr": "BJNR164910021",
-      "source_xml_sha256": "8c825fa3ca601c618ce08eb5479974a0eb06293d83e128c63a7cf36c7ce09f94",
+      "source_xml_sha256": "8be24a2f15f3e646e3eb428aa95bab7ff4a04d2cc709ae1115afe872ebf025cc",
       "title": "Gesetz zur Erprobung von Verfahren eines Registerzensus",
       "zip_url": "https://www.gesetze-im-internet.de/regzenserpg/xml.zip"
     },
@@ -31904,7 +31904,7 @@
     },
     "seg": {
       "bjnr": "BJNR393300021",
-      "source_xml_sha256": "1bde175c037cf78bb16b1b9fa0a75502a426bbbd63da0646df5487ff2b0b5bb3",
+      "source_xml_sha256": "dd062727ebd9cb12e30b81998bd5834d46eeb903aac99815d986d7a96e0dd0a0",
       "title": "Gesetz über die Entschädigung der Soldatinnen und Soldaten",
       "zip_url": "https://www.gesetze-im-internet.de/seg/xml.zip"
     },
@@ -32198,7 +32198,7 @@
     },
     "sgb_10": {
       "bjnr": "BJNR114690980",
-      "source_xml_sha256": "b29d8c72635f525a97227eef7336ed5e675ec727a3dd018e182b0e6c126e1073",
+      "source_xml_sha256": "55a3215bff05dc8c6d734914084fba6089e884c8f926178fd10855891a9c9587",
       "title": "Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz -",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_10/xml.zip"
     },
@@ -32216,61 +32216,61 @@
     },
     "sgb_11": {
       "bjnr": "BJNR101500994",
-      "source_xml_sha256": "820a0e2fff58ec5477c9a297d2aed45201991e559d91d66e0826166946e83615",
+      "source_xml_sha256": "4c06937f3d8e0e4eb30b43b2a6d9b132c5e6b0aabd339e89679d9788e4d09877",
       "title": "Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_11/xml.zip"
     },
     "sgb_12": {
       "bjnr": "BJNR302300003",
-      "source_xml_sha256": "066c1b907e4ba07e94b35f4ad319903780a225331fa724385691119d01f2ddac",
+      "source_xml_sha256": "0752428c6b06198e59574c8350c221a1b5c20fb8cf3e22aec360de0fa5883f93",
       "title": "Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022)",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_12/xml.zip"
     },
     "sgb_14": {
       "bjnr": "BJNR265210019",
-      "source_xml_sha256": "925444c5b28df4807105e740904f5cc2fe71e48f2363aed50d72ba20b241bd2b",
+      "source_xml_sha256": "e8a6d69f0fffd66be992110b7b41673928770ba41568177b0473f2a6cdadbbc1",
       "title": "Sozialgesetzbuch Vierzehntes Buch - Soziale Entschädigung -",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_14/xml.zip"
     },
     "sgb_2": {
       "bjnr": "BJNR295500003",
-      "source_xml_sha256": "38cd0483b7c15f3793278718620f092b5e1afad7f38dead0d5e4e0ba7bd7a000",
-      "title": "Sozialgesetzbuch (SGB) Zweites Buch (II) - Bürgergeld, Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)",
+      "source_xml_sha256": "ccdafc3ad7b1a59f939208111c7d4382e5422251e4f05257e69757f13f24679a",
+      "title": "Sozialgesetzbuch (SGB) Zweites Buch (II) - Bürgergeld, Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954) *",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_2/xml.zip"
     },
     "sgb_3": {
       "bjnr": "BJNR059500997",
-      "source_xml_sha256": "bd8e833a46c5283baf80358aee9402fd3701c11d7398ab749480761ed2b1e9af",
+      "source_xml_sha256": "c01133444507d116d1f664553678e6967f4a0a0c52982de8bca5ae2c0212b4bf",
       "title": "Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594)",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_3/xml.zip"
     },
     "sgb_4": {
       "bjnr": "BJNR138450976",
-      "source_xml_sha256": "e31f79148d4ef42cd59aca7dd6c148c3490bd095576f856cb8c01f0a86fbbdac",
+      "source_xml_sha256": "28892315cd2a9894fa2be1e870d15b2c18aee361fec911390e44506f624ecb39",
       "title": "Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_4/xml.zip"
     },
     "sgb_5": {
       "bjnr": "BJNR024820988",
-      "source_xml_sha256": "8440ab1ee4c2bd432f153b247cc8086ed0d05c7528ed525d2bcfbc0c15d49615",
+      "source_xml_sha256": "346b70ea2b2e92cc0e00fa35e839e5c7838ec8f4d1981deb01836974be88743d",
       "title": "Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_5/xml.zip"
     },
     "sgb_6": {
       "bjnr": "BJNR122610989",
-      "source_xml_sha256": "e0e0bdd105b405ffe96a881a4c475e6df4b8191c685dba9f291e4691f4f66cbf",
+      "source_xml_sha256": "38eaf7a0d9837ba7ef18cc341023e2977cfc645a745bb964a0a813e222824e7e",
       "title": "Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_6/xml.zip"
     },
     "sgb_7": {
       "bjnr": "BJNR125410996",
-      "source_xml_sha256": "ee6277d0f6d0010ee8d97e6d53972b490548cf4f65d7bb842110a67642948659",
+      "source_xml_sha256": "6e60b6246f9ba190ac041b097a6fdeeeeb61c53f284871b7c8c5aad2eaf8480b",
       "title": "Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254)",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_7/xml.zip"
     },
     "sgb_8": {
       "bjnr": "BJNR111630990",
-      "source_xml_sha256": "05b00b482af565d4e1c24b31e525e895ec3859bb6731fba644eee63626a1c66e",
+      "source_xml_sha256": "2d009bc11f36bde58bdac118dd5eee62f684fd9e62f4aa28c35a3620e183dfd9",
       "title": "Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_8/xml.zip"
     },
@@ -39020,7 +39020,7 @@
     },
     "wofg": {
       "bjnr": "BJNR237610001",
-      "source_xml_sha256": "67600cd870b509af8cef3cfb2879e81c698934b343f3581062e7d74958bee70a",
+      "source_xml_sha256": "24d3ba79200e5410a9cf3b12735fdb76aed49bbf6191bc893e408573198c1973",
       "title": "Gesetz über die soziale Wohnraumförderung",
       "zip_url": "https://www.gesetze-im-internet.de/wofg/xml.zip"
     },
@@ -39038,7 +39038,7 @@
     },
     "wogg": {
       "bjnr": "BJNR185610008",
-      "source_xml_sha256": "03f18a94df441e0fa06da30ba81c47d42125ffafc339e893781582ffb64d55b6",
+      "source_xml_sha256": "c5e5183e7a4463890eb469a07f75789d1c6319ff2733db8eca6819a6e369acee",
       "title": "Wohngeldgesetz",
       "zip_url": "https://www.gesetze-im-internet.de/wogg/xml.zip"
     },
@@ -41265,5 +41265,5 @@
   },
   "schema_version": "v2",
   "toc_source_url": "https://www.gesetze-im-internet.de/gii-toc.xml",
-  "updated_at": "2026-04-22T23:49:26Z"
+  "updated_at": "2026-04-23T02:40:11Z"
 }
