@@ -8906,8 +8906,8 @@
     },
     "chemozonschichtv": {
       "bjnr": "BJNR263800006",
-      "source_xml_sha256": "c515932e2b52d5a14e15f7778a41ff2cce55eda571443621da498a8168397a6e",
-      "title": "Verordnung über Stoffe, die die Ozonschicht schädigen",
+      "source_xml_sha256": "de6538bf3e654d82afb89d0459ef52ca16961e279dcee76dd0048d6be9e8b002",
+      "title": "Verordnung über ozonabbauende Stoffe und zur Durchführung der Verordnung (EU) 2024/590",
       "zip_url": "https://www.gesetze-im-internet.de/chemozonschichtv/xml.zip"
     },
     "chemsanktionsv": {
@@ -8918,7 +8918,7 @@
     },
     "chemverbotsv_2017": {
       "bjnr": "BJNR009410017",
-      "source_xml_sha256": "4f3273dbe04c32071fa807544ce6d9ceeb46e7a107c21bb3672aa630110856f1",
+      "source_xml_sha256": "cdeed7c5377c71d27ff2079451f3883a8473a48332e24375599b024118ddbe53",
       "title": "Verordnung über Verbote und Beschränkungen des Inverkehrbringens und über die Abgabe bestimmter Stoffe, Gemische und Erzeugnisse nach dem Chemikaliengesetz",
       "zip_url": "https://www.gesetze-im-internet.de/chemverbotsv_2017/xml.zip"
     },
@@ -10472,7 +10472,7 @@
     },
     "ebewmg": {
       "bjnr": "BJNR0400B0026",
-      "source_xml_sha256": "08317f0794103b4c99aa5ea5e2edb54575336d81773d678fa9f8f3a2243f3caf",
+      "source_xml_sha256": "1c057c23911f3ef6d092ef53405a3bb12ecc5422bf75e3b757dff3bd11e785e6",
       "title": "Gesetz über Europäische Herausgabe- und Sicherungsanordnungen zu elektronischen Beweismitteln",
       "zip_url": "https://www.gesetze-im-internet.de/ebewmg/xml.zip"
     },
@@ -19352,7 +19352,7 @@
     },
     "kagb": {
       "bjnr": "BJNR198110013",
-      "source_xml_sha256": "c99aa776db44874cde114c7450c2457d906bd15451cde15991260f4608305b48",
+      "source_xml_sha256": "343b68a3148eecfe131139bf08e4094cb57f07b4c818aa018c0e499727215c39",
       "title": "Kapitalanlagegesetzbuch",
       "zip_url": "https://www.gesetze-im-internet.de/kagb/xml.zip"
     },
@@ -32216,7 +32216,7 @@
     },
     "sgb_11": {
       "bjnr": "BJNR101500994",
-      "source_xml_sha256": "4c06937f3d8e0e4eb30b43b2a6d9b132c5e6b0aabd339e89679d9788e4d09877",
+      "source_xml_sha256": "aa7ee59cd9f4a143ccca64dd2691a0798a9f51395d57e03cf92d3a07decf695a",
       "title": "Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_11/xml.zip"
     },
@@ -32234,7 +32234,7 @@
     },
     "sgb_2": {
       "bjnr": "BJNR295500003",
-      "source_xml_sha256": "ccdafc3ad7b1a59f939208111c7d4382e5422251e4f05257e69757f13f24679a",
+      "source_xml_sha256": "4e1b2b7c4544eed6517d757f48f4793ccc4d900587380f2fb4ea7fcba3a9c8b5",
       "title": "Sozialgesetzbuch (SGB) Zweites Buch (II) - Bürgergeld, Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954) *",
       "zip_url": "https://www.gesetze-im-internet.de/sgb_2/xml.zip"
     },
@@ -41265,5 +41265,5 @@
   },
   "schema_version": "v2",
   "toc_source_url": "https://www.gesetze-im-internet.de/gii-toc.xml",
-  "updated_at": "2026-04-23T02:40:11Z"
+  "updated_at": "2026-04-24T05:33:44Z"
 }
