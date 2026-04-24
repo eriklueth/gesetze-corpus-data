@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR0400B0026",
+      "changed_paths": [
+        "laws/BJNR0400B0026/meta.json",
+        "laws/BJNR0400B0026/source.xml"
+      ],
+      "jurabk": "EBewMG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "1c057c23911f3ef6d092ef53405a3bb12ecc5422bf75e3b757dff3bd11e785e6",
+      "source_xml_sha256_before": "08317f0794103b4c99aa5ea5e2edb54575336d81773d678fa9f8f3a2243f3caf",
+      "stand_datum": null,
+      "title": "Gesetz über Europäische Herausgabe- und Sicherungsanordnungen zu elektronischen Beweismitteln"
+    }
+  ],
+  "effective_date": "2026-04-24",
+  "event_id": "2026-04-24-stand-BJNR0400B0026",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
