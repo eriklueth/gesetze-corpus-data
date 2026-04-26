@@ -1,0 +1,28 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR03D0B0026",
+      "changed_paths": [
+        "laws/BJNR03D0B0026/meta.json",
+        "laws/BJNR03D0B0026/source.xml"
+      ],
+      "jurabk": "TierSeuchMeldV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "1d103e6d6776dba20aaed5c118f34fb8715c2c77f0068008c0130503ba9e76e8",
+      "source_xml_sha256_before": "b4f48be41b57e69b9d4aa48b7bfc6b70b28fc0189dc5a37ac7610e5bae484511",
+      "stand_datum": null,
+      "title": "Verordnung über die Meldung von Seuchen bei Tieren"
+    }
+  ],
+  "effective_date": "2026-04-26",
+  "event_id": "2026-04-26-stand-BJNR03D0B0026",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
