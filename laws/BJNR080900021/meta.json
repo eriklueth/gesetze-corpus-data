@@ -10,14 +10,19 @@
     "paragraph": 15
   },
   "source_hashes": {
-    "source_xml_sha256": "454339a3b387e9d3190323d257ca2a813ceac47766f0f109ed63056bce4a105a"
+    "source_xml_sha256": "86ffb7c521bb67b228f45df0448a1705d4a669fb4e7765681425ea14a8d56d83"
   },
   "source_urls": {
     "gii_html": "https://www.gesetze-im-internet.de/wregv/",
     "gii_xml_zip": "https://www.gesetze-im-internet.de/wregv/xml.zip"
   },
-  "stand_datum": null,
-  "standangabe": [],
+  "stand_datum": "2026-04-27",
+  "standangabe": [
+    {
+      "kommentar": "Geändert durch Art. 6 G v. 27.4.2026 I Nr. 119",
+      "typ": "Stand"
+    }
+  ],
   "title": "Verordnung über den Betrieb des Registers zum Schutz des Wettbewerbs um öffentliche Aufträge und Konzessionen",
   "tooling_version": "gesetze-corpus-tools@0.2.0"
 }
