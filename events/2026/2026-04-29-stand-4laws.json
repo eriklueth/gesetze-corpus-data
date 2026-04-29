@@ -1,0 +1,73 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR007440992",
+      "changed_paths": [
+        "laws/BJNR007440992/meta.json",
+        "laws/BJNR007440992/source.xml"
+      ],
+      "jurabk": "IntKonnBek 1992",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "9c099a36fd7effc97e44b267c9f6347de4698e9aecb74dbe55665be42e1e94f7",
+      "source_xml_sha256_before": "247888a64ac1cd696da5b144dcb4fce3cc0178c6cf09efc3dc77fbf514bf7671",
+      "stand_datum": null,
+      "title": "Bekanntmachung nach Artikel 6 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch"
+    },
+    {
+      "bjnr": "BJNR015770977",
+      "changed_paths": [
+        "laws/BJNR015770977/meta.json",
+        "laws/BJNR015770977/source.xml"
+      ],
+      "jurabk": "SchErsRÄndG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "467355ac0e06d2fcc33c72ff25b5d3f3f8b8b0c04479a150982a225cf1d7a8ff",
+      "source_xml_sha256_before": "c474aea1f9b7ab7b940d77a54ff2b0a2ddc5868f2af423cdda7410db7f625197",
+      "stand_datum": null,
+      "title": "Gesetz zur Änderung schadensersatzrechtlicher Vorschriften"
+    },
+    {
+      "bjnr": "BJNR021580990",
+      "changed_paths": [
+        "laws/BJNR021580990/meta.json",
+        "laws/BJNR021580990/source.xml"
+      ],
+      "jurabk": "UWG/EinigVtrEÜbV",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "8d464d8a59147486faf13afbb53be3c7225afc5904321bea8eed0c8807360d48",
+      "source_xml_sha256_before": "c244dc39291db335e93d43848aa836bbee9bd0caec46fab066ef844c4b0ddd31",
+      "stand_datum": null,
+      "title": "Verordnung über die Übertragung der Ermächtigung nach § 3 Abs. 6 der besonderen Bestimmungen zur Einführung der Rechtsvorschriften auf dem Gebiet des gewerblichen Rechtsschutzes im Einigungsvertrag"
+    },
+    {
+      "bjnr": "BJNR210690974",
+      "changed_paths": [
+        "laws/BJNR210690974/meta.json",
+        "laws/BJNR210690974/source.xml"
+      ],
+      "jurabk": "UrkBefrITAG",
+      "sections_added": [],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "e1ec4b4db3de32b612da287cee35ae2e56d1e1684211af59a4fccd0318ee31dc",
+      "source_xml_sha256_before": "bd84259ddadb991bdac27e75e11262b2f842e3b4019cc267499feb0e1b3d42e8",
+      "stand_datum": null,
+      "title": "Gesetz zu dem Vertrag vom 7. Juni 1969 zwischen der Bundesrepublik Deutschland und der Italienischen Republik über den Verzicht auf die Legalisation von Urkunden"
+    }
+  ],
+  "effective_date": "2026-04-29",
+  "event_id": "2026-04-29-stand-4laws",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
