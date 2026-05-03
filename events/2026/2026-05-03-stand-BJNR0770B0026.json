@@ -1,0 +1,62 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR0770B0026",
+      "changed_paths": [
+        "laws/BJNR0770B0026/meta.json",
+        "laws/BJNR0770B0026/paragraphs/0001.md",
+        "laws/BJNR0770B0026/paragraphs/0002.md",
+        "laws/BJNR0770B0026/paragraphs/0003.md",
+        "laws/BJNR0770B0026/paragraphs/0004.md",
+        "laws/BJNR0770B0026/paragraphs/0005.md",
+        "laws/BJNR0770B0026/paragraphs/0006.md",
+        "laws/BJNR0770B0026/paragraphs/0007.md",
+        "laws/BJNR0770B0026/paragraphs/0008.md",
+        "laws/BJNR0770B0026/paragraphs/0009.md",
+        "laws/BJNR0770B0026/paragraphs/0010.md",
+        "laws/BJNR0770B0026/paragraphs/0011.md",
+        "laws/BJNR0770B0026/paragraphs/0012.md",
+        "laws/BJNR0770B0026/paragraphs/0013.md",
+        "laws/BJNR0770B0026/paragraphs/0014.md",
+        "laws/BJNR0770B0026/paragraphs/0015.md",
+        "laws/BJNR0770B0026/paragraphs/0016.md",
+        "laws/BJNR0770B0026/source.xml",
+        "laws/BJNR0770B0026/toc.json"
+      ],
+      "jurabk": "BTTG",
+      "sections_added": [
+        "§ 1",
+        "§ 10",
+        "§ 11",
+        "§ 12",
+        "§ 13",
+        "§ 14",
+        "§ 15",
+        "§ 16",
+        "§ 2",
+        "§ 3",
+        "§ 4",
+        "§ 5",
+        "§ 6",
+        "§ 7",
+        "§ 8",
+        "§ 9"
+      ],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "0fc986211ed206ebc559fb792769e61b62aed7ce5972b199053e30c621fd4839",
+      "source_xml_sha256_before": null,
+      "stand_datum": null,
+      "title": "Gesetz zur Sicherung der Tariftreue bei der Vergabe und Ausführung öffentlicher Aufträge und Konzessionen des Bundes"
+    }
+  ],
+  "effective_date": "2026-05-03",
+  "event_id": "2026-05-03-stand-BJNR0770B0026",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
