@@ -1110,6 +1110,17 @@
       "title": "Bekanntmachung des Beitrags in der Alterssicherung der Landwirte für das Jahr 2026",
       "zip_url": "https://www.gesetze-im-internet.de/albeitrbek_2026/xml.zip"
     },
+    "alehrv": {
+      "bjnr": "BJNR07D0A0026",
+      "source_http": {
+        "content_length": "5064",
+        "etag": "\"13c8-6513fa8882788\"",
+        "last_modified": "Thu, 07 May 2026 19:55:12 GMT"
+      },
+      "source_xml_sha256": "b272c42c1b3c3d3ed7ac78b8d63ee1f06886461120718a011d314b8032f89f2b",
+      "title": "Verordnung über die allgemeine Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals an der Hochschule des Bundes für öffentliche Verwaltung",
+      "zip_url": "https://www.gesetze-im-internet.de/alehrv/xml.zip"
+    },
     "alg": {
       "bjnr": "BJNR189100994",
       "source_xml_sha256": "5154932d6306659b42c79cf8b9f7641a55bafeca54c23b762a0bceb80981168f",
@@ -41271,5 +41282,5 @@
   },
   "schema_version": "v2",
   "toc_source_url": "https://www.gesetze-im-internet.de/gii-toc.xml",
-  "updated_at": "2026-05-06T05:27:40Z"
+  "updated_at": "2026-05-09T02:21:02Z"
 }
