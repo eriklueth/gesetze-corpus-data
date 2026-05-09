@@ -1,0 +1,56 @@
+{
+  "affected": [
+    {
+      "bjnr": "BJNR07D0A0026",
+      "changed_paths": [
+        "laws/BJNR07D0A0026/meta.json",
+        "laws/BJNR07D0A0026/paragraphs/0001.md",
+        "laws/BJNR07D0A0026/paragraphs/0002.md",
+        "laws/BJNR07D0A0026/paragraphs/0003.md",
+        "laws/BJNR07D0A0026/paragraphs/0004.md",
+        "laws/BJNR07D0A0026/paragraphs/0005.md",
+        "laws/BJNR07D0A0026/paragraphs/0006.md",
+        "laws/BJNR07D0A0026/paragraphs/0007.md",
+        "laws/BJNR07D0A0026/paragraphs/0008.md",
+        "laws/BJNR07D0A0026/paragraphs/0009.md",
+        "laws/BJNR07D0A0026/paragraphs/0010.md",
+        "laws/BJNR07D0A0026/paragraphs/0011.md",
+        "laws/BJNR07D0A0026/paragraphs/0012.md",
+        "laws/BJNR07D0A0026/paragraphs/0013.md",
+        "laws/BJNR07D0A0026/source.xml",
+        "laws/BJNR07D0A0026/toc.json"
+      ],
+      "jurabk": "ALehrV",
+      "sections_added": [
+        "§ 1",
+        "§ 10",
+        "§ 11",
+        "§ 12",
+        "§ 13",
+        "§ 2",
+        "§ 3",
+        "§ 4",
+        "§ 5",
+        "§ 6",
+        "§ 7",
+        "§ 8",
+        "§ 9"
+      ],
+      "sections_modified": [],
+      "sections_removed": [],
+      "source_xml_sha256_after": "b272c42c1b3c3d3ed7ac78b8d63ee1f06886461120718a011d314b8032f89f2b",
+      "source_xml_sha256_before": null,
+      "stand_datum": null,
+      "title": "Verordnung über die allgemeine Lehrverpflichtung des hauptberuflichen wissenschaftlichen Personals an der Hochschule des Bundes für öffentliche Verwaltung"
+    }
+  ],
+  "effective_date": "2026-05-09",
+  "event_id": "2026-05-09-stand-BJNR07D0A0026",
+  "schema_version": "v2",
+  "source_type": "gii-stand-datum",
+  "tooling_version": "gesetze-corpus-tools@0.2.0",
+  "verification": {
+    "method": "gii-xml-sha256",
+    "notes": "effective_date derived from meta.json stand_datum; per-section A/M/D derived from git working tree"
+  }
+}
