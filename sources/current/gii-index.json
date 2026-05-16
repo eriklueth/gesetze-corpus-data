@@ -17399,6 +17399,17 @@
       "title": "Verordnung über die Gleichstellung von Personen nach § 3 des Häftlingshilfegesetzes",
       "zip_url": "https://www.gesetze-im-internet.de/hhg_3v/xml.zip"
     },
+    "hhgsch_v": {
+      "bjnr": "BJNR0800A0026",
+      "source_http": {
+        "content_length": "1467",
+        "etag": "\"5bb-651b85b73268c\"",
+        "last_modified": "Wed, 13 May 2026 19:55:10 GMT"
+      },
+      "source_xml_sha256": "16b2378fe97acad0cb20ce03b3a18391b0652fde26d49d2e3238aadb3f63e91e",
+      "title": "Verordnung über die schädigenden Ereignisse und gesundheitlichen Schädigungen im Sinne des § 4 Absatz 6 Satz 1 des Häftlingshilfegesetzes",
+      "zip_url": "https://www.gesetze-im-internet.de/hhgsch_v/xml.zip"
+    },
     "hikassgaufhg": {
       "bjnr": "BJNR009850911",
       "source_xml_sha256": "40dcabbb354cd3610f61264be6dda0a924fd9d56e38264e5440318e925fc7583",
@@ -22258,6 +22269,17 @@
       "source_xml_sha256": "4657d51d7596386a7fca895ccff27285d2813b6ed62b6a14c29660513764f4ae",
       "title": "Zweihundertvierzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Niederrhein)",
       "zip_url": "https://www.gesetze-im-internet.de/luftvodv_214/xml.zip"
+    },
+    "luftvodv_214_2026": {
+      "bjnr": "BJNR1430B0025",
+      "source_http": {
+        "content_length": "856",
+        "etag": "\"358-651b85b751a8f\"",
+        "last_modified": "Wed, 13 May 2026 19:55:10 GMT"
+      },
+      "source_xml_sha256": "b4ff8b5bf7000138661bb2c7e6379641db8cf2132e4ad51d6c2429ca2577722b",
+      "title": "Zweihundertvierzehnte Durchführungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Niederrhein)",
+      "zip_url": "https://www.gesetze-im-internet.de/luftvodv_214_2026/xml.zip"
     },
     "luftvodv_215": {
       "bjnr": "BJNR579200003",
@@ -41282,5 +41304,5 @@
   },
   "schema_version": "v2",
   "toc_source_url": "https://www.gesetze-im-internet.de/gii-toc.xml",
-  "updated_at": "2026-05-12T02:20:13Z"
+  "updated_at": "2026-05-16T02:17:10Z"
 }
